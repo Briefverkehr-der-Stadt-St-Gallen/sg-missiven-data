@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 150</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_150_299/300</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bischof Heinrich von Konstanz bittet Bürgermeister und Rat zu St. Gallen darum,
+                    die Ihrigen dazu zu bringen, dass sie wegen Holzfrevel in seinem Wäldern in der
+                    Umgebung von Arbon Kundschaft ablegen, damit sie der Bischof nicht gerichtlich
+                    vorladen muss, was er ungern täte. Er bittet um eine Antwort.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-186">Holz</term>
+                    <term ref="stadtasg-keywords-76">Delikt</term>
+                    <term ref="stadtasg-keywords-106">Diebstahl</term>
+                    <term ref="stadtasg-keywords-187">Kundschaft</term>
+                    <term ref="stadtasg-keywords-188">Bischof</term>
+                    <term ref="stadtasg-keywords-217">Antwort</term>
+                    <term ref="stadtasg-keywords-615">Wald</term>
+                    <term ref="stadtasg-keywords-540">Schloss</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-55">Bischof Heinrich von Konstanz und Verweser von Chur</persName>
+                    <placeName ref="stadtasg-places-17">Gottlieben Schloss</placeName>
+                    <date>1442-08-30</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-06-03</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_150_299.JPG" n="1"/>
+            <p>
+                <lb n="1"/><persName ref="stadtasg-actors-55" role="issuer">Hainrich</persName> von gottes gnaden bischoff
+                zuo <placeName ref="stadtasg-places-7">Costentz</placeName>
+                <lb n="2"/>und verweser des stiffts zuo <placeName ref="stadtasg-places-114">Chure</placeName>. <lb n="3"
+                />Unsern fruntlichen grueß ersamen wisen besundern guoten fründ. Wir habend ettliche
+                hoeltzer by <lb n="4"/>und umb üch liggen, die zuo unserm schloß
+                <placeName ref="stadtasg-places-5">Arbon</placeName> gehoeren. Daran uns und unserm stifft von ettlichen
+                    <lb n="5"/>unsern umbsessnen merglich bruch und intraeg beschechen, als dann
+                ettlichen den üwern wol <lb n="6"/>zuo wissen ist, die nu umb die sachen nit sagen
+                noch kuntschafft geben wollen, sy werden <lb n="7"/>dann zuo solichem gehalten.
+                Bitten wir uch mit ernst früntlich, mit den üwern, an die <lb n="8"/>dann wir oder
+                die unsern soelich sachen zügen, zuo schaffen, uns der warhait, so ver in dann <lb
+                    n="9"/>davon zuo wissen ist, kuntschafft zugeben und uns das nit zuoverzihen,
+                nach dem und dann <lb n="10"/>im rechten billich ist. Danne soelten oder muesten wir
+                si darumb mit recht furnemen, taeten <lb n="11"/>wir nit gern. Darumb so wellen üch
+                hierin so früntlich bewisen, als wir des ain sunder <lb n="12"/>getrüwen zuo uch
+                haben. Das wollen wir in meren sachen umb üch beschulden. Üwer <lb n="13"/>antwurt.
+                Geben in unserm <placeName ref="stadtasg-places-17">schloss Gottlieben</placeName> uff <origDate
+                    when="1442-08-30">donrstag nach sant Polegyen tag <lb n="14"/>anno etc. XLII
+                    do</origDate>. <pb facs="StadtASG_Missive_150_300.JPG" n="2"/>
+                <lb n="15"/>Den ersamen wisen unsern besundern guoten <lb n="16"/>fründen dem
+                <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rate zuo <lb n="17"/>sant
+                    Gallen</orgName>. </p>
+        </body>
+    </text>
+</TEI>

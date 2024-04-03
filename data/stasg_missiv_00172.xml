@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 172</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_172_343/344</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Dorothea von Altstätten erwidert Bürgermeister und Rat zu St. Gallen, die ihr
+                    wegen den Kriegshandlungen geschrieben haben, dass sie mit ihren Leuten sprechen
+                    werde, damit sich diese in die laufende Auseinandersetzung der St. Galler nicht
+                    einmischen werden.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-214">Krieg</term>
+                    <term ref="stadtasg-keywords-215">Alter Zürichkrieg</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-44">Dorothea von Altstätten</persName>
+                    
+                    <date>1444-05-17</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-01-03</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_172_343.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min fruentlich dienst und alles guet wissint alzit vor an lieben gueten
+                    <lb n="2"/>fruend. Als ir mir geschriben hand von des kriegs und der loeff
+                wegen, <lb n="3"/>also hab ich uewer maynung woll verstanden und pin des vast fro,
+                    <lb n="4"/>wonn es mir und den minen zemol uebel kaemy, soelt uech der krieg <lb
+                    n="5"/>an gon. Also las ich uech wissen lieben gueten fruend, daz ich darin min
+                    <lb n="6"/>aller best tuon wil und all min vermuegen und wil mit den minen <lb
+                    n="7"/>reden, so ver ich kan und mag, daz sy der sachen muessig ganging ze <lb
+                    n="8"/>beden taylen, wonn ich wol verston, daz das myn nutz und min fug <lb
+                    n="9"/>ist lieben gueten fruend, land uech mich und min arm luet bevolhen <lb
+                    n="10"/>sin. Geben an <origDate when="1444-05-17">sunentag naechst vor der
+                    uffart anno etc. XLIIII</origDate>. <lb n="11"/><persName ref="stadtasg-actors-44"
+                    role="issuer">Dorothea von <lb n="12"/>Altstetten</persName>. <pb
+                    facs="StadtASG_Missive_172_344.JPG" n="2"/>
+                <lb n="13"/>Dem ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister <lb n="14"
+                    />und raett ze sant Gallen</orgName> minen be <lb break="no" n="15"/>sundern
+                gueten fruenden. </p>
+        </body>
+    </text>
+</TEI>

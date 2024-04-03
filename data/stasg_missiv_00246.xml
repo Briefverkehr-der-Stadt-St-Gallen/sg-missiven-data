@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 246</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_246_493/494</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Wangen informieren Bürgermeister und Rat zu St. Gallen
+                    darüber, dass sie trotz der Einladung von St. Gallen keine Delegation zu einer
+                    Verhandlung am 3. Oktober nach St. Gallen schicken werden, weil der Abt des
+                    Benediktinerklosters St. Gallen, ihr Herr, sie nicht dazu aufgefordert habe.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-239">Einladung</term>
+                    <term ref="stadtasg-keywords-130">Ratsdelegation</term>
+                    <term ref="stadtasg-keywords-292">Absage</term>
+                    <term ref="stadtasg-keywords-37">Verhandlung</term>
+                    <term ref="stadtasg-keywords-">Abt</term>
+                    <term ref="stadtasg-keywords-">Kloster</term>
+                    <term ref="stadtasg-keywords-">Rechtstag</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-89">Bürgermeister und Rat zu Wangen</orgName>
+                    <date>1451-10-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg und SC</persName>
+                <date>2022-03-07</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_246_493.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich und willige dinst all zitt berait zuo vor an ersamen <lb
+                    n="2"/>fürsichtigen und wisen. Als üwer wisshait uns verschriben und ge <lb
+                    break="no" n="3"/>betten hatt, unser ratz botschafft uff <date when="1451-10-03"
+                    >iecz sonntag naechst</date> in üwer <lb n="4"/>statt zuo senden etc., ersamen
+                wisen lieben fründ, kennen wir wol, <lb n="5"/>das wir üwer ersamin in allen
+                soellichen sachen gern zuo willen und <lb n="6"/>zuo dinst werden soelten, so
+                verstat üwer wisshait wol, wie hoch <lb n="7"/>wir zuo unserm gnaedigen herren dem
+                abbt<note><persName ref="stadtasg-actors-83">Kaspar von Landenberg</persName>.</note> und sinem goczhus und <lb n="8"/>och von lehes wegen
+                gewant sien. Wan nun unser gnädiger her <lb n="9"/>von <placeName ref="stadtasg-places-38">sant
+                    Gallen</placeName> uns zuo dem tag nit gefordert hat, so kunden wir <lb n="10"
+                />nit verstan, das uns gebüre, unser ratz botschafft by üch wider sin <lb n="11"
+                />gnad und goczhus zuo haben. Her umb bitten wir üwer fürsichtikait <lb n="12"/>mit
+                gar ernstlichem sonder vlisse, ir woellend das nit in argem, <lb n="13"/>sonder zem
+                besten vermerken und uff memen, das wir diser zit <lb n="14"/>mit unser boschaftt
+                verhalten, denne ane zwifel in welchen <lb n="15"/>andern sachen meren und minder
+                wir gduon künden soellten und <lb n="16"/>moechten, dar inne soelte üwer wisshait uns
+                allzit finden gancz <lb n="17"/>willig und berait und wolten dar inne weder lib noch
+                guot <lb n="18"/>sparen. Geben am <origDate when="1451-10-01">fritag nach sant
+                    Michels tag anno domini etc. L primo</origDate>. <lb n="19"/><orgName
+                    ref="stadtasg-actors-89" role="issuer">Burgermaister und <lb n="20"/>rate zuo
+                    Wangen.</orgName>
+                <pb facs="StadtASG_Missive_246_494.JPG" n="2"/>
+                <lb n="21"/>Den ersamen fürsichtigen und wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister <lb n="22"/>und rate der statt zuo sant Gallen</orgName> unsern
+                lieben und <lb n="23"/>sondern guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

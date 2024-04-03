@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 200</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_200_401/402</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Albrecht von Breitenlandenberg antwortet Bürgermeister und Rat zu St. Gallen, die
+                    ihm wegen eines Streitfalls mit den Einwohnern von Kesswil geschrieben hatten.
+                    Er lässt sie wissen, dass er das Verhandlungsmandat übertragen habe. Er bittet
+                    um Antwort.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-37">Verhandlung</term>
+                    <term ref="stadtasg-keywords-248">Einwohner</term>
+                    <term ref="stadtasg-keywords-217">Antwort</term>
+                    <term ref="stadtasg-keywords-474">Hauptmann</term>
+                    <term ref="stadtasg-keywords-277">Herzog</term>
+                    <term ref="stadtasg-keywords-275">Fürst</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-66">Albrecht von Breitenlandenberg</persName>
+                    
+                    <date>1446-05-02</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-09</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_200_401.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min früntlich villig dienst lieber her burgermaister und lieben guotten
+                    <lb n="2"/>fründ. Als mir üwer guot früntschafft schriben hat, under andrem <lb
+                    n="3"/>meldent die fieht und nachyllens, so die von <placeName ref="stadtasg-places-137"
+                    >Kesswil</placeName> tuon hand <lb n="4"/>und mir reht piettent uff den
+                durlüchttigen virschtsten und herren <lb n="5"/>min herren hertzog <persName
+                    ref="stadtasg-actors-64">Albrecht zuo Oestrich</persName> min gnedigen lieben herren, <lb
+                    n="6"/>und insunder meldent, wie ich den üwren troew, ist üch in sunder <lb
+                    n="7"/>ze wissen, das ich ungern kaim üwerm in gesessnen burger ütz <lb n="8"
+                />zuo ziehen welt anders, denn pillich wer etc. Hier umb in sunder <lb n="9"/>guot
+                fründ lass ich üwer guot früntschafft wissen, das <persName ref="stadtasg-actors-332"
+                    >Mantz</persName>
+                <lb n="10"/>von <placeName ref="stadtasg-places-138">Rogwil</placeName> der sach ain hopptman
+                ist, dem hab ich gediennt, <lb n="11"/>den lass ich die sach veranttwrten, als ich
+                trüw, er soell sy zue <lb n="12"/>erren und zuo reht veranttwrten, wo das pillich
+                syg, denn <lb n="13"/>wie es <persName ref="stadtasg-actors-332">Mantz</persName> verhandlet, ist mir lieb.
+                Wass ich oech guotz zuo <lb n="14"/>den dingen tuon kan, vil ich gern tuon, das nit
+                ergers dar uss <lb n="15"/>gang etc. Mainttint ir aber sunder mich üwer ze nemen,
+                wass reht <lb n="16"/>ir denn piettent, lasch ich üch nit ab. Üwer anttwrt lassent
+                    <lb n="17"/>mich wissen. Geben uff <origDate when="1446-05-02">menttag nach dem
+                    maygtag anno domini <lb n="18"/>XLVI</origDate>.
+                <lb n="19"/><persName ref="stadtasg-actors-66" role="issuer">Albrecht von der <lb n="20"
+                    />Braittenlandenberg</persName>. <pb facs="StadtASG_Missive_200_402.JPG" n="2"/>
+                <lb n="21"/>Den ersamen vissen versichtigen <lb n="22"/><orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raett der <lb n="23"/>raet zuo sant Gallen</orgName> min
+                guoten fründ. </p>
+        </body>
+    </text>
+</TEI>

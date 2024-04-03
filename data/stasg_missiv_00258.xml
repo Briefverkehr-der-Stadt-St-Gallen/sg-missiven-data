@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 258</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. 259, 262, 268, 269 und 358.</p></note></notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_258_517/518</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Heinrich IV. von Hewen, Bischof zu Konstanz, fragt Bürgermeister und Rat zu St.
+                    Gallen in der Angelegenheit des grossen Übels, welches der St. Galler Bürger
+                    Hans Mötteli angerichtet habe, was er unternehmen solle und ob sie gegen Mötteli
+                    vorgehen würden, da er ja St. Galler Bürger sei. Er bittet um eine schriftliche
+                    Antwort mit dem Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-188">Bischof</term>
+                    <term ref="stadtasg-keywords-300">Schaden</term>
+                    <term ref="stadtasg-keywords-141">Befragung</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-621">Kanzler</term>
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-55">Heinrich IV. von Hewen, Bischof zu Konstanz</persName>
+                    <placeName ref="stadtasg-places-7">Konstanz</placeName>
+                    <date>1452-05-03</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS und SO</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2022-02-28</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_258_517.JPG" n="1"/>
+            <p>
+                <lb n="1"/><persName ref="stadtasg-actors-55" role="issuer" >Hainrich</persName> von gottes gnaden bischoff zuo
+                <placeName ref="stadtasg-places-7">Costentz</placeName>, <lb n="2"/>verweser des stifftz zuo
+                <placeName ref="stadtasg-places-114">Chure</placeName> und kantzler etc. <lb n="3"/>Unsern früntlichen
+                gruoß zuovor ersamen wisen besundern guoten fründ. Wir und welichermaß <lb n="4"
+                /><persName ref="stadtasg-actors-232">Hanns Moetteli</persName> das groß übel zuo
+                <placeName ref="stadtasg-places-5">Arbon</placeName> welt getan und begangen haben, ist üch des <lb
+                    n="5"/>uns nicht zwifelt wol zuo wissen und in trüwen laid, nach dem und wir von
+                unsern <lb n="6"/>raeten vernemen, das der <persName ref="stadtasg-actors-91">Uolrich Saere</persName> und
+                <persName ref="stadtasg-actors-206">Cuonrat Hoer</persName> mit in zuo <placeName ref="stadtasg-places-19">Bischoffzell</placeName>
+                davon <lb n="7"/>geredt haben. Nu moegen wir ie nit absin noch glassen, wir muessen
+                unser heren <lb n="8"/>und fründ raut haben, was uns darzuo zuo tuon gepüre, damit
+                wir hinfür ains soelichen <lb n="9"/>von im überhept und vertragen beliben. Und wan
+                der selb <persName ref="stadtasg-actors-232">Hanns Moetteli</persName>üwer <lb n="10"/>burger ist, darumb so
+                begerend wir von üch zuo wissen, ob wir ettwas mit im <lb n="11"/>fürnemen wurden,
+                wes wir uns dann zuo üch versehen soelten, denn nach handlung <lb n="12"/>und
+                gestalt der sachen, so getrüwen wir üch wol, ir gangend sin muessig und <lb n="13"
+                />schaffend allenthalben mit den üwern, das si deßglichen ouch tuegen, wan soelich
+                    <lb n="14"/>unser fürnemen üwer und aller der üwernhalb an schaden zuo gan und
+                beschechen <lb n="15"/>sol. Üwer antwurt geschriben by dem botten. Geben zuo
+                <origPlace ref="stadtasg-places-7">Costentz</origPlace> an des <origDate when="1452-05-03">hailigen <lb n="16"/>crütz tag
+                    im mayen anno etc. LIIdo</origDate>. <pb facs="StadtASG_Missive_258_518.JPG"
+                    n="2"/>
+                <lb n="17"/>Den ersamen wisen unsern besundern guoten fründen <lb n="18"/>dem
+                <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raute zuo sandt Gallen</orgName>. </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 101</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note><p>Zur Sache siehe auch die Missive Nr. 91.</p></note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_101_201/202</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hauptmann, Ammann und Rat zu Appenzell informieren Bürgermeister und Rat zu
+                    St. Gallen darüber, dass einer ihrer Landleute Ulrich Himmeli im Haus des jungen
+                    Koppenhan in Überlingen angetroffen habe. Die Appenzeller bitten die St. Galler,
+                    den alten Koppenhan festzunehmen, da dieser doch wisse, dass Himmeli ihr
+                    gemeinsamer Feind sei.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-474">Hauptmann</term>
+                    <term ref="stadtasg-keywords-143">Markt</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-46">Gefangennahme</term>
+                    <term ref="stadtasg-keywords-48">Feindschaft</term>
+                    <term ref="stadtasg-keywords-104">Landmann</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-506">Hauptmann, Ammann und Rat zu Appenzell</orgName>
+                    
+                    <date>1438-01-20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>TB</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2018-12-13</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-04-12</date>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_101_201.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser willig und früntlich dienst allzit vor fürsichtigen wisen lieben
+                gueten <lb n="2"/>fründ und lieben getrüwen aydgnossen. Üwer wishait ist wol ze
+                wissen, wie <lb n="3"/>die sachen von <persName ref="stadtasg-actors-165"
+                    >Coppenhans</persName> des alten wegen gelauffen sint. Laussen wir üch <lb n="4"
+                />wissen, dz für uns komen ist ain knecht, ainer unser lantman, hat uns <lb n="5"
+                />der ain kuntschafft gesait, als die hienach aigenlich geschriben stat, und <lb
+                    n="6"/>lut also. Wie er sye gefaren ze maerkt gen <placeName ref="stadtasg-places-4"
+                    >Überlingen</placeName> und sye da in des <lb n="7"/>iungen <persName
+                    ref="stadtasg-actors-36">Coppenhans</persName> hus komen, do saech er den alten <persName
+                    ref="stadtasg-actors-165">Coppenhan</persName> hinderm <lb n="8"/>tisch sitzen und den
+                iungen <persName ref="stadtasg-actors-36">Coppenhan</persName> vor im. Und gienge <persName
+                    ref="stadtasg-actors-221">Ueli Hymelin</persName>
+                <lb n="9"/>in der stuben umb, und geb im der alt <persName ref="stadtasg-actors-165"
+                    >Coppenhan</persName> ze trinken, und spraech <lb n="10"/><persName
+                    ref="stadtasg-actors-221">Hymelin</persName> zue im, wz tuest du hie. Und sye dz beschehen
+                am <date when="1438-01-03">naechsten fritag <lb n="11"/>nach dem ingenten
+                    iare</date> etc. Semlicher gewerb und semliche gsellschafft, als <lb n="12"
+                />denn <persName ref="stadtasg-actors-165">Coppenhan</persName> mit <persName ref="stadtasg-actors-221"
+                    >Hymelin</persName> und mit sinen sachen vor und nach geworben <lb n="13"/>und
+                getan hat nach ünserm verstan, über semlichs, so er doch waist, das <persName
+                    ref="stadtasg-actors-221">Hymelin</persName><lb n="14"/>üwer und unser vind ist und uns
+                och übel beschossen ist, bedunkt uns vast <lb n="15"/>froemd und unbillich, sol im
+                semlichs von üch und uns vertregen werden und <lb n="16"/>gestattet, und bittent
+                üch, das ir fürderlich und an als verziehen darzue <lb n="17"/>tuen wellent und den
+                man hanthaben und besorgen wellent, dz er üch und <lb n="18"/>uns nit von handen
+                kome. So wellen wir unser bottschafft uff <date when="1438-01-23">donstag</date> für
+                    <lb n="19"/>üch tuen und uss den sachen fürbaß mit üch reden, dz uns bedunkt
+                notturfftig <lb n="20"/>sin. Tuent harinne, als wir uch des und alles gueten sunder
+                wol getruwen <lb n="21"/>und wir in soelichen mindern und meren sachen mit gantzem
+                willen umb üwer <lb n="22"/>gueten früntschafft begeren zueverdienen. Geben an
+                    <origDate when="1438-01-20">sant Angnesen abent <lb n="23"/>anno etc.
+                    XXXVIIIo</origDate> etc. Versigalt mit unsers hoptmans insigel gebresten halb
+                des <lb n="24"/>unsern. <lb n="25"/><orgName ref="stadtasg-actors-507" role="issuer">Hoptman,
+                    amman und <lb n="26"/>raut zue Appenzelle</orgName> etc. <pb
+                    facs="StadtASG_Missive_101_202.JPG" n="2"/>
+                <lb n="27"/>Den fürsichtigen wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raut der <sic>satt</sic> zue <lb n="28"/>Santgallen</orgName>
+                unsern gueten fründen und lieben getrüwen aydgnossen.</p>
+        </body>
+    </text>
+</TEI>

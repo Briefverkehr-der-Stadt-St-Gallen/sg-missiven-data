@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 239</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_239_479/480</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Appenzell informieren Bürgermeister und Rat zu St. Gallen über
+                    einen Streit zwischen Hermann Grunder, Klaus Heer und Hans Riemer, Appenzeller
+                    Landleute, und Heinrich Maier von Oberdorf, St. Galler Bürger, um 7 Rheinische
+                    Gulden. Sie bitten sie (St. Galler), ihren Bürger dazu zu bewegen, das gefällte
+                    Gerichtsurteil einzuhalten und seine Schulden zu bezahlen. Sie bitten um
+                    schriftliche Antwort mit dem Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-13">Schulden</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-103">Urteil</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-25">Gericht</term>
+                    <term ref="stadtasg-keywords-27">Eid</term>
+                                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-506">Ammann und Rat zu Appenzell</orgName>
+                    
+                    <date>1451-06-22</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-03-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_239_479.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst zuo vor ersamen wisen besundern lieben <lb
+                    n="2"/>guoten fründ und getrüwen aidgnoßen.
+                Uns hat fürbracht <persName ref="stadtasg-actors-381">Herman Grunder</persName>
+                <lb n="3"/>und <persName ref="stadtasg-actors-382">Clauß Herer</persName> und <persName
+                    ref="stadtasg-actors-383">Hans Riemer</persName>, unser lantlüt, wie sy und üwer burger
+                    <persName ref="stadtasg-actors-384">Hainrich <lb n="4"/>Mayger</persName> von <placeName
+                    ref="stadtasg-places-161">Oberdorff</placeName> mit ainander in dz recht ze <placeName
+                    ref="stadtasg-places-161">Oberdorff</placeName> gestanden sigen <lb n="5"/>mit fürsprechen
+                und anderm, dz dann dazuoghöret, die unsern mit ir fürsprechen <lb n="6"/><persName
+                    ref="stadtasg-actors-385">Hainrichen Brandower</persName> und der gemelt <persName
+                    ref="stadtasg-actors-384">Hainrich Mayger</persName> mit sinem fürsprechen <lb n="7"
+                    /><persName ref="stadtasg-actors-386">Eglin Engler</persName>, und da der üwer an die
+                unsern begertt hat an die unsern, <lb n="8"/>dz sy im dz recht vertrostin, dz inen
+                och do dz recht gab zetuon, dz die unsern <lb n="9"/>och gar aigenlich taten, wie
+                inen dz gericht ze tuon erkent hat, und gaben <lb n="10"/>ir trüw in aides wise daby
+                ze beliben, wz inen dz recht umb die sach gaeb, dz sy <lb n="11"/>daby beliben
+                soeltin und im da mit recht anbehuoben sibenrintscher guott guldin, <lb n="12"/>die er schuldig wz gewesen
+                    <persName ref="stadtasg-actors-387">Ruedin saeligen an der Ow</persName>, unserm lantman,
+                    <lb n="13"/>und im dz recht erkant, dz er den unsern die selben guldin usrichten
+                soelt <lb n="14"/>nach des urtails brief lut und sag, den sy darvon habent, bitten
+                wir <lb n="15"/>üch mit ernst gedrungenlich, dz ir mit dem üwern so vil reden und
+                schaffen, <lb n="16"/>och selbs daran sin wellin, dz er den unsern umb die behabnen
+                schuld <lb n="17"/>usrichtung tuege ane verzogenlich, nach dem und im dz recht ze
+                tuon erkennt <lb n="18"/>hat und an den unsern aigenlich gehalten werde, wz inen mit
+                recht erkennt <lb n="19"/>sige, won sy gar dapfferlich und anbezwungenlich mit
+                ainander in dz gericht <lb n="20"/>gestanden sind, won es doch gar anbillich waery,
+                soelt an den unsern nitt gehalten <lb n="21"/>werden, dz sy mit recht bezogen
+                hettin. Und thuond harinn, als wir üch besunder <lb n="22"/>wol getruwen und och
+                begeren, umb üch und die üwern in mindern und meren sachen <lb n="23"/>ze verdienen,
+                wo sich dz ze tuon gebürtt. Üwer verschriben antwurtt <lb n="24"/>by disem botten.
+                Geben am <origDate when="1451-06-22">zinstag vor sant Johans tag des Toeffers anno
+                    domini <lb n="25"/>etc. LI iare</origDate>. <lb n="26"/><orgName ref="stadtasg-actors-506"
+                    role="issuer">Aman und raut <lb n="27"/>zuo Appenzell</orgName>
+                <pb facs="StadtASG_Missive_239_480.JPG" n="2"/>
+                <lb n="28"/>Den ersamen wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und rautt <lb n="29"/>zuo sant Gallen</orgName> unsern besundern
+                lieben guoten <lb n="30"/>fründen und getrüwen 
+                    aidgnoßen. </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 64</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_64_127/128</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Appenzell informieren Bürgermeister und Rat zu St. Gallen über
+                    mehrere Streitsachen, welche Landleute von Appenzell und Bürger von St. Gallen
+                    betreffen. Der St. Galler Bürger Hans Tobler soll den Appenzellern Steuern für
+                    seine dort liegenden Güter bezahlen, der Streit von Herman Höger von Herisau mit
+                    Peter und Heinrich Zwicker soll beigelegt werden und Walter Koppenhan ist mit
+                    Kueni Schedler vor Gericht gekommen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-13">Schulden</term>
+                    <term ref="stadtasg-keywords-98">Steuer</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+                    <term ref="stadtasg-keywords-25">Gericht</term>
+                    <term ref="stadtasg-keywords-296">Stadtgericht</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-551">Gut</term>
+                    <term ref="stadtasg-keywords-104">Landmann</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-506">Ammann und Rat zu Appenzell</orgName>
+                    <placeName ref="stadtasg-places-8">Appenzell</placeName>
+                    <date>1433-11-29</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_64_127.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst voran lieben guoten fründ. Als ir uns
+                ietz naechst <lb n="2"/>geschriben hand von <persName ref="stadtasg-actors-185">Hansen
+                    Toblers</persName>, üwers mittburgers, wegen, wie wir dem <lb n="3"/>das sin
+                verlait haben soellent, lieben guoten fründ also lassent wir üch wissen, <lb n="4"
+                />das der selb <persName ref="stadtasg-actors-185">Tobler</persName> uns stür gelten sol von
+                den guetern, die in unsers lantz <lb n="5"/>stüren ligen, und truwent, er soell uns
+                die stüren usrichten. Als ir uns <lb n="6"/>dann vormals geschriben hand, wie das
+                    <persName ref="stadtasg-actors-186">Herman Hoeger</persName> von <placeName
+                    ref="stadtasg-places-65">Herisow</placeName>, unser <lb n="7"/>lantman, <persName
+                    ref="stadtasg-actors-187">Peter</persName> und <persName ref="stadtasg-actors-160" cert="medium">Haini die
+                    Zwiker</persName><note>Wohl <persName ref="stadtasg-actors-160">Heinrich Zwick der
+                        Alte</persName>.</note>, üwer mittburger, ze <placeName ref="stadtasg-places-66"
+                    >Gossow</placeName> für gericht <lb n="8"/>getriben hab von ettwas zuospruchs
+                wegen und uns bittent, das wir <lb n="9"/>mit dem unsern schaffint, das er sich
+                rechts benuegen lasß von den üwern <lb n="10"/>vor üwer statt gericht, lassent wir
+                üch wissen, ist sach, das ir von allen <lb n="11"/>unsern lantlüten, wo die
+                gesessen sint, recht naemmen wellent vor unsern <lb n="12"/>gerichten, so wellent
+                wir die unsern och darzuo wisen, wan es uns <lb n="13"/>billich bedunket. Üwer
+                früntlich verschriben antwurt land uns wissen. <lb n="14"/>Und als ir uns dann
+                geschriben hand von <persName ref="stadtasg-actors-165">Waelti Coppenhans</persName> wegen,
+                üwers <lb n="15"/>mittburgers, lassint wir üch wissen, das <persName
+                    ref="stadtasg-actors-165">Waelti Coppenhan</persName> mit <persName ref="stadtasg-actors-188">Cueni
+                        <lb n="16"/>Schedler</persName> für gericht komen ist und sich da baid tal
+                lassen bannen, für an <lb n="17"/>grossen potten rat ze komin, also wenn das ist,
+                so mag er für ain pottnen <lb n="18"/>rat komen. Geben ze <origPlace
+                    ref="stadtasg-places-8">Appenzelle</origPlace> am <origDate when="1433-11-29">sunnentag
+                    vor sant Andres tag anno <lb n="19"/>domini Mo CCCCo XXXIIIo</origDate>. <lb
+                    n="20"/><orgName ref="stadtasg-actors-506" role="issuer">Amman und raut <lb n="21"/>zuo
+                    Appenzelle</orgName>. <pb facs="StadtASG_Missive_64_128.JPG" n="2"/>
+                <lb n="22"/>Den wisen fürsichtigen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raut der <lb n="23"/>statt zuo sant Gallen</orgName> unsren
+                guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

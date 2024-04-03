@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 296</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note><p> Zur Sache siehe auch die Missive Nr. 297.</p></note>
+            </notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_296_597/598</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Schaffhausen berichten Bürgermeister und Rat zu St. Gallen, dass sie von Hans von Rechberg und anderen Edelleuten, die ein Heer von Soldaten zu Fuss und zu Pferd um sich geschart hätten, angegriffen würden, dass Dörfer in der Umgebung verbrannt und Menschen erstochen worden seien. Die Angreifer wollten anscheinend die Stadt Schaffhausen vom Reich trennen. Sie bitten sofort um Unterstützung mit Soldaten, Büchsen und Armbrustschützen, soviel St. Gallen stellen kann.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-242">Heer</term>
+                    <term ref="stadtasg-keywords-254">Söldner</term>
+<term ref="stadtasg-keywords-163">Pferd</term>
+<term ref="stadtasg-keywords-75">Angriff</term>
+                    <term ref="stadtasg-keywords-41">Feuer</term>
+<term ref="stadtasg-keywords-49">Totschlag</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-326">Büchse</term>
+                    <term ref="stadtasg-keywords-327">Waffe</term>
+<term ref="stadtasg-keywords-229">Schütze</term>
+<term ref="stadtasg-keywords-48">Feindschaft</term>
+<term ref="stadtasg-keywords-623">Dorf</term>
+<term ref="stadtasg-keywords-163">Pferd</term>
+<term ref="stadtasg-keywords-405">Reich</term>
+<term ref="stadtasg-keywords-126">Reichsstadt</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-28">Bürgermeister und Rat zu Schaffhausen</orgName>                    <date>1453-11-03</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>SC</persName>
+                <date>2022-11-14</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_296_597.JPG" n="1" />
+<p>
+<lb n="1" />Unser willig fruntlich dienst und was wir eren liebs und guotz vermogen
+<lb n="2" />allzit zu voran fursichtigen wisen sundern lieben und guten fründ. Wir
+    <lb n="3" />fügen uwer wißhait zuo wissen, dz <persName ref="stadtasg-actors-460">Hanß von Rechberg</persName> und ander edel, unser
+<lb n="4" />vind, uns mit ainem schweren züg uff gestern ettlich dorffer verbrant,
+<lb n="5" />die armen lüt erstochen, und uff hüt für unser statt gezogen und uns
+<lb n="6" />an unsern trotten und sust schwarlich beschädiget, und zuhet noch ain
+<lb n="7" />mercklich züg zu roß und zu fuß zuo, und sterckend sich yemer mer dar.
+    <lb n="8" />Der züg hat sich ouch unferr von unser statt in ain dorff, haisset <placeName ref="stadtasg-places-184">Ertzingen</placeName>,
+<lb n="9" />nidergeslagen, da si necht ouch gelegen sind, und hand vor inen uns allz
+<lb n="10" />dz under zue triben und zuo ebenen, so vor unser statt ist, dz uns verderplich
+<lb n="11" />anlit, und hat vil zügs zuo roß und zu fuß, und mainen, uns ye an lip
+<lb n="12" />und guot zuo schädigen, und ob si mohten, uns mit iren uffsätzen uns von
+<lb n="13" />dem <orgName ref="stadtasg-actors-559">Hailigen Rich</orgName> zue trengen und in ain ander hand zuo bringen, davor
+<lb n="14" />wir wollen sin, soverr unser lip und guot geraichen mag, und dar inne
+<lb n="15" />costen und arbait uns nit beturen lassen, dann wir bekennen, dz uns vor
+<lb n="16" />abe, ouch dem ganzen <orgName ref="stadtasg-actors-559">Rich</orgName>, uch und aller erberkait vil daran lit und
+<lb n="17" />gelegen ist. Harumb von wegen des <orgName ref="stadtasg-actors-559">Hailigen Richs</orgName>, ouch wan ir ain
+<lb n="18" />rich statt sind und wir ain besunder groß getruwen zue uwer guoten frunt
+<lb break="no" n="19" />schaft haben, so bitten und rüffen wir uch an mit gantzem fliß und
+<lb n="20" />ernst und ermanen uch ouch fruntlich des getruwlichen zuo sagens,
+<lb n="21" />so ir uns zu ziten getan und zu gesait hand, dz ir uns in disen unsern
+<lb n="22" />schweren nöten und sorgen zuo hilff und zuo statten komen mit lüten,
+<lb n="23" />zuo roß und zue fuoß, mit sunder buchssen und armbrost schützen, sovil ir der
+<lb n="24" />ghaben mögen, und uns die uff stund zuo schigkend und betrachtend und an
+<lb n="25" />sehend, wz dem <orgName ref="stadtasg-actors-559">Rich</orgName>, ouch uns, uch und aller erberkait daran gelegen
+<lb n="26" />ist, und wir wollen uns ouch gentzlich daran verlassen und uwer und
+<lb n="27" />ander erberkait hilff und bystand wartend sin und unser statt und die
+<lb n="28" />unsern uffhalten, so iemer lengest wir mogen, und bewisen und erzeigen
+<lb n="29" />uch harinn sofurdrig und fruntlich, als wir üch insunderhait zuo tund
+<lb n="30" />wolgetruwen, damit dz wir by dem <orgName ref="stadtasg-actors-559">Hailigen Rich</orgName> gehanthabet werden.
+<lb n="31" />Wa wir dz zuo ewiger ziten umb uch in sollichen und vast großer sachen
+<lb n="32" />verdienen und beschulden konnen, wollen wir mit guotem willen gern
+    <lb n="33" />tuon und uns arbait in uwern sachen niemer beturen lassen. Datum uff <origDate when="1453-11-03">samb
+<lb break="no" n="34" />stag in der nacht umb VIII nach allerhailigen tag anno etc. LIII</origDate>.
+    <lb n="35" /><orgName ref="stadtasg-actors-28" role="issuer">Burgermaister und
+<lb n="36" />raut zu Schaufhusen</orgName>.
+<pb facs="StadtASG_Missive_296_598.JPG" n="2" />
+    <lb n="37" />Den fursichtigen wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raut der
+<lb n="38" />statt zue sant Gallen</orgName> unsern insundern lieben und
+<lb n="39" />guten frunden.
+</p>
+        </body>
+    </text>
+</TEI>

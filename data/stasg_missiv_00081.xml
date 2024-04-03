@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 81</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_81_161/162</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau bitten Bürgermeister und Rat zu St. Gallen in
+                    ihrem Streit mit den Herren von Rorschach, die Meinung der Rorschacher in Bezug
+                    auf erneute Verhandlungen einzuholen. Zudem bitten die Lindauer um Unterstützung
+                    mit einer St. Galler Ratsdelegation.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-122">Einbürgerung</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-130">Ratsdelegation</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>
+                    
+                    <date>1436-08-06</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-04-16</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_81_161.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst zuo vor ersammen wysen sonder lieben und
+                guoten <lb n="2"/>fründe. Als <persName ref="stadtasg-actors-205">Jacob Schellang</persName>
+                von <placeName ref="stadtasg-places-77">Ravenspurg</placeName> in gemainer stett namen ainen
+                    <lb n="3"/>guetlichen tag zwüschen unß und den <orgName ref="stadtasg-actors-546">von
+                    Roschach</orgName> uff <date when="1436-08-19">sonntag nechst nach <lb n="4"
+                    />unser frowen tag assumptionis</date> gen <placeName ref="stadtasg-places-78">Buochorn</placeName>
+                gesetzt und üch den selben tag villicht <lb n="5"/>och verkündt hat, also hat uns
+                der selb <persName ref="stadtasg-actors-205">Jacob Schellang</persName> geschriben, wie dz <lb n="6"/>unser
+                guote fründe von <orgName ref="stadtasg-actors-510">Ulm</orgName> uff den <date when="1436-08-20">nechsten mentag
+                    darnach</date> och ainen tag <lb n="7"/>ze <placeName ref="stadtasg-places-7">Costentz</placeName> in
+                der statt ze laisten haben, und darinne er besorge, dz ain tag den <lb n="8"/>andern
+                sume und hindern werde etc., als ir dz an der ingeslossnen abschrifft sins <lb n="9"
+                />briefs uns gesandt wol vernemen werden. Uff dz haben wir ainen andern <lb n="10"
+                />guetlichen tag darinne fürgenomen uff an <date when="1436-08-22">mittwochen nach unser frowen tag
+                    <lb n="11"/>assumptionis</date> ze nacht ze <placeName ref="stadtasg-places-78">Buochorn</placeName>
+                ze sind. Und hierumb lieben fründe won <lb n="12"/>ir üch und vormalz allweg in
+                der sach guetlich und früntlich gearbait hant, <lb n="13"/>dez wir üch vlissigen
+                dank sagen, so pitten wir üwer guoten früntschafft <lb n="14"/>mit ernst
+                vlissigist, und wir kunnen üch darinne füro ze arbaiten, und <lb n="15"/>dz also
+                den <orgName ref="stadtasg-actors-546">von Roschach</orgName> nach dem besten ze verkünden und uns och mit
+                disem <lb n="16"/>botten verschriben wissen ze lassen, wz der <orgName ref="stadtasg-actors-546">von
+                    Roschach</orgName> maynung darinne sin <lb n="17"/>und ob sy den selben
+                guetlichen tag suochen woellen oder nit, und ob derselb guetlich tag <lb n="18"/>so
+                fürgang gewunne, dz ir uns denn üwer erber wyse ratzpott <lb break="no" n="19"
+                />schafft uff denselben tag lihen und senden und der bevelhen woellen, uff <lb
+                    n="20"/><date when="1436-08-22">mittwochen nechst nach unser frowen tag assumptionis</date> ze
+                nacht ze <placeName ref="stadtasg-places-78">Buochorn</placeName>
+                <lb n="21"/>und uns allda dez getrüwlichosten und besten beholffen und beraten ze
+                sind, <lb n="22"/>und üwer früntschafft woelle sich hierinne so günstlich und
+                früntlich be <lb break="no" n="23"/>wysen und uns hierinne nit verlassen, sonder
+                tuon, als wir üch dez wol getrüwen. <lb n="24"/>Dz begern wir in allen
+                bequemlichen sachen, wa sich dz gepüret, mit <lb n="25"/>gantzem willen, umb üwer
+                ersame ze beschulden und ze verdienen. Datum <lb n="26"/><origDate when="1436-08-06"
+                    >secunda ante Laurency anno etc. XXXVIto</origDate>. <lb n="27"/><orgName ref="stadtasg-actors-511"
+                    role="issuer">Burgermaister und <lb n="28"/>raute ze Lindow</orgName>. <pb
+                    facs="StadtASG_Missive_81_162.JPG" n="2"/>
+                <lb n="29"/>Den ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raute zuo
+                        <lb n="30"/>sant Gallen</orgName> unßern besondern lieben und guoten
+                fründen. </p>
+        </body>
+    </text>
+</TEI>

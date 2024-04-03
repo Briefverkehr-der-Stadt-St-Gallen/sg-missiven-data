@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 322</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_322_649/650</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Ulm berichten Bürgermeister und Rat zu St. Gallen, dass ihr Bürger Franz Schlicher Otmar Herr 50 Gulden geliehen habe, welche der St. Galler Ratsherr Rudolf Friedbolt an Otmar Herr gegeben habe. Herr habe in Ulm Wachs verkauft und hätte mit dem Erlös seine Schulden begleichen sollen, was er aber nicht getan habe. Da es noch mehr Schuldner von Franz Schlicher in St. Gallen gebe, soll St. Gallen Hans Mayer, dem bevollmächtigten Knecht des Franz Schlicher, behilflich sein, die Schulden in St. Gallen einzutreiben.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-69">Leihe</term>
+<term ref="stadtasg-keywords-90">Wachs</term>
+<term ref="stadtasg-keywords-167">Verkauf</term>
+<term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-283">Vollmacht</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-510">Bürgermeister und Rat zu Ulm</orgName>                    <date>1456-02-02</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-01-15</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_322_649.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich willig dienste voran ersamen und wysen lieben frund. Uns hat furbracht <persName ref="stadtasg-actors-599">Frantz Slicher</persName>,
+<lb n="2"/>unser mitburger, wie er <persName ref="stadtasg-actors-598">Otmar Herren</persName> fünffzig guldin gelyhen, die im denne <persName ref="stadtasg-actors-597">Ruedin Frid
+<lb break="no" n="3"/>bolt</persName>, uwer ratzfrunde, von sinen wegen gegeben, darumb im derselb <persName ref="stadtasg-actors-598">Othmar Herre</persName> gelopt, ver
+<lb break="no" n="4"/>sprochen und verhaissen, och im des ainen schuldbriefe gegeben hab, das er im die egenanten
+<lb n="5"/>sin schulde uff <date when="1455-12-06">sant Niclaus tage nechst vergangen</date> bezalen sölte. Also sye er mit wachs
+<lb n="6"/>hie zu <placeName ref="stadtasg-places-28">Ulme</placeName> gewesen und habe im aber zu geseyt, als bald er das wachs verkouffe, so
+<lb n="7"/>wolle er in schon bezalen. Dem nu der egenant unser burger also gewartet hat, in dem und
+<lb n="8"/>er nu das wachs verkoufft und der egenant unser burger gemaint hat, er solte in bezalen,
+<lb n="9"/>so hat er das gelt ingenomen und ist hin wege geritten, das er unsern burger siner ege
+<lb break="no" n="10"/>nanten schulde nicht bezalet hat. Darzu bringt er uns fur, wie im ettlich annder uwer
+<lb n="11"/>burger ouch schuldig syen, darumb im zu sinen pfannden und irem guote nicht furder
+<lb break="no" n="12"/>lich gericht werden muge, des er zu schaden kome, und darumb, wann der egenant
+<lb n="13"/><persName ref="stadtasg-actors-598">Othmar Herre</persName> im solich sin schulde gevarlich und annders denne zymliche, der billich ist,
+<lb n="14"/>verzucht, so bitten wir uwer ersamkayt mit besonnderm vlisse, ir wöllent umb unsern
+<lb n="15"/>willen <persName ref="stadtasg-actors-596">Hannsen Mayer</persName>, des egenanten <persName ref="stadtasg-actors-599">Frantzen Slichers</persName> knechte, sinem machtbotten, gen
+<lb n="16"/>dem obgerürten <persName ref="stadtasg-actors-598">Othmar Herren</persName> und anndern sinen schuldnern furderlichs unverzogens
+<lb n="17"/>rechten beraten und beholffen sin, da durch er ane verziehen bezalt oder im aber zuo
+<lb n="18"/>in und irem guote furderlich gericht werde, und uch dar inne als ußrichtigklich bewyse,
+<lb n="19"/>als wir uch wol getruwen und den uwern desglich, wa es sich gepurte, auch gern
+<lb n="20"/>tuon wölten. Das wöllen wir umb uwer wyshait mit willen gern verdienen.
+<lb n="21"/>Geben uff <origDate when="1456-02-02">unser lieben frawen abend zu liechtmeß anno etc. LVI</origDate>.
+<lb n="22"/><orgName ref="stadtasg-actors-510" role="issuer">Burgermaister und
+<lb n="23"/>rate zu Ulme</orgName>.
+<pb facs="StadtASG_Missive_322_650.JPG" n="2"/>
+<lb n="24"/>Den ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rate
+<lb n="25"/>der statt sant Gallen</orgName> unsern besonndern guten
+<lb n="26"/>frunnden.
+</p>
+        </body>
+    </text>
+</TEI>

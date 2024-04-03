@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 82</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_82_163/164</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Heinrich von Sigberg und die beiden Brüder Hans und Hans Tumb von Neuburg bitten
+                    Bürgermeister und Rat zu St. Gallen, ihnen für eine Verhandlung mit der
+                    Frauengemeinschaft in Altstätten eine Ratsdelegation, insbesondere Konrad Hör
+                    oder bei dessen Verhinderung den Stadtammann, zur Verfügung zu stellen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-37">Verhandlung</term>
+                    <term ref="stadtasg-keywords-130">Ratsdelegation</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-41">Heinrich von Sigberg</persName>
+                    <persName ref="stadtasg-actors-42">Hans Tumb (I)</persName>
+                    <persName ref="stadtasg-actors-43">Hans Tumb (II)</persName>
+                    <placeName ref="stadtasg-places-11">Altstätten</placeName>
+                    <date>1436-08-07</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-04-16</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_82_163.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser willig dienst zuo vor lieben herren und guoten fründ. Wir <lb
+                    n="2"/>lassent üwer wishait tze wissen, das wir <persName ref="stadtasg-actors-41"
+                    >Hainrich von Sigberg</persName> und <persName ref="stadtasg-actors-42">Hans</persName>
+                <lb n="3"/>und <persName ref="stadtasg-actors-43">Hans Tuom von Nüburg</persName> bruoder
+                tze <placeName ref="stadtasg-places-11">Altstetten</placeName> sigent und da selbs <lb n="4"
+                />ettwas sachen us tze tragen habint mit <orgName ref="stadtasg-actors-550">unsern frowen von
+                    Altstetten</orgName> und <lb n="5"/>an tze sehen, bittent wir üwer
+                fründschafft flissig, das ir so wol tuon <lb n="6"/>wellent und und uns an
+                bottschafft lihen wellent, insunder <persName ref="stadtasg-actors-206">Cuonraten <lb n="7"
+                    />Hoeren</persName>. Wer sach, das er nüt ham wer, bittent wir umb den statt
+                ammen. <lb n="8"/>Kündent wir das beschulden in etc., das woeltent wir willig sin
+                und <lb n="9"/>och in andren traeffenlichen sachen. Geben ze <origPlace
+                    ref="stadtasg-places-11">Alstetten</origPlace>
+                <origDate when="1436-08-07">ipsa die Afre <lb n="10"/>martyris anno 36</origDate>.
+                    <lb n="11"/><persName ref="stadtasg-actors-41" role="issuer">Hainrich von
+                    Sigber</persName>, <persName ref="stadtasg-actors-42" role="issuer">Hans</persName> und
+                    <lb n="12"/><persName ref="stadtasg-actors-43" role="issuer">Hans Tuommen, von
+                    Nüburg</persName>, <lb n="13"/>bruoder. <pb facs="StadtASG_Missive_82_164.JPG"
+                    n="2"/>
+                <lb n="14"/>Den wisen fürsichtigen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burger <lb break="no" n="15"/>maister und rat tze sant Gallen</orgName>
+                <lb n="16"/>unser lieben herren und guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

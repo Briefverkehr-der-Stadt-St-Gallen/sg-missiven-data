@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 24</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_24_47/48</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hans Zeph bittet Bürgermeister und Rat zu St. Gallen, seinem Bruder Heinrich wegen
+                    ihres geistig verwirrten Vaters behilflich zu sein.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-53">Krankheit</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-208">Familie</term>
+                    <term ref="stadtasg-keywords-527">Vater</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-20">Hans Zeph</persName>
+                    <placeName ref="stadtasg-places-7">Konstanz</placeName>
+                    <date>1425-07-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_24_47.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Erber wisen lieben hern. Geruochent ze wissen, wie herre <persName
+                    ref="stadtasg-actors-6">Ulrich</persName> min bruoder minen fatter ze <placeName
+                    ref="stadtasg-places-5">Arbon</placeName>
+                <lb n="2"/>by im gehebt hat und im in all weg getrüwlich das best tatt und getan
+                hat, das ist mir wissent <lb break="no" n="3"/>lich, wenn ich han es gesehen. Nu ist
+                min fatter ze wunderlich, das er das nit vertragen noch dulden <lb n="4"/>wolt, und
+                ist wider gen <placeName ref="stadtasg-places-38">sant Gallen</placeName>, und da ist mir für
+                komen, wie er och da nit bliben muog und <lb n="5"/>stattes üwer wißheit mit über
+                loffen bekuembri. Also lieben herren so bitten ich uewer wißhait <lb n="6"
+                />dienstlichen und das ir uech nüt an sin rede kerent, sunder <persName
+                    ref="stadtasg-actors-116">Heinrich</persName> minem bruoder huelfflich <lb n="7"/>sigint,
+                das er versorget werd mit dem sinen, da gib ich minen willen zuo, wenn wa ist er <lb
+                    n="8"/>billicher denn in dem sin und bi den sinen. Und eins bitten ich üch ze
+                mal flisseklich, ob er üch <lb n="9"/>keins me ze klag kaem, das ir in denn mit
+                herten worten über topplatent, das er sin gemach <lb n="10"/>het by dem sinen, ald
+                ir woltent in übel us richten. Tuond hier inn als min lieb gnaedig hern. <lb n="11"
+                />Datum <origPlace ref="stadtasg-places-7">Constantiae</origPlace>, <origDate when="1425-07-08">dominica
+                    post Uodalrici anno etc. XXV</origDate>. <lb n="12"/><persName ref="stadtasg-actors-20" role="issuer"
+                    >Hans Zepf</persName> der frömbd <lb n="13"/>üwer camer diener. <pb
+                    facs="StadtASG_Missive_24_48.JPG" n="2"/>
+                <lb n="14"/>Den erbern wol wisen dem <orgName ref="stadtasg-actors-148" role="recipient">buorgermeister <lb
+                        n="15"/>und dem rat ze sant Gallen</orgName> sinen lieben <lb n="16"/>hern.
+            </p>
+        </body>
+    </text>
+</TEI>

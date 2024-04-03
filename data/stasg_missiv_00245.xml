@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 245</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_245_491/492</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Rudolf von Landenberg von Greifensee informiert Bürgermeister und Rat zu St.
+                    Gallen, dass einer ihrer Bürger Streit mit ihm gehabt hätte. Da dieser Streit
+                    jedoch angefangen habe, bevor dieser St. Galler Bürger geworden sei, seien nicht
+                    die St. Galler zuständig. Rudolf von Landenberg bittet St. Gallen
+                    darum, sich nicht mehr um die Angelegenheit zu kümmern.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-291">Kompetenz</term>
+                    <term ref="stadtasg-keywords-193">Gerichtsort</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-86">Rudolf von Landenberg von Greifensee</persName>
+                    <placeName ref="stadtasg-places-29">Frauenfeld</placeName>
+                    <date>1451-09-21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-12-12</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_245_491.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min dienst vor lieben die von <orgName ref="stadtasg-places-38">sant
+                    Gallen</orgName>. Alz ir mir geschriben haben von wegen <persName
+                    ref="stadtasg-actors-402">Cuentz Ruetimans</persName>, uwers burgers, <lb n="2"/>wie ich
+                im ain guet verlait hab und ouch dz er vor mir nit sicher sin soelle uiwer
+                geschrifft mir gesant soelichs mit mer worten inn <lb break="no" n="3"/>halt, die
+                hab ich zue gueter maß verstanden, und lauß üch wissen, dz sich soelich zwaytracht
+                gemacht hand edenmal und er uiwer <lb n="4"/>burger worden sig, ouch alz ir in uiwer
+                geschrifft meldent in us vorchten zue laesten, dar inn ich in doch nie gehept hab.
+                Ich welt <lb n="5"/>ouch geren vernemen, von wem er von mir unsicherer gesagt sin
+                soelle, ouch alz ir schriben, in mir vor uich zue raecht stellen, bedunkt <lb n="6"
+                />mich froemd, won sich soelichs zwaytraecht gemacht hönd vor zitten, do er hinderer
+                mir in miner gerichten gesaesen ist. Ich main ouch, dz <lb n="7"/>er mir umb soelich
+                sach, so sich zue im sprechen hab, in den gerichten, alz ob staut, geraecht werden
+                soelle, ich getroew ouch uich wol, <lb n="8"/>dz ir üch der sach witter nit an
+                naemen. Dz beger ich umb uich zue verdienen, denn wz ich üch zue lieb und zue dienst
+                getuen kan, <lb n="9"/>sond ir mich willig finden. Geben zue <origPlace ref="stadtasg-places-29">Frowenfeld</origPlace> uff
+                    <origDate when="1451-09-21">zinstag nach dez hailigen crütz tag anno domini Mo
+                    CCCCo LImo</origDate>. <lb n="10"/><persName ref="stadtasg-actors-86" role="issuer"
+                    >Rudolff von Landemberg <lb n="11"/>von Griffensew</persName>
+                <pb facs="StadtASG_Missive_245_492.JPG" n="2"/>
+                <lb n="12"/>Den fürsichtigen wysen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister <lb n="13"/>und raut zue sant Gallen</orgName>. </p>
+        </body>
+    </text>
+</TEI>

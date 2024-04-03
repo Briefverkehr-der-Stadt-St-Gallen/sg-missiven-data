@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 187</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_187_375/376</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Anton Schenk von Landegg, Vogt zu Bischofszell, teilt Bürgermeister und Rat zu
+                    St. Gallen mit, dass er einen Brief von Wil an die St. Galler aufgebrochen hat,
+                    und bittet darum, ihm das nicht übel zu nehmen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+                    <term ref="stadtasg-keywords-198">Unschuld</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-59">Anton Schenk von Landegg</persName>
+                    <placeName ref="stadtasg-places-19">Bischofszell</placeName>
+                    <date>1445-02-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-02</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_187_375.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min willig dienste vor lieben heren. Ich han üwern brief, so üch die von
+                    <placeName ref="stadtasg-places-102">Wil</placeName>
+                <lb n="2"/>gesant hand, uffgebrochen. Bitt ich üch, das ir das nit für übel uffnemen
+                    <lb n="3"/>wellen, und das getan umb des wissen, das ich mich dar nach wysste
+                    <lb n="4"/>zu richtent. Die selben von <placeName ref="stadtasg-places-102"
+                    >Wil</placeName> schribent üch insogten masse, das ich <lb n="5"/>darain han an
+                guot benuegen. Und danken üch flissig üwers guoten willen <lb n="6"/>und bitt üch
+                füro, das ir mich üch laussent allziten bevolhen sin, und ob <lb n="7"/>ir iendert
+                wurden merken, das der zug über mich wurde gan, das ir <lb n="8"/>och da wellen für
+                keren zum besten, als ich üch dann wol truw. Geben <lb n="9"/>ze <origPlace
+                    ref="stadtasg-places-19">Byschoffzell</origPlace> uff <origDate when="1445-02-04">sant
+                    Agten abent anno domini etc. XLVto</origDate>. <lb n="10"/><persName
+                     ref="stadtasg-actors-59" role="issuer">Anthoni Schenk von Landegg</persName>, <lb n="11"
+                />vogt ze <placeName ref="stadtasg-places-19">Byschoffzelle</placeName>. <pb
+                    facs="StadtASG_Missive_187_376.JPG" n="2"/>
+                <lb n="12"/>Den fürsichtigen und wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister <lb n="13"/>und rate zu Santgallen</orgName> minen lieben heren.
+            </p>
+        </body>
+    </text>
+</TEI>

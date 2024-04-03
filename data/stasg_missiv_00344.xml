@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 344</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_344_693/694</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Jos Gössler bittet Bürgermeister und Rat zu St. Gallen zum wiederholten Mal, ihm seinen ausstehenden Lohn von 3 Pfund zu schicken. Der Stadtrat habe ihm diese Summe zugsprochen, und der damalige Säckelmeister Senn hätte den Auftrag gehabt, ihn zu bezahlen, was aber nicht geschehen sei. Er bittet darum, das Geld seinem Schwager, Überbringer des Briefs, auszuhändigen.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-352">Lohn</term>
+<term ref="stadtasg-keywords-497">Säckelmeister</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-519">Verwandtschaft</term>
+<term ref="stadtasg-keywords-345">Zeiger</term>
+<term ref="stadtasg-keywords-609">Schwager</term>
+<term ref="stadtasg-keywords-174">Rechnung</term>
+<term ref="stadtasg-keywords-373">Schreiber</term>
+<term ref="stadtasg-keywords-370">Buch</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-616">Jos Gössler</persName> <placeName ref="stadtasg-places-24">Lindau</placeName>                    <date>1459-02-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2024-01-16</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_344_693.JPG" n="1"/>
+<p>
+<lb n="1"/>Min wylligen dinst zuo vor lieben herren. In mass und ich üch vor mals och
+<lb n="2"/>geschryben hon von des gaeltz waegen, so mir ain ratt gesprochen hatt,
+<lb n="3"/>das ir mir noch schuldig sind und mir noch nütz dar an worden
+<lb n="4"/>ist, da ich umb wyss bitt ich üwer wyshaitt, mir soelich gaeltz
+<lb n="5"/>noch us zuo richten, won dem schryber und dem <persName ref="stadtasg-actors-619">Sennen</persName> und
+<lb n="6"/>och <persName ref="stadtasg-actors-91">Uolin Saerin</persName> saelgen wol wyssenlich ist, das ich ainer statt
+<lb n="7"/>veraechnott hab geton, umb das ich inen in gnomen hatt,
+<lb n="8"/>des sy do zuo mal ain guott vermoegen von mir hattend,
+<lb n="9"/>des ain ratt noch min buocher der saelben raechnung ine
+<lb n="10"/>hatt, und do die raechnung geschach lang dar nach, kam
+<lb n="11"/>ich erst für ain ratt von des lons waegen, do bekantt
+<lb n="12"/>ain ratt, das man mir soeltt gen III <abbr>lb.</abbr> <abbr>den.</abbr> und apfolt
+<lb n="13"/>man dem <persName ref="stadtasg-actors-619">Sennen</persName>, der war do zuo mal sekler der
+<lb n="14"/>statt, das er mirs soelt gen, also han ich es an lassen
+<lb n="15"/>ston. Waist aber ain ratt oder iemen, das man mir dz
+<lb n="16"/>gaeltt gen hab, oder ob ich ütz schuldig syg, wyl ich
+<lb n="17"/>mich al waeg laussen wysen. Mir ist och nitt wyssenlich,
+<lb n="18"/>das ich üch da by nütz schuldig syg noch mir dar an
+<lb n="19"/>nütz worden syg, und bitt üch, das ir nütz ver übel hab
+<lb n="20"/>und den ich sin ietz zuo mal noturfftig bin, und gend es
+<lb n="21"/>minem schwager<note><persName ref="stadtasg-actors-617" role="testis">Peter Herren</persName>.</note>, zoeger dissen bryeff, dem hab ichs über
+<lb n="22"/>gaeben an der zerung, so ich by im thuon han ietz nitt me.
+<lb n="23"/>Gaeben zuo <origPlace ref="stadtasg-places-24">Lindow</origPlace> uff <origDate when="1459-02-12">mentag naechst nach der altten
+<lb n="24"/>vasnacht Mo CCCCo LVIIII iar</origDate>.
+<lb n="25"/>Von mir <persName ref="stadtasg-actors-616" role="issuer">Ios
+<lb n="26"/>Goessler</persName>.
+<pb facs="StadtASG_Missive_344_694.JPG" n="2"/>
+<lb n="27"/>Den ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und ratt zuo santt
+<lb n="28"/>Gallen</orgName> minen lieben herren.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 32</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_32_63/64</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Otmar Ortwin von St. Gallen beschwert sich bei Bürgermeister und Rat zu St. Gallen
+                    über die Beschlagnahmung des Besitzes von ihm und seiner Ehefrau. Er bittet um eine
+                    schriftliche Antwort mit dem gleichen Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-66">Beschlagnahmung</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-297">Ehefrau</term>
+                    <term ref="stadtasg-keywords-495">Hab und Gut</term>
+                    <term ref="stadtasg-keywords-10">Zins</term>
+                    <term ref="stadtasg-keywords-251">Stadtrecht</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-24">Otmar Ortwin</persName>
+                    
+                    <date>1427-04-16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_32_63.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Fürsihtigen wisen und gnaedigen lieben herren. Ich lass üch wissen, das
+                mir für ist kumen, wie ir minem wib und das min <lb
+                    n="2"/>verheft habend, dz mich doch unbillich nimt von üch, won ich doch in
+                solicher mass nüt bin von haiman kommen, dz ich <lb n="3"/>ieman beger, dz sin zue
+                enpfuorend, wem ich denn schuldig bin. Dar umb lieben herren bitten ich üwer gnad
+                iemer durch <lb n="4"/>mines dienstes willen, dz ir nüt gahend an minem wib und an
+                dem minen und mir keinen gewalt tuegend, kan ich <lb n="5"/>solichs und groessers
+                umb üch verdienan, des wil ich willig sin, und wer och die sind, denan ich schuldig
+                bin, mit denan wil <lb n="6"/>ich früntlich überkomen und si unklaghaft machen. Und
+                getrüw och üwern gnaden wol, dz ir mir, minem wib dz min <lb n="7"/>entschlahend
+                untz uff die zit, dz ich hin uf kumen mag, dz doch üwer statt reht, dz man doch
+                nieman in dz sin fallen soell, <lb n="8"/>er sig denn lantflühtig, dz ich doch von
+                den gnaden gotz nüt enbin, und bin och in solicher mass nüt von haiman kumen, <lb
+                    n="9"/>dz ich min schuld gefoerhted hab denn umb solich sach, als üch allen wol
+                ze wissend ist, rat dar umb ze suochen, wie ich <lb n="10"/>die für hand nem, dz ich
+                bi glimpf und bi eran bestand. Och bin ich der statt besunder nüt schuldig denn VI
+                <abbr>lb.</abbr> haller bank <lb break="no" n="11"/>zins, dar an ist mir die schuldig VIII tag,
+                die ich geriten bin in irem dienst, und och ist mir die statt schuldig XXX guldin,
+                    <lb n="12"/>die si mir versprachen hand ze geben von <persName ref="stadtasg-actors-22"
+                    >Wilhelm Vischen</persName> wegen. Lieben herren tuond har zuo als ich üwern
+                gnaden besunder <lb n="13"/>wol getruw, üwer verschriben antwurt bi disem botten.
+                Geben uff die <origDate when="1427-04-16">krummen mitwuchen anno domini Mo CCCCo
+                    XXVII iar</origDate>. <lb n="14"/><persName ref="stadtasg-actors-24" role="issuer">Otmar
+                    Artwin</persName>
+                <lb n="15"/>von <placeName ref="stadtasg-places-38">sant Gallen</placeName>. <pb
+                    facs="StadtASG_Missive_32_64.JPG" n="2"/>
+                <lb n="16"/>Den fürsihtigen und wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermeister <lb n="17"/>und dem ratte zuo sant Gallen</orgName> minen
+                gnaedigen <lb n="18"/>lieben herren. </p>
+        </body>
+    </text>
+</TEI>

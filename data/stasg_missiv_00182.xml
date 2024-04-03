@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 182</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note><p>Zur Sache siehe auch Urkundenbuch der Abtei Sanct Gallen VI, Nr. 4645.</p></note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_182_365/366</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hans Wilhelm von Friedingen, Vogt zu Bregenz, teilt Bürgermeister und Rat zu St.
+                    Gallen mit, dass er nichts darüber vernommen habe, dass mehrere Bregenzer dem
+                    Hans Gimmel, einem armen Mann der St. Galler Bürgerin Dorothea von Altstätten,
+                    Pferde gestohlen hätten, oder dass Leuten von Balgach, ebenfalls St. Galler
+                    Bürger, noch Geld für Getreide geschuldet würde. Er wolle sich aber nach diesen
+                    Vorgängen erkundigen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-106">Diebstahl</term>
+                    <term ref="stadtasg-keywords-163">Pferd</term>
+                    <term ref="stadtasg-keywords-127">Geld</term>
+                    <term ref="stadtasg-keywords-144">Getreide</term>
+                    <term ref="stadtasg-keywords-440">Korn</term>
+                    <term ref="stadtasg-keywords-13">Schulden</term>
+                    <term ref="stadtasg-keywords-187">Kundschaft</term>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+                    <term ref="stadtasg-keywords-214">Krieg</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-62">Hans Wilhelm von Friedingen, Vogt zu
+                        Bregenz</persName>
+                    
+                    <date>1444-11-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-07-08</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_182_365.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min willig dienst zuo vor ersamen wysen lieben fründ. Iüwer schriben <lb
+                    n="2"/>mir yetz von wegen ettlicher roß, so iüwer burgerin frow <persName
+                    ref="stadtasg-actors-44">Thoroteen von <lb n="3"/>Altstetten</persName> arm man <persName
+                    ref="stadtasg-actors-321">Hansen Gimel</persName> ettlich von <placeName ref="stadtasg-places-60"
+                    >Pregentz</placeName> genomen <lb n="4"/>und hingetryben haben, ouch von korns
+                wegen, dz iüwern burgern <lb n="5"/>von <placeName ref="stadtasg-places-119"
+                    >Balgach</placeName> ußliget etc. han ich gueter maß wol verstanden, und <lb
+                    n="6"/>ist mir darumb nit wißentlich, bin och daby noch damit nit gewesen. <lb
+                    n="7"/>Ich will aber min fraug gern darnach haben und minen ernst darzuo <lb
+                    n="8"/>tuon. Denn wa ir oder die iüwern in disen kriegen yendert beschaediget
+                    <lb n="9"/>wurden, waere mir in trüwen wider und laid. Geben und mit <persName
+                    ref="stadtasg-actors-322">Hainrich <lb n="10"/>Hetzenmoser</persName> insigel brestenhalb
+                des minen besigelt an <origDate when="1444-11-08">sonntag <lb n="11"/>vor Martine
+                    anno etc. XLIIIIo</origDate>. <lb n="12"/><persName ref="stadtasg-actors-62"
+                    role="issuer">Hans Wilhelm von Fridingen</persName>, <lb n="13"/>vogt zuo
+                    <placeName ref="stadtasg-places-60">Pregentz</placeName>. <pb
+                    facs="StadtASG_Missive_182_366.JPG" n="2"/>
+                <lb n="14"/>Den ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und <lb n="15"/>raetten zuo Santgallen</orgName> minen guoten <lb
+                    n="16"/>fründen. </p>
+        </body>
+    </text>
+</TEI>

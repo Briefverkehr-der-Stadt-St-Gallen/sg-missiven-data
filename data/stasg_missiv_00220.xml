@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 220</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_220_441/442</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ursula Schenk bittet Bürgermeister und Rat zu St. Gallen um Informationen über
+                    ihre Kinder, da Ulrich Truchsess die Vogtei über ihre Kinder aufgegeben habe und
+                    sie seit langem nichts mehr in dieser Angelegenheit gehört habe.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-269">Kind</term>
+                    <term ref="stadtasg-keywords-270">Vormundschaft</term>
+                    <term ref="stadtasg-keywords-627">Vogtei</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-72">Ursula Schenk</persName>
+                    <date>1450-01-05</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-09</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_220_441.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min ffrüntlich willig dienst und wz ich guotes vermag ersamen <lb n="2"
+                />wisen und guoten fründ. Als ir zum naechsten <persName ref="stadtasg-actors-206">Cuonraten
+                    Hoeren</persName> zuo <lb n="3"/>mir hattent geschikt und er mir ffürgab, wie dz
+                <persName ref="stadtasg-actors-100">Uolrich Truksaes</persName> die <lb n="4"/>vogty als von miner kind
+                waegen uff hett geben und er maynt, minen <lb n="5"/>willen darinn zuo erffarin
+                etc., nun han ich sid her nütz mer davon <lb n="6"/>gehoert. Nun hand mir min ffründ
+                geschriben als von miner kind waegen, <lb n="7"/>als ir dz wol vernomen mugent
+                haben, und ich inen nütt geantwurten <lb n="8"/>kan, denn ich gantz nütt waiss, wie
+                darumb an gestalt hat, und bitt <lb n="9"/>üch mitt ernst, ir wellint mich lassen
+                wissen, ob ir die kind zuo <lb n="10"/>üwren handen ziehen wellint oder wie es
+                darumb an gestalt hab. <lb n="11"/>Geben uff der <origDate when="1450-01-05">haylgen
+                    try küng abent im L iar</origDate>. <lb n="12"/><persName ref="stadtasg-actors-72"
+                    role="issuer">Ursel Schenkin, geborn <lb n="13"/>von Urbach</persName>. <pb
+                    facs="StadtASG_Missive_220_442.JPG" n="2"/>
+                <lb n="14"/>Den ersamen wisen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >birgenmaister und rat <lb n="15"/>zuo sant Gallen</orgName> minen besunder
+                guoten <lb n="16"/>fründen. </p>
+        </body>
+    </text>
+</TEI>

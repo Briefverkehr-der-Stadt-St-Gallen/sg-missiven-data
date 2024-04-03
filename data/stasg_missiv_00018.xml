@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 18</title>
+            </titleStmt>
+
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_18_35/36</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Werner Ehinger, Bürger zu Konstanz, bittet Bürgermeister und Rat zu St. Gallen,
+                    seine weibliche Verwandte, Schwester Ursula Schlichting, wieder in die Klause in
+                    St. Gallen aufzunehmen, zumal mit seiner und anderer ihrer Freunde Hilfe die
+                    Klause nach der Feuersbrunst wieder aufgebaut worden sei. Er bittet um
+                    schriftliche Antwort.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-40">Einsiedelei</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-41">Feuer</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-519">Verwandtschaft</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-17">Werner Ehinger</persName>
+                    
+                    <date>1423-05-14</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <p/>
+                <persName>SO</persName>
+                <date>2018-06-29</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_18_35.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min willig früntlich dienst voran ersamen wisen lieben herren und guoten
+                fründe. <lb n="2"/>Als üch wol ze wissent ist von miner muomen wegen swester
+                    <persName ref="stadtasg-actors-136">Ursulen Schlichtingin</persName>, <lb n="3"/>als die
+                gern wider in die klosen bi üch waere, daz ir aber gespert wirdt, als ich <lb n="4"
+                />und ander ir fründ vernomen haben. Nu wissent ir wol, daz si mit miner und ander
+                    <lb n="5"/>ir fründ hilff die klosen nach der brunst wider buwen und ufbracht
+                hat. <lb n="6"/>Lieben herren und guoten fründ, also bitt ich üch früntlich und
+                ernstlich, daz ir üwer <lb n="7"/>früntlich fürdernuss und bestes darzuo und darinn
+                tuon wellent, daz die vorgenant <lb n="8"/>swester <persName ref="stadtasg-actors-136"
+                    >Ursul</persName> in die klosen komm, und getrüwen üwer ersam früntschafft, ez
+                dunke <lb n="9"/>üch selb billich und bewisent üch herinn von minen wegen gen ir,
+                als ich üch <lb n="10"/>sunder wolgetrüwen. Wa ich daz umb üch ald die üwern
+                beschulden und gedienen <lb n="11"/>kan, sond ir mich zuo allentzyten willig finden,
+                und land mich darumb üwer <lb n="12"/>früntlich verschriben antwurt wissen. Geben
+                uff <origDate when="1423-05-14">frytag nach dem uffarttag <lb n="13"/>anno etc.
+                    CCCCmo XXIIIo</origDate>. <lb n="14"/><persName ref="stadtasg-actors-17" role="issuer"
+                        >Wernher Ehinger</persName> burger <lb n="15"/>ze <placeName ref="stadtasg-places-7"
+                    >Costentz</placeName>. <pb facs="StadtASG_Missive_18_36.JPG" n="2"/>
+                <lb n="16"/>Den ersamen wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und <lb n="17"/>rate ze sant Gallen</orgName> minen lieben herren
+                und <lb n="18"/>fründen. </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 103</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_103_205/206</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Marquart der Jüngere von Schellenberg antwortet Bürgermeister und Rat zu St.
+                    Gallen, dass er auf seine Forderung gegenüber ihrem Bürger Eberhard von
+                    Ramschwag nicht verzichten und daher den von ihnen angesetzten Verhandlungstag
+                    aufsuchen werde.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-37">Verhandlung</term>
+                    <term ref="stadtasg-keywords-148">Schuldforderung</term>
+                    <term ref="stadtasg-keywords-149">Rechtstag</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-46">Marquart der Jüngere von Schellenberg</persName>
+                    
+                    <date>1438-03-20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2018-12-13</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-04-14</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_103_205.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min früntlich willig dienst vor lieben die von Santgallen. Üwer schriben
+                    <lb n="2"/>mir getan von wegen Üwers burgers <persName ref="stadtasg-actors-223">Eberhart
+                    von Ramschwags</persName> hab <lb n="3"/>ich zue gueter mauß vernomen, und lauß
+                üwer wyßhait wissen, wa <lb n="4"/>mit ich üch ze dienst werden moecht, das ich des
+                willig waer. Aber <lb n="5"/>von soelicher vordrung gegen <persName ref="stadtasg-actors-223"
+                    >Ramswagen</persName> und <persName ref="stadtasg-actors-231">siner husfrawen</persName> ze laussen, <lb
+                    n="6"/>waer mir nit eben nach gelegenhait der sach, als ir das wol verne <lb
+                    break="no" n="7"/>men werdent. Bitt ich üch, mir das nit für übel zue haben, und
+                    <lb n="8"/>vermain soelichen rechttag mir von üch gesetzet gegen dem benempten
+                <lb n="9"/><persName ref="stadtasg-actors-223">Ramswagen</persName> oder <persName ref="stadtasg-actors-231">siner
+                    hußfrawen</persName> nach den geschriften, zwischen <lb n="10"/>üwer und min
+                darunder verloffen, vor üch ze suechen und nach ze <lb break="no" n="11"/>komen.
+                Geben an <origDate when="1438-03-20">donrstag vor dem sonntag lettare anno etc. <lb n="12"
+                />XXXVIIIto</origDate>. <lb n="13"/><persName ref="stadtasg-actors-46" role="issuer">Marquart von Schellenberg <lb
+                        n="14"/>der iünger</persName> ritter. <pb
+                    facs="StadtASG_Missive_103_206.JPG" n="2"/>
+                <lb n="15"/>Den ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burger <lb break="no" n="16"/>maister und
+                    raeten der statt Sant <lb break="no" n="17"/>gallen</orgName> minen gueten
+                frunden. </p>
+        </body>
+    </text>
+</TEI>

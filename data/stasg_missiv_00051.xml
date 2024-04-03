@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 51</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_51_101/102</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hans Frank informiert Berchtold Gudler, Zöllner im Kaufhaus zu Ulm, in einem
+                    zweiten Brief über den Abschluss eines Kaufs von 100 Scheiben Wachs durch Peter
+                    von Watt.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-90">Wachs</term>
+                    <term ref="stadtasg-keywords-91">Handel</term>
+                    <term ref="stadtasg-keywords-92">Preis</term>
+                    <term ref="stadtasg-keywords-353">Kaufhaus</term>
+                    <term ref="stadtasg-keywords-180">Kaufmann</term>
+                    <term ref="stadtasg-keywords-284">Kauf</term>
+                    <term ref="stadtasg-keywords-614">Zöllner</term>
+                    <term ref="stadtasg-keywords-129">Zoll</term>
+                    <term ref="stadtasg-keywords-284">Kauf</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-32">Hans Frank</persName>
+                    
+                    <date>1431-08-21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-33">Berchtold Gudler</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_51_101.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Mein gruß zu vor. Wist lieber herr <persName ref="stadtasg-actors-33"
+                    >Perchtolt</persName>, alß ich euch <lb n="2"/>geschribn hab in dem nehsten
+                prief vor dem, wie das die kaufleut <lb n="3"/>mit ein ander in eim kauff gestanden
+                sein umb das lemrisch wachs, <lb n="4"/>wol umb ein C scheiben und etbaß mer, und
+                der selb kauf ist für <lb n="5"/>sich gangen und ist etbaß höher geben worden den
+                umb XV gulden <lb n="6"/>und umb I ort. Nun meint der gesel, der mirs gesagt hat, es
+                    <lb n="7"/>werd des der wirdigklihr gehalten, der alß ein grossen <lb n="8"
+                />kauf hab getun, und der das wachs hat kaufft, der hat sein vor <lb n="9"/>wol II C
+                scheiben und mer, dar umb wist euch das dar nach <lb n="10"/>zu richten. Den ersten
+                prief schreib ich des morgens früe, und <lb n="11"/>den prief schreib ich nach
+                tyschzeit am abent, alß man mir die <lb n="12"/>lewft saget, und ich sich nit mer
+                den II scheiben, die der <persName ref="stadtasg-actors-173">Peter <lb n="13"/>von
+                    Watt</persName> geladen hat. Und wen ich mer etbaß hörr, so schreib <lb n="14"
+                />ich euch mer nit mer. Got sey mit uns. Geben am <origDate when="1431-08-21"
+                    >dinsttag <lb n="15"/>nach unsser frowen tag im XXXI iar</origDate>. <lb n="16"
+                    /><persName ref="stadtasg-actors-32" role="issuer">Hans Frank</persName>. <pb
+                    facs="StadtASG_Missive_51_102.JPG" n="2"/>
+                <lb n="17"/>Dem erbern wisen <lb n="18"/>man <persName ref="stadtasg-actors-33"
+                    role="recipient">Perchtolt <lb n="19"/>Gudler</persName>, zolner <lb n="20"/>im
+                    <placeName ref="stadtasg-places-63">kaufhawß <lb n="21"/>zu Ulm</placeName>. </p>
+        </body>
+    </text>
+</TEI>

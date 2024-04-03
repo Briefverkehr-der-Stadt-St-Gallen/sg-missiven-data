@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 301</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_301_607/608</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hans Fechter, Stadtknecht zu Ulm, beschwert sich bei Bürgermeister und Rat zu St. Gallen, dass sie beim Bau der neuen Mauer und des neuen Grabens um die Vorstadt seinen Garten zerstört und die Erde an sein Haus geworfen hätten. Andere Anwohner, denen dasselbe passiert sei, seien entschädigt worden, er aber nicht. Er bittet um eine Verhandlung in St. Gallen und um sicheres Geleit auf dem Hin- und Rückweg. Er bittet zudem um eine schriftliche Antwort.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-580">Stadtknecht</term>
+                    <term ref="stadtasg-keywords-331">Bau</term>
+<term ref="stadtasg-keywords-68">Entschädigung</term>
+<term ref="stadtasg-keywords-37">Verhandlung</term>
+                    <term ref="stadtasg-keywords-2">Geleit</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-332">Garten</term>
+                    <term ref="stadtasg-keywords-624">Vorstadt</term>
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-103">Hans Fechter</persName>
+                    <placeName ref="stadtasg-places-28">Ulm</placeName>                    <date>1454-01-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>SC</persName>
+                <date>2022-11-15</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_301_607.JPG" n="1" />
+<p>
+<lb n="1" />Min willig dienste zuovor fürsichtigen und wysen lieben
+<lb n="2" />herren. Üwer wißhait ist, als mir nicht zwifelt, wol
+<lb n="3" />wißent, wie ir zuo den zyten, als ir die mure und graben
+<lb n="4" />umb üwer vorstatt machen woltent, mir minen garten
+<lb n="5" />gewuest und das ertrich uß dem selben graben an min
+<lb n="6" />huse und hofraitin werffen laussen habend, des ich zuo
+<lb n="7" />baerlichem schaden komen bin, und vormals darumb
+    <lb n="8" />durch minen herren <persName ref="stadtasg-actors-71">Hainrichen Zwicker</persName>, üwern burgermaister,
+<lb n="9" />wandel und bekerung an üwer wißhait begert han,
+<lb n="10" />deßhalb ich davon zuo schriben nicht not tuot, denn sovil
+<lb n="11" />als mir deßmals geantwurt ward, man wurde mit
+<lb n="12" />andern lüten, den deßglichen ouch schade geschehen, vor
+<lb n="13" />reden und überkomen, wenn soelichs beschaehe, so wurde
+<lb n="14" />üwer wißhait mit mir ouch reden und überkomen.
+<lb n="15" />Also han ich glouplich vernommen, wie das ettlichen
+<lb n="16" />den üwern umb soelichen iren schaden bekerung von
+<lb n="17" />üch beschehen sye, und darumb wan ich nun des minen
+<lb n="18" />vast notdurfftig zuo wyderlegen were, so bitt ich üwer
+<lb n="19" />wißhait mit ernstlichem vlizze, ir woellent mir soelichen
+<lb n="20" />minen schaden och guetlich ablegen und deßhalb ainen
+<lb n="21" />tag für üwer wißhait in üwer statt zuo komen be
+<lb break="no" n="22" />schaiden und dartzuo sicherhait und gelaite zuo üch by
+<lb n="23" />und wyder von üch bis an min gewar geben, so wil
+<lb n="24" />ich mich zuo üwer wißhait fuegen und nach zymmlichen
+<lb n="25" />dingen mit üch ains werden, denn ich hab ain soelich
+<lb n="26" />getruwen zuo üwer wißhait, das ir mins schadens selb
+<lb n="27" />nicht begerend. Das wil ich mit willen umb üwer
+<lb n="28" />ersamkait und die üwern, wa ich kan, gerne verdienen.
+<lb n="29" />Und begeren darumb üwer guetlich verschriben
+<lb n="30" />antwurt wyder mich, dar nach wissen mugen
+    <lb n="31" />zuo richten. Geben zuo <origPlace ref="stadtasg-places-28">Ulme</origPlace> uff <origDate when="1454-01-08">sant Erhartz
+        <lb n="32" />tage anno domini etc. LIIIIto</origDate>.
+    <lb n="33" /><persName ref="stadtasg-actors-103" role="issuer">Hanns Fechter</persName> statt
+    <lb break="no" n="34" />knechte ze <placeName ref="stadtasg-places-28">Ulme</placeName>.
+<pb facs="StadtASG_Missive_301_608.JPG" n="2" />
+    <lb n="35" />Den fürsichtigen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="36" />und rate der statt zuo sant Gallen</orgName>
+<lb n="37" />minen lieben herren.
+</p>
+        </body>
+    </text>
+</TEI>

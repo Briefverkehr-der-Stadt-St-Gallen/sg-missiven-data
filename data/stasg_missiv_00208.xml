@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 208</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note><p>Die erwähnte Beilage ist nicht vorhanden.</p></note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_208_417/418</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Appenzell informieren Bürgermeister und Rat zu St. Gallen über
+                    einen Gerichtstermin am 15. Februar in Altstätten, an dem ein Streit von Abtwil
+                    verhandelt werde. Die Appenzeller bitten die St. Galler, ihnen Junker Konrad von
+                    Andwil, ihren Ratsgesellen, zur Unterstützung zu schicken, da dieser bereits mit
+                    der Angelegenheit vertraut sei.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-149">Rechtstag</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-323">Junker</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-506">Ammann und Rat zu Appenzell</orgName>
+                    <date>1448-02-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-19</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_208_417.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst voran lieben und guoten fründ und <lb n="2"
+                />getrüwen aidgnossen. Wir fuogen üch ze wissen, das <persName ref="stadtasg-actors-43">Hans
+                    Thumb</persName> und <lb n="3"/>ettlich der unsern ettwas zwaytraechtig mit
+                enander sind, das nun <lb n="4"/>iunker <persName ref="stadtasg-actors-344">Cuonrat von
+                    Ainwil</persName>, üwer ratz gesell, üch wol gesaegen kan, <lb n="5"/>won er
+                iunker <persName ref="stadtasg-actors-43">Hansen Thumen</persName> zuo gefuegt was von der
+                selben sachen <lb n="6"/>wegen. Und hierumb haben wir ainen früntlichen tag gesetzt
+                uf den <lb n="7"/><date when="1448-02-15">naechsten donstag nach der mann
+                    vasnacht</date> gen <placeName ref="stadtasg-places-11">Altstetten</placeName>, da bitten
+                    <lb n="8"/>wir üch als früntlichest wir kunnen, das ir uns den selben iunker
+                    <lb n="9"/><persName ref="stadtasg-actors-344">Cuonraten von Ainwil</persName> uf den
+                selben tag zuo senden, won wir sin ze <lb n="10"/>mal notturfftyg sygent, und tuond
+                hierinn, als wir ain besunder <lb n="11"/>guot getruwen zuo üch haben und umb üch
+                mit gantzem willen <lb n="12"/>verdienen wollen. Won das zeschulden kaem als dann
+                unser amman <lb n="13"/>und ander nun naechst von üwerm grossen ratt gewesen sygen
+                und <lb n="14"/>mit üch gerett haben von den stoessen wegen ze <placeName
+                    ref="stadtasg-places-61">Abwil</placeName>, als ir das aigen <lb break="no" n="15"/>lich
+                wol verstanden haben und sy uns für bringen, wie ir die sachen <lb n="16"/>gar
+                früntlich von inen vernumen haben, das uns ze mal lieb ist <lb n="17"/>und üwer
+                aintwurt, was wir das üch ze mal laid waer, und <lb n="18"/>üch liessen wissen,
+                welly die wärin, also lassen wir üch wissen, welly <lb n="19"/>die waren,
+                verschlossen in disem brief. Geben am <origDate when="1448-02-08">donstag vor der
+                        <lb n="20"/>mann vassnacht anno domini XLVIIIo</origDate>. <lb n="21"
+                    /><orgName ref="stadtasg-actors-506" role="issuer">Amman und ratt <lb n="22"/>ze
+                    Appenzell.</orgName>
+                <pb facs="StadtASG_Missive_208_418.JPG" n="2"/>
+                <lb n="23"/>Den ersamen und wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und ratt ze sant Gallen</orgName>
+                <lb n="24"/>unsern getrüwem aidgnossen und guoten fründen.</p>
+        </body>
+    </text>
+</TEI>

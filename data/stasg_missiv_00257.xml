@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 257</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_257_515/516</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Arbon informieren Bürgermeister und Rat zu St. Gallen darüber,
+                    dass die Arboner Bürgerin Margaretha Buchmüller von der St. Galler Bürgerin
+                    Adelheid Uhler von Uttwil vor das Gericht von Burkhard Schenk in Roggwil gezogen
+                    worden sei, obwohl sie sich nichts habe zu schulden kommen lassen. Arbon bittet
+                    St. Gallen, ihre Bürgerin davon zu überzeugen, von der Angelegenheit abzulassen.
+                    Sollte sich Margaretha Buchmüller etwas zu Schulden haben kommen lassen, würden
+                    sie sie vor ihr eigenes Gericht stellen, wie das bisher in guter Freundschaft
+                    gegeneinander üblich gewesen sei.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-25">Gericht</term>
+                    <term ref="stadtasg-keywords-198">Unschuld</term>
+                    <term ref="stadtasg-keywords-299">Verzicht</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-323">Junker</term>
+
+
+                    
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-102">Ammann und Rat zu Arbon</orgName>
+                    <date>1452-02-25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS und SO</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg und SC</persName>
+                <date>2022-03-30</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_257_515.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst bevor lieben herren und guoten <lb n="2"
+                />fründe. Uns haut fürbracht <persName ref="stadtasg-actors-418">Margrett Buochmüllerin</persName>, unser
+                burgerin, <lb n="3"/>wie das sy <persName ref="stadtasg-actors-419">Adelhait Uolerin</persName> von
+                <placeName ref="stadtasg-places-159">Uttwylen</placeName>, üwer burgerin, für iunkhern <lb n="4"
+                /><persName ref="stadtasg-actors-420">Burkartz Schenken</persName> gericht gen
+                <placeName ref="stadtasg-places-138">Roggwylen</placeName> für genomen habint, <lb n="5"/>über das sy ir
+                gantz nichtz schuldig sye, und bitten üch mit <lb n="6"/>ernste, ir wellen so wol
+                tuon und mit der obgenanten <persName ref="stadtasg-actors-419">Adelhaiten</persName>
+                <lb n="7"/>so vil reden und schaffen, das sy die obgenanten
+                <persName ref="stadtasg-actors-418">Margreten</persName>, unser <lb n="8"/>burgerinen, mit dem obgenanten
+                gericht umbekümbert lausse. Haut <lb n="9"/>sy denn ichtz zuo ir ze sprechende,
+                warummb das ist, so wellen wir <lb n="10"/>sy ir zem früntlichen rechten stellen vor
+                unserm stabe, als wir <lb n="11"/>das bys haer in guoter früntschafft gegen ain
+                andren gehalten <lb n="12"/>haben. Und tuond hierinn, als wir üch wol getrüwen. Das
+                wellen <lb n="13"/>wir mit willen umb üch beschulden und verdienen. Datum ypsa
+                <origDate when="1452-02-25">die <lb n="14"/>Mathie etc. anno etc. LII</origDate>. <lb n="15"
+                /><orgName ref="stadtasg-actors-102" role="issuer">Amman und raut <lb n="16"/>zuo Arbon</orgName>. <pb
+                    facs="StadtASG_Missive_257_516.JPG" n="2"/>
+                <lb n="17"/>Den fürsichtigen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und <lb n="18"/>raut zuo
+                    sant Gallen</orgName> unsren lieben herren und <lb n="19"/>guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

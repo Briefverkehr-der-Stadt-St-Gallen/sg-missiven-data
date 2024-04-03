@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 282</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_282_569/570</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Vogt und Rat zu Bischofszell informieren Bürgermeister und Rat zu St. Gallen, dass ihr Bürger Ulrich Herr am 21. März eine Gerichtsverhandlung mit Hans Hüniswiler in Oberuzwil habe, und sie bitten die St. Galler, dass sie eine Ratsdelegation zu seiner Unterstützung dorthin schicken.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+<term ref="stadtasg-keywords-70">Termin</term>
+<term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+<term ref="stadtasg-keywords-130">Ratsdelegation</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-263">Vogt</term>
+<term ref="stadtasg-keywords-149">Rechtstag</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-532">Vogt und Rat zu Bischofszell</orgName>                    <date>1453-03-16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>SC</persName>
+                <date>2022-07-25</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_282_569.JPG" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig dienst zuovor ersamen und wisen sondern
+    <lb n="2" />lieben und guoten fründe. Unser burger <persName ref="stadtasg-actors-441">Uoly Herr</persName> hat ainen treffenlichen
+    <lb n="3" />rechttag uff <date when="1453-03-21">mitwuchen neachstkünftig</date> zuo rechter tagzit zuo <placeName ref="stadtasg-places-181">Ober Utzwil</placeName>
+    <lb n="4" />mit <persName ref="stadtasg-actors-442">Hansen Hüniswiler</persName> ze suochint und ze laistent, daran im
+<lb n="5" />nu vil und treffenlichz liget und daby er üwer wisen ratzbottschaft
+<lb n="6" />zemal notturftig ist. Hierumb so bitten wir üch mit ernst von
+<lb n="7" />des unsern wegen, ir wellent umb unsern willen demselbem unserm
+    <lb n="8" />burger iüwer erber wiß ratzbottschaft uff <date when="1453-03-21">yetz mitwochen zuoneachst</date>
+<lb n="9" />zuo dem berürten rechtag zuo schiben und lihen, och daselben hin
+    <lb n="10" />gen <placeName ref="stadtasg-places-181">Oberutzwil</placeName> senden und der bevelhen, dem unsern alda in den
+<lb n="11" />dingen des besten und getrülichensten beraten und beholffen zuo
+<lb n="12" />sinde, und uns dz nit verzihen, denn sich der unser gentzlichen
+<lb n="13" />daran verlausset. Dz woellen wir hienach in derglich und merern
+<lb n="14" />sachen umb üwer wißhait und die üwern beschulden und verdienen.
+    <lb n="15" />Datum <origDate when="1453-03-16">sexta post letare anno domini etc. LIIIo</origDate>.
+    <lb n="16" /><orgName ref="stadtasg-actors-532" role="issuer">Vogt und rat
+<lb n="17" />zuo Bischoffzell</orgName>.
+<pb facs="StadtASG_Missive_282_570.JPG" n="2" />
+    <lb n="18" />Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raeten zuo
+<lb n="19" />sant Gallen</orgName> unsern sondern lieben und guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

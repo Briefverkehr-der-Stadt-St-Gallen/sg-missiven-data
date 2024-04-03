@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 317</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_317_639/640</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Überlingen bitten Bürgermeister und Rat zu St. Gallen, zu ihrer Unterstützung eine Ratsdelegation an eine Verhandlung am 29. Juli nach Sigmaringen zu schicken, an welcher die Angelegenheit um Konrad Schürpf von Freudenberg und seine Helfer verhandelt werde. Dieser habe Überlingen den Krieg erklärt, worauf die Stadt Graf Johann von Werdenberg als Vermittler aufgeboten habe. Überlingen bittet um eine schriftliche Antwort mit dem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-130">Ratsdelegation</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-120">Vermittlung</term>
+<term ref="stadtasg-keywords-48">Feindschaft</term>
+<term ref="stadtasg-keywords-275">Fürst</term>
+<term ref="stadtasg-keywords-278">Graf</term>
+<term ref="stadtasg-keywords-240">Ritter</term>
+<term ref="stadtasg-keywords-124">Knecht</term>
+<term ref="stadtasg-keywords-149">Rechtstag</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-68">Bürgermeister und Rat zu Überlingen</orgName>                    <date>1455-07-21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>SC</persName>
+                <date>2023-02-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_317_639.JPG" n="1" />
+<p>
+<lb n="1" />Unser früntlich willig dienst zuo vor ersamen wisen sonder
+    <lb n="2" />lieben und guoten fründ. <persName ref="stadtasg-actors-484">Cuonrat Schorpp</persName> von <placeName ref="stadtasg-places-192">Froedemberg</placeName> und
+<lb n="3" />ettlich sine helffer hand uns ain muottwillig vintschafft zuo gesagt,
+<lb n="4" />daby uns und die unsern über unbedingte voellige recht, so wir
+<lb n="5" />im muntlich und geschrifftlich uff fürsten, herren, graffen, fryen
+<lb n="6" />ritter und knecht fürgeschlagen haben, und emals er uns ain
+<lb n="7" />vintschafft geseyt hab, beschaediget der selben vintschafft und spennhalb
+    <lb n="8" />der wolgeporn unser gnaedier herre graff <persName ref="stadtasg-actors-436">Johans von Werdem
+        <lb break="no" n="9" />berg</persName> etc. ainen guetlichen tag zwüschen <persName ref="stadtasg-actors-484">Schorppen</persName> und uns für
+    <lb n="10" />sin gnad gen <placeName ref="stadtasg-places-193">Sigmeringen</placeName> uff <date when="1455-07-28">mentag zuo nacht naechst nach
+    <lb n="11" />sannt Jacobs tag schierost künfftig</date> daselbs zuo sind gesetzt hat,
+    <lb n="12" />enmornens an dem <date when="1455-07-29">zinstag</date> zuo der sach zuo tuond, und wann uns
+<lb n="13" />zuo mal not ist uff soelich verungelimpffen, so uns der gemelt
+    <lb n="14" /><persName ref="stadtasg-actors-484">Schorpp</persName> zuo der unbillichen muotwilligen beschaedigung zuo zühet,
+<lb n="15" />das ir und och menglich luter under richtet werde unsers
+<lb n="16" />gelimpffs und ungelimpffs, so bitten wir üch mit ernstlichem
+<lb n="17" />flysse, uns uff den beruerten guetlichen tag üwer treffenlich
+<lb n="18" />wiß ratzbottschafft zuo lihen und zuo sennden, der selben ratzbott
+<lb break="no" n="19" />schafft ernstlich zuo bevelhen, by uns zuo stand, hilfflich under
+<lb break="no" n="20" />wisig und ratlich zuo sinde, nach dem und sich gepüren wirt,
+<lb n="21" />alz uns dez nit zwifelt. Das begeren wir umb üch und die
+<lb n="22" />üwern in der glichen mindern und meren sachen, wa sich dz
+<lb n="23" />haischet, mit guotem willen zuo verdienen. Üwer verschriben ant
+    <lb break="no" n="24" />wurt land uns wissen by dem botten. Geben an <origDate when="1455-07-21">sannt Maria
+    <lb n="25" />Magdalenen abent anno domini etc. LVo</origDate>.
+    <lb n="26" /><orgName ref="stadtasg-actors-68" role="issuer">Burgermaister und raute
+<lb n="27" />zuo Überlingen</orgName>.
+<pb facs="StadtASG_Missive_317_640.JPG" n="2" />
+    <lb n="28" />Den ersamen wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raute zuo
+<lb n="29" />sannt Gallen</orgName> unsern insondern lieben und guoten
+<lb n="30" />fründen.
+</p>
+        </body>
+    </text>
+</TEI>

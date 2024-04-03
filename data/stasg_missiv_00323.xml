@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 323</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_323_651/652</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Johann von Hinwil, Abt des Benediktinerklosters auf der Reichenau, berichtet Bürgermeister und Rat zu St. Gallen, dass er mit Bestürzung erfahren habe, dass der St. Galler Bürger Konrad Lienhard überfallen worden sei. Die Befragung seiner Amtsleute habe nicht zur Identifizierung des Räubers mit dem Jakobs-Zeichen geführt, obwohl er bereits gesehen worden sei. Er habe in der Herberge ein gutes Bindmesser vergessen und werde wohl zurückkommen; seine Amtsleute seien jedenfalls alarmiert.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-201">Abt</term>
+<term ref="stadtasg-keywords-115">Kloster</term>
+<term ref="stadtasg-keywords-75">Angriff</term>
+<term ref="stadtasg-keywords-141">Befragung</term>
+<term ref="stadtasg-keywords-339">Identifizierung</term>
+<term ref="stadtasg-keywords-236">Raub</term>
+<term ref="stadtasg-keywords-327">Waffe</term>
+<term ref="stadtasg-keywords-95">Warnung</term>
+<term ref="stadtasg-keywords-620">Herberge</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-615">Johann von Hinwil</persName>                    <date>1456-04-15</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-01-15</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_323_651.JPG" n="1"/>
+<p>
+<lb n="1"/>Was wir ze allen ziten eren und guottes vermögen bevor ersamen wisen lieben und guotten fründe.
+<lb n="2"/>Als ir uns von <persName ref="stadtasg-actors-469">Cüni Lienharts</persName>, üwers burgers, wegen, wie der beroupt sy, mit andern byworten geschriben, haben
+<lb n="3"/>wir wol verstanden. Sölliche smach und schad uns mit gantzen trüwen laid sind, und haben ouch
+<lb n="4"/>von stund an, als wir üwer schrifft verlesen haben, den <persName ref="stadtasg-actors-614">Wernher</persName> und ander für uns begagnot und
+<lb n="5"/>unser amptlüt darzuo berüfft und sie von den dingen gefragt, die redend, daz sie nit wissind, von
+<lb n="6"/>wannen der selb röber mit sant Iacobs zaichen sye, wol habend sie in vor ouch mer gesechen. Nun
+<lb n="7"/>hat er in der herberg ain guot binder messer gelaussen, möcht wol komen, er wurde villicht der tag
+<lb n="8"/>ains darnach komen, darzuo dann unsern amptlüten mer dann uns gepürt ze tuon, die dann üwer schrifft
+<lb n="9"/>ouch aigenlich gehört haben, und mainen mit sampt unsern amptlüten darzuo ze tuon, daz ir verstan
+<lb n="10"/>söllen, daz uns schad, der üch und den üwern zuo gezogen wirt, indert und ussert unsern gerichten
+<lb n="11"/>trülich laid sy und nit gern haben, dann wamit wir üch lieb und guot früntschafft bewisen möchten,
+<lb n="12"/>täten wir mit guottem willen gern. Datum uff <origDate when="1456-04-15">donrstag nechst vor dem sonntag iubilate anno
+<lb n="13"/>etc. LVIto</origDate>.
+<lb n="14"/>Von gnaden gottes <persName ref="stadtasg-actors-615" role="issuer">Iohannis in der
+<lb n="15"/>Richenow abbt</persName>.
+<pb facs="StadtASG_Missive_323_652.JPG" n="2"/>
+<lb n="16"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und
+<lb n="17"/>raute zuo sant Gallen</orgName> unsern lieben fründen.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 27</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_27_53/54</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Heinrich von Mansdorf, Abt des Benediktinerklosters St. Gallen, bittet
+                    Bürgermeister und Rat zu St. Gallen, ihren Bürger Ulrich Estrich, von dem das
+                    Kloster den Zehnten zu Höchst ausgelöst und diesen an Werner Ehinger von
+                    Konstanz verpfändet hatte, zurecht zu weisen. Estrich solle Ehinger nicht am
+                    Pfand hindern und dem Kloster keine Mühsal bereiten, ansonsten müsse der Abt
+                    gerichtlich gegen Estrich vorgehen. Er bittet um eine schriftliche Antwort mit
+                    dem gleichen Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-54">Zehnt</term>
+                    <term ref="stadtasg-keywords-57">Verpfändung</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-58">Drohung</term>
+                    <term ref="stadtasg-keywords-201">Abt</term>
+                    <term ref="stadtasg-keywords-115">Kloster</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-21">Heinrich von Mansdorf</persName>
+                    
+                    <date>1426-07-03</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>cs/dg</persName>
+                <date>2019-05-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_27_53.JPG" n="1"/>
+            <p>
+                <lb n="1"/><persName ref="stadtasg-actors-21" role="issuer">Hainrich</persName> von gottes
+                gnaden abt <lb n="2"/>des <orgName ref="stadtasg-actors-541">gotzhus zuo sant
+                Gallen</orgName>. <lb n="3"/>Unsern früntlichen gruoz vor ersamen wisen und lieben
+                getruwen. Als wir den zehenden ze <placeName ref="stadtasg-places-54">Hoehst</placeName> von
+                    <persName ref="stadtasg-actors-147">Uolrichen <lb n="4"/>Estrich</persName> uwirm burger
+                gelediget und erloest haben nach innhalt des widerbriefs, so wir von im versigelt
+                innehaben, <lb n="5"/>und wir denselben zehenden <persName ref="stadtasg-actors-17">Wernher
+                    Ehinger</persName> von <placeName ref="stadtasg-places-7">Costentz</placeName> verpfendt
+                und zuo handen braht haben, do hat uns derselb <lb n="6"/><persName ref="stadtasg-actors-17"
+                    >Ehinger</persName> fürbraht, wie daz im der <persName ref="stadtasg-actors-147"
+                    >Estrich</persName> intrag tuegi und in daran sume, daz uns unbillichen dunkt,
+                won wir <lb n="7"/>truwen, daz wir mit unsern pfendern tuon und schaffen mugent, waz
+                darinne unsers gotzhus nutz ist, und weder <lb n="8"/>disem noch enem gebunden sint,
+                die ze lassend unser vorfarn, oder wir hettint uns denn ains soelichen verschriben.
+                    <lb n="9"/>Hierummb so schiken wir uch ain abgeschrift des reverß, so wir von
+                dem <persName ref="stadtasg-actors-147">Estrich</persName> haben, und bittent üch, daz in <lb
+                    n="10"/>uwirm rate zuo verhoeren, und daz ir daruff den <persName
+                    ref="stadtasg-actors-147">Estrich</persName> beschiken und in wisen wellent, daz er den
+                obgenanten <lb n="11"/><persName ref="stadtasg-actors-17">Ehinger</persName> an dem
+                vorgenanten pfande ungesumt und ungeirret lasse und uns und unserm gotzhus kainen
+                kumber <lb n="12"/>nach irrsal daran tuegi, won er kain reht darzuo hat. Won waer,
+                daz der <persName ref="stadtasg-actors-147">Estrich</persName> darvon niht lassen woelti, so
+                    <lb n="13"/>moehten wir niht gelassen, wir muesten in darummb bekümbren und
+                ufftriben mit dem rechten, daz wir doch <lb n="14"/>ungerne wider uch taetint,
+                darummb so tuont hierinne uwir bestez und wisent in früntlichen darvon, daz wir <lb
+                    n="15"/>ain soelichs niht suochen muessint. Wo wir das ummb uch bischulden
+                kunnent, do soellent ir uns willig vinden. <lb n="16"/>Uwer verschriben antwurt lant
+                uns wissen bi disem botten. Geben an <origDate when="1426-07-03">sant Uolrichs abend
+                    anno etc. XXVIo</origDate>. <pb facs="StadtASG_Missive_27_54.JPG" n="2"/>
+                <lb n="17"/>Den ersamen wisen <persName ref="stadtasg-actors-148" role="recipient">burgermaister und raeten zu
+                        <lb n="18"/>sant Gallen</persName> unsern und unsers gotzhus lieben
+                getruwen. </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 280</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_280_565/566</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Arbon informieren Bürgermeister und Rat zu St. Gallen, dass vor dem Rat zu Arbon zwischen der Familie Grimm und dem Arboner Wilhelm Ulmann eine Vermittlung stattgefunden habe. Nach der Verhandlung hätten die Grimms eine Entschädigung verlangt, bevor sie Ulmann von der Schuld lossprechen wollten. Ulmann entgegnete, er wäre bereit, dem Grimms zu zahlen, was gemäss Gerichtsurteil angemessen sei. Die Arboner bitten deshalb die St. Galler um Mitteilung ihres Entscheides.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-208">Familie</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-120">Vermittlung</term>
+<term ref="stadtasg-keywords-37">Verhandlung</term>
+<term ref="stadtasg-keywords-68">Entschädigung</term>
+                    <term ref="stadtasg-keywords-318">Schuld</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-107">Strafe</term>
+<term ref="stadtasg-keywords-103">Urteil</term>
+<term ref="stadtasg-keywords-154">Ammann</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-102">Ammann und Rat zu Arbon</orgName>                    <date>1453-03-02</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>SC</persName>
+                <date>2022-04-12</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_280_565.JPG" n="1" />
+<p>
+<lb n="1" />Unser früntlich willig dienst bevor fürsichtigen wysen lieben herren und
+<lb n="2" />sondren guoten fründ. Als ir durch üwer geschrifft uns geantwurt hand
+    <lb n="3" />von der <orgName ref="stadtasg-actors-578">Grimmen</orgName> und des unsren <persName ref="stadtasg-actors-439">Wilhalms Uolmas</persName> wegen, haben wir wol
+    <lb n="4" />vernomen. Hand die <orgName ref="stadtasg-actors-578">Grimen</orgName> wol den <persName ref="stadtasg-actors-439">Uolman</persName> in zigen gehan, er hab in
+    <lb n="5" />vormals in ir sag gerett, maint aber der <persName ref="stadtasg-actors-439">Uolman</persName>, er hab so vil nit gerett, als
+<lb n="6" />sy den mainten. Und ummb soelichs sind sy durch erber lüt gericht und
+    <lb n="7" />betragen, das er sy soelt entschlach zuo <placeName ref="stadtasg-places-5">Arbon</placeName> vor ainem raut. Also sind sy
+    <lb n="8" />baid tail kommen zuo <placeName ref="stadtasg-places-5">Arbon</placeName> für raut, und haut sy der <persName ref="stadtasg-actors-439">Uolman</persName> entschlagen und
+<lb n="9" />gesprochen, als er denn von den gehaissen ward, die sy also betragen und
+    <lb n="10" />gericht hattend, er wyse nüntz args von den <orgName ref="stadtasg-actors-578">Grimen</orgName>, denn das sy erber
+    <lb n="11" />büderb lüt syent, und sind die <orgName ref="stadtasg-actors-578">Grimen</orgName> under ougen gestanden, und
+    <lb n="12" />haut sy des von dem <persName ref="stadtasg-actors-439">Uolmann</persName> wol benuegt. Daruff nun die <orgName ref="stadtasg-actors-578">Grimmen</orgName>
+<lb n="13" />begertend yetwaedrer fünf schüling pfening und zerung, e sy im untz sagen
+<lb n="14" />weltin. Do wolt in der unser gern han geben, was zittlich und beschaiden
+<lb break="no" n="15" />lich waer nach des gerichts erkantnuß. Also sind sy von gericht geschaiden
+<lb n="16" />und wolten im nüntz sagen. Lieben herren bitten wir üwer wishait als vor,
+<lb n="17" />das ir so guetig wellen sin, durch des rechten und unsren willen und
+    <lb n="18" />die üwren underwysen, das sy dem unsren uff yetz mentag zuo <placeName ref="stadtasg-places-5">Arbon</placeName>
+<lb n="19" />ain warhait sagind. Was sich denn üwer wishait erkent, das in der unser
+<lb n="20" />darummb tuon soell, wil der unser gern tuon. Tuond hierinn, als wir üwer
+<lb n="21" />wishait besonder wol getrüwen und in der glich mindren und meren sachen
+<lb n="22" />ummb üwer wishait und all die üwren verdienen wellen, wa sich das gepürt.
+    <lb n="23" />Datum <origDate when="1453-03-02">sexta ante dominicam oculi anno domini Ltercio</origDate>.
+    <lb n="24" /><orgName ref="stadtasg-actors-102" role="issuer">Amman und raut zuo
+<lb n="25" />Arbon</orgName>.
+<pb facs="StadtASG_Missive_280_566.JPG" n="2" />
+    <lb n="26" />Den fürsichtigen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raute zuo sant Gallen</orgName> unsren besondre
+<lb break="no" n="27" />lieben herren und guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

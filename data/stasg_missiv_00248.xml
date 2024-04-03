@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 248</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_248_497/498</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Ulm bitten Bürgermeister und Rat zu St. Gallen, den
+                    Händlern aus Ulm und anderen Städten um den Bodensee, die den Jahrmarkt am
+                    Gallustag in St. Gallen besuchen möchten, mit Rat und Tat gegen feindliche
+                    Angriffe zu unterstützen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-179">Jahrmarkt</term>
+                    <term ref="stadtasg-keywords-75">Angriff</term>
+                    <term ref="stadtasg-keywords-230">Verteidigung</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-91">Handel</term>
+                    <term ref="stadtasg-keywords-180">Kaufmann</term>
+                    <term ref="stadtasg-keywords-538">See</term>
+                    <term ref="stadtasg-keywords-48">Feindschaft</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-510">Bürgermeister und Rat zu Ulm</orgName>
+                    <date>1451-10-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg und SC</persName>
+                <date>2022-03-07</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_248_497.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienste voran ersammen und wysen lieben fründ. Ir
+                habent <lb n="2"/>villicht wol vernomen, wie unser fründ die stette und wir ettlich
+                vyende, die ir wonung <lb n="3"/>umb den see haben, also haben uns ettlich die
+                unsern, die dann iüweren iar <lb break="no" n="4"/>margt umb <date when="1451-10-16"
+                    >sant Gallen tag</date> schierist zuo suochen pflegent, gebetten, iüch <lb n="5"
+                />von iren wegen zuo schriben und zuo bitten, in des besten beraten, hilfflich und
+                    <lb n="6"/>furderlich zuo sin, damit sy wyder solich viennde und die böcke
+                darunder <lb n="7"/>sicher zuo üch by üch und wyder an ir gewarsammy kommen und
+                gesin <lb n="8"/>mügen. Und darumbe so bitten wir iüwer wißhait mit ernst vlissig,
+                    <lb n="9"/>ir wöllent in umb unsern willen in vorgerürter massen in üwern <lb
+                    n="10"/>gebietten beraten und beholffen sin, und üch darinne bewysen, als wir
+                    <lb n="11"/>üwer ersamkait unzwifelich wol getrüwen. Das wöllen wir mit willen
+                    <lb n="12"/>umb üwer wißhait gern verdienen. Datum <origDate when="1451-10-08"
+                        >sexta post Francissi anno etc. LIo</origDate>. <lb n="13"/><orgName ref="stadtasg-actors-510"
+                    role="issuer">Burgermaister und <lb n="14"/>raute zuo Ulme</orgName>. <pb
+                    facs="StadtASG_Missive_248_498.JPG" n="2"/>
+                <lb n="15"/>Den ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rate
+                        <lb n="16"/>der statt sant Gallen</orgName> unsern besonderen <lb n="17"
+                />guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

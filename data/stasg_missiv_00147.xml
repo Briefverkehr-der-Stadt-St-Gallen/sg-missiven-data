@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 147</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_147_293/294</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>König Friedrich III. befiehlt Bürgermeister und Rat zu St. Gallen, Jakob,
+                    Truchsess von Waldburg und Landvogt in Schwaben, der wegen der
+                    Auseinandersetzung zwischen Eberhard von Ramschwag und Hans von Ems nach St.
+                    Gallen kommt, Glauben zu schenken, wie ihm selbst.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-33">Befehl</term>
+                    <term ref="stadtasg-keywords-183">König</term>
+                    <term ref="stadtasg-keywords-347">Majestät</term>
+                    <term ref="stadtasg-keywords-184">Truchsess</term>
+                    <term ref="stadtasg-keywords-319">Landvogt</term>
+                    <term ref="stadtasg-keywords-277">Herzog</term>
+                    <term ref="stadtasg-keywords-405">Reich</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-49">Friedrich III. von Habsburg-Österreich</persName>
+                    <placeName ref="stadtasg-places-16">Frankfurt am Main</placeName>
+                    <date>1442-08-10</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-06-03</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_147_293.JPG" n="1"/>
+            <p>
+                <lb n="1"/><persName ref="stadtasg-actors-49" role="issuer">Fridreich</persName> von gots
+                gnaden romischer kunig zu allentzeiten <lb n="2"/>merer des <orgName ref="stadtasg-actors-559">Reichs</orgName>, hertzog ze
+                    <placeName ref="stadtasg-places-91">Osterreich</placeName> und ze <placeName
+                    ref="stadtasg-places-94">Steir</placeName> etc. <lb n="3"/>Lieben getrewn. Wir haben
+                empholhen dem edeln unserm lieben getrewn <persName ref="stadtasg-actors-61"
+                    >Jacoben</persName>, druchsess von <placeName ref="stadtasg-places-107"
+                    >Waltpurg</placeName>, <lb n="4"/>unserm rate und lanntvogte in <placeName
+                    ref="stadtasg-places-108">Swaben</placeName>, von solher zwittrecht und stoss wegen, so
+                sich halten zwischen <lb n="5"/><persName ref="stadtasg-actors-224">Hannsen von
+                    Empts</persName> an ainem und <persName ref="stadtasg-actors-223">Eberharten von
+                    Ramswag</persName> an dem andern tail, unsern und des <lb n="6"/><orgName ref="stadtasg-actors-559">Reichs</orgName> lieben
+                getrewn, ettwas unser maynung an ew zu werben. Emphelhen wir ew und begern <lb n="7"
+                />mit ernste, was derselb <persName ref="stadtasg-actors-61">Jacob</persName> druchsess von
+                der obgemelten sachen wegen an ew bringen <lb n="8"/>wirdet, daz ir im darynne von
+                unsern wegen ditzmals gentzlich glaubet als uns selber. Geben <lb n="9"/>zu
+                    <placeName ref="stadtasg-places-16">Frankchfurt</placeName> an <origDate
+                    when="1442-08-10">sant Laurentzen tag anno etc. quadragesimosecundo
+                unsers Reichs im <lb n="10"/>dritten iare</origDate>. <lb n="11"/>c<ex cert="medium">ommissio</ex> domini regis
+                propria. <pb facs="StadtASG_Missive_147_294.JPG" n="2"/>
+                <lb n="12"/>Dem <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rate der
+                    stat zu sant <lb n="13"/>Gallen</orgName> unsern und des <orgName ref="stadtasg-actors-559">Reichs</orgName> lieben getrewen.
+            </p>
+        </body>
+    </text>
+</TEI>

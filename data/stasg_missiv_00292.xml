@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 292</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note><p>Zur Sache siehe auch die Missiven Nrn. 281, 286 und 295.</p></note>
+            </notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_292_589/590</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Wangen danken Bürgermeister und Rat zu St. Gallen für die Zustellung des rechtlichen Entscheids bezüglich der Wangener Bürgerin, der Witwe von Kaspar Schwarz, und berichten, dass die Frau nicht in der Stadt sei, weshalb sie nicht vollständig antworten könnten. Sobald sie aber wieder da sei, würden sie sie zum Schreiben aus St. Gallen befragen und dann antworten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-177">Witwe</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+<term ref="stadtasg-keywords-103">Urteil</term>
+<term ref="stadtasg-keywords-141">Befragung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-89">Bürgermeister und Rat zu Wangen</orgName>                    <date>1453-08-28</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>SC</persName>
+                <date>2022-11-09</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_292_589.JPG" n="1" />
+<p>
+<lb n="1" />Unser früntlich willig dienst zuo vor an ersamen wysen sonder lieben und
+    <lb n="2" />guoten fründ. Üwer schriben uns ietzo von <persName ref="stadtasg-actors-440">Caspar Schwartzen</persName> saeligen wittwen,
+<lb n="3" />unser burgerin, als von des rechtlichen uß spruchs wegen uns aber getan
+<lb n="4" />etc., habent wir wol verlesen, und fuegent üwer guoter früntschafft ze wissen,
+<lb n="5" />dz die benempt unser burgerin yetzo mals nit an haimst ist, dar umb wir
+<lb n="6" />üwer ersamkait nit voellig antwort geben koennen. So bald aber sy an haimsch
+<lb n="7" />wirdet, woellent wir sy üwer schriben lassen hoeren und üch dann antwurten
+<lb n="8" />geben. Bittend üwer ersamkeit mit ernst vlissig, uns dz nit in argem, in
+<lb break="no" n="9" />sonder in guotem vermercken, dz begeren wir mit willen umb üch ze beschulden.
+    <lb n="10" />Datum <origDate when="1453-08-28">die Pelagy anno domini etc. LIIIcio</origDate>.
+    <lb n="11" /><orgName ref="stadtasg-actors-89" role="issuer">Burgermaister und
+    <lb n="12" />rate zuo Wanngen.</orgName>
+<pb facs="StadtASG_Missive_292_590.JPG" n="2" />
+    <lb n="13" />Den ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient"
+        >burgermaister
+<lb n="14" />und rate zuo sant Gallen</orgName> unnsern insonder lieben
+<lb n="15" />und guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

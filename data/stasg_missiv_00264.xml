@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 264</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_264_529/530</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Freiherr Wolfhart von Brandis der Ältere empfiehlt Bürgermeister und Rat zu St. Gallen seinen Eigenmann Jakob Vosch auf dessen Wunsch zur Aufnahme in das St. Galler Bürgerrecht. Als Bedingung setzt Brandis voraus, dass dies seine Rechte nicht schmälert.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-87">Empfehlung</term>
+                    <term ref="stadtasg-keywords-112">Bürgerrecht</term>
+                    <term ref="stadtasg-keywords-156">Recht</term>
+                    <term ref="stadtasg-keywords-324">Freiherr</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-54">Wolfhart von Brandis der Ältere, Freiherr</persName>
+                                        <date>1452-06-09</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-11-15</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>SC</persName>
+                <date>2021-12-09</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_264_529.JPG" n="1" />
+<p>
+    <lb n="1" />Min früntlich dienst ze vor lieben fründ. Es kumpt für üch <persName ref="stadtasg-actors-421">Jakob Vosch</persName> der min
+<lb n="2" />und begert, burger zuo werden in üwer statt. Also ist er für mich komen und
+<lb n="3" />hat mich ernstlich gebetten, im soemlich zuo erloben, das ich getan han dur siner
+<lb n="4" />ernstlicher bette willen, doch minen gerichtikait an schaden. Also bitt ich üch,
+    <lb n="5" />das ir in laussent enpfolhen sin. Geben am <origDate when="1452-06-09">naechsten fritag nach unsers
+<lb n="6" />herren fronlichams tag anno domini etc. LII iar</origDate>.
+    <lb n="7" /><persName ref="stadtasg-actors-54" role="issuer">Wolffhart von Brandis</persName>,
+<lb n="8" />fry herr der elter.
+<pb facs="StadtASG_Missive_264_530.JPG" n="2" />
+    <lb n="9" />Den fürsichtigen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister aim
+<lb n="10" />rat der statt zuo sant Gallen</orgName> minen guoten
+<lb n="11" />fründen.
+</p>
+        </body>
+    </text>
+</TEI>

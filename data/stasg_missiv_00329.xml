@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 329</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_329_663/664</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich informieren Bürgermeister und Rat zu St. Gallen, dass in der vergangenen Nacht in ihr Kaufhaus eingebrochen wurde und Tücher gestohlen wurden. Sie bitten St. Gallen, die Tücher sowie auch die damit zusammenhängenden Personen zurückzuhalten, falls die Ware in St. Gallen angepriesen werden sollte.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-106">Diebstahl</term>
+<term ref="stadtasg-keywords-164">Tuch</term>
+<term ref="stadtasg-keywords-353">Kaufhaus</term>
+<term ref="stadtasg-keywords-156">Recht</term>
+<term ref="stadtasg-keywords-72">Rechtmässigkeit</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-167">Verkauf</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1456-09-25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-01-22</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_329_663.JPG" n="1"/>
+<p>
+<lb n="1"/>Unser willig früntlich dienst allezitt zuovor ersamen wisen sundern guotten fründe und
+<lb n="2"/>getrüwen lieben eidgnossen. Uff die <date when="1456-09-24">vergangnen nacht</date> ist obnen zuo dem tach in
+<lb n="3"/>in unser koffhus gebrochen und daruss verstollen worden ein gruon engelsch
+<lb n="4"/>tuoch, darab ist vor geschnitten sechs eln, by dry vierteil eins rotten lünschen
+<lb n="5"/>tuochs, zwey halbe gruony lunsche tuoch, ein swartz tuoch von <placeName ref="stadtasg-places-95">Mecheln</placeName> mit
+<lb n="6"/>fünff sigeln, darab was vor geschnitten by sechs elnen, siben elnen mer denn
+<lb n="7"/>ein halb blaw lünsch tuoch, ein brun lunsch stuck tuochs by acht elnen und
+<lb n="8"/>by vier elnen ein blaw stuck lünsch tuochs in der wollen geferwet. Da wir
+<lb n="9"/>üwer lieben früntschafft bittend, by üch nach notturfft zebestellent, ob soelich
+<lb n="10"/>tuoch zuo üch kome und by üch versetzt ald verkofft werden woelte, das ir
+<lb n="11"/>dann das tuoch und die, so dz zuo üch bracht hettind, uff hebint und zuo recht
+<lb n="12"/>behaltind, und üch darinne so getrüwlich erzoeigen und bewisen, als
+<lb n="13"/>ir gern sechen woeltind, das wir in der glich sachen ouch taettind und
+<lb n="14"/>ouch tuon woeltind. Das wellent wir alle zitte in gelichen und meren
+<lb n="15"/>sachen umb üch und die üwern beschulden und verdienen. Geben uff
+<lb n="16"/><origDate when="1456-09-25">samstag vor sant Michahels tag anno etc. LVI</origDate>.
+<lb n="17"/><orgName ref="stadtasg-actors-503" role="issuer">Burgermeister und ratt
+<lb n="18"/>der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_329_664.JPG" n="2"/>
+<lb n="19"/>Den ersamen wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und ratt
+<lb n="20"/>zuo sant Gallen</orgName> unsern sundern guotten
+<lb n="21"/>fründen und getrüwen lieben eidgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

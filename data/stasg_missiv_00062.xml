@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 62</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_62_123/124</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Appenzell teilen Bürgermeister und Rat zu St. Gallen mit, dass
+                    deren (St. Galler) Bürger, Koppenhan der Ältere, der in einem Rechtsstreit mit
+                    Uli Schläpfer sei, sicher sei, solange er sich an den bereits ergangenen
+                    Richterspruch halte.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-102">Sicherheit</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-103">Urteil</term>
+                    <term ref="stadtasg-keywords-340">Rechtsstreit</term>
+                    <term ref="stadtasg-keywords-104">Landmann</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-506">Ammann und Rat zu Appenzell</orgName>
+                    <placeName ref="stadtasg-places-8">Appenzell</placeName>
+                    <date>1433-06-29</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_62_123.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst voran lieben guoten fründ. Als ir uns
+                ietz naechst <lb n="2"/>geschriben hand von des <persName ref="stadtasg-actors-165">alten
+                    Coppenhans</persName>, üwers mitburgers wegen, üwer schriben <lb n="3"/>habint
+                wir wol verstanden und laussint üwer guoten früntschafft wissen, das der <lb n="4"
+                /><persName ref="stadtasg-actors-165">alt Coppenhan</persName> und <persName ref="stadtasg-actors-183">Ueli
+                    Schlipfer</persName> mitenander in ain recht ze <placeName ref="stadtasg-places-8">Appenzell</placeName>
+                gestanden <lb n="5"/>sint, die wil der <persName ref="stadtasg-actors-165">Coppenhan</persName> unser lantman
+                was. Also liessent sich baid tal bannen <lb n="6"/>dem rechten, so sy mitenandren
+                angehaben hettint, gnuog ze tuon. Und ist sach, <lb n="7"/>das der <persName ref="stadtasg-actors-165">alt
+                    Coppenhan</persName> also dem bann und dem rechten nach volget in der masße, <lb
+                    n="8"/>als sy das angehaben hand, so ist er sicher gnuog. Geben ze
+                <origPlace ref="stadtasg-places-8">Appenzelle</origPlace> an <origDate when="1433-06-29">sant <lb n="9"
+                    />Peters und sant Pauls tag anno domini Mo CCCCo XXXo tercio</origDate>. <lb
+                        n="10"/><orgName ref="stadtasg-actors-506" role="issuer">Amman und raut <lb n="11"/>zuo
+                    Appenzelle</orgName>. <pb facs="StadtASG_Missive_62_124.JPG" n="2"/>
+                <lb n="12"/>Den wisen fürsichtigen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und
+                        <lb n="13"/>rat der statt zuo sant Gallen</orgName> unsren guoten fründen.
+            </p>
+        </body>
+    </text>
+</TEI>

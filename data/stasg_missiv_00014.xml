@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 14</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_14_27/28</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Landleute zu Glarus bitten Bürgermeister und Rat zu St. Gallen um
+                    Schutz des Priesters Hans Kessler vor einem Herrn von Ramschwag, ihrem Bürger,
+                    und dessen (St. Galler) Helfern. Sie bitten um schriftliche Antwort mit dem
+                    gleichen Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-21">Rechtshilfe</term>
+                    <term ref="stadtasg-keywords-35">Priester</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-502">Ammann und Landleute zu Glarus</orgName>
+                    
+                    <date>1424-07-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-16</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_14_27.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst sy üch all zit vor an geschriben lieben
+                guoten fründ und getrüwen lantlüt. Wir tuon üch ze wüssen, <lb n="2"/>das her
+                    <persName ref="stadtasg-actors-135">Hans der Kesler</persName> aber für uns komen ist und
+                hat uns gebetten, üch aber ze schriben und ze bitten <orgName ref="stadtasg-actors-538 ">von
+                    Ramswags</orgName><note>Welches Individuum dieser Familie gemeint ist, ist nicht
+                    eruierbar.</note> üwers burgers <lb n="3"/>wegen, als üch wol ze wüssen ist, wie
+                er etwas sach mit im ze schaffen hat. Da bitten wir nu üwer guoten früntschaft mit
+                allem <lb n="4"/>flis und ernst und och durch unser willigen dienst willen, dz ir
+                als wol wellent tuon und mit üwerm burger schaffent, dz der vor <lb break="no" n="5"
+                />genant priester sicher sy vor im und sinen helfferren untz an ein recht, wan och
+                der vorgenant her <persName ref="stadtasg-actors-135">Hans</persName> nüt anders begeret <lb
+                    n="6"/>wan rechtes etc. Lieben guoten fründ, da duont so wol und land den guoten
+                priester üch enpfollen sin durch unsren willen, wan <lb n="7"/>üwry gueti
+                früntschaft duot uns ein saemlichen dienst, dar an koendin wir es umb üch in
+                saemlichen und noch in meren sachen iemer <lb n="8"/>gedienen, soelt uns üwri gueti
+                früntschaft alzitt dester willinger vinden. Guoten fründ da tuond in der sach, als
+                wir üch des sunder <lb n="9"/>wol getrüwen lieben guoten fründ, und land uns üwer
+                früntlich verschriben antwurt wider wüssen by disem botten. Geben an <lb n="10"
+                    /><origDate when="1424-07-04">sant Uolrichs tag anno domini Mo CCCCo
+                    XXIIII</origDate>. <lb n="11"/>Von uns dem <orgName ref="stadtasg-actors-502"
+                    role="issuer">amman <lb n="12"/>und lantlüten ze Glarus</orgName>. <pb
+                    facs="StadtASG_Missive_14_28.JPG" n="2"/>
+                <lb n="13"/>Den fromen wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermeister <lb n="14"/>und dem rat der stat ze sant Gallen</orgName> unsern
+                lieben <lb n="15"/>guoten fründen und getrüwen lantlüten. </p>
+        </body>
+    </text>
+</TEI>

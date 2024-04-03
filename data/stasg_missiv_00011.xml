@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 11</title>
+            </titleStmt>
+
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_11_21/22</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Johannes Thiliger, Schulmeister zu Kempten, bittet Bürgermeister und Rat zu
+                    St. Gallen um Hilfe bei der Eintreibung von Schulgeld, das ihm etliche St. Galler
+                    Bürger, deren Kinder er unterrichtet hatte, noch schuldeten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-6">Schule</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-13">Schulden</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-5">Johannes Thiliger</persName>
+                    
+                    <date>1422-01-03</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <p/>
+                <persName>SO</persName>
+                <date>2018-06-29</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS</persName>
+                <date>2023-07-26</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_11_21.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min willigen dinst zu allen ziten voran erbern und wisen besundern lieben
+                herren. <lb n="2"/>Ich lass uch wissen, das mir etlichü iwer burger in iwer statt
+                noch ain tail schuldig <lb n="3"/>sigint von iren kinden, die zu mir in die schule
+                gangen sind, und kan der selben <lb n="4"/>schulde nit wol erfordren ane iwer
+                hulffe. Bitt ich iwer wishait mit ernste <lb n="5"/>flyssig, das ir mit iwern reden
+                und sy dar zu halten wöllent, das sie mich <lb n="6"/>ußrichten, wan es doch nit
+                anders denn lidlon ist, also das ich sie mit frem <lb break="no" n="7"/>den
+                gerichten icht umb tryben dürffe das ich doch ungerne wider iwer wishait <lb n="8"
+                />thun woelti. Das wil ich gern umb uch verdin. Datum <origDate when="1422-01-03"
+                    >sabbato proximo ante Epiphaniam <lb n="9"/>domini anno domini millesimo etc.
+                    vicesimo secundo</origDate>. <lb n="10"/><persName ref="stadtasg-actors-5" role="issuer"
+                    >Johannes Thiliger</persName> ietz <lb n="11"/>schulmaister zu <placeName
+                    ref="stadtasg-places-40">Kempten</placeName>.</p>
+            <pb facs="StadtASG_Missive_11_22.JPG" n="2"/>
+            <p>
+                <lb n="12"/>Den erbern und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und <lb
+                        n="13"/>rate zu sant Gallen</orgName> minen besundern lieben heren. </p>
+        </body>
+    </text>
+</TEI>

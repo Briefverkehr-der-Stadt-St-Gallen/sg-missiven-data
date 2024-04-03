@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 43</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_43_85/86</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Konstanz teilen Bürgermeister und Rat zu St. Gallen
+                    mit, dass auch Lindau, das wie St. Gallen im Streit mit Bregenz liege, einen
+                    Frieden bis zum 23. April vereinbart hätten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-83">Frieden</term>
+                    <term ref="stadtasg-keywords-359">Meister</term>
+                    <term ref="stadtasg-keywords-231">Gesandtschaft</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>
+                    
+                    <date>1430-03-18</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_43_85.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst voran lieben und guoten fründ. Nach dem <lb
+                    n="2"/>ir ains guetlichen stannds von der spenn wegen entzwüschen üch <lb n="3"
+                />und unsern guten fründen den von <placeName ref="stadtasg-places-60">Pregentz</placeName>
+                uns als durch unser lieben <lb n="4"/>ratzbottschafft, namlich maister <persName
+                    ref="stadtasg-actors-164">Ruedolffen</persName>, nu nechst vervolget <lb n="5"/>hand biß
+                uff <date when="1430-04-23">sant Jergen tag nechst komend</date>, und laussen wir
+                uwer <lb n="6"/>guten fruntschafft wissen, das uns üwer und unser gueten fründ <lb
+                    n="7"/>von <placeName ref="stadtasg-places-24">Lindow</placeName>, die och von sölicher
+                sach wegen ir erber bottschafft by <lb n="8"/>den selben unsern gueten fründen von
+                    <placeName ref="stadtasg-places-60">Pregentz</placeName> gehept hand, hand <lb n="9"
+                />geschriben, das die egenanten von <placeName ref="stadtasg-places-60">Pregentz</placeName>
+                des vorgenanten gütlichen stannds <lb n="10"/>och ingangen sigen biß uff <date
+                    when="1430-04-23">sant Jergen tag nechst komend</date>, und <lb n="11"/>den tag
+                allen in aller der wise und maß, als denn den selben <lb n="12"/>gütlichen stannd
+                die vorgenant unser bottschafft an uch erlangt <lb n="13"/>hab und also, das ir
+                dazwüschen zue baidersit sicher zue und vonen <lb break="no" n="14"/>ander wanndlen
+                und werben mügen. Diß tuen wir üwer gueten <lb n="15"/>früntschafft in solicher maß
+                zue wissen umb deßwillen, das ir <lb n="16"/>üch darnach wissind zue richten und dem
+                gestannd also gnuog ze sind, <lb n="17"/>denne wa wir getun künden, das üch
+                früntlich und lieb wäre in den <lb n="18"/>und anndren sachen, darzuo wären wir
+                willig. Geben an <origDate when="1430-03-18">samztag <lb n="19"/>vor dem sunnentag
+                    Oculi anno etc. XXX</origDate>. <orgName ref="stadtasg-actors-56" role="issuer"><lb
+                        n="20"/>Burgermaister und <lb n="21"/>raut zue Costentz</orgName>. <pb
+                    facs="StadtASG_Missive_43_86.JPG" n="2"/>
+                <lb n="22"/>Den ersamen wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raut zue <lb n="23"/>sant Gallen</orgName> unsern lieben und
+                gueten fründen. </p>
+        </body>
+    </text>
+</TEI>

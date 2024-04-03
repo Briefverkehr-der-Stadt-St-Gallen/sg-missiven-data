@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 263</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_263_527/528</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Konrad Stüdli, Priester, der sich nach seinem Wegzug vor vier Jahren aus St. Gallen in der Herrschaft Landsberg im Elsass verpfründet hat, berichtet Bürgermeister und Rat zu St. Gallen über üble Nachrede. Unter anderem werde das Gerücht verbreitet, er sei kein Priester und man habe ihm in St. Gallen das Ausüben seines Amtes verboten. Da er seinen Weihbrief in den Armagnakenkriegen verloren habe und er unter Schmähungen leide, bittet er die St. Galler um die Ausstellung eines gesiegelten Schreibens zu seinen Gunsten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-35">Priester</term>
+                    <term ref="stadtasg-keywords-219">Wegzug</term>
+                    <term ref="stadtasg-keywords-302">Pfründner</term>
+                    <term ref="stadtasg-keywords-63">Gerücht</term>
+                    <term ref="stadtasg-keywords-244">Amt</term>
+                    <term ref="stadtasg-keywords-181">Verbot</term>
+                    <term ref="stadtasg-keywords-214">Krieg</term>
+                    <term ref="stadtasg-keywords-45">Schmähung</term>
+                    <term ref="stadtasg-keywords-226">Armagnake</term>
+                    <term ref="stadtasg-keywords-309">Mönch</term>
+                    <term ref="stadtasg-keywords-106">Diebstahl</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-90">Konrad Stüdli</persName>
+                                        <date>1452-05-29</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-11-15</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>SC</persName>
+                <date>2021-12-09</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_263_527.JPG" n="1" />
+<p>
+<lb n="1" />Gnaedigen herren und guoten lieben fründ als ferr ich vermag enbüt ich üch
+<lb n="2" />min demuetig gebett und armen dienst. Tuon üwer wisshait zuo wissen, also
+    <lb n="3" />ich von unser statt <placeName ref="stadtasg-places-38">sant Gallen</placeName> in der fasten fier iar vergangen geschaiden bin
+    <lb n="4" />und ich verpruendet bin von miner gnaedigen <orgName ref="stadtasg-actors-576">herschafft von Lantsperg</orgName> in dem
+    <lb n="5" /><placeName ref="stadtasg-places-170">Elsaess</placeName>, geschiht mir fil smachhait. Besunder ich han miner wihbrief kainen,
+<lb n="6" />die verlor ich in den Armenjaeken, wirt mir für gehept, dz ich nüt ein rechter
+<lb n="7" />weltlicher priester, aber ain abtrüllig münch syge, och dz mir in üwer statt
+    <lb n="8" /><placeName ref="stadtasg-places-38">sant Gallen</placeName> und in allem land gantz min priesterlich ampt und och üwer statt
+<lb n="9" />umb onerlich sach verbotten sygent, och dz ich, da got vor syg, umb unerlich
+<lb n="10" />sach, besunder umb diepstal, verwundet syge. Och die mir dz für hebent, spre
+    <lb break="no" n="11" />chent dz gehoert han von lüten, die sich uss üwer statt <placeName ref="stadtasg-places-38">sant Gallen</placeName> genempt
+<lb n="12" />habent. Gnaedigen herren, saemlich smachhait mir swaerlich an lit und mich groesslich
+<lb n="13" />fromen moeht, bitten ich üwer wisshait durch gotz willen und durch aller
+<lb n="14" />miner fründen willen, miner vergangnen torhait, die laider mit minem
+<lb n="15" />grossen unhail geschehen ist, nüt lassen engelten, denn waer es nüt, er wurde
+<lb n="16" />fürbas nüt, und entschulgent mich mit warhait mit üwer offnen versigleten
+<lb n="17" />geschrifft, wan ich nüt anders waiss, denn dz ich ain armer biderber priester
+<lb n="18" />syge. Waer aber sach, dz mich yemant andersst zigi oder schulgite, so wil
+<lb n="19" />ich dz für üwer wisshait komen mit min selbs lib und mich verant
+<lb break="no" n="20" />wurten in gegenwurtikait aller und ieklichs besunder, und wil mir üwer
+<lb n="21" />reht wol lon tuon und unrecht we. Gnaedigen herren und guoten fründ, tuond
+    <lb n="22" />als ich üwer fromen wisshait wol besunder getruwen. Geben am <origDate when="1452-05-29">pfingst
+<lb break="no" n="23" />mentag im LIIo iar</origDate>.
+    <lb n="24" /><persName ref="stadtasg-actors-90" role="issuer">Conrat Stüdly</persName>, priester,
+<lb n="25" />üwer armer capplan.
+<pb facs="StadtASG_Missive_263_528.JPG" n="2" />
+    <lb n="26" />Den fromen wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raut sant
+<lb n="27" />Gallen</orgName> minen gnädigen herren und besonder guoten
+<lb n="28" />fründen.
+</p>
+        </body>
+    </text>
+</TEI>

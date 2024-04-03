@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 211</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. 210.</p></note></notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_211_423/424</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Wil bitten im Namen ihres Einwohners Hans Langenhard
+                    Bürgermeister und Rat zu St. Gallen, sie in einem Sreit zwischen Klaus Halder
+                    von Mollenberg und den Kindern des Jakob von Langenhard zu unterstützen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-269">Kind</term>
+                    <term ref="stadtasg-keywords-368">Schultheiss</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-517">Schultheiss und Rat zu Wil</orgName>
+                    <date>1448-09-24</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-23</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_211_423.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst voran ersamen wisen <lb n="2"/>besundern
+                lieben und guotten fründe. Es sind ettwas <lb n="3"/>zwaitreacht und stösse gewesen
+                zwüschen dem <lb n="4"/>vesten <persName ref="stadtasg-actors-349">Clauß Halder</persName> zu
+                    <placeName ref="stadtasg-places-140">Mollemberg</placeName> an ainem <lb n="5"/>und des
+                vesten <persName ref="stadtasg-actors-251">Jacobs von Langenhartz</persName> selgen <lb n="6"
+                />natürlichen kinden, deren ains by uns ist, mit <lb n="7"/>nammen <persName
+                    ref="stadtasg-actors-352">Hans Langenhart</persName>, des andern tails, deren <lb n="8"
+                />sy ainmuetlich zuo recht uff üwer wißhait <lb n="9"/>verteadinget und veranlaset
+                sind etc. Und wonn <lb n="10"/>denn der obgenant <persName ref="stadtasg-actors-352">Hans
+                    Langenhart</persName> ietzo unser <lb n="11"/>gesworner biwoner ist, bitten wir
+                uch von sin <lb n="12"/>wegen mit ernste, der sache zem rechten anzuo <lb break="no"
+                    n="13"/>nemen und hier inne zutuond, als wir des und <lb n="14"/>alles guotten
+                uch getruwen. Wo wir das in der glich <lb n="15"/>und andern sachen umb uch und die
+                uwern gedienen <lb n="16"/>und beschulden koennen, wollen wir willig sin <lb n="17"
+                />und das gern tuon. Geben an <origDate when="1448-09-24">zinstag vor sant <lb
+                        n="18"/>Michels tag anno XLVIIIo</origDate>. <lb n="19"/><orgName
+                    ref="stadtasg-actors-517" role="issuer">Schulthais und rate der <lb n="20"/>statt
+                    Wyl</orgName> im <placeName ref="stadtasg-places-103">Turgow</placeName>. <pb facs="StadtASG_Missive_211_424.JPG" n="2"/>
+                <lb n="21"/>Den fürsichtigen wisen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und <lb n="22"/>rate der statt zuo sant Gallen</orgName> unsern
+                    <lb n="23"/>besundern lieben und guotten fründen. </p>
+        </body>
+    </text>
+</TEI>

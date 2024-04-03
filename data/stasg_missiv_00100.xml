@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 100</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_100_199/200</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau teilen Bürgermeister und Rat zu St. Gallen mit,
+                    dass der Kaiser gestorben sei. Bürgermeister und Rat zu Ulm hätten ihnen dies
+                    berichtet.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-82">Tod</term>
+                    <term ref="stadtasg-keywords-147">Kaiser</term>
+                    <term ref="stadtasg-keywords-347">Majestät</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>
+                    
+                    <date>1437-12-29</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date/>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-04-15</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_100_199.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst zuvor ersammen wysen sonder lieben <lb
+                    n="2"/>und guoten fründe. Wir tuond üwer guoten früntschafft ze wissende, dz
+                    <lb n="3"/>uns üwer und unser <orgName ref="stadtasg-actors-510">guot fründe von
+                    Ulm</orgName> geschriben hant, wie dz unser <lb n="4"/>gnedigister herre der
+                römisch kayßer<note><persName ref="stadtasg-actors-16">Sigismund von
+                        Luxemburg</persName>.</note> laider von tod abgangen, und <lb n="5"/>uff
+                    <date when="1437-12-09">mentag vor wyhennechten viertzehen tag</date> gewesen,
+                dz er lebent <lb n="6"/>und tod gesin sige. Und wan wir nun nit gewissen kunnen, ob
+                üch <lb n="7"/>dz ouch warlich fürkomen sig oder nit, wolten wir nit lassen, wir
+                wölten <lb n="8"/>üwer wyßhait dz in gehaim und guoter früntschafft ouch
+                verkünden und <lb n="9"/>ze wissende tuon, darumbe dz ir üch mit allen üwern
+                sachen darnach ze richten <lb n="10"/>wisstent und dest bewarter in den dingen üch
+                und üwer statt antreffende <lb n="11"/>ze sind. Und hierumb so wöllen dz im besten
+                von uns vermerggen, <lb n="12"/>denn in welhen sachen wir getuon künden, dz üwer
+                ersamme früntlich <lb n="13"/>lieb und dienst were, darzuo wölten wir gantz willig
+                genaigt und <lb n="14"/>unbedrossen sin sonder zwifels. Geben am <origDate
+                    when="1437-12-29">nechsten sonntag vor dem <lb n="15"/>ingenden iars tag anno
+                    domini etc. XXXVIIIto</origDate>. <lb n="16"/><orgName ref="stadtasg-actors-511" role="issuer">Burgermaister und <lb
+                        n="17"/>raute zu Lindow</orgName>. <pb facs="StadtASG_Missive_100_200.JPG"
+                    n="2"/>
+                <lb n="18"/>Den ersammen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raute zu <lb n="19"
+                    />sant Gallen</orgName> unsern sondern lieben und guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

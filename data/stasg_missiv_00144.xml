@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 144</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_144_287/288</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Schaffhausen danken Bürgermeister und Rat zu St. Gallen
+                    dafür, dass sie sich zur Schlichtung des Streits zwischen der Stadt
+                    Überlingen und Heinrich Klob bereit erklären, und bitten sie, diesen so schnell
+                    wie möglich zu schlichten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-120">Vermittlung</term>
+                    <term ref="stadtasg-keywords-149">Rechtstag</term>
+                    <term ref="stadtasg-keywords-170">Bestätigung</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-28">Bürgermeister und Rat zu Schaffhausen</orgName>
+                    
+                    <date>1442-06-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-06-03</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_144_287.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst allzit bevor ersamen wisen besundern <lb
+                    n="2"/>lieben und gueten fründ. Als ir üch der spenn zwüschen unsern <lb n="3"
+                />gueten fründen von <placeName ref="stadtasg-places-4">Uberlingen</placeName> an ainem und
+                    <persName ref="stadtasg-actors-280">Hainrichen Kloben</persName>, <lb n="4"/>dem unsern,
+                am andern tail ufferstanden von baider partyen bett <lb n="5"/>und ouch unsern wegen
+                zem rechten angenomen und beladen haben, <lb n="6"/>dez wir üch von dez unsern wegen
+                flißclichen dangkend sind, <lb n="7"/>die sachen dem unsern also angelegen, daz er
+                dero kurtz ußtrags <lb n="8"/>wol bedoerffte. Hierumb bittend wir üwer gueten
+                früntschafft <lb n="9"/>mit sunderm fliß und ernst, das ir durch unsern willen an
+                    <lb n="10"/>den sachen unverzogenlich ainen rechttag setzen und den ußtrag <lb
+                    n="11"/>geben wellen, als wir dann dez und allez gueten ain sunder <lb n="12"
+                />getrüwen zue üch haben. Koennen wir ouch daz in dehainen <lb n="13"/>sachen umb
+                üwer gueten früntschafft verschulden und <lb n="14"/>gedienen, wellen wir allzit
+                willig sin sunderzwifels. <lb n="15"/>Datum <origDate when="1442-06-01">feria sexta
+                    post corporis Christi anno etc. XLIIdo</origDate>. <lb n="16"/><orgName
+                    ref="stadtasg-actors-28" role="issuer">Burgermaister und rate <lb n="17"/>zue
+                    Schauffhusen</orgName>. <pb facs="StadtASG_Missive_144_288.JPG" n="2"/>
+                <lb n="18"/>Den ersamen wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und rate zue <lb n="19"/>Santgallen</orgName> unsern besundern
+                lieben und gueten fründen. </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 223</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_223_447/448</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Johann Weidenbach schickt Bürgermeister und Rat zu St. Gallen Informationen vom
+                    Reichstag in München. Die Fürsten von Mainz, Brandenburg, Niederbaden und
+                    Württemberg hätten nur vier Boten abgesandt, wodurch am ersten Tag keine
+                    Einigung gefunden werden konnte. Er wisse noch nicht, ob eine Einigung zustande
+                    komme, da die Städte nicht gerne auf Freiheiten verzichteten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-274">Reichstag</term>
+                    <term ref="stadtasg-keywords-275">Fürst</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-276">Freiheit</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-78">Johann Weidenbach</persName>
+                    <placeName ref="stadtasg-places-27">München</placeName>
+                    <date>1450-04-25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-11-01</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_223_447.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min willig dienst zu allen ziten vor lieben herren. Es haben die vier
+                fürsten, mit namen der <lb n="2"/>von <placeName ref="stadtasg-places-146">Mentz</placeName>,
+                der von <placeName ref="stadtasg-places-147">Brandemburg</placeName>, der von <placeName
+                    ref="stadtasg-places-148">Nidrenbaden</placeName> und der von <placeName ref="stadtasg-places-167"
+                    >Wirtemberg</placeName>, nit mer dann <lb n="3"/>vier botten mit ainem
+                credentzbrieff her zu dem tag gesanndt, also hät man zu den <lb n="4"/>ersten tag
+                mit kainer guetlichhait darin moegen komen von sach wegen, als ich üch hienach <lb
+                    n="5"/>erzellen wird, die nit zuschribende ist, und hattend der fürsten botten
+                urlob genomen und wolten <lb n="6"/>von hinnen geritten sin, denne das man doch
+                dieselben und och der stett botten, die mechtiklich <lb n="7"/>hie sint, erbettent
+                hät, das si vergunst haben in guetlichhait die sachen und unvergeriffenlich
+                anzuheben, <lb n="8"/>also hät man uff gester und hüt ain versuochen getan, und
+                main, man wirde umb die <lb n="9"/>vergangen sachen und was sich untzher verloffen
+                hät, wol ains werden und ain richtung treffen, <lb n="10"/>aber umb künfftenlich wie
+                sich danne yettweder tail gen dem andern hinfür halten soelle, <lb n="11"/>kan ich
+                noch nit wol verstan, öb das gan möge oder nit, won die stett nit gern von iren <lb
+                    n="12"/>fryhaiten stand, als in villicht not tuot. So mainend die herren, davon
+                wachssind teglich <lb n="13"/>ander irrung und spenne widerumb zwuoschen inen, wie
+                es sich aber füro machen wirdt, <lb n="14"/>wil ich üch bald aber wissen lassen.
+                Geben zu <origPlace ref="stadtasg-places-27">München</origPlace> am <origDate when="1450-04-25">XXV tag
+                    abrellen anno domini <lb n="15"/>Mo CCCCo Lo</origDate>. <lb n="16"/><persName ref="stadtasg-actors-78"
+                    role="issuer">Johanns Wydembach</persName>. <pb
+                    facs="StadtASG_Missive_223_448.JPG" n="2"/>
+                <lb n="17"/>Den fürsichtigen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und reten
+                        <lb n="18"/>zu sant Gallen</orgName> minen sundern lieben herren. </p>
+        </body>
+    </text>
+</TEI>

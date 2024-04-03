@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 73</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_73_145/146</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Der Weber Johannes Brunner bittet Bürgermeister und Rat zu St. Gallen, sie mögen
+                    seiner Frau und seinen Kindern ihre Habe wieder aushändigen, die anscheinend
+                    wegen eines Hans Wechsler aus Salzburg konfisziert worden sei. Sollte der Rat
+                    dem nicht zustimmen, so wolle er (Johannes Brunner) vor anderen Gerichten
+                    dagegen vorgehen. Er bittet um Vermittlung und schriftliche Antwort.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-119">Ratsknecht</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-66">Beschlagnahmung</term>
+                    <term ref="stadtasg-keywords-495">Hab und Gut</term>
+                    <term ref="stadtasg-keywords-25">Gericht</term>
+                    <term ref="stadtasg-keywords-120">Vermittlung</term>
+                    <term ref="stadtasg-keywords-2">Geleit</term>
+                    <term ref="stadtasg-keywords-456">Weber</term>
+                    <term ref="stadtasg-keywords-297">Ehefrau</term>
+                    <term ref="stadtasg-keywords-269">Kind</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-240">Ritter</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-38">Johannes Brunner</persName>
+                    <placeName ref="stadtasg-places-10">Zug</placeName>
+                    <date>1435-07-27</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-04-16</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_73_145.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min willig undertaenig dienst fürsichttigen wisen. Als mir üwer
+                ratzknecht ze <lb n="2"/>gegenwürttikait des burgermaisters von empfelhentz wegen
+                ains ammans verkündet het <lb n="3"/>von wegen <persName ref="stadtasg-actors-195">Hannsen
+                    Wechslers</persName> von <placeName ref="stadtasg-places-74">Saltzburg</placeName>, wie
+                das er minem wib und iren kinden <lb n="4"/>das ir in üwer statt verlait und
+                verbotten hab, und das ich das selbe guot ledgen sölle in <lb n="5"/>acht tagen den
+                nächsten, so mir darumb verkündet wurd, das mich dozemal unbillich <lb n="6"
+                />bedunckt ze sind, won ich nit enwais, mit dem selben <persName ref="stadtasg-actors-195"
+                    >Hannsen</persName> von <placeName ref="stadtasg-places-74">Saltzburg</placeName> noch mit <lb n="7"/>niement anders den üwern
+                üt ze schicken noch ze schaffen haben, won liebs und guottes, <lb n="8"/>und bin
+                och niemen nichttes schuldig. Aber wie dem allem sy, lieben herren, so bitten <lb
+                    n="9"/>ich doch üwer fürsichttige wishait mit ernst, das ir minem wib und iren
+                kinden das ir in <lb n="10"/>güttekait volgen lasen, won das iro ist und nit min,
+                darumb sy brieff und sigel haben. <lb n="11"/>Wäre aber sach, das dz nit gesin
+                möcht, so tuond so wol und schaffen und gend mir ain fry <lb n="12"/>sicher gelait
+                für die üwren und dar nach für mengliche gen <placeName ref="stadtasg-places-38">sant
+                    Gallen</placeName> zuo üch und wider <lb n="13"/>umb von üch an min gewarsame.
+                So trüwen ich, ich well im gerecht werden von ainem <lb n="14"/>grossen rat by
+                üch. Mag aber das nit gesin, so wil ich im gerecht werden vor minen <lb n="15"
+                />herren von <placeName ref="stadtasg-places-7">Costentz</placeName><note><persName ref="stadtasg-actors-37">Friedrich III. von
+                        Zollern</persName>.</note>, vor minen herren von <placeName ref="stadtasg-places-4">Überlingen</placeName><note>Wohl
+                        <orgName ref="stadtasg-actors-68" cert="medium">Bürgermeister und Rat zu
+                    Überlingen</orgName>.</note>, vor gemainer ritterschafft, vor minen <lb n="16"
+                />herren von <placeName ref="stadtasg-places-57">Waltzhuot</placeName><note>Wohl <orgName ref="stadtasg-actors-548" cert="medium">Bürgermeister und Rat zu
+                        Waldshut</orgName>.</note>, wa und an welhem dem end ains im eben ist.
+                Möchtte oder wöltte <lb n="17"/>der üwer der stuck kains uffnemen und ingan, so
+                möchtte doch menglich wol daby vor <lb break="no" n="18"/>ston, das er muotwillen
+                mit mir triben wölt, das ich doch nit also möchtte lasen, ich <lb n="19"/>suochtte
+                fürro rät darumb, was mir ze tuond wurd. Darumb lieben
+                <orgName ref="stadtasg-actors-148" role="recipient">herren von sant Gal <lb break="no" n="20"/>len, burgermaister und
+                rät</orgName>, bitten ich üwer wishait, also mit im ze schaffen, das er sich <lb
+                    n="21"/>sömlichs als vor stat, wahin er wel mitung gen mir ingang, darumb das
+                nit kost und <lb n="22"/>schad daruff gand werd. Künde oder möchtte ich das in
+                kainen weg oder in kainen sachen <lb n="23"/>umb üwer wishait beschulden, sölttent
+                ir mich willig vinden als den üwern. Üwer <lb n="24"/>verschriben früntlich
+                anttwurt lausen mich unverzogenlich wisen. Geben und besiglet <lb n="25"/>mit minem
+                aigen uffgetrucktten insigel ze <origPlace ref="stadtasg-places-10">Zug</origPlace>
+                <origDate when="1435-07-27">anno etc. XXXVo quarta post Jacobi</origDate>. <lb
+                    n="26"/><persName ref="stadtasg-actors-38" role="issuer">Johannes Brunner</persName>, <lb
+                    n="27"/>der weber üwer williger. <pb facs="StadtASG_Missive_73_146.JPG" n="2"/>
+                <lb n="28"/>Den fürsichttigen und wisen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und ratt zuo sant Gallen</orgName> minen lieben und <lb n="29"
+                />gnädigen herren. </p>
+        </body>
+    </text>
+</TEI>

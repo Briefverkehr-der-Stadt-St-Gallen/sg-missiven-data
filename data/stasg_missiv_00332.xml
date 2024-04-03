@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 332</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_332_669/670</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Bern berichten Bürgermeister und Rat zu St. Gallen, dass Grete, die Ehefrau des St. Galler Bürgers Ulrich, Glockengiesser Meister, sich von ihrem Ehemann getrennt habe, da er sich mit einer anderen Frau eingelassen habe. Nun habe er seine Ehefrau gebeten, wieder zu ihm zurückzukommen, was sie gerne tue unter der Voraussetzung, dass die andere Frau ausgewiesen werde. Bern bittet nun im Namen von Grete, dass die besagte Frau aus der Stadt gewiesen werde.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-297">Ehefrau</term>
+<term ref="stadtasg-keywords-325">Ehemann</term>
+<term ref="stadtasg-keywords-496">Betrug</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-334">Verbannung</term>
+<term ref="stadtasg-keywords-83">Frieden</term>
+<term ref="stadtasg-keywords-71">Ehe</term>
+<term ref="stadtasg-keywords-355">Ehestreit</term>
+<term ref="stadtasg-keywords-514">Heimkehr</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-514">Schultheiss und Rat zu Bern</orgName>                    <date>1456-11-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2024-01-10</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_332_669.JPG" n="1"/>
+<p>
+<lb n="1"/>Unser früntlich willig dienst allezit vor an sundern guoten fründe und lieben getrüwen eidgenossen. Die erberen
+<lb n="2"/><persName ref="stadtasg-actors-607">Grede</persName>, <persName ref="stadtasg-actors-275">Uolrich</persName>, gloggengiessers, üwers burgers, eliche husfrowe, die bishar ettwas zites, als si von
+<lb n="3"/>iüwer stat von des wegen, dz der genant ir elich man sich mit einer frowen ettwz bekümbert, als si
+<lb n="4"/>uns gesagt hatt, in massen si lenger by ime nit beliben mocht, gescheiden, alhie in unser stat gewesen
+<lb n="5"/>ist, hatt uns fürbracht, wie der selb <persName ref="stadtasg-actors-275">Uolrich</persName> an ir begert habe, dz si sich widerumb zuo ime
+<lb n="6"/>kere, dz si ime, als billichen ist, gern tuon welle. Si besorget aber dz semlich unverfengklich,
+<lb n="7"/>es sie denn, dz die frow voran von üwer stat geschlagen werde. Darumb so hat si uns gar
+<lb n="8"/>ernstlich gebetten und angekert, dz wir iüwer lieben und guoten früntschafft schriben wellend,
+<lb n="9"/>dz semlichs also bescheche, umb dz si sich samentlich, als elüten gezimpt, betragen moegend. Also
+<lb n="10"/>bitten wir üwer liebe von der genanten <persName ref="stadtasg-actors-607">Greden</persName> wegen früntlich, dz ir iren kunbert, si bishar
+<lb n="11"/>lang zit gehept hat, guetlichen betrachten und die gemelten irs mannes diernen von üwer stat wisen
+<lb n="12"/>wellen, umb dz si mit enandern dester baß in guoter früntschafft und einikeit leben moegent,
+<lb n="13"/>wann si sich mit ime gar erberlich meint zuo halten, als si vormals getan hat, dz stat
+<lb n="14"/>uns umb üwer ersamkeit zuo gedienen. Datum <origDate when="1456-11-08">VIIIo die novembris anno LVIo</origDate>.
+<lb n="15"/><orgName ref="stadtasg-actors-514" role="issuer">Schultheis und rat
+<lb n="16"/>zuo Berne</orgName>.
+<pb facs="StadtASG_Missive_332_670.JPG" n="2"/>
+<lb n="17"/>Den ersamen wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rat
+<lb n="18"/>zuo sant Gallen</orgName> unsern sundern guoten fründen
+<lb n="19"/>und lieben getrüwen eidgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

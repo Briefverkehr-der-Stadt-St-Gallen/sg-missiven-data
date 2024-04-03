@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 203</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_203_407/408</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Überlingen antworten Bürgermeister und Rat zu St. Gallen
+                    auf einen Brief der St. Galler betreffend den Gefangenen namens Seger. Die
+                    St. Galler sollen sich nach Überlingen zum Prozess begeben, damit der Angeklagte
+                    zum Tode verurteilt werden könne, was seinesgleichen öffentlich sehen möge.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-64">Gefangener</term>
+                    <term ref="stadtasg-keywords-217">Antwort</term>
+                    <term ref="stadtasg-keywords-252">Prozess</term>
+                    <term ref="stadtasg-keywords-103">Urteil</term>
+                    <term ref="stadtasg-keywords-253">Todesstrafe</term>
+                    <term ref="stadtasg-keywords-214">Krieg</term>
+                    <term ref="stadtasg-keywords-24">Klage</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-68">Bürgermeister und Rat zu Überlingen</persName>
+                    <date>1446-07-30</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-09</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_203_407.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienste zuvor besonndern lieben und guoten fründe.
+                Als <lb n="2"/>uns üwer wyßhait über unser geschrifft, üch von des <persName
+                    ref="stadtasg-actors-335">Segers</persName>, unsers gevangen <lb n="3"/>wegen beschahen,
+                geschriben, hand wir guotermaß vernomen. Und <lb n="4"/>zwivelt uns nicht an unser
+                geschrifft vernomen, das wir zuo <lb n="5"/>im allermaist üch zulieb, nach dem und
+                er sich gegen iüch und <lb n="6"/>den üwren verhandelt, sich ouch in den kriegen mit
+                den buoben <lb n="7"/>der liwt beschadigeren, enthalten, gegriffen und sust nicht
+                uff in <lb n="8"/>haben, damit wir zu im gerichten mögen, darzuo wir doch <lb n="9"
+                />genaigt wären und gern tätten. Hierumb so mögen ir <lb n="10"/>nach innhalt üwer
+                geschrifft üch zu uns fügen, üwer clag <lb n="11"/>zu im scheppffen und darzuo nach
+                üwerm vermogen tun, damit <lb n="12"/>der buob umbgebraucht und von anderen singlich
+                daran <lb n="13"/>gesehen werden. Was wir dann in den und anderen üch <lb n="14"
+                />zugevallen werden und dienstlichait zubewysen wißten <lb n="15"/>syen wir
+                unbillig und darzuo mit vliß genaiget und <lb n="16"/>sollent des unsern guoten
+                willen durch bewysung der <lb n="17"/>werk allzyt mergklich befinden. Datum
+                    <origDate when="1446-07-30">uff samstag <lb n="18"/>vor vincula Petry anno
+                    domini etc. XLVIto</origDate>. <lb n="19"/><orgName ref="stadtasg-actors-68"
+                    role="issuer">Burgermaister und <lb n="20"/>raute zu Überlingen</orgName>. <pb
+                    facs="StadtASG_Missive_203_408.JPG" n="2"/>
+                <lb n="21"/>Den fürsichtigen wysen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister <lb n="22"/>und raute zu sannt Gallen</orgName> unseren <lb
+                    n="23"/>lieben und besonnderen guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

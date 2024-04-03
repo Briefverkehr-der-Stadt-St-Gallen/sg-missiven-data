@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 20</title>
+            </titleStmt>
+
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_20_39/40</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Konrad Utz von St. Gallen bittet Bürgermeister und Rat zu St. Gallen darum, ihm
+                    schriftlich mitzuteilen, wie er sich gegenüber den Anschuldigungen der
+                    Appenzeller zu verhalten habe. Diese hätten ihn trotz eines Geleitbriefes
+                    gefangen genommen und zu eidlichen Aussagen gezwungen, weil sie ihn sonst
+                    ertränken würden. Der Bischof von Konstanz habe ihn bereits aus dem Eid
+                    gegenüber den Appenzellern befreit.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-45">Schmähung</term>
+                    <term ref="stadtasg-keywords-46">Gefangennahme</term>
+                    <term ref="stadtasg-keywords-27">Eid</term>
+                    <term ref="stadtasg-keywords-2">Geleit</term>
+                    <term ref="stadtasg-keywords-188">Bischof</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-19">Konrad Utz</persName>
+                    <placeName ref="stadtasg-places-4">Überlingen</placeName>
+                    <date>1423-01-25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <p/>
+                <persName>SO</persName>
+                <date>2018-06-29</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_20_39.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min undertenig willig dienst alle zit voran gnaedigen herren. Von miner
+                sach wegen, <lb n="2"/>so mir widerfaren ist gegen den lanttlüten zuo <placeName ref="stadtasg-places-8">Appentzelle</placeName>, als daz üwer wisshait <lb n="3"/>wol zuo
+                wissen ist, und besunder von des übels wegen, daz sy an mir begangen <lb n="4"
+                />hand, als sy mich über iren gelaitz brief gefangen hand und mich zwugent <lb n="5"
+                />wider got, er und reht ainen herten und ungerehten brief über mich ze geben, <lb
+                    n="6"/>als ob ich ain rehtloser, übeltaettiger man gewesen waer, und rehtes von
+                mir <lb n="7"/>nit nemen wolten vor üch noch nienen und ich in dem selben brief
+                schweren <lb n="8"/>muost zuo got und den hailgen, was sy wolten, oder ich waer
+                nahtes ertrenket <lb n="9"/>worden. Umb min leben ze fristen tett ich, wes sy an
+                mich begerten, und <lb n="10"/>getrüw got, das mich niemen dester lihter halt, wan
+                ich der sachen, so sy <lb n="11"/>mich geschuldigot hand, gantz unschuldig bin. Und
+                also byn ich komen zuo <lb n="12"/>dem hochwirdigen fürsten und herren minem
+                gnaedigen herren von <placeName ref="stadtasg-places-7">Costentz</placeName><note><persName ref="stadtasg-actors-30">Otto III.
+                        von Hochberg</persName>.</note> und <lb n="13"/>han da sinen fürstlichen
+                gnaden erzellet daz gross unreht und übel, so an <lb n="14"/>mir begangen und
+                geschenhen ist, und kaines rehten nie bekomen moht. <lb n="15"/>Der hett mich
+                erlaussen gantz und gar des aydes, so ich den <placeName ref="stadtasg-places-8">Appentzellern</placeName>
+                <lb n="16"/>geschworen han, und umb das gnaedigen herren so bitt ich üwer gnad mit
+                    <lb n="17"/>ernst vlissig, das ir es tuon woellen luterlich durch gottes willen
+                und mir <lb n="18"/>dar uf raten woellen, wie ich mich uwn fürbasser in den sachen
+                halten <lb n="19"/>soelle, daz mir das aller beste sye, wan ich wider üch niemer
+                getuon wil. <lb n="20"/>Dar zuo so hab ich nit muot wider umb haim noch in das land,
+                alle die <lb n="21"/>wile und sy den brief, den ich über mich selber geben muost,
+                inne hand, <lb n="22"/>wol wenne sy den her uss gaeben, so woelt ich nienen lieber
+                sin danne by <lb n="23"/>minem ehalten und minen kinden. Und lond mich dar umb üwer
+                gnaedig <lb n="24"/>verschriben anttwrt wissen, so ir erst mügen. Geben ze
+                    <origPlace ref="stadtasg-places-4">Überlingen</origPlace> an <origDate when="1423-01-25"
+                    >sant <lb n="25"/>Paulus tag der bekerde anno etc. CCCCmo XXIIIo</origDate>. <lb
+                    n="26"/>Von mir <persName ref="stadtasg-actors-19" role="issuer">Cuonrat
+                    Uotzen</persName>
+                <lb n="27"/>von <placeName ref="stadtasg-places-38">sant Gallen</placeName>. <pb
+                    facs="StadtASG_Missive_20_40.JPG" n="2"/>
+                <lb n="28"/>Den ersamen fürsichtigen und wisen dem <lb n="29"/><orgName
+                    ref="stadtasg-actors-148" role="recipient">burgermaister und dem rat zuo sant
+                    Gallen</orgName>
+                <lb n="30"/>minen gnaedigen herren. </p>
+        </body>
+    </text>
+</TEI>

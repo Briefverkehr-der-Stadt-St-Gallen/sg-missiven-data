@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 184</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_184_369/370</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammmann und Rat zu Feldkirch erwidern Bürgermeister und Rat zu St. Gallen auf den
+                    Vorwurf der St. Galler, etliche von ihnen seien beraubt worden, dass nicht sie,
+                    sondern ihre Herrschaft sich im Krieg befände. Aber sie seien bereit,
+                    Ungerechtigkeiten nachzugehen, wie dies üblich sei.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-236">Raub</term>
+                    <term ref="stadtasg-keywords-214">Krieg</term>
+                    <term ref="stadtasg-keywords-141">Befragung</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-279">Herrschaft</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-63">Ammann und Rat zu Feldkirch</persName>
+                    
+                    <date>1444-12-09</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-07-08</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_184_369.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst vor ersamen wysen lieben guotten <lb n="2"
+                />fründ. Als ir uns geschriben hand von ettlicher der iüwern <lb n="3"/>wegen, den
+                denn das ir yetzo genomen sie, und begerent, in <lb n="4"/>bekerung ze tun etc.,
+                haben wir wol vernomen. Lieben fründt ist <lb n="5"/>üch wol wissentlich, das der
+                krieg unser nit ist, sunder unser <lb n="6"/>herschafft darinn zu sehen und
+                gewaertig syen. Aber wie darumb <lb n="7"/>ist, das dehainer der unser der iuwern
+                dehainem, die denn nit <lb n="8"/>viendt sind, ichtz genomen oder hingetriben hat,
+                mügen ir <lb n="9"/>herumb schicken, was wir denn gen den selben und andern <lb
+                    n="10"/>darzuo gereden und getuon kunnen, damit ir das ir verlang. <lb n="11"
+                />Woellen wir uns darinn bewysen, das wir getrüwen, des die <lb n="12"/>iuwern
+                pillich von uns benuegen und uns unverwissentlich sie. <lb n="13"/>Denn wa mit wir
+                iuch guoten willen und dienst bewysen moechten, <lb n="14"/>taetten wir gern. Geben
+                an <origDate when="1444-12-09">mittwochen nach Niclay anno <lb n="15"/>etc.
+                    XLIIII</origDate>. <lb n="16"/><orgName  ref="stadtasg-actors-63" role="issuer">Amman und raut <lb n="17"
+                    />zu Veltkirch</orgName>. <pb facs="StadtASG_Missive_184_370.JPG" n="2"/>
+                <lb n="18"/>Den ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister <lb n="19"
+                    />und ratten zu Santgallen</orgName> unsern <lb n="20"/>besundern gutten
+                fründen. </p>
+        </body>
+    </text>
+</TEI>

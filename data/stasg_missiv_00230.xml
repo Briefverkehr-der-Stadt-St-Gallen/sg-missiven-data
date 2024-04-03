@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 230</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_230_461/462</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Rudolf Locher von Hagenbuch, Söldner zu Rottweil, bittet Bürgermeister und Rat zu
+                    St. Gallen, ihm den Totschlag, den er vor Jahren in St. Gallen begangen habe,
+                    nach erfolgter Busse zu verzeihen und ihn wieder in die Stadt zu lassen. Er
+                    bittet um schriftliche Antwort.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-49">Totschlag</term>
+                    <term ref="stadtasg-keywords-285">Begnadigung</term>
+                    <term ref="stadtasg-keywords-254">Söldner</term>
+                    <term ref="stadtasg-keywords-100">Busse</term>
+                    <term ref="stadtasg-keywords-1">Stadtverweis</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-81">Rudolf Locher</persName>
+                    
+                    <date>1450-10-07</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-01-21</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-03-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_230_461.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Fürsichtigen wisen gnedigen lieben herren, min undertenig willig dienst
+                sige <lb n="2"/>üwerer ersame wishait alltzit berait. Und als von dez todschlags
+                wegen, <lb n="3"/>den ich laider vor iaren da obnen bi üch begangen, den ich nu bi
+                üch gebessert <lb n="4"/>und gebüst hab, und als ich nu ouch üwer statt mit der
+                bessrung etlich zit <lb n="5"/>biß uff üwer gnade miden muß, allez üwerer ersame
+                wißheit wol wissenlich, <lb n="6"/>bitt ich die selb üwer wißhait in undertenikait
+                und mit ernst, mir hinfür <lb n="7"/>üwer statt zu offnen und uffzetun und die zit,
+                sovil sich dann der zu der ver <lb break="no" n="8"/>midung gebürt, abzelassen und
+                mir darinn üwer gnaden mitzetailen. Das <lb n="9"/>sol und wil ich in undertenikait
+                und mit beraitem willen umd üwer er <lb break="no" n="10"/>same wißheit verdienen,
+                warinn dann mins diensts begert wurde. Üwer <lb n="11"/>gnedig und gutlich
+                verschriben antwurt. Datum <origDate when="1450-10-07">feria quarta post <lb n="12"
+                    />Francisci anno etc. Lo</origDate>.
+                <persName ref="stadtasg-actors-81" role="issuer"><lb n="13"/>Ruodolff Locher</persName> von
+                    Aigen <lb break="no" n="14"/>buoch<note>Es ist unklar, welches Hagenbuch gemeint ist.</note>, soldner zu <placeName
+                    ref="stadtasg-places-158">Rotwil</placeName>. <pb facs="StadtASG_Missive_230_462.JPG"
+                    n="2"/>
+                <lb n="15"/>Den fursichtigen ersamen und wisen <lb n="16"/><orgName ref="stadtasg-actors-148"
+                    role="recipient">burgermaister und raut der statt zuo <lb n="17"/>sant
+                    Gallen</orgName> minen gneadigen lieben <lb n="18"/>herren. </p>
+        </body>
+    </text>
+</TEI>

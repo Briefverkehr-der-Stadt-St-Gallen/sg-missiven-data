@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 179</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_179_359/360</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>König Friedrich III. teilt Bürgermeister und Rat zu St. Gallen mit, dass sie zur
+                    Bekämpfung der Armagnaken zwölf Reiter, darunter Schützen, stellen sollen, die
+                    sich am 16. Oktober in Strassburg einfinden sollen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-226">Armagnake</term>
+                    <term ref="stadtasg-keywords-225">Kriegsgefahr</term>
+                    <term ref="stadtasg-keywords-228">Reiter</term>
+                    <term ref="stadtasg-keywords-229">Schütze</term>
+                    <term ref="stadtasg-keywords-230">Verteidigung</term>
+                    <term ref="stadtasg-keywords-183">König</term>
+                    <term ref="stadtasg-keywords-277">Herzog</term>
+                    <term ref="stadtasg-keywords-464">Pfalzgraf</term>
+                    <term ref="stadtasg-keywords-348">Kurfürst</term>
+                    <term ref="stadtasg-keywords-275">Fürst</term>
+                    <term ref="stadtasg-keywords-347">Majestät</term>
+                    <term ref="stadtasg-keywords-123">Untertan</term>
+                    <term ref="stadtasg-keywords-474">Hauptmann</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-49">Friedrich III. von Habsburg-Österreich</persName>
+                    <placeName ref="stadtasg-places-21">Nürnberg</placeName>
+                    <date>1444-09-25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-07-08</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_179_359.JPG" n="1"/>
+            <p>
+                <lb n="1"/><persName ref="stadtasg-actors-49" role="issuer">Fridreich</persName> von gots
+                gnaden römischer künig zu allen czeiten <lb n="2"/>merer des <orgName ref="stadtasg-actors-559">Reichs</orgName>, herczog zu
+                    <placeName ref="stadtasg-places-91">Österreich</placeName>, zu <placeName ref="stadtasg-places-94"
+                    >Steyr</placeName> etc. <lb n="3"/>Lieben getrewen. Wir zweiveln nicht, es sey
+                wol an euch komen, wie ein frömdes gross volk auss <placeName ref="stadtasg-places-131"
+                    >Franckreich</placeName> sich in das <lb n="4"/><orgName ref="stadtasg-actors-559"
+                    >Heilig Reich</orgName> und in deutsche lannde gefüget hat und dorynne an
+                maingen ennden liget und das lannd mit name <lb n="5"/>und verderbung der leüte
+                übermeslich beschediget und, als uns teglich bottschafft komet, solichen unrat mit
+                unczimlichen <lb n="6"/>sachen fürnemen, und sunderlich, daz sy sich ettlicher des
+                <orgName ref="stadtasg-actors-559">Heiligen Reichs</orgName> stete an denselben ortern nu
+                underwunden haben <lb n="7"/>und die andern mit swerem beleger understeen zunöten
+                und mit unpillichen huldungen von dem <orgName ref="stadtasg-actors-559">Reich</orgName> zuempfrenden, das vor <lb n="8"/>nit
+                erhört sey. Solich unfur und beschedigung der hochgeborn <persName ref="stadtasg-actors-320"
+                    >Ludwig pfalczgraf bey Rein</persName>, des <orgName
+                    ref="stadtasg-actors-559">Heiligen Römischen Reichs</orgName>
+                <lb n="9"/>ercztruchsäss und herczog in <placeName ref="stadtasg-places-132"
+                    >Beyern</placeName>, unser lieber oheim und kurfürste, uff dem sy yeczund ligen,
+                ouch ander fürsten und <lb n="10"/>stete, die teglich beschedigt werden, unserer
+                küniglich maiestat swerlich haben furbringen und uns anruffen lassen, sölich <lb
+                    n="11"/>beschedigung des <orgName ref="stadtasg-actors-559">Reichs</orgName> und seiner untertanen zu understeen, das dann
+                uns und unsern lieben neven und öheimen, des <orgName ref="stadtasg-actors-559">Heiligen <lb n="12"/>Reichs</orgName> kurfürsten
+                und ouch andern fürsten und des <orgName ref="stadtasg-actors-559">Reichs</orgName> getrewen vast zu herczen geet, als das wol
+                pillich ist. Und wir <lb n="13"/>sind also eintrechtiglich doruf bliben, daz man dem
+                <orgName ref="stadtasg-actors-559">Reich</orgName> und unserm egenanten oheimen, dem pfalczgraven, und an die ennde, <lb n="14"
+                />do es notdurfft sein wirdet, hilffe mit geraisigem volk tuon sol, solichem fromden
+                volk zu widersteen, und haben also einen <lb n="15"/>gemeinen anslag begriffen der
+                fürsten, herren und stete. In dem selben dann euch zwöliff pferde geraisigs volks
+                    <lb n="16"/>angeslagen worden sind, die ir auf <date when="1444-10-16">sandt
+                    Gallen tag</date> nechstkünfftig zu <placeName ref="stadtasg-places-112"
+                    >Strasburg</placeName> bey andern haben söllet. Und doruff <lb n="17"/>so begern
+                wir von euch, ermanen euch auch von des <orgName ref="stadtasg-actors-559">Heiligen Reichs</orgName> wegen ernstlich gepietende,
+                daz ir solich anczal der <lb n="18"/>zwöliff pferde wol zugerüst und dorunder
+                schüczen, so ir meist gehaben mügt, auf den egenanten <date when="1444-10-16"
+                    >sandt Gallen tag</date> zu <lb n="19"/><placeName ref="stadtasg-places-112"
+                    >Strassburg</placeName> habet bey den andern und bey unserm oberstem hauptman,
+                den wir dann do selbs haben werden, one alles verziehen <lb n="20"/>und sawmpnuss zu
+                tunde das peste, alsdann beslossen wirt. Und in der czeit wollen wir ouch mit unsern
+                kurfürsten, fürsten <lb n="21"/>und getrewen furter gedencken, wie die sach mit
+                einer mechtigern nachfolgung dem <orgName ref="stadtasg-actors-559">Heiligen Reich</orgName> zu troste fürgenomen <lb n="22"
+                />werden, damit man solichs unpillichen gedrangs vertragen werde. Und wellet die
+                ewern mit czerung also versehen, <lb n="23"/>daz sy der volg des czugs erpeiten
+                mügen. Tut darynne, als wir eüch getrawen und uns des genczlich zu euch <lb n="24"
+                />verlassen, daz der gepruch an euch nit gefunden werde, uns und dem <orgName ref="stadtasg-actors-559">Heiligen
+                    Reich</orgName> zu sunderm dienste, liebe und wolge <lb
+                    break="no" n="25"/>fallen, das wollen wir gen euch gnediglich erkennen. Geben zu
+                <origPlace ref="stadtasg-places-21">Nuremberg</origPlace> an <origDate when="1444-09-25">freytag nach
+                    sandt Matheus <lb n="26"/>tag des ewangelisten</origDate> unsers <orgName ref="stadtasg-actors-559">Reichs</orgName> im
+                fünfften iare. <lb n="27"/>Ad mandatum domini regis <lb n="28"/><persName
+                    ref="stadtasg-actors-318">Hermannus Hecht</persName>. <pb
+                    facs="StadtASG_Missive_179_360.JPG" n="2"/>
+                <lb n="29"/>Unsern und des <orgName ref="stadtasg-actors-559">Reichs</orgName> lieben getreuen <lb n="30"/><orgName
+                    ref="stadtasg-actors-148" role="recipient">burgermaister und rate zu Santgallen</orgName>.
+            </p>
+        </body>
+    </text>
+</TEI>

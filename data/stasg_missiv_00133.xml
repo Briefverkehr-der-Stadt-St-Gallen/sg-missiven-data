@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 133</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note><p>Zum Datum: Verso von Hand des 19./20. Jh. "1440 (aus d. Säckelamtsbuch)"</p></note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_133_265/266</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hans von Watt schreibt den Vögten, er habe die ihm versprochenen fünfzig Gulden
+                    vom Zurzacher Markt noch nicht erhalten und bittet um Erledigung der
+                    Angelegenheit.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-143">Markt</term>
+                    <term ref="stadtasg-keywords-127">Geld</term>
+                    <term ref="stadtasg-keywords-174">Rechnung</term>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+                    <term ref="stadtasg-keywords-284">Kauf</term>
+                    <term ref="stadtasg-keywords-398">Diener</term>
+                    <term ref="stadtasg-keywords-99">Ungeld</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-53">Hans von Watt</persName>
+                    
+                    <date cert="medium">1440</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-600">Vögte zu Zurzach</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-05-28</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_133_265.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Item <persName ref="stadtasg-actors-53" role="issuer">Hans von Watt</persName>. <lb n="2"/>Min
+                willigan dinst vor an. Wissant lieben <orgName ref="stadtasg-actors-600" role="recipient" cert="medium">voegt</orgName>,
+                üwer ferschriban hab ich <lb n="3"/>wol fernman alz umb die funfzig guldinn, die ir
+                mir woltant schikan von <lb n="4"/><placeName ref="stadtasg-places-101">zurzacher
+                markt</placeName>, dz noch nut geschehan ist. Also bedunkt mich, der sach <lb n="5"/>sy nyena
+                recht, und bitt üch mit gantzan ernst, dz ir so wol tuon woellint, <lb n="6"/>und
+                wie ich mit üwerm diener über komen bin von dez kofs wegan, <lb n="7"/>als üwer
+                diener des och in geschriban. <pb facs="StadtASG_Missive_133_266.JPG" n="2"/>
+                <lb n="8"/><persName ref="stadtasg-actors-267">Staehili</persName> gab mir II <abbr>fl.</abbr><lb n="9"
+                />Gab <persName ref="stadtasg-actors-268">S. Hoer</persName> IIII <abbr>fl.</abbr> <lb n="10"/>Gab dem
+                    <persName ref="stadtasg-actors-269">Gaelter</persName> I <abbr>fl.</abbr> <lb n="11"/><persName
+                    ref="stadtasg-actors-270" cert="medium">Kaysper Wirt</persName> gab mir I <abbr>fl.</abbr> am unngelt. <lb n="12"
+                    /><persName ref="stadtasg-actors-271">Heini Suter</persName> gab mir I <abbr>fl.</abbr> uss dem stokk. </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 112</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note><p>Rechte obere Ecke des Blattes abgerissen, dadurch Textverlust.</p></note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_112_223/224</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau bitten Bürgermeister und Rat zu St. Gallen darum,
+                    ihren Bürger Wilhelm Blarer zu Wartensee dazu anzuhalten, die Güter des Lindauer
+                    Bürgers Johann Tudeller, die Blarer beschlagnahmt hat, wieder herauszugeben.
+                    Falls Blarer berechtigte Forderungen an Tudeller stellt, soll er dies vor dem
+                    Lindauer Gericht tun. Die Lindauer bitten um eine schriftliche Antwort mit dem
+                    Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-66">Beschlagnahmung</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-25">Gericht</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-551">Gut</term>
+                    <term ref="stadtasg-keywords-193">Gerichtsort</term>
+                    <term ref="stadtasg-keywords-126">Reichsstadt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>
+                    
+                    <date>1438-11-05</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>cs/dg</persName>
+                <date>2019-03-04</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_112_223.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst zuo vor ersammen wysen sonder lieben <gap />
+                    <lb n="2"/>fründe. Unser burger <persName ref="stadtasg-actors-242">Hanns
+                    Tudeller</persName> der iünger hat uns fürbracht, wie <gap /> <lb n="3"/>üwer
+                burger <persName ref="stadtasg-actors-243">Wilhelm Blarer zu Wartense</persName> dz sin enhalb
+                sews verbotten <lb n="4"/>und verleit habe, über dz er doch nit wisse, dz er dem
+                üwern ihtz pflichtig noch <lb n="5"/>schuldig sige. Nun haben wir dem üwern darumb
+                geschriben und in guetlich <lb n="6"/>bitten lassen, dem unsern dz sin ze entslahen
+                und daran unbekümbert oder sich aber <lb n="7"/>vor unserm stab ains früntlichen
+                rechten von im darumb benuegen ze lassen, <lb n="8"/>dz aber der üwer ze tuend nit
+                maint, dz uns doch unbillich an in nimpt. Bitten <lb n="9"/>wir üwer guoten
+                früntschafft mit besonderm ernst vlissigist und wir vermügen, wie <lb n="10"/>ir umb
+                unsern willen mit dem üwern sovil reden und schaffen und och selbz <lb n="11"/>daran
+                sin woellen, dz er dem unsern dz sin guetlich entslach und in daran <lb n="12"
+                />unbekümbert lasse. Vermaint denn der üwer zuo dem unsern ichtz ze sprechende <lb
+                    n="13"/>haben, darumb er in anvordrung und zuosprüch nit vertragen und erlassen
+                    <lb n="14"/>moecht, darumb woellen wir im den unsern gern zem früntlichen
+                usstragenlichen <lb n="15"/>rechten stellen vor unserm stab, wenn er dez begerende
+                ist, ungevarlich, als ir, <lb n="16"/>wir und ander richstatt dez gar loblich
+                gefrygt sigen und wir och dz gegen <lb break="no" n="17"/>ander gar langzit
+                früntlich gehalten haben und, ob got wil, noch füro hin halten <lb n="18"/>soellen
+                und woellen. Warzuo denn der üwer recht hat, woellen wir im ze mal <lb n="19"/>wol
+                gonnen und im och dz recht als glich und gemain von dem unsern fuegen <lb n="20"
+                />und widerfaren lassen, dz wir hoffen, dz er uns dez ze danckent habe. Und <lb
+                    n="21"/>üwer früntschafft woelle sich hierinne so früntlich bewysen sonder tuon,
+                als <lb n="22"/>wir denn dez und allez guoten ain unzwifenlich guot getruwen zu üch
+                haben. <lb n="23"/>Daz begern wir in der glich mindern und meren sachen wa sich
+                daz gepüret, <lb n="24"/>mit gantzem willen umb üwer ersame ze beschulden und ze
+                verdienen. <lb n="25"/>Und wir begern hierumb üwer guetlich verschriben antwurt mit
+                dem potten. <lb n="26"/>Datum <origDate when="1438-11-05">quarta post omnium
+                    sanctorum anno domini etc. XXXVIIIto</origDate>. <lb n="27"/><orgName
+                    ref="stadtasg-actors-511" role="issuer">Burgermaister und <lb n="28"/>raute zu
+                    Lindow</orgName>. <pb facs="StadtASG_Missive_112_224.JPG" n="2"/>
+                <lb n="29"/>Den ersammen und wysen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raute zu <lb n="30"/>Santgallen</orgName> unsern sondern
+                lieben und guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

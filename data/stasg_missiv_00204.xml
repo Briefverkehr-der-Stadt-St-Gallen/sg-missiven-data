@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 204</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_204_409/410</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hans von Gänserndorf, Kammerschreiber des Herzogs Albrecht von Österreich,
+                    beschwert sich bei Bürgermeister und Rat zu St. Gallen, der Hauptmann
+                    Heuschreiber und andere St. Galler Bürger und Söldner hätten seinen Schwiegervater
+                    Walter von Schönenbühl, der in einer Angelegenheit des Herzogs mit einem Schiff
+                    nach Konstanz unterwegs gewesen sei, gefangen genommen. Er bittet um Freilassung
+                    des Gefangengesetzten, andernfalls müsse er Klage beim Herzog einreichen. Er
+                    bittet um Antwort mit dem gleichen Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-74">Beschwerde</term>
+                    <term ref="stadtasg-keywords-254">Söldner</term>
+                    <term ref="stadtasg-keywords-255">Schwiegervater</term>
+                    <term ref="stadtasg-keywords-210">Gefangenschaft</term>
+                    <term ref="stadtasg-keywords-199">Freilassung</term>
+                    <term ref="stadtasg-keywords-217">Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-224">Schiff</term>
+                    <term ref="stadtasg-keywords-373">Schreiber</term>
+                    <term ref="stadtasg-keywords-277">Herzog</term>
+                    <term ref="stadtasg-keywords-474">Hauptmann</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-69">Hans von Gänserndorf</persName>
+                    <placeName ref="stadtasg-places-25">Weiler</placeName>
+                    <date>1446-09-10</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-19</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_204_409.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Ersamen weisen besunder guten frewnd mein willig dinst zevor. Ich <lb
+                    n="2"/>lass ew wissen, daz ich den fromen vesten <persName ref="stadtasg-actors-336"
+                    >Walthern von Schonenbuehl</persName>
+                <lb n="3"/>meinen lieben sweher von ettwas gnoetiger sachen wegen meinen <lb n="4"
+                />gnedigen herren hertzog <persName ref="stadtasg-actors-64">Albrechten hertzogenn ze
+                    Oesterreich</persName> etc. anruerende, <lb n="5"/>in ainem scheff gen
+                    <placeName ref="stadtasg-places-7">Costentz</placeName> an unsrer lieben <date
+                    when="1446-09-08">frowen tag nativitatis <lb n="6"/>nachstvergangen</date>
+                gesant habe. Also ist ewr houptmann der <persName ref="stadtasg-actors-337">Hewschreiber</persName>
+                <lb n="7"/>und ander ewr burger und soeldner an in koemen und habent den unbe <lb
+                    break="no" n="8"/>waret gevangen und hinwegk gefueret, wiewol er sich nye vor
+                ewr <lb n="9"/>noch den ewern hat wissen ze huetten, und nach dem und er och mit ew
+                    <lb n="10"/>nichtz ze schaffen hat und auch nyemant anderm zuversprechen steet
+                dann <lb n="11"/>meinem vorgenanten gnedigen <persName ref="stadtasg-actors-64">herren von
+                    Oesterreich</persName>, darumb mich also <lb n="12"/>soelch venkchnuß vast
+                froemd und unpillich bedunkchet, bitt ich ew und <lb n="13"/>beger mit ernst, daz ir
+                denselben meinen sweher unbeschadiget mit <lb n="14"/>leib und gut anverziehen wider
+                ledig schaffet. Wan tett ir des nicht, <lb n="15"/>so muest ich soelhs meins
+                egemelten <persName ref="stadtasg-actors-64">herren von Oesterreich</persName> gnaden von ew <lb n="16"
+                />klagen und verrer darinn rat haben. Ewr antwort bey disem poten. Geben <lb n="17"
+                />zu <origPlace ref="stadtasg-places-25">Wiler</origPlace> am <origDate when="1446-09-10">sambstag nach
+                    unserr lieben frowenn tag nativitatis anno <lb n="18"/>domini etc.
+                    XLVIto</origDate>. <lb n="19"/>Hertzog <persName ref="stadtasg-actors-64">Albrechts hertzogen zu
+                    Oesterreich</persName> etc. meins gnedigen herren <lb n="20"/>camerschreiber
+                    <persName ref="stadtasg-actors-69" role="issuer">Hanns von Gensterndorff</persName>. <pb
+                    facs="StadtASG_Missive_204_410.JPG" n="2"/>
+                <lb n="21"/>Den ersamen weisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermeister <lb
+                        n="22"/>und rat zu sant Gallen</orgName> meinen gueten frewnden. </p>
+        </body>
+    </text>
+</TEI>

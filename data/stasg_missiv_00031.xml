@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 31</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note><p>Zur Sache siehe auch die Missive Nr. 30.</p></note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_31_61/62</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Eglolf Blarer, Abt des Benediktinerklosters St. Gallen, bittet Bürgermeister und
+                    Rat zu St. Gallen um rücksichtsvolle Behandlung des von ihnen gefangen
+                    genommenen Wilhelm Fisch.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-64">Gefangener</term>
+                    <term ref="stadtasg-keywords-65">Fürbitte</term>
+                    <term ref="stadtasg-keywords-201">Abt</term>
+                    <term ref="stadtasg-keywords-115">Kloster</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-23">Eglolf Blarer</persName>
+                    <placeName ref="stadtasg-places-7">Konstanz</placeName>
+                    <date>1427-01-25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS</persName>
+                <date>2018-11-12</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_31_61.JPG" n="1"/>
+            <p>
+                <lb n="1"/><persName ref="stadtasg-actors-23" role="issuer">Eglolff</persName> von gotts und
+                des roemschen stuols gnaden <lb n="2"/>bestaetter abt des <orgName ref="stadtasg-actors-541"
+                    >gotzhuß zuo sant Gallen</orgName>. <lb n="3"/>Unsern früntlichen gruoz vor
+                ersamen wisen bisunder lieben. Uns ist <lb n="4"/>fürkomen, wie daz ir <persName
+                    ref="stadtasg-actors-22">Wilhelmen Fissch</persName> in gevangnuss habint von schuld und
+                    <lb n="5"/>sach wegen, als uch wol ze wissenn ist. Sig ez do bettlich, so
+                bittent wir <lb n="6"/>uwir früntschaft und wishait mit sundrem ernste und flisse,
+                daz ir den <lb n="7"/>selben gevangnen man gnaedklichen und früntlich halten
+                wellent, daz <lb n="8"/>er bi dem leben beliben mug, und wellent uch hierinne also
+                früntlich <lb n="9"/>bewisen, daz er unser bett daran geniesse, daz wellen wir
+                allzit gerne <lb n="10"/>ummb uch bischulden. Geben ze <origPlace ref="stadtasg-places-7"
+                    >Costentz</origPlace> an <origDate when="1427-01-25">sant Paulus tag der <lb
+                        n="11"/>bekerung anno etc. XXVIIo</origDate>. <pb
+                    facs="StadtASG_Missive_31_62.JPG" n="2"/>
+                <lb n="12"/>Den ersamen wisen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und <lb n="13"/>rate der statt sant Gallen</orgName> unsern
+                bisundern <lb n="14"/>lieben. </p>
+        </body>
+    </text>
+</TEI>

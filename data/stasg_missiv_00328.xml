@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 328</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_328_661/662</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ulrich Spät von Rorschach informiert Bürgermeister und Rat zu St. Gallen darüber, dass er, wie in einer vergangenen Gerichtsverhandlung entschieden, im Streit mit Hans Zerhoch um einen Zehnt, so gehandelt habe, wie entschieden wurde. Allerdings sei er (Spät) dem Zerhoch keinen Zehnten schuldig. Da der Fall nun an das Pfalzgericht der Benediktinerabtei St. Gallen weitergeleitet wurde, wolle er tun, was dort entschieden werde.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+<term ref="stadtasg-keywords-54">Zehnt</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-402">Pfalz</term>
+<term ref="stadtasg-keywords-115">Kloster</term>
+<term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-27">Eid</term>
+<term ref="stadtasg-keywords-28">Bürge</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-623">Ulrich Spät</persName>                    <date>1456-07-14</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-01-22</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_328_661.JPG" n="1"/>
+<p>
+<lb n="1"/>Den fürsichtigen und wisen <orgName ref="stadtasg-actors-148">burgermaister und rate zuo sant Gallen</orgName> minen gnaedigen
+<lb n="2"/>hern enbiet ich <persName ref="stadtasg-actors-623">Uolrich Spaet</persName> von <placeName ref="stadtasg-places-87">Roschach</placeName> min willig dienst. Üwer schriben,
+<lb n="3"/>so ir mir geton hand, als von der stoes und irrung wegen, so dann 
+<lb n="4"/><persName ref="stadtasg-actors-624">Hans Zerenhoch</persName> und ich von ains zuospruchs wegen mit ain andren habent,
+<lb n="5"/>mir üwer wishait uff den aid gebiet, den zechenden nit zuo minen handen
+<lb n="6"/>ze nemen, sunder zuo gemainen handen min und dez benampten <persName ref="stadtasg-actors-624">Hansen
+<lb n="7"/>Zerenhochs</persName>s halb zuo legen, hab ich wol vernumen. Ich hoff aber zuo üwer
+<lb n="8"/>wishait, das ich kainen zechenden dem <persName ref="stadtasg-actors-624">Zerenhoch</persName> gewaertig sige
+<lb n="9"/>zuo leggen, denn ich bin im dehainen zechenden schuldig, denn so vil
+<lb n="10"/>und vor uwer wishait gemünt worden ist, dz wil ich gern leggen, och
+<lb n="11"/>im dez nit vor sin. Aber wie dem allem ist üch wol ze wissen, das wir
+<lb n="12"/>zuo baider sit unserer stoes und irrung uff mins gnaedigen heren von <placeName ref="stadtasg-places-38">sant Gallen</placeName>
+<lb n="13"/>pfalletz gericht von üch geschoben und dar uf gewist ist, dem ich von
+<lb n="14"/>billich nachkumen sol, wenn ich dez ermandt wird, und was da zuom
+<lb n="15"/>rechten erkent und gesprochen wirt, ob ich dem <persName ref="stadtasg-actors-624">Zerenhoch</persName> unter pflichtig
+<lb n="16"/>wurd, wil ich im ainen werren dar umb setzen ze <placeName ref="stadtasg-places-87">Roschach</placeName>, uwern burger
+<lb n="17"/>ainen, im soelichs uszerichten und hier uff das min zuo minen handen
+<lb n="18"/>ziechen. Haut aber der <persName ref="stadtasg-actors-624">Zerenhoch</persName> unt anders, me denn vor üch verlaussen
+<lb n="19"/>ist, für üch braucht, wil ich willeklich wider umb für üwer wishait keren,
+<lb n="20"/>ob billich sig, das ich im das min zuo sinen handen leggen soelle, und
+<lb n="21"/>bitt üwer wishait, uff soelichs, als denn vor üch verlaussen ist, mir uwer ge
+<lb break="no" n="22"/>bot ab ze laussen und das in argem nit von mir uff ze nement. Datum
+<lb n="23"/><origDate when="1456-07-14">in vigilia sancta Margaretha anno domini etc. Lsexto</origDate>.
+<lb n="24"/><persName ref="stadtasg-actors-623" role="issuer">Uolrich Spaet von
+<lb n="25"/>Roschach</persName>.
+<pb facs="StadtASG_Missive_328_662.JPG" n="2"/>
+<lb n="26"/>Den fürsichtigen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und
+<lb n="27"/>rate zuo sant Gallen</orgName> minen gnaedigen herren.
+</p>
+        </body>
+    </text>
+</TEI>

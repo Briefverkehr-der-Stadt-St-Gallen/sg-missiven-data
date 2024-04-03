@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 30</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_30_59/60</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Wilhelm Fisch informiert Bürgermeister und Rat zu St. Gallen über Gerüchte der
+                    Brandstiftung, die von St. Gallern, unter anderen von Ulrich Hätzler, über ihn
+                    verbreitet worden seien, und bittet um eine schriftliche Antwort mit dem
+                    gleichen Boten, ob er vor ihnen und den ihren sicher sei.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-62">Brandstiftung</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-17">Bote</term>
+                    <term ref="stadtasg-keywords-63">Gerücht</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-22">Wilhelm Fisch</persName>
+                    
+                    <date>1426-10-11</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS</persName>
+                <date>2018-11-12</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_30_59.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Minen früntlich willig dienst allzitt vor an erbern wisen besundern
+                guoten fründ. <lb n="2"/>Ich laus üch wissen ettwas red, die da beschehen sind von
+                den üwern, und ist die <lb n="3"/>red also, ich hab das hus verbrent, des ich gott
+                trüwen, es sy nütt, und sol sich niemer <lb n="4"/>erfinden, er hett och gerett, wa
+                mich die von <placeName ref="stadtasg-places-38">sant Gallen</placeName> wisstind zuo
+                suochend <lb n="5"/>in stetten oder uff burgen, da selbs woeltend ir mich haimssen
+                und suochen und ander <lb n="6"/>vil reden, die da beschehen sind, und die selben
+                red hett getan <persName ref="stadtasg-actors-151">Uolrich Haetzler</persName>. Bitt <lb n="7"
+                />üch früntlich und ernstklich und mich laussend wissen ain verschriben anttwurt by
+                disem <lb n="8"/>gegenwürtigen botten üwer mainung, ob ich sicher sy von üch und von
+                den üwern, <lb n="9"/>won mir doch laid waer, wa üch und den üwern ütz missegieng
+                von minen wegen an reht, <lb n="10"/>als üch denn wol ze wissend ist, was mir
+                vormols gegnet ist von den üwern, och das <lb n="11"/>ich kaines rehten noch
+                gelichen nie komen möcht von den üwern. Also land mich wissen by <lb n="12"/>disem
+                botten, won ich disem botten enpfolchen hab da ainer anttwrt von üch, ob ich sicher
+                <lb n="13"/>sy oder nüt. Datum <origDate when="1426-10-11">in feria sexta
+                    proxima ante Galli etc. XXVIo</origDate>.
+                <lb n="14"/>Von mir <persName ref="stadtasg-actors-22" role="issuer">Wilhelm <lb n="15"
+                    />Visch</persName>. <pb facs="StadtASG_Missive_30_60.JPG" n="2"/>
+                <lb n="16"/>Den ersamen und wisen dem <lb n="17"/><orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und rat der statt ze <lb n="18"/>sant Gallen</orgName>. </p>
+        </body>
+    </text>
+</TEI>

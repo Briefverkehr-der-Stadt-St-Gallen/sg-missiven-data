@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 310</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_310_625/626</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die Ratsdelegation der verbündeten Reichsstädte in Schwaben bitten Bürgermeister
+                    und Rat zu St. Gallen um Hilfe in den Todesfällen der Schürgi und des
+                    Brechthans. Sie bitten St. Gallen, mit ihrem Bürger Burkhard Schenk, einem
+                    Freund des verstorenen Brechthans, Kontakt aufzunehmen. Dieser solle mit den
+                    Bekannten des Verstorbenen sprechen, damit sich diese nicht an den Städten,
+                    insbesondere Pfullendorf und Radolfzell, rächen. Die Städte bitten um
+                    schriftliche Antwort mit dem Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-23">Mord</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-117">Schwäbischer Städtebund</term>
+                    <term ref="stadtasg-keywords-343">Hintersasse</term>
+                    <term ref="stadtasg-keywords-126">Reichsstadt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-531">Städte des Schwäbischen Städtebundes</orgName>
+                    <placeName ref="stadtasg-places-28">Ulm</placeName>
+                    <date>1454-11-28</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_310_625.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unnser früntlich willig dienst voran ersamen und wisen lieben frund. Ir
+                habent, als wir mainen, <lb n="2"/>wol vernomen, wie und welicher masse <persName
+                    ref="stadtasg-actors-472">Schürgin</persName> und <persName ref="stadtasg-actors-473"
+                    >Brechthanns</persName> umb kommen sind, deshalb uch <lb n="3"/>davon nit nott
+                zuoschribent tuot, denn so vil, das unns fürkompt, wie des egenanten
+                    <persName ref="stadtasg-actors-473">Brechthannsen</persName>
+                <lb n="4"/>fründ <persName ref="stadtasg-actors-420">Burckhartt Schencken</persName> uwers
+                burgers hindersässen, als wir vernemen, tröwen und in mainung <lb n="5"/>sin söllen,
+                unnsern fründen den stetten sonnder den von <orgName ref="stadtasg-actors-535"
+                    >Phullendorff</orgName> und <orgName ref="stadtasg-actors-508">Rattolffzelle</orgName> und
+                den iren <lb n="6"/>schaden in ze ziehen, das unns, ob dem also wer, unbillich
+                beduncket, und darumb so bitten <lb n="7"/>wir uwer ersamkeit mit ernstlichem
+                vlisse, ir wellent umb unnsern willen mit dem vorgenanten <lb n="8"/><persName
+                    ref="stadtasg-actors-420">Burgkhartt Schencken</persName>, uwerm burger, gütlich schaffen
+                und daran sin, das er mit des egenanten <lb n="9"
+                    /><persName ref="stadtasg-actors-473">Brechthannsen</persName>
+                säligen fründen sinen hindersässen und den sinen ernstlich schaffe und si
+                under <lb break="no" n="10"/>wise, unnser frund die stett sonnder die von <orgName
+                    ref="stadtasg-actors-535">Pfullendorff</orgName> und <orgName ref="stadtasg-actors-508"
+                    >Rattolffzelle</orgName> darumb unbekumbert <lb n="11"/>und unbeschadigett zuo
+                laussen, deshalb si kains argen von in gewarten bedurffen, als wir mainen, <lb
+                    n="12"/>si nach gestalt der sachen billich tüen und uch darinne als fürderlich
+                und günstlich bewisen, als wir <lb n="13"/>uwer ersamkait unzwivenlich wol getrüwen.
+                Das wöllen wir mit willen umb uwer wishait gern <lb n="14"/>verdienen. Und begern
+                darumb uwer verstantlich verschriben antwurtt wider mit dem botten. Geben zuo <lb
+                    n="15"/><origPlace ref="stadtasg-places-28">Ulme</origPlace> von unnser aller wegen
+                unnder <orgName ref="stadtasg-actors-510">der von Ulme</orgName> insigel uf <origDate
+                    when="1454-11-28">donrstag vor Andre anno etc. LIIIIo</origDate>. <lb n="16"
+                />Gemainer <orgName ref="stadtasg-actors-531" role="issuer">richsstett der verainung in
+                    Swaben</orgName> erbern <lb n="17"/>rautzbotten, als wir zu <origPlace
+                    ref="stadtasg-places-28">Ulme</origPlace> biainander ge <lb break="no" n="18"/>wesen
+                sien. <pb facs="StadtASG_Missive_310_626.JPG" n="2"/>
+                <lb n="19"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raute der <lb n="20"/>statt sant Gallen</orgName> unsern
+                besundern guoten fründen.</p>
+        </body>
+    </text>
+</TEI>

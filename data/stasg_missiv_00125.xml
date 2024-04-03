@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 125</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_125_249/250</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Statthalter und Rat zu Appenzell bitten Bürgermeister und Rat zu St. Gallen um
+                    die Entsendung eines Gesandten an einen Gerichtstag, der am kommenden Mittwoch
+                    1. Juni in Feldkirch stattfinden soll. Wenn möglich sollte der Gesandte der
+                    Altbürgermeister Konrad Hör sein.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-12">Gesandter</term>
+                    <term ref="stadtasg-keywords-149">Rechtstag</term>
+                    <term ref="stadtasg-keywords-165">Altbürgermeister</term>
+                    <term ref="stadtasg-keywords-25">Gericht</term>
+                    <term ref="stadtasg-keywords-70">Termin</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-620">Herberge</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-401">Statthalter</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-506">Statthalter und Rat zu Appenzell</orgName>
+                    
+                    <date>1440-05-29</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-05-27</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_125_249.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser willig dienst vor erbern wisen guotten fründ und lieben getrüwen
+                    <lb n="2"/>aidgnossen. Wir habent ettwas treffenlicher sachen ze <placeName
+                    ref="stadtasg-places-89">Veltkilch</placeName> ze <lb n="3"/>schaffen, darumb tag uff
+                    <date when="1440-06-01">mittwochen ietz ze naechst </date>gesetzet ist. <lb
+                    n="4"/>Bittent wir üwer früntschaft, das ir uns ainen erbern botten von <lb
+                    n="5"/>üwerm ratte und namlich, ob es gesin mug, <persName ref="stadtasg-actors-206"
+                    >Cuonratten Hoeren</persName>, üwern <lb n="6"/>alten burgermaister, zuo dem tag
+                lihen und senden wellent, das der <lb n="7"/>uff <date when="1440-05-31">zinstag
+                    naechst</date>ze <placeName ref="stadtasg-places-89">Veltkilch</placeName> an der herberg
+                sy by unsern botten, <lb n="8"/>so wir da hin sendent und schikent. Das wellent wir
+                in des glichen <lb n="9"/>und meren sachen mit willen umb üch verschulden und
+                gedienen. <lb n="10"/>Geben und versigelt mit unsers alten ammans insigel am
+                    <origDate when="1440-05-29">sunnentag <lb n="11"/>nach unsers herren fronlichams
+                    tag gebresten halb des unsern, anno <lb n="12"/>domini XL</origDate>. <orgName
+                    ref="stadtasg-actors-506" role="issuer"><lb n="13"/>Statthalter und <lb n="14"/>rat ze
+                    Appenzell</orgName>. <pb facs="StadtASG_Missive_125_250.JPG" n="2"/>
+                <lb n="15"/>Den fromen fürnaemen fürsichtigen wisen dem <orgName ref="stadtasg-actors-148"
+                    role="recipient">burgermaister und ratte <lb n="16"/>ze sant Gallen</orgName>
+                unsern sunder guotten fründen und lieben getrüwen aidgnossen.</p>
+        </body>
+    </text>
+</TEI>

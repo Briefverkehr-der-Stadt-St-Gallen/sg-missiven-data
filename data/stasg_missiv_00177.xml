@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 177</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnte Beilage ist vorhanden.</p></note></notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_177_353/354</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau informieren Bürgermeister und Rat zu St. Gallen,
+                    dass auf dem Bodensee ein Schiff mit Kriegsknechten unterwegs sei, dessen Ziel
+                    ihnen aber nicht bekannt ist. In einem beiliegenden Schreiben bitten
+                    Bürgermeister und Rat zu Lindau darum, dass sie informiert werden, sobald
+                    Bürgermeister und Rat zu St. Gallen etwas Neues von den französischen und
+                    fremde Leuten (Armagnaken) erfahren, die im Klettgau umherziehen und den
+                    Eidgenossen eine Niederlage beigebracht haben.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-223">Fremde</term>
+                    <term ref="stadtasg-keywords-224">Schiff</term>
+                    <term ref="stadtasg-keywords-225">Kriegsgefahr</term>
+                    <term ref="stadtasg-keywords-226">Armagnake</term>
+                    <term ref="stadtasg-keywords-227">Niederlage</term>
+                    
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>
+                    
+                    <date>1444-09-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-07-08</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_177_353.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst zu vor ersammen wysen sonder <lb n="2"
+                />lieben und guoten fründe. Wir haben vernomen, wie dz ain schiff <lb n="3"/>mit
+                raißigem volk uff hüt umb unser statt by dem galgen <lb n="4"/>gehalten und gefaren
+                habe. Wissent wir nit, uff wen sy halten. <lb n="5"/>Und wan wir nun vernemen, wie
+                dz ettlich die üwern gen <placeName ref="stadtasg-places-129">Ymenstatt</placeName>
+                <lb n="6"/>und an etlich ander ende gewandelt sigen, wolten wir nit lassen, <lb
+                    n="7"/>wir woelten üwer guoten früntschafft soelichs kund tuon, ob ir mit <lb
+                    n="8"/>yeman ihtz wisstent ze tuend haben, dz ir und die üwern üch <lb n="9"
+                />wissent dester baß ze besorgen. Denn in welhen sachen wir <lb n="10"/>getuon
+                kundint, dz üch ald den üwern früntlich lieb und dienst <lb n="11"/>weare, darzuo
+                wollten wir ze mal willig sin, alz wol billich <lb n="12"/>ist. Datum <origDate
+                    when="1444-09-04">sexta ante nativitatem Marye virginis anno domini etc.
+                    XLIIIIo</origDate>. <lb n="13"/><orgName ref="stadtasg-actors-511" role="issuer">Burgermaister und <lb
+                        n="14"/>rate zu Lindwow</orgName>. <pb facs="StadtASG_Missive_177_354.JPG"
+                    n="2"/>
+                <lb n="15"/>Den ersammen wysen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raetten zu <lb n="16"/>Santgallen</orgName> unsern sondern
+                lieben und guoten fründen.
+            </p>
+        </body>
+    </text>
+</TEI>

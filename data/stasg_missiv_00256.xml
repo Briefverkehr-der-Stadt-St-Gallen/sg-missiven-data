@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 256</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. 252.</p></note></notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_256_513/514</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Heinrich IV. von Hewen, Bischof von Konstanz, informiert Bürgermeister und Rat zu
+                    St. Gallen darüber, dass er in Kürze eine Gesandschaft nach St. Gallen senden
+                    werde, um sie in der Angelegenheit von Thomas Schweizers Witwe und ihrer Tochter
+                    zu unterrichten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-188">Bischof</term>
+                    <term ref="stadtasg-keywords-231">Gesandtschaft</term>
+                    <term ref="stadtasg-keywords-177">Witwe</term>
+                    <term ref="stadtasg-keywords-298">Tochter</term>
+                    <term ref="stadtasg-keywords-621">Kanzler</term>
+                    <term ref="stadtasg-keywords-540">Schloss</term>
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-55">Heinrich IV. von Hewen, Bischof zu Konstanz</persName>
+                    <placeName ref="stadtasg-places-30">Schloss Arbon</placeName>
+                    <date>1452-01-22</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS und SO</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>SC</persName>
+                <date>2021-12-22</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_256_513.JPG" n="1"/>
+            <p>
+                <lb n="1"/><persName ref="stadtasg-actors-55" role="issuer">Hainrich</persName> von gottes gnaden bischoff
+                zuo <placeName ref="stadtasg-places-7">Costentz</placeName>, <lb n="2"/>verweser des stifftz zuo
+                <placeName ref="stadtasg-places-114">Chure</placeName> und kantzler etc. <lb n="3"/>Unsern gruoß zuovor
+                ersamen wysen besundern guoten fründe. Wie ir mit <lb n="4"/>unsern raeten von
+                <persName ref="stadtasg-actors-414">Thoman Swytzers</persName> seligen wittwen <note><persName ref="stadtasg-actors-415">Frau Schweizer</persName>.</note> und ir tochter wegen <lb
+                    n="5"/>geredt hand, haben wir wol vernomen, und wellend unser bottschafft in
+                ainer <lb n="6"/>kurtz zuo üch sennden und der bevelhen, üch darumb ußtragenlich zuo
+                <lb n="7"/>antwurten. Geben in unserm <origPlace ref="stadtasg-places-30">schloß Arben</origPlace> an
+                <origDate when="1452-01-22">sambstag nach sandt <lb n="8"/>Agnesen tag anno domini etc. L
+                    secundo</origDate>.
+                
+               <pb facs="StadtASG_Missive_256_514.JPG" n="2"/>
+                <lb n="9"/>Den ersamen wysen unsern besundern guoten <lb n="10"/>fründen dem
+                <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raut zuo <lb n="11"/>sandt
+                    Gallen</orgName>. </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,100 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 343</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_343_691/692</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Jos Gössler, der früher während dreier Jahre in St. Gallen die alten Steuern eingetrieben hatte, schreibt Heinrich Zwick, Bürgermeister zu St. Gallen, er habe seinen versprochenen Lohn von 3 Pfund vom damaligen Säckelmeister Senn noch nicht bekommen. Er bittet darum, ihm das Geld durch seinen Schwager Peter Herren, Überbringer des Briefs, zukommen zu lassen, da er das Geld in Lindau brauche. Er schickt Grüsse an Zwicks Frau und dessen Sohn Michael.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-98">Steuer</term>
+<term ref="stadtasg-keywords-352">Lohn</term>
+<term ref="stadtasg-keywords-497">Säckelmeister</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-519">Verwandtschaft</term>
+<term ref="stadtasg-keywords-345">Zeiger</term>
+<term ref="stadtasg-keywords-609">Schwager</term>
+<term ref="stadtasg-keywords-175">Sohn</term>
+<term ref="stadtasg-keywords-297">Ehefrau</term>
+<term ref="stadtasg-keywords-174">Rechnung</term>
+<term ref="stadtasg-keywords-322">Geselle</term>
+<term ref="stadtasg-keywords-125">Arbeit</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-616">Jos Gössler</persName> <placeName ref="stadtasg-places-24">Lindau</placeName>                    <date>1459-01-22</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-71">Heinrich Zwick (II)</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2024-01-16</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_343_691.JPG" n="1"/>
+<p>
+<lb n="1"/>Min willigen dinst zuo vor lieber herr burgermaister<note><persName ref="stadtasg-actors-71">Heinrich Zwick</persName>.</note>. Als üch wol wyssen
+<lb break="no" n="2"/>lich ist, wye ich in üwer statt dinst wol drü iar gewaessen bin
+<lb n="3"/>und ich die altten stüren innam, und ich nun aim ratt guott
+<lb n="4"/>raechnung dar umb tuon han, das och aim ratt wol wyssenlich
+<lb n="5"/>ist, und mir ain ratt dar umb gesprochen hatt zuo gaeben
+<lb n="6"/>für min lon und min arbaitt, die ich da mitt hatt, III <abbr>lb.</abbr>
+<lb n="7"/><abbr>den.</abbr> Die saelben III <abbr>lb.</abbr> <abbr>den.</abbr> man apfalch dem <persName ref="stadtasg-actors-619">Sennen</persName>, der do
+<lb n="8"/>zemal üwer statt sekler gewaessen ist, das er mir die gaeb,
+<lb n="9"/>und er mir noch nütz gaeben hatt dar an, das ich wyss. Bitt ich
+<lb n="10"/>üch gar früntlich, mir soelich gaeltt schyken und schaffen wellind
+<lb n="11"/>ietz by minem schwager <persName ref="stadtasg-actors-617" role="testis">Petter Herren</persName>, zoeger dissen bryeff, denn
+<lb n="12"/>ich sin zuo raechter nott nottdurfftyg bin und muoss gaeltt
+<lb n="13"/>han, denn ich ietz zuo mal in ain schwarlichen raechten ston
+<lb n="14"/>hye zuo <placeName ref="stadtasg-places-24">Lindow</placeName>, und dar zuo toerfft ich der gaeltz wol. Und ich
+<lb n="15"/>bitt üch, lond mich nitt an dem gaeltt, denn ich üch wol trüw
+<lb break="no" n="16"/>en, ir laussind üch mich apfolhen sin in aim soelichen, das
+<lb n="17"/>statt mir zuo verdienen umb üch nitt mer. Den gruoessend
+<lb n="18"/>mir üwer frowen und min guotten gesellen <persName ref="stadtasg-actors-618">Micheln</persName>, üwern
+<lb n="19"/>son, und sagend im min wylligen dinst. Gaeben zuo <origPlace ref="stadtasg-places-24">Lindow</origPlace>
+<lb n="20"/>uff <origDate when="1459-01-22">mentag nach Sebastiany Mo CCCCo LVIIII iar</origDate>.
+<lb n="21"/>Von mir <persName ref="stadtasg-actors-616" role="issuer">Ios
+<lb n="22"/>Goessler</persName>.
+<pb facs="StadtASG_Missive_343_692.JPG" n="2"/>
+<lb n="23"/>Dem ersamen wysen <persName ref="stadtasg-actors-71" role="recipient">Hainrichen
+<lb n="24"/>Zwyken</persName> burgermaister zuo
+<lb n="25"/><placeName ref="stadtasg-places-38">santt Gallen</placeName> minem lieben
+<lb n="26"/>herren.
+</p>
+        </body>
+    </text>
+</TEI>

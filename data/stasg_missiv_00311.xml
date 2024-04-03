@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 311</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_311_627/628</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Konstanz bitten Bürgermeister und Rat zu St. Gallen um
+                    ihre Mithilfe im Streitfall zwischen Konrad von Fulach und Konrad Ehinger,
+                    Bürger von Konstanz, welcher vor dem Bischof von Konstanz verhandelt wurde, mit
+                    der Unterstützung von Johann Widenbach und des Zürcher Säckelmeisters. An dieser
+                    ersten Verhandlung sei aber kein Urteil gefällt worden; dies soll an einer
+                    weiteren Verhandlung geschehen. Konstanz fragt St. Gallen, ob ihr Bürgermeister
+                    an einer neuerlichen Verhandlung vom 9. Dezember anwesend sein könne. Sie bitten
+                    um eine schriftliche Antwort mit dem Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-188">Bischof</term>
+                    <term ref="stadtasg-keywords-497">Säckelmeister</term>
+                    <term ref="stadtasg-keywords-275">Fürst</term>
+                    <term ref="stadtasg-keywords-24">Klage</term>
+                    <term ref="stadtasg-keywords-473">Eile</term>
+                    <term ref="stadtasg-keywords-149">Rechtstag</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>
+                    
+                    <date>1454-11-28</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-04-02</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_311_627.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser fruntlich willig dienst zuo vor ersamen und wisen insundern guten
+                frund. In <lb n="2"/>den spennen zwuschen <persName ref="stadtasg-actors-474">Conratten von
+                    Fulach</persName> an ainem und <persName ref="stadtasg-actors-475">Conraten
+                    Ehinger</persName>
+                <lb n="3"/>unserm burger am andern, der sy dann baider sit uff den hochwirdigen
+                fursten <lb n="4"/>und herren hern <persName ref="stadtasg-actors-55">Hainrichen</persName>
+                bischoff zuo <placeName ref="stadtasg-places-7">Costentz</placeName> unsern gnadigen herren und die ersamen <lb n="5"/>wisen
+                    <persName ref="stadtasg-actors-476">Johannsen Widenbach</persName> und den seckelmaister
+                von <placeName ref="stadtasg-places-32">Zurich</placeName><note><persName ref="stadtasg-actors-477">Niklaus Brennwald</persName>.</note> zuo recht als <lb n="6"/>ingemainem zuo sprechen komen syen, darumb sy
+                dann baidtail in clag und wider <lb break="no" n="7"/>red verhort und spruch zuo
+                geben ain bedencken genommen haben, wan nu der <lb n="8"/>unser der sach gern ustrag
+                hette, hat er den benanten unsern gnadigen herren von <lb n="9"
+                        /><placeName ref="stadtasg-places-7">Costentz</placeName><note><persName ref="stadtasg-actors-55">Heinrich IV. von
+                    Hewen, Bischof von Konstanz</persName>.</note> gebetten, im an der sach tag zuo setzen, uff das sin
+                gnad im ainen <lb n="10"/>tag beschaiden und benempt hat, als uff den <date
+                    when="1454-12-09">nächsten mentag nach sant <lb n="11"/>Nicolas tag</date>. Ob
+                sölicher tag anders uwerm burgermaister och eben sin wölt, <lb n="12"/>bitten wir
+                uwer ersamen wißhait mit besunderm ernst fruntlich, mitt <lb n="13"/>uwerm
+                burgermaister gütlich zuo schaffen, sölichen tag, ob er anders das an <lb n="14"
+                />sinen muosen gehaben mag, och zuo ze sagen, damit solicher tag sint <lb break="no"
+                    n="15"/>halb och fürgang gewinn. Und wollen üch hier inn bewisen, als wir <lb
+                    n="16"/>des und alles guoten ain sunder guot getruwen zuo uch haben, das <lb
+                    n="17"/>wollen wir mit sunderm willen umb uch beschulden und verdienen. <lb
+                    n="18"/>Uwer verschriben antwurt by dem botten. Geben ilons uff <lb n="19"
+                    /><origDate when="1454-11-28">donrstag nach sant Conrats tag anno domini etc.
+                    LIIIIto</origDate>. <lb n="20"/><orgName ref="stadtasg-actors-56" role="issuer"
+                    >Burgermaister und <lb n="21"/>rate zuo Costentz</orgName>. <pb
+                    facs="StadtASG_Missive_311_628.JPG" n="2"/>
+                <lb n="22"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und <lb n="23"/>rate zuo sant Gallen</orgName> unsern insundern
+                guoten <lb n="24"/>fründen.</p>
+        </body>
+    </text>
+</TEI>

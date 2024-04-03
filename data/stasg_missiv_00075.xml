@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 75</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_75_149/150</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Johannes Häch, Priester in Sommeri, beschwert sich bei Bürgermeister und Rat zu
+                    St. Gallen, dass Friedrich Stüdeli und dessen Sohn Matthias ihn mehrfach bedrängt
+                    hätten, mit ihm nach Konstanz zu reiten, um ihnen in einer Angelegenheit zu
+                    helfen. Am Ende hätten sich Vater und Sohn geweigert, ihn zu entschädigen.
+                    Johannes Häch bittet um Unterstützung und droht damit, die zwei vor das
+                    geistliche Gericht in Konstanz zu ziehen. Er bittet um Antwort mit dem gleichen
+                    Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-217">Antwort</term>
+                    <term ref="stadtasg-keywords-21">Rechtshilfe</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-68">Entschädigung</term>
+                    <term ref="stadtasg-keywords-58">Drohung</term>
+                    <term ref="stadtasg-keywords-35">Priester</term>
+                    <term ref="stadtasg-keywords-175">Sohn</term>
+                    <term ref="stadtasg-keywords-527">Vater</term>
+                    <term ref="stadtasg-keywords-314">Anwalt</term>
+                    <term ref="stadtasg-keywords-261">Geistliches Gericht</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-40">Johannes Häch</persName>
+                    
+                    <date>1435-12-21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-04-16</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_75_149.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min gebett und willig dienst all zit lieben herren. Ich lass üch wissen,
+                das sich hat <lb n="2"/>gefuegt, das <persName ref="stadtasg-actors-115">Frik
+                    Stüdli</persName> und <persName ref="stadtasg-actors-197">Mathias</persName> sin sun sind
+                komen gen <placeName ref="stadtasg-places-75">Sumbri</placeName> in min hus <lb n="3"/>und
+                hand mich baid ernstlich gebetten, mit inen ze ritten gen <placeName ref="stadtasg-places-7"
+                    >Costentz</placeName>, als sy woltent <lb n="4"/>keren mitt des <orgName
+                    ref="stadtasg-actors-549">Fuegen</orgName> thochter, da weltint sy mir wol lonen und
+                weltint mich <lb n="5"/>och verzeren. Ich tett es nüt gern, wan ich forcht, das die
+                sach nut gieng, als <lb n="6"/>sy sy den für hattent muot ze nemen, doch sach ich
+                an ir ernstlich gebett, und rait <lb n="7"/>mit inen gen <placeName ref="stadtasg-places-7"
+                    >Costentz</placeName> und gieng des ersten mit inen für maister <persName
+                    ref="stadtasg-actors-198">Nithart</persName>, der üwer <lb n="8"/>attvocat ist, und batt
+                inn früntlich, inen und mir ze raten in die sach. Er antwurt <lb n="9"/>und sprach,
+                er welt nüt mit der sach ze schaffin han, es waer nit sin fuog. Also nam <lb n="10"
+                />ich die sach für und gieng zuo aim hie und dert, darumb das inen wurd gehulfen,
+                    <lb n="11"/>und dett das bestz, das ich kund oder moch. Also sind sy dik zuo mir
+                komen, ich rait <lb n="12"/>all zit mit inen. Also nun die sach hat end genomen, so
+                hat er iederman ussgericht, <lb n="13"/>untz an mich, und wil mir weder die zerung
+                nah min lon geben nah das er <lb n="14"/>und sin sun hand verzert hand by mir, und
+                geschicht mir nüt früntlich von inen. <lb n="15"/>Also genaiden herren bitt üwer
+                wisshait und früntschaft, den selben <persName ref="stadtasg-actors-115">Friken</persName>
+                und sinen <lb n="16"/>sun ze wisen, das sy mir ussrichtung tuegend, es syg von
+                zerung und och von miner <lb n="17"/>arbait wegen. Kan ich das umb üch verdienan,
+                wil ich all zit berait sin. Item ich wil sy <lb n="18"/>wisen mit <persName
+                    ref="stadtasg-actors-199">Caspar Lingen</persName>, der ira procarator was, das <persName
+                    ref="stadtasg-actors-115">Frik</persName> selber in batt, wass ich da selbs <lb n="19"
+                />werzarti, das er uns schriby, er welt es ussrichten, und befal och dem selben
+                    <persName ref="stadtasg-actors-199">Caspar</persName>, das <lb n="20"/>er mir enbütty,
+                das ich solt komen gen <placeName ref="stadtasg-places-7">Costentz</placeName> etwi dik, und
+                beger nüt me, den was <persName ref="stadtasg-actors-199">Kaspar</persName>
+                <lb n="21"/>redt umb die sach, da wil ich by beliben. Hierumb bitt ich üwer
+                wisshait, das ir schaffend <lb n="22"/>mit inen, das sy mich ussrichten, wan
+                    <persName ref="stadtasg-actors-199">der Ling</persName> hat mich citiert umb die zerung
+                aldabei, <lb n="23"/>mir gunnint in für ze nemen für das gaistlich gericht, wan es
+                doch von dem selben gericht <lb n="24"/>also her ist gewachsen. Da tuond, als ich
+                üwer wisshait wol getrüw, und land mich wissen <lb n="25"/>by disem botten. Datum
+                    <origDate when="1435-12-21">in die Thome anno XXXVo</origDate>. <lb n="26"
+                    /><persName ref="stadtasg-actors-40" role="issuer">Johannes Häch</persName>
+                <lb n="27"/>priester. <pb facs="StadtASG_Missive_75_150.JPG" n="2"/>
+                <lb n="28"/>Den fürsichtungen und wisen dem <lb n="29"/><orgName ref="stadtasg-actors-148"
+                    role="recipient">burgermaister und rat zuo sant <lb n="30"/>Gallen</orgName>
+                minen genaedigen herren und <lb n="31"/>guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

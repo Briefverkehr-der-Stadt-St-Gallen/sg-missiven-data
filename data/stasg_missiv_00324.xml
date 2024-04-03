@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 324</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_324_653/654</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Überlingen berichten Bürgermeister und Rat zu St. Gallen, dass sie das Schreiben aus St. Gallen betreffend Hans Golder erhalten haben und dass sie dafür sorgen werden, dass solch schändliches Treiben eingedämmt werde. Die Überlinger wissen aber noch nicht, wie die Ravensburger, die den Golder und Jöriglin in ihr Gefängnis ausgeliefert hatten, gegen diese vorgehen werden. Deshalb könnten sie noch keine weiteren Informationen liefern.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-19">Gefängnis</term>
+<term ref="stadtasg-keywords-118">Auslieferung</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-68">Bürgermeister und Rat zu Überlingen</orgName>                    <date>1456-05-07</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-01-16</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_324_653.JPG" n="1"/>
+<p>
+<lb n="1"/>Unser früntlich willig dienst zuo vor ersamen wisen sonder lieben
+<lb n="2"/>und guoten fründ. Uwer schriben uns getan von wegen <persName ref="stadtasg-actors-620">Hansen Golters</persName>
+<lb n="3"/>haben wir vernomen, und üch sol nit zwyfeln, waz wir gepürlich
+<lb n="4"/>in der und andern sachen getuon koennen oder moegen, damit soelich buobery
+<lb n="5"/>getempt werde, des sigen wir guotz willens. Wie aber üwer und unser guot
+<lb n="6"/>fründe die von <placeName ref="stadtasg-places-77">Ravenspurg</placeName>, die den selben <persName ref="stadtasg-actors-620">Golter</persName> und daz <persName ref="stadtasg-actors-621">Ioeriglin</persName> in
+<lb n="7"/>unser vannknusse geantwurt hand, die ding gen in fürnemen werden,
+<lb n="8"/>wüssen wir noch nit, deßhalb wir üch uff dis mal nit wyter geant
+<lb break="no" n="9"/>wurten koennen. Hierumb so woellen uns dz im besten vermerken, denn
+<lb n="10"/>wa wir üch zuo guotem gevallen werden moehten, taeten wir mit willen
+<lb n="11"/>gern. Geben am <origDate when="1456-05-07">fritag nach Assensionem domini etc. Lsexto</origDate>.
+<lb n="12"/><orgName ref="stadtasg-actors-68" role="issuer">Burgermaister und rate
+<lb n="13"/>zuo Überlingen</orgName>.
+<pb facs="StadtASG_Missive_324_654.JPG" n="2"/>
+<lb n="14"/>Den ersamen wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rate
+<lb n="15"/>zuo sant Gallen</orgName> unsern insondern lieben und
+<lb n="16"/>guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

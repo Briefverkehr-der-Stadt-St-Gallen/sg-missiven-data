@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 55</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_55_109/110</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Konrad Storchenegger schreibt Bürgermeister und Rat zu St. Gallen, ihm sei
+                    zugetragen worden, dass er im St. Galler Hoheitsgebiet seines Lebens nicht mehr
+                    sicher sei, und bittet, ihm eine schriftliche Antwort mit dem gleichen Boten
+                    zukommen zu lassen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-95">Warnung</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-323">Junker</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-34">Konrad Storchenegger</persName>
+                    
+                    <date>1432-06-16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_55_109.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min willig undertenig dienst sind üwern gnaden von mir all zitt mit <lb
+                    n="2"/>willen berait gnedigen und lieben herren. Mich ist fürkomen von etlichen
+                minen <lb n="3"/>guoten fründen in getrüwer warnung, wie ich mich vor üch bedurff
+                ze besorgen. <lb n="4"/>Wer dem also, des ich üch doch nit getrüw, so kan ich nit
+                wissen noch ver <lb break="no" n="5"/>stan, das ich soelichs umb üwer statt umb
+                üch noch dehain den üwern <lb n="6"/>nie verschuldt hab, denn ich zuo aller zitt
+                willig und berait waer ze <lb n="7"/>tuon, was ich wisti, das üch lieb und dienst
+                waer. Herumb so bitt ich üwer <lb n="8"/>gnad als demüttenclich, flissenclich und
+                ernstlich, als ich yemer kan und <lb n="9"/>vermag, das ir mich by disem botten, der
+                üch disen brieff antwurt, ver <lb break="no" n="10"/>schriben wissen laussen
+                wellen, wes ich mich zuo üch versehen und ob <lb n="11"/>ich mich vor üch besorgen
+                süll oder nit. Geben versigelt von miner <lb n="12"/>bett wegen mit des fromen und
+                vesten iunckher <persName ref="stadtasg-actors-177">Hanns Ulrichs von Tett <lb break="no"
+                        n="13"/>tingen</persName> insigel, doch im an schaden, uff dem <origDate
+                    when="1432-06-16">nechsten mentag vor unsers <lb n="14"/>herren fronlichnams tag
+                    anno etc. XXXo secundo</origDate> etc. <lb n="15"/><persName ref="stadtasg-actors-34"
+                    role="issuer">Cuonratt <lb n="16"/>Storchegger</persName>. <pb
+                    facs="StadtASG_Missive_55_110.JPG" n="2"/>
+                <lb n="17"/>Den fürsichtigen und wisen dem <orgName ref="stadtasg-actors-148"
+                    role="recipient">burgermaister <lb n="18"/>und rat ze sant Gallen</orgName>
+                minen gnedigen herren. </p>
+        </body>
+    </text>
+</TEI>

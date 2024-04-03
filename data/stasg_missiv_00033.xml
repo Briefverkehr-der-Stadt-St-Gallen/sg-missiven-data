@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 33</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_33_65/66</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hans Schad, genannt Güggel, bittet Bürgermeister und Rat zu St. Gallen, Sigmund,
+                    genannt Münzer, von dem er einen Rock im Wert von 1 Gulden ausgeliehen und dem
+                    er selbst einen solchen im Wert von 12 Gulden ausgeliehen habe, dazu anzuhalten,
+                    dass Sigmund ihm seinen Rock zurückgebe oder den Mehrwert entschädige.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-67">Bekleidung</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-68">Entschädigung</term>
+                    <term ref="stadtasg-keywords-69">Leihe</term>
+                    <term ref="stadtasg-keywords-127">Geld</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-25">Hans Schad</persName>
+                    
+                    <date>1427-04-24</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_33_65.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Minen willigen undertaenigen dienst sig üwern gnaden allzit bereit vor
+                gnaedigen lieben herren. Es hat <lb n="2"/>sich gefuegt, wie dz ich einen rak
+                erlehnet hab von <persName ref="stadtasg-actors-152">Sigmund</persName> dem münsser, der ist
+                wol eins guldin werd <lb n="3"/>gesin, und hab aber ich dem vorgenanten <persName
+                    ref="stadtasg-actors-152">Sigmund</persName> ainen andern rak gelihen, der ist wol XII
+                guldin werd <lb n="4"/>gesin. Gnaedigen lieben herren da hab ich <persName
+                    ref="stadtasg-actors-152">Sigmunden</persName> vil und dik enbotten, mir minen rak zuo
+                schikend <lb n="5"/>und den sinen och ze nemend, oder aber hett er min rak gern
+                gehebt, dz er denn so wol taet und mir har <lb n="6"/>us gaeb, des min rak besser
+                sig denn der sin, und was in selber dunkti, dz er mir har us gen soelt, dz er dz <lb
+                    n="7"/>taet saemlichs mir von dem vorgenanten <persName ref="stadtasg-actors-152"
+                    >Sigmund</persName> inne gelangen kond, bitten ich üwer gnad, den obgenanten <lb
+                    n="8"/><persName ref="stadtasg-actors-152">Sigmund</persName> dar zuo ze wisend, dz er mir
+                minen rak schiken well oder aber so vil geltz, als denn min rak <lb n="9"/>besser
+                ist gesin denn der sin. Kan ich dz umb üwer gnad verdienan in saemlichen und in
+                meren sachen, <lb n="10"/>des wil ich gar willig sin, gnaedigen lieben herren,
+                wellend har zuo tuon, als ich üwern gnaden wol <lb n="11"/>getruw. Geben am
+                    <origDate when="1427-04-24">naehsten dunstag nach sant Goerigen tag anno domini
+                    Mo CCCCo XXVII iar</origDate>. <lb n="12"/><persName ref="stadtasg-actors-25"
+                    role="issuer">Hans Schad <lb n="13"/>genant Goegel</persName>. <pb
+                    facs="StadtASG_Missive_33_66.JPG" n="2"/>
+                <lb n="14"/>Den fürsihtigen und wisen dem <lb n="15"/><orgName ref="stadtasg-actors-148"
+                    role="recipient">burgermaister und dem rate zuo <lb n="16"/>sant
+                    Gallen</orgName> minen gnaedigen lieben <lb n="17"/>herren etc. </p>
+        </body>
+    </text>
+</TEI>

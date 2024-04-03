@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 91</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note><p>Zur Sache siehe auch die Missive Nr. 101.</p></note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_91_181/182</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Statthalter und Rat zu Appenzell bitten Bürgermeister und Rat zu St. Gallen, ihnen
+                    bei der Aufklärung des Totschlags an ihrem Ammann Häch zu helfen. St. Gallen soll
+                    seinen Läufer Konrad Utz, Zeuge des Verbrechens, befragen, wer Helfer der
+                    Totschlägers namens Himmeli gewesen sei.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-49">Totschlag</term>
+                    <term ref="stadtasg-keywords-21">Rechtshilfe</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-141">Befragung</term>
+                    <term ref="stadtasg-keywords-336">Zeuge</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-399">Läufer</term>
+                    <term ref="stadtasg-keywords-401">Statthalter</term>
+                    <term ref="stadtasg-keywords-27">Eid</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-513">Statthalter und Rat zu Appenzell</orgName>
+                    
+                    <date>1437-04-16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-04-16</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_91_181.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser willig früntlich dienst vor fromen wisen lieben guoten fründ. <lb
+                    n="2"/>Wir laussin üwer guoten früntschafft wissen, dz wir ettlichen unsren
+                    <lb n="3"/>nachpuren und guoten fründen von unsers kumbers und schmache <lb
+                    n="4"/>wegen, so uns laider ietz begegnot ist an unserm amman <persName
+                    ref="stadtasg-actors-220">Haechen</persName>
+                <lb n="5"/>saeligen, geschriben habent, uns die selben, so also die tatt und
+                totschlag <lb n="6"/>an dem egenanten unserm amman saeligen hand begangen, uff recht
+                ze halten, <lb n="7"/>und wir den nit mit namen genemen kunnent, so <persName
+                    ref="stadtasg-actors-221">Himilis</persName> helffer gewesen <lb n="8"/>ist, dz uns nu
+                groß irrung bringt. Und won nu <persName ref="stadtasg-actors-19" role="testis">Cuonrat Uotz</persName>,
+                üwer <lb n="9"/>loeffer, die tatt gesehen hat, so bittin wir üch so früntlichost
+                und <lb n="10"/>wir vermugent iemer durch unser williger dienste willen und den
+                selben <lb n="11"/>üwern loeffer by sim aid erforschint, wer der tatt <persName
+                    ref="stadtasg-actors-221">Himelis</persName> helffer gewesen <lb n="12"/>sye und uns dz
+                wissen laussint by disem botten. Dz begeren wir in <lb n="13"/>allen sachen mit
+                willen umb üch ze verdienen. Geben am <origDate when="1437-04-16">zinstag naechst
+                        <lb n="14"/>noch mittem abrellen anno domini Mo CCCCo XXXVIIo</origDate>.
+                Verschriben antwurt <lb n="15"/>versigalt mit <persName ref="stadtasg-actors-222">Hansen Kloks</persName>
+                insigel gebrestenhalb unsers landes insigel. <lb n="16"/><orgName ref="stadtasg-actors-513"
+                    role="issuer">Statthalter und raute <lb n="17"/>zuo Appenzelle</orgName>. <pb
+                    facs="StadtASG_Missive_91_182.JPG" n="2"/>
+                <lb n="18"/>Den fromen fürsichtigen wisen dem <orgName ref="stadtasg-actors-148"
+                    role="recipient">burgermaister und raut der <lb n="19"/>statt ze sant
+                    Gallen</orgName> unsern sundern lieben guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

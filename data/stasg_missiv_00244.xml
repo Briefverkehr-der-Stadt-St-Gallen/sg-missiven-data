@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 244</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_244_489/490</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Wil informieren Bürgermeister und Rat zu St. Gallen
+                    darüber, dass Konrad Bauer, Leutpriester von Niederbüren und Geschworener zu
+                    Wil, als er im Auftrag des Hofammanns etwas verkündet habe, von Jäckli Ambühl
+                    und St. Galler Bürgern bedroht worden sei. Sie bitten die St. Galler, für die
+                    Sicherheit Bauers zu sorgen, der bereit sei, sich gegenüber Vorwürfen zu
+                    verantworten. Sie bitten zudem um eine schriftliche Antwort mit dem Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-289">Leutpriester</term>
+                    <term ref="stadtasg-keywords-290">Verkündigung</term>
+                    <term ref="stadtasg-keywords-58">Drohung</term>
+                    <term ref="stadtasg-keywords-102">Sicherheit</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-368">Schultheiss</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-517">Schultheiss und Rat zu Wil</orgName>
+                    <date>1451-09-17</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS und SO</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-12-12</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_244_489.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Fürsichtigen wysen guoten fründ unser willig dienst syen üch zuovor. <lb
+                    n="2"/>Uns haut fürbrach her <persName ref="stadtasg-actors-400">Cuonrait Pur</persName>,
+                lütpriester zuo <placeName ref="stadtasg-places-166">Nider Büren</placeName>, der <lb n="3"
+                />unser statt kind ist und unsers gnaedigen herren geschworner, wie er ettwas <lb
+                    n="4"/>verkünt hab von empfelhens weagen deß hoffaman. Da syen inen komen
+                <persName ref="stadtasg-actors-401"><lb n="5"/>Jäckli aym Buel</persName>, üwer knecht, mit sampt
+                ettlichen üwer burger, haben in <lb n="6"/>über loffen in sim huß, mit im gerett,
+                das er in sorgen sye und unsicher, <lb n="7"/>das uns ettwas unbillich nimpt, und
+                bitten üch, ir wellen in usß den <lb n="8"/>sorgen tuon und sycheren, haben ir dann
+                üt zuo im zesprechen, wil er <lb n="9"/>üch gern ayns rechten sin, wa das glich und
+                billich ist. Üwer verschriben <lb n="10"/>anttwurt bi dißem botten begeren wir.
+                Gaeben in <origDate when="1451-09-17">die Lamperchti anno <lb n="11"
+                    />Lprimo</origDate>. <lb n="12"/><orgName ref="stadtasg-actors-517" role="issuer"
+                    >Schulthaiß und raut ze <lb n="13"/>Wyl</orgName> im <placeName ref="stadtasg-places-103">Turgow</placeName>. <pb
+                    facs="StadtASG_Missive_244_490.JPG" n="2"/>
+                <lb n="14"/>Den fürsichtigen wysen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und rat <lb n="15"/>zuo sant Gallen</orgName> unsern lieben und
+                guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

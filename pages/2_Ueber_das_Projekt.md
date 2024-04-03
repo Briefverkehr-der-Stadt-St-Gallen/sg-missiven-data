@@ -1,0 +1,15 @@
+# Über das Projekt
+
+## Hintergrund
+
+Dem Austausch von schriftlicher Information dienten in früheren Jahrhunderten meist Briefe, die Boten überbrachten. Die handschriftlichen Briefe werden in der Fachsprache *Missiven* genannt; das Wort leitet sich vom Lateinischen *mittere* im Sinne von «zustellen, senden» ab. Missiven sind adressierte und mit einem Siegel verschlossene Briefe, die von herrschaftlichen, städtischen oder privaten Nachrichtendiensten zugestellt wurden. Versandt und empfangen wurden die Missiven von amtlichen Stellen oder Privatpersonen. Diese Art der schriftlichen Kommunikation setzte im Spätmittelalter ein und nahm im Laufe der Frühen Neuzeit exponentiell zu. Die Besonderheit von Briefen im Vergleich zu anderen Schriftstücken besteht darin, dass sie einen hohen Aktualitätsbezug aufweisen und dass zu einem Brief oft auch Antwortschreiben erhalten sind. Missiven verdichten und erweitern dadurch das historische Informationsangebot enorm; dies macht sie für die Geschichtsforschung ganz besonders interessant.
+
+## Textkorpus
+
+Missiven stellen in vielen Archiven einen grossen Bestand dar, der weitestgehend noch unerschlossen ist. Im Stadtarchiv und in der Vadianischen Sammlung der Ortsbürgergemeinde St. Gallen sind für die Zeit von 1400 bis 1800 rund 30’000 solcher Briefe – teilweise mit Beilagen – erhalten. Empfänger war in der Regel der städtische Rat von St. Gallen. Die Themenvielfalt ist gross; es geht beispielsweise um den Güteraustausch zwischen den Ländern und Städten des Reichs und der Eidgenossenschaft, um Preisabsprachen, um Rechtshilfegesuche bei Strafverfolgungen, aber oft auch um private Angelegenheiten, für die sich der Stadtrat einzusetzen hatte.
+
+Damit diese wichtigen Dokumente des Alltags in die Geschichtsforschung einfliessen können, werden Missiven und Missivenentwürfe, welche zwischen 1400 und 1650 datiert sind und sich im Missivenbestand des Stadtarchivs und der Vadianischen Sammlung der Ortsbürgergemeinde St. Gallen befinden, veröffentlicht. Die Missiven werden transkribiert, ausgezeichnet und gemeinsam mit den Digitalfaksimile der Vorlagen barrierefrei als Digitale Edition publiziert. Die Beilagen der Missiven werden vorderhand nur als Regesten erfasst. Die Veröffentlichung erfolgt in Etappen.
+
+## Technisches
+
+Die Vorarbeiten (Metadaten, Transkription) erfolgen in einfachen Textdateien (Metadaten in YAML; zeilengenaue Transkriptionen mit Angabe der Bilddateien) aus denen per Skript [TEI](https://tei-c.org/)-Dateien erstellt werden. Anschliessend werden die Missiven mit dem Annotations-Tool des [TEI Publishers](https://teipublisher.com) ausgezeichnet. Als Registerdatenbank (Namen, Orte, Schlagworte) wird [Anton](https://www.anton.ch) verwendet. Für die Publikation werden die Registerdaten aus Anton als TEI exportiert, so dass sämtliche Quelldaten als XML vorliegen. Die XML-Dateien werden mit [Git](https://git-scm.com/) verwaltet. Für die Präsentation der Edition wird der TEI Publisher verwendet.

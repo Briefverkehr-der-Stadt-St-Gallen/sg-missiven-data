@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 197</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_197_395/396</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Herzog Albrecht von Österreich bittet Bürgermeister und Rat zu St. Gallen um die
+                    Namen der vier St. Galler Bürger, für die er auf Wunsch der St. Galler einen
+                    Begleitbrief ausstellen soll.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-153">Korrespondenz</term>
+                    <term ref="stadtasg-keywords-159">Stadtschreiber</term>
+                    <term ref="stadtasg-keywords-211">Kosten</term>
+                    <term ref="stadtasg-keywords-474">Hauptmann</term>
+                    <term ref="stadtasg-keywords-277">Herzog</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-64">Herzog Albrecht von Österreich</persName>
+                    <placeName ref="stadtasg-places-22">Villingen</placeName>
+                    <date>1446-03-05</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-09</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_197_395.JPG" n="1"/>
+            <p>
+                <lb n="1"/><persName ref="stadtasg-actors-64" role="issuer">Albrecht von gots gnaden <lb n="2"/>hertzog ze
+                    Osterrich</persName> etc. <lb n="3"/>Ersamen weisen. Als ir uns durch ewern
+                statschriber habt anbringen und bitten <lb n="4"/>lassen, ew unser offen brif auf
+                das schreiben, so wir unsern haubtlewten vormaln <lb n="5"/>getan haben von der
+                costen und andrer notdurft wegen, ew zutzefüren auf vier ewer <lb n="6"/>mitburger
+                ew gesworen, die ir darzw ordnen woltet, schaffen zuvertigen und <lb n="7"/>zegeben,
+                also haben wir uns des auf soelich ewr bete verwilliget. Aber uns be <lb break="no"
+                    n="8"/>dunket notdurftig ze sein, daz dieselben vier in den briefen benennet und
+                geschriben <lb n="9"/>werden. Die müget ir uns also in geschrift zusennden, so
+                wellen wir ew solich <lb n="10"/>brif darauf vertigen lassen und schaffen ze geben.
+                Geben zw <origPlace ref="stadtasg-places-22">Vilingen</origPlace> an <lb n="11"/><origDate when="1446-03-05"
+                    >sambstag vor dem suntag invocavit in der vasten anno etc. XLVIo</origDate>. <lb
+                        n="12"/>Dominus dux per <persName ref="stadtasg-actors-329">Andr<ex cert="medium">eam</ex> de <lb n="13"
+                    />Holn<ex cert="medium">ecker</ex></persName>, magistrum camere. <pb
+                    facs="StadtASG_Missive_197_396.JPG" n="2"/>
+                <lb n="14"/>Den ersamen weisen unsern besunder <lb n="15"/>lieben dem
+                <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rate zu <lb n="16"/>sand Gallen</orgName>. </p>
+        </body>
+    </text>
+</TEI>

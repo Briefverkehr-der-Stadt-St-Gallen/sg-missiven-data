@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 92</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_92_183/184</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Albrecht Tumb von Neuburg bittet Bürgermeister und Rat zu St. Gallen, ihn an einer
+                    Gerichtsverhandlung in Appenzell mit einer St. Galler Delegation zu
+                    unterstützen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-130">Ratsdelegation</term>
+                    <term ref="stadtasg-keywords-175">Sohn</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-45">Albrecht Tumb</persName>
+                    
+                    <date>1437-04-22</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-04-16</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_92_183.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min früntlich willig dienst zuo allen ziten lieben fründ. Ich laß üch
+                wissen, <lb n="2"/>das ich verdagt bin gegen <placeName ref="stadtasg-places-8"
+                    >Appenzell</placeName> von mines suns wegen <date when="1437-04-28">ietz uf <lb
+                        n="3"/>an sunnentag</date>. Also bitt ich üch und min sun, dz ir mir üwer
+                bottschaft <lb n="4"/>da hin lihen wellen, dz die by mir syg uf den tag. Dz wil ich
+                mit <lb n="5"/>gantzem willen umb verdienen umb üch und umb die üwern. Datum <lb
+                    n="6"/><origDate when="1437-04-22">am mentag vor Georii anno etc.
+                    XXXVII</origDate>. <lb n="7"/><persName ref="stadtasg-actors-45" role="issuer">Albreht
+                        Tumm von <lb n="8"/>Nünburg</persName>. <pb
+                    facs="StadtASG_Missive_92_184.JPG" n="2"/>
+                <lb n="9"/>Den ersamen und wisen dem <lb n="10"/><orgName ref="stadtasg-actors-148"
+                    role="recipient">burgermaister und rate zuo <lb n="11"/>sant Gallen</orgName>
+                minen besunder guoten <lb n="12"/>fründen. </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 53</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_53_105/106</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Überlingen beschweren sich bei Bürgermeister und Rat zu
+                    St. Gallen, dass deren Bürger Rudolf Gelter und Särri ihre Schulden trotz
+                    bereits erfolgtem Ersuchen noch nicht beglichen hätten. Sie bitten, ihrem Boten
+                    und Überbringer des Briefs bei der Schuldeintreibung behilflich zu sein.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-13">Schulden</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-30">Zahlung</term>
+                    <term ref="stadtasg-keywords-148">Schuldforderung</term>
+                    <term ref="stadtasg-keywords-345">Zeiger</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-68">Bürgermeister und Rat zu Überlingen</orgName>
+                    
+                    <date>1432-01-13</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_53_105.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser willig früntlich dienst voran fürsichtigen wysen besundern guoten
+                fründ. <lb n="2"/>Von semlicher geldschuld wegen, so uns <persName ref="stadtasg-actors-146"
+                    >Rudy Gelter</persName> und der <orgName ref="stadtasg-actors-544"
+                    >Saery</orgName><note>Es ist unklar, welches Mitglied dieser Familie gemeint ist.</note> schuldig sind, <lb n="3"/>und darumbe wir sy ettwedik durch
+                unser bottschafft ersuocht und by uch furgenomen <lb n="4"/>haben und doch noch nie
+                gelangen möht, dz darzu wir denn reht haben nach üwer <lb n="5"/>statt gewonhait
+                und herkomen, dz uns doch ettwas froemd und unbillich mutet. <lb n="6"/>Bitten wir
+                uch mit besunderm ernst, disen botten zoger diß briefes von unsern wegen <lb n="7"
+                />guetlich zu fürdern und beholffen ze sinde, das uns unser schuld füro nit
+                verzogen <lb n="8"/>werd. Das wellen wir in meren und der glich sachen mit willen
+                umb üch <lb n="9"/>gedienen. Geben an <origDate when="1432-01-13">sant Hylaryen tag
+                    anno etc. XXXIImo</origDate>. <lb n="10"/><orgName ref="stadtasg-actors-68" role="issuer"
+                    >Burgermaister und rat <lb n="11"/>zu Überlingen</orgName>. <pb
+                    facs="StadtASG_Missive_53_106.JPG" n="2"/>
+                <lb n="12"/>Den fursichtigen wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und <lb n="13"/>rate der statt zu sant Gallen</orgName> unsern
+                besundern <lb n="14"/>guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

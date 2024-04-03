@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 186</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note><p>Rechts unten Loch, dadurch Textverlust.</p></note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_186_373/374</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Überlingen teilen Bürgermeister und Rat zu St. Gallen
+                    mit, dass sie keine Güter der St. Galler Bürgerin Anna Gerster eingezogen haben.
+                    Das umstrittene Gut fiel gemäss Stadtrecht an die Stadt, nachdem die Mutter von
+                    Annas Stiefsohn, welcher Bürger von Überlingen ist und hier bevormundet ist,
+                    verstorben war. Hans Gerster, der Vater des Kindes und Anna Gersters Ehemann, war
+                    nie im Besitz dieses Gutes, und auch Anna habe keinen Anspruch. Bürgermeister
+                    und Rat zu Überlingen laden aber Anna Gerster auf einen Rechtstag am 27. Januar
+                    ein, um die Sache zu klären. Die Überlinger bitten um eine schriftliche Antwort
+                    mit dem Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-66">Beschlagnahmung</term>
+                    <term ref="stadtasg-keywords-5">Erbe</term>
+                    <term ref="stadtasg-keywords-237">Rechtsanspruch</term>
+                    <term ref="stadtasg-keywords-149">Rechtstag</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-551">Gut</term>
+                    <term ref="stadtasg-keywords-269">Kind</term>
+                    <term ref="stadtasg-keywords-208">Familie</term>
+                    <term ref="stadtasg-keywords-270">Vormundschaft</term>
+                    <term ref="stadtasg-keywords-251">Stadtrecht</term>
+                    <term ref="stadtasg-keywords-112">Bürgerrecht</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-68">Bürgermeister und Rat zu Überlingen</orgName>
+                    
+                    <date>1445-01-20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-07-08</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_186_373.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienste zuovor sonder lieben und guoten fründe.
+                Als ir uns naechst von anbringens <lb n="2"/>wegen üwer miburgerin <persName
+                    ref="stadtasg-actors-324">Annen Gersterin</persName> geschriben und under annderm begertt
+                und gebetten hand, <lb n="3"/>sy unbekümbertt und inen daz ir volgen zuo lausen,
+                innhalt üwers briefs mit mer wortten begriffen, haben wir <lb n="4"/>guoter maß
+                vernomen, und fuegen üwer wyßhait zuo wissen, das wir uns dez iren, alz sy üch daz
+                fürgeben hat, <lb n="5"/>gar nichzitt annemend noch understanden, dann sovil
+                <persName ref="stadtasg-actors-325">Hannsen Gersters</persName> sune, irem stieffkind, ist vor <lb n="6"
+                />ettwie vil iaren ain namlich guet mit abgon und sterben siner muoter saeligen nach
+                unser stattrecht verfallen, <lb n="7"/>desselben guots och der egenant
+                <persName ref="stadtasg-actors-325">Hanns Gerster</persName> syderher nicht maechtig und sin kind damit
+                durch sine naechste <lb n="8"/>fründ von muotermaege bevogtet gewesen und noch ist.
+                Wir ouch dasselb kind nach unser stattrecht mit <lb n="9"/>soellichem vervallem guot
+                by sinem burgrecht zuo haben schuldig syen und zuo tuon vermaynen. Dann von ir <lb
+                    n="10"/>und irs kinds guote wegen, das ist von unsern mitburgern und anndern
+                nach unser stattrecht gehefftet <lb n="11"/>worden, den <persName ref="stadtasg-actors-325">Hanns
+                    Gerster</persName> und ouch sy schuldig und durch sy versert sind. Da mügen wir
+                nit über sin, <lb n="12"/>wir mueßen in ir recht dartzuo gon und widerfaren lausen.
+                Deßgelichen wir der üwer vorgenant och <lb n="13"/>gon und irs rechten goennen
+                woellen, alz billichen ist, setzind ir ouch darumb ainen rechttage für uns <lb
+                    n="14"/>uff <date when="1445-01-27">mitwuochen naechstkünftig</date> zuo frueer
+                rauteszitt vor uns zuo sind mit disem botten und brieff und <lb n="15"/>bytten üwer
+                ersamkait mit ernst, ir den zuo wissen ze tuon, ob sy ald ieman von iren wegen
+                ichzitt <lb n="16"/>dawider reden woelle ald zuo sprechen vermayne, ouch sy von
+                unsers verdienens willen ze underwysen <lb n="17"/>und guetlichen zuo vermügen, uns
+                daz obgenant ir stieffkind, daz sy doch gantz nichzitt best <gap /> <lb n="18"/>sinen
+                fründen, von den es noch merckliches guotez warttende ist, ain intraeg volgen zuo
+                lausen, so <gap /> <lb n="19"/>des und aller früntschaft sonder nach herlangen der
+                sach selbs bekennen billich sin wol getruewen. <lb n="20"/>Daz woellen wir mit
+                willen umb üch zuo verdienen haben, wa sich daz gepürtt. Üwer verschriben <lb n="21"
+                />antwurtt by disem botten. Geben uff <origDate when="1445-01-20">sannt Sebastianns
+                    tag anno domini etc. XLquinto</origDate>. <lb n="22"/><orgName ref="stadtasg-actors-68"
+                    role="issuer">Burgermaister und <lb n="23"/>raute zuo Überlingen</orgName>. <pb
+                    facs="StadtASG_Missive_186_374.JPG" n="2"/>
+                <lb n="24"/>Den ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raute <lb n="25"/>zuo Sanntgallen</orgName> unsern lieben
+                guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

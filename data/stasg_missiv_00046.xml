@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 46</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_46_91/92</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Appenzell bitten Bürgermeister und Rat zu St. Gallen, für die
+                    Sicherheit und den Schutz ihres Landmannes Heinrich im Rain zu sorgen. Sie bitten um eine
+                    schriftliche Antwort mit dem gleichen Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-86">Schutz</term>
+                    <term ref="stadtasg-keywords-102">Sicherheit</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-104">Landmann</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-506">Ammann und Rat zu Appenzell</orgName>
+                    
+                    <date>1431-03-18</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_46_91.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienste voran lieben und gueten fründ. Uns hat
+                fürbracht <lb n="2"/><persName ref="stadtasg-actors-171">Haini im Rain</persName>, unser
+                lantman, wie das in fürkomen sig ettwa dik, wie das ir in <lb n="3"/>in vorchten
+                habint und in dar us nit lassen wellint, das uns gar unbillich be <lb break="no"
+                    n="4"/>dunkt sin. Lieben und gueten fründ da wellent wir üch bitten mit gantzem
+                ernst <lb n="5"/>flissig, das ir den ietzgenampten <persName ref="stadtasg-actors-171">Hainin
+                    im Rain</persName> usser vorchten lassint und in sicher <lb n="6"/>saigint für
+                üch und die üwern untz an unser recht. Kunnent wir das in soelichen <lb n="7"
+                />mindren und mereren sachen umb üch beschulden und gedienen, sond ir uns willig <lb
+                    n="8"/>vinden. Üwer verschriben antwurt land uns wissen by disem botten. Geben
+                am <origDate when="1431-03-18">sunnen <lb n="9"/>tag nach mittervasten anno domini
+                    Mo CCCCo tricesimo primo</origDate>. <lb n="10"/><orgName ref="stadtasg-actors-506"
+                    role="issuer">Amman und rat <lb n="11"/>zue Appenzelle</orgName>. <pb
+                    facs="StadtASG_Missive_46_92.JPG" n="2"/>
+                <lb n="12"/>Den fürsichtigen und wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister <lb n="13"/>und rat ze sant Gallen</orgName> unsren lieben und
+                    <lb n="14"/>gueten fründen. </p>
+        </body>
+    </text>
+</TEI>

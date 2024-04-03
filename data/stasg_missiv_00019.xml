@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 19</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_19_37/38</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Polikarpus, Leutpriester zu Marbach, wehrt sich gegen die an Bürgermeister und
+                    Rat zu St. Gallen von Anna Steingachter vorgebrachte Klage, sie sei von ihm
+                    schwanger. Er werde sich auch nicht vor Gericht verantworten, da sich schon
+                    früher von dieser Frau gegen ihn erhobene Anschuldigungen als Verleumdungen
+                    herausstellten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-24">Klage</term>
+                    <term ref="stadtasg-keywords-42">Schwangerschaft</term>
+                    <term ref="stadtasg-keywords-43">Reise</term>
+                    <term ref="stadtasg-keywords-44">Verleumdung</term>
+                    <term ref="stadtasg-keywords-25">Gericht</term>
+                    <term ref="stadtasg-keywords-289">Leutpriester</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-18">Polikarpus</persName>
+                    <placeName ref="stadtasg-places-3">Marbach</placeName>
+                    <date>1423-02-06</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <p/>
+                <persName>SO</persName>
+                <date>2018-06-29</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_19_37.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Minen undertaenigen willigen dienst lieber herr der <orgName
+                    ref="stadtasg-actors-148" role="recipient">burgermaister und gemainer <lb n="2"/>rat ze sant
+                    Gallen</orgName>. Ich tuon üch ze wissen, dz mich ettwas red für komen <lb n="3"
+                />ist von minen guoten fründen, wie das <persName ref="stadtasg-actors-137">Ann
+                    Stainingahterin</persName> üch klegt hab, <lb n="4"/>wie das sy bi mir ain kind
+                trag, da tuon ich üch ze wissen, das ich uf die trüw <lb n="5"/>gottes, die ich got
+                schuldig bin, und uf die vart, die ich faren sol und muos, <lb n="6"/>das ich desen
+                unschuldig bin und dar umb tuon wil, was ain bider man tuon <lb n="7"/>sol und mir
+                von goettlichem rehten ertailt wirt. Und wissend och, dz ich den <lb n="8"/>uf nit
+                komen wil, ob si dz reht dar umb tuon welti, dz das also syg, won <lb n="9"/>si mich
+                vor ziten och dar geben hatt, wie dz si ain kind bi mir tragen hab und <lb n="10"
+                />sich das erfand, dz das nit was, und ander sachen, die sich uf mich geredet <lb
+                    n="11"/>hatt, die sich erfunden hand, das die nit war warent und sich noch
+                ervinden <lb n="12"/>sond, das es nit war ist. Dar umb so bitt ich üwer gnad lieben
+                herren, dz <lb n="13"/>ir so wol tuon wellend durch gotz willen, won ich dirr sach
+                und des zigs <lb n="14"/>gantzlich unschuldig bin, und das sol sich erfinden, das ir
+                mich desen lümden <lb n="15"/>entredind. Geben ze <origPlace ref="stadtasg-places-3"
+                    >Marpach</origPlace> in <origDate when="1423-02-06">die Dorothee anno etc.
+                        XXIIIo</origDate>. <lb n="16"/><persName ref="stadtasg-actors-18" role="issuer">Pollicarppus</persName>
+                lüppriester <lb n="17"/>ze <placeName ref="stadtasg-places-3">Marpach</placeName>. <pb
+                    facs="StadtASG_Missive_19_38.JPG" n="2"/>
+                <lb n="18"/>Den ersamen wolbeschaidnen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister <lb
+                        n="19"/>und rat ze sant Gallen</orgName> minen sunder <lb n="20"/>guoten
+                fründen. </p>
+        </body>
+    </text>
+</TEI>

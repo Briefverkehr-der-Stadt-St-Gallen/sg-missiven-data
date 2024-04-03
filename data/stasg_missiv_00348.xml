@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 348</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_348_701/702</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Kaiser Friedrich III. weist Bürgermeister und Rat zu St. Gallen an, die Strafe gegen Ulrich Rietmüller aufzuheben.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-107">Strafe</term>
+<term ref="stadtasg-keywords-285">Begnadigung</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-277">Herzog</term>
+<term ref="stadtasg-keywords-405">Reich</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-49">Habsburg-Österreich, Friedrich III. von</persName>
+                    <persName ref="stadtasg-actors-634">Ulrich Waeltzli</persName> <placeName ref="stadtasg-places-15">Wien</placeName>                    <date>1460-04-03</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-02-05</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_348_701.JPG" n="1"/>
+<p>
+<lb n="1"/><persName ref="stadtasg-actors-49" role="issuer">Friderich</persName> von gottes gnaden romischer keyser zu allenn tzeitten merer des reichs, zue
+<lb n="2"/><placeName ref="stadtasg-places-41">Hungern</placeName>, <placeName ref="stadtasg-places-215">Dalmacien</placeName>, <placeName ref="stadtasg-places-216">Croacien</placeName> etc., kunig, hertzog zu <placeName ref="stadtasg-places-91">Osterreich</placeName> und zu <placeName ref="stadtasg-places-94">Steir</placeName> etc.
+<lb n="3"/>Lieben getrewen. Uns hat unser getrewer <persName ref="stadtasg-actors-633">Ulrich Riettmüller</persName> fürbracht, wie das ir in ettlichs frevels halb in ewer straff
+<lb n="4"/>genomen habt, deßhalb er sich yetz ausserhalb ewer statt enthallt. Bitten wir euch mit ernst fleissig begerende, das
+<lb n="5"/>ir dem benanten <persName ref="stadtasg-actors-633">Riettmüller</persName> solich ewer straff umb unsern willen gütlich nach lasset, und in der begeben daran
+<lb n="6"/>tuet ir uns guet gefallen und wollen das gegen euch gnediclich erkennen. Geben zu <origPlace ref="stadtasg-places-15">Wienn</origPlace> an <origDate when="1460-04-03">pfintztag vor
+<lb n="7"/>dem heiligen palm tag anno domini etc. sexagesimo</origDate>, unserer <orgName ref="stadtasg-actors-559">Reiche des Romischen</orgName> im zwaintzigisten,
+<lb n="8"/>des keyserthumbs im neunden und des hungerischen im andern iaren.
+<lb n="9"/>Ad mandatum domini imperatoris
+<lb n="10"/><persName ref="stadtasg-actors-634" role="issuer">Ulricus Wealtzli</persName>, cancellarius.
+<pb facs="StadtASG_Missive_348_702.JPG" n="2"/>
+<lb n="11"/>Unnsern und des reichs lieben getrewen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="12"/>maister und rate der statt zu sant Gallen</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

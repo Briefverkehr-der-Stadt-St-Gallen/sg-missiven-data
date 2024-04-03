@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 65</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_65_129/130</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Eglolf Blarer, Abt des Benediktinerklosters St. Gallen, beschwert sich bei
+                    Bürgermeister und Rat zu St. Gallen, dass etliche St. Galler Bürger nachts ins
+                    Kloster eingedrungen seien und seinen Weinkeller geplündert hätten. Er bittet um
+                    Aufklärung und Bestrafung der Betroffenen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-75">Angriff</term>
+                    <term ref="stadtasg-keywords-105">Wein</term>
+                    <term ref="stadtasg-keywords-106">Diebstahl</term>
+                    <term ref="stadtasg-keywords-107">Strafe</term>
+                    <term ref="stadtasg-keywords-201">Abt</term>
+                    <term ref="stadtasg-keywords-115">Kloster</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-23">Eglolf Blarer</persName>
+                    <placeName ref="stadtasg-places-7">Konstanz</placeName>
+                    <date>1433-12-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_65_129.JPG" n="1"/>
+            <p>
+                <lb n="1"/><persName ref="stadtasg-actors-23" role="issuer">Eglolff</persName> von gottes
+                gnaden abbt <lb n="2"/>des gotzhus zuo sant Gallen. <lb n="3"
+                />Unsern gruoz vor lieben getruwen. Uns ist fürkomen, wie ettliche uwir burgeren,
+                    <lb n="4"/>die üch unser hofamman wol nenmen kan und üch villicht selbs wol ze
+                wissen ist, <lb n="5"/>nachtz in unsern hof und hus geloffen sind, haben do unsern
+                keller und koch <lb n="6"/>übervallen, haben ouch uns unsern win unerloebt usser
+                unserm kehrn getragen, <lb n="7"/>das uns froemd und unbillich nymmt und uns vast
+                beswert und bekümbert <lb n="8"/>und gar unlidlich ist. Bitten wir üch mit sunderm
+                ernste, das ir darzuo tuon <lb n="9"/>wellent, das uns wandel darummb bescheh und
+                soelichs gestrafft werdi, das <lb n="10"/>wir hinfür ains soelichen überhebt
+                werdent, daran tuont ir uns besunder <lb n="11"/>truw und wolgevallen. Won beschech
+                das nit, so koendent wir nit gelassen, <lb n="12"/>wir muesstent rat haben, was
+                darzuo ze tuond wär, das wir soelichs fürwert <lb n="13"/>vertragen würden. Geben
+                ze <origPlace ref="stadtasg-places-7">Costentz</origPlace> am <origDate when="1433-12-01">zinstag nach sant
+                    Andres <lb n="14"/>tage anno etc. XXXIIIo</origDate>. <pb
+                    facs="StadtASG_Missive_65_130.JPG" n="2"/>
+                <lb n="15"/>Den ersamen wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rate <lb
+                        n="16"/>zuo sant Gallen</orgName> unsern und unsers gotzhus <lb n="17"
+                />lieben getruwen. </p>
+        </body>
+    </text>
+</TEI>

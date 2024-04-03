@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 94</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_94_187/188</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau informieren Bürgermeister und Rat zu St. Gallen
+                    darüber, dass der zuvor angesetzte Gerichtstermin in der Streitsache zwischen
+                    Eberhard von Ramschwag und Hans von Ems verschoben worden sei.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+                    <term ref="stadtasg-keywords-61">Terminverschiebung</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-70">Termin</term>
+                    <term ref="stadtasg-keywords-25">Gericht</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>
+                    
+                    <date>1437-06-18</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-04-16</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_94_187.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst zuovor ersamen und wysen sonder lieben <lb
+                    n="2"/>und guoten fründe. Alz wir üch nun nechst von der spenn wegen zwüschen
+                    <lb n="3"/>üwers burgers <persName ref="stadtasg-actors-223">Eberharten von
+                    Ramschwags</persName> und <persName ref="stadtasg-actors-224">Hannsen von Emptz</persName>
+                <lb n="4"/>ainen guetlichen unverbunden tag in unser statt verkünt und gesetzt
+                haben <lb n="5"/>uff den <date when="1437-07-08">nechsten mentag nach sant Uolrichs
+                    tag</date> etc., hat uns der <lb n="6"/>vorgenant <persName ref="stadtasg-actors-224"
+                    >Hanns von Emptz</persName> widerumb geschriben und gepetten, ainen <lb n="7"
+                />andern guetlichen tag in unser statt vor oder nach dem vorgenanten tag ze setzen,
+                    <lb n="8"/>denn er uff den selben tag von treffenlicher geschaefft unsers
+                gnedigen <lb n="9"/>herren von <placeName ref="stadtasg-places-91">Oesterrichs</placeName><note>Wohl <persName
+                        ref="stadtasg-actors-49" cert="medium">Herzog Friedrich V. von Habsburg-Österreich</persName>
+                    .</note> wegen darzuo nit komen konn noch müge. Also <lb n="10"/>setzen und
+                verkünden wir üch von des üwern wegen ainen andern guetlichen <lb n="11"
+                />unverbunden tag, uff <date when="1437-07-16">den nechsten zinßtag nach sant
+                    Margreten <lb n="12"/>der hailigen iunckfrowen tag</date> ze frueger tag zit in
+                unser statt ze <lb n="13"/>sind. Darnach mügen ir üch wissen ze richten und dz dem
+                üwern och <lb n="14"/>ze verkünden, denn wir den des glich dem andern tail ouch
+                also verkünt <lb n="15"/>haben. Wan in welhen sachen wir getuon künden, das üch
+                und den <lb n="16"/>uwern früntlich lieb und dienst were, darzuo woelten wir zemal
+                willig <lb n="17"/>berait und unbedrossen sin, alz wol billich ist. Datum <origDate
+                    when="1437-06-18">feria tercia post <lb n="18"/>Viti et Modesti anno domini etc.
+                    XXXVIIto</origDate>. <lb n="19"/><orgName ref="stadtasg-actors-511" role="issuer"
+                    >Burgermaister und <lb n="20"/>rate zuo Lindow</orgName>. <pb
+                    facs="StadtASG_Missive_94_188.JPG" n="2"/>
+                <lb n="21"/>Den ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raute <lb n="22"/>zuo sant Gallen</orgName> unsern lieben und
+                guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

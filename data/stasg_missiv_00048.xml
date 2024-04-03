@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 48</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_48_95/96</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Jakob Bart, Pfarrer und Chorherr im Chorherrenstift St. Stephan zu Konstanz,
+                    empfiehlt Bürgermeister und Rat zu St. Gallen einen neuen Schulmeister. Dieser
+                    könne sich im Moment noch nicht persönlich in St. Gallen vorstellen, da er noch
+                    in Schaffhausen beschäftigt sei. Er bittet um eine Antwort.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-6">Schule</term>
+                    <term ref="stadtasg-keywords-8">Schulmeister</term>
+                    <term ref="stadtasg-keywords-87">Empfehlung</term>
+                    <term ref="stadtasg-keywords-217">Antwort</term>
+                    <term ref="stadtasg-keywords-451">Pfarrer</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-31">Jakob Bart</persName>
+                    <placeName ref="stadtasg-places-7">Konstanz</placeName>
+                    <date>1431-05-18</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_48_95.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min willig dienst vor an lieben herren. Mich ist für komen, wie üwer
+                schuolmaister <lb n="2"/>von üch welle. Bitt ich üch ernstlich, daz ir disen erbern
+                man wellint enphahen <lb n="3"/>und nemen zu ainem schuolmaister, der och erber
+                gelert und empsig ist. Künd <lb n="4"/>ich daz umb üwer gnad verdienen, da woelt ich
+                willig, wan er min fründ <lb n="5"/>ist. Er wolt och mit sin selbs lib ietz zuo üch
+                sin komen, so muoß er diß <lb n="6"/>hochzit ze <placeName ref="stadtasg-places-185"
+                    >Schafhusen</placeName> und den chor usrichten. Datum <origPlace ref="stadtasg-places-7"
+                    >Constenz</origPlace> <origDate when="1431-05-18">anno domini Mo <lb n="7"/>CCCC
+                    XXXIo feria sexta ante festum pentecoste</origDate>, üwer antwurt land mich
+                wissen. <lb n="8"/>Pfaff <persName role="issuer" ref="stadtasg-actors-31">Jacob
+                    Bart</persName>, chorherr <lb n="9"/>zu <orgName ref="stadtasg-actors-593">sant Stephan
+                    ze Costenz</orgName>, <lb n="10"/>üwer williger diener. <pb
+                    facs="StadtASG_Missive_48_96.JPG" n="2"/>
+                <lb n="11"/>Den fromen fürsichtigen und <lb n="12"/>wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat <lb n="13"/>zu sant Gallen</orgName>. </p>
+        </body>
+    </text>
+</TEI>

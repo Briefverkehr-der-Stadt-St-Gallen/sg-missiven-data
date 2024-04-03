@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 106</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_106_211/212</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Marquart von Schellenberg bittet Bürgermeister und Rat zu St. Gallen, sich für
+                    ihn bei ihrem Bürger Eberhard von Ramschag einzusetzen, damit dieser ihm den
+                    versprochenen und durch Hug von Watt verbürgten Schuldbrief ausstellt. Er bittet
+                    um eine schriftliche Antwort mit dem Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-151">Schuldbrief</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-28">Bürge</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-103">Urteil</term>
+                    <term ref="stadtasg-keywords-159">Stadtschreiber</term>
+                    <term ref="stadtasg-keywords-240">Ritter</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-46">Marquart von Schellenberg</persName>
+                    
+                    <date>1438-06-10</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-05-20</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_106_211.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min früntlich willig dienst vor lieben die von <placeName ref="stadtasg-places-38">sant Gallen</placeName><note><orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>.</note>. Als ich nun nechst üwerm <lb n="2"/>mitburger <persName
+                    ref="stadtasg-actors-223">Eberharten von Ramschwag</persName> vor üwerm rat ettwas schuld
+                von mins brueders <lb n="3"/>und min wegen mit recht anbehept han nach ußwisung der
+                urtail, und nach <lb n="4"/>dem selben rechten ettwz taeding durch üch von des geltz
+                wegen mit mir getroffen <lb n="5"/>ward und mir der benempt <persName
+                    ref="stadtasg-actors-223">Eberhart von Ramschwag</persName>, üwer mitburger, <lb n="6"
+                />ainen schultbrief umm die schult verhieß zuo geben, und <persName ref="stadtasg-actors-218"
+                    >Hugen von Watt</persName>, üwerm <lb n="7"/>burger, zuo ainem gewern ze setzen,
+                uf das ich och üwerm stattschriber min brief <lb n="8"/>ubergegeben han, der mir och
+                verhaissen hat, mich mit dem brief ze versorgern, <lb n="9"/>und och min gelt umm
+                den brief genomen hat. Also bitt ich üch früntlich, ir <lb n="10"/>woellent mit dem
+                obgenanten üwerm burgern schaffen, das mir min schuldbrief <lb n="11"/>one verziehen
+                och nach notdurfft darinn versorget werde. Dz wil ich mit willen <lb n="12"/>umm üch
+                und die üwern verdienen, und tuend darinn, als ich üch des wol getrüw, wann <lb
+                    n="13"/>ich nit zwifels han, dz üch soelich verzüg wissent syen. Üwer
+                verschriben antwurt by dem <lb n="14"/>botten. Geben an <origDate when="1438-06-10"
+                    >zinstag vor Vite anno etc. XXXVIIIto</origDate>. <lb n="15"/><persName
+                    ref="stadtasg-actors-46" role="issuer">Marquart von <lb n="16"/>Schellenberg
+                    ritter</persName>. <pb facs="StadtASG_Missive_106_212.JPG" n="2"/>
+                <lb n="17"/>Den ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und <lb n="18"/>rate der statt Santgallen</orgName> minen gueten
+                fründen. </p>
+        </body>
+    </text>
+</TEI>

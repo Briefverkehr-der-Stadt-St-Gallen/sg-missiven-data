@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 34</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_34_67/68</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Otmar Ortwin und Hans Mayer entschuldigen sich bei Bürgermeister und Rat zu
+                    St. Gallen, dass sie einen Termin in St. Gallen nicht eingehalten hätten. Die
+                    Aufforderung dazu sei zu spät eingetroffen und sie hätten sich für einen Auftrag
+                    des Bischofs zu Basel verpflichtet. Sie bitten um
+                    eine Fristverlängerung, bis sie nach St. Gallen kommen könnten. Sie bitten um eine schriftliche Antwort.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-59">Frist</term>
+                    <term ref="stadtasg-keywords-70">Termin</term>
+                    <term ref="stadtasg-keywords-43">Reise</term>
+                    <term ref="stadtasg-keywords-188">Bischof</term>
+                    <term ref="stadtasg-keywords-27">Eid</term>
+                    <term ref="stadtasg-keywords-29">Mahnung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-24">Otmar Ortwin</persName>
+                    <persName ref="stadtasg-actors-26">Hans Mayer (I)</persName>
+                    
+                    <date>1427-04-27</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_34_67.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Fürsihtigen wisen und gnaedigen lieben herren unser williger dienst sig
+                üwern gnaden allzit <lb n="2"/>bereit. Als ir uns schribend und manend bi den aiden,
+                zuo üch ze komend, so wellend ir die sach <lb n="3"/>früntlich für hand neman, ob
+                die sach früntlich übertragen moeg werden, als üwer brief <lb n="4"/>dz inne halt
+                etc., da wissend gnaedigen lieben herren, dz uns der brief von üch gesant zuo spat
+                    <lb n="5"/>komen ist, denn wir hand uns versprochen ze dienen unsern gnaedigen
+                herran von <placeName ref="stadtasg-places-133">Basel</placeName><note><persName ref="stadtasg-actors-153">Johann von
+                        Fleckenstein</persName>.</note>, des <lb n="6"/>wir nu zuo mal nüt wendig
+                kunnend werden, und bittend üch, dz ir das nüt für übel von uns <lb n="7"/>habend,
+                denn als bald uns gott gehilft, dz wir wider har umb kumend, so wellend wir uns <lb
+                    n="8"/>früntlich zuo üch fuegen, den sachen nach ze gand, dz ir finden soellend,
+                dz wir kain unglichs dar <lb n="9"/>inne begerend nach suochen wellend, und bittend
+                och üch früntlich und ernschlich, dz ir die sach <lb n="10"/>allso wellend lassen an
+                ston ain kurtzi zit, bis dz wir uns zuo üch gefuegen koennend. Wo wir dz <lb n="11"
+                />umb üch verdienan koennend, des wellend wir willig sin etc., denn hettend wir uns
+                nüt als haeffklich <lb n="12"/>versprachen unsern gnaedigen <persName ref="stadtasg-actors-153">herran von
+                Basel</persName> ze dienan, wir waerend angesiht üwers brifes
+                    <lb n="13"/>zuo üch komen on zwifel, denn uns ist vast lieb, wie die sach
+                früntlich moeht über tragen werden. <lb n="14"/>Üwer früntlich verschriben antwurt
+                bi disem botten, besigelt mit des festen iunkherr <persName ref="stadtasg-actors-154">Aernnis
+                        <lb n="15"/>von Berenfels</persName> ingesigel von unser bet wegen. Geben
+                uff <origDate when="1427-04-27">sunnentag naehst nach sant Margs tag <lb n="16"
+                    />anno domini Mo CCCCo XXVII iar</origDate>. <lb n="17"/><persName ref="stadtasg-actors-24" role="issuer">Otmar Artwin</persName>, <lb n="18"/><persName ref="stadtasg-actors-26" role="issuer">Hans Mayger</persName>. <pb facs="StadtASG_Missive_34_68.JPG"
+                    n="2"/>
+                <lb n="19"/>Den fürsihtigen und wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und dem <lb n="20"/>rate zuo sant Gallen</orgName> unsern
+                gnaedigen lieban herran etc. </p>
+        </body>
+    </text>
+</TEI>

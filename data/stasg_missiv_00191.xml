@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 191</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_191_383/384</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Herzog Albrecht von Österreich hat auf den 11. April die Bischöfe von Augsburg
+                    und Konstanz, die Gesellschaft zum Georgenschild und andere Ritterschaften sowie
+                    etliche Reichsstädte eingeladen und bittet Bürgermeister und Rat zu St. Gallen
+                    darum, auf den 13. April eine Ratsdelegation zu ihm nach Mengen zu senden.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-130">Ratsdelegation</term>
+                    <term ref="stadtasg-keywords-188">Bischof</term>
+                    <term ref="stadtasg-keywords-239">Einladung</term>
+                    <term ref="stadtasg-keywords-126">Reichsstadt</term>
+                    <term ref="stadtasg-keywords-240">Ritter</term>
+                    <term ref="stadtasg-keywords-277">Herzog</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-64">Herzog Albrecht von Österreich</persName>
+                    <placeName ref="stadtasg-places-23">Diessenhofen</placeName>
+                    <date>1445-03-27</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-02</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_191_383.JPG" n="1"/>
+            <p>
+                <lb n="1"/><persName ref="stadtasg-actors-64" role="issuer">Albrecht</persName> von gotz
+                gnaden <lb n="2"/>hertzog ze <placeName ref="stadtasg-places-91">Oesterrich</placeName> etc. <lb n="3"
+                />Ersamen weisen besunder lieben. Wir haben unser fruende, die bischof zu <placeName ref="stadtasg-places-135"
+                    >Augspurg</placeName> und <lb n="4"/><placeName ref="stadtasg-places-7"
+                    >Costentz</placeName>, auch gantze <orgName ref="stadtasg-actors-564">gesellschafft der
+                    obern und nydern veraynigung sand Jorigen schilts</orgName>, dartzu <lb n="5"
+                />ander ritterschafft und ettlich der reichstete auf den <date when="1445-04-11"
+                    >suntag misericordia domini</date> schiristkunfftig zu uns <lb n="6"/>gen
+                    <placeName ref="stadtasg-places-136">Mengen</placeName> zu komen gebeten und verpott,
+                dahin wir uns auch in aygner person maynen zufuegen <lb n="7"/>von ettwas merklicher
+                sach wegen, die wir auch an ew zebringen haben. Davon pitten wir ew mit <lb n="8"
+                />ernstlichem fleiss, das ir ewer treflich macht poten auf den <date
+                    when="1445-04-13">dinstag nach dem vorgemelten suntag</date> dahin <lb n="9"
+                />gen <placeName ref="stadtasg-places-136">Mengen</placeName> zu uns darumb sendet und ew
+                darin nichtz irren lasset. Daran ertzaigt ir uns ain sunder <lb n="10"/>guet
+                gevallnuess. Geben zu <origPlace ref="stadtasg-places-23">Tiesshoven</origPlace> an dem
+                heiligen <origDate when="1445-03-27">osterabent anno etc. quadragesimo
+                    quinto</origDate>. <lb n="11"/>Dominus dux in consilio. <pb
+                    facs="StadtASG_Missive_191_384.JPG" n="2"/>
+                <lb n="12"/>Den ersamen weisen unsern besunder lieben <lb n="13"/>dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und ratte zu sand
+                    Gallen</orgName>. </p>
+        </body>
+    </text>
+</TEI>

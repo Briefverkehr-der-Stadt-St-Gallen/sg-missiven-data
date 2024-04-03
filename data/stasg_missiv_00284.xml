@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 284</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_284_573/574</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hans von Klingenberg, Ritter und Landvogt im Thurgau, informiert Bürgermeister und Rat zu St. Gallen darüber, dass er einen Streit geschlichtet habe zwischen Ritter Heinrich von Roggwil und Kaspar Sänger. Dieser Friede sei aber nur bis zum 24. August ausgehandelt worden. Er bittet die St. Galler, mit ihrem Bürger Oppertshofer zu sprechen und alles daran zu setzen, dass der Friede Bestand habe. Er bittet zudem um eine schriftliche Mitteilung ihrer Massnahmen mit dem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-240">Ritter</term>
+<term ref="stadtasg-keywords-319">Landvogt</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-120">Vermittlung</term>
+<term ref="stadtasg-keywords-83">Frieden</term>
+<term ref="stadtasg-keywords-85">Friedenssicherung</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-240">Ritter</term>
+<term ref="stadtasg-keywords-48">Feindschaft</term>
+<term ref="stadtasg-keywords-124">Knecht</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-97">Hans von Klingenberg, Ritter, Landvogt im Thurgau</persName>                    <date>1453-07-16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>SC</persName>
+                <date>2022-07-25</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_284_573.JPG" n="1" />
+<p>
+<lb n="1" />Min früntlich willig dienst vor lieben fründ. Sich haut ettwas
+<lb n="2" />vindschaft gemacht zwüschen den strengen und vesten her
+    <lb n="3" /><persName ref="stadtasg-actors-443">Hainrichen von Rogwilr</persName>, ritter, an ainem und <persName ref="stadtasg-actors-444">Casparn Sengern</persName>
+<lb n="4" />der ander syt. Nun hab ich so vil zuo den dingen geredt, das
+<lb n="5" />ain frid gemacht ist untz uff <date when="1453-08-24">nechstkomenden sant Bartholomeus
+    <lb n="6" />tag</date>, da zwuschen hafte ich, die sachen zuo richten. Nun mag
+<lb n="7" />aber soellicher frid nit gemacht werden, das er aingang gewünne,
+<lb n="8" />dann das üwer hilff auch da by erschiessen möge mit soellichem,
+    <lb n="9" />das ir mit dem <persName ref="stadtasg-actors-445">Oppertzhover</persName>, üwerm burger, guetlich reden und
+<lb n="10" />underwysen woelten, das er der laystung, so man in üwer statt tuot,
+<lb n="11" />im wol wissen, darumb sich dann diss vintschaft erhaben haut,
+    <lb n="12" />doch des <persName ref="stadtasg-actors-445">Oppertzhovers</persName> halb an schuld untz uff den genanten
+    <lb n="13" /><date when="1453-08-24">sant Bartholomeus tag</date> sinen rechten gantz ane vergriffen guetlich
+<lb n="14" />bestand und tag geben woelle und den knecht usser der laystung
+<lb n="15" />mit dem pferd die zyt also komen lausse, und das soellicher knecht
+<lb n="16" />lob und versprech, ob die sachen nit usgericht wurden, sich wider
+<lb n="17" />in der glich zuo stellen etc. Sidmal und ir danne in den und
+<lb n="18" />andern sachen liebhaber des frids syen, so bitt ich üch ernstlichest
+<lb n="19" />ich vermag, das ir umb mins verdienens willen in den dingen
+<lb n="20" />fürnaemen woellen, als ir gestalt der sach hier inne wol vernomen
+<lb n="21" />haben und hierinne tuon woellen, nach dem und ich üch mit
+<lb n="22" />sunder wol getruw und ane zwivel umb üch in der glich und
+<lb n="23" />noch meren sachen mit willen verdienen wil. Und was üch
+<lb n="24" />also hier inne vollange, laussen mich mit dissem botten verschriben
+    <lb n="25" />wissen. Geben uff <origDate when="1453-07-16">mentag nechst nach sant Margrethen tag
+    <lb n="26" />anno domini millesimo CCCCo L IIIcio</origDate>.
+    <lb n="27" /><persName ref="stadtasg-actors-97" role="issuer">Hanns von Clingenberg</persName>, ritter
+    <lb n="28" />und landtvogt in <placeName ref="stadtasg-places-103">Thurgoew</placeName>.
+<pb facs="StadtASG_Missive_284_574.JPG" n="2" />
+    <lb n="29" />Den fürsichtigen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und
+    <lb n="30" />raut zuo sant Gallen</orgName> minen sundern guoten
+<lb n="31" />fründen.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 285</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_285_575/576</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hans Brändli, Vogt zu Arbon, informiert Bürgermeister und Rat zu St. Gallen, dass Peter Wetzel aus Goldach und andere ihm mitgeteilt haben, dass sie im Lehenbesitz eines Zehntes des Stifts zu Konstanz seien, zu dessen Entrichtung etliche St. Galler Bürger verpflichtet seien. Brändli bittet namens der Zehntinhaber den Bürgermeister und Rat zu St. Gallen, die zehntpflichtigen St. Galler dazu anzuhalten, die Abgabe unverändert zu entrichten, bis eine rechtliche Klärung mit dem Stift Konstanz stattgefunden habe. Es siegelt Hans Wydehorn.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+<term ref="stadtasg-keywords-136">Lehen</term>
+<term ref="stadtasg-keywords-54">Zehnt</term>
+<term ref="stadtasg-keywords-320">Kirche</term>
+<term ref="stadtasg-keywords-156">Recht</term>
+<term ref="stadtasg-keywords-263">Vogt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-98">Hans Brändli, Vogt zu Arbon</persName>                    <date>1453-07-25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>SC</persName>
+                <date>2022-07-25</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_285_575.JPG" n="1" />
+<p>
+<lb n="1" />Min früntlich willig dienst bevor fürsichtigen wysen lieben herren und
+    <lb n="2" />sondren guoten fründe. Es ist an mich kommen <persName ref="stadtasg-actors-446">Peter Wetzel</persName> von <placeName ref="stadtasg-places-182">Goldach</placeName>
+<lb n="3" />und ander sin fründ und hand mir fürbracht, wie sy ainen zehenden
+<lb n="4" />haben, der recht lechen sy von mines herren gnauden und der
+    <lb n="5" />gstift zuo <placeName ref="stadtasg-places-7">Costentz</placeName>, daran in etlich üwer burger intrag tuegen,
+<lb n="6" />üwer wishait wol wissen ist. Und sid desmals zu und der zechend
+<lb n="7" />zuo lehen her ruerert von minem gnaedigen herren und der gstift zuo
+    <lb n="8" /><placeName ref="stadtasg-places-7">Costentz</placeName>, so hand sy mich gebetten, üwer wishait zuo schriben und
+<lb n="9" />zuo bitten, das ir so wol tuon und mit den üwren so vil schaffen und
+<lb n="10" />reden wellen, das sy den zechenden zuo gemainen handen unverendret
+<lb n="11" />legent bys zuo usstrag des rechten vor mins herren gnauden, und
+<lb n="12" />wem er an dem end zuo geben  mit recht erkent wirdett, das es
+<lb n="13" />daby beliben soell. Umb das so bitt ich üwer wishait flissig mit
+<lb n="14" />ernst, ir wellent hiemit daran sin, da mit die sachen mit
+<lb n="15" />recht zuo usstrag kommen. Das begern ich umb üwer wishait
+    <lb n="16" />zuo beschulden. Geben uff <origDate when="1453-07-25">Jacobi appostoli anno etc. L tertio</origDate>. Versigelt
+    <lb n="17" />mit des ersamen wysen <persName ref="stadtasg-actors-447">Hansen Wydehorns</persName> statt amans insigel von
+<lb n="18" />gebresten des minen.
+    <lb n="19" /><persName ref="stadtasg-actors-98" role="issuer">Hans Brendlin</persName>,
+    <lb n="20" />vogt zuo <placeName ref="stadtasg-places-5">Arbon</placeName>.
+<pb facs="StadtASG_Missive_285_576.JPG" n="2" />
+    <lb n="21" />Den fürsichtigen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raut zuo sant
+<lb n="22" />Gallen</orgName> minen lieben herren und sondren guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

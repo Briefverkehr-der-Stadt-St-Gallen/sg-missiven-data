@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 233</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_233_467/468</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Heinrich Schlosser aus Bern beschwert sich bei Bürgermeister und Rat zu St.
+                    Gallen, dass Ulrich Gelter, St. Galler Bürger, in Nürnberg die Lüge verbreitet
+                    habe, er (Gelter) hätte ihn (Schlosser) in Baden am Galgen hängen sehen.
+                    Schlosser bittet die St. Galler darum, Gelter zurechtzuweisen. Er bittet um
+                    schriftliche Antwort.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-74">Beschwerde</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-286">Galgen</term>
+                    <term ref="stadtasg-keywords-63">Gerücht</term>
+                    <term ref="stadtasg-keywords-107">Strafe</term>
+                    <term ref="stadtasg-keywords-45">Schmähung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-82">Heinrich Schlosser</persName>
+                    <date>1451-01-19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-03-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_233_467.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Mein willig dinst bevor erbergen und weisen lieben herren. Mich hat <lb
+                    n="2"/>gelawblich angelangt, wie <persName ref="stadtasg-actors-372">Ulrich
+                    Gelter</persName>, ewer burger, mir zu <placeName ref="stadtasg-places-21">Nü <lb
+                        break="no" n="3"/>remberg</placeName> an mein ere und gelimpff gar schmelich
+                und groeblich <lb n="4"/>geredt und gesprochen hat, wie er zu <placeName
+                    ref="stadtasg-places-53">Baden</placeName> dabey gewesen sey und <lb n="5"/>gesehen hab,
+                daz ich schentlich an den galgen gehangen worden sey, <lb n="6"/>und sollich sein
+                wort so statlich erzeugt und gerett hab, daz alle, <lb n="7"/>die dy das gehort
+                haben, in grossem zweifel gewesen sein und <lb n="8"/>gedacht haben, das sollichs
+                geschehehen möcht sein. Dabey ewrer <lb n="9"/>weisheit wol versteen mag, was eren
+                er mir meinen herren von <lb n="10"/><placeName ref="stadtasg-places-21">Nuremberg</placeName>
+                und von <placeName ref="stadtasg-places-13">Bern</placeName> und andern dardurch zugezogen hat,
+                    <lb n="11"/>han ich sollicher meiner eren und gelimpffs halben nit muegen ver
+                    <lb break="no" n="12"/>tragen sein, sunder ewrer erberkeit das zuverkünden und
+                pin in <lb n="13"/>gutem getrawen, ir süllt nicht gefallens darinn von im haben, <lb
+                    n="14"/>mit gantzem fleis bittende, den genanten ewern burger zu besenden, <lb
+                    n="15"/>in darumb nach verhandlung der tat straffen, in auch dartzu <lb n="16"
+                />halten, mir umb sollich mein smehe ablegung zutun, damit er <lb n="17"/>empfind
+                und wisse, was er fürbas von biderleuten reden sulle. <lb n="18"/>Wann geschech des
+                nicht, so muest ich darnach gedencken, damit <lb n="19"/>ich mich meiner eren und
+                gelimpffs widerumb an im erholet. <lb n="20"/>Und wollet euch umb meiner willigen
+                dinst willen hirinn so für <lb break="no" n="21"/>derlich beweisen, als ich
+                derselben ewer erberkeit wol getrawen <lb n="22"/>und mit willen gern verdinen wil.
+                Ewer verschriben antwurt <lb n="23"/>wider bey disem gegenwurtigen. Datum amm
+                    <origDate when="1451-01-19">eritag nach Anthonii <lb n="24"/>anno etc.
+                    LIo</origDate>. <lb n="25"/><persName ref="stadtasg-actors-82" role="issuer">Heinrich
+                    Slosser</persName>
+                <lb n="26"/>von <placeName ref="stadtasg-places-13">Bern</placeName>. <pb
+                    facs="StadtASG_Missive_233_468.JPG" n="2"/>
+                <lb n="27"/>Den erbergen und weisen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermeistern und <lb n="28"/>rate der stat zue sannt Gallen</orgName> meinen
+                    <lb n="29"/>besundern gunstigen lieben herren. </p>
+        </body>
+    </text>
+</TEI>

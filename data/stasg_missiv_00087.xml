@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 87</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_87_173/174</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Appenzell richten im Namen ihres Landmanns Heinrich Weisshaar
+                    an Bürgermeister und Rat zu St. Gallen die Bitte, dafür zu sorgen, dass seine,
+                    vom St. Galler Altbürgermeister Ulrich Särri und von Nesa Dietz beschlagnahmte
+                    Habe wieder freigelassen werde. Sie bitten um eine schriftliche Antwort mit dem
+                    gleichen Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-66">Beschlagnahmung</term>
+                    <term ref="stadtasg-keywords-495">Hab und Gut</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-104">Landmann</term>
+                    <term ref="stadtasg-keywords-165">Altbürgermeister</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-506">Amman und Rat zu Appenzell</orgName>
+                    <placeName ref="stadtasg-places-8">Appenzell</placeName>
+                    <date>1437-03-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-04-16</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_87_173.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst voran lieben und guoten fründ. Uns hat
+                fürbracht <persName ref="stadtasg-actors-215">Haini <lb n="2"/>Wishar</persName>, unser
+                lantman, wie dz üwer alter burgermaister <persName ref="stadtasg-actors-91">Uolrich
+                    Sery</persName> und <persName ref="stadtasg-actors-216">Nesa Dietzin</persName>, <lb n="3"
+                />sin geschwig, im dz sin in haft gelait
+                habint. Soelichs in und och uns froemd und nit <lb n="4"/>zitlich bedunket sin, nach
+                dem und ir und wir mit enandern herkomen sygen. Also lieben <lb n="5"/>und guoten
+                fründ bittin wir üch mit ernst flissig, dz ir dem unsern dz sin von diser <lb
+                    n="6"/>hafftung ledig schaffent, als doch billich ist. Ist dann sach, dz die
+                üwern zuo dem ünsern <lb n="7"/>üt zuosprechin hand, darumb si rechtes gegen im
+                nit enberen mugent, wellen wir inen <lb n="8"/>so früntlichen richten, dz wir
+                truwin, des glimpf ze hann. Tuond hierinne, als wir üch <lb n="9"/>des mit
+                sunderhait wol getruwin und wir indes gelichen mindern und meren sachen <lb n="10"
+                />umb üch beschulden und gedienen süllen, wa dz ze schulden kompt. Üwer
+                verschriben antwurt <lb n="11"/>land uns wissen by disem botten. Geben ze <origPlace
+                    ref="stadtasg-places-8">Appenzelle</origPlace> an <origDate when="1437-03-12">sant
+                    Gregoerien tag anno domini <lb n="12"/>Mo CCCCo XXXVIIo</origDate> etc. <lb
+                    n="13"/><orgName ref="stadtasg-actors-506" role="issuer">Amman und raut <lb n="14"/>zuo
+                    Appenzelle</orgName>. <pb facs="StadtASG_Missive_87_174.JPG" n="2"/>
+                <lb n="15"/>Den fromen fürsichtigen und wisen dem <lb n="16"/><orgName
+                    ref="stadtasg-actors-148" role="recipient">burgermaister und raut der statt zuo <lb n="17"
+                    />sant Gallen</orgName> unsern guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

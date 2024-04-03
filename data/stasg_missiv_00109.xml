@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 109</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_109_217/218</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ulrich von Eisenhofen, Vogt zu Feldkirch, bittet Bürgermeister und Rat zu St.
+                    Gallen um Mitteilung, wie sich ihr Bürger Rudolf von Rorschach, der
+                    Geldforderungen an ihren Herrn, den Herzog von Österreich, erhebt, zu den
+                    bisherigen rechtlichen Angeboten stelle. Sollte er keines davon annehmen wollen,
+                    schlagen die Feldkircher einen Verhandlungstag beim Reichsvogt vor, an dem
+                    geklärt werden soll, ob Feldkirch für die Schulden, die der Herzog von
+                    Österreich beim St. Galler Bürger Rudolf von Rorschach hat, von diesem belangt
+                    werden darf. Sie bitten um eine schriftliche Antwort mit dem Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-148">Schuldforderung</term>
+                    <term ref="stadtasg-keywords-37">Verhandlung</term>
+                    <term ref="stadtasg-keywords-152">Reichsvogt</term>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+                    <term ref="stadtasg-keywords-319">Landvogt</term>
+                    <term ref="stadtasg-keywords-277">Herzog</term>
+                    <term ref="stadtasg-keywords-13">Schulden</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-405">Reich</term>
+                    <term ref="stadtasg-keywords-79">Pfand</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-47">Ulrich von Eisenhofen, Vogt zu Feldkirch</persName>
+                    
+                    <date>1438-08-29</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-05-20</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_109_217.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min willig dienst zuvor ersamen wisen liben und guoten fründe. Als ir mir
+                ietz geschriben <lb n="2"/>hand von waegen <persName ref="stadtasg-actors-238">Ruodolff von
+                    Roschach</persName> als von soelicher zuosprüch waegen, so <lb n="3"/>er maint
+                ze haben zuo minem gnaedigen herren von
+                <placeName ref="stadtasg-places-91">Oesterrich</placeName>, und vor im hat die <lb n="4"/>von <placeName
+                    ref="stadtasg-places-89">Veltkirch</placeName> darumb villicht ze bekümbern etc. und
+                under andern wortten mir soeliche <lb n="5"/>recht, so er denn büt ze wissen, gethon
+                hand, hab ich alles wol vernomen und <lb n="6"/>den von <placeName ref="stadtasg-places-89"
+                    >Veltkirch</placeName> soelichs ze wissen gethon, und hand die selben von
+                    <placeName ref="stadtasg-places-89">Veltkirch</placeName>
+                <lb n="7"/>die sach vor in. Uff soelichs moechtind ir mit dem von <persName
+                    ref="stadtasg-actors-238">Roschach</persName> sovil reden und <lb n="8"/>schaffen, das er
+                der rechten ains ingieng, die im vormals von in gebotten <lb n="9"/>sind, das waer
+                in fast wol ze willen, denn si baiden tailen glich und gelegen waeren. <lb n="10"
+                />Moecht aber des nicht gesin, darumb das er denn merk und verston müg, <lb n="11"
+                />das si im glicher recht nit vor sin wellendt, so wellendt si des uff dem <lb
+                    n="12"/>lantvogt des <orgName ref="stadtasg-actors-559">Rychs</orgName> komen und sich uff dem erfinden laussen, ob sy nach
+                ir <lb n="13"/>fryhait sag umb die schuld des von <persName ref="stadtasg-actors-238"
+                    >Roschach</persName> pfand für minen obgenanten gnaedigen <lb n="14"/>
+                    herren von <placeName ref="stadtasg-places-91">Osterrich</placeName> sin soellen oder nit, und doch
+                also, das die von <placeName ref="stadtasg-places-89">Veltkirch</placeName>
+                <lb n="15"/>und ir burger uff soelichs gen im uss vorchen und sicher vor im sien
+                untz <lb n="16"/>ze end des rechten. Und ist im das also ze synne, das mir das davor
+                ze <lb n="17"/>wissen geton werd, so wend die von <placeName ref="stadtasg-places-89"
+                    >Veltkirch</placeName> den lantvogt bitten, sich mit <lb n="18"/>der sach ze
+                beladen und anzenemen und tag daran ze setzen, damit der sach <lb n="19"/>end werd.
+                Und laussen mich herumb üwer früntlich verschriben antwurt <lb n="20"/>wissen by dem
+                botten. Geben uff <origDate when="1438-08-29">frytag naechst nach Bartholomei anno
+                    etc. <lb n="21"/>XXXVIIIto</origDate>. <lb n="22"/><persName ref="stadtasg-actors-47" role="issuer">Uolrich von
+                    Eysenhofen</persName>
+                <lb n="23"/>vogt ze <placeName ref="stadtasg-places-89">Veltkirch</placeName>. <pb
+                    facs="StadtASG_Missive_109_218.JPG" n="2"/>
+                <lb n="24"/>Den ersamen fürsichtigen und wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister <lb n="25"/>und dem rat ze sant Gallen</orgName> minen lieben und
+                guoten <lb n="26"/>fründen. </p>
+        </body>
+    </text>
+</TEI>

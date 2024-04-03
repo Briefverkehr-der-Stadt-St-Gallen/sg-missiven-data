@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4</title>
+            </titleStmt>
+
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_4_7/8</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Konstanz bitten Bürgermeister und Rat zu St. Gallen,
+                    darüber zu beraten, wie mit der Einforderung der von den Grafen Rudolf und
+                    Wilhelm von Montfort zu Tettnang ausstehenden jährlichen Zinsen zu verfahren
+                    sei. St. Gallen soll zur Beratung dieser Sache eine bevollmächtigte
+                    Ratsdelegation auf den Abend des 30. November nach Konstanz schicken.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-10">Zins</term>
+                    <term ref="stadtasg-keywords-11">Kapital</term>
+                    <term ref="stadtasg-keywords-12">Gesandter</term>
+                    <term ref="stadtasg-keywords-13">Schulden</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>
+                    
+                    <date>1418-11-24</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <p/>
+                <persName>SO</persName>
+                <date>2018-06-29</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS</persName>
+                <date/>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4_7.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst vor an lieben und guoten fründ. Von des
+                ierlichen zins wegen, <lb n="2"/>den unser herren grauf <persName ref="stadtasg-actors-113"
+                    >Ruodolff</persName> und grauf <persName ref="stadtasg-actors-114">Wilhelm von Montfort
+                    herren ze Tettnang</persName> uns gemainen <lb n="3"/>stetten darzuo gewant
+                ierlich pflihtig sind zuo geben, und da nuo zwen zins von inen gevallen sind und <lb
+                    n="4"/>uß staend und man och darzuo gewalt hat, umb das hoptguot och ze manend
+                und das notdürftig <lb n="5"/>ist, das wir darumb zesamen komind, uns zuo
+                underreden, ob man nuo umb den zins oder beide umb <lb n="6"/>zins und umb daz
+                hoptguot manen welle. Umb das bitten und manen wir üch früntlich, wes wir <lb n="7"
+                />üch darumb ze manend hand, das ir üch in üwern raeten darumb underreden und denn
+                daruff üwer <lb n="8"/>erbern botten von üwerm rat mit vollem gewalt der sach zuo
+                uns her gen <placeName ref="stadtasg-places-7">Costentz</placeName> senden wellen <lb n="9"
+                />uff den <date when="1418-11-30">nechsten fritag nach sant Andraß tag</date> ze
+                naht hie zuo sind, morndes darumb ze sitzend <lb n="10"/>und ze raut zuo werden, was
+                man darinn tuon und für hand nemen well, und sind daran nit sumig, <lb n="11"/>won
+                wir die andern stett all och also darumb zuo uns gemant haben. Geben an <origDate
+                    when="1418-11-24">sant Katherinen <lb n="12"/>abend anno CCCCo
+                XVIIIo</origDate>. <lb n="13"/><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister
+                    und <lb n="14"/>raut zuo Costentz</orgName>. </p>
+            <pb facs="StadtASG_Missive_4_8.JPG" n="2"/>
+            <p>
+                <lb n="15"/>Den erbern wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und dem raute <lb n="16"/>ze sant Gallen</orgName> unsern guoten
+                fründen. </p>
+        </body>
+    </text>
+</TEI>

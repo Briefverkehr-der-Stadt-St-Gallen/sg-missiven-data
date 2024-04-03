@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 320</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_320_645/646</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Brun von Tettikofen, genannt Bindrich von Konstanz, Vogt zu Altnau, informiert Bürgermeister und Rat zu St. Gallen, dass etliche Leute von Altnau versuchen würden, das St. Galler Bürgerrecht zu bekommen, dieses aber nicht bekommen dürfen, da sie zuvor Appenzeller Landsleute gewesen seien und ihnen nun von den Eidgenossen ihr Landrecht aberkannt worden sei. Er ersucht St. Gallen, einen allfälligen Antrag um Bürgerrechtsaufnahme abzulehnen, und erinnert daran, dass dies unter Strafe des Reichs stünde.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-112">Bürgerrecht</term>
+                    
+<term ref="stadtasg-keywords-101">Landrecht</term>
+<term ref="stadtasg-keywords-107">Strafe</term>
+<term ref="stadtasg-keywords-95">Warnung</term>
+<term ref="stadtasg-keywords-104">Landmann</term>
+<term ref="stadtasg-keywords-263">Vogt</term>
+<term ref="stadtasg-keywords-112">Bürgerrecht</term>
+<term ref="stadtasg-keywords-405">Reich</term>
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-106">Brun von Tettikofen, genannt Bindrich von Konstanz</persName>                    <date>1455-12-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>SC</persName>
+                <date>2023-02-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_320_645.JPG" n="1" />
+<p>
+<lb n="1" />Min willig dienst alltzit bevor ersamen wysen lieben herren und gueten frund.
+    <lb n="2" />Ich vernim, wie etlich von <placeName ref="stadtasg-places-195">Altnow</placeName> umb uwer burgrecht mainen zue stellen,
+<lb n="3" />der vogt ich nu bin und in miner vogtye sytzend. Nu ist uch wol wissenlich,
+    <lb n="4" />das ir ettlich vor mals landslut zue <placeName ref="stadtasg-places-8">Appentzel</placeName> gewesen syen, und inen dar von ge
+<lb break="no" n="5" />mainen aidgenossen abkennt ist. Umb das bit ich uwer wißhait, ob dhainer
+<lb break="no" n="6" />lay antrag darumb an uch beschehe, sy nit antzuniemend, dann uch doch
+    <lb n="7" />sollichs nit geburt by pena des <orgName ref="stadtasg-actors-559">Römischen Rychs</orgName> und och, das ich mich des von
+<lb n="8" />üch nit erclagnen mueß, dann es mir doch laid wär und nit gern tät. Geben
+    <lb n="9" />an <origDate when="1455-12-01">mentag nach sand Andreas tag anno etc. Lquinto</origDate>.
+    <lb n="10" /><persName ref="stadtasg-actors-106" role="issuer">Brün von Tetikoven</persName>, genant
+    <lb n="11" />Bindrich von <placeName ref="stadtasg-places-7">Costentz</placeName>.
+<pb facs="StadtASG_Missive_320_646.JPG" n="2" />
+    <lb n="12" />Den ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaistern und
+        <lb n="13" />raut zue sand Gallen</orgName> minen lieben herren
+<lb n="14" />und sundern gueten frunden.
+</p>
+        </body>
+    </text>
+</TEI>

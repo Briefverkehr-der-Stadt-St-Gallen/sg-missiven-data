@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 52</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_52_103/104</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Radolfzell bitten Bürgermeister und Rat zu St. Gallen,
+                    ihren (Radolfzeller) Bürger Siegfried Plütsch in einer privaten Angelegenheit zu
+                    unterstützen. Plütsch werde diesen Brief zeigen und seine Angelegenheit mündlich
+                    darlegen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-93">Mündlich</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-345">Zeiger</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-508">Bürgermeister und Rat zu Radolfzell</orgName>
+                    
+                    <date>1431-12-26</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_52_103.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser willig dienst lieben fründ. Es kompt zuo üwer fürsichtikait
+                unser <lb n="2"/>mitburger <persName ref="stadtasg-actors-174">Syfrit Plütsch</persName>, zoeger diß briefs,
+                der hät etwas vor üch ze werbent, <lb n="3"/>als er üch das mit mund luterlich
+                wol erzelen kan. Bitten wir üwer guot <lb n="4"/>früntschafft mit flisß und ernst,
+                ir woellent dem yetzgenanten unsern burger <lb n="5"/>umb unser dienst willen
+                fürderlich und beholffen sin, daz im sin sach dester <lb n="6"/>füro ze end
+                usstrag komme. Künden wir daz in gelichen myndren und mereren <lb n="7"/>sachen umb
+                üch verschulden und gedienen, welten wir willig sin. Geben <lb n="8"/>an
+                <origDate when="1431-12-26">sant Stheffans tag anno domini etc. XXXIIo</origDate>. <lb n="9"
+                /><orgName ref="stadtasg-actors-508" role="issuer">Burgermaister und <lb n="10"/>rate zuo Ratolfzell</orgName>. <pb
+                    facs="StadtASG_Missive_52_104.JPG" n="2"/>
+                <lb n="11"/>Den ersamen wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister <lb n="12"/>und rate zuo
+                    sant Gallen</orgName> unsern besundern <lb n="13"/>guoten frunden. </p>
+        </body>
+    </text>
+</TEI>

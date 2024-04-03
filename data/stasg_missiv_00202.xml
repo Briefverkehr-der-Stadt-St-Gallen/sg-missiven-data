@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 202</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_202_405/406</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Altstätten antworten Bürgermeister und Rat zu St. Gallen auf
+                    ihre Anfrage betreffend Künigunde von Tumb, dass sie (Altstätten) herkömmliches
+                    Stadt- und Landrecht anwenden werden. Sie teilen mit, dass sie in Kürze zur
+                    Beratung eine Gesandtschaft senden würden.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-250">Anfrage</term>
+                    <term ref="stadtasg-keywords-251">Stadtrecht</term>
+                    <term ref="stadtasg-keywords-101">Landrecht</term>
+                    <term ref="stadtasg-keywords-156">Recht</term>
+                    <term ref="stadtasg-keywords-231">Gesandtschaft</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-25">Gericht</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-67">Ammann und Rat zu Altstätten</persName>
+                    <date>1446-07-24</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-09</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_202_405.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser willig dienst wissint altzitt voran lieben hern und guoten fruend.
+                    <lb n="2"/>Uewer schriben, so ir uns getan hand als von frow <persName
+                    ref="stadtasg-actors-328">Kuengund Thuomin</persName>
+                <lb n="3"/>vonn des gerichtz wegen, haben wir wol verstanden. Also lassen <lb n="4"
+                />wir uech wissen, das wir sy gern lassen richten noch dem, als denn <lb n="5"/>von
+                alter her komen und och unser statt und landz recht ist. Doch <lb n="6"/>wie dem
+                allem sy, so land wir uech wissen, daz wir unser botschafft <lb n="7"/>in ainer
+                kürtze by uech haben woellint und fuero us den sachen reden. <lb n="8"/>Wes wir uech
+                ze lieb und dienst getan muegen, woellen wir alzitt <lb n="9"/>willig sin. Geben an
+                    <origDate when="1446-07-24">sant Jacobs abent anno domini etc. XLVI</origDate>.
+                    <lb n="10"/><orgName ref="stadtasg-actors-67" role="issuer">Amman und ratt <lb n="11"/>ze
+                    Alstetten</orgName>. <pb facs="StadtASG_Missive_202_406.JPG" n="2"/>
+                <lb n="12"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister <lb n="13"/>und ratt ze sant Gallen</orgName> unsern <lb n="14"
+                />lieben hern und besunders guoten fruenden. </p>
+        </body>
+    </text>
+</TEI>

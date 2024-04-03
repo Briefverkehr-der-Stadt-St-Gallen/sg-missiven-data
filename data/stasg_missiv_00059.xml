@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 59</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_59_117/118</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Appenzell bitten zum wiederholten Mal Bürgermeister und Rat zu
+                    St. Gallen, den beschlagnahmten Besitz ihres Landmanns Hans Maier, genannt
+                    Schärrer, freizugeben. Dieser behaupte, er schulde der Stadt St. Gallen zwar Geld
+                    wegen einer Busse, aber weder Steuern noch Ungeld. Sie bitten um eine
+                    schriftliche Antwort mit dem gleichen Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-98">Steuer</term>
+                    <term ref="stadtasg-keywords-99">Ungeld</term>
+                    <term ref="stadtasg-keywords-100">Busse</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-104">Landmann</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-66">Beschlagnahmung</term>
+                    <term ref="stadtasg-keywords-495">Hab und Gut</term>
+                    
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-506">Ammann und Rat zu Appenzell</orgName>
+                    
+                    <date>1433-02-16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu Appenzell</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_59_117.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst voran lieben guoten fründ. Als wir üch
+                vormals <lb n="2"/>mer geschriben hand von <persName ref="stadtasg-actors-181">Hansen
+                    Maygers</persName> wegen, genampt Schärrer, darumb <lb n="3"/>uns nach kain
+                antwurt nit ist worden, daran er habent sig, wan ir schribent, <lb n="4"/>er soell
+                üch stür und ungelt, und darumb habint ir im das sin verlait. Da <lb n="5"
+                />spricht er, er soell üch weder stür nach ungelt, er spricht wol, er soell üch
+                an <lb n="6"/>buess. Da wellent wir üch bitten mit gantzem ernst gar flissig, das
+                ir dem selben <lb n="7"/>unserm lantman uff das, das sin abschlaihint. Es ist oh
+                ettwa menger der üwer, <lb n="8"/>der uns öch buessen schuldig ist. Wenn ir die
+                haissen, das si uns die gebent, so <lb n="9"/>wellent wir das <persName
+                    ref="stadtasg-actors-181">Hansen Scherrer</persName> och haissen, wan üch dach wol ze
+                wissin ist, <lb n="10"/>das wir anandren nit heften soellent. Üwer verschriben
+                antwurt land uns wissen <lb n="11"/>bi disem botten, ob ir im das sin uff das
+                entschlaihen wellint oder nit. Geben <lb n="12"/>am <origDate when="1433-02-16"
+                    >mentag nach sant Vallentins tag anno domini Mo CCCCo XXXo tercio</origDate>.
+                <lb n="13"/><orgName ref="stadtasg-actors-506" role="issuer">Amman und raut <lb n="14"/>zuo
+                    Appenzelle</orgName>. <pb facs="StadtASG_Missive_59_118.JPG" n="2"/>
+                <lb n="15"/>Den wisen fürsichtigen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister <lb
+                        n="16"/>und rat der statt zuo sant Gallen</orgName> unsern <lb n="17"
+                />guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

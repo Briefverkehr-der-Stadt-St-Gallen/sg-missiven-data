@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 141</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note><p>Zur Sache siehe auch Liechtensteinisches Urkundenbuch II.</p></note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_141_281/282</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Wolfhart der Ältere von Brandis, Vogt zu Feldkirch, teilt Bürgermeister und Rat
+                    zu St. Gallen mit, dass er wegen der Auseinandersetzung zwischen dem St. Galler
+                    Bürger Eberhard von Ramschwag und Hans von Ems einen Gerichtstag in Feldkirch
+                    auf den 12. März angesetzt habe und den Kontrahenten dafür sicheres Geleit
+                    verspricht. Er bittet um eine schriftliche Bestätigung.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-149">Rechtstag</term>
+                    <term ref="stadtasg-keywords-70">Termin</term>
+                    <term ref="stadtasg-keywords-2">Geleit</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+                    <term ref="stadtasg-keywords-324">Freiherr</term>
+                    <term ref="stadtasg-keywords-50">Acht</term>
+                    <term ref="stadtasg-keywords-209">Bann</term>
+                    <term ref="stadtasg-keywords-83">Frieden</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-48">Wolfhart der Ältere von Brandis, Freiherr, Vogt zu
+                        Feldkirch</persName>
+                    
+                    <date>1442-03-02</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-06-03</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_141_281.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min früntlich dienst vor ersamen wisen lieben guoten <lb n="2"/>fründe.
+                Als von der stoess und spenn wegen zwüschendt <persName ref="stadtasg-actors-223">Eber <lb
+                        break="no" n="3"/>hart von Ramschwag</persName>, üwerm burger, ains tails
+                und <persName ref="stadtasg-actors-224">Hansen <lb n="4"/>von Embtz</persName> des anderen
+                tails, die langzit gewaert hand, die ouch <lb n="5"/>mir in trüwen laid und nit lieb
+                sind etc., und soelichs besuochen <lb n="6"/>in guotenkait ze bringen, darumb so
+                setz und beschaid ich uch <lb n="7"/>und üwerm burger guetlich, früntlich und
+                unverdingklich <lb n="8"/>tag als gen <placeName ref="stadtasg-places-89"
+                    >Veltkirch</placeName> von nu <date when="1442-03-12">mentag naechst über acht
+                    tag</date> ze <lb n="9"/>fruegertag zitt alda ze sind und die sachen anzehaben,
+                da ich och <lb n="10"/>mit erber und fromer lüt hilff und raut besuochen will, sy
+                    <lb n="11"/>früntlich ze richten, doch das ir baidersitt <persName
+                    ref="stadtasg-actors-224">Hans von Embtz</persName> und <lb n="12"/>die sinen vor üch und
+                    <persName ref="stadtasg-actors-223">Eberharten von Ramschwag</persName> und den <lb n="13"
+                />üweren und den sinen und mengklichem, waer denn baidersitt <lb n="14"/>zuo den
+                sachen hafft, gewandt und verdacht ist, zuo soelichem tag, <lb n="15"/>by dem tag
+                und widerumb von dannen an sin gewar frid, gelait <lb n="16"/>und sicherhait haben
+                soellen. Doch so sol ouch aucht und bann <lb n="17"/>den früntlichen tag still stan,
+                dann ich des glichen <persName ref="stadtasg-actors-224">Hansen <lb n="18"/>von
+                    Embtz</persName> ouch zuogeschriben hab. Und was üch also darinn <lb n="19"
+                />eben und ze willen sin well, ob es by soelichem tag und sicher <lb break="no"
+                    n="20"/>hait belib, laussent mich by zitt verschriben wissen umb des <lb n="21"
+                />willen, dz ich es <persName ref="stadtasg-actors-224">Hansen von Embtz</persName> och
+                verkünden künd. Datum <lb n="22"/>uff <origDate when="1442-03-02">fritag vor dem
+                    suntag oculy anno domini etc. XLIImo</origDate>. <lb n="23"/><persName
+                    ref="stadtasg-actors-48" role="issuer">Wolff von Brandisß</persName> der elter <lb n="24"
+                />fry herr, vogt ze <placeName ref="stadtasg-places-89">Veltkirch</placeName> etc. <pb
+                    facs="StadtASG_Missive_141_282.JPG" n="2"/>
+                <lb n="25"/>Den ersamen und wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und dem rat <lb n="26"/>ze sant Gallen</orgName> minen lieben und
+                guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

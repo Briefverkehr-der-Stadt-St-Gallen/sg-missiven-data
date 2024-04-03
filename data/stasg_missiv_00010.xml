@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 10</title>
+            </titleStmt>
+
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_10_19/20</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ursula von Roggwil, Bürgerin zu Konstanz, mahnt Ulrich Gössler, Bürger zu
+                    St. Gallen, zur Zahlung ihres Leibgedings, das ihr von Bürgermeister und Rat zu
+                    St. Gallen zustehe und für welches Gössler Bürge sei.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-26">Leibding</term>
+                    <term ref="stadtasg-keywords-27">Eid</term>
+                    <term ref="stadtasg-keywords-28">Bürge</term>
+                    <term ref="stadtasg-keywords-29">Mahnung</term>
+                    <term ref="stadtasg-keywords-30">Zahlung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-13">Ursula von Roggwil</persName>
+                    
+                    <date>1421-10-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-14">Ulrich Gössler</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <p/>
+                <persName>SO</persName>
+                <date>2018-06-29</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-20</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_10_19.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Dem erbern <persName ref="stadtasg-actors-14" role="recipient">Uolrichen
+                    Goesler</persName>, burger zuo <placeName ref="stadtasg-places-38">sant
+                    Gallen</placeName>, enbüt ich <lb n="2"/>frow <persName ref="stadtasg-actors-13"
+                    role="issuer">Uorsell von Rogwille</persName>, burger ze <placeName
+                    ref="stadtasg-places-7">Costentz</placeName>, min gruos <lb n="3"/>und bitt und manen
+                üch mit disem brieff und botten, das ir <lb n="4"/>mir tuegen und laisten mit minem
+                wissen ze <placeName ref="stadtasg-places-7">Costentz</placeName>
+                <lb n="5"/>in der stat in disen naechsten acht tagen, als ir gelopt <lb n="6"/>hand
+                mit üwer trüw an ains geswornen aides statt, <lb n="7"/>als min brieff wist und seit
+                umb dz gevallen lipding, <lb n="8"/>so mir von den ersamen wisen dem <orgName
+                    ref="stadtasg-actors-148">burgermaister und <lb n="9"/>rat der stat zuo sant
+                    Gallen</orgName> gevallen ist, darumb ir <lb n="10"/>min burg sind, und getrüw
+                uech sunder wol, ir tuegen <lb n="11"/>mir gnueg geben. Under <persName ref="stadtasg-actors-124">Johansen
+                    Friburgers</persName> insigell <lb n="12"/>an <origDate when="1421-10-08"
+                    >mittwochen nach Fidis virginis anno domini <lb n="13"/>MCCCC vicessimo
+                    primo</origDate>.</p>
+            <pb facs="StadtASG_Missive_10_20.JPG" n="2"/>
+        </body>
+    </text>
+</TEI>

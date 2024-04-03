@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 221</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_221_443/444</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Landammann und Rat zu Schwyz bitten Bürgermeister und Rat zu St. Gallen, sie in
+                    einem Streit zu unterstützen. Der Vater des Priesters Johannes Senn habe beim
+                    St. Galler Bürger Fridpolt Schulden, deswegen habe Fridpolt Senns Haus vergantet.
+                    Schwyz bittet St. Gallen, mit Fridpolt zu sprechen, um einen
+                    Rückzahlungsaufschub zu erwirken.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-13">Schulden</term>
+                    <term ref="stadtasg-keywords-272">Gant</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-30">Zahlung</term>
+                    <term ref="stadtasg-keywords-148">Schuldforderung</term>
+                    <term ref="stadtasg-keywords-35">Priester</term>
+                    <term ref="stadtasg-keywords-527">Vater</term>
+                    <term ref="stadtasg-keywords-30">Zahlung</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-522">Landammann und Rat zu Schwyz</orgName>
+                    <date>1450-02-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-10-01</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_221_443.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Ersamen wysen bisundern lieben und guotten fründe unser früntlich und
+                willig dienste sy üch <lb n="2"/>allzit zu voran erbotten. Der ersam priester her
+                    <persName ref="stadtasg-actors-362">Johanns Senn</persName>, iuwer statt kind, der ietz
+                    <lb n="3"/>by sin wesen hät, ist für uns komen und hat uns für bringen lassen,
+                wie das sin vatter <lb n="4"/>einem uwerm burger, namlich dem <persName
+                    ref="stadtasg-actors-363">Fridpolt</persName>, ein summ geltz schuldig und ein guot zit
+                ouch <lb n="5"/>schuldig wesen sye, darumb er villicht desselben <persName
+                    ref="stadtasg-actors-362">Sennen</persName> hus meyne anzegryffen <lb n="6"/>und ze
+                verganten. Daruff aber herr <persName ref="stadtasg-actors-362">Hanns Senn</persName> ze
+                priester gewicht und gewidmet sye, <lb n="7"/>hat uns also getrungenlich ankert und
+                gebetten, uwer früntschafft ze schriben und ze bitten, <lb n="8"/>mit dem genempten
+                    <persName ref="stadtasg-actors-363">Fridpolten</persName> guetlich ze reden und inn ze
+                bitten, der schuld fürbasser <lb n="9"/>ze borgen biß ze <date when="1451-10-16"
+                    >sant Gallen tag</date> schierest komen hynnandar, so meyene und welle ouch <lb
+                    n="10"/>der egenante her <persName ref="stadtasg-actors-362">Johanns Senn</persName>, inn
+                früntlich darumb ußwysen und bezaln. Also bisundern <lb n="11"/>fründe bittent wir
+                üch früntlichest wir koennen, ir wellind harinne dem guoten hern <persName
+                    ref="stadtasg-actors-362">Johansen</persName>
+                <lb n="12"/>und uns zu lieb und zu willen werden und umb ein semlichs, wie dann
+                vorstat, dem <lb n="13"/><persName ref="stadtasg-actors-363">Fridpolt</persName> guetlich
+                bitten und ankomen, so zwivelt uns nit dann, dz her <persName ref="stadtasg-actors-362"
+                    >Johanns</persName> dem nachkome <lb n="14"/>und im biß der usrichtung tuege,
+                als wir an sinen worten verstanden. So beschicht uns ouch <lb n="15"/>haran von üch
+                und dem <persName ref="stadtasg-actors-363">Fridpolt</persName> dienst und gevallen, die wir
+                umb üch und inn verdienen <lb n="16"/>woeltind, wa sich das gebüren wurd. Datum
+                    <origDate when="1450-02-01">vigilia purificationis Marie anno etc.
+                    quinquagesimo</origDate>. <lb n="17"/><orgName ref="stadtasg-actors-522" role="issuer"
+                    >Lanndtamman und <lb n="18"/>der rate zu Swytz</orgName>. <pb
+                    facs="StadtASG_Missive_221_444.JPG" n="2"/>
+                <lb n="19"/>Den ersamen fürnaemen und wysen <lb n="20"/><orgName ref="stadtasg-actors-148"
+                    role="recipient">burgermeyster und rat ze sant <lb n="21"/>Gallen</orgName>
+                unsern sundern lieben und guotten <lb n="22"/>fründen. </p>
+        </body>
+    </text>
+</TEI>

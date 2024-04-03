@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 134</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note><p>Zur Sache siehe auch Liechtensteinisches Urkundenbuch II.</p></note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_134_267/268</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>In Vertretung seines Vaters bittet Wolfhart der Jüngere von Brandis, Statthalter
+                    der Vogtei zu Feldkirch, Bürgermeister und Rat zu St. Gallen, in der
+                    Angelegenheit derer von Höchst die Rückkehr seines Vaters von Bern abzuwarten.
+                    Er werde inzwischen aber versuchen, die Sache mit denen von Höchst gütlich
+                    beizulegen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-175">Sohn</term>
+                    <term ref="stadtasg-keywords-527">Vater</term>
+                    <term ref="stadtasg-keywords-120">Vermittlung</term>
+                    <term ref="stadtasg-keywords-401">Statthalter</term>
+                    <term ref="stadtasg-keywords-243">Dienst</term>
+                    <term ref="stadtasg-keywords-627">Vogtei</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-54">Wolfhart der Jüngere von Brandis, Statthalter der
+                        Vogtei zu Feldkirch</persName>
+                    
+                    <date>1441-01-13</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName/>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-06-03</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_134_267.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min früntlich willig dienst vor ersamen wisen lieben und <lb n="2"
+                />guoten fründe. Als ir nu naechst minem herren und vatter ge <lb break="no" n="3"
+                />schriben habendt von der von <placeName ref="stadtasg-places-54">Hoechst</placeName> wegen,
+                den selben brief im <lb n="4"/>von üch gesandt, hab ich uffgebrochen, gelesen und
+                wol verstanden. <lb n="5"/>Ist der selb min herr und vatter nicht in lands, sunder
+                gen <lb n="6"/><placeName ref="stadtasg-places-13">Bernn</placeName> geritten. Nu habendt ir
+                die sach minem herren ze dienst <lb n="7"/>in guot bissher anstellig beliben
+                laussen. Herumb ersamen wisen <lb n="8"/>guoten fründe bitt ich üch früntlich mit
+                ernst, ir wellendt die <lb n="9"/>sach noch in guot anstellig beliben laussen, untz
+                dz min herr und <lb n="10"/>vatter ze land kompt. So wil ich die sach an in bringen
+                und min <lb n="11"/>beste vermügen dartzusehendt gen den von <placeName
+                    ref="stadtasg-places-54">Hoechst</placeName> redan und tuon <lb n="12"/>und besuochen, ob
+                die sach guetenclich abgetragen werden künn. <lb n="13"/>Dartzuo so hoff und getrüw
+                ich, min herr soell in kürtze ze land <lb n="14"/>komen, wann wir sin taeglichs
+                wartendt sind. Und tuond herinn, <lb n="15"/>als ich üch des und alles guoten sunder
+                wol getrüw, dz will ich <lb n="16"/>mit willen ümb uch verdienan. Datum uff
+                    <origDate when="1441-01-13">sant Hilaryen tag <lb n="17"/>anno domini etc.
+                    XLImo</origDate>. <lb n="18"/><persName ref="stadtasg-actors-54" role="issuer">Wolffhart
+                    vom Brandissz der iünger</persName>, <lb n="19"/>statthalter der vogty ze
+                    <placeName ref="stadtasg-places-89">Veltkirch</placeName> etc. <pb
+                    facs="StadtASG_Missive_134_268.JPG" n="2"/>
+                <lb n="20"/>Den ersamen fürsichtigen und wisen <lb n="21"/>dem <orgName
+                    ref="stadtasg-actors-148" role="recipient">burgermaister und dem raut <lb n="22"/>ze sant
+                    Gallen</orgName> minen lieben und guoten <lb n="23"/>fründen. </p>
+        </body>
+    </text>
+</TEI>

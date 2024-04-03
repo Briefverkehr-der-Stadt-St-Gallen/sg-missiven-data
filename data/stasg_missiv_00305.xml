@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 305</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_305_615/616</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Adelheid Täuber, Ehefrau von Konrad Lienhard, bittet Bürgermeister und Rat zu St.
+                    Gallen, sie wieder in die Stadt (St. Gallen) hineinzulassen, nachdem sie sich
+                    mit ihrem Ehemann vor einem geistlichen Gericht einigen konnte. Sie bittet um
+                    eine schriftliche Antwort an eine Adresse in Konstanz.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-334">Verbannung</term>
+                    <term ref="stadtasg-keywords-297">Ehefrau</term>
+                    <term ref="stadtasg-keywords-325">Ehemann</term>
+                    <term ref="stadtasg-keywords-2">Geleit</term>
+                    <term ref="stadtasg-keywords-261">Geistliches Gericht</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-105">Adelheid Tauber</persName>
+                    <date>1454-07-27</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-12-07</date>
+            </change>
+            
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-04-02</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_305_615.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Ersam wisen gnädigen lieben herren min armen willigen dienst und was ich
+                in got <lb n="2"/>guottes vermag lieben gnädigen herren. Als ir mir nun nächst ain
+                gelait in üwer statt geben <lb n="3"/>gehebt haben von üwer und mins mans wegen und
+                aber ich und min man nit ains <lb n="4"/>indem werden mochttent, also nach raut und
+                hilff erber lüt hab ich in mit gaistlichem <lb n="5"/>gerichtt fürgenomen, in dem so
+                haben erber lüt so vast so vil mit im gewegett und gerett, <lb n="6"/>das er gott
+                den almächtigen och verdampnuß sin und miner sel angesechen und mich bgnädet. <lb
+                    n="7"/>Also gnädigen lieben herren bitten ich üwer ersame wißhait mit gantzen
+                ernst vlissig, <lb n="8"/>ir wellent barmhertzikait mit mir taillen und gott den
+                almächtten, sin liebi muotter <lb n="9"/>und alle hailgen dar in ansechen und mir
+                verkiessen und vergeben, hab ich wider <lb n="10"/>üwer wißhait ye geton, und mir
+                üwer statt offen machen, hoff ich, ir söllent <lb n="11"/>vernemen, mich also
+                zuhaltten gegen minem fromen man, und inenglichen hab ich <lb n="12"/>mich en kains
+                wegs über sechen, das mir das verkossen und nit zu argem gedacht, <lb n="13"/>und
+                wellent üwer wißhait und erbarmhertzikait an mir bewissen, das ich gen got <lb
+                    n="14"/>ymer gedenken wil. Üwer verschriben gütlich anttwurt gen <placeName
+                    ref="stadtasg-places-7">Costentz</placeName> in des <lb n="15"/><persName
+                    ref="stadtasg-actors-468">Schmeltzen</persName> hus am merstat hinder der <placeName
+                    ref="stadtasg-places-190">Brottloben</placeName>. Datum am <origDate when="1454-07-27"
+                    >samstag nach Jacobi <lb n="16"/>apostoli anno etc. LIIIIo</origDate>. <lb
+                    n="17"/><persName ref="stadtasg-actors-105" role="issuer">Adelhait Töberin</persName>,
+                    <persName ref="stadtasg-actors-469">Cuonis <lb n="18"/>Lienhartz</persName> elichen frow.
+                    <pb facs="StadtASG_Missive_305_616.JPG" n="2"/>
+                <lb n="19"/>Den ersamen und wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raut <lb n="20"/>zu sant Gallen</orgName> minen gnädigen
+                lieben herren.</p>
+        </body>
+    </text>
+</TEI>

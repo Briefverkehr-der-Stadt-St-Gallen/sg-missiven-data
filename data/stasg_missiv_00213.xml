@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 213</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_213_427/428</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Appenzell bitten Bürgermeister und Rat zu St. Gallen, auf den
+                    26. Dezember 1448 eine Gemeindeversammlung einzuberufen, da sie
+                    (Appenzell) mit den St. Gallern etwas zu verhandeln hätten. Weiter bitten sie die
+                    St. Galler, die Witwe ihres verstorbenen Landmanns Hans Schnagg nicht zu
+                    bevormunden, bevor sie darüber gesprochen hätten. Die Appenzeller bitten um eine
+                    schriftliche Antwort mit dem gleichen Boten. </p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-262">Gemeindeversammlung</term>
+                    <term ref="stadtasg-keywords-37">Verhandlung</term>
+                   <term ref="stadtasg-keywords-270">Vormundschaft</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-104">Landmann</term>
+                    <term ref="stadtasg-keywords-177">Witwe</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-135">Ausbürger</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-506">Ammann und Rat zu Appenzell</orgName>
+                    <date>1448-12-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-23</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_213_427.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst allzit vor besundern guoten fründ und
+                lieben <lb n="2"/>getrüwen aidgnossen. Wir fuegen üwer früntschaft zuo wissen, dz
+                wir ettwas vor <lb n="3"/>üch und vor üwern gemainen burgern zuo reden und zu werben
+                haben, bitten <lb n="4"/>wir üwer wisshait mit ernst gedrungenlich, ir wellen
+                naechst uff <date when="1449-12-26">sant Stheffans <lb n="5"/>tag</date> üwer gantz
+                volkomen gemaind by enander haben mit üwern ingesessnen <lb n="6"/>und ussburgern
+                gemainlich. Och lieben fründ, als dann <persName ref="stadtasg-actors-354">Hans
+                    Schnagg</persName> saelig <lb n="7"/>abgangen ist, unser lantman, vernemin wir,
+                wie ir sin frowen bevogtin, <lb n="8"/>da wollen do wol tuon und die obgemelten
+                frowen ane bevogtot laussen, <lb n="9"/>bis wir och füro von der sachen wegen mit
+                üch geredin. Und tuond <lb n="10"/>har inn, als wir üch wol getruwen. Das begeren
+                wir umb üch und <lb n="11"/>umb all die üwern in allem guoten zeverdienen, wa sich
+                das ze tuond gebürot. <lb n="12"/>Geben am <origDate when="1448-12-08">sonnentag
+                    nach sant Nicolaus tag anno etc. XLVIIIo</origDate>. <lb n="13"/>Üwer geschriben
+                antwurt lassent uns harumb wissen by disem <lb n="14"/>botten. <lb n="15"/><orgName
+                    ref="stadtasg-actors-506" role="issuer">Amman und raute <lb n="16"/>ze
+                Appenzell</orgName>. <pb facs="StadtASG_Missive_213_428.JPG" n="2"/>
+                <lb n="17"/>Den ersamen wisen wolbeschaidnen dem <lb n="18"/><orgName
+                    ref="stadtasg-actors-148" role="recipient">burgermaister und clain und grossen raeten <lb
+                        n="19"/>zuo sant Gallen</orgName> unsern lieben guoten fründen <lb n="20"
+                />und getrüwen aidgenossen. </p>
+        </body>
+    </text>
+</TEI>

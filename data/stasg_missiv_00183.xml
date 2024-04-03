@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 183</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_183_367/368</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Konstanz teilen Bürgermeister und Rat zu St. Gallen mit,
+                    dass sie sich beim Landgericht dafür einsetzen werden, dass die vom Gericht
+                    wegen Zerahoch aufgebotenen Ratsherren in St. Gallen befragt werden.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-141">Befragung</term>
+                    <term ref="stadtasg-keywords-94">Landgericht</term>
+                    <term ref="stadtasg-keywords-183">König</term>
+                    <term ref="stadtasg-keywords-347">Majestät</term>
+                    <term ref="stadtasg-keywords-336">Zeuge</term>
+                    <term ref="stadtasg-keywords-25">Gericht</term>
+                    <term ref="stadtasg-keywords-204">Richter</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>
+                    
+                    <date>1444-12-02</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-08-20</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_183_367.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser willig früntlich dienst zue vor lieben und guoten fründ. Als <lb
+                    n="2"/>ir uns geschriben hand, wie <persName ref="stadtasg-actors-323">Zerahoh</persName>
+                ettwievil üwer raeten mit <lb n="3"/>unserm lantgericht von ainr zügnusse wegen hab
+                fürgernomen und <lb n="4"/>uns bittende sint, den üwern zu vergünsten, sy vor üch
+                der loeff halb <lb n="5"/>oder üwerm geswornen gericht laußen zuo verhoeren, die
+                selben ir <lb n="6"/>sag ir dann dem lantgericht mainint zuo schiken etc., als denne
+                daz <lb n="7"/>üwer brief innhalt, den wir nu zuo gueter maß wol verstanden haben.
+                    <lb n="8"/>Soellen ir uns wol getrüwen, in welhen sachen wir üch zuo willen <lb
+                    n="9"/>werden moechten, das ir uns darinn willig vinden solten. Und nach <lb
+                    n="10"/>dem und die sach vor lantgericht hanget als von bevelhnusse <lb n="11"
+                />unsers aller gnaedigisten herren dez roemischen küngs, verstand ir wol, <lb n="12"/>daz man dem lantgericht sinen
+                lantlof nach recht vorgan laußen <lb n="13"/>muoß. Doch üch zuo lieb wellen wir üwer
+                schriben dez naechsten <lb n="14"/>vor lantgericht laußen erschainen. Zwivelt uns
+                nit, als verr üch <lb n="15"/>die richter nach billichen dingen ze willen werden
+                mügen, daz <lb n="16"/>ir sy darinn willig vinden solten, doch ob sy der widertail
+                nit <lb n="17"/>enberen will, muoß man dem rechten sinen gangk laußen. War sich <lb
+                    n="18"/>nu daz machen werd, künnen wir zu disen ziten nit wissen. Das <lb n="19"
+                />wellen also im früntlichisten vermerken. Geben an <origDate when="1444-12-02"
+                    >mittwochen nach <lb n="20"/>sant Andras tag anno etc. XLIIIIo</origDate>.
+                    <orgName ref="stadtasg-actors-56" role="issuer"><lb n="21"/>Burgermaister und <lb n="22"
+                    />raute zuo Costentz</orgName>. <pb facs="StadtASG_Missive_183_368.JPG" n="2"/>
+                <lb n="23"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raute zuo <lb n="24"/>sant Gallen</orgName> unsern lieben und
+                guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

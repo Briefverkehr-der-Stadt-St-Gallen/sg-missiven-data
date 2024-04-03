@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 188</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. 189.</p></note></notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_188_377/378</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Vogt, Amman und Rat zu Bregenz, denen Bürgermeister und Rat zu St. Gallen wegen
+                    der Gefangennahme etlicher St. Galler Bürger auf dem Bodensee und der
+                    Überführung nach Bregenz geschrieben und um Geleit gebeten hatten, erwidern den
+                    St. Gallern, dass die Bregenzer bereit sind, den St. Gallern sicheres Geleit
+                    nach Bregenz vor ihre gnädige Herrschaft zu gewähren. Sollte ihnen dies nicht
+                    genehm sein, könnten die St. Galler für eine bestimmte Zeit gegen Bürgschaft
+                    oder eine Geldzahlung freigelassen werden.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-64">Gefangener</term>
+                    <term ref="stadtasg-keywords-2">Geleit</term>
+                    <term ref="stadtasg-keywords-20">Bürgschaft</term>
+                    <term ref="stadtasg-keywords-199">Freilassung</term>
+                    <term ref="stadtasg-keywords-30">Zahlung</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+                    <term ref="stadtasg-keywords-279">Herrschaft</term>
+                    <term ref="stadtasg-keywords-538">See</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-523">Vogt, Ammann und Rat zu Bregenz</orgName>
+                    
+                    <date>1445-02-06</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-09</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_188_377.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst zuo vor ersamen und wysen lieben fründ. Alz
+                    <lb n="2"/>ir uns yetz von wegen ettlicher iüwer burger, so uff dem sew mit irem
+                    <lb n="3"/>guot uffgehebt und gen <placeName ref="stadtasg-places-60"
+                    >Pregentz</placeName> gefuert sind, geschriben und under anderm <lb n="4"/>ain
+                gelait von uns begert hand etc., haben wir guottermaß wol verstanden. <lb n="5"/>Und
+                fuegen üch zuowißen, dz iüwer und der iüwern untzherr vast in <lb n="6"/>den dingen
+                geschonet ist worden, dz man och fürbaz gern getan hett. <lb n="7"/>Denn dz darine
+                so groblich brochen und bearlich beschehen ist und <lb n="8"/>zuogangen, damit man
+                nit absin mocht, man mueste darzuo tuon. <lb n="9"/>Aber wie dem allem so woellen
+                wir üch gern ain sicher gelait für unser <lb n="10"/>gnaedig herrschaft zuo
+                <placeName ref="stadtasg-places-60">Pregentz</placeName> uns und alle die iren geben her zuo <lb n="11"
+                />uns und wider von uns untz an iwer gewar. Oder, ob üch dz nit fueglich <lb n="12"
+                />waere, sy üch zuolieb ain gerümpte zit uff erber trostung sich wider <lb n="13"
+                />zue antwurten oder ain sume geltz zue rechts ußgeben. Denn <lb n="14"/>war inn wir
+                iüwer ersamkait geschonen, lieb und dienst bewisen <lb n="15"/>moechten, tatten wir
+                allzit mit willen gern. Datum <origDate when="1445-02-06">sabato post <lb n="16"
+                />Agathe virginis anno etc. XLo quinto</origDate>. <lb n="17"/><orgName ref="stadtasg-actors-523"
+                    role="issuer">Vogt, amman und <lb n="18"/>raett zuo Pregentz</orgName>. <pb
+                    facs="StadtASG_Missive_188_378.JPG" n="2"/>
+                <lb n="19"/>Den ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und <lb n="20"/>raetten zuo Santgallen</orgName> unsern sondern
+                guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

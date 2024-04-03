@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 148</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_148_295/296</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau teilen Bürgermeister und Rat zu St. Gallen auf
+                    deren Anfrage hin mit, dass sich der König laut einem zehn Tage alten Schreiben
+                    von Rösch von Überlingen noch in Frankfurt aufhalte, aber diesem Schreiben nicht
+                    zu entnehmen sei, wann und wohin der König weiterziehen wolle.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-183">König</term>
+                    <term ref="stadtasg-keywords-347">Majestät</term>
+                    <term ref="stadtasg-keywords-43">Reise</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>
+                    
+                    <date>1442-08-18</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-06-03</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_148_295.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst zu vor sonder lieben und guoten fründe. <lb
+                    n="2"/>Alz ir uns denn yetz geschriben und gebetten hant, ob wir ihtzit vernomen
+                    <lb n="3"/>haben, wa unser gnedigister herre der roemisch küng<note><persName ref="stadtasg-actors-49">Friedrich III. von Habsburg-Österreich</persName>.</note> sig, oder wahin
+                er willen <lb n="4"/>habe, üch wissen ze lassen etc., tuond wir üwer guoten
+                früntschafft zu wissende, <lb n="5"/>dz uns erst uff gester von dem <persName
+                    ref="stadtasg-actors-283">Roeschen von Überlingen</persName>, der zu <placeName
+                    ref="stadtasg-places-16">Frankenfurt</placeName>
+                <lb n="6"/>lit, ain schrifft komen, die by zehen tagen geben ist. Daran wir
+                vernemen, <lb n="7"/>wie unser herre der küng noch daselbz ze <placeName
+                    ref="stadtasg-places-16">Frankenfurt</placeName> ligge. Die selb schrifft <lb n="8"/>hat
+                aber nit inn, wenn er dannen ald wahin er sich keren woelle, doch so <lb n="9"
+                />versehen wir uns, man vind in noch in ainer kurtzen zit daselbz. Darnach <lb
+                    n="10"/>mügen ir üch wissen ze richten. Denn in welhen zimlichen sachen wir <lb
+                    n="11"/>üch zu willen werden und getuon künden, dz üch früntlich lieb und dienst
+                    <lb n="12"/>were, darzuo woelten wir sonder zwivels willig sin. Datum <origDate
+                    when="1442-08-18">sabato post assumptionis <lb n="13"/>Marye virginis anno
+                    domini etc. XLIIo</origDate>. <lb n="14"/><orgName ref="stadtasg-actors-511" role="issuer">Burgermaister
+                    und <lb n="15"/>raute zu Lindow</orgName>. <pb
+                    facs="StadtASG_Missive_148_296.JPG" n="2"/>
+                <lb n="16"/>Den ersammen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rate zu
+                        <lb n="17"/>Santgallen</orgName> unsern lieben und guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

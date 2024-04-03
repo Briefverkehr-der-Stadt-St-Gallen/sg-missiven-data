@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 265</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_265_531/532</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau bitten Bürgermeister und Rat zu St. Gallen, zu
+                    ihrer Unterstützung eine Ratsdelegation zu einer Verhandlung am 20. Juni zu
+                    schicken, welche sie in Buchhorn mit Graf Ulrich von Montfort, Herr zu Tettnang,
+                    haben.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-130">Ratsdelegation</term>
+                    <term ref="stadtasg-keywords-37">Verhandlung</term>
+                    <term ref="stadtasg-keywords-70">Termin</term>
+                    <term ref="stadtasg-keywords-278">Graf</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>
+                                        <date>1452-06-13</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-11-15</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>SC</persName>
+                <date>2021-10-20</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_265_531.JPG" n="1" />
+<p>
+<lb n="1" />Unser früntlich willig dienst zuo vor ersammen wysen lieben fründe.
+    <lb n="2" />Wir haben ainen guetlichen unverbunden tag uff <date when="1452-06-20">zinstag nach sant
+    <lb n="3" />Vytz tag nechst</date> künfftig zu frueger tags zite zuo <placeName ref="stadtasg-places-78">Buochorn</placeName> in der statt mit
+    <lb n="4" />dem wolgebornen herren grave <persName ref="stadtasg-actors-266">Uolrichen von Montfort</persName> herre zu <placeName ref="stadtasg-places-93">Tettnang</placeName>
+<lb n="5" />ze suochint, daby wir nun üwer wysen ratsbotschafft vast nottürfftig
+<lb n="6" />sind. Bitten wir üwer wißhait mit ernst vlyssig, ir wellent uns
+<lb n="7" />üwer erber wysen ratzbotschaft zu dem selben guetlichen tag lihen
+    <lb n="8" />und die uff nun <date when="1452-06-19">mentag nechst</date> zu nacht daselben hin gen <placeName ref="stadtasg-places-78">Buochorn</placeName>
+    <lb n="9" />senden, und der bevelhen und ennmornedes an dem <date when="1452-06-20">zinstag</date>, alda
+<lb n="10" />in den dingen dez besten raetlich und underwisig zuo sin, und uns
+<lb n="11" />dz nit verzihen, denn wir uns gentzlich daran verlaussen. Daz woellen
+<lb n="12" />wir in der glich und merern sachen umb üwer wißhait, wa sich das
+    <lb n="13" />haischt, mit willen beschulden und verdienen. Datum <origDate when="1452-06-13">3a ante Viti et
+<lb n="14" />Modesti anno etc. LIIo</origDate>.
+    <lb n="15" /><orgName ref="stadtasg-actors-511" role="issuer">Burgermaister und
+<lb n="16" />raut zu Lindow</orgName>.
+<pb facs="StadtASG_Missive_265_532.JPG" n="2" />
+    <lb n="17" />Den ersammen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raeten zuo
+<lb n="18" />sant Gallen</orgName> unsern sondern lieben und guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

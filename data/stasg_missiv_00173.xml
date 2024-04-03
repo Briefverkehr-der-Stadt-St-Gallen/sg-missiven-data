@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 173</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_173_345/346</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Marquart Brisacher teilt Bürgermeister und Rat zu St. Gallen mit, dass die
+                    Auseinandersetzung zwischen dem St. Galler Bürger Ulrich Engler und Pulsterholz
+                    vor dem Gericht des Bischofs von Konstanz ausgetragen werden sollte, da die
+                    Auseinandersetzung in Bischofszell geschah, und zudem Egli Weber, der dem Abt
+                    von St. Gallen angehört, involviert war. Falls dieser Vorschlag den St. Gallern
+                    nicht zusagt, ist Pulsterholz bereit, vor dem Rat von St. Gallen zu erscheinen,
+                    allerdings unter der Bedingung, dass Egli Weber ebenfalls erscheint. Brisacher
+                    bittet um eine Mitteilung, was den St. Gallern passen würde.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-188">Bischof</term>
+                    <term ref="stadtasg-keywords-216">Bischöfliches Gericht</term>
+                    <term ref="stadtasg-keywords-217">Antwort</term>
+                    <term ref="stadtasg-keywords-201">Abt</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-25">Gericht</term>
+                    <term ref="stadtasg-keywords-193">Gerichtsort</term>
+                    <term ref="stadtasg-keywords-46">Gefangennahme</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-60">Marquart Brisacher, Herr zu Bürglen</persName>
+                    <placeName ref="stadtasg-places-59">Bürglen</placeName>
+                    <date>1444-06-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-07-03</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_173_345.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Ersamen und wisen fursihtigen lieben herren min willig dienst syen uch
+                alzit von mir <lb n="2"/>berait. Uwer schriben mir getan als von uewers burgers
+                    <persName ref="stadtasg-actors-311">Ueli Englers</persName> und <lb n="3"/><persName
+                    ref="stadtasg-actors-312">Pulsterholtz</persName> wegen etc. hab ich wol vernommen und
+                doruff mit dem minen aigentlich verschafft <lb n="4"/>nach üwer begerung, mit dem
+                üwern one recht gantz nichts zutuende haben, dann ich tete <lb n="5"/>mit gantzem
+                willen, das uech und gemainer statt lieb und dienst von mir were wiemer <lb n="6"
+                />ouch die minen. Wiewol nue die sach an ir selbst und der urhab gnueg liederlich
+                ist, <lb n="7"/>uewer wishaiten oder ymands damit zu unmuessigen, so flehet mich
+                doch der min <lb n="8"/>von sins empfangen schadens wegen so empsiclich, im des
+                rechtens zuhelffen, das ich mich <lb n="9"/>nit wol waiß gen im mit glympf mogen
+                zuverantworten, mich der sach zuentslahen <lb n="10"/>und der gantz muessig zugende.
+                Und dorumb lieben herren, wann sich dieselb sachen <lb n="11"/>ergangen haben in
+                mins herren von <placeName ref="stadtasg-places-7">Costentz</placeName><note><persName ref="stadtasg-actors-55">Heinrich IV. von Hewen, Bischof zu Konstanz</persName>.</note> gerichten nahent by
+                    <placeName ref="stadtasg-places-19">Bischoffzell</placeName> und noch <lb n="12"/>ainer
+                zu der sach gehafft ist, genant <persName ref="stadtasg-actors-313">Egli Weber</persName>, der minem
+                gnedigen herren von <placeName ref="stadtasg-places-38">Santgallen</placeName><note><persName ref="stadtasg-actors-83">Kaspar von Landenberg</persName>.</note>
+                <lb n="13"/>stat zuversprechen, also das es nit allain den üwern, sunder sy baid
+                sammentlich beruert, <lb n="14"/>so bitt ich uwer wishaiten mit flisse, den üwern
+                gen dem min zu recht zewisen fur <lb n="15"/>das gericht, darynne ir sach und
+                zwitracht gescheen sind. Were uch aber das nit zu willen <lb n="16"/>und das ir üch
+                solicher sach selbst beladen wollet, so sol der min des fur üwere wisheiten <lb
+                    n="17"/>zu recht kommen, also das der uwer sins gehelffen, des genanten
+                    <persName ref="stadtasg-actors-313">Egli Webers</persName> mechtig syg oder <lb n="18"
+                />werde, mitsampt im dem min vor den selben üwern wishaiten gerecht zuwerden. Und
+                    <lb n="19"/>was üch hierynne am gefelligsten sig oder villiht in ander weg noch
+                billicher beduhe, <lb n="20"/>lassen mich uwer wishaiten ain antwort wissen. Wie und
+                uff welh zit, dem sol der min <lb n="21"/>nachkomen und gnueg tuen. Wann ye ich
+                vermain der minen kainem zugestatten ychts <lb n="22"/>unbillichs gen uewern
+                wishaiten und dhainem den uwern fuerzunemmen, sunder mich also <lb n="23"
+                />zubewisen, dadurch ir erkennen moget, uch und gemainer statt vil lieber
+                zudienende, <lb n="24"/>darzu ir mir alzit habet zugebieten. Geben zu <origPlace
+                    ref="stadtasg-places-59">Bürglen</origPlace> am <origDate when="1444-06-08">montag vor
+                    corporis Christi <lb n="25"/>anno etc. XLIIII</origDate>. <lb n="26"/><persName
+                    ref="stadtasg-actors-60" role="issuer">Marquart Brisacher</persName>
+                <lb n="27"/>zu <placeName ref="stadtasg-places-59">Buerglen</placeName>. <pb
+                    facs="StadtASG_Missive_173_346.JPG" n="2"/>
+                <lb n="28"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burger
+                        <lb break="no" n="29"/>maister und rate zuo Santgallen</orgName>
+                <lb n="30"/>min lieben herren. </p>
+        </body>
+    </text>
+</TEI>

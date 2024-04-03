@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 327</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnte Abschrift ist nicht vorhanden.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_327_659/660</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Konstanz teilen Bürgermeister und Rat zu St. Gallen mit einer diesem Brief eingeschlossenen Abschrift mit, sie hätten von Unruhen im Thurgau gehört. Ein Teil der Unruhestifter komme aus Uttwil und Kesswil, der andere Teil bestehe aus St. Galler Bürgern. Konstanz bittet St. Gallen nun, ihre Bürger zur Ruhe zu bewegen und bittet um eine schriftliche Antwort mit dem gleichen Boten.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-168">Abschrift</term>
+<term ref="stadtasg-keywords-213">Unruhe</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-83">Frieden</term>
+<term ref="stadtasg-keywords-600">Aufruhr</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>                    <date>1456-07-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-01-22</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_327_659.JPG" n="1"/>
+<p>
+<lb n="1"/>Unser fruntlich willig dienst zuo vor ersamen und wisen besundern lieben und
+<lb n="2"/>guten frund. Durch ains gemainen frien willen und das menglich in dem
+<lb n="3"/><placeName ref="stadtasg-places-103">Thurgoew</placeName> dest sichrer gewandern müge, haben wir mit ettlichen unsern
+<lb n="4"/>umbsaeßen, herren und andern, ain lantgeschray, ob iemant den andern uber
+<lb n="5"/>zucken woelte, furgenomen, inmaßen und ir das an diser ingeschlossen
+<lb n="6"/>abgeschrifft vernemen werden. Als wir nu solichs an die von <placeName ref="stadtasg-places-159">Uttwil</placeName> und
+<lb n="7"/><placeName ref="stadtasg-places-137">Kesswil</placeName> bringen laßen haben, der ain tail des willig sin woellen, anders wir
+<lb n="8"/>nit verstanden, so sind ir ain tail, die dann üch und den üwern zuo stand
+<lb n="9"/>und üwer burger sind. Die mainen nu, das in das ane uwer vergunsten
+<lb n="10"/>zuo tuend nicht gepure. Und won uns nu nit zwivelt, dann das
+<lb n="11"/>ir an soelicher bubry, so sich dann bißher in dem <placeName ref="stadtasg-places-103">Thurgow</placeName> mit solichen
+<lb n="12"/>ubergriffen und hin zucken offt gemacht hat, ain sunder missvallen haben
+<lb n="13"/>und zuo friden genaigt sind, so bitten wir uwer lieben guoten früntschafft
+<lb n="14"/>mit besunderm ernst flißig, mit den, so uch und den üwern also zuo stand, zuo
+<lb n="15"/>schaffen in zuo vergunsten und dar inn üwer vermügen zuo tunde,
+<lb n="16"/>damit solichs von in och gehalten werde. Und uch hier inn zuo bewisen,
+<lb n="17"/>als wir dann des und alles guoten ain sunder guot getruwen zuo uch haben,
+<lb n="18"/>das wollen wir mit willen umb uch beschulden und verdienen, wa sich
+<lb n="19"/>das gepueret. Und wir begeren darumb uwer fruntlich verschriben ant
+<lb break="no" n="20"/>wurt by dem botten. Geben uff <origDate when="1456-07-12">mentag vor sant Margarethen tag
+<lb n="21"/>anno domini etc. Lsexto</origDate>.
+<lb n="22"/><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister und
+<lb n="23"/>rate zuo Costentz</orgName>.
+<pb facs="StadtASG_Missive_327_660.JPG" n="2"/>
+<lb n="24"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und
+<lb n="25"/>rate zuo sant Gallen</orgName> unsern besundern lieben
+<lb n="26"/>und guoten frunden.
+</p>
+        </body>
+    </text>
+</TEI>

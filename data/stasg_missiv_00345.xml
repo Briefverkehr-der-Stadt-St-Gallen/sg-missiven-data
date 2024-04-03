@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 345</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Unsichere Datierung. Von der Schrift zweite Hälfte des 15. Jahrhunderts.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_345_695/696</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Altstätten informieren Bürgermeister und Rat zu St. Gallen darüber, dass kürzlich ein Knecht namens Hans Dürr gestorben sei und sechs kleine Kinder hinterlassen habe. Da die Witwe so arm sei und die Kinder noch so klein, dass sie ihre Mutter nicht unterstützen könnten, bittet Altstätten St. Gallen, zwei der Kinder in ihr Spital aufzunehmen, bis diese sich selber ernähren können.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-124">Knecht</term>
+<term ref="stadtasg-keywords-82">Tod</term>
+<term ref="stadtasg-keywords-177">Witwe</term>
+<term ref="stadtasg-keywords-269">Kind</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-354">Spital</term>
+<term ref="stadtasg-keywords-566">Aufnahme</term>
+<term ref="stadtasg-keywords-450">Waise</term>
+<term ref="stadtasg-keywords-461">Armut</term>
+<term ref="stadtasg-keywords-539">Bettel</term>
+<term ref="stadtasg-keywords-154">Ammann</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-67">Ammann und Rat zu Altstätten</orgName>                    <date cert="medium">1450-03</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-01-24</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_345_695.JPG" n="1"/>
+<p>
+<lb n="1"/>Unser undertaenig willig dienst vor lieben herren. Wir lassend üch wissen, das
+<lb n="2"/>ietz kurtzlich ain knecht von todz wegen ab ist gegangen, hiess <persName ref="stadtasg-actors-628">Hans Tuerr</persName> und
+<lb n="3"/>sass <placeName ref="stadtasg-places-211">Hinderm Vorst</placeName> ze <placeName ref="stadtasg-places-210">Baechis</placeName>, der hat sechs klaini kind hinder im gelassen, und
+<lb n="4"/>ist die frow der kind muoter in grosser armuot, won die kind als klain sind, das dehains
+<lb n="5"/>dem andern nütz kan ze guot tuon und sorgend, das si die in dehaine wiß ernerren
+<lb n="6"/>mug, won das unlidiga gebrest die muoter und die kind an gang. Und bittend üch,
+<lb n="7"/>das irs luterlich durch gott tuegend und der kind zway in üwern spital nemend,
+<lb n="8"/>untz das si sich doch betlens oder werchendz began mugend, won uns wol ze wissen
+<lb n="9"/>ist, das es ain grossi notdurfft waer, er ist bi sinem leben ain gulthafta arma kneht
+<lb n="10"/>gesin. Tuond, als wir üch wol getrüwend. Geben an dem <origDate when="1450-03" cert="medium">naechsten Guotemtag vor
+<lb n="11"/>unser lieben frowen tag</origDate>, als ir verkundt ward.
+<lb n="12"/><orgName ref="stadtasg-actors-67" role="issuer">Amman und rat
+<lb n="13"/>ze Altstetten</orgName>.
+<pb facs="StadtASG_Missive_345_696.JPG" n="2"/>
+<lb n="14"/>Den erbern und wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="15"/>maister und rat ze sant Gallen</orgName> unsern
+<lb n="16"/>lieben herren.
+</p>
+        </body>
+    </text>
+</TEI>

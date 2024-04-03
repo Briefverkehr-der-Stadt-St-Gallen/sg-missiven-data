@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 44</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_44_87/88</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Appenzell bitten im Namen ihres Landmanns Walter Koppenhan
+                    senior bei Bürgermeister und Rat zu St. Gallen um Rechtshilfe in einer
+                    Streitsache mit den St. Galler Bürgern Hans Stahel, Egli Kessler und Hans am
+                    Egglin. Die Appenzeller bitten um eine schriftliche Antwort mit dem gleichen
+                    Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-84">Körperverletzung</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-21">Rechtshilfe</term>
+                    <term ref="stadtasg-keywords-104">Landmann</term>
+                    <term ref="stadtasg-keywords-25">Gericht</term>
+                    <term ref="stadtasg-keywords-24">Klage</term>
+                    <term ref="stadtasg-keywords-103">Urteil</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-506">Ammann und Rat zu Appenzell</orgName>
+                    
+                    <date>1431-01-07</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_44_87.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienste lieben und gueten fründ. Uns hat fürbracht
+                    <persName ref="stadtasg-actors-165">Walter Coppenhan <lb n="2"/>der alt</persName>, unser
+                lantman, wie das der
+                <persName ref="stadtasg-actors-588">Staihel</persName><!--Familie Stäheli / Stähelin? Zweig der Blarer, erfasst als Hans Stahel-->,
+                üwer mitburger, für unser gericht kommen <lb n="3"/>sige und bracht da ainen gwaltz
+                brief von den <orgName ref="stadtasg-actors-543">Kesslern</orgName>, üwern mitburgern, und
+                klegt <lb n="4"/>hin zue <persName ref="stadtasg-actors-166">Hans am Egglin</persName>, do er
+                im claignen wolt, do muest er das gericht vertroesten. <lb n="5"/>Also vertroest im
+                    <persName ref="stadtasg-actors-165">Walter Coppenhan</persName> von bett wegen
+                    <persName ref="stadtasg-actors-588">Hansen Staihels</persName>
+                <!--Familie Stäheli / Stähelin? Zweig der Blarer, erfasst als Hans Stahel--> das gericht, was gericht <lb
+                    n="6"/>und urtal gaeb, das der <persName ref="stadtasg-actors-588">Staihel</persName> und die <orgName
+                    ref="stadtasg-actors-543">Kessler</orgName> das hailten soeltint und da by beliben, ietz
+                    <lb n="7"/>und hie nach. Des hat nun <persName ref="stadtasg-actors-167">Egli
+                    Kessler</persName>
+                <persName ref="stadtasg-actors-166">Hansen am Egglin</persName> in üwer statt über löffen und
+                    <lb n="8"/>hat in gestochen und geschlaigen und hat das nüt gehailten. Also hat
+                nun <persName ref="stadtasg-actors-165">Walter Coppen <lb break="no" n="9"/>han</persName> uns
+                gebetten, üch verschriben und ze bittin, im in der sach behulfen und beraten sin,
+                wan <lb n="10"/><persName ref="stadtasg-actors-166">Hans am Egglin</persName> sprengt in an
+                umb den troest. Also wellent wir üch bitten, das ir so wol <lb n="11"/>tuen wellint
+                und dem ietzgenampten <persName ref="stadtasg-actors-165">Walter Coppenhan</persName> sinem
+                troster guetz beschaech und die <lb n="12"/>üwer dar zue wisind, das sy das tuegint.
+                Das wellent wir in soelichen und vil meren sachen <lb n="13"/>umb üch beschulden und
+                gedienen. Üwer verschriben antwurt land uns wissen by dissem <lb n="14"/>botten.
+                Geben am <origDate when="1431-01-07">suntag nach dem zwoelften tag anno domini Mo
+                    CCCCo XXXI</origDate>. <lb n="15"/><orgName ref="stadtasg-actors-506" role="issuer">Amman
+                    und raut <lb n="16"/>zue Appenzelle</orgName>. <pb
+                    facs="StadtASG_Missive_44_88.JPG" n="2"/>
+                <lb n="17"/>Den ersammen wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und rat <lb n="18"/>zue sant Gallen</orgName> unsern lieben und
+                gueten fründen. </p>
+        </body>
+    </text>
+</TEI>

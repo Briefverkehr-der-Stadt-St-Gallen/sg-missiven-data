@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 145</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_145_289/290</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Feldkirch teilen Bürgermeister und Rat zu St. Gallen mit, dass
+                    am Eschnerberg und im Rheintal eine tödliche Viehseuche ausgebrochen ist und
+                    betroffene Tiere möglicherweise nach St. Gallen verkauft wurden. Die Feldkircher
+                    haben ihren Metzgern verboten, Vieh aus dem betroffenen Gebiet zu kaufen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-181">Verbot</term>
+                    <term ref="stadtasg-keywords-146">Metzger</term>
+                    <term ref="stadtasg-keywords-182">Viehseuche</term>
+                    <term ref="stadtasg-keywords-167">Verkauf</term>
+                    <term ref="stadtasg-keywords-95">Warnung</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-27">Eid</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-63">Ammann und Rat zu Feldkirch</orgName>
+                    
+                    <date>1442-07-05</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-06-03</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_145_289.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser willig früntlich dienst allzit vor ersammen wisen lieben guoten
+                fründ. Wir tuond <lb n="2"/>üwer ersame zuo wissen, das an ettlichen enndenn umb
+                uns, namlich am <placeName ref="stadtasg-places-96">Eschnerberg</placeName>
+                <lb n="3"/>und enhalb und dishalb <placeName ref="stadtasg-places-92">Rins</placeName> da
+                selb umb in den refier uff und ab ettwas gebrest <lb n="4"/>under das vih kommen
+                ist, das dz so gaeh und in solicher kurtzer zit ab staet, das des <lb n="5"/>glich
+                in langer zit nit vil me gehoert ist, als wir vernemmen. Daruff wir mit <lb n="6"
+                />unsernn metzgernn geschafft und bi den aidenn verbottenn haben, da selbs und in
+                ainer <lb n="7"/>halben mil dabi oder da ummb dehain vih nit ze koffen, das si in
+                der metzg <lb n="8"/>mainen zuo vertriben. In dem ist uns in guoter warhait
+                angelangt, wie fil <lb n="9"/>vihs an den enndenn verkofft und zuo üch gefuert werd.
+                Umb das sondern lieben <lb n="10"/>guoten fründ wolten wir nit lassen, wir woelten
+                üch das in guoter früntschafft <lb n="11"/>verkündenn als unsern lieben guoten
+                fruenden, das ir üch nach soelichrer gerichten <lb n="12"/>und darinn zu versehenn
+                wissen. Denn wa wir üch in den und andern soelichen <lb n="13"/>sachen, die üch
+                unbekommenlich werent, wisten zuo bewaren, taetten wir <lb n="14"/>zuo mal gernn und
+                werent des willig. Geben am <origDate when="1442-07-05">dornstag nach sant
+                    Uolrichs <lb n="15"/>tag anno etc. XLIIo</origDate>. <lb n="16"/><orgName
+                    ref="stadtasg-actors-63" role="issuer">Ammann und rat <lb n="17"/>zu Veltkirch</orgName>.
+                    <pb facs="StadtASG_Missive_145_290.JPG" n="2"/>
+                <lb n="18"/>Den ersammen wisen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und rat der <lb n="19"/>statt Santgallen</orgName> unsern lieben
+                guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

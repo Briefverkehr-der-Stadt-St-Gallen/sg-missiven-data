@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 38</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_38_75/76</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Buchhorn informieren Bürgermeister und Rat zu
+                    St. Gallen, dass laut ihrem Gredmeister die Witwe von Heinz Fridank, Bürgerin zu
+                    Buchhorn, Eisen des St. Galler Bürgers Heinrich Zwick senior in der Grede
+                    zurückbehalte als Sicherheit für eine Geldschuld Zwicks an Fridank für
+                    Seetransporte. Buchhorn bittet St. Gallen, sich für die Schuldbegleichung
+                    einzusetzen, und bittet um eine schriftliche Antwort.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-77">Metall</term>
+                    <term ref="stadtasg-keywords-78">Eisen</term>
+                    <term ref="stadtasg-keywords-13">Schulden</term>
+                    <term ref="stadtasg-keywords-79">Pfand</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-80">Gredhaus</term>
+                    <term ref="stadtasg-keywords-177">Witwe</term>
+                    <term ref="stadtasg-keywords-365">Transport</term>
+                    <term ref="stadtasg-keywords-538">See</term>
+                    <term ref="stadtasg-keywords-608">Gredmeister</term>
+                    <term ref="stadtasg-keywords-251">Stadtrecht</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-505">Bürgermeister und Rat zu Buchhorn</orgName>
+                    
+                    <date>1427-06-28</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_38_75.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst allzit vor an sundern lieben und guoten
+                fründ. Uns <lb n="2"/>hat fürbracht unser gredmaister, wie <persName ref="stadtasg-actors-159">Haintzen
+                    Fridangs saeligen wib</persName>, unser burgerin, <lb n="3"/>üwerm mitburger
+                <persName ref="stadtasg-actors-160">Hainrichen Zwiken dem alten</persName> insen verhefft hab in unser
+                <placeName ref="stadtasg-places-58">gred</placeName> <lb n="4"/>umb gelt, so denne ir man saelig umb in verdienat hab mit der
+                sewfart. Nuon <lb n="5"/>wolten wir sy das nit laussen angriffen, wir weltint üwer
+                guoten früntschafft <lb n="6"/>das vor verkünden. Bitten wir üch gar früntlich, das
+                ir mit dem selben <lb n="7"/><persName ref="stadtasg-actors-160">Zwikken</persName> schaffen wellint, das er
+                unser burgerin umb ir gelt ußrichte und unklagbaer <lb n="8"/>mache, das wellen wir
+                gar früntlich umb üch verdienen. Waer aber, das er das <lb n="9"/>nit tuon welt, so
+                künden wir nit da vor gesin, wir muesstint ir vergünsten, zuo <lb n="10"/>dem insen
+                ze griffen nach unser statt gewonhait und recht. Und land uns hier <lb n="11"/>umb
+                üwer früntlich verschriben antwurt wissen. Geben an <origDate when="1427-06-28">sant Peters und sant
+                        <lb n="12"/>Pauls aubent anno domini Mo CCCCo XXVIIo</origDate>. <lb n="13"
+                        /><orgName ref="stadtasg-actors-505" role="issuer">Burgermaister und <lb n="14"/>rat zuo Buochhorn</orgName>. <pb
+                    facs="StadtASG_Missive_38_76.JPG" n="2"/>
+                <lb n="15"/>Den fuersichtigen und wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister <lb n="16"/>und
+                    dem rat zuo sant Gallen</orgName> unsern lieben <lb n="17"/>und sundern guoten
+                fründen. </p>
+        </body>
+    </text>
+</TEI>

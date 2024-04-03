@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 149</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_149_297/298</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Konstanz teilen Bürgermeister und Rat zu St. Gallen auf
+                    deren Anfrage hin mit, dass sie von ihren heimkehrenden Ratskollegen vernommen
+                    haben, dass König Friedrich III. am 13. August von Frankfurt nach Friedberg
+                    aufbreche und sich anschliessend an den Rhein nach Worms, Speyer und Strassburg
+                    und in den Breisgau begeben wolle. Ob der König zwischenzeitlich aufgebrochen
+                    sei, wissen sie nicht, sie versprechen aber, die St. Galler zu informieren, wenn
+                    sie etwas erfahren sollten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-183">König</term>
+                    <term ref="stadtasg-keywords-347">Majestät</term>
+                    <term ref="stadtasg-keywords-43">Reise</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>
+                    
+                    <date>1442-08-21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-06-03</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_149_297.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst zuo vor lieben und besundern guoten <lb
+                    n="2"/>fründ. Als ir uns von wegen der zuo kunfft unsers aller gnaedigisten <lb
+                    n="3"/>herren dez roemischen küngs<note><persName ref="stadtasg-actors-49">Friedrich III. von Habsburg-Österreich</persName>.</note> aber geschriben hand, haben wir wol <lb n="4"
+                />verstanden. Laußen wir üwer lieb guot früntschafft wissen, daz uff <lb n="5"
+                />suontag naechst vergangen unser rautzfründ als von dem selben <lb n="6"/>unserm
+                aller gnaedigisten herren dem roemischen küng her haim <lb n="7"/>komen sint, von
+                den wir verstanden haben, wie zuo <placeName ref="stadtasg-places-16">Frankfurt</placeName>
+                <lb n="8"/>gemaini red gewesen sy, daz der selb unser herr der roemisch küng <lb
+                    n="9"/>vor im hett, uff <date when="1442-08-13">maentag vor unser frowen tag
+                    assummptionis och <lb n="10"/>naechst vergangen</date> zuo <placeName
+                    ref="stadtasg-places-16">Frankfurt</placeName> uff zue brechen und gen <placeName
+                    ref="stadtasg-places-109 ">Fridberg</placeName>
+                <lb n="11"/>zuo ziehen und da dannen widerumb an den <placeName ref="stadtasg-places-92"
+                    >Rin</placeName> gen <placeName ref="stadtasg-places-110">Worms</placeName>, <lb n="12"
+                    /><placeName ref="stadtasg-places-111">Spir</placeName>, <placeName ref="stadtasg-places-112"
+                    >Straßburg</placeName> und in daz <placeName ref="stadtasg-places-113"
+                    >Brißgoew</placeName>. Ob er nu also uff die <lb n="13"/>zit uffgebrochen sy
+                oder nit, haben wir kain aigenschafft. Doch <lb n="14"/>ob uns icht warlichs darinn
+                fürvellt oder wir von siner gnaden <lb n="15"/>zuo kunfft icht vernemen, wellen wir
+                üch allweg gern und fürderlich <lb n="16"/>zuo wissen tuon. Dann in welhen sachen
+                wir uch lieb und dienst <lb n="17"/>erzoegen moechten, taeten wir allzit gern und
+                waeren dez willig. <lb n="18"/><origDate when="1442-08-21">Datum 3 ante Bartholomei
+                    apostoli anno etc. XLIIo</origDate>. <lb n="19"/><orgName ref="stadtasg-actors-56"
+                    role="issuer">Burgermaister und <lb n="20"/>raute zuo Costentz</orgName>. <pb
+                    facs="StadtASG_Missive_149_298.JPG" n="2"/>
+                <lb n="21"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raute <lb n="22"/>zuo sant Gallen</orgName> unsern lieben und
+                besundern guoten <lb n="23"/>fründen. </p>
+        </body>
+    </text>
+</TEI>

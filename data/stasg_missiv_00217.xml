@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 217</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note><p>Zur Sache siehe auch die Missive Nr. 218.</p></note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_217_435/436</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Heinrich, Bischof von Konstanz, bittet Bürgermeister und Rat zu St. Gallen, ihn
+                    bei einer Verhandlung am 28. Juli in Lindau mit Rudolf von Underwegen mit einer
+                    Ratsdelegation zu unterstützen. Sie sollen sich am Samstag vor der Verhandlung
+                    im bischöflichen Schloss in Arbon einfinden.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-188">Bischof</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-130">Ratsdelegation</term>
+                    <term ref="stadtasg-keywords-131">Versammlung</term>
+                    <term ref="stadtasg-keywords-37">Verhandlung</term>
+                    <term ref="stadtasg-keywords-149">Rechtstag</term>
+                    <term ref="stadtasg-keywords-540">Schloss</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-55">Heinrich IV. von Hewen, Bischof von Konstanz</persName>
+                    <placeName ref="stadtasg-places-7">Konstanz</placeName>
+                    <date>1449-07-11</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-23</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_217_435.JPG" n="1"/>
+            <p>
+                <lb n="1"/><persName ref="stadtasg-actors-55" role="issuer">Hainrich</persName> von gottes
+                gnaden bischoff zuo <placeName ref="stadtasg-places-7">Costentz</placeName>
+                <lb n="2"/>und verweser des stifftz zuo <placeName ref="stadtasg-places-114">Chure</placeName>.
+                    <lb n="3"/>Unsern früntlichen gruoß zuovor ersamen wisen besundern guoten
+                fründe. Wir habend ainen <lb n="4"/>rechtlichen tag mit <persName ref="stadtasg-actors-360"
+                    >Ruodolffen von Underwegen</persName> vor den von <placeName ref="stadtasg-places-24"
+                    >Lindow</placeName> zuo laisten, namlich uff <lb n="5"/><date when="1449-07-28"
+                    >sonntag zuo nacht nach sant Jacobs tag nechst</date> daselbs zuo <placeName
+                    ref="stadtasg-places-24">Lindow</placeName> zuo sin und uff <date when="1449-07-12"
+                    >morndes <lb n="6"/>mentag</date> zuo fruegem rautzyte zuo den sachen zuo
+                griffen. Und wan wir ain besunder guot <lb n="7"/>getrüwen zuo üch haben, darumb so
+                bitten wir üch mit besunderm flis ernstlich, ir wellend <lb n="8"/>uns üwer erber
+                treffenlich rautzbottschafft uff den beruerten rechttag zuo schyben und der <lb
+                    n="9"/>bevelhen, uns des besten bystendig und berauten, sunder uff <date when="1449-07-27">sambstag zuo
+                nacht davor</date> <lb n="10"/>in unserm <placeName ref="stadtasg-places-30">schloß zuo Arbon</placeName> zuo sin, so wellend wir si durch die unsern uff den <date
+                    when="1449-07-28">vorgenanten <lb n="11"/>sonntag</date> gen <placeName
+                    ref="stadtasg-places-24">Lindow</placeName> und widerumb von dannen gen <placeName
+                    ref="stadtasg-places-5">Arbon</placeName> vertigen. Daran tuond ir uns <lb n="12"
+                />soenlich dangknam dienstlichait, die wir in meren sachen früntlich umb üch
+                beschulden wellen. <lb n="13"/>Geben zuo <origPlace ref="stadtasg-places-7"
+                    >Costentz</origPlace> an <origDate when="1449-07-11">frytag vor sant Margarethen
+                    tag anno domini etc. XLIXno</origDate>. <pb facs="StadtASG_Missive_217_436.JPG"
+                    n="2"/>
+                <lb n="14"/>Den ersamen wysen unsern besundern guoten fründen <lb n="15"/>dem
+                    <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raute zuo sant
+                    Gallen</orgName>. </p>
+        </body>
+    </text>
+</TEI>

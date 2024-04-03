@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 152</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_152_303/304</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann, Rechtsprecher und die gemeinen Hofleute zu Berneck bitten Bürgermeister
+                    und Rat zu St. Gallen um einen Gerichtstag, an dem über Viehdurchtriebsrechte
+                    auf der Wiese von Tudeler entschieden werden soll. Die Bernecker bitten um eine
+                    Antwort.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-149">Rechtstag</term>
+                    <term ref="stadtasg-keywords-189">Vieh</term>
+                    <term ref="stadtasg-keywords-190">Wiese</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-217">Antwort</term>
+                    <term ref="stadtasg-keywords-623">Dorf</term>
+                    <term ref="stadtasg-keywords-103">Urteil</term>
+                    <term ref="stadtasg-keywords-138">Weg</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-519">Ammann, Rechtsprecher und gemeine Hofleute von Berneck</orgName>
+                    <placeName ref="stadtasg-places-18">Berneck</placeName>
+                    <date>1442-12-28</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-06-24</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_152_303.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Den fürsichtigen und wysen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und ratte zuo Santgallen</orgName> unsern <lb n="2"/>gnaedigen
+                und lieben herren enbietten wir der <orgName ref="stadtasg-actors-519" role="issuer">amman, die
+                    rechtsprecher und gemain hofflüt
+                <lb n="3"/>dez dorffs Bernang</orgName> unser willig
+                dienst allzitt vor. Als wir nun naechst vor üch gewesen <lb n="4"/>sind von ettwas
+                spenn und irrung wegen, so wir und der <persName ref="stadtasg-actors-288">Tudeler</persName>
+                mitt ainander gehebt hand, <lb n="5"/>und nun ir aber ainen spruch getan hand, und
+                in dem selben spruch begriffen und beschlossen <lb n="6"/>worden ist, alz wir denn
+                verstanden hand, daz wir dem <persName ref="stadtasg-actors-288">Tudeler</persName> durch sin
+                wys fürbass nitt <lb n="7"/>me triben noch uffbraechen soellent denn mitt recht. Und
+                wenn wir üch dez ermantind und <lb n="8"/>bittind, so wellend ir uns von der wyß und
+                dez wegs wegen alz gen dem <persName ref="stadtasg-actors-288">Tudeler</persName> ainen <lb
+                    n="9"/>gelichen billichen rechtag setzen und an gelich billich stett. Also
+                bitten wir üwer wisshait <lb n="10"/>mit ernst flissig und ermanent üch soelichs,
+                daz ir so wol tuon wellen und uns gen dem <lb n="11"/><persName ref="stadtasg-actors-288"
+                    >Tudeler</persName> von dez handels wegen ainen gelichen billichen rechtag
+                setzent an gelich billich stett <lb n="12"/>und nach verhandlung und gelegenhait der
+                sach, alz wir üch besunder wol getruwent, und <lb n="13"/>in allen mindern und meren
+                sach umb üch begerent zuo verdienen, wonn ir vormals wol <lb n="14"/>verstanden
+                hand, waz rechten wir dem <persName ref="stadtasg-actors-288">Tudeler</persName> von dez wegs
+                wegenn fürgeschlagen und <lb n="15"/>gebotten hand, und och von verhandlung wegen
+                dez <persName ref="stadtasg-actors-288">Tudelers</persName> dez rechten gen <placeName
+                    ref="stadtasg-places-86">Lustenow</placeName>
+                <lb n="16"/>erlaussen und abgesetzt hand, alz durch üwer erkantnust und wysshaitt.
+                Und land <lb n="17"/>uns üwer guetigkayt und mainung unverzogenlich wyssen von dez
+                handels wegen. Geben <lb n="18"/>ze <origPlace ref="stadtasg-places-18">Bernang</origPlace> in <origDate
+                    when="1442-12-28">die innocentium anno domini XLIIIo</origDate>. <lb n="19"
+                    /><orgName ref="stadtasg-actors-519" role="issuer">Ammann und rechtsprecher
+                    <lb n="20"/>und gemain hofflüt ze
+                        Bernang</orgName>. <lb n="21"/>Den fürsichtigen und wysen dem
+                <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und <lb n="22"/>ratte zuo Santgallen</orgName> unsern
+                gnaedigen und getrüwen herrn. </p>
+        </body>
+    </text>
+</TEI>

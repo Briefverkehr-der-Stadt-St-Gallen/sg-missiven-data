@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 76</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_76_151/152</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Schaffhausen bitten Bürgermeister und Rat zu St. Gallen,
+                    sie (St. Gallen) mögen erlauben, dass Hans Barter, der Sohn des Schaffhauser
+                    Bürgers Konrad Barter, zu seiner Mutter nach Schaffhausen ziehen dürfe.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-121">Zustimmung</term>
+                    <term ref="stadtasg-keywords-110">Wohnortswechsel</term>
+                    <term ref="stadtasg-keywords-269">Kind</term>
+                    <term ref="stadtasg-keywords-175">Sohn</term>
+                    <term ref="stadtasg-keywords-585">Mutter</term>
+                    <term ref="stadtasg-keywords-208">Familie</term>
+                    <term ref="stadtasg-keywords-217">Antwort</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-28">Bürgermeister und Rat zu Schaffhausen</orgName>
+                    
+                    <date>1436-02-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-04-16</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_76_151.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst alle zit ste vor insundern lieben und <lb
+                    n="2"/>guotten fründ. Als wir üwer ersam wisshait und guotten früntschafft
+                    <lb n="3"/>vormals ouch geschriben und ernstlich gebetten haben von semliches
+                <lb n="4"/>belangens wegen, so denne die wolbeschaiden <persName ref="stadtasg-actors-161">Cuonrat
+                    Barters</persName>, unsers <lb n="5"/>burgers eliche wirtinne, als von
+                muoterlicher trüwe zuo iren kinden <lb n="6"/>haut den selben kinden zuo begünsten
+                her gen <placeName ref="stadtasg-places-185">Schaffhusen</placeName> zuo iro muotter <lb n="7"/>zuo komen, daz
+                aber nach üwer anttwurt do zuo mal nit sin mocht, won <lb n="8"/>haut sy semlich
+                ernstlich belangen nach dem <persName ref="stadtasg-actors-200">Henslin</persName>, irem sun, wie <lb n="9"
+                />sy den uff diss zit insunder als am hoff by uns sin sol, als ir villich <lb n="10"
+                />ouch vernomen hand, zuo mal gerne by ir haben und senhen woelt, umb <lb n="11"/>daz
+                der knab ouch dester mer und ouch sy mit im froeden uff <date when="1436-02-21">diss <lb n="12"
+                    />vasnacht</date> by und mitainander haben moechten. Herumb lieben und <lb
+                    n="13"/>guoten fründ bitten wir üch mit allem ernste vlissig umb willen <lb
+                    n="14"/>unser dienst, ir woellen die lieben frowen mit irem sun erfroewen <lb
+                    n="15"/>und den mit guottem willen zuo ir früntlich, als daz kind zuo siner <lb
+                    n="16"/>muotter komen laussen und ir und uns daz nit verzihen, denne uns <lb
+                    n="17"/>darinne eren, als sy und wir üch des und alles guotten wol getrüwen.
+                    <lb n="18"/>Daz begert die muotter insunder und ouch wir mit gantzem willen, <lb
+                    n="19"/>umb üch in vast merern und mindern sachen willenclich zuo ge <lb
+                    break="no" n="20"/>dienen und zuo beschulden, ob es sich iemer gebürt. Geben
+                uff <origDate when="1436-02-04">samstag <lb n="21"/>nach der liechttmisß anno etc.
+                    XXX sexto</origDate>. <lb n="22"/><orgName ref="stadtasg-actors-28" role="issuer">Burgermeister und raut
+                        <lb n="23"/>zuo Schaffhusen</orgName>. <pb
+                    facs="StadtASG_Missive_76_152.JPG" n="2"/>
+                <lb n="24"/>Den ersamen wysen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raut
+                    zuo <lb n="25"/>sant Gallen</orgName> unsern insundern lieben und guoten fründ.
+            </p>
+        </body>
+    </text>
+</TEI>

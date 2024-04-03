@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 155</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_155_309/310</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Konstanz teilen Bürgermeister und Rat zu St. Gallen mit,
+                    dass sie sich bei den Vögten des Landgerichts dafür einsetzen, dass die
+                    Verhandlungen über mehrere St. Galler Bürger nicht geführt würden, bevor sie
+                    sich miteinander ausgetauscht hätten. Ein Aufschub gilt auch für eine Frau
+                    namens Tannermann.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-149">Rechtstag</term>
+                    <term ref="stadtasg-keywords-37">Verhandlung</term>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+                    <term ref="stadtasg-keywords-94">Landgericht</term>
+                    <term ref="stadtasg-keywords-25">Gericht</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>
+                    
+                    <date>1443-03-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-06-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_155_309.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser willig früntlich dienst zu vor besunder lieben und guten <lb n="2"
+                />fründ. Als ir uns von ettlicher der üwern wegen, so dann unser <lb n="3"/>voegt
+                mit lantgericht fürgenomen hand, geschriben hand, <lb n="4"/>haben wir wol
+                verstanden. Also üch zuo lieb haben wir mit unsern <lb n="5"/>voegten geredt, die
+                sach nu zuo mal an zuo stand zuo laußen, <lb n="6"/>untz das wir füro mit üch oder
+                üwern rautzfründ dar von <lb n="7"/>gereden mügen, als sich dann gepüren wirdet. Von
+                der <persName ref="stadtasg-actors-293">Tanner <lb break="no" n="8"/>maeninen</persName>
+                wegenn, die sait uns nüt zuo versprechent, doch <lb n="9"/>wellen wir nach üwer
+                beger unser vermügen darinn tuon. Ob <lb n="10"/>wir aber an ir nicht erholen
+                moechten, so wellen wir uns doh <lb n="11"/>diß naechsten gerichtes ains uffschlags
+                darinn vermegen biß <lb n="12"/>zem naechsten gericht darnach. Dann in welhen sachen
+                    <lb n="13"/>wir üch lieb und dienst erzaigen moechten, taeten wir gern. <lb
+                    n="14"/>Datum <origDate when="1443-03-08">VIII martzy anno etc.
+                        XLIIIo</origDate>. <lb n="15"/><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister und <lb
+                        n="16"/>raute zuo Costentz</orgName>. <pb
+                    facs="StadtASG_Missive_155_310.JPG" n="2"/>
+                <lb n="17"/>Den ersammen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raute
+                        <lb n="18"/>zuo sant Gallen</orgName> unsern lieben und besundern <lb n="19"
+                />guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

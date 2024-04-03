@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 29</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_29_57/58</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Konstanz bitten Bürgermeister und Rat zu St. Gallen, die
+                    Verhandlung zwischen Hans Weninger, Bürger zu St. Gallen, und Peter Ruprecht,
+                    Bürger zu Konstanz, zu verschieben, weil Ruprecht eine Antwort aus Rom abwarten
+                    wolle und auch der Bürgermeister am fixierten Termin abwesend sein werde.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-60">Schiedsgericht</term>
+                    <term ref="stadtasg-keywords-61">Terminverschiebung</term>
+                    <term ref="stadtasg-keywords-70">Termin</term>
+                    <term ref="stadtasg-keywords-37">Verhandlung</term>
+                    <term ref="stadtasg-keywords-217">Antwort</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>
+                    
+                    <date>1426-09-23</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS</persName>
+                <date>2018-11-12</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_29_57.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst vor an lieben guoten fründ. Als ir uns von
+                der sach wegen entzwischent <lb n="2"/><persName ref="stadtasg-actors-149">Hansen
+                    Weninger</persName>, üwerm burger, und <persName ref="stadtasg-actors-150">Petern
+                    Ruopreht</persName>, unserm burger, geschriben hand, als von ains <lb n="3"
+                />früntlichen tags wegen, laussen wir üwer früntschafft wissen, das wir das an den
+                selben unsern <lb n="4"/>burger braht hand, der antwurt und maynnt, das er zuo disen
+                ziiten umb die sach nit tag gelaisten künne, <lb n="5"/>won er ettwas bottschafft
+                gen <placeName ref="stadtasg-places-55">Rom</placeName> getan habe, er welle aber die sach
+                gern anstan laussen iedermans rechten <lb n="6"/>unschaedlich, untz im bottschafft
+                von <placeName ref="stadtasg-places-55">Rom</placeName> kome, wenn das beschaehe, so welle er
+                gern tag laisten und zuo den <lb n="7"/>sachen früntlich laussen reden. So ist och
+                uff diser ziit unser burgermaister och nit anhaimsch, darzuo so <lb n="8"/>ist es
+                och ietzo in ainer unmmuoß von des herbsts wegen. Also bitten wir üwer früntschafft,
+                das also <lb n="9"/>im besten ze vernemende, won was wir in den und andern sachen
+                getuon künden, das üch lieb und dienst <lb n="10"/>were, woelten wir gern tuon.
+                Geben an <origDate when="1426-09-23">mentag nach Mathei apostoli anno etc. CCCCo XXVIo</origDate>. <lb
+                    n="11"/><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister und <lb n="12"
+                    />raet ze Costentz</orgName>. <pb facs="StadtASG_Missive_29_58.JPG" n="2"/>
+                <lb n="13"/>Den ersamen wisen den <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raeten <lb n="14"/>ze sant Gallen</orgName> unsren lieben
+                guoten fründen.</p>
+        </body>
+    </text>
+</TEI>

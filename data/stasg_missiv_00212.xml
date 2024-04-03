@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 212</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_212_425/426</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Heinrich Payer bittet seinen Schwager, den St. Galler Bürgermeister Heinrich
+                    Zwick, ihm Geld zu leihen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-127">Geld</term>
+                    <term ref="stadtasg-keywords-69">Leihe</term>
+                    <term ref="stadtasg-keywords-525">Gulden</term>
+                    <term ref="stadtasg-keywords-265">Quittung</term>
+                    <term ref="stadtasg-keywords-10">Zins</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-70">Heinrich Payer</persName>
+                    <placeName ref="stadtasg-places-7">Konstanz</placeName>
+                    <date>1448-10-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-71">Heinrich Zwick (II)</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-23</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_212_425.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min früntlich villig villig dinst lieber her. Mir sind XX <lb n="2"
+                />guldin zins verfallen uf pfinsten, also hat ich dem <persName ref="stadtasg-actors-353"
+                    >Sutter</persName> an quit <lb n="3"/>briefly geben umb die selben XX guldin.
+                Nun ist mir kain antwrt <lb n="4"/>vorden von im, den dz ich uich do ze mal bitten
+                soelt. Also ist mir ietz <lb n="5"/>uf <date when="1448-09-14">Cruzzis</date> och XX
+                guldin verfallen, dz wert XXXX guldin. Lieber <lb n="6"/>her da duend so vol und
+                schikend mir dz gelt, von ich sin zuo not <lb n="7"/>bedarff, von ich hab me den XXX
+                <abbr>fl.</abbr> enthlechnot und vill mir nüt me <lb n="8"/>lichen und des ess nit als not, ich
+                het es lenger lassen ston. Dar umb <lb n="9"/>hand ess nit veruibell. Geben ze
+                <origPlace ref="stadtasg-places-7">Costentz</origPlace> uf <origDate when="1448-10-01">zinstag nach
+                    Michahely</origDate>
+                <lb n="10"/>1448. <lb n="11"/><persName ref="stadtasg-actors-70" role="issuer">Hainrich von
+                Paiger</persName>. <pb facs="StadtASG_Missive_212_426.JPG" n="2"/>
+                <lb n="12"/>Dem fürsichtigen und vissen <persName ref="stadtasg-actors-71" role="recipient">Hainrichen <lb
+                        n="13"/>Zuiken</persName> burgermaister ze sant Gallen, <lb n="14"/>minem
+                lieben schwager. </p>
+        </body>
+    </text>
+</TEI>

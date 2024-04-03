@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 111</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_111_221/222</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau teilen Bürgermeister und Rat zu St. Gallen mit,
+                    dass sie das von St. Gallen erbetene, an Friedrich von Brandenburg und dessen
+                    Landrichter zu Nürnberg Wilhelm von Hohenrechberg gerichtete Schreiben zugunsten
+                    des St. Galler Bürgers Hans Mötteli, der von Hans Arnold vor das Landgericht
+                    Nürnberg gezogen worden sei, ausstellen würden. Wenn der Bote in Lindau
+                    vorbeikomme, sei der Brief fertig und könne von ihm mitgenommen werden.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-94">Landgericht</term>
+                    <term ref="stadtasg-keywords-204">Richter</term>
+                    <term ref="stadtasg-keywords-153">Korrespondenz</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-409">Markgraf</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>
+                    
+                    <date>1438-09-17</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>cs/dg</persName>
+                <date>2019-03-04</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_111_221.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst zuo vor ersammen wysen sonder lieben <lb
+                    n="2"/>und guoten fründe. In maß ir uns yetz von üwers burgers <persName
+                    ref="stadtasg-actors-232">Hannsen <lb n="3"/>Moettellis</persName> wegen geschriben hant,
+                wie dz ainer genannt <persName ref="stadtasg-actors-239">Hanns Arnolt</persName>
+                <lb n="4"/>üwern burger mit dem lantgericht dez burgrafftuombs zu <placeName
+                    ref="stadtasg-places-21">Nuerren <lb break="no" n="5"/>burg</placeName> fürgenomen und
+                dahin gelat habe, und uns pittende sint, dem <lb n="6"/>durchlüchtigen marggraeff
+                    <persName ref="stadtasg-actors-240">Fridrichen von Brandenburg</persName>, och herr <lb
+                        n="7"/><persName ref="stadtasg-actors-241">Wilhelmen von Hochenrechperg</persName>, sinem lantrichter ze
+                    <placeName ref="stadtasg-places-21">Nuerrenberg</placeName>, <lb n="8"/>von dez üwern
+                wegen ze schriben uff die mainung, alz ir uns <lb n="9"/>geschriben hant, haben wir
+                wol verstanden und laussent üwer <lb n="10"/>lieb wissen, dz wir soelich schriben
+                von dez üwern wegen durch <lb n="11"/>üwer lieb willen gern tuon woellen. Und wenn
+                der pott hinab will <lb n="12"/>und her in unser statt kompt, so soellen die brief
+                schon gemacht <lb n="13"/>sin, und dz er uff stuck gevertget wirt, alz bald er
+                kompt. Darnach <lb n="14"/>wissen üch ze richten, denn inwelhen sachen wir üch ze
+                willen <lb n="15"/>werden moechten und och getuon künden, dz üch und den üwern lieb
+                    <lb n="16"/>und dienst were, woelten wir allzit gern tuon und willig sin, alz
+                    <lb n="17"/>wol billich ist. Datum <origDate when="1438-09-17">quarta post
+                    exaltationem sancte crucis anno etc. XXXVIIIto</origDate>. <lb n="18"/><orgName
+                    ref="stadtasg-actors-511" role="issuer">Burgermaister und <lb n="19"/>rauts zu
+                    Lindow</orgName>. <pb facs="StadtASG_Missive_111_222.JPG" n="2"/>
+                <lb n="20"/>Den ersammen und wysen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raute <lb n="21"/>zuo Santgallen</orgName> unsern sondern
+                lieben und guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

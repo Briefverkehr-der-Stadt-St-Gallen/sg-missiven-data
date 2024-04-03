@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 177 Beilage 1</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. 177.</p></note></notesStmt>
+            <sourceDesc>
+                <msDesc type="supplement">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_177_355/356</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau informieren Bürgermeister und Rat zu St. Gallen,
+                    dass auf dem Bodensee ein Schiff mit Kriegsknechten unterwegs sei, dessen Ziel
+                    ihnen aber nicht bekannt ist. In einem beiliegenden Schreiben bitten
+                    Bürgermeister und Rat zu Lindau darum, dass sie informiert werden, sobald
+                    Bürgermeister und Rat zu St. Gallen etwas Neues von den französischen und
+                    welschen Leuten (Armagnaken) erfahren, die im Klettgau umherziehen und den
+                    Eidgenossen eine Niederlage beigebracht haben.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-223">Fremde</term>
+                    <term ref="stadtasg-keywords-224">Schiff</term>
+                    <term ref="stadtasg-keywords-225">Kriegsgefahr</term>
+                    <term ref="stadtasg-keywords-226">Armagnake</term>
+                    <term ref="stadtasg-keywords-227">Niederlage</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>
+                    
+                    <date>1444-09-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-07-08</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_177_355.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Den ersammen wysen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raetten zu <lb n="2"/>Santgallen</orgName> unsern sondern
+                lieben und guoten fründen. 
+                <lb n="3"/>Lieben fründe. Alz denn die francoesisen und waelschen lüt im <lb n="18"
+                    /><placeName ref="stadtasg-places-130">Cleggoew</placeName> und anderswa maechticlich in
+                dz land komen sint und sich <lb n="19"/>taeglichs, alz wir vernemen, sterkent, und
+                och unser guot fründe <lb n="4"/>die aidgnosen
+                laider swarlich nider geleit haben, bittent wir <lb n="5"/>üwer guoten früntschafft
+                mit ernst vlißig, ob ir ihtz gewisses <lb n="6"/>davon vernomen haben ald noch
+                hinfür vernemen werdent, dz ir <lb n="7"/>uns denn dz yetz und hienach allweg uff
+                unser costung verschriben <lb n="8"/>wissen. Dz begern wir mit willen umm üch ze
+                beschulden und <lb n="9"/>ze verdienen. Datum ut in littera. <lb n="10"
+                /><orgName ref="stadtasg-actors-511">Magister civium et consules <lb n="11"/>oppidi
+                    Lindagensis</orgName>. <pb facs="StadtASG_Missive_177_356.JPG" n="2"/>
+            </p>
+        </body>
+    </text>
+</TEI>

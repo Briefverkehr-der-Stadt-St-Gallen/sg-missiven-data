@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 219</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_219_439/440</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Friedrich, Römischer König und Herzog von Österreich, informiert Bürgermeister
+                    und Rat zu St. Gallen darüber, dass er seine Reise nach Rom, an der auch
+                    St. Galler teilnehmen würden, habe verschieben müssen. Der Grund dafür ist eine
+                    Seuche, weshalb der Papst nicht in Rom weile. Der König teilt den St. Gallern
+                    mit, dass er sie informierem werde, wann er nach Rom aufbrechen werde.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-43">Reise</term>
+                    <term ref="stadtasg-keywords-268">Seuche</term>
+                    <term ref="stadtasg-keywords-347">Majestät</term>
+                    <term ref="stadtasg-keywords-183">König</term>
+                    <term ref="stadtasg-keywords-277">Herzog</term>
+                    <term ref="stadtasg-keywords-372">Papst</term>
+                    <term ref="stadtasg-keywords-214">Krieg</term>
+                    <term ref="stadtasg-keywords-405">Reich</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-49">Friedrich III. von Habsburg-Österreich</persName>
+                    <placeName ref="stadtasg-places-26">Wiener Neustadt</placeName>
+                    <date>1449-11-03</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-23</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_219_439.JPG" n="1"/>
+            <p>
+                <lb n="1"/><persName ref="stadtasg-actors-49" role="issuer">Fridreich</persName> von gotes
+                gnaden römischer kunig zuo allen tzeiten <lb n="2"/>merer des <orgName ref="stadtasg-actors-559">Reichs</orgName>, hertzog zu
+                    <placeName ref="stadtasg-places-91">Österreich</placeName> und zu <placeName
+                    ref="stadtasg-places-94">Steir</placeName> etc. <lb n="3"/>Lieben getrewn. Als ir uns
+                yetz auf unser schreiben, so wir ew von unserr rais wegen gen <placeName
+                    ref="stadtasg-places-55">Rom</placeName>
+                <lb n="4"/>haben getan, geschriben habt, darinn ir ew verwilligt, die ewrn zu sölher
+                rais mit uns also ze <lb break="no" n="5"/>schicken, haben wir vernomen und kümt uns
+                dieselb ewr verwilligung und guoter will zu <lb n="6"/>sunderm dannck und
+                wolgevallen, und lassen ew wissen, daz sich die bemelt unser rais von des <lb n="7"
+                />sterbens wegen, so yetz im welschen lannden ist, darumb dann unser heiliger vater
+                der <persName ref="stadtasg-actors-361">pabst</persName>
+                <lb n="8"/>nützemal nicht ze <placeName ref="stadtasg-places-55">Rom</placeName> wonet, auch
+                der krieg, so in obern lannden sind, nach ain tzeit verztichen <lb n="9"/>wirdet, so
+                wir aber die volpringen mainen, das wellen wir ew verkünden, damit ir ew darnach <lb
+                    n="10"/>wisset zerichten. Begerend an ew mit fleizz, daz ir dieweil die ewrn
+                ordnet und schicket, die <lb n="11"/>obbernerten rais alsdann mit uns zezichen in
+                massen, als wir ew vormals geschriben haben <lb n="12"/>und ir ew des gen uns habt
+                verwilligt. Das wellen wir mit sundern gnaden gen ew erkennen. <lb n="13"/>Geben zu
+                der <origPlace ref="stadtasg-places-26">Newnstat</origPlace> an <origDate when="1449-11-03"
+                    >montag nach allerheiligen tag anno domini etc. XLVIIII, unsers <lb n="14"
+                    />Reichs im zehenten iare</origDate>. <lb n="15"/>Commissio domini regis
+                propria. <pb facs="StadtASG_Missive_219_440.JPG" n="2"/>
+                <lb n="16"/>Dem <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rat zu
+                    sannd Gallen</orgName>
+                <lb n="17"/>unsern und des <orgName ref="stadtasg-actors-559">Reichs</orgName> lieben getrewen. </p>
+        </body>
+    </text>
+</TEI>

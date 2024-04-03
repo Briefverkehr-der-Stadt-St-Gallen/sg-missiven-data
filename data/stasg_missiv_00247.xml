@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 247</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_247_495/496</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die Städte des Schwäbischen Städtebundes bitten Bürgermeister und Rat zu St.
+                    Gallen, dass sie eine Ratsdelegation zur Unterstützung der Städte am 12. Oktober
+                    zu einer Verhandlung nach Diessenhofen schicken, zu welcher Herzog Albrecht von
+                    Österreich die Städte Schaffhausen und Rottweil geladen habe.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-130">Ratsdelegation</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-37">Verhandlung</term>
+                    <term ref="stadtasg-keywords-117">Schwäbischer Städtebund</term>
+                    <term ref="stadtasg-keywords-277">Herzog</term>
+                    <term ref="stadtasg-keywords-275">Fürst</term>
+                    <term ref="stadtasg-keywords-126">Reichsstadt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-531">Städte des Schwäbischen Städtebundes</orgName>
+                    <date>1451-10-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg und SC</persName>
+                <date>2022-03-07</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_247_495.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst voran ersamen und weisen lieben fründ. Wir
+                fügen uwer <lb n="2"/>wyshait zu wissen, das uwern und unsern guoten fründen
+                    <orgName ref="stadtasg-actors-28">den von Schauffhusen</orgName> und <lb n="3"/><orgName
+                    ref="stadtasg-actors-512">Rotwyl</orgName> gen dem durchluchttigen hochgebornen fürsten
+                unserm gnadigen heren hertzog <persName ref="stadtasg-actors-64">Albrechten <lb n="4"/>von
+                    Osterrich</persName> ain gütlicher tag gen <placeName ref="stadtasg-places-23"
+                    >Diessenhoven</placeName> gesetzzet und verkundet ist uff den <date
+                    when="1451-10-12">zinstag <lb n="5"/>vor sant Gallen tag</date> zu nechst zu
+                nacht da zu sein. Wann uns nu solichs erst verkundt ist, <lb n="6"/>wir hetten uch
+                sunst ee geschriben und gebetten, und darumb so bitten wir uwer <lb n="7"/>wyshait
+                mit ernst vlissig, das ir umb unsern willen den vorgenanten unsern fründen <lb n="8"
+                />von <orgName ref="stadtasg-actors-28">Schauffhusen</orgName> und <orgName ref="stadtasg-actors-512"
+                    >Rotwyl</orgName> uwer erber wyse treffenliche botschafft uwers rauts, <lb n="9"
+                />dann sy wyser lüte daruff notturfftig sind, uff den vorgenanten tag gen <placeName
+                    ref="stadtasg-places-23">Diessenhoven</placeName> lihent <lb n="10"/>und zu schicken und
+                der empfelhen wollent in des besten daruff furderlich und berauten <lb n="11"/>zu
+                sein, und uns das nicht verzyhen, als wir uwer ersamkait das wol getruwen sy <lb
+                    n="12"/>sich och gentzlich daran verlassen. Das wöllen wir mit willen umb uwer
+                wyshait <lb n="13"/>gern verdienen. Datum uff <origDate when="1451-10-08">frytag
+                    nach Francisci</origDate> von unser aller wegen under <lb n="14"/>der von
+                    <placeName ref="stadtasg-places-28">Ulm</placeName> insigel <origDate when="1451-10-08"
+                    >anno etc. Lprimo</origDate>. <lb n="15"/>gemain <orgName ref="stadtasg-actors-531" role="issuer"
+                    >richstette der <lb n="16"/>verainung in Swaben</orgName>. <pb
+                    facs="StadtASG_Missive_247_496.JPG" n="2"/>
+                <lb n="17"/>Den ersamen und weisen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister <lb n="18"/>und raute der stat sant Gallen</orgName>
+                <lb n="19"/>unsern besundern guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

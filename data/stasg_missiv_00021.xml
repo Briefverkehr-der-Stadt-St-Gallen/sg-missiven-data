@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 21</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_21_41/42</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich teilen Bürgermeister und Rat zu St. Gallen mit,
+                    dass sie auch im Namen von St. Gallen mit Herzog Reinold von Urslingen und Graf
+                    Eitel Fritz von Hohenzollern, mit dem sie und die mit ihnen verbündeten
+                    Eidgenossen in Feindschaft stehen wegen Hans Gruber, und auch wegen Konrad,
+                    Rudolf und Ulrich Brotbeck, Gebrüder aus Niederneunforn, sowie wegen Kaspar
+                    Meyer von Baden, einen Waffenstillstand bis zum 11. November abgeschlossen
+                    hätten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-47">Waffenstillstand</term>
+                    <term ref="stadtasg-keywords-48">Feindschaft</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-278">Graf</term>
+                    <term ref="stadtasg-keywords-277">Herzog</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>
+                    
+                    <date>1425-04-21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-01-21</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-05-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_21_41.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst und was wir guotes vermugen sie üch alle
+                zit vor geseit. <lb n="2"/>Lieben guoten fründ, wir tuon üwer früntschaft ze
+                wissen, wie das wir mit den <lb n="3"/>edeln herren hertzog <persName
+                    ref="stadtasg-actors-138">Reinoltin von Ürslingen</persName>, graf <persName
+                    ref="stadtasg-actors-139">Itel Fritzen von Zolr</persName>, <lb n="4"/>die uns, unser
+                eidgnossen, ouch uns und alle, die zuo uns gehoerent, in krieg <lb n="5"/>und
+                vyentschaft hand von <persName ref="stadtasg-actors-140">Hansen Gruobers</persName> wegen,
+                ouch mit <persName ref="stadtasg-actors-141">Cuonrat</persName>, <lb n="6"/><persName
+                    ref="stadtasg-actors-142">Ruedin</persName> und <persName ref="stadtasg-actors-143">Uelin</persName>
+                dien <orgName ref="stadtasg-actors-540">Brotbeken</orgName>, gebruodern von <placeName ref="stadtasg-places-52">Nidern
+                    Nüfern</placeName>, und mit <persName ref="stadtasg-actors-144"><lb n="7"/>Casper
+                    Meyern</persName> von <placeName ref="stadtasg-places-53">Baden</placeName>, die uns ouch
+                in vyentschaft hand, ein friden uf <lb break="no" n="8"/>genomen haben ze halten,
+                mit inen, mit allen den iren, iren helffern, helffers <lb break="no" n="9"/>helffer
+                und mit denen, so von iren wegen ze der sach gehaft und verdacht <lb n="10"/>sint
+                untz uff <date when="1425-11-11">sant Martis tag</date> nechst kunt und den tag
+                allen. Der selb <lb n="11"/>friden ouch angan sol uff ietz <date when="1425-04-23"
+                    >sant Goeryen tag</date> nechst kunt. Haben ouch <lb n="12"/>wir den friden mit
+                inen also ufgenomen für alle unser eidgnossen, für üch, <lb n="13"/>für uns
+                selb, für alle die unsern und für die zuo uns allen gehoerent und <lb n="14"/>für
+                unser aller helffer und helffershelffer, nach dem und dz dann die <lb n="15"
+                />fridbrief beider sit darumb geben und besigelt inne haltend und uswisent. <lb
+                    n="16"/>Darnach sol sich üwer früntschaft wissen ze richten, won wz wir üch
+                und den <lb n="17"/>üwern ze lieb getuon koenden, taetten wir gern. Geben an
+                    <origDate when="1425-04-21">samstag vor sant <lb n="18"/>Goeryen tag anno domini
+                    Mo CCCCmo XXVto</origDate>. <orgName ref="stadtasg-actors-503" role="issuer"><lb n="19"
+                    />Burgermeister und rat <lb n="20"/>der statt Zürich</orgName>. <pb
+                    facs="StadtASG_Missive_21_42.JPG" n="2"/>
+                <lb n="21"/>Den fürsichtigen wisen unsern guoten fründen dem <lb n="22"/><orgName
+                    ref="stadtasg-actors-148" role="recipient">burgermeister und dem rat ze sant <lb n="23"
+                    />Gallen</orgName>. </p>
+        </body>
+    </text>
+</TEI>

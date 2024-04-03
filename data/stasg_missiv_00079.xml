@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 79</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_79_157/158</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau bitten Bürgermeister und Rat zu St. Gallen, mit
+                    Eberhard Brisig und dessen Schererknecht zu sprechen, damit Letzterer, der sich
+                    verpflichtet habe, bei Meister Martin Dorn, Ratsmitglied zu Lindau, zu arbeiten,
+                    seine Stelle in Lindau endlich antreten könne. Sie bitten um schriftliche
+                    Antwort.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-124">Knecht</term>
+                    <term ref="stadtasg-keywords-125">Arbeit</term>
+                    <term ref="stadtasg-keywords-359">Meister</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>
+                    
+                    <date>1436-07-14</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-04-16</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_79_157.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst vor ersamen wysen sonder lieben <lb n="2"
+                />und guoten fründe. Uns hat fürbracht maister <persName ref="stadtasg-actors-203">Marti
+                    Dorn</persName>, unser <lb n="3"/>ratsgesell, wie dz vor <date when="1436-06-24"
+                    >sant Johanns tag nechst vergangen</date> ain scherer <lb break="no" n="4"
+                />knecht, der yetzmal by <persName ref="stadtasg-actors-204">Eberlin Brißing</persName> sige,
+                zuo im in sin hus keme <lb n="5"/>und in baete, dz er in zuo im neme und gedingte,
+                dz er och do <lb n="6"/>durch sin und ander erber lüte, die er darumb an in
+                schikte, taete <lb n="7"/>und verhiesse im och do mit siner trüw, dz er uff <date
+                    when="1436-06-24">sant Johanns tag</date> zu <lb n="8"/>im komen welte daby und
+                mit erber lüt weren, dz er aber noch nit <lb n="9"/>getan hab, und habe im und dem
+                vorgenanten <persName ref="stadtasg-actors-204">Eberlin Brißing</persName> sidher <lb n="10"
+                />offt und dik empotten und sy gepetten, dz der knecht keme und sim <lb n="11"
+                />gehaiss gnuog taeti, dz er aber allez verachtet und dem noch nit nach <lb
+                    break="no" n="12"/>komen syge, dz in doch unbillich neme. Und hierumb lieben
+                fründe <lb n="13"/>so bitten wir üwer guoten früntschafft mit ernst flißig, ir
+                wellen <lb n="14"/>mit dem selben knecht und och mit <persName ref="stadtasg-actors-204"
+                    >Eberlin Brißing</persName> umb unsern willen <lb n="15"/>sovil reden und
+                schaffen, dz er unverzogenlich zuo dem unsern kom und sim <lb n="16"/>gehaiss gnuog
+                sye, und dz in och sin maister nit füro by im halte, <lb n="17"/>biß uff die zit,
+                dz sich mit reht erfind, ob er oder der unser in halten <lb n="18"/>soelle, denn
+                sich der unser an in verlassen und im zuogewartet und <lb n="19"/>nach kaim andern
+                gestellet hat. Und tuond hierinne, alz wir üch <lb n="20"/>sonder wol getrüwen, dz
+                begern wir mit willen umb üch ze <lb n="21"/>beschulden und ze verdienen. Und
+                lassent uns hierumb üwer guetlich <lb n="22"/>verschriben antwurt mit dem potten
+                wider wissen. Datum <origDate when="1436-07-14">sabbato ante <lb n="23"/>Margrete
+                    virginis anno etc. XXXVIto</origDate>. <lb n="24"/><orgName ref="stadtasg-actors-511" role="issuer"
+                    >Burgermaister und <lb n="25"/>raute zu Lindow</orgName>. <pb
+                    facs="StadtASG_Missive_79_158.JPG" n="2"/>
+                <lb n="26"/>Den ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raeten zuo
+                        <lb n="27"/>sant Gallen</orgName> unsern sondern lieben und guoten fründen.
+            </p>
+        </body>
+    </text>
+</TEI>

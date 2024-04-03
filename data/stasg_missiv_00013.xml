@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 13</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_13_25/26</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>König Sigismund schreibt an Bürgermeister und Rat zu St. Gallen, dass sie den
+                    Ausführungen seiner Räte Brunoro della Scala, Vikar in Verona und Vicenza,
+                    Wilhelm, Graf von Prata, und Johannes, genannt Melonensibus, von Prata, Lehrer
+                    der geistlichen Rechte, Glauben schenken sollten in der Sache um Kaspar Torner,
+                    wie wenn er sie selber unterweisen würde.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-33">Befehl</term>
+                    <term ref="stadtasg-keywords-34">Gehorsam</term>
+                    <term ref="stadtasg-keywords-278">Graf</term>
+                    <term ref="stadtasg-keywords-183">König</term>
+                    <term ref="stadtasg-keywords-347">Majestät</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-16">König Sigismund</persName>
+                    <placeName ref="stadtasg-places-2">Totis</placeName>
+                    <date>1424-08-16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-16</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_13_25.JPG" n="1"/>
+            <p>
+                <lb n="1"/><persName ref="stadtasg-actors-16" role="issuer">Sigmund</persName> von gots
+                genaden romischer kunig zu allen tzeittn <lb n="2"/>merer des <orgName ref="stadtasg-actors-559">Reichs</orgName> und zu
+                    <placeName ref="stadtasg-places-41">Hungern</placeName> und zu <placeName ref="stadtasg-places-42"
+                    >Behem</placeName> etc. kunig. <lb n="3"/>Lieben getreuen, wir senden zu euch
+                die edlen <persName ref="stadtasg-actors-130">Brunorium von der Leytter</persName>, unsern und
+                des hey <lb break="no" n="4"/>ligen reichs zu <placeName ref="stadtasg-places-13"
+                    >Bern</placeName> und zu <placeName ref="stadtasg-places-43">Vinzenz</placeName> gemeinen
+                vicary, und <persName ref="stadtasg-actors-131">Gwilhelminum</persName>, grave zu <placeName
+                    ref="stadtasg-places-44">Prata</placeName>, <lb n="5"/>und den ersamen <persName
+                    ref="stadtasg-actors-132">Johannem</persName>, genant von Melonensibus von
+                <placeName ref="stadtasg-places-44">Prato</placeName>, lerer in geistlichen rechten, <lb n="6"/>unsere
+                rete und lieben getruen von der handlung wegen, die <persName ref="stadtasg-actors-133">Caspar
+                    Torner</persName>, unser dienner <lb n="7"/>und lieber getreuer, von unsern
+                wegen an ew geworben und ewr antwurt daruff wider an <lb n="8"/>uns gebracht hat,
+                euch unser ettlich maynung zu sagen eygenlich underweiste. Darumb <lb n="9"/>begern
+                wir von euch mit fleiß, was euch die vorgenanten unser rete zu disem mal von unsern
+                    <lb n="10"/>wegen sagen werden, dac ier in das gentzlich gelauben wollet als uns
+                selber. Geben zum <origPlace ref="stadtasg-places-2">Totas</origPlace>
+                <lb n="11"/>am <origDate when="1424-08-16">mitichen nach unser lieben frawen
+                    Assumptionis</origDate>, unser reiche des <placeName ref="stadtasg-places-41">Ungrischen</placeName> etc. in dem <lb n="12"
+                />XXXVIII, des <orgName ref="stadtasg-actors-559">Romischen</orgName> in dem XIIII und des <placeName ref="stadtasg-places-42">Behemischen</placeName> in den funften iaren. <lb
+                    n="13"/>Ad mandatum domini regis <lb n="14"/><persName ref="stadtasg-actors-134"
+                    >Michel</persName>, prepositus <placeName ref="stadtasg-places-45"
+                    >Baleslaviensis</placeName>. <pb facs="StadtASG_Missive_13_26.JPG" n="2"/>
+                <lb n="15"/>Dem <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rate der
+                    statt zu sannd <lb n="16"/>Gallen</orgName> unsern und des <orgName ref="stadtasg-actors-559">Richs</orgName> lieben getruen.
+            </p>
+        </body>
+    </text>
+</TEI>

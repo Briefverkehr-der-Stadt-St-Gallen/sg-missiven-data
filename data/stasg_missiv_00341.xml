@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 341</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_341_687/688</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Wangen informieren Bürgermeister und Rat zu St. Gallen darüber, dass sie in einer Angelegenheit ihres Spitals am 20. Juli an einer Gerichtsverhandlung in St. Gallen am Hofgericht in der Pfalz des Benediktinerklosters zu erscheinen haben. Der Wangener Spitalpfleger, Überbringer dieses Briefes, sei mit Verhandlungsvollmacht ausgestattet. Wangen bittet St. Gallen um Unterstützung für ihren Spitalpfleger an der genannten Verhandlung mit zwei St. Galler Ratsdelegationen .</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-354">Spital</term>
+<term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+<term ref="stadtasg-keywords-194">Hofgericht</term>
+<term ref="stadtasg-keywords-115">Kloster</term>
+<term ref="stadtasg-keywords-542">Spitalpfleger</term>
+<term ref="stadtasg-keywords-283">Vollmacht</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-130">Ratsdelegation</term>
+<term ref="stadtasg-keywords-345">Zeiger</term>
+<term ref="stadtasg-keywords-70">Termin</term>
+<term ref="stadtasg-keywords-402">Pfalz</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-89">Bürgermeister und Rat zu Wangen</orgName>                    <date>1458-07-19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2024-01-10</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_341_687.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich willig dinst zuo voran ersamen wysen
+<lb n="2"/>sonnder lieben und guoten fründ. Wir haben als von unsers
+<lb n="3"/>spitals wegen ainen recht tag uff <date when="1458-07-20">morn dornstag</date> vor dem
+<lb n="4"/>hoff gericht uff der pfallentz ze verstan, deßhalb wir unsern
+<lb n="5"/>spital pfleger, zöger ditz brieffs, zuo üch mit vollem gewalt
+<lb n="6"/>ußgevertiget haben. Dar zuo wir üwers rautes und hilff vast
+<lb n="7"/>noturfftig syen, bitten wir üwer ersami und guoten früntschafft,
+<lb n="8"/>uns dem obgemelten unserm spital pfleger uff den ob
+<lb break="no" n="9"/>gedauchten recht tag zwo treffen bottschafften üwers rautes,
+<lb n="10"/>die zuo dem pfallentz gericht togenlich syen, mit lihen und
+<lb n="11"/>zuo schiben, den ouch bevelhen, dem selben spital pfleger by
+<lb break="no" n="12"/>stendig, raetlich und under wysig sin. Wa wir dz umb
+<lb n="13"/>üwer guoten früntschafft beschulden wistend, waeren wir
+<lb n="14"/>allzit guot willig. Datum <origDate when="1458-07-19">quarta post Margarethe anno
+<lb n="15"/>domini etc. LVIII</origDate>.
+<lb n="16"/><orgName ref="stadtasg-actors-89" role="issuer">Burgermaister und
+<lb n="17"/>raute zuo Wanngen</orgName>.
+<pb facs="StadtASG_Missive_341_688.JPG" n="2"/>
+<lb n="18"/>Den ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raute zuo
+<lb n="19"/>sannt Gallen</orgName> unnsern sonnder lieben und guoten
+<lb n="20"/>fründen.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 312</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_312_629/630</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Esslingen teilen Bürgermeister und Rat zu St. Gallen mit,
+                    ihnen sei bekannt, dass die St. Galler etliche junge Randalierer gefangen
+                    genommen haben, von denen einige geflohen sind. Die Esslinger haben zwei
+                    Männer gefangen genommen, die mutmasslich dabei gewesen waren und von denen sie ein paar
+                    Namen bekommen hätten. Esslingen bittet St. Gallen um Mitteilung, ob diese Namen
+                    jemandem in St. Gallen bekannt seien und ob diese mit den Randalierern in
+                    Verbindung gebracht werden könnten. Wenn ja, solle diese Person zur
+                    Identifizierung der zwei Inhaftierten nach Esslingen geschickt werden.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-338">Randalierer</term>
+                    <term ref="stadtasg-keywords-210">Gefangenschaft</term>
+                    <term ref="stadtasg-keywords-339">Identifizierung</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-333">Wirtshaus</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-536">Bürgermeister und Rat zu Esslingen</orgName>
+                    
+                    <date>1454-11-29</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-04-12</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_312_629.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser fruntlich willig dienst bevor ersamen wysen besundern lieben und
+                guten frunde. <lb n="2"/>Uns kompt fur, wie das ir etlich buben by üch gefangen und
+                zu den richten lassen haben, <lb n="3"/>der auch etlich durch warnung in geschenhen
+                darvon komm und ertrunnen syen etc. Nun <lb n="4"/>haben wir zwen an <date when="1454-11-23">sampstag
+                    vor sanct Katherinen tag</date> in unser stat gefangen, in main <lb break="no"
+                    n="5"/>ung, das die by den anschlegen daselbs by üch durch die obgemelten buben
+                gehandelt auch <lb n="6"/>gewesen und der rechtschuldigen sin söllen, und des doch
+                dehain warhait bekommen wöllen <lb n="7"/>anders danne sovil, das sich der ain
+                <persName ref="stadtasg-actors-478">Hans Krawel</persName> von <placeName ref="stadtasg-places-28">Ulm</placeName> genempt und
+                daruff geseit <lb n="8"/>hat, wie das er by den selben buoben by üch in des wirtshus
+                und irer zech gewesen sy, aber <lb n="9"/>er habe umb ir anschleg und sachen nit
+                gewyßte, so hat sich der ander genempt <persName ref="stadtasg-actors-479">Ulrich <lb n="10"
+                />Waibel</persName> von <placeName ref="stadtasg-places-89">Feldkirchen</placeName>, den dann die fryhart 
+                <persName ref="stadtasg-actors-479">Rumensattel</persName> nennen, und auch ettlich zu <placeName ref="stadtasg-places-89">Feld <lb
+                        break="no" n="11"/>kirchen</placeName> genent, die dann sin angebornen frund
+                sin sollen, mit namen <persName ref="stadtasg-actors-481">Schenck Clain Uolin</persName>
+                <lb n="12"/>und <persName ref="stadtasg-actors-482">Howinsdorff</persName>. Hierumb bitten wir uwer ersamen
+                wyßhait mit sunderm flyß dienstlich <lb n="13"/>uwer ernstigen erfarung, erfarung
+                sovil und üch gebüret umb und by üch nach disen unsern <lb n="14"/>gefangen buoben
+                zu haben und zu ersuchen, ob die yemant by und umb üch bekenntlich oder argwännyg
+                    <lb n="15"/>solicher sachen halb wären, und erfurent ir dan yemant, dem die
+                buben kundig oder arg <lb break="no" n="16"/>wanig sin, uns den dann von stund an
+                herr zu uns zuo schicken und die buoben zu beschowen, <lb n="17"/>ob sie solicher
+                schuldigung schuldig syen, und üch hierinn nach uwerm besten beduncken <lb n="18"
+                />so gutwillig bewysen, als wir uch dann des und alles guten sunderlich woll
+                getruwen <lb n="19"/>und umb uch mit unßern schuldigen diensten noch schuldiger
+                haben wöllen zu gedienen. <lb n="20"/>Datum <origDate when="1454-11-29">feria 6ta ante Andree apostoli
+                    anno LIIIIo</origDate>. <lb n="21"/><orgName ref="stadtasg-actors-536" role="issuer">Burgermaister und <lb n="22"/>raut
+                    zu Esslingen</orgName>. <pb facs="StadtASG_Missive_312_630.JPG" n="2"/>
+                <lb n="23"/>Dem ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und <lb n="24"/>raut der
+                    stat zuo sanct Gallen</orgName> unsern lieben <lb n="25"/>und guten frunden.</p>
+        </body>
+    </text>
+</TEI>

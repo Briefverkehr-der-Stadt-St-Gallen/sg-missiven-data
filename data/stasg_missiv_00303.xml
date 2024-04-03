@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 303</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note><p> Die erwähnte Abschrift ist nicht vorhanden.</p></note>
+            </notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_303_611/612</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hans von Höchst berichtet Bürgermeister und Rat zu St. Gallen, er sei am 14. April in der Stadt gewesen und habe mit Altbürgermeister Heinrich Zwick gesprochen, welcher ihm versprochen hätte, seine Angelegenheiten vor den St. Galler Rat zu bringen. Er wolle dies allerdings erst tun, wenn Lindau ihn ebenfalls darum bitte. Da dies trotz ihrer früheren Zusage noch nicht geschehen sei, sei seine Angelegenheit immer noch hängig. Er bittet Bürgermeister und Rat, einen Verhandlungstermin anzusetzen. Hans von Höchst legt dem Schreiben eine nicht mehr erhaltene Abschrift eines Briefes bei, den er dem Kirchherrn von Lindau gesandt hatte.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-37">Verhandlung</term>
+<term ref="stadtasg-keywords-168">Abschrift</term>
+<term ref="stadtasg-keywords-165">Altbürgermeister</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+<term ref="stadtasg-keywords-321">Schriftlich</term>
+<term ref="stadtasg-keywords-149">Rechtstag</term>
+<term ref="stadtasg-keywords-261">Geistliches Gericht</term>
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-104">Hans von Höchst</persName>                    <date>1454-05-27</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>SC</persName>
+                <date>2022-11-16</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_303_611.JPG" n="1" />
+<p>
+    <lb n="1" />Min willig dienst vor gnedigen lieben herren. Die von <placeName ref="stadtasg-places-24">Lindow</placeName> hand mir
+<lb n="2" />vor iar und tag uff üch reht fürgeslagen umb min zuosprüch, so ich zuo
+    <lb n="3" />inen han. Darumb ich nun uff den <date when="1454-04-14">virndigen Palmtag</date> in üwer stat
+    <lb n="4" />wz und üwern alten burgermaister <persName ref="stadtasg-actors-71">Hainrichen Zwiken</persName> in üwerm namen
+<lb n="5" />batt, sich des rehten anzenement und kurtz tag darumb ze setzent etc.,
+    <lb n="6" />der mir nun guetlich antwirt, die von <placeName ref="stadtasg-places-24">Lindow</placeName> hettint darumb nit ge
+<lb break="no" n="7" />betten, alz bald die ouch darumb baetint, so woelt er es früntlich an
+<lb n="8" />ainn rat bringen und denn darumb antwirt geben. Also kund ich
+    <lb n="9" />sid her die sach darzuo nie bringen, daz die von <placeName ref="stadtasg-places-24">Lindow</placeName> darumb ouch
+<lb n="10" />bitten, und dem rechten nachkomen woeltint in massen, alz si mir
+<lb n="11" />dz in ir ersten gescriften zuogescriben hand und wie sich dz bis her ver
+<lb break="no" n="12" />zogen hat, dz werdent ir ze guoter maß merken an der abgeschrift
+<lb n="13" />ains briefs, den ich irem kircherren darumb gescriben han, die ich üch hierinn
+<lb n="14" />verslossen send. Bitt ich üwer wißhait mit ernst, ob dz waer, das
+<lb n="15" />ich si mit dem gaistlichen gericht, damit ich si umb dz reht fürgenomen han,
+    <lb n="16" />dar zuo bringen moecht, dem rehten noch <origdate when="1454-05-27">hüt bi tag</origdate> nach ze koment
+<lb n="17" />nach ir ersten gescriften sag, daz ir es denn tuegint durch gotz und
+<lb n="18" />mins dienstz willen, und üch dz rehten an nemint und kurtz tag
+<lb n="19" />daran setzint, dz wir mit reht entschaiden werdint, und daz ich üch
+<lb n="20" />darumb fürbz nit bitten turff. Wa ich dz gen gott und gen der welt
+<lb n="21" />umb üch ald die üwern ymmer gedienen künd, darinn woelt ich willig sin.
+    <lb n="22" />Datum <origDate when="1454-05-27">feria secunda post Urbani anno etc. LIIIIo</origDate>.
+    <lb n="23" /><persName ref="stadtasg-actors-104" role="issuer">Hanns von Hoechst</persName>
+<lb n="24" />üwer williger.
+<pb facs="StadtASG_Missive_303_612.JPG" n="2" />
+    <lb n="25" />Den fürsichtigen wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="26" />und dem rate ze sant Gallen</orgName> minen
+<lb n="27" />lieben herren.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 306</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_306_617/618</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die in Zürich versammelten Gesandten der eidgenössischen Städte bitten
+                    Bürgermeister und Rat zu St. Gallen, ihrem (St. Galler) Stadtknecht Jakob am Bühl
+                    eine Strafe zu erlassen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-107">Strafe</term>
+                    <term ref="stadtasg-keywords-285">Begnadigung</term>
+                    <term ref="stadtasg-keywords-580">Stadtknecht</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-534">Eidgenossenschaft</orgName>
+                    <placeName ref="stadtasg-places-32">Zürich</placeName>
+                    <date>1454-07-29</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-04-12</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_306_617.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser willig früntlich dienst alle zit zuo vor bereit sundern guoten
+                fründ und getrüwen lieben eidgenossen. <lb n="2"
+                />Uns hat fürbracht <persName ref="stadtasg-actors-470">Jacob am Bül</persName>, üwer
+                stattknecht, wie das er ettwas sachen gehandelt hab, die üch von im <lb n="3"/>ze
+                mal unlidenlich gewesen sient, darinne er nu üwer straffe entsitze etc. Bitten wir
+                üwer lieben guoten <lb n="4"/>früntschafft mit gantzem flisß ernstlich,
+                getrungenlichst wir vermögen, ir wellent uns umb unsern willen <lb n="5"/>die sach
+                ergeben und inn dero halb ungestrafft und unengolten beliben lassen und uns diß
+                unser bitt nit <lb n="6"/>versagen, sunder üch har inn so guotwillig vinden lassen,
+                das der benempt <persName ref="stadtasg-actors-470">Jacob</persName> befinden möge unser bitt
+                    <lb n="7"/>gegen üch genossen haben, als wir ouch des ye ein gantz getruwen zuo
+                üch haben wellent. Das wellen wir in <lb n="8"/>glichen meren und mindern sachen,
+                wenn sich das yemer fügen wirt, umb üch mit guotem willen zwiffels sunder <lb n="9"
+                />an beschulden und verdienen. Geben und versigelt mit 
+                    unser lieben eidgenossen von <placeName ref="stadtasg-places-32">Zürich</placeName> insigel von <lb n="10"/>unser
+                aller wegen uff <origDate when="1454-07-29">mentag nach Jacobi appostoli anno etc.
+                    LIIIIo</origDate>. <lb n="11"/><orgName ref="stadtasg-actors-534" role="issuer">gemeiner
+                    eidgenossen ratzfründ</orgName>, als wir <lb n="12"/>ietz zuo <origPlace
+                    ref="stadtasg-places-32">Zürich</origPlace> byeinander versampt gewesen sind. <pb
+                    facs="StadtASG_Missive_306_618.JPG" n="2"/>
+                <lb n="13"/>Den fürsichtigen wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermeister <lb n="14"/>und rat zuo sant Gallen</orgName> unsern sundern
+                guoten <lb n="15"/>fründen und getrüwen lieben eidgenossen.</p>
+        </body>
+    </text>
+</TEI>

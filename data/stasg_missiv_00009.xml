@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 9</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_9_17/18</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ulrich Gnäpser, Bürger zu St. Gallen, bittet Bürgermeister und Rat zu St. Gallen,
+                    mit Georg Wildrich zu sprechen, der gegen ihn und Wetzel Völi Klage wegen Mordes
+                    an Wildrichs Bruder erhoben habe. Gnäpser zeigt sich bereit, sich vor Gericht zu
+                    verantworten und ein Urteil zu akzeptieren, bittet aber um sicheres Geleit.
+                    Zudem bittet er um eine schriftliche Antwort mit dem gleichen Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-23">Mord</term>
+                    <term ref="stadtasg-keywords-24">Klage</term>
+                    <term ref="stadtasg-keywords-25">Gericht</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-2">Geleit</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-12">Ulrich Gnäpser</persName>
+                    
+                    <date>1421-10-06</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <p/>
+                <persName>SO</persName>
+                <date>2018-10-22</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-20</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_9_17.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min willig undertaenig dienst all zit vor lieben herren. <lb n="2"/>Von
+                der mistat wegen, so <persName ref="stadtasg-actors-121">Wezel Foely</persName> und ich laider
+                begani <lb n="3"/>gen haind, da ist mich für kan, wie <persName ref="stadtasg-actors-117"
+                    >Joeri Wildrich</persName> mit klag <lb n="4"/>für üch bracht hab ains mords, dz
+                ich begaingen hab ain sin <lb n="5"/>bruoder<note><persName ref="stadtasg-actors-122">Hans
+                        Wildrich</persName>.</note> und och ainderswa geret het, dz ich got woll
+                truw, <lb n="6"/>dz sich niemer erfind. Da bit ich üwer wishait mit ernst, <lb n="7"
+                />dz ir mit <persName ref="stadtasg-actors-117">Joergen Wildrich</persName> reden wellent, ich
+                well gern ains <lb n="8"/>tuon und wel mit im in ain recht treten, doch <lb n="9"
+                />also, dz er mir den todschlag hin dain setz, und frid und glait <lb n="10"/>hab
+                zuo dem rechten und dar von untz ain min gewairsaimi, <lb n="11"/>es si den, dz er
+                mich des mords wisti mit biderbain lütain, <lb n="12"/>die da bi gewesen sind.
+                Beschaech dz, so woelt ich liden, was sich <lb n="13"/>dz recht erkainti. Waer aber,
+                dz er dz nüt us braecht, als <lb n="14"/>vor geschriben ist, dz er mir den haft waer
+                mit dem rechten <lb n="15"/>und in dem rechten ze beliben und recht zuo im hab in
+                alder <lb n="16"/>mas, als er zuo mir het, wen er mich des wisti. Bit ich üwer <lb
+                    n="17"/>wishait mit ernst, dz ir mich üch lasend befolhen sin in der <lb n="18"
+                />sach, als ich üch woll truw. Üwer verschribnen aintwurt <lb n="19"/>bi disem
+                boten. Geben ain <origDate when="1421-10-06">naechsten mentag nach sant Mich <lb
+                        break="no" n="20"/>els tag im XXI iar</origDate>. Versigelt mit mins
+                bruoders <persName ref="stadtasg-actors-123">Estrichen</persName>
+                <lb n="21"/>insigel, gebresten des min. <lb n="22"/><persName ref="stadtasg-actors-12"
+                    role="issuer">Uolrich Gnaepser</persName> üwer <lb n="23"/>burger. <pb
+                    facs="StadtASG_Missive_9_18.JPG" n="2"/>
+                <lb n="24"/>Den wisen fürsichtigen <lb n="25"/>dem <orgName ref="stadtasg-actors-148"
+                    role="recipient">burgermaister und <lb n="26"/>aim rat ze sant Gallen</orgName>. </p>
+        </body>
+    </text>
+</TEI>

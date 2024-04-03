@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 319</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_319_643/644</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Arbon antworten Bürgermeister und Rat zu St. Gallen in der Angelegenheit zwischen Hans Harscher und Konrad Bäldi, beide Bürger zu St. Gallen, und Hans Strauss, Bürger zu Arbon, dass Arbon und Marquard von Ems vergeblich versucht hätten, Strauss davon zu überzeugen, die Angelegenheit fallen zu lassen. Strauss hat aber der Teilnahme an einer Verhandlung in Arbon innerhalb der nächsten vierzehn Tage zugestimmt. Arbon bittet die St. Galler um eine schriftliche Antwort, ob sie und ihre Partei damit einverstanden seien.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-37">Verhandlung</term>
+<term ref="stadtasg-keywords-121">Zustimmung</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-149">Rechtstag</term>
+<term ref="stadtasg-keywords-154">Ammann</term>
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-102">Ammann und Rat zu Arbon</orgName>                    <date>1455-11-14</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>SC</persName>
+                <date>2023-02-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_319_643.JPG" n="1" />
+<p>
+<lb n="1" />Unser willig dienst bevor ersamen wysen lieben herren und
+    <lb n="2" />sondren guoten fründe. Als ir uns von wegen <persName ref="stadtasg-actors-486">Hansen Harschers</persName>
+    <lb n="3" />und <persName ref="stadtasg-actors-487">Conraten Baeldis</persName>, üwer burger, und <persName ref="stadtasg-actors-455">Hansen Strussen</persName>, unsers
+    <lb n="4" />burgers, geschriben hand, haben wir wol vernomen, und her <persName ref="stadtasg-actors-314">Mar
+    <lb break="no" n="5" />quart</persName> und wir mit dem unsern davon gerett und besuocht, ob
+<lb n="6" />er von den dingen laussen welt, das wir aber an im nit
+<lb n="7" />vinden mügent. Doch so habent wir so vil mit im gerett,
+<lb n="8" />das er ainen guetlichen tag besuochen wil, sinen rechten unschaedlich,
+    <lb n="9" />doch das der selb guetlich tag zuo <placeName ref="stadtasg-places-5">Arbon</placeName> in unser statt in den
+<lb n="10" />naechsten vierzechen tag gesetzt und gesuocht werde. Und
+<lb n="11" />ob das üch und den üwren eben und fuogklich sin welle, laussen
+    <lb n="12" />uns verschriben wissen. Geben uff <origDate when="1455-11-14">fritag naechst nach sant
+<lb n="13" />Martins tag anno etc. LVto</origDate>.
+    <lb n="14" /><orgName ref="stadtasg-actors-102" role="issuer">Amann und
+        <lb n="15" />raut zu Arbon</orgName>.
+<pb facs="StadtASG_Missive_319_644.JPG" n="2" />
+    <lb n="16" />Den ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raut zuo sant
+<lb n="17" />Gallen</orgName> unsren lieben herren und sondren guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

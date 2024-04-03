@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 240</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_240_481/482</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Landammann und Rat zu Schwyz informieren Bürgermeister und Rat zu St. Gallen
+                    darüber, dass an der letzten Zusammenkunft der Eidgenossen in Luzern, an der
+                    auch der Abt des Benediktinerklosters St. Gallen dabei gewesen sei, besprochen
+                    wurde, eine Zusammenkunft in St. Gallen am 1. August abzuhalten.
+                    Verhandlungsgegenstand sei die Beilegung des Konflikts zwischen Kloster und
+                    Stadt St. Gallen unter Einbezug von Luzern, Schwyz und Glarus. Der Abt habe
+                    bereits zugesagt. Sie bitten um schriftliche Antwort mit dem Boten und um
+                    sicheres Geleit für den äbtischen Schreiber.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-131">Versammlung</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-201">Abt</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-2">Geleit</term>
+                    <term ref="stadtasg-keywords-120">Vermittlung</term>
+<term ref="stadtasg-keywords-115">Kloster</term>
+<term ref="stadtasg-keywords-620">Herberge</term>
+<term ref="stadtasg-keywords-373">Scheiber</term>
+<term ref="stadtasg-keywords-275">Fürst</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-522">Landammann und Rat zu Schwyz</orgName>
+                    
+                    <date>1451-07-10</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>cs/dg und SC</persName>
+                <date>2022-03-02</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_240_481.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Ersamen fürnämen und wysen bisundern lieben und guotten fründe unser
+                früntlich willig dienste <lb n="2"/>und was wir eren, liebs und guotz vermugend sye
+                uwer wysheit zu voran geschriben erbotten <lb n="3"/>und bereit. Und fügen uwer
+                guoten früntschafft zu wüssen, als dann gmein eidgnossen
+                <lb n="4"/>uff diß zyte zu <placeName ref="stadtasg-places-69">Lutzern</placeName> in der
+                statt tag gehept und samend gleist hand, daselbs ouch nu <lb n="5"/>der erwirdig
+                fürst in gott vatter unser gnediger herre
+                der abbt zu <placeName ref="stadtasg-places-38">sant Gallen</placeName><note><persName
+                    ref="stadtasg-actors-83">Kaspar von Landenberg</persName>.</note> gwesen ist, <lb n="6"
+                />und under andern geschefften so hant sich gmein 
+                    eidgnossen underredt von eins früntlichen <lb n="7"/>tags wegen in
+                uwer statt <placeName ref="stadtasg-places-38">sant Gallen</placeName> zu halten, namlich das
+                erber ratz bottschafften <lb n="8"/>von disen nachbenempten oertern, das ist von
+                    <placeName ref="stadtasg-places-32">Zürich</placeName>, von <placeName ref="stadtasg-places-69"
+                    >Lutzern</placeName>, von <placeName ref="stadtasg-places-71">Swytz</placeName> und von
+                    <placeName ref="stadtasg-places-73">Glarus</placeName>, <lb n="9"/>als in namen und von
+                wegen gmeiner eydgnossen daselbs in üwer statt
+                sin soellen uff <date when="1451-08-01">sunnentag <lb n="10"/>nechst nach sant
+                    Jacobs tag appostoli</date> schierest komend zu nacht an der herberg der spenne
+                    <lb n="11"/>und zweyträcht halb, so dann ir und der benempt unser <persName ref="stadtasg-actors-83">herre von sant
+                        Gallen</persName> samend hant, <lb n="12"/>ze besuochen, ob die ding
+                hin und ab weg und zuo guetlichen richtungen bracht moegen werden, <lb n="13"/>das
+                ouch den botten getrungenlichen sich darinne zu arbeiten empfolhen wirdet. Und ist
+                    <lb n="14"/>gmeiner eidgnossen früntlich bitt
+                und begerung, ir wellint ouch den eidgnossen zu
+                lieb uff <lb n="15"/>soelich zyte eins semlichen früntlichen tagz zu leisten
+                verfolgen und üch in den werbungen <lb n="16"/>guettig vinden lassen, als üch gmein
+                    eidgnossen des wolgetrüwen, dann es im besten
+                und durch <lb n="17"/>des besten willen angesehen ist. Dann ob ir dz tuond, so hät
+                unser herr der <persName ref="stadtasg-actors-83">abbt</persName> den tag gmeiner <lb n="18"
+                    />eidgnossen ouch zuo geseit zu leisten, alz
+                dann obstat. So bittent ouch gmein eidgnossen, ir
+                <lb n="19"/>wellind inen zuoschriben, dz unsers <persName ref="stadtasg-actors-83">herren des abbtz</persName> schriber, der <persName ref="stadtasg-actors-388"
+                    >Haechinger</persName>, von üch gleit und <lb n="20"/>sicherheit habe zuo dem
+                tag und die zit uß nach notdurfft etc. Won uns nu von gmeinen <lb n="21"/>unsern
+                    eidgnossen empfolht ist, üch soelich ir
+                begerung zu verschriben, so bitten wir üch ernstlich, <lb n="22"/>soelichs, wie dann
+                obstat, guetlich zu verfolgen und uns allen darinn zu willen ze werden. <lb n="23"
+                />Dz begeren wir mit sampt gmeinen unsern 
+                    eidgenossen, umb üch guetlich zu verdienen, und lassent <lb n="24"
+                />uns harumb üwer verschriben antwurt wussen by dem boten umb den tag und ouch von
+                <lb n="25"/>des schribers wegen. Datum <origDate when="1451-07-10">sabato post Kiliani anno etc.
+                    LIo</origDate>. <lb n="26"/><orgName ref="stadtasg-actors-522" role="issuer">Lanndtamman
+                    und <lb n="27"/>der rate zu Swytz</orgName>.
+               <pb facs="StadtASG_Missive_240_482.JPG" n="2"/>
+                <lb n="28"/>Den ersamen fürnaemen und wysen unsern <lb n="29"/>sundern lieben und
+                guoten fründen dem <lb n="30"/><orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermeyster und dem rate ze sant Gallen</orgName>. </p>
+        </body>
+    </text>
+</TEI>

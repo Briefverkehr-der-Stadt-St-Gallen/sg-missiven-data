@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 189</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. 188.</p></note></notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_189_379/380</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Vogt, Ammann und Rat zu Bregenz teilen Bürgermeister und Rat zu St. Gallen mit,
+                    dass die St. Galler in Bregenz unbehelligt umherziehen können, obwohl St. Galler
+                    am Angriff der Eidgenossen auf Hard beteiligt waren. Bedingung ist aber, dass
+                    die St. Galler den Feinden der Bregenzer nichts zukommen lassen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-64">Gefangener</term>
+                    <term ref="stadtasg-keywords-124">Knecht</term>
+                    <term ref="stadtasg-keywords-75">Angriff</term>
+                    <term ref="stadtasg-keywords-2">Geleit</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+                    <term ref="stadtasg-keywords-48">Feindschaft</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-523">Vogt, Ammann und Rat zu Bregenz</orgName>
+                    
+                    <date>1445-02-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-09</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_189_379.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst zuo vor ersamen wysen lieben fründ. Iüwer
+                schriben <lb n="2"/>uns yetz getan und darinn ir under anderm berueren, wie üch
+                iüwer bott, den ir yetz <lb n="3"/>by uns von der gefangen wegen gehebt, wol
+                fürpracht und erzelt, daz uns und <lb n="4"/>die unsern vast zuo dem angriff bewegt
+                hab, daz ir by vier hundert knechten <lb n="5"/>by der getaut, so laider uns zuo
+                    <placeName ref="stadtasg-places-127">Hard</placeName> und anderswa beschehen ist, gehebt
+                habint, ouch <lb n="6"/>dz die aidgenoßen uß iüwer statt uff unsern schaden also
+                gezogen syen etc. mit <lb n="7"/>vil worten, haben wir guettermaß wol verstanden,
+                und zwifelt uns nit, der selb <lb n="8"/>iüwer bott sy wol ingedenck, wie wir
+                deßhalb mit im und er mit uns geredt haben. <lb n="9"/>Daz wir aber dißmalz sin
+                laßen, alz es ist. Denn als ir darinn füro melden <lb n="10"/>und begeren, wa die
+                iüwern ritten oder gangen, dz wir die ir lib und guot guotlich <lb n="11"/>fruntlich
+                halten, sy sicher wandern und werben laßen, und soellichz mit den von <lb n="12"
+                /><placeName ref="stadtasg-places-127">Hard</placeName> und andern den unsern zuotuond ouch schaffen etc., wißen wir dißmalz nichtzit
+                    <lb n="13"/>unfrüntlichz mit üch noch den iuwern zuotuond haben, und mügen ir
+                und die <lb n="14"/>iüwern unser und der unsernhalb wol sicher wandern und werben,
+                doch so verr, <lb n="15"/>dz ir noch die iüwern unsern vinden füro nichtzit
+                zuefueren. Denn in welhen <lb n="16"/>sachen wir iuwer ersamkait zuo willen werden
+                moechten, taetten wir mit willen <lb n="17"/>gern. Datum <origDate when="1445-02-12"
+                    >sexta ante invocavit anno etc. XLquinto</origDate>. <lb n="18"/><orgName
+                    ref="stadtasg-actors-523" role="issuer">Vogt, amman und <lb n="19"/>ratt zue
+                    Pregentz</orgName>.
+                <pb facs="StadtASG_Missive_189_380.JPG" n="2"/>
+                <lb n="20"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raetten <lb n="21"/>zuo Santgallen</orgName> unsern sondern
+                guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

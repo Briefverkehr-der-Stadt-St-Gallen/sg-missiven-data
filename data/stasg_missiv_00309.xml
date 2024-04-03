@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 309</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_309_623/624</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Pfullendorf und zu Radolfzell informieren Bürgermeister
+                    und Rat zu St. Gallen darüber, dass sie zusammen eine Verhandlung mit dem Abt
+                    der Reichenau in Konstanz zu leisten hätten, wobei ein Totschlag auf der
+                    Reichenau verhandelt werden soll, und bitten St. Gallen, zu ihrer Unterstützung
+                    eine Ratsdelegation zu schicken.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+                    <term ref="stadtasg-keywords-49">Totschlag</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-12">Gesandter</term>
+                    <term ref="stadtasg-keywords-201">Abt</term>
+                    <term ref="stadtasg-keywords-115">Kloster</term>
+                    <term ref="stadtasg-keywords-149">Rechtstag</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-535">Bürgermeister und Rat zu Pfullendorf</orgName>
+                    <orgName ref="stadtasg-actors-508">Bürgermeister und Rat zu Radolfzell</orgName>
+                    <placeName ref="stadtasg-places-36">Radolfzell am Bodensee</placeName>
+                    <date>1454-10-21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-12-07</date>
+            </change>
+            
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-04-12</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_309_623.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unnser willig früntlich dienst alzit voran ersamen wisen besonder lieben
+                und guoten fründ. Mit unserm gnedigen herren von Ow<note><persName ref="stadtasg-actors-452"
+                        >Friedrich von Wartenberg</persName>.</note>
+                <lb n="2"/>und sinen flecken von unser und unser burger wegen haben wir gütlich tag
+                ze laisten vor unserm gnedigen <lb n="3"/>herren von <placeName ref="stadtasg-places-7">Costentz</placeName><note><persName
+                        ref="stadtasg-actors-55">Heinrich von Hewen</persName>.</note> ze <placeName
+                    ref="stadtasg-places-7">Costentz</placeName> in der statt uf <date when="1454-10-25"
+                    >fritag zenacht nechst</date> da selbs zuo sin morndes uf <date
+                    when="1454-10-26">sambs <lb break="no" n="4"/>tag</date> fruo zu den sachen ze
+                griffen ainer geschicht halb in der <placeName ref="stadtasg-places-183">Richen Ow</placeName>
+                ergangen todsleg berürend, so nu <lb n="5"/>uns baiden stetten und unsrer burger
+                wegen daran nit clain gelegen ist, sonder darus, wo das nit hingelegt <lb n="6"
+                />werden solt, unrat grosser erwachsen möcht. Hierumb gar mit ernstlichem vlis
+                bitten wir uwer wishaitt, <lb n="7"/>uf solichen gütlichen tag uwers rats ain
+                merklich botschafft uns zuo ze schiken, uns und unsern burgern <lb n="8"/>rat und
+                bistand ze tuon und umb nichs ze verhalten, so wir uns des gentzlich uf uwer wishait
+                vertruwen <lb n="9"/>in glichen meren und mindern sachen alzit früntlich zuo
+                verdienen begeren. Geben under unser von <origPlace ref="stadtasg-places-36">Zell</origPlace>
+                <lb n="10"/>insigel von baider stett wegen an <origDate when="1454-10-21">mentag
+                    nach sant Gallen tag anno etc. Lquarto</origDate>. <lb n="11"/>Burgermeister und
+                ret der stett <lb n="12"/><orgName ref="stadtasg-actors-535" role="issuer"
+                    >Pfullendorff</orgName> und <orgName ref="stadtasg-actors-508" role="issuer"
+                    >Ratolffzelle</orgName>. <pb facs="StadtASG_Missive_309_624.JPG" n="2"/>
+                <lb n="13"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und rat der <lb n="14"/>statt sant Gallen</orgName> unsern
+                besondern guoten fründen.</p>
+        </body>
+    </text>
+</TEI>

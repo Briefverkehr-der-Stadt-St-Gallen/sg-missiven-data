@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 45</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_45_89/90</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Appenzell bitten Bürgermeister und Rat zu St. Gallen, dafür zu
+                    sorgen, dass der zwischen ihrem Landmann Egli Oswald und den St. Galler Bürgern
+                    Hans Ghüssit und Hans Schnider vereinbarte Friede von den Letzteren eingehalten
+                    werde. Sie bitten um eine Antwort mit dem gleichen Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-81">Mündliche Antwort</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-85">Friedenssicherung</term>
+                    <term ref="stadtasg-keywords-83">Frieden</term>
+                    <term ref="stadtasg-keywords-104">Landmann</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-102">Sicherheit</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-506">Ammann und Rat zu Appenzell</orgName>
+                    
+                    <date>1431-02-19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_45_89.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienste vor an lieben und gueten fründ. Uns hat
+                für <lb break="no" n="2"/>bracht <persName ref="stadtasg-actors-168">Eggly Öschwald</persName>, unser lantman,
+                sesshaft ann Hailten <note>Es ist unklar, welcher Ort gemeint ist.</note>, wie das <persName ref="stadtasg-actors-169">Hans
+                    Ghüssit</persName>
+                <lb n="3"/>und <persName ref="stadtasg-actors-170">Hans Schnider</persName>, üwer mitburger, ze
+                <placeName ref="stadtasg-places-61">Apptwille</placeName> im frid habint gen, des gelich <lb n="4"/>hab
+                er och getan. Über das so tribend sy gar grossen muetwillen mit im, und spricht, <lb
+                    n="5"/>er mugs kain wil erliden. Lieben und gueten fründ also wellend wir üch
+                bitten mit <lb n="6"/>gantzem ernst flissig, das ir die ietzgenampten üwer mitburger
+                darzue wisint, das <lb n="7"/>sy an dem unsern frid hailtint, won das doch billich
+                ist, won wir ersorgint, <lb n="8"/>das da von ergers wol uff stan moechty. Kunnent
+                wir das in soelichen mindren und mereren <lb n="9"/>sachen umb üch beschulden und
+                gedinen, sond ir uns willig vinden. Üwer antwurt <lb n="10"/>land wissen dissen
+                botten. Geben am <origDate when="1431-02-19">mentag post invocavit anno domini Mo CCCCo XXX
+                    primo</origDate>. <lb n="11"/><orgName ref="stadtasg-actors-506" role="issuer">Amman und rat <lb n="12"/>zue
+                    Appenzelle</orgName>. <pb facs="StadtASG_Missive_45_90.JPG" n="2"/>
+                <lb n="13"/>Den ersammen wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat <lb n="14"/>ze
+                    sant Gallen</orgName> unsern lieben und gueten fründen. </p>
+        </body>
+    </text>
+</TEI>

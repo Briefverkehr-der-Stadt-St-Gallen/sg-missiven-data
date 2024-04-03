@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 166</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note><p>Am rechten Rand Blatt abgerissen, dadurch Textverlust bei der Adresse.</p></note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_166_331/332</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Konstanz fordern Bürgermeister und Rat zu St. Gallen
+                    dazu auf, eine Ratsdelegation wegen Konrad Peyer und mehreren in Berneck
+                    gefangener Knechten nach Konstanz zu senden, damit diese Angelegenheit nicht
+                    schriftlich, sondern mündlich abgehandelt werden kann. Sollten sich Konstanz und
+                    St. Gallen nicht einigen, sollen die Bernecker verfahren, wie es rechtmässig
+                    ist.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-130">Ratsdelegation</term>
+                    <term ref="stadtasg-keywords-210">Gefangenschaft</term>
+                    <term ref="stadtasg-keywords-19">Gefängnis</term>
+                    <term ref="stadtasg-keywords-64">Gefangener</term>
+                    <term ref="stadtasg-keywords-46">Gefangennahme</term>
+                    <term ref="stadtasg-keywords-124">Knecht</term>
+                    <term ref="stadtasg-keywords-93">Mündlich</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-72">Rechtmässigkeit</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>
+                    
+                    <date>1443-10-29</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-07-01</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_166_331.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser willig fruntlich dienst zuvor lieben und guten fründ. Uwer
+                schriben, so ir uns getan hand <lb n="2"/>von wegen <persName ref="stadtasg-actors-304">Conrat
+                    Payrers</persName>, uwers mitbürgers, und ettlicher knecht wegen, so dann zuo
+                    <placeName ref="stadtasg-places-18">Bernang</placeName>
+                <lb n="3"/>in vancknusse ligend, haben wir mainung uwers brieffs wol verstanden. Nu
+                üch ietzo voellig antwort <lb n="4"/>uff uwer beger zuo gebent, ist nit nott, als ir
+                dann wol vernemen werdent. Da nu ettlich sachen dar <lb break="no" n="5"/>in ligend,
+                die nit zuo schribend sind, und darumb, daz ir der sach genntlich underwist werdint,
+                    <lb n="6"/>und der uwer sich in der sach und dem rechten zu wyt nit verdieff, ob
+                daz wider in vallen <lb n="7"/>wird, das uns doch nit lieb were, so moegend ir
+                darumb uwer erber rautzfründ zuo uns fuegen, so <lb n="8"/>woellen wir denn gestalt
+                der sach zuo erkennen geben, so daz geschicht, ob ir darine dez begerent <lb n="9"
+                />sind. Kuennen wir dann icht in der sach gutz getun, damit die mit dem minsten
+                hingelegt werde, <lb n="10"/>woellen wir willig sin. Ob aber daz nit enwaere, was
+                dann den von <placeName ref="stadtasg-places-18">Bernang</placeName> nach recht darinn <lb
+                    n="11"/>gepürt zu tuond, soellen sy och voellenclich tuon. Datum <origDate
+                    when="1443-10-29">tercia post Symonis et Jude apostolorum <lb n="12"/>anno
+                    domini etc. XLIIIo</origDate> etc. <orgName ref="stadtasg-actors-56" role="issuer"><lb
+                        n="13"/>Burgermaister und <lb n="14"/>raute zuo Costentz</orgName>. <pb
+                    facs="StadtASG_Missive_166_332.JPG" n="2"/>
+                <lb n="15"/>Den ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und <lb n="16"/>raute der statt zuo Santgallen</orgName> unsern
+                guten frü<supplied>nden</supplied>. </p>
+        </body>
+    </text>
+</TEI>

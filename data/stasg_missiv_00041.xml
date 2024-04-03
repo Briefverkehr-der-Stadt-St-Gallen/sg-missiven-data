@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 41</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_41_81/82</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Schaffhausen informieren Bürgermeister und Rat zu
+                    St. Gallen darüber, dass Konrad Barter, Bürger zu Schaffhausen, über seine
+                    Gattin, die Schwester des verstorbenen Bilgeri Fisch, Ansprüche auf das Erbe von
+                    diesem (Bilgeri Fisch) habe. Parter lässt St. Gallen bitten, die
+                    Hinterlassenschaft seines verstorbenen Schwagers Fisch in Gewahrsam zu nehmen,
+                    bis er selber nach St. Gallen kommen könne.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-5">Erbe</term>
+                    <term ref="stadtasg-keywords-82">Tod</term>
+                    <term ref="stadtasg-keywords-66">Beschlagnahmung</term>
+                    <term ref="stadtasg-keywords-208">Familie</term>
+                    <term ref="stadtasg-keywords-609">Schwager</term>
+                    <term ref="stadtasg-keywords-297">Ehefrau</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-28">Bürgermeister und Rat zu Schaffhausen</persName>
+                    
+                    <date>1429-08-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_41_81.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst zu allen zitten voran ersamen wisen
+                besundern lieben und <lb n="2"/>guten fründ. Es bringt an uns <persName
+                    ref="stadtasg-actors-161">Cuenrat Parter</persName>, unser mitburger, wie das <persName
+                    ref="stadtasg-actors-162">Bilgeri Visch</persName>, <lb n="3"/>sin swager selig, laider by
+                üch die end siner wil beschlossen hab, zu desselben sins swagers <lb n="4"/>seligen
+                gut, erb und geläs derselb unser mitburger von siner elichen hußfrowen, des benanten
+                    <lb n="5"/>Bilgeris swester, wegen zem tail maint recht ze haben. Nu ist aber
+                der egenant <persName ref="stadtasg-actors-161">Cunrat Parter</persName>
+                <lb n="6"/>mit dem, das sin hußfrow in kindlibetti lit und öch andern geschefften
+                besteckt und beladen, <lb n="7"/>das er so behends zu üch nit komen kan. Darumb mit
+                sunderm ernst so bitten wir uwer <lb n="8"/>ersami liebe früntlichest, so wir
+                konnen, sölich gut und geläs, so der benant <persName ref="stadtasg-actors-162">Bilgeri <lb n="9"
+                    />Visch</persName> nach tod verlassen hät, zem getrulichsten und besten ze
+                besorgen und ze bewarn, untz <lb n="10"/>uff die zitt, das sich der unser zu üch
+                gefugen kann, ald aber si bottschafft by uch gehaben <lb n="11"/>mag und im aldenn,
+                so er also zu üch kompt, des früntlichsten und wägsten hilfflich und <lb n="12"
+                />rätlich ze sind, damit im gelang, darzu er denn glinpff hat und recht, als wir uch
+                des <lb n="13"/>und alles guten insunders wol getruwen. Daran bewisend ir uns sölich
+                mangvältig <lb n="14"/>dienstlichait, die wir umb uch und die uwern in sogetanen
+                merren und mindern sachen sunder <lb break="no" n="15"/>zwifels willenclich und gern
+                gedienen wellen und beschulden. Datum <origDate when="1429-08-12">sexta proxima post
+                        <lb n="16"/>Laurency anno domini millesimo CCCCXXVIIIIno</origDate>. <lb
+                            n="17"/><orgName ref="stadtasg-actors-28" role="issuer">Burgermaister und rat <lb n="18"/>zu Schaffhusen</orgName>. <pb
+                    facs="StadtASG_Missive_41_82.JPG" n="2"/>
+                <lb n="19"/>Den ersamen wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat <lb n="20"/>zu
+                    sanct Gallen</orgName> unsern besundern lieben <lb n="21"/>und guten fründen.
+            </p>
+        </body>
+    </text>
+</TEI>

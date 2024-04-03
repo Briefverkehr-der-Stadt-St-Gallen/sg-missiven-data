@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 67</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_67_133/134</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Eglolf Blarer, Abt des Benediktinerklosters St. Gallen, beschwert sich bei
+                    Bürgermeister und Rat zu St. Gallen, dass sie seinen Hofammann in der
+                    Auseinandersetzung mit Hans von Andwil nicht angemessen gerichtlich
+                    unterstützten. Der Abt bittet zudem, dafür zu sorgen, dass Andwil seine üble
+                    Nachrede beende, ansonsten würde er sich weitere Schritte überlegen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-44">Verleumdung</term>
+                    <term ref="stadtasg-keywords-74">Beschwerde</term>
+                    <term ref="stadtasg-keywords-25">Gericht</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+                    <term ref="stadtasg-keywords-201">Abt</term>
+                    <term ref="stadtasg-keywords-115">Kloster</term>
+                    <term ref="stadtasg-keywords-21">Rechtshilfe</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-23">Eglolf Blarer</persName>
+                    <placeName ref="stadtasg-places-7">Konstanz</placeName>
+                    <date>1434-06-19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_67_133.JPG" n="1"/>
+            <p>
+                <lb n="1"/><persName ref="stadtasg-actors-23" role="issuer">Eglolff</persName> von gottes
+                gnaden abbt <lb n="2"/>des gotzhus zuo sant Gallen. <lb n="3"/>Unsern gruoz vor
+                ersamen wisen lieben getruwen. Als unser hofamman <persName ref="stadtasg-actors-190">Uolrich
+                        <lb n="4"/>von Bürß</persName> von unsern und unsers gotzhus wegen mit
+                    <persName ref="stadtasg-actors-189">Hansen von Ainwile</persName>
+                <lb n="5"/>ain recht angevangen hat und die sach für üch gezogen und komen ist <lb
+                    n="6"/>und aber ir den ammann gebetten hant, das er die sach bestan liesse untz
+                    <lb n="7"/>uff unser zukunft, ist uns und unserm gotzhus niht fueglich noch
+                komlich, <lb n="8"/>die sach also anzestellenn. Hierummb so bitten wir üch und
+                begeren ernstlich <lb n="9"/>von üch, das ir uns und unserm ammann von unsern und
+                unsers gotzhus <lb n="10"/>wegen das recht niht verziehent, sunder uns das
+                fürderlich gan lassent. <lb n="11"/>Ouch kumt uns für, wie das er fraevele und
+                smaehe wort von uns rede, <lb n="12"/>das er uns unbillichen tuet, won er uns aid
+                und ere schuldig ist. Bitten <lb n="13"/>wir üch mit sunderm ernste gar
+                flissenclich, mit im ze redenn und ze schaffenn, <lb n="14"/>das er uns soelicher
+                wort und rede überhebe und darinne uwern ernst <lb n="15"/>tuynt, als wir üch
+                getruwen. Das wellen wir ummb üch gerne beschulden, <lb n="16"/>won woelt er
+                soelicher rede niht abgan und woelten oder moehtent ir uns des <lb n="17"/>niht vor
+                sin, so muesten wir gedenken, was uns darzue ze tuende waer, das <lb n="18"/>wir
+                soelichs von im vertragen würden. Geben ze <origPlace ref="stadtasg-places-7"
+                    >Costentz</origPlace> am <origDate when="1434-06-19">sampstag <lb n="19"/>nach
+                    sant Vits tage anno etc. XXXIIIIo</origDate>. <pb
+                    facs="StadtASG_Missive_67_134.JPG" n="2"/>
+                <lb n="20"/>Den ersamen wisen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und rate <lb n="21"/>zuo sant Gallen</orgName> unsern und unsers
+                gotzhus lieben getruwen. </p>
+        </body>
+    </text>
+</TEI>

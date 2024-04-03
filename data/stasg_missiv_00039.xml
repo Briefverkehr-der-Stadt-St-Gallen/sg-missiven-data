@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 39</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_39_77/78</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Elisabeth Lind, genannt Estrich, schreibt erneut Bürgermeister und Rat zu
+                    St. Gallen, dass sie nicht wisse, was sie sich zu Schulden habe kommen lassen,
+                    und bittet um eine Antwort mit dem gleichen Boten, wie sie sich verhalten
+                    solle.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-81">Mündliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-27">Elisabeth Lind</persName>
+                    
+                    <date>1427-10-03</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_39_77.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min undertaenig willig dienst voran gnaedigen lieben herren. Als ich
+                üwer wyßhait <lb n="2"/>vormals geschriben han, wie ich in üwer ungnad sye und mich
+                in forchten haben <lb n="3"/>wellind, des ich üwern gnaden nit getrüw, wenn ich nit
+                wais, das ich mich gegen <lb n="4"/>üwern gnaden ie kains wegs verschult han, das ir
+                mich in kainen weg in foerchten <lb n="5"/>haben soellint. Bitt ich üwer gnad, das
+                ir mich uß denselben üwern forchten, sy das ir <lb n="6"/>mich darinn habend, des
+                ich üwern gnaden nit getrüw, laußen wellent, won üch wol <lb n="7"/>ist ze wissen,
+                das mir in üwer statt von ettlichen vast unguettlich ist beschaehen, als <lb n="8"
+                />kainer armen frowen ie beschach etc. Bitt ich üwer gnad, mir darumb ain früntlich
+                    <lb n="9"/>antwurt ze geben by disem botten, wie ich mich nach üwern willen
+                halten süll. Geben <lb n="10"/>am <origDate when="1427-10-03">frytag nach Michahelis
+                    anno domini Mo CCCCo XXVIIo</origDate>. <lb n="11"/><persName ref="stadtasg-actors-27" role="issuer"
+                    >Elisabeth Lindin</persName> die man <lb n="12"/>nempt Estrichin. <pb
+                    facs="StadtASG_Missive_39_78.JPG" n="2"/>
+                <lb n="13"/>Den ersamen wysen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raute
+                        <lb n="14"/>der statt ze sant Gallen</orgName> minen lieben gnaedigen
+                herren. </p>
+        </body>
+    </text>
+</TEI>

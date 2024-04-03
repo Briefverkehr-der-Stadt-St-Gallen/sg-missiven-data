@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 12</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_12_23/24</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Der Arzt Dietrich Walke bittet Bürgermeister und Rat zu St. Gallen, dafür zu
+                    sorgen, dass die nach Behandlungen einiger St. Galler Bürger und insbesondere von
+                    der Witwe eines Spiser noch offenen Behandlungskosten bezahlt werden. Sollten
+                    die Zahlungen nicht erfolgen, werde er gerichtlich gegen die Schuldner
+                    vorgehen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-13">Schulden</term>
+                    <term ref="stadtasg-keywords-32">Arzt</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-30">Zahlung</term>
+                    <term ref="stadtasg-keywords-177">Witwe</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-15">Dietrich Walke</persName>
+                    
+                    <date>1422-09-10</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <p/>
+                <persName>SO</persName>
+                <date>2018-06-29</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-16</date>
+            </change>
+        </revisionDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_12_23.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min willigen dienst allezit berait voran lieben herren. Als üch wol ze
+                wissend ist, <lb n="2"/>wie ich ettwevil der iwren in iwer statt geartznot hab und
+                sunder ainen, heisset <orgName ref="stadtasg-actors-537">Spiser</orgName><note>Es ist unklar, welche
+                        <persName ref="stadtasg-actors-125" cert="medium">Person</persName> gemeint ist.</note>, <lb n="3"/>der laider tod ist. Nu belibt mir sin
+                    efrow<note>Seine <persName ref="stadtasg-actors-126" cert="medium">nicht namentlich bekannte
+                        Ehefrau</persName>.</note> noch schuldig ettwevil geltz, das si mir nu <lb
+                    n="4"/>gern liesse volgen. Nu sind ettlich in iwer statt der iwren, die mir das
+                gelt an der <lb n="5"/>selben frowen verhefft hand, die ich och geartznot han, und
+                mainent, ich hab si noch nit <lb n="6"/>gevert etc., das mich ettwas unbillich an sy
+                dunkt, won ich ynan das aller best getan <lb n="7"/>han, als dieser bott, zoeger dis
+                briefs, aigenlich das gesagen kann. Gnädigen herren, bitt <lb n="8"/>ich iwer
+                früntlichait yemer durch minen dienst willen und haissent und gebietend <lb n="9"
+                />allen denen, die mir das da gehefft hand, das sy mir das laussind volgen und
+                werden, <lb n="10"/>habind sy denn üt mit mir oder an mich ze erforderend und ze
+                sprechen, wil ich <lb n="11"/>ynen ains rechten gehorsam sin, won woeltend si mich
+                daran sumen und irren, <lb n="12"/>so moecht ich nit laussen, ich muest mit
+                gerichten darzuo griffen. Und tuond darinn, als <lb n="13"/>ich ain sunder guot
+                trüwen zuo üch hab, kan ich das hernach umb üch ald umb die <lb n="14"/>iweren
+                beschulden und verdienen, wil ich willig sin. Geben an <origDate when="1422-09-10"
+                    >donstag nach unser <lb n="15"/>frowen tag nativitatis ze herpst anno
+                    XXIIo</origDate>. <lb n="16"/>Maister <persName ref="stadtasg-actors-15" role="issuer"
+                    >Dietrich Walke</persName> maister der <lb n="17"/>siben künst und in der
+                artzny, <lb n="18"/>artzat mins gnaedigen herren <lb n="19"/>von
+                    <placeName ref="stadtasg-places-91">Oesterrich</placeName><note>Es könnte gemeint sein: <persName ref="stadtasg-actors-127"
+                        >Albrecht V.</persName>, <persName ref="stadtasg-actors-64">Albrecht VI.</persName>,
+                        <persName ref="stadtasg-actors-128">Ernst</persName>, <persName ref="stadtasg-actors-49"
+                        >Friedrich III.</persName>, oder <persName ref="stadtasg-actors-129">Friedrich
+                        IV.</persName>.</note>. <pb facs="StadtASG_Missive_12_24.JPG" n="2"/>
+                <lb n="20"/>Den ersamen wysen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und <lb
+                        n="21"/>dem rate ze sant Gallen</orgName> minen lieben herren. </p>
+        </body>
+    </text>
+</TEI>

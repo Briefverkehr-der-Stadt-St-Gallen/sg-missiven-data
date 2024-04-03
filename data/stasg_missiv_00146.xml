@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 146</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_146_291/292</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>König Friedrich III. teilt Bürgermeister und Rat zu St. Gallen mit, dass Jakob,
+                    Truchsess von Waldburg und Landvogt in Schwaben, nach St. Gallen kommen werde,
+                    und gebietet den St. Gallern, Jakobs Äusserungen Glauben zu schenken wie ihm
+                    selbst.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-183">König</term>
+                    <term ref="stadtasg-keywords-347">Majestät</term>
+                    <term ref="stadtasg-keywords-184">Truchsess</term>
+                    <term ref="stadtasg-keywords-319">Landvogt</term>
+                    <term ref="stadtasg-keywords-277">Herzog</term>
+                    <term ref="stadtasg-keywords-405">Reich</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-49">Friedrich III. von Habsburg-Österreich</persName>
+                    <placeName ref="stadtasg-places-16">Frankfurt am Main</placeName>
+                    <date>1442-07-28</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-06-03</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_146_291.JPG" n="1"/>
+            <p>
+                <lb n="1"/><persName ref="stadtasg-actors-49" role="issuer">Fridreich</persName> von gots
+                gnaden romischer künig zu allentzeiten <lb n="2"/>merer der <orgName ref="stadtasg-actors-559">Reichs</orgName>, hertzog ze
+                    <placeName ref="stadtasg-places-91">Osterreich</placeName> und ze <placeName
+                    ref="stadtasg-places-94">Steyr</placeName> etc. <lb n="3"/>Lieben getrewn. Wir schikchen
+                zu ew den edlen <persName ref="stadtasg-actors-61">Jacoben</persName>, druchksess von
+                    <placeName ref="stadtasg-places-107">Walpurg</placeName>, unsern <lb n="4"/>und des <orgName ref="stadtasg-actors-559">Reichs</orgName>
+                lanntvogte in <placeName ref="stadtasg-places-108">Swaben</placeName>, rate und lieben
+                getrewn, dem wir empholhen haben, <lb n="5"/>ettwas unser sachen und meynung an ew zu
+                bringen. Emphelhen wir ew und begern mit <lb n="6"/>gantzem ernste und fleisse, was
+                derselb <persName ref="stadtasg-actors-61">Jacob</persName> nutzemal von unsern wegen an ew
+                bringen <lb n="7"/>und werben werde, daz ir im das gentzlich glaubet als uns selber.
+                Geben zu <placeName ref="stadtasg-places-16">Frankchfort <lb n="8"/>am Meyn</placeName> am
+                    <origDate when="1442-07-28">sunnabende nach sand Jacobs tag anno etc.
+                    quadragesimosecundo unsers <lb n="9"/>Reichs im dritten iare</origDate>. <lb
+                    n="10"/>c<ex cert="medium">ommissio</ex> propria domini regis. <pb facs="StadtASG_Missive_146_292.JPG"
+                    n="2"/>
+                <lb n="11"/>Unsern und des <orgName ref="stadtasg-actors-559">Richs</orgName> lieben getruen <orgName ref="stadtasg-actors-148"
+                    role="recipient">burgermeister <lb n="12"/>und rate zu sannt Gallen</orgName>.
+            </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 193</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_193_387/388</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Vogt, Ammann und Rat zu Arbon erwidern auf ein Schreiben von Bürgermeister und
+                    Rat zu St. Gallen, dass sie auf Befehl des Bischofs von Konstanz einen Eigenmann
+                    und andere Leute gefangen genommen und nach Arbon gebracht haben.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-217">Antwort</term>
+                    <term ref="stadtasg-keywords-33">Befehl</term>
+                    <term ref="stadtasg-keywords-188">Bischof</term>
+                    <term ref="stadtasg-keywords-46">Gefangennahme</term>
+                    <term ref="stadtasg-keywords-24">Klage</term>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-625">Leibeigenschaft</term>
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-524">Vogt, Ammann und Rat zu Arbon</orgName>
+                    
+                    <date>1445-05-02</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-09</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_193_387.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser willig dienst zuo vor lieben herren und guoten fründ. <lb n="2"
+                />Alz ir unß geschriben habent von dez aigenmans waegen, habent <lb n="3"/>wir wol
+                vernommen und laussent üch wissen, daz semlich claig <lb n="4"/>von im und andren
+                für unsern gnaedigen herren von <placeName ref="stadtasg-places-7">Costentz</placeName> komen <lb n="5"/>ist.
+                Der haut unß enpfolhen, si ze fahen und gen <placeName ref="stadtasg-places-5">Arbonn</placeName> ze
+                fuerent. <lb n="6"/>An den mugent si werben, daz si da guotz an im schaffent, daz
+                ist <lb n="7"/>unß lieb. Bittent wir üwer wißhait, unß daz nit verübel haben, <lb
+                    n="8"/>wann wir üch dazuo nun domal nit füro geantwurten kunnent. <lb n="9"
+                />Datum <origDate when="1445-05-02">secunda die maii anno domini etc</origDate>.
+                XLquinto. <lb n="10"/><orgName ref="stadtasg-actors-524" role="issuer">Vogt, amman und <lb n="11"/>rat ze Arbon</orgName>.
+                    <pb facs="StadtASG_Missive_193_388.JPG" n="2"/>
+                <lb n="12"/>Den fürsichtigen und wisen <orgName ref="stadtasg-actors-148" role="recipient">buerger <lb break="no" n="13"
+                    />maister und rat zuo sant Gallen</orgName> unsern <lb n="14"/>lieben herren und
+                guoten fründ. </p>
+        </body>
+    </text>
+</TEI>

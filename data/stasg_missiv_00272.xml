@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 272</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_272_549/550</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Johannes Henseler, Stadtschreiber zu Aarau, beklagt sich bei Bürgermeister und Rat zu St. Gallen, es würden allerlei Gerüchte über ihn und seine Familie verbreitet, und obwohl er bereits früher schon in St. Gallen um Richtigstellung gebeten habe, hätten sich Ratsmitglieder öffentlich schlecht über ihn geäussert. Er bittet zur Verteidigung seiner Ehre um eine Verhandlung in St. Gallen mit sicherem Geleit. Zudem bittet er um eine schriftliche Antwort.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-63">Gerücht</term>
+<term ref="stadtasg-keywords-305">Ehre</term>
+<term ref="stadtasg-keywords-306">Ehrverletzung</term>
+<term ref="stadtasg-keywords-230">Verteidigung</term>
+<term ref="stadtasg-keywords-37">Verhandlung</term>
+<term ref="stadtasg-keywords-2">Geleit</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-208">Familie</term>
+                    <term ref="stadtasg-keywords-159">Stadtschreiber</term>
+                    <term ref="stadtasg-keywords-269">Kind</term>
+                    <term ref="stadtasg-keywords-201">Abt</term>
+                    <term ref="stadtasg-keywords-146">Metzger</term>
+                    <term ref="stadtasg-keywords-115">Kloster</term>
+                    <term ref="stadtasg-keywords-175">Sohn</term>
+                    <term ref="stadtasg-keywords-180">Kaufmann</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-92">Johannes Henseler, Stadtschreiber zu Aarau</persName>                    <date>1452-11-05</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>SC</persName>
+                <date>2021-12-15</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_272_549.JPG" n="1" />
+<p>
+<lb n="1" />Fromen fürsichtigen wisen insunder lieben herren üwer ersamen wißheit sigint min gar früntlich willig dienste
+<lb n="2" />allzitt zuovor geschriben und bereit. Lieben herren und guoten fründe, ir sind, als mir nit zwifelt, ingedenck einer
+<lb n="3" />cedel üch von mir ingeantwurt und kleinen und grossen rat zuogeschriben, inhalt ir worten, ich rechts vor üch
+    <lb n="4" />begerende was, gegen den falschen, gifftigen zungen, so mir zuogeredt hand, ich sige von minen herren von <placeName ref="stadtasg-places-13">Bern</placeName>
+    <lb n="5" />komen, darum dz ich uß iren raeten geredt hab, min wip und kind sigint des von <placeName ref="stadtasg-places-177">Klingenberg</placeName> eigen, ich sig ein
+<lb n="6" />falscher handspieler, ein buob, weis niemant, wer ich sige, ich hab ouch wellen den herren abbt und üwer statt
+    <lb n="7" />gegen einander verwirren etc., alles inhalt des cedels, daruff die fromen wisen <persName ref="stadtasg-actors-218">Hug von Watt</persName> und <persName ref="stadtasg-actors-431">Heinrich
+        <lb n="8" />Huchs</persName> in namen üwer mir geantwurt hand, ir wellent mir soelich faelscher zum rechten stellen, daran mir
+    <lb n="9" />do benuegt. Ist mich sider in landmaer wise fürkomen, <persName ref="stadtasg-actors-432">Cuonrat Kappffman</persName>, <persName ref="stadtasg-actors-433">Uolrich Rugg</persName> und <persName ref="stadtasg-actors-434">Uoli Rainsperg</persName>
+<lb n="10" />süllent offennlich an Kulymans metzgi banck gestanden sin und offenlich geredt haben undern andern worten,
+    <lb n="11" />es sige war, ich sülle von <placeName ref="stadtasg-places-13">Bern</placeName> darum komen sin, das ich nit verschwigen moecht und uß iren raeten geredt
+    <lb n="12" />haben sülle, und so vil mer so sülle der genant <persName ref="stadtasg-actors-434">Rainsperg</persName> darzuo gesprochen haben, gange er dar, sy wend im
+<lb n="13" />umb sin dienst ein kind in ein kloster tuon, das sy ouch von iren gnaden getan hand. Ich bin ouch sidhar
+<lb n="14" />als vormalen in ir raet gangen, und noch hütt by tag, wenn ich wil, tuon mag. Sind nu die genannten dry
+<lb n="15" />soelicher reden gichtig, hoff und getrüw ich zuo gott, sy süllent mir miner eren wandlung thuon, oder aber die
+<lb n="16" />stellen, von denen sy das vernomen hand, und beger also gerichts und rechts zuo innen, und darzuo sicherheit
+<lb n="17" />und geleit nach notturfft für sy, üch alle und die üch ze versprechen stan zem rechten by dem rechten und
+<lb n="18" />von dem rechten, ouch zuo üch by üch und von üch ze wandlent mit allen denen, so denn mit mir darkoment
+<lb n="19" />biß an unser sicher gewarsami ungevarlich. Soelich geleit wellent mir ouch by antwurter diß brieffs
+<lb n="20" />minen sun, üwer statt kint, zuo schicken, so es denn an üwern muossen ist, wil ich dem rechttagen nachvolgen
+<lb n="21" />und min er als ein fromer erredten oder aber darum sterben. Noch eins mag ich hert verkiesen, das ettlich
+    <lb n="22" />koufflüt, als mich fürkompt, uß üwer statt zuo <placeName ref="stadtasg-places-13">Bern</placeName> und an andrer end gesessen sin und vil übels ouch von mir
+    <lb n="23" />geredt haben süllent, ich sige heimlich von der statt <placeName ref="stadtasg-places-38">sant Gallen</placeName> gewichen, kaem ich wider dar, ich saeche sun
+<lb n="24" />noch man niemer mer. Ob ich da den recht schuldigen ankom, wellent doch im besten vermercken, ob ich mich mit
+<lb n="25" />recht an in hangkti, um entschützung willen miner eren etc. Nu müsse es gott erbarmen, das ich vor drissig
+<lb n="26" />iaren har in guoten trüwen by üch als ein fromer mich enthalten und allweg üwer statt nutz und ere getrachtet
+<lb n="27" />hab, und ob gott wil, niemant anders vernemen sol, das ich des nu so bärlich engelten mueß. Mag ich mich
+<lb n="28" />mit recht des ye nüt ergetzen, so wil ich doch rach hin uff zuo gott den almechtigen, so lang und die wil ich leb,
+<lb n="29" />schryen, biß das dieselben falschen zungen als Dathan und Abyron gestrafft werdent. Üwer gütlich verschriben
+    <lb n="30" />antwurt. Datum uff <origDate when="1452-11-05">sontag nach aller heiligen tag anno etc. L secundo</origDate>.
+    <lb n="31" />Üwer williger <persName ref="stadtasg-actors-92" role="issuer">Johannes Hentzler</persName>,
+    <lb n="32" />stattschriber zu <placeName ref="stadtasg-places-51">Arow</placeName>.
+<pb facs="StadtASG_Missive_272_550.JPG" n="2" />
+    <lb n="33" />Den fromen fürsichtigen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rate der
+<lb n="34" />statt sant Gallen</orgName> minen bisunder lieben herren und
+<lb n="35" />guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

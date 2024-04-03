@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 68</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_68_135/136</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Eglolf Blarer, Abt des Benediktinerklosters St. Gallen, beschwert sich bei
+                    Bürgermeister und Rat zu St. Gallen ob ihrer (St. Galler) Art, die Steuern von
+                    Leuten in Gossau, Bernhardzell und anderorts, die teils Bürger von St. Gallen
+                    seien, einzutreiben.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-98">Steuer</term>
+                    <term ref="stadtasg-keywords-74">Beschwerde</term>
+                    <term ref="stadtasg-keywords-201">Abt</term>
+                    <term ref="stadtasg-keywords-115">Kloster</term>
+                    <term ref="stadtasg-keywords-147">Kaiser</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-23">Eglolf Blarer</persName>
+                    <placeName ref="stadtasg-places-7">Konstanz</placeName>
+                    <date>1434-11-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_68_135.JPG" n="1"/>
+            <p>
+                <lb n="1"/><persName ref="stadtasg-actors-23" role="issuer">Eglolff</persName> von gottes
+                gnaden abbt <lb n="2"/>des gotzhus zuo sant Gallen. <lb n="3"/>Unsern gruoz vor
+                ersamen wisen lieben getruwen. Als wir die von <placeName ref="stadtasg-places-66"
+                    >Gossow</placeName>, von <placeName ref="stadtasg-places-67">Bernhartzell</placeName>
+                <lb n="4"/>und ettlich anderer, der ain tail uwer burgerer sind, von stür wegen, so
+                sy uns und unserm gotzhus <lb n="5"/>pflichtig sind, für genomen hatten für den
+                allerdurchlüchtigesten unsern gnaedigesten herren <lb n="6"/>den kaiser<note>Wohl
+                    Kaiser <persName ref="stadtasg-actors-49" cert="medium">Friedrich III. von
+                        Habsburg-Österreich</persName>.</note>, haben wir vernomen und ist uns von
+                den unsern kund getan, wie ir uch <lb n="7"/>so verr darin gelait, darunder geredt
+                und getruwlich gearbait hänt, waerint wir im <lb n="8"/>land gewesen, das villicht
+                die sachen gütlich übertragen worden waerint. Und also <lb n="9"/>haben wir die
+                sachen gütlich angestellt und sind daruff ze lande komen und wellen <lb n="10"
+                />gerne darzuo lassen reden und söliche stüren oder zinse, so man unserem gotzhus
+                schuldig <lb n="11"/>ist, lieber in gütlicheit nemen denn das wir die mit gericht
+                und rechten von den <lb n="12"/>lüten bringen müssent. Hierummb bitten wir üch
+                füro zuo den sachen ze redenn <lb n="13"/>und das beste darinne ze tünde, als wir
+                uch getruwen, ob die sachen noch mit <lb n="14"/>früntschaft und gütlichen
+                betragen möchten werden. Geben zuo <origPlace ref="stadtasg-places-7">Costentz</origPlace>
+                am <lb n="15"/><origDate when="1434-11-04">donrstag nach aller hailgen tage anno etc. XXXIIIIto</origDate>. <pb facs="StadtASG_Missive_68_136.JPG" n="2"/>
+                <lb n="16"/>Den ersamen wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rate <lb n="17"/>zuo sant Gallen</orgName> unsern und unsers
+                gotzhus <lb n="18"/>lieben getruwen. </p>
+        </body>
+    </text>
+</TEI>

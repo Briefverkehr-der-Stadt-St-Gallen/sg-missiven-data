@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 117</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_117_233/234</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Wolfhart von Brandis bittet Bürgermeister und Rat zu St. Gallen, ihren
+                    Bürgermeister Gelter auf den 22. Februar abends zu einer Verhandlung nach
+                    Bludenz zu senden.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-37">Verhandlung</term>
+                    <term ref="stadtasg-keywords-70">Termin</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-48">Wolfhart von Brandis</persName>
+                    <placeName ref="stadtasg-places-13">Bern</placeName>
+                    <date>1439-01-30</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-05-21</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_117_233.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min willigen dienst vor lieben guoten fründ. Ich bitt <lb n="2"/>üch gar
+                mit gantzem ernst, dz ir als früntlichen wellint <lb n="3"/>sin und mir und andren
+                minen mitterben zuo sendint <lb n="4"/>üwern <persName ref="stadtasg-actors-146"
+                    >buorgermaister den Gelter</persName> zu unsserm tag <lb n="5"/>gen <placeName
+                    ref="stadtasg-places-90">Bludentz</placeName> uff die <date when="1438-02-22">alten vasnacht</date> ze
+                nacht da zu <lb n="6"/>sin, won wir sin nitt enbern mugend und vormals <lb n="7"/>me
+                by uns gewesen ist und unser sach erkunnett hat. <lb n="8"/>Her umb so lassent mich
+                nitt. Kan ich dz iemer in soelichen <lb n="9"/>oder meren sachen umb üch verdienen,
+                sond ir mich <lb n="10"/>willig vinden. Geben ze <origPlace ref="stadtasg-places-13"
+                    >Bern</origPlace> am <origDate when="1439-01-30">naechsten fry tag vor <lb
+                        n="11"/>unser frowentag ze liechtmiss anno domini Mo CCCC
+                    XXXVIIIIo</origDate>. <lb n="12"/><persName ref="stadtasg-actors-48" role="issuer">Wolffhart von
+                    Brandis <lb n="13"/>der elter</persName> fryg. <pb
+                    facs="StadtASG_Missive_117_234.JPG" n="2"/>
+                <lb n="14"/>Den fürsichtigen und wysen dem <orgName ref="stadtasg-actors-148" role="recipient">buorger <lb
+                        break="no" n="15"/>maister und rat ze sant Gallen</orgName> minen <lb n="16"
+                />besuonder guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

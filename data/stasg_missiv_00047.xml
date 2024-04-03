@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 47</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_47_93/94</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Otto III. von Hachberg, Bischof zu Konstanz, bittet Bürgermeister und Rat zu
+                    St. Gallen, ihrem Schulmeister, der sich nach Konstanz verpflichtet habe, zu
+                    erlauben, seine Stelle in Konstanz nächste Pfingsten (20. Mai) anzutreten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-6">Schule</term>
+                    <term ref="stadtasg-keywords-8">Schulmeister</term>
+                    <term ref="stadtasg-keywords-188">Bischof</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-30">Otto III. von Hachberg</persName>
+                    <placeName ref="stadtasg-places-7">Konstanz</placeName>
+                    <date>1431-04-28</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_47_93.JPG" n="1"/>
+            <p>
+                <lb n="1"/><persName ref="stadtasg-actors-30" role="issuer">Ott</persName> von gottes genaden <lb n="2"/>bischoff zuo
+                <placeName ref="stadtasg-places-7">Costentz</placeName>. <lb n="3"/>Unsern früntlichen gruos zevor
+                erbern und wisen lieben fründ. Üwer schuolmaister, so yetz by üch ist, <lb n="4"
+                />hat sich verpflicht, her gen <placeName ref="stadtasg-places-7">Costentz</placeName> in die schuol ze
+                komen, und wann es also umb die schuol yetz <lb n="5"/>gestallt ist, das man sin ze
+                not und bald bedarff, bitten wir üch mit gantzem vlisse, dem egenanten <lb n="6"
+                />üwerem schuolmaister ze günnen und ze erlowben und üweren willen dorzuo ze geben,
+                das er uff <lb n="7"/><date when="1431-05-20">pfingsten nechst künftig</date> her in die schuol komen
+                muege, und wellent in hieran nit sumen, das <lb n="8"/>wellen wir in allen sachen
+                umb üch beschulden. Geben zuo <origPlace ref="stadtasg-places-7">Costentz</origPlace> an <origDate when="1431-04-28">sambstag vor
+                Philippi und <lb n="9"/>Jacobi anno etc. XXXIo</origDate>. <pb
+                    facs="StadtASG_Missive_47_94.JPG" n="2"/>
+                <lb n="10"/>Den erbern wisen unsern guten fründ <lb n="11"/><orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+                    und ratt zu sand Gallen</orgName>. </p>
+        </body>
+    </text>
+</TEI>

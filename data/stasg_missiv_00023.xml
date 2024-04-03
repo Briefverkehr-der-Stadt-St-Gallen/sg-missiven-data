@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 23</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_23_45/46</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ulrich Gnäpser, der Hans Wildrich erschlagen hat, bittet Bürgermeister und Rat zu
+                    St. Gallen um Unterstützung vor Gericht gegen Georg Wildrich und andere. Dieser
+                    (Georg Wildrich) habe die Acht gegen ihn aussprechen lassen. Ulrich Gnäpser
+                    beschwert sich, dass Georg Wildrich vor ein fremdes Gericht vorgelassen worden
+                    sei; er bittet um schriftliche Antwort.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-49">Totschlag</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-50">Acht</term>
+                    <term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+                    <term ref="stadtasg-keywords-52">Fremdes Gericht</term>
+                    <term ref="stadtasg-keywords-25">Gericht</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-12">Ulrich Gnäpser</persName>
+                    <placeName ref="stadtasg-places-6">Mattwis</placeName>
+                    <date>1425-07-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_23_45.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Den wissen fürsichtigain <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und rat ze sant Gallen</orgName> anbüt ich <persName
+                    ref="stadtasg-actors-12" role="issuer">Uolrich Gnäpser</persName> minn willigen <lb n="2"
+                />dienst, und bit üch mit ernst von dess todschlags wegen, den ich lader begangen
+                hain ain <persName ref="stadtasg-actors-122">Hansen Wildrich</persName>, das ir <lb n="3"/>so
+                wol wellind tuon und mit <persName ref="stadtasg-actors-117">Joerigen Wildrich</persName> und
+                mit andren, die sich der sach ain nement, reden und bitten wellind, <lb n="4"/>ob
+                die sach ze ainer richung kumen moecht, so wolt ich tuon, was sich erber lüt
+                bekantind und ich erzügen <lb n="5"/>moecht. Mag aber das nüt gesin, des ich nüt
+                getruw, si nemend das von mir uff, wissend och, das mich für ist <lb n="6"/>kumen,
+                wie er mich ge echt hab, das dunkt mich unbillich sin, bit ich üwer wissat mit
+                ernst, das ir mit <persName ref="stadtasg-actors-117">Joerigen</persName>
+                <lb n="7"/>als fil redend und schaffind, das er mich uss acht lass, won er hat mich
+                wider recht ze acht geton, das ich wol <lb n="8"/>truw uss zebringan, won üch ist
+                wol ze wissan, das er sin trüw gab ain aines aides stat in offen gericht, <lb n="9"
+                />was im urtal und recht geb, dabi ze beliben und das nüt fürbas ze suochen, won ich
+                nüt ze land bin gewessen <lb n="10"/>und umb das landgricht gar nütz han gewist und
+                mir kain laid brieff nie wordan ist, das ich mich künd han <lb n="11"/>versprochen,
+                da getruw ich gott und dem rechten, das man kainn uss lentzsain main mit recht mug
+                ze acht <lb n="12"/>bringan, da inn ist mir unguetlich beschehen, won het ich es
+                gewist, ich welt mich wol hain veranthwurt, <lb n="13"/>das ich nüd ze acht kummen
+                wer. Och ist mich für kummen, wie ir im das landgricht erlopt habind, des ich <lb
+                    n="14"/>üch nüt getrüw, won ir moechtind im das nüt mit dem rechten erloben, won
+                ich hain nüt anders geton, denn <lb n="15"/>das üwer satzung wist und sait, die ir
+                und ich zuo den halgen geschworn habind, das ze hailtind, won üch <lb n="16"/>wol ze
+                wissen ist, das er semlichain fraeffel begieng, das ich es mit eren nüt über mocht
+                werden, wer es <lb n="17"/>recht gewessen, das er frümdi gricht soelt hain gesuocht,
+                wess hett man denn bedurft, das er sin trüw gab, was <lb n="18"/>im gricht und
+                urtail geb, dabi ze beliben. Och ist min herr gefrigt von unserm herren dem küng,
+                das niemen <lb n="19"/>kainn sinn diener nach man uff kain ander gricht triben sol,
+                hat iemen ütz zuo ainem ze sprechen, der sol <lb n="20"/>ain recht nemen in mins
+                heren gericht, wer das über fert, der ist unserm herren dem küng und minen <lb
+                    n="21"/>herren ain sum golds verfallen. Wer ich ze land gewessen, ich welt mich
+                wol hain verantwurt, das ich <lb n="22"/>nüd ze acht wer kummen. Weltend ir in nüt
+                da zuo halten, das er von frümden gerichtain liess, so moecht <lb n="23"/>ich nüt
+                gelassen, ich welt mines herren ratt und hilf dar umb ain rueffen und truw üch wol,
+                ir nemend <lb n="24"/>üch <persName ref="stadtasg-actors-117">Joerigen</persName> und all die,
+                zuo der sach mannand, gehaft sin nüt fürra ain nemend. Geben ze <origPlace
+                    ref="stadtasg-places-6" cert="medium">Matzis</origPlace><note>Wohl <placeName ref="stadtasg-places-6">Mattsies</placeName>.</note> an <origDate when="1425-07-04">sant <lb n="25"/>Uolrichs tag anno
+                    domini M CCCC XXV iar</origDate>. Üwer verschriben anthwurt lond mich wissain.
+                    <lb n="26"/>Von mir <persName ref="stadtasg-actors-12" role="issuer">Uolrich
+                    Gnaepser</persName>. <pb facs="StadtASG_Missive_23_46.JPG" n="2"/>
+                <lb n="27"/>Den fürsichtigan wissan dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burger <lb break="no" n="28"/>maister und rat der stat ze sant <lb n="29"
+                    />Gallen</orgName>. </p>
+        </body>
+    </text>
+</TEI>

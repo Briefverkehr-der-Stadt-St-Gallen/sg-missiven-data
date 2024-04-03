@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 129</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnten Beilagen sind nicht vorhanden</p></note>.</notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_129_257/258</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Feldkirch senden an Bürgermeister und Rat zu St. Gallen die
+                    Akten über einen Streit zwischen etlichen Feldkircher Bürgern um das Erbe des
+                    verstorbenen Wundarztes Meister Hans. Die Feldkircher bitten die St. Galler
+                    schriftlich um rechtlichen Rat für die Urteilssprechung.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-5">Erbe</term>
+                    <term ref="stadtasg-keywords-172">Wundarzt</term>
+                    <term ref="stadtasg-keywords-103">Urteil</term>
+                    <term ref="stadtasg-keywords-24">Klage</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-481">Prozessakte</term>
+                    <term ref="stadtasg-keywords-359">Meister</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-604">Beilage</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-63">Ammann und Rat zu Feldkirch</orgName>
+                    
+                    <date>1440-08-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-05-27</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_129_257.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst vor ersamen wisen sundern guoten lieben
+                guoten <lb n="2"/>fründ. Wir tuond üch ze wissent, das ettlich unser burger und
+                ander sich gen <lb n="3"/>enannder vor unserm rat in recht gestelt hand als von des
+                erbs und ver <lb break="no" n="4"/>lassen guots wegen, so maister <persName
+                    ref="stadtasg-actors-260">Hanns</persName> der wundartzt selig nach tod ver <lb break="no"
+                    n="5"/>lassen hat. Darzuo iro iettweder tail recht maint ze haben, und schikent
+                üch <lb n="6"/>hie mit iro anclag, red und widerred in geschrifft, so si denn vor
+                uns <lb n="7"/>getan und die sach daruff zem rechten gesetzt hand, darzuo och
+                ettliche <lb n="8"/>versigelt brieff, die denn von baiden tailn für gericht geleit
+                sind, als ir <lb n="9"/>dz alles wol hoeren und vernemen werden. Hierumb so bitten
+                wir üwer <lb n="10"/>guoten früntschafft mit sunderm ernst, so flissigest wir
+                vermügent, <lb n="11"/>das ir üch umb unsern willen so vil bekümbern und soelich
+                geschrifften <lb n="12"/>und brieff verhoern und unns daruff raettlich sin wellent,
+                ob soelichs <lb n="13"/>vor üch ergangen were, wes ir uch denn darumb zem rechten
+                bekennen <lb n="14"/>woelten und uns geschrifftlich wissen lassent, darumb das wir
+                uns <lb n="15"/>dester bas dar inn wissent zeverhalten und ainen spruch tuegent, der
+                uns <lb n="16"/>unverwissenlich si. Wa wir das umb üwer wisshait verdienen mügent,
+                    <lb n="17"/>soellent ir uns allweg willig haben, denn uns soelich sachen noch
+                bis <lb n="18"/>nit me begegnot sind. Geben uff <origDate when="1440-08-04">dornstag
+                    vor Laurentii anno domini <lb n="19"/>Mo CCCCo XLo</origDate>. <lb n="20"
+                    /><orgName ref="stadtasg-actors-63" role="issuer">Ammann und raet ze Veltkirch</orgName>. <pb
+                    facs="StadtASG_Missive_129_258.JPG" n="2"/>
+                <lb n="21"/>Den fürsichtigen ersammen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+                    und <lb n="22"/>der statt ze Santgallen</orgName> unsern guoten lieben fründen.
+            </p>
+        </body>
+    </text>
+</TEI>

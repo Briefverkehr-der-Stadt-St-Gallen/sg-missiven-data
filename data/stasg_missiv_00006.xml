@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 6</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_6_11/12</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bruder Ulrich Zeph von Rüti bittet Bürgermeister und Rat zu St. Gallen, dafür zu
+                    sorgen, dass Friedrich Stüdeli seine Schulden bei ihm (Ulrich Zeph) begleiche;
+                    Stüdeli habe Geld von Heinrich Zeph wegen des bereits verstorbenen Hans Zeph
+                    bekommen. Er hoffe auf eine aussergerichtliche Einigung, schrecke vor einer
+                    Gerichtsverhandlung nicht zurück, wenn sich diese als nötig erweisen sollte, und
+                    bittet um schriftliche Antwort.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-3">Erbteilung</term>
+                    <term ref="stadtasg-keywords-13">Schulden</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-127">Geld</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-6">Ulrich Zeph</persName>
+                    <placeName ref="stadtasg-places-1">Rüti Kloster</placeName>
+                    <date>1421-02-22</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <p/>
+                <persName>SO</persName>
+                <date>2018-06-29</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-20</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_6_11.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Den ersamen und wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat
+                    der statt sant Gallen</orgName> enbüt <lb n="2"/>ich brueder <persName
+                    ref="stadtasg-actors-6" role="issuer">Uolrich Zeph</persName> von <placeName
+                    ref="stadtasg-places-1">Rüti</placeName> min diemuetig gebett und dienst in Christo vor
+                lieben <lb n="3"/>herren. Als üwern gnaden ze wissen ist, das <persName
+                    ref="stadtasg-actors-115">Frik Stüdlin</persName> von minem bruoder <persName
+                    ref="stadtasg-actors-116">Hainrich</persName>
+                <lb n="4"/>gelt hat ingenomen von mines bruoders saelgen wegen <persName
+                    ref="stadtasg-actors-20">Hansen</persName> dar inn er mir <lb n="5"/>noch schuldig ist
+                ain guot tail, als ich in des wol bewisen wil, bitte ich üch ernstlhich, <lb n="6"
+                />dz ir es durch gottz willen tuon wellend und durch üwer er und mit im schaffend,
+                    <lb n="7"/>dz mir gnuog beschech von im won, das wil ich üch ze lieb tuon und
+                mit früntschaft <lb n="8"/>leben und nit mit gericht an langen von üwern wegen, wie
+                ir darinn farend mir <lb n="9"/>unbegriffenlich und ich üch da mit gedienen kan, dz
+                sond ir wissen, dz ich darzuo <lb n="10"/>willig bin. Moecht aber dz nit gesin, so
+                mag ich doch nit lassen als sy über <lb n="11"/>lang ald kurtz, ich suoch in mit
+                gericht, darinn ich ouch ain gut getrüwen hab, <lb n="12"/>es syge nit wider üch.
+                Üwer verschriben antwürt gebend minem bruoder. Datum in <origPlace ref="stadtasg-places-1"
+                    >Rüti</origPlace>
+                <lb n="13"/><origDate when="1421-02-22">sabato Oculi anno domini 1421</origDate>.
+                    <lb n="14"/>Bruoder <persName ref="stadtasg-actors-6" role="issuer">Uolrich
+                    Zeph</persName>
+                <lb n="15"/>allzit der üwer. </p>
+            <pb facs="StadtASG_Missive_6_12.JPG" n="2"/>
+            <p>
+                <lb n="16"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burger
+                        <lb break="no" n="17"/>maister und rat zuo sant Gallen</orgName>
+                <lb n="18"/>sinen gnaedigen herren.</p>
+        </body>
+    </text>
+</TEI>

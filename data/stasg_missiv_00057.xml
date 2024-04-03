@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 57</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_57_113/114</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Albrecht Blarer, Domherr zu Konstanz, empfiehlt Bürgermeister und Rat zu
+                    St. Gallen Kaspar Netzer als neuen Schulmeister, nachdem er gehört habe, dass der
+                    bisherige Schulmeister weggezogen sei.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-8">Schulmeister</term>
+                    <term ref="stadtasg-keywords-6">Schule</term>
+                    <term ref="stadtasg-keywords-87">Empfehlung</term>
+                    <term ref="stadtasg-keywords-345">Zeiger</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-35">Albrecht Blarer</persName>
+                    
+                    <date>1433-01-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_57_113.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min willig dienst vor wisen fürsichtigen lieben und guoten fründ. Ich
+                han vernomen, <lb n="2"/>wie das sich üwer schuolmaister von üch ziehen und das
+                schuolmaister ampt <lb n="3"/>uffgegeben hab oder das kurtzlich tuon werd, also wirt
+                zuo üch komen maister <persName ref="stadtasg-actors-180">Kaspar <lb n="4"
+                />Netzer</persName>, zoeger diß briefs, und wirt üch bitten umb das selb üwer
+                schuolmaister <lb n="5"/>ampt. Nun han ich vernomen von ettwa vil fromer lüten, die
+                sin kuntschafft hand, <lb n="6"/>das er ain soelicher man sige, mit dem ir und die
+                schuol wol versaehen sig. Ouch <lb n="7"/>gehoert er fromen biderben lüten ze
+                    <placeName ref="stadtasg-places-7">Costentz</placeName> mit sibschafft zuo, das er wol
+                    <lb n="8"/>versprecher gnuog hat, wie das notdurfftig ist, die für in
+                versprechent. Also <lb n="9"/>lieben herren und guoten fründ bitt ich üch
+                früntlich iemer durch miner dienst willen, <lb n="10"/>das ir üch in guetlich
+                wellen lassen enpfolhen sin. Kan ich das in soelichen und meren <lb n="11"/>sachen
+                umb üch verschulden und gedienen, des welt ich willig sin. Geben an <origDate
+                    when="1433-01-08">dunstag <lb n="12"/>nach der hailgen driyer küng tag anno
+                    etc. XXXIIIo</origDate>. <lb n="13"/><persName ref="stadtasg-actors-35" role="issuer"
+                    >Albrecht Blarer</persName>, <lb n="14"/>thuomherr ze <placeName ref="stadtasg-places-7"
+                    >Costentz</placeName>. <pb facs="StadtASG_Missive_57_114.JPG" n="2"/>
+                <lb n="15"/>Den wisen fürsichtigen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und
+                        <lb n="16"/>dem rat zuo sant Gallen</orgName> minen lieben herren und <lb
+                    n="17"/>guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

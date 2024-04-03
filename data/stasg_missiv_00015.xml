@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 15</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note><p>Zur Sache siehe auch die Missiven Nrn. 16 und 17.</p></note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_15_29/30</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich teilen Bürgermeister und Rat zu St. Gallen mit,
+                    dass sie an der Verhandlung zu Winterthur am 23. Januar entscheiden werden, eine
+                    neue Münze zu schlagen. Sie bitten die St. Galler, ihre Gesandten zu
+                    schicken und zu entscheiden, ob die St. Galler bei dieser Münzerneuerung
+                    mitmachen. Zürich wolle die neuen Münzen am 5. März ausgeben und der Vertrag
+                    soll 5 Jahre gültig sein.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-36">Münze</term>
+                    <term ref="stadtasg-keywords-12">Gesandter</term>
+                    <term ref="stadtasg-keywords-37">Verhandlung</term>
+                    <term ref="stadtasg-keywords-39">Vertrag</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>
+                    
+                    <date>1424-01-19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_15_29.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unsern früntlichen willigen dienst vor an lieben guoten fründ. Als üwer
+                etlicher ander stett, unser <lb n="2"/>fründen, ouch unser erbern botten, nechst ze
+                    <placeName ref="stadtasg-places-46">Winterthur</placeName> bi enander gewesen sint als
+                von der müntz <lb n="3"/>wegen etc., als üch wol ist wissent, und wir durch unser
+                erbern botten aber uff den <date when="1424-01-23">nechst <lb n="4"/>künftigen
+                    sunnentag</date> gen <placeName ref="stadtasg-places-46">Wintertur</placeName> von
+                vorgenanter sach wegen ze samen komen werden, <lb n="5"/>da tuon wir üwer
+                früntschaft ze wissen, das wir ze rat syen worden und dar uf gefallen <lb n="6"
+                />sint, das wir ein nüw müntz wellent slachen uff der stett korn und besser ie ein
+                pfund <lb n="7"/>und sechs schilling pfenning unser werung, dz ist XIII <abbr>ß.</abbr> angster
+                denar für einen guldin, <lb n="8"/>und süllent XXXXI angster pfenning uff ein lot
+                gan. So wellen wir slachen haller, <lb n="9"/>da gand XLIII haller uff ein lot. So
+                wellen wir dann slachen gross gelt, ie XIII für <lb n="10"/>einen guldin, und
+                wellent dann aber slachen klein blapphart, ie XXVI blapphart für einen <lb n="11"
+                />guldin. Die selben kleinen blapphart süllent ouch bestan uff der stett korn. Da
+                bitten <lb n="12"/>wir üch, dz ir üwern botten, die uff den vorgenanten tag komen
+                werdent, vollen gewalt geben <lb n="13"/>wellent, unsern botten ze sagen und ze
+                antwurten, ob ir die vorgenanten werschaft und müntz <lb n="14"/>nemen und die
+                halten wellent, als ouch wir, won wir dasselb gelt wellent usgeben uff <lb n="15"
+                />die <date when="1424-03-05">pfaffen vasnacht</date> nechst kunt. Und trüwen ouch,
+                dz wir die müntz also besorgen <lb n="16"/>wellen, das man si redlich und recht
+                sülle vinden, und wellent nach <placeName ref="stadtasg-places-47">Koelnscher</placeName>
+                march dz <lb n="17"/>werch lassen volfuerren, als sich dann die selb gewicht
+                hoeischen wirdet, und wellent ouch <lb n="18"/>die vorgenanten werschaften der
+                ietzgenanten nüwen müntz halten fünf iar, die nechsten nach enander <lb n="19"
+                />komend. Da tuond und nement in disen sachen für hand, als wir dar inn ein besunder
+                getrüwen <lb n="20"/>zuo üch haben, won wir ouch in allen sachen gern taetten und
+                tuon woelten, dz üch lieb und dienst <lb n="21"/>were. Geben an <origDate
+                    when="1424-01-19">mitwuchen nach sant Anthonyen tag anno etc. CCCCo
+                    XXIIIo</origDate>. <orgName ref="stadtasg-actors-503" role="issuer"><lb n="22"/>Burgermeister und rat <lb
+                        n="23"/>der statt Zürich</orgName>. <pb facs="StadtASG_Missive_15_30.JPG"
+                    n="2"/>
+                <lb n="24"/>Den fromen wisen unsern besundern lieben und guoten <lb n="25"/>fründen
+                dem <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und dem rat ze <lb n="26"/>sant
+                    Gallen</orgName>. </p>
+        </body>
+    </text>
+</TEI>

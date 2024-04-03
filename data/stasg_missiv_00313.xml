@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 313</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_313_631/632</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau berichten Bürgermeister und Rat zu St. Gallen in
+                    der Verhandlungssache um Hans von Höchst, wie er (Hans von Höchst) entgegen
+                    seinen Versprechungen den angesagten Verhandlungstermin nicht wahrgenommen habe.
+                    Nun bitten sie St. Gallen, sie in der Angelegenheit weiter zu unterstützen und
+                    bitten um schriftliche Antwort mit dem Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-336">Zeuge</term>
+                    <term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+                    <term ref="stadtasg-keywords-337">Zeugenaussage</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-2">Geleit</term>
+                    <term ref="stadtasg-keywords-83">Frieden</term>
+                    <term ref="stadtasg-keywords-204">Richter</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-25">Gericht</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>
+                    
+                    <date>1454-12-22</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-04-12</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_313_631.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst voran ersamen wysen sonder lieben <lb n="2"
+                />und guoten fründe. <persName ref="stadtasg-actors-104">Hanns von Hoechst</persName> hat uns
+                nun nechst geschriben, <lb n="3"/>wie er siner zugnüß uff den <date when="1454-12-16"
+                    >nechstvergangen mentag</date> hier vor unserm <lb n="4"/>gericht nach gan und
+                denn darnach uff <date when="1454-12-23">mentag nach Thome apostoli</date> vor <lb
+                    n="5"/>üwer wyßhait sin und dem nechsten nachkomen woelle, und hat begert, <lb
+                    n="6"/>im die zügen, alz er uns die in geschrifft dozemal sandt, und och den <lb
+                    n="7"/>amman und die richter, alz denn vor unsern frid sülen an ainem end ze <lb
+                    n="8"/>haben nach der ersten meß zu barfuoß und im gelait zu geben, dz <lb n="9"
+                />wir och do ze mal im zuoschriben, und die zügen und dz gericht <lb n="10"/>do
+                biß nach mittem tag daselbz sin wartotent. Also kam er noch <lb n="11"/>nieman von
+                sintwegen nit und widerbot och nit und tribt uns <lb n="12"/>also umb, dz unlidig
+                ist. Bittent wir üwer wyßhait, ir woellen <lb n="13"/>darinne fürnemen und tuon, alz
+                sich denn nach reht gepüret, und <lb n="14"/>uns von dem man ettlichen weg helffen
+                und soelichen großen <lb n="15"/>muotwillen ansehen. Dz woellen wir mit willen umb
+                üwer wißhait <lb n="16"/>beschulden und verdienen, denn er hat uns erst geschriben,
+                er konne <lb n="17"/>uff morn nit an sin zügnüß für üwer wyßhait komen, darumb <lb
+                    n="18"/>wir unser ratsbottschafft uff diß mal verhalten haben. Üwer guetlich <lb
+                    n="19"/>verschriben antwurt lassent uns mit dem potten wider wissen. Datum <lb
+                    n="20"/><origDate when="1454-12-22">dominica post Thome apostoli anno domini
+                    etc. LIIIIo</origDate>. <lb n="21"/><orgName ref="stadtasg-actors-511" role="issuer"
+                    >Burgermaister und <lb n="22"/>raute zu Lindow</orgName>. <pb
+                    facs="StadtASG_Missive_313_632.JPG" n="2"/>
+                <lb n="23"/>Den ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und rate zu <lb n="24"/>sant Gallen</orgName> unsern sondern
+                lieben und guoten fründen.</p>
+        </body>
+    </text>
+</TEI>

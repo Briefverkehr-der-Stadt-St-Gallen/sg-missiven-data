@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 267</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note><p>Zur Sache siehe auch Urkundenbuch der Abtei Sanct Gallen VI, Nr. 5426. Die erwähnte Beilage ist nicht vorhanden.</p></note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_267_535/536</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Konstanz informieren Bürgermeister und Rat zu St. Gallen, dass sie sich, wie zuvor bereits, Sorgen machten über den zu hohen Fleischpreis. Die letzten Verhandlungen zur Vermeidung von Teuerung waren ohne Resultat geblieben, deren Inhalt sei im beigelegten Zettel vermerkt (Beilage verloren). Konstanz lädt nun zu einer neuen Verhandlung am 24. Juli ein. St. Gallen soll das Problem in den Räten vorbesprechen und eine Ratsdelegation zur Verhandlung nach Konstanz schicken.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-150">Fleischpreis</term>
+                    <term ref="stadtasg-keywords-128">Fleisch</term>
+                    <term ref="stadtasg-keywords-303">Teuerung</term>
+                    <term ref="stadtasg-keywords-37">Verhandlung</term>
+                    <term ref="stadtasg-keywords-70">Termin</term>
+                    <term ref="stadtasg-keywords-130">Ratsdelegation</term>
+                    <term ref="stadtasg-keywords-346">Versorgung</term>
+                    <term ref="stadtasg-keywords-461">Armut</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>
+                                        <date>1452-07-15</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-11-15</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>SC</persName>
+                <date>2021-12-15</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_267_535.JPG" n="1" />
+<p>
+<lb n="1" />Unser willig fruntlich dienst zuo vor ersamen und wisen besundern lieben und guoten frund.
+<lb n="2" />Wir zwiveln nit, uch sig noch zuo guotter maß wol ingedenck, in welher maß wir uch vor
+<lb break="no" n="3" />mals durch ains gemainen nutzes willen richer und armer desglichen andern üwern
+<lb n="4" />und unsern guoten frunden den stetten umb den sew und an ander end als von des
+<lb n="5" />flaisch pfragens wegen, den zuo vermiden, geschriben und die zuo uns beruefft gehept haben,
+<lb n="6" />dozumal darvon in ettlicher maß, wie wol es do nit zuo vollem ustrag komen, geredt worden
+<lb n="7" />ist in mainung, als dann diser ingeschlossen zedel ußwist. Lieben frund, won nu am
+<lb n="8" />tag ligt, das durch solichen pfragen der flaischkoff zuo mercklicher thuri komen und zuo
+<lb n="9" />besorgen ist, wa der nit furkomen, das danne der flaischkouff noch thuro dadurch wirdet,
+<lb n="10" />das nu armen und richen künffteclich zuo schaden komen mag, und darumb ob dann
+<lb n="11" />noch hütt by tag darinn icht guotes furgenommen und zuo entlicher beschließung komen
+<lb n="12" />moechte, haben wir umb des besten und durch ains gemainen nutzes willen ettlichen
+<lb n="13" />stetten umb den sew und andern darumb geschriben und die zuo uns beruefft,
+<lb n="14" />sich darumb zuo underreden, was darinn zuo tund und für zuo nemen sige, damit
+<lb n="15" />solicher pfragen wurd abgetan, dann wol zuo geloben ist, so das gschaech, das dann
+<lb n="16" />der flaischkoff billich in glicherm koff sin und gon wurde. Herumb besundern guoten
+<lb n="17" />fründ bitten wir uch mit besunderm ernst flißig, diss im früntlichisten von
+<lb n="18" />uns zuo vermercken, und uch darumb dero sachen halbe in üwerm rate
+<lb n="19" />gütlich zuo underreden, was uns allen darinn zuo nutz fur zuo nemmen sig, und
+<lb n="20" />dann darumb üwer erber ratzbottschafft zuo uns und den andern dartzuo beruefften
+    <lb n="21" />stetten her in unser statt <placeName ref="stadtasg-places-7">Costentz</placeName> senden woellen uff den <date when="1452-07-23">naechsten sonnentag
+<lb n="22" />vor sant Jacobs des hailigen apposteln tag</date> schieristkomende zuo nacht da zuo sind,
+    <lb n="23" />und <date when="1452-07-24">mornendes an dem mentag</date> frue darvon nach notdurfft zuo reden, ob soelicher
+<lb n="24" />pfragen iendert vermitten und abgeton werden moecht. Dann in welchen
+<lb n="25" />sachen wir wisstint unser aller und gemains landsnutz und erfur zuo
+    <lb n="26" />nement, dar inn waeren wir alltzit willig. Geben an <origDate when="1452-07-15">sant Margarethen
+<lb n="27" />tag anno domini L secundo</origDate>.
+    <lb n="28" /><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister und
+<lb n="29" />räte der statt Costentz</orgName>.
+<pb facs="StadtASG_Missive_267_536.JPG" n="2" />
+    <lb n="30" />Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raute
+<lb n="31" />der statt sant Gallen</orgName> unsern besundern lieben
+<lb n="32" />und guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 98</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note><p>Am rechten Rand Blatt abgerissen, dadurch Textverlust.</p></note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_98_195/196</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Konstanz bitten Bürgermeister und Rat zu St. Gallen um
+                    Hilfe in einem Streit zwischen Ulrich Streif und Heinrich von Miltenberg um
+                    schlechtes Kupfer. St. Gallen soll ihren Bürger Ulrich Schnabelburg befragen, dem
+                    Miltenberg vor zwei Jahren von der gleichen Ware verkauft habe. Sie bitten um
+                    schriftliche Antwort mit dem gleichen Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-77">Metall</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-141">Befragung</term>
+                    <term ref="stadtasg-keywords-91">Handel</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-359">Meister</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>
+                    
+                    <date>1437-08-17</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-04-15</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_98_195.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst zuovor besunder lieben und guoten fründ.
+                Sich hat gemacht, das ain unser buerger <gap /> <lb n="2"/><persName ref="stadtasg-actors-226"
+                    >Uolrich Straiff</persName> der haffengiesser ainen, genant maister <persName
+                    ref="stadtasg-actors-227">Hainrich von Miltenberg</persName> den kantengiesser, ouch <gap />
+                    <lb n="3"/>buerger, aines valsches gezigen und von im geredt haben söll, wie er
+                im ettwas kupffers als für guot und <gap /> <lb n="4"/>und nemlich als für
+                kouffmansguot zue kouffen gegeben haben söll, das nun nit gerecht noch kouffmans
+                <gap /> <lb n="5"/>sy, darumb in nu der selb maister <persName ref="stadtasg-actors-227"
+                    >Hainrich</persName> für uns als zuo recht fürgevordert und im umb semlich <gap />
+                    <lb n="6"/>gesprochen hat. <persName ref="stadtasg-actors-226">Der Straiff</persName> ist
+                ouch sölicher wort und gezigs nit abred, er maint ouch daby, wie vo<gap /> <lb n="7"
+                />zites, namlich als by zwain iaren oder daby, der selb maister <persName
+                    ref="stadtasg-actors-227">Hainrich</persName> desselben gezügs <persName ref="stadtasg-actors-228"
+                    >Uolrichen Sch<supplied>nabelburg</supplied></persName> <gap /> <lb n="8"/>üwerm burger ain tail ouch
+                zuo kouffen gegeben hab, und als er nu den züg anvieng zu werchen, wäre der <gap />
+                    <lb n="9"/>semlicher mass, das er den darzue er in dann zuo werchen koufft hatt,
+                nit gewerchen künd noch möcht macht <gap /> <lb n="10"/>das ie so verr, das maister
+                    <persName ref="stadtasg-actors-227">Hainrich</persName> das kupffer von <persName
+                    ref="stadtasg-actors-228">Uolrichen Schnabelburg</persName> widerumb nemen müste, <gap /> <lb
+                    n="11"/>nit gerecht noch kouffnamsguot wäre. Es spricht ouch daby der selb
+                    <persName ref="stadtasg-actors-226">Straiff</persName> mer, wie <persName ref="stadtasg-actors-229"
+                    >Hannsen Schnabelbur<supplied>g</supplied></persName> <gap /> <lb n="12"/>sim bruoder, ouch üwerm
+                burger, darumb ouch wol wissentlich sin söll denne im <persName ref="stadtasg-actors-228"
+                    >Uolrich</persName> sin bruoder desselb <gap /> <lb n="13"/>zügs ouch ettwievil
+                gäbe, und als er den nu anvieng werchen, do wäre er in sölicher mass, das er in
+                <gap /> <lb n="14"/>verwerchen möchte noch könd, des er nu zue grossem kosten und
+                schaden komen sy, als er im danne das <gap /> <lb n="15"/>clagt hab, und haben baid tail
+                begert die üwern baidsament darumb näch recht zu verhörent wie d<gap /> <lb n="16"/>an
+                im selbs gewesen sy. Besunder guoten fründ umb des willen, das dann die warhait
+                darinne gefürde <gap /> <lb n="17"/>nit gehindert werde, sunder darinne vollgang und
+                bescheh, das dann billich und recht sy, bitten wir <gap /> <lb n="18"/>guoten
+                früntschafft mit ernstlichem fliss, wie ir umb unsern willen so wol tuon und die
+                benanten üwer <gap /> <lb n="19"/>burger baid für üch oder üwer statt gericht
+                besenden und die by geswornen aiden, als dann recht ist, <gap /> <lb n="20"/>verhören
+                und ir sag innemen und uns danne die in schrifft aigenlich als by disem botten
+                sennden <gap /> <lb n="21"/>geben wellen, darumb das wir warhait der sach gruntlich
+                underwist werden. Das begeren wir in <gap /> <lb n="22"/>glichen und merern sachen umb
+                üch und die üwern zu beschulden und zu verdienen, wa sich das g<gap /> <lb n="23"
+                />Geben an <origDate when="1437-08-17">sambstag nach assumpcionis Marie virginis
+                    anno domini etc. XXXVIImo</origDate>. <lb n="24"/><orgName ref="stadtasg-actors-56"
+                    role="issuer">Burgermaister und <lb n="25"/>raute zue Costentz</orgName>. <pb
+                    facs="StadtASG_Missive_98_196.JPG" n="2"/>
+                <lb n="26"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raute der statt <lb n="27"/>sant Gallen</orgName> unsern
+                besunder lieben und guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

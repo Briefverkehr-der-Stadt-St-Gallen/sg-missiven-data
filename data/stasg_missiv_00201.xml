@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 201</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt>
+                <note><p/></note>
+            </notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_201_403/404</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Anton Schenk von Landegg, Vogt zu Bischofszell, vermittelt in einem Streitfall
+                    zwischen einem St. Galler Bürger namens Peter Marshüblin und einem Konstanzer
+                    namens Rukli Frienherten und andern. Er bittet den St. Galler Rat, seinen Bürger
+                    zurechtzuweisen, damit dieser den vereinbarten Frieden einhalte. Er bittet um
+                    eine schriftliche Antwort mit dem gleichen Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-120">Vermittlung</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-188">Bischof</term>
+                    <term ref="stadtasg-keywords-249">Zurechtweisung</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-83">Frieden</term>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-59">Anton Schenk von Landegg</persName>
+                    <date>1446-06-06</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-09</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_201_403.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min willig dienst vor guoten fründe und lieben heren. Mir hat fürbracht
+                bruoder <lb n="2"/><persName ref="stadtasg-actors-333">Rukli von Frigenherten</persName> und
+                sine fründ, wie er ettwas zerwürffnust habe <lb n="3"/>mit <persName ref="stadtasg-actors-334"
+                    >Petern Marshueblin</persName> üwerm burger. Darain an frid gemacht ist bis uff
+                    <lb n="4"/>disen hüttygen tag. Wie sich das dann gemacht hat, so begert der
+                obgenante <persName ref="stadtasg-actors-333">Rukli</persName>, <lb n="5"/>mines heren von <placeName ref="stadtasg-places-7">Costentz</placeName> man, nie anders denn ains rechten,
+                und welli och dem <lb n="6"/>üwern widerumb och gern gerecht werden, wa aber der
+                üwer anders rette, <lb n="7"/>das sol sich mit der warhat nit vinden. Also bitt ich
+                üch mit ernst, das <lb n="8"/>ir mit dem üwern so vil wellin schaffen, das er minem
+                gnaedigen heren von <lb n="9"/><placeName ref="stadtasg-places-7">Costentz</placeName> den sinen
+                welli sicher saigen bis an ain recht. Das muoß er imm <lb n="10"/>gnuog sin.
+                Desselben glich han ich mit dem selben mines heren man och geschafft, <lb n="11"
+                />das er sich von dem üwern ains rechten muoß laussen benuegen und in och <lb
+                    n="12"/>dar uff zuo dem rechten sicher sol saigen. Tuond hier inn, als ich des
+                ain guot <lb n="13"/>truwen zuo üch hab. Üwer verschriben antwurt land mich wissen
+                by disem <lb n="14"/>bott. Geben uff <origDate when="1446-06-06">mentag in der
+                    hailgen pfingst wochen anno domini etc. XLVIto</origDate>. <lb n="15"/><persName
+                    ref="stadtasg-actors-59" role="issuer">Anthoni Schenk von Landegg</persName>, <lb n="16"
+                />vogt ze <placeName ref="stadtasg-places-19">Byschoffzelle</placeName>. <pb
+                    facs="StadtASG_Missive_201_404.JPG" n="2"/>
+                <lb n="17"/>Den fürsichtigen wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und
+                        <lb n="18"/>raute ze Santgallen</orgName> minen lieben heren und guoten <lb
+                    n="19"/>fründen. </p>
+        </body>
+    </text>
+</TEI>

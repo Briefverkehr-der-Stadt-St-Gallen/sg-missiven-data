@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 210</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. 211.</p></note></notesStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_210_421/422</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Rapperswil bitten Bürgermeister und Rat zu St. Gallen, in
+                    einer Erbstreitigkeit zwischen Klaus Halder und den Kindern des von Langenhard
+                    zu schlichten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-120">Vermittlung</term>
+                    <term ref="stadtasg-keywords-5">Erbe</term>
+                    <term ref="stadtasg-keywords-307">Erbstreit</term>
+                    <term ref="stadtasg-keywords-269">Kind</term>
+                    <term ref="stadtasg-keywords-567">Geschwister</term>
+                    <term ref="stadtasg-keywords-149">Rechtstag</term>
+                    <term ref="stadtasg-keywords-368">Schultheiss</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-527">Schultheiss und Rat zu Rapperswil</orgName>
+                    <date>1448-09-22</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-19</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_210_421.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser willig früntlich dienst zuo vor fürsichtigen wisen lieben und guot
+                fründ. Es ist ettwas sach von erbs wegen <lb n="2"/>zwischent <persName
+                    ref="stadtasg-actors-349">Clausen Halder</persName> und des von <persName ref="stadtasg-actors-251"
+                    >Langenhart</persName> kinden ietz zuo <placeName ref="stadtasg-places-102"
+                    >Wil</placeName> uff üwer wißheit zum rechten verte <lb break="no" n="3"
+                />dingt, als wir das von <persName ref="stadtasg-actors-351">Bertschin Langenhart</persName>,
+                unserm burger, vernomen haben etc. Darumb sind wir also <lb n="4"/>dieselben üwer
+                wißheit mitt früntlichem ernste bittent von wegen des unsern ietzgenant und siner
+                    <lb n="5"/>geswistergit, üch der sach zuo beladen, inen beiden teilen rechttag
+                hierane zuo schoepffene und sy daruff <lb n="6"/>gütlich mitt üwerm rechtlichen
+                spruch zuo entscheidene, ouch üch daby allweg die unsern zuo irem <lb n="7"/>rechten
+                bevelchen zuo habene. Das wellent wir mitt gar guotem willen umb üch und die <lb
+                    n="8"/>üwern in der glichen und meren sachen unverdrossen verdienen, wo es
+                zeschulden kumpt. Geben uff <origDate when="1448-09-22">Mauricy <lb n="9"/>et
+                    sociorum anno etc. XLVIIImo</origDate>. <lb n="10"/><orgName ref="stadtasg-actors-527"
+                    role="issuer">Schultheis und raut <lb n="11"/>zuo Raperswil</orgName>. <pb
+                    facs="StadtASG_Missive_210_422.JPG" n="2"/>
+                <lb n="12"/>Den fürsichtigen wisen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermeister <lb n="13"/>und raut zuo sant Gallen</orgName> unsern <lb n="14"
+                />sunder lieben guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

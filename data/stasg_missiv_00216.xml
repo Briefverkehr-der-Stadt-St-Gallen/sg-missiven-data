@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 216</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_216_433/434</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Herzog Albrecht von Österreich informiert Bürgermeister und Rat zu St. Gallen
+                    über einen Überfall auf seinen Berater Bilgeri von Heudorf und bittet sie, ihn
+                    bei seinen Bemühungen um Friedenswahrung zu unterstützen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-75">Angriff</term>
+                    <term ref="stadtasg-keywords-266">Berater</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-85">Friedenssicherung</term>
+                    <term ref="stadtasg-keywords-277">Herzog</term>
+                    <term ref="stadtasg-keywords-540">Schloss</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-127">Albrecht, Herzog von Österreich</persName>
+                    <placeName ref="stadtasg-places-23">Diessenhofen</placeName>
+                    <date>1449-07-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-23</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_216_433.JPG" n="1"/>
+            <p>
+                <lb n="1"/><persName ref="stadtasg-actors-127" role="issuer">Albrecht</persName> von gotes
+                gnaden <lb n="2"/>hertzog ze <placeName ref="stadtasg-places-91">Osterrich</placeName>, ze
+                    <placeName ref="stadtasg-places-94">Steir</placeName> etc. <lb n="3"/>Ersamen weysen und
+                besunder liben. Uns ist angelanngt, wie an ettlichen ennden <lb n="4"/>fürgegeben
+                werde, daz wir die <persName ref="stadtasg-actors-357">Fulachen</persName>, <persName
+                    ref="stadtasg-actors-358">Rogkwilr</persName> und ander ir hellfer, die unserm <lb n="5"
+                />rat <persName ref="stadtasg-actors-359">Pilgreim von Hewdorff</persName> bey nacht und nebel
+                unbewart sein sloss, leib und <lb n="6"/>gut habent understannden antzegwynnen,
+                unpillichen in unsern ungnaden <lb n="7"/>haben. Darauf lassen wir ew wissen, als
+                wir dann den von <placeName ref="stadtasg-places-13">Bern</placeName>,
+                    <placeName ref="stadtasg-places-49">Solotern</placeName>
+                <lb n="8"/>und andern auch getan haben, daz wir yr allen unsern ernst dartzu tun
+                wellen, <lb n="9"/>damit frid und sun in unsern lannden gehalten werde und soelich
+                unbillich <lb n="10"/>sachen nyemand vermainen zugestatten. Und nach dem und wir
+                vernemen, <lb n="11"/>daz ir zu friden ouch genaigt seyt, bitten wir ew mit ernst,
+                daz ir daran wellet <lb n="12"/>sein und bestellen, daz uns von den ewrn kainerlay
+                irrung in soelichem unserm <lb n="13"/>fürnemen beschehe, als wir des sunder
+                vertrawen zu ew haben. Daran erzaiget <lb n="14"/>ir uns sunder gevallen. Geben zu
+                    <origPlace ref="stadtasg-places-23">Tyessenhoven</origPlace> an <origDate
+                    when="1449-07-01">zinstag nach sand Peter <lb n="15"/>und Pauls tag anno etc.
+                    quadragesimo nono</origDate>. <lb n="16"/>Dominus dux in consilio. <pb
+                    facs="StadtASG_Missive_216_434.JPG" n="2"/>
+                <lb n="17"/>Den ersamen wisen unsern besunder lieben <lb n="18"/>dem <orgName
+                    ref="stadtasg-actors-148" role="recipient">burgermeister und rate zu sand
+                Gallen</orgName>. </p>
+        </body>
+    </text>
+</TEI>

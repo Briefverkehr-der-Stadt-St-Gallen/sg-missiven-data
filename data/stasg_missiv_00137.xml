@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 137</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_137_273/274</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau fassen die Aussagen, die im Zusammenhang mit der
+                    Auseinandersetzung zwischen den Bewohnern von Unterreitnau und Michael Glarer
+                    wegen einer neuen Kirchenglocke gemacht wurden, zusammen und bitten
+                    Bürgermeister und Rat zu St. Gallen, ihnen das Urteil des Glockengiesser Meisters Ulrich
+                    schriftlich mitzuteilen oder diesen für mündliche Aussagen und einen Entscheid
+                    auf den 4. September nach Lindau zu senden. Die Lindauer bitten um eine
+                    schriftliche Antwort mit dem Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-176">Glocke</term>
+                    <term ref="stadtasg-keywords-618">Giesser</term>
+                    <term ref="stadtasg-keywords-359">Meister</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-103">Urteil</term>
+                    <term ref="stadtasg-keywords-93">Mündlich</term>
+                    <term ref="stadtasg-keywords-321">Schriftlich</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-70">Termin</term>
+                    <term ref="stadtasg-keywords-141">Befragung</term>
+                  
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>
+                    
+                    <date>1441-08-21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-06-03</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_137_273.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst zu vor sunder lieben und guoten fründe. <lb
+                    n="2"/>Alz ir uns denn yetz uff unser schriben, so wir üch von der spenn wegen
+                    <lb n="3"/>zwüschen den von <placeName ref="stadtasg-places-104">Raitnow</placeName> und
+                maister <persName ref="stadtasg-actors-276">Micheln Glarer</persName>, unsern burger, <lb
+                    n="4"/>getan haben, widerumb geschriben und geantwurt hant, wie der üwer <lb
+                    n="5"/>begere, baider parthyen red und widerred muntlich oder in geschrifft ze
+                verhoeren <lb n="6"/>etc., haben wir wol vernomen und soelich üwer schrifft den
+                unsern hoeren lassen. Der <lb n="7"/>hat uns geantwurt, wie maister <persName
+                    ref="stadtasg-actors-275">Uolrich</persName>, gloggengiesser, vormalz wol gehoert habe, <lb
+                    n="8"/>dz die von <placeName ref="stadtasg-places-104">Raitnow</placeName> mainent, wie
+                die glogg nit guot sin, und och ir zuosaetz <lb n="9"/>gesprochen haben, dz maister
+                    <persName ref="stadtasg-actors-276">Michel</persName> den von <placeName ref="stadtasg-places-104"
+                    >Raitnow</placeName> an der sum XVI guldin <lb n="10"/>ab lassen soell. Und aber
+                maister <persName ref="stadtasg-actors-276">Michels</persName> mainung ist, wie die glogg an
+                züg, <lb n="11"/>an getoen und an allen dingen guot sige, dz och sin zuosaetz
+                gesprochen haben, dz die selb <lb n="12"/>glogg guott soell sin. Darumbe er maint,
+                nit notturfftig zu sind, dz füro ze verhoeren, <lb n="13"/>so sige och darumbe
+                dehain kuntschafft gelait. Hierumb lieben fründe so <lb n="14"/>bitten wir üwer
+                guoten früntschafft mit besonderm ernst vlißig, den üwern guetlich <lb n="15"/>ze
+                underwysen, mit im sovil ze reden und ze schaffent und och selbz daran ze <lb n="16"
+                />sind, dz er sy ane fürzug darumbe entschaide und der ainen urtail, die er vormalz
+                    <lb n="17"/>wol vernomen hat, volge und helle, wedre in die besser und gerehter
+                bedunke sin, <lb n="18"/>und uns die selben urtail in geschrifft wissen lasse.
+                Vermainte er aber, dz nit ze <lb n="19"/>tuend, so woellen doch mit im schaffen, dz
+                er uff <date when="1441-09-04">mentag vor unser frowen tag nativitatis <lb n="20"
+                    />nechstkomende</date> ze raut zit uff iro costung by uns sige und baid tail
+                verneme <lb n="21"/>und sy och alz denn entschaide. Denn wir mainen, dz besser sige,
+                dz er sy muntlich <lb n="22"/>denn in geschrifft verhoere, und dz sy och e ab der
+                sache komen denn sust. So <lb n="23"/>woellen wir och den von <placeName
+                    ref="stadtasg-places-104">Raitnow</placeName> und iren zuosaetzen soelichs ouch verkünden
+                und <lb n="24"/>sy uff den selben tag zu uns berueffen. Und ir woellen üch hierinne
+                so früntlich <lb n="25"/>bewysen sonder tuon, alz wir üch denn dez und allez guoten
+                vor menglich wol getrüwen. <lb n="26"/>Dz begern wir in der glich mindern und meren
+                sachen, wa sich dz gepüret, mit <lb n="27"/>gantzem willen umb üwer ersame ze
+                beschulden und zu verdienen. Und <lb n="28"/>wir begern hierumb üwer guetlich
+                verschriben antwurt mit dem potten. <lb n="29"/>Datum <origDate when="1441-08-21"
+                    >secunda ante Barthlomei apostolorum anno domini etc. XLIo</origDate>. <lb
+                    n="30"/><orgName ref="stadtasg-actors-511" role="issuer">Burgermaister und <lb n="31"
+                    />raute zu Lindow</orgName>. <pb facs="StadtASG_Missive_137_274.JPG" n="2"/>
+                <lb n="32"/>Den ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raute zu <lb n="33"/>Santgallen</orgName> unsern sondern
+                lieben und guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

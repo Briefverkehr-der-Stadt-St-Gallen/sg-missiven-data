@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 226</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_226_453/454</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Bopfingen empfehlen Bürgermeister und Rat zu St. Gallen
+                    Rudolf Aich, der sich bei ihnen aufgehalten und sich der Norm entsprechend
+                    verhalten habe.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-87">Empfehlung</term>
+                    <term ref="stadtasg-keywords-474">Hauptmann</term>
+                    <term ref="stadtasg-keywords-322">Geselle</term>
+                    <term ref="stadtasg-keywords-214">Krieg</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-529">Bürgermeister und Rat zu Bopfingen</orgName>
+                    <date>1450-07-13</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-01-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_226_453.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser fruntlich willig dinst bevor lieben und guet fruende. Der erber
+                <persName ref="stadtasg-actors-365">Ruditzer <lb n="2"/>Aich</persName> ist im zue satz den krieg bi uns
+                gewesen, und der gsellen houptman hat <lb n="3"/>sich redlich und erberclich
+                gehalten, uns und den unsern willig und gehorsam <lb n="4"/>gewesen, damit wir guetz
+                benuegen gehept hand. Darumb biten wir euch fruent <lb break="no" n="5"/>lich, ir
+                wellen in euch nun unsern willen bevolhen lassen sin, auch gunst <lb n="6"/>und
+                fruntschafft beweisen. Daz wellen wir mit willen umb uwer ersami <lb n="7"/>lieb
+                gedienen. Geben <origDate when="1450-07-13">Margarethe anno Lmo</origDate>. <lb n="8"
+                /><orgName ref="stadtasg-actors-529" role="issuer">Burgermaister und rat <lb n="9"/>der stat zue Boppfingen</orgName>.
+                    <pb facs="StadtASG_Missive_226_454.JPG" n="2"/>
+                <lb n="10"/>Den erbern und weisen <orgName ref="stadtasg-actors-148" role="recipient">buergermaister und <lb n="11"/>rate zue
+                    sant Gallen</orgName> unsern lieben und guoten <lb n="12"/>fruenden. </p>
+        </body>
+    </text>
+</TEI>

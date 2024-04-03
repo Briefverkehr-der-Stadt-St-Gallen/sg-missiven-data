@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 7</title>
+            </titleStmt>
+
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_7_13/14</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Rudolf, Heinrich, Hans, Friedrich von Tettikofen und Konrad in der Bünt, genannt
+                    Rüll von Konstanz, bitten Bürgermeister und Rat zu St. Gallen, Georg Wildrich,
+                    der wegen eines Vergehens gefangen genommen wurde, nicht hart zu bestrafen,
+                    sondern ihn gegen eine bescheidene Bürgschaftsleistung frei zu lassen. Sie
+                    bitten um eine schriftliche Antwort.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-19">Gefängnis</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-20">Bürgschaft</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-7">Rudolf von Tettikofen</persName>
+                    <persName ref="stadtasg-actors-8">Heinrich von Tettikofen</persName>
+                    <persName ref="stadtasg-actors-9">Hans von Tettikofen</persName>
+                    <persName ref="stadtasg-actors-10">Friedrich von Tettikofen</persName>
+                    <persName ref="stadtasg-actors-11">Konrad in der Bünd</persName>
+                    
+                    <date>1421-04-17</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <p/>
+                <persName>SO</persName>
+                <date>2018-06-29</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-20</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_7_13.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst vor lieben guoten fründ. Wir haben
+                vernommen, <lb n="2"/>wie ir unsern fründ <persName ref="stadtasg-actors-117">Jeryen
+                    Willdrich</persName> gefangen habind von ettwas fraefels <lb n="3"/>wegen, wa er
+                sich nu anders gen üch halt denn nach üwerm willen, das hoeren <lb n="4"/>wir nit
+                gern und bittend üch mit früntlichem fliss und ernst, das ir kain <lb n="5"/>gaechte
+                an im begangind, sunder so wol tuon wellind durch unser aller dienst <lb n="6"
+                />willen und den vorgenanten unsern fründ uff ain beschaidenn trostung uss der <lb
+                    n="7"/>vancknuss laussind und in durch unsern willen nit dest herter haltind, so
+                    <lb n="8"/>wellen wir uns fürderlich hin uff fuegen und gedencken, was darinn
+                das best <lb n="9"/>ze tuend sy, das unser fründ genn üch in früntschafft komm. Und
+                tuend darinn, als <lb n="10"/>wir üch sunderlich wol getrüwen, wa wir das ietz und
+                hie nach umb üch und <lb n="11"/>üwer gemainen statt beschulden und gedienen
+                künnden, darinn sond ir uns <lb n="12"/>och willig finden, und land uns des üwer
+                früntlich verschriben antwurt wissen <lb n="13"/>by dem bottenn. Geben besigelt von
+                unser aller wegenn mit des burgermaisters <lb n="14"/><persName ref="stadtasg-actors-8">Hainrichs von Tettikoven</persName> insigele, an <origDate when="1421-04-17"
+                    >donrstag ze nacht vor Geory anno <lb n="15"/>etc. CCCCo XXI</origDate>. <lb
+                    n="16"/><persName ref="stadtasg-actors-7" role="issuer">Ruodolff von
+                    Tettikoven</persName>, custor, <persName ref="stadtasg-actors-8" role="issuer">Hainrich
+                    von <lb n="17"/>Tettikoven</persName>, burgermaister, <persName ref="stadtasg-actors-9"
+                    role="issuer">Hans</persName> und <persName ref="stadtasg-actors-10" role="issuer">Frick
+                    von <lb n="18"/>Tettikoven</persName> und <persName ref="stadtasg-actors-11"
+                    role="issuer">Cuenrat in der Bünd</persName>, genant Rüll <lb n="19"/>von
+                    <origPlace ref="stadtasg-places-7">Costentz</origPlace>. </p>
+            <pb facs="StadtASG_Missive_7_14.JPG" n="2"/>
+            <p>
+                <lb n="20"/>Den erbern wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und dem rat ze <lb n="21"/>sant Gallen</orgName> unsren gueten
+                fründen.</p>
+        </body>
+    </text>
+</TEI>

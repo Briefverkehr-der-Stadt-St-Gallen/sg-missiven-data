@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 63</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_63_125/126</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Appenzell bitten Bürgermeister und Rat zu St. Gallen, den
+                    Streit zwischen ihren (Appenzeller) Landleuten Junker Estrich und dessen Ehefrau
+                    sowie Otmar Ortwin vor ihrem (St. Galler) Gericht beizulegen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-104">Landmann</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-25">Gericht</term>
+                    <term ref="stadtasg-keywords-297">Ehefrau</term>
+                    <term ref="stadtasg-keywords-323">Junker</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-506">Ammann und Rat zu Appenzell</orgName>
+                    
+                    <date>1433-08-30</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_63_125.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst voran lieben guoten fründ. Uns hat
+                fürbracht <lb n="2"/>iunkherr <persName ref="stadtasg-actors-184">Estrich</persName>, unser lantman, wie das
+                er und sin eliche frow mit <persName ref="stadtasg-actors-24">Otmar <lb n="3"
+                    />Artwing</persName>, och unserm lantman, ettwas stoessen gehebt hab. Der selben
+                iren stoessen <lb n="4"/>sy uff üch soellen zum rechten komen sin. Also lieben
+                guoten fründ wan sy nu <lb n="5"/>baid unser geschwornen sint, sig dann sach, das
+                sy ir stoess baid uff üch komen <lb n="6"/>sigint, so bittent wir üch mit ernst
+                gar flissig, die selben unser lantlüt ze <lb n="7"/>entschadin. Kunnent wir das
+                indes gelichen mindern und mereren sachen beschulden <lb n="8"/>und gedienen, sond
+                ir uns willig vinden. Geben am <origDate when="1433-06-30">naechsten sunnentag vor
+                    sant <lb n="9"/>Verenen tag anno domini Mo CCCCo XXXo tercio</origDate>. <lb
+                    n="10"/><orgName ref="stadtasg-actors-506" role="issuer">Amman und raut <lb n="11"/>zuo
+                    Appenzelle</orgName>. <pb facs="StadtASG_Missive_63_126.JPG" n="2"/>
+                <lb n="12"/>Den wisen fürsichtigen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raut <lb n="13"/>der statt zuo sant Gallen</orgName> unsren
+                lieben guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

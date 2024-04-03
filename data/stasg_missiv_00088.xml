@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 88</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_88_175/176</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Konstanz bitten Bürgermeister und Rat zu St. Gallen, eine
+                    Ratsdelegation zu einer Beratung zu schicken, an welcher über das Schlagen von
+                    Eichen diskutiert werden soll.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-138">Weg</term>
+                    <term ref="stadtasg-keywords-37">Verhandlung</term>
+                    <term ref="stadtasg-keywords-131">Versammlung</term>
+                    <term ref="stadtasg-keywords-130">Ratsdelegation</term>
+                    <term ref="stadtasg-keywords-140">Eiche</term>
+                    <term ref="stadtasg-keywords-178">Nutzungsrecht</term>
+                    <term ref="stadtasg-keywords-427">Gemeinnutzen</term>
+                    <term ref="stadtasg-keywords-354">Spital</term>
+                    <term ref="stadtasg-keywords-485">Kriegsvorbereitung</term>
+                    <term ref="stadtasg-keywords-186">Holz</term>
+                    <term ref="stadtasg-keywords-615">Wald</term>
+                    <term ref="stadtasg-keywords-616">Weide</term>
+                    <term ref="stadtasg-keywords-41">Feuer</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>
+                    
+                    <date>1437-03-19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS</persName>
+                <date>2019-04-16</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_88_175.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst zuvor insunder lieben und guoten fründe.
+                Kürtzlich haben wir ettlichen unsern nachgeburen <lb n="2"/>und umbseßen geschriben
+                und zu uns berüft, nemlich als von dez aichin holtzes und der hoew wegen, als daz
+                aichi <lb n="3"/>holtz mit den widen zu howen und in manigen ander unnutzlichen weg
+                vast und swarlich zergängt und <lb n="4"/>die hoewe nit als merklich widerumb
+                ingelegt und versehen werden, als dann notdurftig waere, da durch ob <lb n="5"
+                />krieg oder brunsten in stetten oder uf dem land uferstünden, da vor gott sie, wol
+                großer schad und gebrest <lb n="6"/>wesen moechte, als ir daz bas verstand, denn wir
+                üch beschriben kunnen. Also haben sich die, so dann by uns <lb n="7"/>alhie gewesen
+                sint, in ettwemenigen weg darumb mitainander underredt und verlaußen anderwerb,
+                darumb <lb n="8"/>uf die <date when="1437-04-03">mittwochen in den ostern
+                    schierostkunftig</date> zusamen ze komen her in unser statt und sich alsdann
+                füro <lb n="9"/>nach notdurft darumb zu underreden, wie solichs hinfür versehen
+                werde. Und wan wir nu vernemen, <lb n="10"/>daz <orgName ref="stadtasg-actors-552">üwer
+                    spital</orgName> und ouch ander üwer burger, nemlich <persName ref="stadtasg-actors-206"
+                    >Cunrat Hör</persName>, <persName ref="stadtasg-actors-217">Hanns Gnepser</persName>,
+                    <persName ref="stadtasg-actors-218">Hug von Watt</persName>
+                und ander <lb n="11"/>dez glichen ir selbs vil aichiner weld haben, hierumb bitten
+                wir üwer lieben guotten früntschaft mit ernst <lb break="no" n="12"/>lichem flyß,
+                wie ir umb unser und gemains lands nutz und eren willen so wol tuon und üch als von
+                    <lb n="13"/>den dingen, waz üch danne darinne fürzunemen notdurftig sin
+                bedunkt, in üwerm rate och underreden <lb n="14"/>und denn darumb üwer erber
+                ratzbottschaft als uf die obgenanten <date when="1437-04-03">mittwochen</date> ouch
+                hersennden <lb n="15"/>und der bevelhen wöllen, mit den andern von den dingen füro
+                nach notdurft ze reden und die sachen <lb n="16"/>zuo beschließen nach dem besten
+                und gemains lands nutz eren und fromen, als wir mainen, daz das <lb n="17"/>ein
+                sunder notdurft sie. Tuond ir uns sunder früntschaft bewisen, die wir in mereren
+                sachen umb üch <lb n="18"/>verdienen woellen. Datum <origDate when="1437-03-19"
+                    >feria tercia ante dominicam ramis palmarum etc. anno etc. XXXVIIo</origDate>.
+                    <lb n="19"/><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister und <lb n="20"
+                    />rate zu Costentz</orgName>. <pb facs="StadtASG_Missive_88_176.JPG" n="2"/>
+                <lb n="21"/>Den ersamen wisen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und ratt der statt <lb n="22"/>sant Gallen</orgName> unsern
+                besundern lieben und guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

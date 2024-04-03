@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 3</title>
+            </titleStmt>
+
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_3_5/6</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Johannes Thiliger bittet Bürgermeister und Rat zu St. Gallen, ihm mit dem Boten
+                    eine Antwort auf seine Bewerbung als Schulmeister in St. Gallen zukommen zu
+                    lassen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-6">Schule</term>
+                    <term ref="stadtasg-keywords-7">Bewerbungsschreiben</term>
+                    <term ref="stadtasg-keywords-8">Schulmeister</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-217">Antwort</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-5">Johannes Thiliger</persName>
+                    <placeName ref="stadtasg-places-7">Konstanz</placeName>
+                    <date>1418-10-15</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <p/>
+                <persName>SO</persName>
+                <date>2018-06-29</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-20</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_3_5.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Mainen fruntlichen willigen dienst zu allen ziten voran erwirdigen
+                besundern <lb n="2"/>lieben herren. Ich thun euch wissen, das ich nahst zu
+                    <placeName ref="stadtasg-places-7">Constantz</placeName> in der stat mit <lb n="3"
+                />euwern mitburger und ratsgeseln redet, und och iunkherr <persName ref="stadtasg-actors-111"
+                    >Prunberger</persName> und <lb n="4"/>maister <persName ref="stadtasg-actors-112"
+                    >Hans</persName> der alt schulmaister zu <placeName ref="stadtasg-places-7">Constantz</placeName> von meinen wegen von euwer
+                    <lb n="5"/>schule wegen zu <placeName ref="stadtasg-places-38">sand Gallen</placeName>,
+                der ich truwet und hofte, wol vor zu sein, <lb n="6"/>als villeichte die obgenanten
+                euwer mitburger euwer erwirdikait wol von <lb n="7"/>mir das ertzelt haben. Bitt ich
+                euwer wishait mit dinstlichem fleiße, <lb n="8"/>das ir mir bey disem boten wollet
+                kunt thun, was euch dar umb zu synne <lb n="9"/>sige, das ich mich dornach wisse zu
+                richten, wann ich die schule nach <lb n="10"/>euwerm willen redlichen halten und
+                ußrichten wolte und och euwer getruwer <lb n="11"/>diner zu sein begerte, dar umb so
+                thund hir inne, als ich euwer erbern <lb n="12"/>wishait wol getrauwe. Das begere
+                ich allezit umb euch zu verdinen. <lb n="13"/>Geben zu <origPlace ref="stadtasg-places-7"
+                    >Constantz</origPlace> am <origDate when="1418-10-15">nahsten samstage vor Galli
+                    anno XVIIIo</origDate>. <lb n="14"/><persName ref="stadtasg-actors-5" role="issuer"
+                    >Johannes Thiliger</persName>
+                <lb n="15"/>in artibus baccalareus. </p>
+            <pb facs="StadtASG_Missive_3_6.JPG" n="2"/>
+            <p>
+                <lb n="16"/>Den erbern und wisen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und <lb n="17"/>rath der stat zu sand Gallen</orgName> mainen
+                lieben herren. </p>
+        </body>
+    </text>
+</TEI>

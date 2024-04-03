@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 108</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_108_215/216</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau schreiben in einer Angelegenheit zwischen dem St.
+                    Galler Bürger Friedrich von Gossolt und dem Ravensburger Bürger Mosheim. Da
+                    Gossolt nicht in Lindau zu einem Verhandlungstag erscheinen wolle, solle St.
+                    Gallen dafür sorgen, dass Gebhard von Schellenberg in Bregenz, Rheineck oder
+                    Arbon einen Verhandlungstag durchführe. Ravensburg werde Schellenberg ebenfalls
+                    darum bitten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-217">Antwort</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-149">Rechtstag</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>
+                    
+                    <date>1438-07-28</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-05-20</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_108_215.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst zu vor ersammen wysen sonder <lb n="2"
+                />lieben und guoten fründe. Üwer schrifft und antwurt, so ir uns gesendt <lb n="3"
+                />und getan hant von der sache wegen üwern burger <persName ref="stadtasg-actors-235">Fricken
+                    vom <lb n="4"/>Goßolt</persName> und üwer und unser guoten fründe der von
+                    <placeName ref="stadtasg-places-77">Ravenspurg</placeName>
+                <lb n="5"/>burger die <persName ref="stadtasg-actors-236">Mosshaim</persName> antrifft, haben
+                wir den selben von <placeName ref="stadtasg-places-77">Ravenspurg</placeName>
+                <lb n="6"/>verkünt und ze wissende getan. Die hant uns widerumb geschriben <lb n="7"
+                />und geantwurt, wie wol der üwer die ding nach dem vordern begeben <lb n="8"/>etwz
+                geendert habe, sonder dz er in unser statt die tage ze suochen nit <lb n="9"/>maint,
+                so woellen doch die iren der sachen mit dem üwern zu ere und <lb n="10"/>recht
+                unbedingt uff den vesten <persName ref="stadtasg-actors-237">Gebharten von
+                    Schellenberg</persName> komen <lb n="11"/>und in ernstlich bitten, sich der
+                sache zu beladen und an der dryer <lb n="12"/>end ains nemlich gen <placeName
+                    ref="stadtasg-places-60">Pregentz</placeName>, <placeName ref="stadtasg-places-88"
+                    >Rinegg</placeName> oder <placeName ref="stadtasg-places-5">Arbon</placeName> tag zu
+                setzen, <lb n="13"/>in mauß und üwer brief uns nun nechst gesant dz innhaltet,
+                bitten <lb n="14"/>wir üwer guoten früntschafft mit ernst, soelichs dem üwern zu
+                verkünden <lb n="15"/>und mit im ze schaffent, den benampten <persName
+                    ref="stadtasg-actors-237">Gebharten von Schellenberg</persName>
+                <lb n="16"/>ane verziehen ze bitten. Dez glich sy ouch tuon woellen, damitte den <lb
+                    n="17"/>dingen end und usstrag geben werde. Daz begern wir mit willen <lb n="18"
+                />umb üwer ersame ze beschulden und zu verdienen. Datum <origDate when="1438-07-28"
+                    >2a post <lb n="19"/>Jacobi apostoli anno etc. XXXVIIIto</origDate>. <lb n="20"
+                    /><orgName ref="stadtasg-actors-511" role="issuer">Burgermaister und <lb n="21"/>raute zu Lindow</orgName>. <pb
+                    facs="StadtASG_Missive_108_216.JPG" n="2"/>
+                <lb n="22"/>Den ersammen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raute zu <lb n="23"
+                    />Santgallen</orgName> unsern sondern lieben und guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

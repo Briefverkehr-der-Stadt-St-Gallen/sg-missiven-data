@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 36</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_36_71/72</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Elisabeth Estrich von St. Gallen beschwert sich bei Bürgermeister und Rat zu
+                    St. Gallen, sie habe auf einen früheren Beschwerdebrief keine Antwort erhalten.
+                    Sie wolle nicht akzeptieren, dass sie von Bürgermeister und
+                    Rat belangt werde wegen eines tätlichen Angriffes, den Hans Pfister und dessen
+                    Tochter an ihr verübt hätten. Auch wolle sie nicht akzeptieren, dass Hans
+                    Pfister und seine Tochter nicht von St. Gallen bestraft werden sollen, weil die
+                    beiden, so die Begründung von Bürgermeister und Rat, keine St. Galler Bürger
+                    seien. Sie bittet um schriftliche Antwort mit dem gleichen Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-74">Beschwerde</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-24">Klage</term>
+                    <term ref="stadtasg-keywords-75">Angriff</term>
+                    <term ref="stadtasg-keywords-76">Delikt</term>
+                    <term ref="stadtasg-keywords-298">Tochter</term>
+                    <term ref="stadtasg-keywords-368">Schultheiss</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-27">Elisabeth Estrich</persName>
+                    
+                    <date>1427-05-27</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>SO</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_36_71.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min dienst vor lieben herren. Als ich üch vor geschriben hab von miner
+                    <lb n="2"/>sach wegen und mir aber darumb noch nit geantwurt ist, also <lb n="3"
+                />ist mich fürkomen, wie ir mich in üwern ungnaden wellent haben <lb n="4"/>und üch
+                <persName ref="stadtasg-actors-156">Hansen Pfisters</persName> sach an nemen wellent, des ich üch nach <lb
+                    n="5"/>ergangnen sachen nit getrüwet hett, won üch wol ze wissen <lb n="6"/>ist,
+                das <persName ref="stadtasg-actors-157">Hanns Pfisters tochtren</persName> mich unwissender sach angriffent
+                    <lb n="7"/>und mich mins libz und miner gesicht beroupt haben wolten mit <lb
+                    n="8"/>eschen und mit kalch, das ich guoter wil miner gesichte ungewaltig <lb
+                        n="9"/>wz, des ouch <persName ref="stadtasg-actors-156">Hanns Pfister</persName> inen selb rautent und
+                fuegent gewesen <lb n="10"/>ist, das ich wol getrüwte fürzebringen, won ich mit clag
+                für üch <lb n="11"/>kam von ir aller wegen, und hett mich einz rechten vor üch wol
+                    <lb n="12"/>benuegen lassen. Do wart mir geantwurt, <persName ref="stadtasg-actors-156">Hanns
+                        Pfister</persName> und die ein <lb n="13"/><persName ref="stadtasg-actors-157">sin tochter</persName>
+                werint nit üwer burger und hettent si nit ze straffen <lb n="14"/>und wurdent also
+                bedeckt und hindan gesetzt. Woeltent ir iro dar <lb break="no" n="15"/>über nun an
+                nemen, des ich doch üwer wisheit nit getrüw, so bedüchte <lb n="16"/>mich, mir
+                gescheche unguetlich, und begeren ernstlich üwer verschriben <lb n="17"/>voellig
+                antwurt by disem botten. Geben uff <origDate when="1427-05-27">cinstag vor dem heiligen <lb n="18"
+                    />uffart tag anno domini Mo CCCCo XXVIIo</origDate>. Besigelt von miner <lb
+                        n="19"/>bett wegen mit <persName ref="stadtasg-actors-158">Heinrich Spenglers</persName> des alten
+                schultheis ze <placeName ref="stadtasg-places-57">Waltzhuot</placeName> insigel, <lb n="20"/>im an schaden.
+                <lb n="21"/>Von mir <persName ref="stadtasg-actors-27">Elß Estrichen</persName>
+                <lb n="22"/>von <placeName ref="stadtasg-places-38" role="issuer">sant Gallen</placeName>. <pb
+                    facs="StadtASG_Missive_36_72.JPG" n="2"/>
+                <lb n="23"/>Den fürsichtigen und wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermeister <lb n="24"/>und
+                    raut zuo sant Gallen</orgName> minen lieben herren. </p>
+        </body>
+    </text>
+</TEI>

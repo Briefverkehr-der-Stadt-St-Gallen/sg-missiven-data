@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 60</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_60_119/120</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Appenzell informieren Bürgermeister und Rat zu St. Gallen, dass
+                    Otmar Ortwin bei ihnen das Landrecht angenommen habe.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-101">Landrecht</term>
+                    <term ref="stadtasg-keywords-104">Landmann</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-506">Ammann und Rat zu Appenzell</orgName>
+                    
+                    <date>1433-04-26</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-10-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>CS/dg</persName>
+                <date>2019-05-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_60_119.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst voran lieben guoten fründ. Wir lassint
+                üch wissen, <lb n="2"/>das <persName ref="stadtasg-actors-24">Otmar Artwing</persName> unser lantman worden
+                ist. Also lieben guoten fründ bittent <lb n="3"/>wir üch mit ernst gar flissig,
+                das ir den selben <persName ref="stadtasg-actors-24">Otmar Artwing</persName>, unsern lantman, <lb n="4"
+                />früntlich und beschaidenlich haltint. Kunnent wir das umb üch beschulden und <lb
+                    n="5"/>gedienen, sond ir uns willig vinden. Geben am <origDate when="1433-04-26"
+                    >sunnentag nach sant Marcus tag <lb n="6"/>anno domini Mo CCCCo
+                        XXXIIIo</origDate>. <lb n="7"/><orgName ref="stadtasg-actors-506" role="issuer">Amman und raut <lb n="8"
+                    />zuo Appenzelle</orgName>. <pb facs="StadtASG_Missive_60_120.JPG" n="2"/>
+                <lb n="9"/>Den wisen fürsichtigen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister <lb
+                        n="10"/>und raut der statt ze sant Gallen</orgName> unsren <lb n="11"
+                />guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

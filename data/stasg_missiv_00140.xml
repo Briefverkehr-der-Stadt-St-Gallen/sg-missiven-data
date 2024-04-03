@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 140</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_140_279/280</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Wolfhart der Ältere von Brandis, Vogt zu Feldkirch, informiert Bürgermeister und
+                    Rat zu St. Gallen, dass er in der Auseinandersetzung zwischen den Bewohnern von
+                    Rheineck und den Hofleuten zu Höchst um eine Au eine Verhandlung auf den 7.
+                    Januar in Höchst angesetzt habe. Er bittet die St. Galler, eine Ratsdelegation
+                    zur Verhandlung zu entsenden.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-37">Verhandlung</term>
+                    <term ref="stadtasg-keywords-70">Termin</term>
+                    <term ref="stadtasg-keywords-130">Ratsdelegation</term>
+                    <term ref="stadtasg-keywords-178">Nutzungsrecht</term>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-324">Freiherr</term>
+                    <term ref="stadtasg-keywords-279">Herrschaft</term>
+                    <term ref="stadtasg-keywords-157">Hof</term>
+                    <term ref="stadtasg-keywords-616">Weide</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-48">Wolfhart der Ältere von Brandis, Freiherr, Vogt zu
+                        Feldkirch</persName>
+                    
+                    <date>1442-01-03</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-05-28</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_140_279.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich dienst vor ersamen wisen lieben und guoten <lb n="2"
+                />fründe. Als von der stoess und spenn wegen, so dann die von <lb n="3"/><placeName
+                    ref="stadtasg-places-88">Rinegg</placeName> zuo ainem tail und gemain hofflüt ze
+                    <placeName ref="stadtasg-places-54">Hoechst</placeName> zem <lb n="4"/>anderen tail
+                mitenander hand als von ainer ow wegenn, <lb n="5"/>darumb die von <placeName
+                    ref="stadtasg-places-88">Rinegg</placeName> recht gebotten gehept haben als uff die <lb
+                    n="6"/>von <placeName ref="stadtasg-places-24">Lindow</placeName> etc., und wann mir
+                soelich stoess laid und nit lieb <lb n="7"/>sind, hab ich dem amman und och dem
+                keller ze <placeName ref="stadtasg-places-54">Hoechst</placeName> und <lb n="8"/>ze
+                    <placeName ref="stadtasg-places-105">Fuossach</placeName> bevolchen, ain gemaind uff
+                sunntag naechst <lb n="9"/>kompt nach gab diss briefs ze <placeName ref="stadtasg-places-54"
+                    >Hoechst</placeName> byenander ze habendt. <lb n="10"/>Dartzuo ich min
+                botschafft ouch senden und die, so miner <lb n="11"/>gnaedigen <orgName
+                    ref="stadtasg-actors-557">herrschafft von Oesterrich</orgName> etc. zuogehoerendt, bitten
+                    <lb n="12"/>wil, der sach ouch by den von <placeName ref="stadtasg-places-24"
+                    >Lindow</placeName> ze beliben, dann ich mich <lb n="13"/>der sachen nit gerne
+                belad. Herumb lieben und guoten fründ <lb n="14"/>bitt ich üch früntlich mit ernst,
+                ir wellendt üwer bott <lb break="no" n="15"/>schafft als uff den selben tag aldahin
+                senden und mit <lb n="16"/>den üweren sovil redan und schaffen wellendt denan mins
+                    <lb n="17"/>herren ain mers helffen machen, wa sy des also beliben wellent, <lb
+                    n="18"/>wann sy es pillich tuond nach dem und sy in ainem hoff <lb n="19"
+                />gesessen und wunn, waid, holtz und veld mitenander <lb n="20"/>niessendt sind und
+                ouch der hoeff gewonhait umb soelich <lb n="21"/>sachenn ist. Und tuond herinn, als
+                ich üch wol getrüw. Dz <lb n="22"/>will ich mit willen umb üch verdienan. Geben uff
+                    <origDate when="1442-01-03">mitt <lb break="no" n="23"/>wuchen nach dem nüwen
+                    iars tag anno domini etc. XLIImo</origDate>. <lb n="24"/><persName
+                    ref="stadtasg-actors-48" role="issuer">Wolffhart vom Brandisß der <lb n="25"/>elter
+                </persName>fry herr, vogt ze <placeName ref="stadtasg-places-89">Veltkirch</placeName>. <pb
+                    facs="StadtASG_Missive_140_280.JPG" n="2"/>
+                <lb n="26"/>Den ersamen fürsichtigen wisen dem <orgName ref="stadtasg-actors-148"
+                    role="recipient">burgermaister <lb n="27"/>und dem raut ze Santgallen</orgName>
+                minen lieben und guoten <lb n="28"/>fründen. </p>
+        </body>
+    </text>
+</TEI>

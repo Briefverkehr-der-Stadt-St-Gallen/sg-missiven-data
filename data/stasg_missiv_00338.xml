@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 338</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_338_681/682</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Konstanz schreiben Bürgermeister und Rat zu St. Gallen wegen ihrer Gespräche mit den Appenzellern zur Sicherung des Friedens im Lande. Die Konstanzer haben die St. Galler, die an den Gesprächen nicht dabei sein konnten, wie versprochen schriftlich über die Ergebnisse informiert. Die Konstanzer wollten innerhalb von acht bis zehn Tagen wissen, wie St. Gallen dazu stehe. Die Konstanzer bitten nun die St. Galler, mit dem gleichen Boten Konstanz ihre Haltung mitzuteilen. Im Falle der Zustimmung bitten die Konstanzer die St. Galler zudem, die Appenzeller zu informieren und für die Durchsetzung der getroffenen Massnahmen zu sorgen.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-83">Frieden</term>
+<term ref="stadtasg-keywords-85">Friedenssicherung</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-121">Zustimmung</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>                    <date>1457-05-17</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2024-01-10</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_338_681.JPG" n="1"/>
+<p>
+<lb n="1"/>Unser fruntlich willig dienst zuo vor ersamen und wisen besundern lieben und
+<lb n="2"/>guten frund. Nachdem und wir üch dann naechst geschriben und uch ainen zedel
+<lb n="3"/>soelicher berednusse, so dann wir und die von <placeName ref="stadtasg-places-8">Appenzell</placeName> zuo üwerm gevallen, und
+<lb n="4"/>das sich iedertail darumb bedencken und in acht oder zehen tagen antwurten
+<lb n="5"/>soelle, ob er dem nachkomen woelle oder nit, begriffen, gesendt, in dem ir dann das
+<lb n="6"/>wol vernommen haben, uber soelichen begriff wir nu bedachtenclichen syen ge
+<lb break="no" n="7"/>sessen und den für uns genommen und die ding nach den wilden loeffen aigen
+<lb break="no" n="8"/>lichen betracht, sunder das ir, wir und aller menglich schuldig syen, das land
+<lb n="9"/>umb uns nach unserm besten vermugen in guotem friden zuo seczen. Und darumb
+<lb n="10"/>ob es anders uch, och unsern guoten frunden von <placeName ref="stadtasg-places-8">Appenzell</placeName> zuo sinnen sin wil,
+<lb n="11"/>so woellen wir soelichem begriff unsers tails och also getruwlich nachkomen, wie
+<lb n="12"/>dann obgeredt und der zedel uch gesandt inn halten ist. Und begeren och also an
+<lb n="13"/>uch mit ernst gar fruntlich, uns wissen zuo laßen by dem botten, ob ir soelichem
+<lb n="14"/>begriff also nachkomen woellen oder mit uns darnach wissen zuo halten. Und
+<lb n="15"/>ob ir dem also nachkomen woelten, so woellen soelichs den benanten üwern und unsern
+<lb n="16"/>guoten fründen von <placeName ref="stadtasg-places-8">Appenzel</placeName> zuo wissen tuon, sich darnach zuo richten, und desglich
+<lb n="17"/>mit den üwern bestellen, das dem also nachkomen werde. Und ir woellen uch hier
+<lb n="18"/>inn bewisen, als wir uch sunder wol getrüwen. Das woellen wir mit willen
+<lb n="19"/>umb uch beschulden und verdienen. Geben uff <origDate when="1457-05-17">zinstag nach dem sonnentag
+<lb n="20"/>canttate anno domini etc. Lseptimo</origDate>.
+<lb n="21"/><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister und
+<lb n="22"/>rate zuo Costentz</orgName>.
+<pb facs="StadtASG_Missive_338_682.JPG" n="2"/>
+<lb n="23"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und
+<lb n="24"/>rate zuo sant Gallen</orgName> unsern besundern lieben und
+<lb n="25"/>guoten frunden.
+</p>
+        </body>
+    </text>
+</TEI>

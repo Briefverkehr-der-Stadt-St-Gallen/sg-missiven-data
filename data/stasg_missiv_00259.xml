@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 259</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesSmts><note><p>Zur Sache siehe auch die Missiven Nrn. 258, 262, 268, 269 und 358.</p></note></notesSmts>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_259_519/520</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Heinrich IV. von Hewen, Bischof von Konstanz, informiert Bürgermeister und Rat zu
+                    St. Gallen, dass das, was Hans Mötteli ihnen gesagt habe und worauf sie in einem
+                    Brief Bezug nehmen würden, nicht stimme. Mötteli habe bislang nicht den
+                    rechtlichen Weg gegen ihn gewählt, sondern habe bei Nacht und Nebel das Schloss
+                    Arbon überfallen. Der Bischof wiederholt sein Anliegen, dass er und die St.
+                    Galler sich über das weitere Vorgehen austauschen sollten. Er bittet um eine
+                    schriftliche Antwort mit dem Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-188">Bischof</term>
+                    <term ref="stadtasg-keywords-301">Lüge</term>
+                    <term ref="stadtasg-keywords-75">Angriff</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-540">Schloss</term>
+                    <term ref="stadtasg-keywords-621">Kanzler</term>
+                    <term ref="stadtasg-keywords-24">Klage</term>
+                    <term ref="stadtasg-keywords-402">Pfalz</term>
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-55">Heinrich IV. von Hewen, Bischof zu Konstanz</persName>
+                    <placeName ref="stadtasg-places-7">Konstanz</placeName>
+                    <date>1452-05-10</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>SC</persName>
+                <date>2022-01-19</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_259_519.JPG" n="1"/>
+            <p>
+                <lb n="1"/><persName ref="stadtasg-actors-55" role="issuer">Hainrich</persName> von gottes gnaden bischoff zuo
+                <placeName ref="stadtasg-places-7">Costentz</placeName>
+                <lb n="2"/>verweser des stifftz zuo <placeName ref="stadtasg-places-114">Chure</placeName> und kantzler etc.
+                    <lb n="3"/>Unsern früntlichen gruoß zuovor ersamen wisen besundern guoten fründ.
+                Üwer <lb n="4"/>antwurt uff unser schriben üch nechst getan von <persName ref="stadtasg-actors-232">Hannsen
+                    Moettelis</persName>, üwers burgers, <lb n="5"/>wegen haben wir gehoert. Und als
+                ir under anderm darinn melden, wie üch der <lb n="6"/>selb <persName ref="stadtasg-actors-232">Hanns
+                    Moetteli</persName> ettlich brieff, die uns berueren und die er von uns besigelt
+                    <lb n="7"/>innhab, hab hoeren lassen und üch daby gesagt, nach dem und er nie
+                anders <lb n="8"/>begert hab denn rechtz, damit im gelangte nach siner brieff sag,
+                das im aber noch <lb n="9"/>bißhar nit gedihen moechte, so hab er sich erclagt und
+                vermain, das im noch <lb n="10"/>hüttbytag clagens not tuege, mainen wir, das
+                <persName ref="stadtasg-actors-232">Hanns Moetteli</persName> weder von uns <lb n="11"/>noch nieman brieff
+                noch sigel hab, die da luten, das er mit uns oder sust <lb n="12"/>ieman anderm
+                soelich groß übel und mißtat fürnemen oder pflegen soelle. Und als <lb n="13"/>ir
+                furer in dem selben üwerm schriben beruert hand, dz er nit anders beger, denn <lb
+                    n="14"/>mit uns an gliche billiche end zuo recht zuo komen, recht umb recht
+                zuonemen <lb n="15"/>und zuo geben, doch das wir deß glichen ouch tuegen, und uns
+                daruff gebetten, <lb n="16"/>uns ains soelichen von im benuegen zuo lassen und in
+                wyter nit zuo betedingen, <lb n="17"/>wie dann soelichs der selb üwer brieff, uns
+                von üch gesandt, mit mer worten <lb n="18"/>bewist, soelich fürgeben, so üch dann
+                <persName ref="stadtasg-actors-232">Moeteli</persName> in vorgemelter wiß getan hat, <lb n="19"/>uns zuo
+                mal frömd und unbillich nimpt. Denn hett uns der selb <persName ref="stadtasg-actors-232">Hanns <lb n="20"
+                    />Motteli</persName> rechtenclich ie ervordert, als noch biß har nit beschechen
+                ist, so woelten <lb n="21"/>wir im soelichermaß dartzuo geantwurt haben, das wir
+                gehofft hetten gegen <lb n="22"/>menglichem, für wen es komen were, glimpff und er
+                zuo haben. Sidenmal und <lb n="23"/>es aber sinhalb nit beschechen ist, und er sich
+                darüber mit sin selbs gewalt <lb n="24"/>unbesorgt und unbewert siner eren, ouch
+                über das, das er unser gesworner <lb n="25"/>man ist, understanden hat, unser
+                <placeName ref="stadtasg-places-30">schloß Arben</placeName> by nacht und by nebel in zuo <lb n="26"
+                />nemen, so gepürt und getzimpt uns unser heren und fründ raut zuo haben, <lb n="27"
+                />was uns hierinn zuo tuon sige. Darumb so begeren wir aber als ouch vor <lb n="28"
+                />von üch zuo wissen, ob wir ettwas gegen dem selben üwerm burger fürnemen <lb
+                    n="29"/>wurden, wes wir uns dann zuo üch versehen soelten. Üwern verschriben <lb
+                    n="30"/>antwurt by disem botten oder in den neachsten achttagen har in unser
+                pfallentz. <lb n="31"/>Geben zuo <origPlace ref="stadtasg-places-7">Costentz</origPlace> an
+                    <origDate when="1452-05-10">mittwoch nach dem sonntag cantate anno domini etc. LIIdo</origDate>.
+                    <pb facs="StadtASG_Missive_259_520.JPG" n="2"/>
+                <lb n="32"/>Den ersamen wisen unsern besundern guoten fründen <lb n="33"/>dem
+                <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raut zuo sandt Gallen</orgName>. </p>
+        </body>
+    </text>
+</TEI>

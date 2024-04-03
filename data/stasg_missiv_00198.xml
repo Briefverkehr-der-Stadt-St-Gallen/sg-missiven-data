@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 198</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_198_397/398</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau stellen ein Empfehlungsschreiben für Johannes
+                    Redrer aus, der sich in St. Gallen persönlich als Schulmeister bewirbt.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-87">Empfehlung</term>
+                    <term ref="stadtasg-keywords-8">Schulmeister</term>
+                    <term ref="stadtasg-keywords-247">Bewerbung</term>
+                    <term ref="stadtasg-keywords-345">Zeiger</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>
+                    
+                    <date>1446-03-09</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-09</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_198_397.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst zu vor ersammen wysen sonder <lb n="2"
+                />lieben und guoten fründe. Uns ist fürkomen, wie sich üwer schuolmaister <lb n="3"
+                />von üch ziehen woelle, und dz ir gern ainen andern haben woelten. <lb n="4"/>Nun
+                hat uns <persName ref="stadtasg-actors-330">Johannes Redrer</persName>, zoeiger diss briefs,
+                gebetten, im gegen <lb n="5"/>üch fürdernuß ze tuend und üch ze bittent, in darinne
+                ze begnadint. <lb n="6"/>Und wan er sich nun by uns etwielangzit erberlich und
+                froemclich gehalten <lb n="7"/>hat und ain guoter paculari und wol gelert ist, alz
+                wir von im vernemen, <lb n="8"/>so bittent wir üwer guoten früntschafft mit ernst
+                vlißigist, und wir <lb n="9"/>vermügen, wie ir umb unsers verdienents willen den
+                selben <persName ref="stadtasg-actors-330">Johannesen <lb n="10"/>Redrer</persName>zu ainem
+                schuolmaister uff nemen, den ain zit versuochen, sonder <lb n="11"/>darinne tuon
+                woellen, alz wir üch denn dez und allez guoten wol getrüwen. <lb n="12"/>Daran
+                erzoeigent ir uns sonder früntschafft, lieb und dienst, dz wir <lb n="13"/>och in
+                der glich, mindern und meren sachen, wa sich das gepüret, mit <lb n="14"/>willen umb
+                üwer ersame ze beschulden und ze verdienen. Datum <lb n="15"/><origDate
+                    when="1446-03-09">quarta post dominica invocavit anno domini etc.
+                    XLVIto</origDate>. <lb n="16"/><orgName ref="stadtasg-actors-511" role="issuer"
+                    >Burgermaister und <lb n="17"/>raute zu Lindow</orgName>. <pb
+                    facs="StadtASG_Missive_198_398.JPG" n="2"/>
+                <lb n="18"/>Den ersammen wysen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raeten zu <lb n="19"/>Santgallen</orgName> unsern sondern
+                lieben und guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

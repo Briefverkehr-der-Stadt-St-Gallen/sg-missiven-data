@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 158</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_158_315/316</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Wolfhart der Ältere von Brandis, Vogt zu Feldkirch, bittet Bürgermeister und Rat
+                    zu St. Gallen, ihm den im Gerichtsgebiet seiner österreichischen Herrschaft
+                    gefangen genommenen Helbok auszuliefern, und verspricht, diesen für eine
+                    Verhandlung vor Gericht zur Verfügung zu halten. Er bittet um eine schriftliche
+                    Antwort mit dem Boten.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-118">Auslieferung</term>
+                    <term ref="stadtasg-keywords-64">Gefangener</term>
+                    <term ref="stadtasg-keywords-175">Gefangenschaft</term>
+                    <term ref="stadtasg-keywords-46">Gefangennahme</term>
+                    <term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+                    <term ref="stadtasg-keywords-25">Gericht</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-200">Versprechen</term>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+                    <term ref="stadtasg-keywords-279">Herrschaft</term>
+                    <term ref="stadtasg-keywords-324">Freiherr</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-48">Wolfhart von Brandis, Vogt zu Feldkirch</persName>
+                    
+                    <date>1443-03-28</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-06-24</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_158_315.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min willig dienst vor ersammen wisen lieben guoten frund. Als ir mir ietz
+                uff <lb n="2"/>min schriben, so ich üch getan hett von des
+                <persName ref="stadtasg-actors-296">Hellboks</persName> und andern darzuo gewandt, <lb n="3"/>geanntwurt
+                hand, hab ich wol vernommen. Nu vermain ich, wie ir den <persName ref="stadtasg-actors-296">Hellbok</persName>
+                <lb n="4"/>an soelichen ennden, da denn die hohen gericht miner gnedigen herrschafft
+                von <lb n="5"/><placeName ref="stadtasg-places-91">Oesterich</placeName> zuo gehoerend, gefangen haben, also
+                bitt ich üch mit ernstlichem flis, <lb n="6"/>dz ir den selben
+                <persName ref="stadtasg-actors-296">Hellbok</persName> an die ennd, da er gefangen ist worden, zuo minen
+                handenn <lb n="7"/>antwurtenn. So wil ich üch den halten und zuo recht stellen,
+                warumb oder umb <lb n="8"/>sach ir zuo im zuosprechen haben, und üch oder den üwern,
+                ob gott wil, alda gelichs <lb n="9"/>und billichs lassen widervarenn. Und beger
+                darumb üwer geschriben antwurt bi dem <lb n="10"/>botten, darumb dz ich die sach
+                wiss an die end, dahien es gehoertt, zuo bringent. <lb n="11"/>Geben an <origDate
+                    when="1443-03-28">dornstag vor mittervastenn anno etc. XLIIIo</origDate>. <lb
+                        n="12"/><persName ref="stadtasg-actors-48" role="issuer">Wolffhartt von Branndiss</persName>, fry, <lb
+                    n="13"/>der elter, vogt ze <placeName ref="stadtasg-places-89">Veltkirch</placeName>. <pb
+                    facs="StadtASG_Missive_158_316.JPG" n="2"/>
+                <lb n="14"/>Den ersamen wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat <lb
+                        n="15"/>zuo Santtgallen</orgName> minen lieben guoten fründen. </p>
+        </body>
+    </text>
+</TEI>

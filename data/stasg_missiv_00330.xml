@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 330</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_330_665/666</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Konstanz informieren Bürgermeister und Rat zu St. Gallen über ihre Bemühungen, den Streit zwischen dem St. Galler Bürger und Ratsherr Kaspar Wirth und dem Konstanzer Bürger Hans Muntprat (von Spiegelberg) dem Jüngern zu schlichten. Nach den Erzählungen von Hans Muntprat behaupte Kaspar Wirth, den selben Rebberg in Berneck im Rheintal von Marquard von Ems gekauft zu haben, wie er selbst. Konstanz bittet St. Gallen um Verständnis dafür, dass sie nichts gegen ihren Bürger unternehmen könnten, da die Gerichtsverhandlungen in Berneck noch zu keinem Ergebnis geführt hätten.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-120">Vermittlung</term>
+<term ref="stadtasg-keywords-173">Weingarten</term>
+<term ref="stadtasg-keywords-284">Kauf</term>
+<term ref="stadtasg-keywords-156">Recht</term>
+<term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+<term ref="stadtasg-keywords-240">Ritter</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>                    <date>1456-10-27</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-01-22</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_330_665.JPG" n="1"/>
+<p>
+<lb n="1"/>Unser fruntlich willig dienst zuovor ersamen und wisen besunder lieben und guoten fründ. Als ir uns von
+<lb n="2"/>wegen <persName ref="stadtasg-actors-270">Caspar Wirts</persName>, uwers ratzfrunds, antreffend, <persName ref="stadtasg-actors-625">Hansen Muntbrat</persName> den iungern, unsern burger,
+<lb n="3"/>schriben, haben wir innhalt üwers briefs wol verstanden und soelich uwer schriben dem unsern
+<lb n="4"/>furgehept. Der spricht, wie der streng her <persName ref="stadtasg-actors-314">Marquard von Emps</persName>, ritter, in und ander versetzt
+<lb n="5"/>und sy uff das sin, sy von schaden zuo loßen, verwist hab. Also hab sich der uwer ains desselben
+<lb n="6"/>her <persName ref="stadtasg-actors-314">Marquards</persName> wingarten, zuo <placeName ref="stadtasg-places-18">Bernang</placeName> im <placeName ref="stadtasg-places-64">Rintal</placeName> gelegen, underzogen, und main, wie
+<lb n="7"/>im den der selb her <persName ref="stadtasg-actors-314">Marquard</persName> zuo koffen geben haben solle. Da aber der unser vermaint, wie
+<lb n="8"/>im und andern sin mithafften solicher wingart von her <persName ref="stadtasg-actors-314">Marquard</persName> obgenant ouch zuo koffen
+<lb n="9"/>gegeben und zuo gefuegt sye, darumb dann der selb her <persName ref="stadtasg-actors-314">Marquard</persName> mit dem üwern zuo <placeName ref="stadtasg-places-18">Ber
+<lb break="no" n="10"/>nang</placeName> im rechten stande und noch entlich unentschaiden syen. Also hab sich der vorgenant
+<lb n="11"/><persName ref="stadtasg-actors-270">Caspar</persName>, der üwer, understanden, ietzo in dem herbst den win des vorgenanten wingarten
+<lb n="12"/>zuo wimnent, desglichen der unser och hat getan und den win da selbs zuo <placeName ref="stadtasg-places-18">Bernang</placeName> in
+<lb n="13"/>das recht gelegt und dem uwern sin tail des wins daselbs, nach dem und die sach zuo
+<lb n="14"/><placeName ref="stadtasg-places-18">Bernang</placeName> noch im rechten hanget, als zuo recht verlegt untz uff die zitt, das da selbs mitt
+<lb n="15"/>recht ußfündig werde, wer dartzuo recht hab, by dem er och also main zuo beliben.
+<lb n="16"/>Und sint dem mal und die sach also noch im rechten entlich unußgesprochen hanget, verstond
+<lb n="17"/>ir wol, das wir den unsern wider sinen willen von sölichem hafft mit gelimpff nit ge
+<lb break="no" n="18"/>nemen künnen. Und wir bitten üwer früntschafft mit ernst flißig, das in dehainem un
+<lb break="no" n="19"/>willen, sunder im fruntlichisten von uns zuo vermercken. Das begeren wir mit willen umb
+<lb n="20"/>uch zuo verdienen, dann in welhen gepuerlichen sachen wir uch und den uwern zuo
+<lb n="21"/>willen werden moechten, tatten wir mit sunderm willen gern. Geben uff <origDate when="1456-10-27">sanntt
+<lb n="22"/>Symon und sant Iudas abend anno domini etc. Lsexsto</origDate>.
+<lb n="23"/><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister und
+<lb n="24"/>rate zuo Costentz</orgName>.
+<pb facs="StadtASG_Missive_330_666.JPG" n="2"/>
+<lb n="25"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rate
+<lb n="26"/>zuo sant Gallen</orgName> unsern besundern lieben und guoten
+<lb n="27"/>fründen.
+</p>
+        </body>
+    </text>
+</TEI>

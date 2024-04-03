@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 231</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_231_463/464</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Radolfzell informieren Bürgermeister und Rat zu St.
+                    Gallen darüber, dass sie (Radolfzell) die St. Galler Ruedi Fischer und Ruedi
+                    Baumann wegen vergangener Angelegenheiten nicht mehr belangen werden. Sie gehen
+                    aber davon aus, dass in Zukunft nichts dergleichen geschehen werde.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-124">Knecht</term>
+                    <term ref="stadtasg-keywords-76">Delikt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-508">Bürgermeister und Rat zu Radolfzell</orgName>
+                    
+                    <date>1450-12-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-03-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_231_463.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unnser früntlich willig dienst zuo vor ersamen und wisen sonder guoten
+                und <lb n="2"/>lieben fründ. Wie ir uns von wegen <persName ref="stadtasg-actors-369">Ruedin
+                    Vischers</persName> und <persName ref="stadtasg-actors-370">Ruedi Bumans</persName>
+                <lb n="3"/>von <placeName ref="stadtasg-places-159">Uttwil</placeName>, der uwern, die us vorchten zuo lassen
+                geschriben und <lb n="4"/>gebetten, haben wir uwer schrift und ir antwrt wol
+                vernomen, <lb n="5"/>und umb uwern willen, den wir grossers ungearn verzihen wolten,
+                    <lb n="6"/>lassen wir die selben baiden knecht vergangner sachen halb ussorgen
+                    <lb n="7"/>für uns und die unsern, doch das uwer wishait mit in verschaff <lb
+                    n="8"/>und bestelle, ob hinfür der glich sachen und antreg an sü wachssen <lb
+                    n="9"/>und bracht wurden, sich des bas zue erfarn, denn solten sü <lb n="10"
+                />yeman uf unsern schaden fürdern, hetten wir nit gern. Zue uwern <lb n="11"
+                />diensten uns willig erbieten. Datum <origDate when="1450-12-01">zinstag nach sant
+                    Conrats <lb n="12"/>tag anno etc. Lzo</origDate>. <lb n="13"/><orgName ref="stadtasg-actors-508"
+                    role="issuer">Burgermaister und <lb n="14"/>rat zuo
+                        Ratolffzeall</orgName>. <pb
+                    facs="StadtASG_Missive_231_464.JPG" n="2"/>
+                <lb n="15"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und <lb
+                        n="16"/>rat zuo sant Gallen</orgName> unsern sondern guoten <lb n="17"/>und
+                lieben fründen. </p>
+        </body>
+    </text>
+</TEI>

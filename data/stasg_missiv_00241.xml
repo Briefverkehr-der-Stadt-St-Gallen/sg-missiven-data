@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 241</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_241_483/484</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Heinrich Feuerstein, Landammann im Hinteren Bregenzerwald, bittet Bürgermeister
+                    und Rat zu St. Gallen um Hilfe in einer Nachlassangelegenheit. Ein Verstorbener
+                    namens Wölfli, Bürger aus dem Hinteren Bregenzerwald, hatte das Erbe seiner
+                    Ehefrau Älli, Tochter des Heinz Schnell, ebenfalls aus dem Hinteren
+                    Bregenzerwald, ausgelöst. Nun bittet Feuerstein die St. Galler, der Witwe bei
+                    der Rückführung ihres Erbes behilflich zu sein.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-5">Erbe</term>
+                    <term ref="stadtasg-keywords-177">Witwe</term>
+                    <term ref="stadtasg-keywords-297">Ehefrau</term>
+                    <term ref="stadtasg-keywords-298">Tochter</term>
+                    <term ref="stadtasg-keywords-167">Verkauf</term>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+                    <term ref="stadtasg-keywords-157">Hof</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-84">Heinrich Feuerstein, Landammann im Hinteren Bregenzerwald</persName>
+                    <date>1451-07-15</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS und SO</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-30</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_241_483.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min willig dienst vor lieben herren. Ich lauss üch wissen, als üwer
+                burger, genant <lb n="2"/><persName ref="stadtasg-actors-389">Woelffli</persName>, der uss dem
+                    <placeName ref="stadtasg-places-163">Bregenczerwald</placeName> bürtig ist, von tod
+                abgangen ist, der hat nun <lb n="3"/>ein elich frowen gehept mit namen <persName
+                    ref="stadtasg-actors-390">Aellen</persName>, <persName ref="stadtasg-actors-391">Haintzen
+                    Schnellen</persName> toechter, die ouch von <lb n="4"/>uns bürtig ist. Und als
+                er die nun ze der e genommen hett, do kam er herin zuo uns, <lb n="5"/>als si ain
+                gelegen guetli hie hett, daz ir vaetterlich und mueterlich erb was, und daz <lb
+                    n="6"/>wolt er angriffen, verkouffen und hinuss ziehen. Also wolt ich im daz nit
+                laussen <lb n="7"/>volgen, won ich ir vogt waz, an wissen und raut ir fründ, und
+                also verhiess und ver <lb break="no" n="8"/>lopt er mir und den fründen, er welt ir
+                daz selb guot anleggen an den hof, den er <lb n="9"/>koufft hett, und welt sin da
+                versorgen, daz es ir wol angeleit ward und ir gewaertig <lb n="10"/>waer ouch an
+                gelegen guot ze glicher wis, als es och hie gelegen waer. Und uff daz <lb n="11"
+                />liessent wir in daz guot verkouffen und hinuss ziehen, und lost daruss XL <abbr>lb.</abbr> <abbr>dn.</abbr>,
+                die <lb n="12"/>er och hinuss truog. Welt aber daran iemen zwifel han, so hat si
+                darumb guoter kunt <lb break="no" n="13"/>schaft und zügen gnuog, daz es also gieng,
+                bitt ich üch lieben herren, daz ir umb gotz <lb n="14"/>willen und durch der
+                grechtikait willen der armen frowen beholffen und berauten <lb n="15"/>sigint, daz
+                ir daz benempt ir vaetterlich und mueterlich guot vollangy und werd, als denn <lb
+                    n="16"/>billich ist. Daz wil ich umb üch verdienen in soelichen mindren ald
+                meren sachen, wenn <lb n="17"/>daz ze schulden kaem. Und tuond darinn, als ich üch
+                dess wol getruw. Gen an <origDate when="1451-07-15">sant <lb n="18"/>Margreten tag
+                    anno etc. LIo</origDate>. <lb n="19"/><persName ref="stadtasg-actors-84" role="issuer">Hainrich
+                        Fürstain</persName> landamman <lb n="20"/>im <placeName ref="stadtasg-places-164">Hindern
+                    Bregenczerwald</placeName>
+                <pb facs="StadtASG_Missive_241_484.JPG" n="2"/>
+                <lb n="21"/>Den ersamen wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister <lb n="22"
+                    />und raut ze sant Gallen</orgName> minen <lb n="23"/>lieben herren. </p>
+        </body>
+    </text>
+</TEI>

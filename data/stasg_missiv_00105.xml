@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 105</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_105_209/210</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Konstanz teilen Bürgermeister und Rat zu St. Gallen mit,
+                    dass sie ihnen bereits am Vortag eine Antwort betreffend den St. Galler Bürger
+                    Hans Mötteli gesandt haben.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>
+                    
+                    <date>1438-05-19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-05-20</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_105_209.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst zuo vor besunder lieben und gueten fründ.
+                Als ir uns <lb n="2"/>aber von wegen <persName ref="stadtasg-actors-232">Hansen
+                    Moettelis</persName>, üwers burgers, geschriben hand, haben wir <lb n="3"/>wol
+                verstanden, und wir laußen üwer guot früntschafft wissen, daz wir <lb n="4"/>üch uff
+                    <date when="1438-05-18">gestern sunnentag naechst vergangen</date> uff soelich
+                üwer beger by <lb n="5"/>unßerm aigen botten geantwurt hand in maußen und ir das an
+                unser <lb n="6"/>antwurt merklich vernemen werden. Daz wellen also im früntlichisten
+                    <lb n="7"/>von uns vermerken. Denn in welhen sachen wir üch zuo wellen werden
+                    <lb n="8"/>moechten, taeten wir gern und waeren dz willig. Datum <origDate
+                    when="1438-05-19">secunda <lb n="9"/>ante s ascensionem domini anno
+                        etc. XXXVIIIo</origDate>. <lb n="10"/><orgName ref="stadtasg-actors-56"
+                    role="issuer">Burgermaister und <lb n="11"/>raute zuo Costentz</orgName>. <pb
+                    facs="StadtASG_Missive_105_210.JPG" n="2"/>
+                <lb n="12"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient"
+                        >burgermaister und raute <lb n="13"/>zuo sant
+                    Gallen</orgName> unßern besundern lieben und <lb n="14"/>guoten
+                fründen. </p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 279</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_279_563/564</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Als Anwälte des Bischofs von Konstanz schreiben Nikolaus Gundelfinger, Vikar, Johannes Lidrunger, Siegler, sowie Sigmund vom Stein, Ritter, an Bürgermeister und Rat zu St. Gallen, weil die St. Galler Obrigkeit ein Kaufverbot für St. Galler auf dem Bischofszeller Markt ausgesprochen hatte. Das Verbot hatten die St. Galler später dem Konstanzer Bischof zuliebe gelockert, indem sie den Kauf von Garn, aber nicht von Leinwand erlaubten. Nun bitten die Vertreter des Konstanzer Bischofs den Bürgermeister und Rat zu St. Gallen, zusätzlich das Kaufverbot für St. Galler von Leinwand auf dem Bischofszeller Markt aufzuheben. Die Konstanzer bitten um eine schriftliche Antwort mit dem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-314">Anwalt</term>
+                    <term ref="stadtasg-keywords-315">Vikar</term>
+<term ref="stadtasg-keywords-188">Bischof</term>
+<term ref="stadtasg-keywords-240">Ritter</term>
+<term ref="stadtasg-keywords-316">Obrigkeit</term>
+<term ref="stadtasg-keywords-181">Verbot</term>
+<term ref="stadtasg-keywords-143">Markt</term>
+<term ref="stadtasg-keywords-284">Kauf</term>
+                    <term ref="stadtasg-keywords-317">Garn</term>
+<term ref="stadtasg-keywords-258">Leinwand</term>
+<term ref="stadtasg-keywords-12">Gesandter</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-314">Anwalt</term>
+<term ref="stadtasg-keywords-315">Vikar</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-94">Nikolaus Gundelfinger, Anwalt des Bischofs von Konstanz</persName><persName ref="stadtasg-actors-95">Johannes Lidrunger, Vikar des Bischofs von Konstanz</persName><persName ref="stadtasg-actors-96">Sigmund vom Stein</persName>                    <date>1453-02-16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>SC</persName>
+                <date>2022-04-04</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_279_563.JPG" n="1" />
+<p>
+<lb n="1" />Unser willig dienst zuovor ersamen wisen besundern guoten fründe. Als ir vormals den
+    <lb n="2" />üwern den markt zuo <placeName ref="stadtasg-places-19">Bischoffzell</placeName> verbotten hand und in nuo unserm gneadigen heren von
+    <lb n="3" /><placeName ref="stadtasg-places-7">Costentz</placeName><note><persName ref="stadtasg-actors-55">Heinrich IV. von Hewen, Bischof von Konstanz</persName>.</note> zuo lieb widerumb erlopt, garn zuo kouffen, aber nit linwat, als wir vernemen,
+<lb n="4" />darumb so bitten wir üch von des egenanten unsers gneadigen heren wegen mit
+<lb n="5" />ernst, sidenmal und ir sinen gnaden sovil gewilligt hand, ir wellend das gepott von
+    <lb n="6" />der linwat wegen ouch abtuon und den üwern erloben, die zuo <placeName ref="stadtasg-places-19">Bischoffzell</placeName> zuo kouffen
+<lb n="7" />inmaß und si langzit getan hand, angesehen die guot nachpurschafft, so dann
+<lb n="8" />sin gnad langzit mit üch gehalten hat, und ir wellend uns soelichs nicht versagen,
+<lb n="9" />als wir üch des und alles guoten insonnders wol getrüwen. Das wellend wir
+<lb n="10" />früntlich umb üch gedienen. Üwer antwurt geschriben by dem botten. Geben an
+    <lb n="11" /><origDate when="1453-02-16">fritag vor dem sonntag invocavit anno domini etc. LIIIcio</origDate>. Versigelt under mim des
+<lb n="12" />vicaryen insigel von unser aller wegen.
+    <lb n="13" />Unsers gnedigen <persName ref="stadtasg-actors-55">heren von Costentz</persName> anwelt
+    <lb n="14" /><persName ref="stadtasg-actors-94" role="issuer">Nicolaus Gundelfinger</persName>, vicary, <persName ref="stadtasg-actors-95" role="issuer">Johanns
+        <lb n="15" />Lidrunger</persName>, insigler des hoffs zuo <placeName ref="stadtasg-places-7">Costentz</placeName>, und
+    <lb n="16" /><persName ref="stadtasg-actors-96" role="issuer">Sigmund vom Stain</persName>, ritter etc.
+<pb facs="StadtASG_Missive_279_564.JPG" n="2" />
+    <lb n="17" />Den ersamen wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raut
+<lb n="18" />zuo sandt Gallen</orgName> unsern besundern guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

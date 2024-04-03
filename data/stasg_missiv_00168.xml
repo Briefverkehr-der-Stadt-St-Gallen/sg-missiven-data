@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 168</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_168_335/336</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hans von Breitenlandenberg bittet Bürgermeister und Rat zu St. Gallen, ihm am 16.
+                    Dezember eine Ratsdelegation nach Winterthur zur Verfügung zu stellen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-130">Ratsdelegation</term>
+                    <term ref="stadtasg-keywords-70">Termin</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-620">Herberge</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-57">Hans von Breitenlandenberg</persName>
+                    
+                    <date>1443-12-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2018-12-07</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-07-01</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_168_335.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min willig dienst gnedigen lieben herren. Wissend, dz ich hab sach <lb
+                    n="2"/>uszerichten ze <placeName ref="stadtasg-places-46">Wintertur</placeName>, dar um
+                mir lib und guot und er stat ze retten. <lb n="3"/>Dar um mir gesetzt ist ein
+                früntlich tag in der vorgenannt statt uff <lb n="4"/><date when="1443-12-16">mentag
+                    nechst künftig</date>. Bit ich üwer gnad und früntschaft mit gantzem <lb n="5"
+                />fliss und ernst, dz ir üwer gewiss botschaft habind bi mir von einem rat <lb n="6"
+                />uff <date when="1443-12-08">suntag</date> an der herberg. Kan ich das beschulden mit lib mit guot,
+                sond ir mich <lb n="7"/>willig vinden. Tuond hierinn, alz ich üch sunder wol getrüw.
+                Geben uff <lb n="8"/><origDate when="1443-12-08">unser lieben frowen tag verborgen
+                    ze advent anno XLIII etc</origDate>. <lb n="9"/><persName ref="stadtasg-actors-57" role="issuer">Hans von
+                    der <lb n="10"/>Breitenlandenberg</persName>. <pb
+                    facs="StadtASG_Missive_168_336.JPG" n="2"/>
+                <lb n="11"/>Den fürsichtigen wisen <orgName ref="stadtasg-actors-148" role="recipient">bur <lb break="no"
+                        n="12"/>germeister und rat ze sant <lb n="13"/>Gallen</orgName> minen
+                gnedigen herren. </p>
+        </body>
+    </text>
+</TEI>

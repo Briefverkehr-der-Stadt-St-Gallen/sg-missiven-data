@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 207</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_207_415/416</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Wil informieren Bürgermeister und Rat zu St. Gallen
+                    darüber, dass die St. Galler Bürger Strub von Züberwangen dem Wiler Ratsgesellen
+                    Heinrich Wetzel Leinwand beschlagnahmt hätten. Sie bitten die St. Galler Behörden
+                    darum, die Strub anzuweisen, dass sie ihrem (Wiler) Bürger sein Eigentum wieder
+                    zurück geben. Wil bittet um Antwort.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-257">Arrest</term>
+                    <term ref="stadtasg-keywords-258">Leinwand</term>
+                    <term ref="stadtasg-keywords-259">Rückgabe</term>
+                    <term ref="stadtasg-keywords-188">Bischof</term>
+                    <term ref="stadtasg-keywords-33">Befehl</term>
+                    <term ref="stadtasg-keywords-217">Antwort</term>
+                    <term ref="stadtasg-keywords-177">Witwe</term>
+                    <term ref="stadtasg-keywords-368">Schultheiss</term>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+                    <term ref="stadtasg-keywords-270">Vormundschaft</term>
+                    <term ref="stadtasg-keywords-269">Kind</term>
+                    <term ref="stadtasg-keywords-164">Tuch</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-517">Schultheiss und Rat zu Wil</orgName>
+                    <date>1447-07-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-19</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_207_415.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst und alles guot vor an besundern lieben und
+                    <lb n="2"/>guotten fründe. <persName ref="stadtasg-actors-341">Heinrich Wetzel</persName>,
+                unser rats geselle, der hat uns <lb n="3"/>fürbracht, wie das uwere burger die
+                    <persName ref="stadtasg-actors-342">Struben von Ziberwangen</persName>
+                <lb n="4"/>im ettwas linwat in uwer statt verleit und verbotten habind, <lb n="5"
+                />das in an sy umbillich nimpt, denn er waist inen nichtz schuldig <lb n="6"/>noch
+                ze tuond sin. Ob aber die <persName ref="stadtasg-actors-342">Struben</persName> sölichs getan
+                hettint <lb n="7"/>von der zwaytreacht wegen, so sy dann mit unser burgerin, <lb
+                    n="8"/><persName ref="stadtasg-actors-343">Burckarts Töibers</persName> sealgen wittwen,
+                gehapt hand, darumb sy <lb n="9"/>unser gnediger <persName ref="stadtasg-actors-55">herr von
+                    Hewen</persName> baidersydt mit sinem recht <lb n="10"/>spruch entschaiden hat,
+                maint der vorgenant <persName ref="stadtasg-actors-341">Wetzel</persName>, das inn <lb n="11"
+                />sölichs so wyt nit berür, das er des engelten sölli, denn er <lb n="12"/>sye der
+                guten frowen und ir kinder zuogeabner vogt von <lb n="13"/>aym rate, das uns ouch
+                wol ze wissen ist. Herumb lieben <lb n="14"/>und guotten fründe bitten wir uwer
+                guott früntschafft, ir <lb n="15"/>wölt die <persName ref="stadtasg-actors-342"
+                    >Struben</persName> wisen, das sy dem unsern das sin ent <lb break="no" n="16"
+                />schlachind und ledig lassind, dz er des von in ungesumpt <lb n="17"/>nach sinem
+                willen geniessen mug. Das wellen wir in der <lb n="18"/>glich und andern sachen umb
+                üch gedienen und beschulden, wo <lb n="19"/>sich das gepürt. Uwer güttlich antwurt.
+                Geben an <origDate when="1447-07-12">mittwuch <lb n="20"/>vor Margarethe anno domini
+                    etc. XLVIIo</origDate>. <lb n="21"/><orgName ref="stadtasg-actors-517" role="issuer"
+                    >Schulthaiß und rat <lb n="22"/>zuo Wyl</orgName> im <placeName ref="stadtasg-places-103">Turgow</placeName>. <pb
+                    facs="StadtASG_Missive_207_416.JPG" n="2"/>
+                <lb n="23"/>Den fürsichtigen wisen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und rat <lb n="24"/>zuo sant Gallen</orgName> unsern besundern
+                lieben und guotten <lb n="25"/>fründen. </p>
+        </body>
+    </text>
+</TEI>

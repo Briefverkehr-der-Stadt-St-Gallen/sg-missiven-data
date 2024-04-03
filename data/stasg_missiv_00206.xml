@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 206</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_206_413/414</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Wolfhard von Brandis der Ältere bittet Bürgermeister und Rat zu St. Gallen, ihm
+                    eine Gesandtschaft zur Unterstützung in einer Verhandlung mit Bernern in Baden
+                    zur Verfügung zu stellen. Die St. Galler sollen am Vorabend der Verhandlung vom
+                    1. Juni in der Herberge eintreffen.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-231">Gesandtschaft</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-37">Verhandlung</term>
+                    <term ref="stadtasg-keywords-70">Termin</term>
+                    <term ref="stadtasg-keywords-620">Herberge</term>
+                    <term ref="stadtasg-keywords-324">Freiherr</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="stadtasg-actors-48">Wolfhard von Brandis der Ältere</persName>
+                    <date>1447-05-15</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-19</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_206_413.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Min früntlich dinst zuo vor lieben <orgName ref="stadtasg-actors-148" role="recipient">die von sant
+                    Gallen</orgName>. Ich hab ainen guetlichen <lb n="2"/>tag mit <orgName
+                    ref="stadtasg-actors-514">den von Bern</orgName> uf an <date when="1447-06-01">donstag in
+                    der pfinstwochen</date> ze <placeName ref="stadtasg-places-53">Baden</placeName> zuo
+                suochen <lb n="3"/>und ze laisten, dar zuo ich ainer bottschaft von üwerm raut vast
+                wol bedoerft <lb n="4"/>und geren haben woelt, nach dem mir aeben vil daran gelegen
+                ist. Hier umb <lb n="5"/>bitt ich üch mit gantzem ernst, das ir so wol tuon und mir
+                ain treffenlich <lb n="6"/>bottschaft lihen und dahin schiken woellen, also das die
+                an der <date when="1447-05-31">mitwochen ze <lb n="7"/>nacht davor</date> da an der
+                herberg und enmorndes des besten bistendig und <lb n="8"/>raetlich sye. Und woellen
+                mir das nit versagen, denn ich mich gantz daran <lb n="9"/>verlaussen wil. Das beger
+                ich mit willen, umb üch in allen zimlichen sachen <lb n="10"/>zuo beschulden. Geben
+                an <origDate when="1447-05-15">mentag vor dem hailigen uffart tag anno <lb n="11"
+                    />etc. XLVIImo</origDate>. <lb n="12"/><persName ref="stadtasg-actors-48" role="issuer"
+                    >Wolffhart von <lb n="13"/>Brandis, der elter</persName>, fryer. <pb
+                    facs="StadtASG_Missive_206_414.JPG" n="2"/>
+                <lb n="14"/>Den ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burgermaister und raut <lb n="15"/>zuo sant Gallen</orgName> minen guoten
+                fründen. </p>
+        </body>
+    </text>
+</TEI>

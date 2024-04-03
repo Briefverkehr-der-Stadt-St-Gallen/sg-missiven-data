@@ -1,0 +1,83 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 342</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_342_689/690</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau schreiben auf Bitte von Hans Arger von Lindau, Überbringer dieses Briefes, an Bürgermeister und Rat zu St. Gallen. Arger hätte gehört, St. Gallen suche einen neuen Schulmeister. Die Lindauer empfehlen ihn für die Anstellung als Schulmeister in St. Gallen.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-8">Schulmeister</term>
+<term ref="stadtasg-keywords-6">Schule</term>
+<term ref="stadtasg-keywords-244">Amt</term>
+<term ref="stadtasg-keywords-87">Empfehlung</term>
+<term ref="stadtasg-keywords-125">Arbeit</term>
+<term ref="stadtasg-keywords-345">Zeiger</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>                    <date>1458-10-09</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2024-01-10</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_342_689.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich willig dienst alzit voran ersamen wisen besonder lieben und guoten fründ. Es kompt
+<lb n="2"/>für üwer wishait maister <persName ref="stadtasg-actors-612">Hanns Arger</persName>, wiser dis brieffs, von unnser statt und von erbern lüten geboren,
+<lb n="3"/>als er vernomen hat, das ir ainen andern schuolmaister bestellen woellen, darumbe zuo bitten etc. Wan
+<lb n="4"/>er nun gar ain gelerter fromer man und inmassen ist, das ir und die schuol mit ime, alz uns nit zwifelt,
+<lb n="5"/>wol versorget und versehen waerent, so bitten wir üwer ersamkait mit ernstlichem vliß
+<lb n="6"/>und wir vermoegend, ir woellent in zuo uwerm schuolermaister nemen und versuochen, üch
+<lb n="7"/>herinn umb unnsern willen so guotwillenclich bewisen und vinden lassen, damit er unser
+<lb n="8"/>empfintlich geniesse und wir üch zuo tuond wol getrüwen. Das woellen wir in gelichen
+<lb n="9"/>und meren sachen umb üwer wishait und die üwern, wa sich daz vordert, verdienen und
+<lb n="10"/>beschulden. Datum <origDate when="1458-10-09">ipsa die Dyonisy et sociorum eius anno etc. L octavo</origDate>.
+<lb n="11"/><orgName ref="stadtasg-actors-511" role="issuer">Burgermaister und rat
+<lb n="12"/>zuo Lindow</orgName>.
+<pb facs="StadtASG_Missive_342_690.JPG" n="2"/>
+<lb n="13"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und
+<lb n="14"/>rat zuo sant Gallen</orgName> unnsern besonder lieben
+<lb n="15"/>und guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

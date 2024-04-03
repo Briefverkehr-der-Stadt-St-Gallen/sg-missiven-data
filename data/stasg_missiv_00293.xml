@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 293</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_293_591/592</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ulrich und Albrecht Schenk von Landegg beklagen sich bei Bürgermeister und Rat zu St. Gallen, dass sich der St. Galler Bürger Peter Lautenschlager nicht an das Urteil halte, das im Streit zwischen Lautenschlager und ihrem Högger vom Buech um Viehdurchtriebsrechte gefällt wurde. Sie bitten die St. Galler, ihren Bürger zurechtzuweisen, damit der Högger sein Vieh weiterhin dort durchtreiben könne. Es siegelt Albrecht Schenk von Landegg.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-24">Klage</term>
+<term ref="stadtasg-keywords-103">Urteil</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-189">Vieh</term>
+<term ref="stadtasg-keywords-156">Recht</term>
+<term ref="stadtasg-keywords-249">Zurechtweisung</term>
+<term ref="stadtasg-keywords-616">Weide</term>
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-100">Ulrich Schenk von Landegg</persName><persName ref="stadtasg-actors-457">Albrecht Schenk von Landegg</persName>                    <date>1453-08-29</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>SC</persName>
+                <date>2022-11-15</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_293_591.JPG" n="1" />
+<p>
+<lb n="1" />Unnser willig dienst zuovor ersamen und wisen lieben fründe. Als
+    <lb n="2" />ir denn wol wissent, wie denn unser armann der <orgName ref="stadtasg-actors-542">Hoegger vom
+        <lb n="3" />Buoch</orgName> und <persName ref="stadtasg-actors-456">Peter Lutenslacher</persName>, üwer burger, als von der tratt wegen,
+<lb n="4" />so sy zuo ainander hand, durch üch entschaiden sind, als die
+<lb n="5" />brief ußwysent etc. Und wie wol nu der unser soellichem
+<lb n="6" />nach der taeding innhalt sins tails gern nachkoeme, ye
+<lb break="no" n="7" />doch verneamen wir, wie der üwer soellichz nit halten
+<lb n="8" />noch nachkomen woelle, sonder sich mit sin selbz gewalt
+<lb n="9" />understande, im dz zuo weren, und nicht zuo triben laussen
+<lb n="10" />nach dem und die taeding und üwer spruch innhalt. Hier
+<lb break="no" n="11" />umb so bitten wir üwer ersamkeit mit ernst und vlysse,
+<lb n="12" />den üwern dartzuo ze halten und zuo wisen, damit er
+<lb n="13" />soellichem sins tails och gnuog sye und den unsern mit
+<lb n="14" />sinem vich triben lauß in maß, dz üwer spruch und die
+<lb n="15" />brief darüber gegeben lutent. Dz woellen wir mit willen
+    <lb n="16" />umb üch verdienen. Geben und mit mim <persName ref="stadtasg-actors-457">Albrecht Schencken</persName>
+    <lb n="17" />insigel besigelt von unser baider wegen an <origDate when="1453-08-29">mitwochen
+<lb n="18" />post Pelay anno domini etc. LIII</origDate>.
+    <lb n="19" /><persName ref="stadtasg-actors-100" role="issuer">Uolrich</persName> und <persName ref="stadtasg-actors-457" role="issuer">Albrecht die
+<lb n="20" />Schencken von Landegg.</persName>
+<pb facs="StadtASG_Missive_293_592.JPG" n="2" />
+    <lb n="21" />Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raeten
+<lb n="22" />zuo sant Gallen</orgName> unsern guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

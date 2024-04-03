@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 209</title>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc type="missiv">
+                    <msIdentifier>
+                        <idno>StadtASG Missive_209_419/420</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Appenzell beschweren sich bei Bürgermeister und Rat zu St.
+                    Gallen darüber, dass die zwei St. Galler Priester Hans Rüti und Hans Särri,
+                    Bürger zu St. Gallen, die Appenzeller Landleute Schmid von Goldach, Hans
+                    Pütinger und einen Wucherer wegen Zinsstreitigkeiten vor das geistliche Gericht
+                    ziehen wollen. Sie bitten die St. Galler, ihre Bürger zurechtzuweisen, und
+                    schlagen vor, die Sache vor ihrem eigenen Gericht zu verhandeln.</p>
+            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>
+            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-35">Priester</term>
+                    <term ref="stadtasg-keywords-10">Zins</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-261">Geistliches Gericht</term>
+                    <term ref="stadtasg-keywords-193">Gerichtsort</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                    <term ref="stadtasg-keywords-403">Wucher</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <orgName ref="stadtasg-actors-506">Ammann und Rat zu Appenzell</orgName>
+                    <date>1448-09-15</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2019-09-02</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>dg</persName>
+                <date>2019-09-19</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_209_419.JPG" n="1"/>
+            <p>
+                <lb n="1"/>Unser früntlich willig dienst vor sundern guoten fründ und lieben
+                getrüwen <lb n="2"/>aidgnossen. Uns hand fürbracht die <persName ref="stadtasg-actors-345"
+                    >Schmid von Golda</persName>, <persName ref="stadtasg-actors-346">Hans Pütinger</persName>
+                und <lb n="3"/>der wuochrer, unser lantlüt, wie sy herr <persName ref="stadtasg-actors-347"
+                    >Hans Rütili</persName> und herr <persName ref="stadtasg-actors-348">Hans <lb n="4"
+                    />Saeri</persName>, üwer burger, fürnemint mit gaistlichem rechten, über dz sy
+                inen <lb n="5"/>nit vor sigint, dann das sy inen geben von ir gueter, als von alter
+                har <lb break="no" n="6"/>komen sy. Bitten wir üwer wisshait mit ernst, ir wellin
+                mit den <lb n="7"/>gemelten priestern reden, sy underwisen, das sy die unsern mit
+                frömten <lb n="8"/>gerichten ane ersuocht sunder ane bekümmert laussint, und oeb sy
+                von ir <lb n="9"/>zuosprüch niht gelassen mainnin, dz sy dar umb für unser raut oder
+                    <lb n="10"/>gericht komin, da getruwen wir zuo den sachen reden oder richten, dz
+                wir <lb n="11"/>hoffen gelimpf ze haben. Und tuond har inn, als wir üch wol
+                getruwen. <lb n="12"/>Das begeren wir in derglich mindern oder meren sachen, umb üch
+                und umb all <lb n="13"/>die üwern zuo verdienen. Geben am <origDate
+                    when="1448-09-15">sonnentag nach des hailigen crütztag <lb n="14"/>anno etc.
+                    XLVIIIo</origDate>. <lb n="15"/><orgName ref="stadtasg-actors-506" role="issuer">Aman und
+                    raut <lb n="16"/>zuo Appenzell</orgName>. <pb
+                    facs="StadtASG_Missive_209_420.JPG" n="2"/>
+                <lb n="17"/>Den fürsichtigen wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
+                    >burger <lb break="no" n="18"/>maister und raute zuo sant Gallen</orgName>
+                unsern <lb n="19"/>besundern guoten fründen und lieben <lb n="20"/>getrüwen
+                aidgnossen. </p>
+        </body>
+    </text>
+</TEI>
