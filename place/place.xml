@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-03-05 14:09:06 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
+        <p>Datenbankexport vom 2024-04-19 15:20:26 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -116,9 +116,6 @@
                 <ptr type="gnd" target="https://d-nb.info/gnd/4061399-9"/>
               </bibl>
               <bibl>
-                <ptr type="geonames" target="https://www.geonames.org/6558184"/>
-              </bibl>
-              <bibl>
                 <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q332952"/>
               </bibl>
               <bibl>
@@ -132,6 +129,9 @@
               </bibl>
               <bibl>
                 <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Überlingen"/>
+              </bibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2820577"/>
               </bibl>
             </listBibl>
           </place>
@@ -255,6 +255,9 @@
               <bibl>
                 <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/1013499"/>
               </bibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2661740"/>
+              </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
               <p>Eidgenössischer Ort</p>
@@ -372,9 +375,6 @@
                 <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/3032482"/>
               </bibl>
               <bibl>
-                <ptr type="geonames" target="https://www.geonames.org/7286419"/>
-              </bibl>
-              <bibl>
                 <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q64178"/>
               </bibl>
               <bibl>
@@ -391,6 +391,9 @@
               </bibl>
               <bibl>
                 <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Maienfeld"/>
+              </bibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2659787"/>
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
@@ -3295,7 +3298,7 @@
             <placeName type="full" xml:lang="de">Immenstaad am Bodensee (BW)</placeName>
             <placeName type="sort" xml:lang="de">immenstaad am bodensee</placeName>
             <location>
-              <geo>47.55996 10.21394</geo>
+              <geo>47.66667 9.36667</geo>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
             </location>
@@ -5406,7 +5409,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2024-03-05T14:09:07+01:00">teiHeader was automatically produced from the database 2024-03-05T14:09:07+01:00</change>
+      <change when="2024-04-19T15:20:27+02:00">teiHeader was automatically produced from the database 2024-04-19T15:20:27+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
