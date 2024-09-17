@@ -1,0 +1,81 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 356</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_356_717/718</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Burkhard II. von Randegg, Bischof zu Konstanz, bittet Bürgermeister und Rat zu St. Gallen, die restlichen drei Pfund einer Strafe von total sechs Pfund, zu der Hans Maurer von Obersteinach von der Stadt St. Gallen verurteilt wurde, zu erlassen. Er bittet um eine Antwort.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-107">Strafe</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-285">Begnadigung</term>
+<term ref="stadtasg-keywords-103">Urteil</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+<term ref="stadtasg-keywords-188">Bischof</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-657">Bischof Burkhard von Randegg</persName><placeName ref="stadtasg-places-7">Konstanz</placeName>                    <date>1464-02-23</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName> <placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-05-28</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_356_717.JPG" n="1"/>
+<p>
+<lb n="1"/><persName ref="stadtasg-actors-657" role="issuer">Burkhart von gottes gnaden
+<lb n="2"/>bischoff zuo Costentz</persName>.
+<lb n="3"/>Unsern früntlichen gruoß zuovor ersamen wisen besundern guoten fründe.
+<lb n="4"/>Wir habend vernomen, wie ir <persName ref="stadtasg-actors-656">Hannsen Murer</persName> von <placeName ref="stadtasg-places-201">Obern Stainach</placeName>,
+<lb n="5"/>der uns zuoversprechen stat umb sechs pfund pfenning, gestrafft haben, daran
+<lb n="6"/>er üch drü pfund pfenning gegeben hab. Darumb so bitten wir uch mit
+<lb n="7"/>ernst, ir wellend an den selben drien pfunden ain benuegen haben und
+<lb n="8"/>im die andern drü ablassen und uns das nit versagen, als wir uch getrüwen.
+<lb n="9"/>Dz wellend wir früntlich umb uch beschulden. Üwer antwurt. Geben
+<lb n="10"/>zuo <origPlace ref="stadtasg-places-7">Costentz</origPlace> an <origDate when="1464-02-23">sandt Mathis abend anno etc. LXIIIIto</origDate>.
+<pb facs="StadtASG_Missive_356_718.JPG" n="2"/>
+<lb n="11"/>Den ersamen wisen unsern besundern guoten
+<lb n="12"/>fründen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raute
+<lb n="13"/>zuo sandt Gallen</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

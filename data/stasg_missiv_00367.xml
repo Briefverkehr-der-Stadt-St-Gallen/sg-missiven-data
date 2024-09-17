@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 367</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00380.xml">380</ref>.</p></note></notesStmt>   
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_367_741/742</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Walter Spättig bittet Hans Schürpf, Bürgermeister zu St. Gallen, gegen Gerüchte vorzugehen, die im Spital über ihn verbreitet würden. Ihm wird von diversen Leuten vorgeworfen, ein lahmes Mädchen im Spital missbraucht zu haben. Um seine Unschuld zu beweisen, bittet er, dass das Mädchen ausserhalb des Spitals vom Spitalmeister befragt werde, wer es zur Erzählung solcher Lügen angestiftet habe. Falls das Mädchen die Aussage verweigern wolle, solle es von Frauen ausserhalb des Spitals untersucht werden. Spättig bittet darum, seinen Fall vor die Spitalaussermeister und den Rat zu bringen und ihm sicheres Geleit bis Ostern zu geben. Ausserdem bittet er um eine schriftliche Antwort.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-63">Gerücht</term>
+<term ref="stadtasg-keywords-354">Spital</term>
+<term ref="stadtasg-keywords-579">Missbrauch</term>
+<term ref="stadtasg-keywords-198">Unschuld</term>
+<term ref="stadtasg-keywords-371">Spitalmeister</term>
+<term ref="stadtasg-keywords-301">Lüge</term>
+<term ref="stadtasg-keywords-337">Zeugenaussage</term>
+<term ref="stadtasg-keywords-141">Befragung</term>
+<term ref="stadtasg-keywords-2">Geleit</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-690">Walter Spättig</persName>                    <date>1465-03-06</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-689">Hans Schürpf</persName> <placeName ref="stadtasg-places-38">St. Gallen</placeName>               </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-08-27</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_367_741.JPG" n="1" />
+<p>
+<lb n="1" />Dem ersamen wisen <persName ref="stadtasg-actors-689" role="recipient">Hansen Schürpfen</persName> diser zit burgermaister ze <placeName ref="stadtasg-places-38">sant Gallen</placeName>
+<lb n="2" />minem lieben herren embiet ich <persName ref="stadtasg-actors-690" role="issuer">Welty Spettig</persName> min undertaenig willig und früntlich
+<lb n="3" />dienst zuo vor. Ich fueg üch zuo wissen, dz ietz am <date when="1465-03-04">mentag naechst verschinen</date> zuo <orgName ref="stadtasg-actors-552">sant
+<lb n="4" />Gallen im spittal</orgName> ettwz sachen über mich gangen sind von ettlichen lüten im spittal,
+<lb n="5" />von frowen und von mannen, als von ains lamen toechterlis wegen, darumb ich nütz
+<lb n="6" />gewisst han, und hand da ain commun über mich gehept und hand mich darzuo
+<lb n="7" />nie beschikt, mich zuo verantwurten, dz mich doch froemd und unbillich nimpt,
+<lb n="8" />denn soelichs ist mich fürkomen an <date when="1465-03-04">mentag ze nacht</date> umb Ave Maria zit von <persName ref="stadtasg-actors-691">Küferlin</persName>,
+<lb n="9" />vom koch, vom <persName ref="stadtasg-actors-692">Andress im Bomgarten</persName>, von der <persName ref="stadtasg-actors-693">Stetterinen</persName>, von der siechmaistrinen und
+<lb n="10" />von der sigristinen, die mich also umbtragent und verunglimpfent. Üch ist och wol
+<lb n="11" />zuo wissen von <persName ref="stadtasg-actors-694">Fritzen</persName> wegen, wie es mir da gangen ist, dz mir <persName ref="stadtasg-actors-694">Fritz</persName> min leptag
+<lb n="12" />abgeslagen woelt han von lügen wegen, dz ich ain burgermaister und rat clegt han,
+<lb n="13" />dar umb ich noch nie zuo recht komen mocht. Aber lieber her min begeren waer, dz man
+<lb n="14" />dz toechterli naem usserm spittal in des spittal maisters hus und es fragety und ergichty,
+<lb n="15" />wer es soelichs angewist hett. Woelt es aber davon nit sagen, dz man dann
+<lb n="16" />biderb frowen usserthalb dem spittal naeme und dz toechterli schowotint und gesaehint,
+<lb n="17" />so trüwty ich, man kaem der warhait an ainen grund, und wurd man inne, wer
+<lb n="18" />dem andern unrecht taet, denn ich woelt alles, dz so man mir an mim lib tuon koend,
+<lb n="19" />on gar taeden liden, dz ich des maetlis unschuldig bin und im soelichs nie zuo
+<lb n="20" />gemuotet han. Soelichs, des man mich zicht und mir begegnot, han ich miner fründ
+<lb n="21" />und gsellen rat gehan und inen dz clagt, die ratent mir, dz ich nit me in die
+<lb n="22" />statt gange unglait, denn von lügen wegen, so moecht an ainn man fürgenomen
+<lb n="23" />werden, da mit im ze kurtz beschaech und e er sin antwurt daruff geben moecht.
+<lb n="24" />Darumb lieber herr so bitt ich üch mit gantzem ernst, dz ir so wol tuon wellint
+<lb n="25" />iemer durch mins verdienens willen und dz bringint für die usser maister, och
+<lb n="26" />für ain rat und mich darinn gegen versprechint, als ych üch wol getrüwen,
+<lb n="27" />und mir schaffint, dz man mir ain guot sicher glait geben bis uff <date when="1465-04-14">den hailigen
+<lb n="28" />tag ze ostren</date> und den selben tag allen, so hoffen ich, ich well mich verantwurten
+<lb n="29" />als ain fromer, und dz mir ain verschriben antwurt wider werd. Datum uff
+<lb n="30" /><origDate when="1465-03-06">mittwuchen vor dem sunntag reminiscere anno etc. LXVo</origDate>.
+<lb n="31" /><persName ref="stadtasg-actors-690" role="issuer">Waelty Spaettig</persName>
+<lb n="32" />üwer williger.
+<pb facs="StadtASG_Missive_367_742.JPG" n="2" />
+<lb n="33" />Dem fürsichtigen wisen <persName ref="stadtasg-actors-689" role="recipient">Hansen Schürpfen</persName> burgermaister
+<lb n="34" />ze <placeName ref="stadtasg-places-38">sant Gallen</placeName> minem lieben herren.
+</p>
+        </body>
+    </text>
+</TEI>

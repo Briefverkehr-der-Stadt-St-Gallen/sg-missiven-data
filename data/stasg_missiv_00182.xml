@@ -53,13 +53,12 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="stadtasg-actors-62">Hans Wilhelm von Friedingen, Vogt zu
-                        Bregenz</persName>
+                    <persName ref="stadtasg-actors-62">Hans Wilhelm von Friedingen (I)</persName>
                     
                     <date>1444-11-08</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

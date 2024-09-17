@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 391</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_391_797/798</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau laden Bürgermeister und Rat zu St. Gallen zu einer Besprechung am Sonntag 31. Januar in ihre Stadt ein. Dabei soll über das Problem der Überfischung des Bodensees gesprochen und es sollen Lösungen zum Gemeinen Nutzen gefunden werden.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-239">Einladung</term>
+<term ref="stadtasg-keywords-310">Fisch</term>
+<term ref="stadtasg-keywords-311">Fischer</term>
+<term ref="stadtasg-keywords-178">Nutzungsrecht</term>
+<term ref="stadtasg-keywords-427">Gemeinnutzen</term>
+<term ref="stadtasg-keywords-538">See</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>                    <date>1468-01-23</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-09-10</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_391_797.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich willig dinst voran ersamen wysen besondrer
+<lb n="2"/>lieben und gutten fründ. Von groß bruchs wegen der vische halb
+<lb n="3"/>im sew, die als an unns lanngt durch mißbruch ettlicher
+<lb n="4"/>sachen vast abkomen und vertriben, sind ettlich umbsässen
+<lb n="5"/>by unnsern vischern in unnsrer statt gewesen und haben der
+<lb n="6"/>dinnghalb ainen tag angesehen in unnser statt uff <date when="1468-01-31">sonn
+<lb break="no" n="7"/>tag vor unnser lieben frowen tag lüchtmiß nächstkombt</date>
+<lb n="8"/>zu rechter tagzit. Bitten wir üwer früntschaft mit ernst,
+<lb n="9"/>zu sölhem tag och zusennden und von der üwern wegen
+<lb n="10"/>helffen zubeschliessen und zuhannthaben, was da von ge
+<lb break="no" n="11"/>mains nutz wegen angesehen werde, als unns nit zwivelt,
+<lb n="12"/>das wöllen wir umb üwer gut früntschaft willigtlich
+<lb n="13"/>zuverdienen haben. Datum <origDate when="1468-01-23">sabato post Agnetis anno etc. LXVIIIno</origDate>.
+<lb n="14"/><orgName ref="stadtasg-actors-511" role="issuer">Burgermaister und
+<lb n="15"/>rat zu Lindaw</orgName>.
+<pb facs="StadtASG_Missive_391_798.JPG" n="2"/>
+<lb n="16"/>Den ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="17"/>maister und rat zu Sanntgallen</orgName>
+<lb n="18"/>unnsern besonndern lieben und guoten
+<lb n="19"/>frünnden.
+</p>
+        </body>
+    </text>
+</TEI>

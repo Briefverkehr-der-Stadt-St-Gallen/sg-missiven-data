@@ -47,7 +47,7 @@
                                         <date>1452-05-29</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
             </correspDesc>
         </profileDesc>
         <revisionDesc>
@@ -72,7 +72,7 @@
     <lb n="3" />ich von unser statt <placeName ref="stadtasg-places-38">sant Gallen</placeName> in der fasten fier iar vergangen geschaiden bin
     <lb n="4" />und ich verpruendet bin von miner gnaedigen <orgName ref="stadtasg-actors-576">herschafft von Lantsperg</orgName> in dem
     <lb n="5" /><placeName ref="stadtasg-places-170">Elsaess</placeName>, geschiht mir fil smachhait. Besunder ich han miner wihbrief kainen,
-<lb n="6" />die verlor ich in den Armenjaeken, wirt mir für gehept, dz ich nüt ein rechter
+<lb n="6" />die verlor ich in den Armeniaeken, wirt mir für gehept, dz ich nüt ein rechter
 <lb n="7" />weltlicher priester, aber ain abtrüllig münch syge, och dz mir in üwer statt
     <lb n="8" /><placeName ref="stadtasg-places-38">sant Gallen</placeName> und in allem land gantz min priesterlich ampt und och üwer statt
 <lb n="9" />umb onerlich sach verbotten sygent, och dz ich, da got vor syg, umb unerlich

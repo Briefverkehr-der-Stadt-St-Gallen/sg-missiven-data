@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 360</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_360_725/726</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen befehlen Ammann und Richter zu Balgach, Bürger zu St. Gallen, die Frauen von Grünenstein bezüglich der offenen Fragen der gerichtlichen Zuständigkeiten nicht weiter zu belangen. St. Gallen werde direkt mit dem Kanonissenstift in Lindau, in dessen Gericht Balgach und die von Grünenstein sich befinden würden, Kontakt aufnehmen und danach Balgach informieren.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+<term ref="stadtasg-keywords-204">Richter</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-637">Kanonissenstift</term>
+<term ref="stadtasg-keywords-207">Gerichtsbarkeit</term>
+<term ref="stadtasg-keywords-27">Eid</term>
+<term ref="stadtasg-keywords-130">Ratsdelegation</term> 
+<term ref="stadtasg-keywords-154">Ammann</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName> <placeName ref="stadtasg-places-38">St. Gallen</placeName>                    <date>1464-09-06</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-660">Ammann und Richter zu Balgach</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                    <date>2024-05-28</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_360_725.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich gruos zuovor lieben fründ und burger. Wie ir unns uff unnser schrifft
+<lb n="2"/>üch von unnser frowen <orgName ref="stadtasg-actors-661">von Grünenstain</orgName> getan, yetz wider geschriben hand under
+<lb n="3"/>anderm meldende, das üch von unnser <orgName ref="stadtasg-actors-662">gnedigen frowen</orgName> von <placeName ref="stadtasg-places-24">Lindow</placeName>, in der zwingen
+<lb n="4"/>und bennen sy und ir sitzent, und si die gericht zu besetzen hab, nie zuoverstand
+<lb n="5"/>gegeben, das nieman, der by üch in zwingen und bennen sitze, ußgesetzt sye,
+<lb n="6"/>üch zime ouch nit, ir und ires gotzhus gericht ze mindern oder ze meren etc.,
+<lb n="7"/>innhalt üwer schrifft haben wir wol verstanden. Und die wyle wir nu
+<lb n="8"/>weder uff üwer schrifft noch sust verston koennen, das ir soelhs furnemmens,
+<lb n="9"/>des ir ietzo gen unnser frowen <orgName ref="stadtasg-actors-661">von Grünenstain</orgName> in übung sind, weder gen
+<lb n="10"/>irem man seligen noch andern sinen vorfaren in bruchung gewesen syent,
+<lb n="11"/>ir ouch unnser <orgName ref="stadtasg-actors-662">gnedigen frowen</orgName> von <placeName ref="stadtasg-places-24">Lindow</placeName> also antziechent, so bevelhen
+<lb n="12"/>wir üch ernstlich gebiettende uff den aide, das ir die ding gen unnser
+<lb n="13"/>frowen <orgName ref="stadtasg-actors-661">von Gruenenstain</orgName> also ruowen und mit dem gericht unbekumbert
+<lb n="14"/>laussen, so woellent wir unnser rautzbottschafft zu unnser <orgName ref="stadtasg-actors-662">gnedigen frowen</orgName>
+<lb n="15"/>von <placeName ref="stadtasg-places-24">Lindow</placeName> senden, ir die ding fürhalten und daruff erfaren, wie soellichs
+<lb n="16"/>von alter her komen und gehalten und hinfüro aber nach billichait zu halten
+<lb n="17"/>sye, und üch denn uff soellich unnser erfaren wyter unnser maynung wissen
+<lb n="18"/>lassen, dann wartzuo yetwedertail recht hett, woelten wir yedem tail
+<lb n="19"/>sins rechten, so verr wir unns verstuenden, wol gonnen. Darnach wissent
+<lb n="20"/>ir üch nun wol zuo halten. Geben uf <origDate when="1464-09-06">donrstag vor unnsrer lieben frowen tag
+<lb n="21"/>nativitatis anno domini etc. sexagesimo quarto</origDate>.
+<lb n="22"/><orgName ref="stadtasg-actors-148" role="issuer">Burgermaister und rate
+<lb n="23"/>zuo sant Gallen</orgName>.
+<pb facs="StadtASG_Missive_360_726.JPG" n="2"/>
+<lb n="24"/>Den wysen wolbeschaiden <orgName ref="stadtasg-actors-660" role="recipient">amann und richtern zuo
+<lb n="25"/>Balgach</orgName> unnsern lieben fründen und burgern.
+</p>
+        </body>
+    </text>
+</TEI>

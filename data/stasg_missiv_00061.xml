@@ -50,7 +50,7 @@
                     <date>1433-06-22</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen </orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen </orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

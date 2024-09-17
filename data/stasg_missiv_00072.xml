@@ -52,7 +52,7 @@
                     <date>1435-07-07</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
@@ -91,7 +91,7 @@
                     domini Mo CCCCo XXXVo</origDate>. <lb n="12"/><orgName ref="stadtasg-actors-601" role="issuer">Gemainer aidgnossen botten von <lb
                     n="13"/>Zürich, Lutzern, Ure,
                     Schwitz, Under <lb break="no" n="14"/>walden, Zug und Glairas</orgName>, als wir <lb
-                    n="15"/>jetz ze <origPlace ref="stadtasg-places-8">Appenzell</origPlace> by enandern
+                    n="15"/>ietz ze <origPlace ref="stadtasg-places-8">Appenzell</origPlace> by enandern
                 gewesen sint. <pb facs="StadtASG_Missive_72_144.JPG" n="2"/>
                 <lb n="16"/>Den wisen fürsichtigen dem <orgName ref="stadtasg-actors-148" role="recipient"
                     >burgermaister <supplied>und rat</supplied> <lb n="17"/>der statt zuo sant Gallen</orgName> unsern

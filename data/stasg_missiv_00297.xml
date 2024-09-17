@@ -8,7 +8,7 @@
                 <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
             </publicationStmt>
             <notesStmt>
-                <note><p>Zur Sache siehe auch die Missive Nr. 296.</p></note>
+                <note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00296.xml">296</ref>.</p></note>
             </notesStmt>
                         <sourceDesc>
                 <msDesc type="missiv">                    <msIdentifier>
@@ -42,7 +42,7 @@
                     <orgName ref="stadtasg-actors-28">Bürgermeister und Rat zu Schaffhausen</orgName>                    <date>1453-11-07</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
             </correspDesc>
         </profileDesc>
         <revisionDesc>

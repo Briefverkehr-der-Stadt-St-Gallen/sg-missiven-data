@@ -27,7 +27,7 @@
             <abstract>
                 <p>Schultheiss und Rat zu Wil bitten im Namen von Wolfgang Kotz den Bürgermeister
                     und Rat zu St. Gallen, dafür zu sorgen, dass Bartholome Harwer, Sohn eines St.
-                    Galler Bürgers, eine Busse von 10 Schilling zahlt. Kotz hatte sich für diese
+                    Galler Bürgers, eine Busse von zehn Schilling zahlt. Kotz hatte sich für diese
                     Bussenschuld des Harwer gegenüber Rudolf Seiler, dem Amtmann und Busseneinzieher
                     des Abtes, verbürgt. Der Bürge will verhindern, dass er die Bussenzahlung
                     übernehmen muss, da er selber Mangel leide.</p>
@@ -54,7 +54,7 @@
                     <date>1441-03-18</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
@@ -80,7 +80,7 @@
                     />Seiller</persName> unnserm burger unnsers gnaedigen heren von 
                     <placeName ref="stadtasg-places-38">sant Gallen</placeName> unnd gemainer statt gemain <lb n="4"
                 />amptman unnd in ziecher frefflenn unnd buosen bericht, wie <persName
-                    ref="stadtasg-actors-273">Wolfganng Kotz</persName> im X <abbr>ß.</abbr> <abbr>d.</abbr> von <lb n="5"/>wegen
+                    ref="stadtasg-actors-273">Wolfganng Kotz</persName> im X <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> <choice><abbr>d.</abbr><expan>Denar</expan></choice> von <lb n="5"/>wegen
                     <persName ref="stadtasg-actors-274">Bartli Harwers</persName>, üwers burgers son, so er
                 vor ainem iar hie zuo <placeName ref="stadtasg-places-102">Wil</placeName> ze buoß verfallenn
                     <lb n="6"/>zu tuond schuldig sye, soemliche buoß gemelter

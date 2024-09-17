@@ -25,7 +25,7 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Statthalter und Rat zu Appenzell bestätigen Bürgermeister und Rat zu St. Gallen, dass der St. Galler Bürger Hans Streiff dem Appenzeller Landmann Hans Mettler Silber für vierzehn Gulden verkauft und für dieselbe Summe rechtmässig zurückgekauft habe.</p>
+                <p>Statthalter und Rat zu Appenzell bestätigen Bürgermeister und Rat zu St. Gallen, dass der St. Galler Bürger Hans Streiff dem Appenzeller Landmann Hans Mettler Silber für 14 Gulden verkauft und für dieselbe Summe rechtmässig zurückgekauft habe.</p>
             </abstract>
             <langUsage>
                 <language ident="deu">Deutsch</language>
@@ -49,7 +49,7 @@
                     <date>1440-06-27</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

@@ -55,7 +55,7 @@
                     <date>1421-02-08</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
@@ -92,7 +92,7 @@
                 unserm botten geb. Ist im denn der vorgenant <lb n="12"/>unser kirchen pfleger daby
                 ützit schuldig, darumb wil er in <lb n="13"/>früntlich ussrichten, und was ir also
                 an im erfinden, lassen uns <lb n="14"/>verschriben wissen by disem botten. Geben an
-                    <origDate when="1421-02-08">samstag vor Invocavit <lb n="15"/>anno
+                    <origDate when="1421-02-08">samstag vor Jnvocavit <lb n="15"/>anno
                     XXImo</origDate>. <lb n="16"/><orgName ref="stadtasg-actors-28" role="issuer"
                     >Burgermaister und rat zu <lb n="17"/>Schauffhusen</orgName>. </p>
                 <pb facs="StadtASG_Missive_5_9.JPG" n="2"/>

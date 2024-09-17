@@ -9,7 +9,7 @@
                 <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
             </publicationStmt>
             <notesStmt>
-                <note><p>Am linken oberen Rand Loch, dadurch Textverlust. Zur Sache siehe auch die Missiven Nrn. 250 und 271.</p></note>
+                <note><p>Am linken oberen Rand Loch, dadurch Textverlust. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00250.xml">250</ref> und <ref target="stasg_missiv_00271.xml">271</ref>.</p></note>
             </notesStmt>
             <sourceDesc>
                 <msDesc type="missiv">
@@ -57,7 +57,7 @@
                     <date>1452-01-10</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

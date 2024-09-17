@@ -10,7 +10,7 @@
         <sponsor>Ortsbürgergemeinde St. Gallen</sponsor>
       </editionStmt>
       <publicationStmt>
-        <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+        <publisher/>
         <pubPlace>St. Gallen</pubPlace>
         <date when="2024">2024</date>
         <availability>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-04-19 15:20:25 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
+        <p>Datenbankexport vom 2024-09-17 19:31:53 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -178,6 +178,9 @@
             <persName type="alternative" xml:lang="de">Uolrich Gnaepser (1425-07-04)</persName>
             <persName type="alternative" xml:lang="de">Ulrich Gnäpser</persName>
             <birth when="1421-10-06"/>
+            <note type="description" xml:lang="de">
+              <p>Bruder von <ref target="/actors/123">Gnäpser, Estrich</ref></p>
+            </note>
             <listBibl>
               <bibl>
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per010298"/>
@@ -317,6 +320,9 @@
             <persName type="alternative" xml:lang="de">Cuonrat Uotz (1437-04-16)</persName>
             <persName type="alternative" xml:lang="de">Konrad Utz</persName>
             <birth when="1423-01-25"/>
+            <note type="description" xml:lang="de">
+              <p>Beruf: Läufer in St. Gallen  (1437)</p>
+            </note>
             <listBibl>
               <bibl>
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per010323"/>
@@ -407,9 +413,9 @@
             </listBibl>
           </person>
           <person xml:id="stadtasg-actors-24">
-            <persName type="full" xml:lang="de">Ortwin, Otmar (1427–)</persName>
-            <persName type="main" xml:lang="de">Ortwin, Otmar</persName>
-            <persName type="sort" xml:lang="de">ortwin, otmar</persName>
+            <persName type="full" xml:lang="de">Ortwin, Othmar (I) (1427–)</persName>
+            <persName type="main" xml:lang="de">Ortwin, Othmar (I)</persName>
+            <persName type="sort" xml:lang="de">ortwin, othmar (i)</persName>
             <persName type="alternative" xml:lang="de">Otmar Artwin (1427-04-16)</persName>
             <persName type="alternative" xml:lang="de">Otmar Artwin (1427-04-27)</persName>
             <persName type="alternative" xml:lang="de">Otmar Artwing (1433-04-26)</persName>
@@ -727,7 +733,7 @@
             <persName type="alternative" xml:lang="de">Hans Tumb (I)</persName>
             <birth when="1436-08-07"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <ref target="/actors/43">Tumb (von Neuenburg), Hans (II)</ref></p>
+              <p>Zuname: Der Ältere, Bruder von <ref target="/actors/43">Tumb (von Neuburg), Hans (II)</ref> und und <ref target="/actors/730">Tumb (von Neuburg), Konrad</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -735,6 +741,12 @@
               </bibl>
               <bibl>
                 <ptr type="histhub" target="https://data.histhub.ch/person/11595963"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q99363966"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/020165"/>
               </bibl>
             </listBibl>
           </person>
@@ -751,7 +763,7 @@
             <persName type="alternative" xml:lang="de">Hans Tumb (II)</persName>
             <birth when="1436-08-07"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <ref target="/actors/42">Tumb (von Neuenburg), Hans (I)</ref> und Ehemann von <ref target="/actors/328">Altstätten, Kunigunde von</ref></p>
+              <p>Zuname: Der Jüngere, Bruder von <ref target="/actors/42">Tumb (von Neuburg), Hans (I)</ref> und <ref target="/actors/730">Tumb (von Neuburg), Konrad</ref> sowie Ehemann von <ref target="/actors/328">Altstätten, Kunigunde von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -759,6 +771,12 @@
               </bibl>
               <bibl>
                 <ptr type="histhub" target="https://data.histhub.ch/person/11091728"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q99363966"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/020165"/>
               </bibl>
             </listBibl>
           </person>
@@ -800,15 +818,18 @@
             </listBibl>
           </person>
           <person xml:id="stadtasg-actors-46">
-            <persName type="full" xml:lang="de">Schellenberg, Marquart von (1438–)</persName>
-            <persName type="main" xml:lang="de">Schellenberg, Marquart von</persName>
-            <persName type="sort" xml:lang="de">schellenberg, marquart von</persName>
+            <persName type="full" xml:lang="de">Schellenberg, Marquard von (I) (1438–)</persName>
+            <persName type="main" xml:lang="de">Schellenberg, Marquard von (I)</persName>
+            <persName type="sort" xml:lang="de">schellenberg, marquard von (i)</persName>
             <persName type="alternative" xml:lang="de">Marquart von Schellenberg (1438-06-10)</persName>
             <persName type="alternative" xml:lang="de">Marquart von Schellenberg der iünger (1438-03-07)</persName>
             <persName type="alternative" xml:lang="de">Marquart von Schellenberg der iünger (1438-03-20)</persName>
             <persName type="alternative" xml:lang="de">Marquart von Schellenberg ritter (1438-06-10)</persName>
             <persName type="alternative" xml:lang="de">Marquart der Jüngere von Schellenberg</persName>
             <birth when="1438-03-07"/>
+            <note type="description" xml:lang="de">
+              <p>Zuname: der Jüngere, Ritter</p>
+            </note>
             <listBibl>
               <bibl>
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per010665"/>
@@ -905,8 +926,11 @@
             <persName type="main" xml:lang="de">Schauenberg, Johann zu</persName>
             <persName type="sort" xml:lang="de">schauenberg, johann zu</persName>
             <persName type="alternative" xml:lang="de">Johanns graue zu Schaunberg (1439-04-13)</persName>
-            <persName type="alternative" xml:lang="de">Johann, Graf zu Schauenberg, Hofmeister des heiligen römischen Reichs</persName>
+            <persName type="alternative" xml:lang="de">Johann, Graf zu Schauenberg</persName>
             <birth when="1439-04-13"/>
+            <note type="description" xml:lang="de">
+              <p>Hofmeister des heiligen römischen Reichs</p>
+            </note>
             <listBibl>
               <bibl>
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per011402"/>
@@ -921,8 +945,11 @@
             <persName type="main" xml:lang="de">Schedler, Heinrich</persName>
             <persName type="sort" xml:lang="de">schedler, heinrich</persName>
             <persName type="alternative" xml:lang="de">Hainrich Schedler (1439-07-17)</persName>
-            <persName type="alternative" xml:lang="de">Heinrich Schedler, Ammann zu Appenzell</persName>
+            <persName type="alternative" xml:lang="de">Heinrich Schedler</persName>
             <birth when="1439-07-17"/>
+            <note type="description" xml:lang="de">
+              <p>Ammann zu Appenzell</p>
+            </note>
             <listBibl>
               <bibl>
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per004647"/>
@@ -970,11 +997,13 @@
             <persName type="full" xml:lang="de">Brandis, Wolfhart VI. von (1441–)</persName>
             <persName type="main" xml:lang="de">Brandis, Wolfhart VI. von</persName>
             <persName type="sort" xml:lang="de">brandis, wolfhart vi. von</persName>
-            <persName type="alternative" xml:lang="de">Wolfhart von Brandis der Ältere, Freiherr (1452-06-09)</persName>
             <persName type="alternative" xml:lang="de">Wolffhart vom Brandissz der jünger (1441-01-13)</persName>
             <persName type="alternative" xml:lang="de">Wolffhart von Brandis (1452-06-09)</persName>
             <persName type="alternative" xml:lang="de">Wolfhart der Jüngere von Brandis, Statthalter der Vogtei zu Feldkirch</persName>
             <birth when="1441-01-13"/>
+            <note type="description" xml:lang="de">
+              <p>Zuname: der Jüngere, Statthalter der Vogtei zu Feldkirch, Bruder von <ref target="/actors/704">Brandis, Sigmund I. von</ref></p>
+            </note>
             <listBibl>
               <bibl>
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per001001"/>
@@ -1107,9 +1136,9 @@
             </listBibl>
           </person>
           <person xml:id="stadtasg-actors-62">
-            <persName type="full" xml:lang="de">Friedingen, Hans Wilhelm von (1444–)</persName>
-            <persName type="main" xml:lang="de">Friedingen, Hans Wilhelm von</persName>
-            <persName type="sort" xml:lang="de">friedingen, hans wilhelm von</persName>
+            <persName type="full" xml:lang="de">Friedingen, Hans Wilhelm von (I) (1444–)</persName>
+            <persName type="main" xml:lang="de">Friedingen, Hans Wilhelm von (I)</persName>
+            <persName type="sort" xml:lang="de">friedingen, hans wilhelm von (i)</persName>
             <persName type="alternative" xml:lang="de">Hans Wilhelm von Fridingen (1444-11-08)</persName>
             <persName type="alternative" xml:lang="de">Hans Wilhelm von Friedingen, Vogt zu Bregenz</persName>
             <birth when="1444-11-08"/>
@@ -1323,7 +1352,7 @@
                 <ptr type="viaf" target="https://viaf.org/viaf/80904858/"/>
               </bibl>
               <bibl>
-                <ptr type="deutsch-biographie" target="https://www.deutsche-biographie.de/pnd136585876.html"/>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/pnd136585876.html"/>
               </bibl>
               <bibl>
                 <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Silvester_Pflieger"/>
@@ -2119,6 +2148,9 @@
             <persName type="sort" xml:lang="de">gnaepser, estrich</persName>
             <persName type="alternative" xml:lang="de">Estrichen</persName>
             <birth when="1421-10-06"/>
+            <note type="description" xml:lang="de">
+              <p>Bruder von <ref target="/actors/12">Gnäpser, Ulrich</ref></p>
+            </note>
             <listBibl>
               <bibl>
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per010299"/>
@@ -2504,10 +2536,10 @@
             </listBibl>
           </person>
           <person xml:id="stadtasg-actors-145">
-            <persName type="full" xml:lang="de">NN, Iencle (1426–)</persName>
-            <persName type="main" xml:lang="de">NN, Iencle</persName>
-            <persName type="sort" xml:lang="de">nn, iencle</persName>
-            <persName type="alternative" xml:lang="de">Iencle</persName>
+            <persName type="full" xml:lang="de">NN, Jencle (1426–)</persName>
+            <persName type="main" xml:lang="de">NN, Jencle</persName>
+            <persName type="sort" xml:lang="de">nn, jencle</persName>
+            <persName type="alternative" xml:lang="de">Jencle</persName>
             <birth when="1426-02-06"/>
             <note type="description" xml:lang="de">
               <p>weiblich, Jüdin</p>
@@ -2999,9 +3031,6 @@
             <persName type="sort" xml:lang="de">watt, peter von</persName>
             <persName type="alternative" xml:lang="de">Peter von Watt</persName>
             <birth when="1431-08-21"/>
-            <note type="description" xml:lang="de">
-              <p>Bruder von <ref target="/actors/218">Watt, Hug von</ref></p>
-            </note>
             <listBibl>
               <bibl>
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per010373"/>
@@ -3379,7 +3408,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/019007"/>
               </bibl>
               <bibl>
-                <ptr type="deutsch-biographie" target="https://www.deutsche-biographie.de/pnd138407789.html"/>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/pnd138407789.html"/>
               </bibl>
               <bibl>
                 <ptr type="metagrid" target="https://api.metagrid.ch/concordance/ji8MG3YBlFrJZhV3lEtz.json"/>
@@ -3623,7 +3652,7 @@
             <persName type="alternative" xml:lang="de">Micheln von Emptz</persName>
             <birth when="1436-09-01"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <ref target="/actors/314">Hohenems, Marquart IV. von</ref></p>
+              <p>Bruder von <ref target="/actors/314">Hohenems, Marquard IV. von</ref> und Sohn von <ref target="/actors/729">Hohenems, Marquard III. von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -3631,6 +3660,9 @@
               </bibl>
               <bibl>
                 <ptr type="histhub" target="https://data.histhub.ch/person/11091212"/>
+              </bibl>
+              <bibl>
+                <ptr type="liechtensteinisches-urkundenbuch" target="https://www.lub.li/personregister.aspx?PId=11086&amp;&amp;PrName=ems&amp;&amp;Prlet="/>
               </bibl>
             </listBibl>
           </person>
@@ -3806,7 +3838,7 @@
             <persName type="alternative" xml:lang="de">Hug von Watt</persName>
             <birth when="1437-03-19"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <ref target="/actors/173">Watt, Peter von</ref></p>
+              <p>Vater von <ref target="/actors/705">Watt, Hektor von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -4104,7 +4136,7 @@
                 <ptr type="viaf" target="https://viaf.org/viaf/89964867/"/>
               </bibl>
               <bibl>
-                <ptr type="deutsch-biographie" target="https://www.deutsche-biographie.de/pnd138421099.html"/>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/pnd138421099.html"/>
               </bibl>
             </listBibl>
           </person>
@@ -4248,16 +4280,8 @@
             <persName type="alternative" xml:lang="de">Wilhelmen von Hochenrechperg</persName>
             <birth when="1438-09-17"/>
             <note type="description" xml:lang="de">
-              <p>Landrichter, Zuname: von Hohenrechberg</p>
+              <p>Landrichter, Zuname: von Hohenrechberg, Familie <ref target="/actors/727">von Rechberg</ref></p>
             </note>
-            <listBibl>
-              <bibl>
-                <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per011192"/>
-              </bibl>
-              <bibl>
-                <ptr type="histhub" target="https://data.histhub.ch/person/11596690"/>
-              </bibl>
-            </listBibl>
           </person>
           <person xml:id="stadtasg-actors-242">
             <persName type="full" xml:lang="de">Tudeller, Hans (1438–)</persName>
@@ -4455,6 +4479,7 @@
             <persName type="main" xml:lang="de">Graben, Hans am</persName>
             <persName type="sort" xml:lang="de">graben, hans am</persName>
             <persName type="alternative" xml:lang="de">Hannsen vom Graben</persName>
+            <persName type="variant" xml:lang="de">Graben, Johann am</persName>
             <birth when="1439-04-13"/>
             <listBibl>
               <bibl>
@@ -4489,6 +4514,9 @@
             <persName type="alternative" xml:lang="de">Uelin Oweler, genampt Tümpffler (1439-07-17)</persName>
             <persName type="alternative" xml:lang="de">Uelin Tümpffler</persName>
             <birth when="1439-07-17"/>
+            <note type="description" xml:lang="de">
+              <p>Zuname: Tümpfler</p>
+            </note>
             <listBibl>
               <bibl>
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per011404"/>
@@ -4823,6 +4851,7 @@
             <persName type="alternative" xml:lang="de">Ulrichen (1452-11-03)</persName>
             <persName type="alternative" xml:lang="de">Ulrichen (1452-11-03)</persName>
             <persName type="alternative" xml:lang="de">Uolrichen</persName>
+            <persName type="variant" xml:lang="de">Glockengiesser, Ulrich</persName>
             <birth when="1451-11-09"/>
             <note type="description" xml:lang="de">
               <p>Glockengiesser, Meister, Wohn/Herkunftsort: St. Gallen</p>
@@ -5260,13 +5289,13 @@
             </listBibl>
           </person>
           <person xml:id="stadtasg-actors-300">
-            <persName type="full" xml:lang="de">Sigberg, Ursula von (1443–)</persName>
-            <persName type="main" xml:lang="de">Sigberg, Ursula von</persName>
-            <persName type="sort" xml:lang="de">sigberg, ursula von</persName>
-            <persName type="alternative" xml:lang="de">frowen der aepptyssenn</persName>
+            <persName type="full" xml:lang="de">Sigberg, Ursula I. von (1443–)</persName>
+            <persName type="main" xml:lang="de">Sigberg, Ursula I. von</persName>
+            <persName type="sort" xml:lang="de">sigberg, ursula i. von</persName>
+            <persName type="alternative" xml:lang="de">frowen aepptyssenn</persName>
             <birth when="1443-08-02"/>
             <note type="description" xml:lang="de">
-              <p>Äbtissin zu Lindau (1432-1476)Vögtin in Sommeri  (1476)</p>
+              <p>Fürstäbtissin des <ref target="/actors/662">Kanonissenstift Lindau</ref> (1432-1476)Vögtin in Sommeri  (1476)</p>
             </note>
             <listBibl>
               <bibl>
@@ -5462,16 +5491,16 @@
             </listBibl>
           </person>
           <person xml:id="stadtasg-actors-314">
-            <persName type="full" xml:lang="de">Hohenems, Marquart IV. von (1444–)</persName>
-            <persName type="main" xml:lang="de">Hohenems, Marquart IV. von</persName>
-            <persName type="sort" xml:lang="de">hohenems, marquart iv. von</persName>
+            <persName type="full" xml:lang="de">Hohenems, Marquard IV. von (1444–)</persName>
+            <persName type="main" xml:lang="de">Hohenems, Marquard IV. von</persName>
+            <persName type="sort" xml:lang="de">hohenems, marquard iv. von</persName>
             <persName type="alternative" xml:lang="de">Maerk (1444-06-17)</persName>
             <persName type="alternative" xml:lang="de">Märk von Emptz (1454-07-16)</persName>
             <persName type="alternative" xml:lang="de">her Mar quart (1455-11-14)</persName>
             <persName type="alternative" xml:lang="de">Maerk von Emptz</persName>
             <birth when="1444-06-17"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <ref target="/actors/207">Hohenems, Michael I. von</ref></p>
+              <p>Bruder von <ref target="/actors/207">Hohenems, Michael I. von</ref> und Sohn von <ref target="/actors/729">Hohenems, Marquard III. von</ref>, Todesdatum 1489</p>
             </note>
             <listBibl>
               <bibl>
@@ -5479,6 +5508,9 @@
               </bibl>
               <bibl>
                 <ptr type="histhub" target="https://data.histhub.ch/person/11091216"/>
+              </bibl>
+              <bibl>
+                <ptr type="liechtensteinisches-urkundenbuch" target="https://www.lub.li/personregister.aspx?PId=11260&amp;&amp;PrName=ems&amp;&amp;Prlet="/>
               </bibl>
             </listBibl>
           </person>
@@ -5593,7 +5625,7 @@
                 <ptr type="gnd" target="https://d-nb.info/gnd/123011884"/>
               </bibl>
               <bibl>
-                <ptr type="deutsch-biographie" target="https://www.deutsche-biographie.de/pnd123011884.html"/>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/pnd123011884.html"/>
               </bibl>
             </listBibl>
           </person>
@@ -5734,6 +5766,12 @@
               </bibl>
               <bibl>
                 <ptr type="histhub" target="https://data.histhub.ch/person/11091948"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q99368628"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/020192"/>
               </bibl>
             </listBibl>
           </person>
@@ -6269,7 +6307,7 @@
                 <ptr type="worldcat" target="https://worldcat.org/identities/viaf-15573234/"/>
               </bibl>
               <bibl>
-                <ptr type="deutsch-biographie" target="https://www.deutsche-biographie.de/pnd119140128.html"/>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/pnd119140128.html"/>
               </bibl>
             </listBibl>
           </person>
@@ -7326,11 +7364,17 @@
             <persName type="alternative" xml:lang="de">Gaudentzen von Rechberg von Hochenrechberg</persName>
             <birth when="1452-11-03"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: von Hohenrechberg</p>
+              <p>Zuname: von Hohenrechberg, Familie <ref target="/actors/727">von Rechberg</ref></p>
             </note>
             <listBibl>
               <bibl>
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per030868"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/128876131"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q59426987"/>
               </bibl>
             </listBibl>
           </person>
@@ -7469,7 +7513,16 @@
                 <ptr type="gnd" target="https://d-nb.info/gnd/1018799710"/>
               </bibl>
               <bibl>
-                <ptr type="viaf" target="http://viaf.org/viaf/228730763"/>
+                <ptr type="viaf" target="https://viaf.org/viaf/228730763/"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Johann_III._(Werdenberg)"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q28837254"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/1018799710.html"/>
               </bibl>
             </listBibl>
           </person>
@@ -7707,10 +7760,16 @@
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per017904"/>
               </bibl>
               <bibl>
-                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/021426/2010-07-28/"/>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/021426"/>
               </bibl>
               <bibl>
                 <ptr type="histhub" target="https://data.histhub.ch/person/11482973"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q35222231"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Petermann_von_Raron"/>
               </bibl>
             </listBibl>
           </person>
@@ -7797,7 +7856,7 @@
             <persName type="alternative" xml:lang="de">Hanß von Rechberg</persName>
             <birth when="1451-11-09"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: von Hohenrechberg</p>
+              <p>Zuname: von Hohenrechberg, Familie <ref target="/actors/727">von Rechberg</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -7810,22 +7869,16 @@
                 <ptr type="metagrid" target="https://api.metagrid.ch/concordance/SAH5GnYBlFrJZhV333eO.json"/>
               </bibl>
               <bibl>
-                <ptr type="helveticat" target="https://www.helveticat.ch/discovery/search?query=lds50,contains,118974106&amp;vid=41SNL_51_INST:helveticat"/>
-              </bibl>
-              <bibl>
                 <ptr type="bsg" target="https://www.bsg.nb.admin.ch/discovery/search?query=lds50,contains,118974106&amp;vid=41SNL_54_INST:bsg"/>
               </bibl>
               <bibl>
                 <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/019726/2011-12-20/"/>
               </bibl>
               <bibl>
-                <ptr type="loc" target="http://id.loc.gov/authorities/names/no2014052986"/>
-              </bibl>
-              <bibl>
                 <ptr type="histhub" target="https://data.histhub.ch/person/11475800"/>
               </bibl>
               <bibl>
-                <ptr type="sudoc" target="http://www.idref.fr/186377614/id"/>
+                <ptr type="idref" target="http://www.idref.fr/186377614/id"/>
               </bibl>
               <bibl>
                 <ptr type="viaf" target="https://viaf.org/viaf/20480350/"/>
@@ -7837,13 +7890,10 @@
                 <ptr type="worldcat" target="https://worldcat.org/identities/lccn-no2014052986/"/>
               </bibl>
               <bibl>
-                <ptr type="deutsch-biographie" target="https://www.deutsche-biographie.de/118974106.html"/>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118974106.html"/>
               </bibl>
               <bibl>
                 <ptr type="lcnaf" target="https://id.loc.gov/authorities/no2014052986"/>
-              </bibl>
-              <bibl>
-                <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/019726"/>
               </bibl>
             </listBibl>
           </person>
@@ -7906,9 +7956,9 @@
             </listBibl>
           </person>
           <person xml:id="stadtasg-actors-466">
-            <persName type="full" xml:lang="de">Schellenberg, Marquart von (1454–)</persName>
-            <persName type="main" xml:lang="de">Schellenberg, Marquart von</persName>
-            <persName type="sort" xml:lang="de">schellenberg, marquart von</persName>
+            <persName type="full" xml:lang="de">Schellenberg, Marquard von (II) (1454–)</persName>
+            <persName type="main" xml:lang="de">Schellenberg, Marquard von (II)</persName>
+            <persName type="sort" xml:lang="de">schellenberg, marquard von (ii)</persName>
             <persName type="alternative" xml:lang="de">Marquart von Schellemberg</persName>
             <birth when="1454-07-16"/>
             <listBibl>
@@ -8834,7 +8884,7 @@
                 <ptr type="viaf" target="https://viaf.org/viaf/35320841/"/>
               </bibl>
               <bibl>
-                <ptr type="deutsch-biographie" target="https://www.deutsche-biographie.de/pnd121765482.html"/>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/pnd121765482.html"/>
               </bibl>
               <bibl>
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per012820"/>
@@ -9025,9 +9075,9 @@
             </note>
           </person>
           <person xml:id="stadtasg-actors-618">
-            <persName type="full" xml:lang="de">Zwick, Michael (1459–)</persName>
-            <persName type="main" xml:lang="de">Zwick, Michael</persName>
-            <persName type="sort" xml:lang="de">zwick, michael</persName>
+            <persName type="full" xml:lang="de">Zwick, Michael (I) (1459–)</persName>
+            <persName type="main" xml:lang="de">Zwick, Michael (I)</persName>
+            <persName type="sort" xml:lang="de">zwick, michael (i)</persName>
             <birth when="1459-01-22"/>
             <note type="description" xml:lang="de">
               <p>Sohn von <ref target="/actors/71">Zwick, Heinrich (II)</ref></p>
@@ -9061,10 +9111,13 @@
             <birth when="1456-07-14"/>
           </person>
           <person xml:id="stadtasg-actors-624">
-            <persName type="full" xml:lang="de">Zerhoch, Hans (1456–)</persName>
-            <persName type="main" xml:lang="de">Zerhoch, Hans</persName>
-            <persName type="sort" xml:lang="de">zerhoch, hans</persName>
+            <persName type="full" xml:lang="de">Zerahoch, Hans (1456–)</persName>
+            <persName type="main" xml:lang="de">Zerahoch, Hans</persName>
+            <persName type="sort" xml:lang="de">zerahoch, hans</persName>
             <birth when="1456-07-14"/>
+            <note type="description" xml:lang="de">
+              <p>Stiefvater von <ref target="/actors/649">Bertschi, Egli</ref> und <ref target="/actors/648">Bertschi, Rudolf</ref></p>
+            </note>
           </person>
           <person xml:id="stadtasg-actors-625">
             <persName type="full" xml:lang="de">Muntprat (von Spiegelberg), Hans (1456–)</persName>
@@ -9105,7 +9158,7 @@
                 <ptr type="worldcat" target="https://worldcat.org/identities/lccn-no95020795/"/>
               </bibl>
               <bibl>
-                <ptr type="deutsch-biographie" target="https://www.deutsche-biographie.de/118958410.html"/>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118958410.html"/>
               </bibl>
               <bibl>
                 <ptr type="lcnaf" target="https://id.loc.gov/authorities/no95020795"/>
@@ -9121,7 +9174,7 @@
             <persName type="sort" xml:lang="de">widenbach, johannes von</persName>
             <birth when="1456"/>
             <note type="description" xml:lang="de">
-              <p>Vater von <ref target="/actors/637">Widenbach, Urban von</ref></p>
+              <p>Bürgermeister von St. Gallen (1454-1456), Vater von <ref target="/actors/637">Widenbach, Urban von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -9169,9 +9222,6 @@
                 <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q96230251"/>
               </bibl>
               <bibl>
-                <ptr type="deutsch-biographie" target="https://www.deutsche-biographie.de/143919881.html"/>
-              </bibl>
-              <bibl>
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/014720"/>
               </bibl>
               <bibl>
@@ -9205,6 +9255,1167 @@
             <note type="description" xml:lang="de">
               <p>Wohn/Herkunftsort: Teufen</p>
             </note>
+          </person>
+          <person xml:id="stadtasg-actors-639">
+            <persName type="full" xml:lang="de">Schad, Jacob (1462–)</persName>
+            <persName type="main" xml:lang="de">Schad, Jacob</persName>
+            <persName type="sort" xml:lang="de">schad, jacob</persName>
+            <birth when="1462-11-11"/>
+            <note type="description" xml:lang="de">
+              <p>Zuname: der Jüngere, Bürger von Biberach</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-640">
+            <persName type="full" xml:lang="de">Kirchberg, Eberhard von (I) (1462–)</persName>
+            <persName type="main" xml:lang="de">Kirchberg, Eberhard von (I)</persName>
+            <persName type="sort" xml:lang="de">kirchberg, eberhard von (i)</persName>
+            <persName type="alternative" xml:lang="de">Eberharz graven zuo Kirchberg</persName>
+            <birth when="1462-11-11"/>
+            <note type="description" xml:lang="de">
+              <p>Zuname: der Ältere, Vater von <ref target="/actors/641">Kirchberg, Eberhard von (II)</ref></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/1080247009"/>
+              </bibl>
+              <bibl>
+                <ptr type="historisches-lexikon-bayerns" target="https://www.historisches-lexikon-bayerns.de/Lexikon/Kirchberg,_Grafen_von"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-641">
+            <persName type="full" xml:lang="de">Kirchberg, Eberhard von (II) (1462–)</persName>
+            <persName type="main" xml:lang="de">Kirchberg, Eberhard von (II)</persName>
+            <persName type="sort" xml:lang="de">kirchberg, eberhard von (ii)</persName>
+            <persName type="alternative" xml:lang="de">Eberhart grafe zuo Kirchberg</persName>
+            <birth when="1462-11-11"/>
+            <note type="description" xml:lang="de">
+              <p>Zuname: der Jüngere, Sohn von <ref target="/actors/640">Kirchberg, Eberhard von (I)</ref></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="historisches-lexikon-bayerns" target="https://www.historisches-lexikon-bayerns.de/Lexikon/Kirchberg,_Grafen_von#Kirchberg-Wullenstetten"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-642">
+            <persName type="full" xml:lang="de">Bayern, Otto von (1462–)</persName>
+            <persName type="main" xml:lang="de">Bayern, Otto von</persName>
+            <persName type="sort" xml:lang="de">bayern, otto von</persName>
+            <persName type="alternative" xml:lang="de">hertzog Ott von Payern</persName>
+            <birth when="1462-11-11"/>
+          </person>
+          <person xml:id="stadtasg-actors-643">
+            <persName type="full" xml:lang="de">Rechberg, Bero von (1462–)</persName>
+            <persName type="main" xml:lang="de">Rechberg, Bero von</persName>
+            <persName type="sort" xml:lang="de">rechberg, bero von</persName>
+            <persName type="alternative" xml:lang="de">Beren von Rechberg, Bern von Rechberg von Hohenrechberg</persName>
+            <birth when="1462-11-11"/>
+            <note type="description" xml:lang="de">
+              <p>Bruder von <ref target="/actors/682">Rechberg, Georg von</ref>, Familie <ref target="/actors/727">von Rechberg</ref></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/116372966"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-644">
+            <persName type="full" xml:lang="de">Spaeten, Albrecht (1462–)</persName>
+            <persName type="main" xml:lang="de">Spaeten, Albrecht</persName>
+            <persName type="sort" xml:lang="de">spaeten, albrecht</persName>
+            <birth when="1462-11-11"/>
+          </person>
+          <person xml:id="stadtasg-actors-646">
+            <persName type="full" xml:lang="de">Opfertshofer, Hans (1463–)</persName>
+            <persName type="main" xml:lang="de">Opfertshofer, Hans</persName>
+            <persName type="sort" xml:lang="de">opfertshofer, hans</persName>
+            <persName type="alternative" xml:lang="de">Hansen Opffertzhover</persName>
+            <birth when="1463-08-08"/>
+          </person>
+          <person xml:id="stadtasg-actors-647">
+            <persName type="full" xml:lang="de">Trösch, Heinrich (1463–)</persName>
+            <persName type="main" xml:lang="de">Trösch, Heinrich</persName>
+            <persName type="sort" xml:lang="de">troesch, heinrich</persName>
+            <persName type="alternative" xml:lang="de">Hainrich Troesch von Walsew</persName>
+            <birth when="1463-08-08"/>
+          </person>
+          <person xml:id="stadtasg-actors-648">
+            <persName type="full" xml:lang="de">Bertschi, Rudolf (1463–)</persName>
+            <persName type="main" xml:lang="de">Bertschi, Rudolf</persName>
+            <persName type="sort" xml:lang="de">bertschi, rudolf</persName>
+            <persName type="alternative" xml:lang="de">Ruedin Bertschin</persName>
+            <birth when="1463-04-12"/>
+            <note type="description" xml:lang="de">
+              <p>Bruder von <ref target="/actors/649">Bertschi, Egli</ref>, Stiefsohn von <ref target="/actors/624">Zerahoch, Hans</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-649">
+            <persName type="full" xml:lang="de">Bertschi, Egli (1463–)</persName>
+            <persName type="main" xml:lang="de">Bertschi, Egli</persName>
+            <persName type="sort" xml:lang="de">bertschi, egli</persName>
+            <persName type="alternative" xml:lang="de">Eglin Bertschin</persName>
+            <birth when="1463-04-12"/>
+            <note type="description" xml:lang="de">
+              <p>Bruder von <ref target="/actors/648">Bertschi, Rudolf</ref>, Stiefsohn von <ref target="/actors/624">Zerahoch, Hans</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-650">
+            <persName type="full" xml:lang="de">Randegg, Heinrich von (1463–)</persName>
+            <persName type="main" xml:lang="de">Randegg, Heinrich von</persName>
+            <persName type="sort" xml:lang="de">randegg, heinrich von</persName>
+            <persName type="alternative" xml:lang="de">Hainrichen von Randegk</persName>
+            <birth when="1463-04-12"/>
+          </person>
+          <person xml:id="stadtasg-actors-651">
+            <persName type="full" xml:lang="de">Rösch, Ulrich (1463–)</persName>
+            <persName type="main" xml:lang="de">Rösch, Ulrich</persName>
+            <persName type="sort" xml:lang="de">roesch, ulrich</persName>
+            <persName type="alternative" xml:lang="de">Uolrich Roesch</persName>
+            <birth when="1463-04-12"/>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Ulrich_Rösch"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q2476552"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118966774.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n85344357"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/012796"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/69729076/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/118966774"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-652">
+            <persName type="full" xml:lang="de">Blarer, Klaus (1463–)</persName>
+            <persName type="main" xml:lang="de">Blarer, Klaus</persName>
+            <persName type="sort" xml:lang="de">blarer, klaus</persName>
+            <persName type="alternative" xml:lang="de">Clausen Plaren</persName>
+            <birth when="1463-04-12"/>
+          </person>
+          <person xml:id="stadtasg-actors-653">
+            <persName type="full" xml:lang="de">Frauenlob, Johann (1463–)</persName>
+            <persName type="main" xml:lang="de">Frauenlob, Johann</persName>
+            <persName type="sort" xml:lang="de">frauenlob, johann</persName>
+            <persName type="alternative" xml:lang="de">Johansen Frowenlobs</persName>
+            <birth when="1463-04-12"/>
+            <note type="description" xml:lang="de">
+              <p>Bürger von Konstanz</p>
+            </note>
+          </person>
+          <personGrp role="family" xml:id="stadtasg-actors-654">
+            <persName type="full" xml:lang="de">Schwarz (1464–)</persName>
+            <persName type="main" xml:lang="de">Schwarz</persName>
+            <persName type="sort" xml:lang="de">schwarz</persName>
+            <persName type="alternative" xml:lang="de">Swartzen</persName>
+            <birth when="1464-01-17"/>
+          </personGrp>
+          <person xml:id="stadtasg-actors-655">
+            <persName type="full" xml:lang="de">Schauenberg, Reinhard von (1464–)</persName>
+            <persName type="main" xml:lang="de">Schauenberg, Reinhard von</persName>
+            <persName type="sort" xml:lang="de">schauenberg, reinhard von</persName>
+            <persName type="alternative" xml:lang="de">Reinhartz von Schowemburg</persName>
+            <birth when="1464-02-18"/>
+          </person>
+          <person xml:id="stadtasg-actors-656">
+            <persName type="full" xml:lang="de">Maurer, Hans (1464–)</persName>
+            <persName type="main" xml:lang="de">Maurer, Hans</persName>
+            <persName type="sort" xml:lang="de">maurer, hans</persName>
+            <persName type="alternative" xml:lang="de">Hannsen Murer</persName>
+            <birth when="1464-02-23"/>
+            <note type="description" xml:lang="de">
+              <p>Bürger von Obersteinach</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-657">
+            <persName type="full" xml:lang="de">Randegg, Burkhard von (1464–)</persName>
+            <persName type="main" xml:lang="de">Randegg, Burkhard von</persName>
+            <persName type="sort" xml:lang="de">randegg, burkhard von</persName>
+            <persName type="alternative" xml:lang="de">Burkhart von gottes gnaden bischoff zuo Costentz</persName>
+            <birth when="1464-02-23"/>
+            <note type="description" xml:lang="de">
+              <p>Bischof zu Konstanz</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/1300128054"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1016449"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/012890"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/2332169321723838640001/"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Burkhard_II._von_Randegg"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-658">
+            <persName type="full" xml:lang="de">Trapp, Jakob (1464–)</persName>
+            <persName type="main" xml:lang="de">Trapp, Jakob</persName>
+            <persName type="sort" xml:lang="de">trapp, jakob</persName>
+            <birth when="1464-07-24"/>
+            <note type="description" xml:lang="de">
+              <p>Vogt und Hofmeister zu Bregenz, Ehemann von <ref target="/actors/659">Matsch, Barbara von</ref></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Jakob_II._Trapp"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q125679665"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-659">
+            <persName type="full" xml:lang="de">Matsch, Barbara von (1464–)</persName>
+            <persName type="main" xml:lang="de">Matsch, Barbara von</persName>
+            <persName type="sort" xml:lang="de">matsch, barbara von</persName>
+            <birth when="1464-07-24"/>
+            <note type="description" xml:lang="de">
+              <p>Ehefrau von <ref target="/actors/658">Trapp, Jakob</ref></p>
+            </note>
+          </person>
+          <personGrp role="family" xml:id="stadtasg-actors-661">
+            <persName type="full" xml:lang="de">Grünenstein, von (1464–)</persName>
+            <persName type="main" xml:lang="de">Grünenstein, von</persName>
+            <persName type="sort" xml:lang="de">gruenenstein, von</persName>
+            <birth when="1464-09-06"/>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q99369803"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/020230"/>
+              </bibl>
+            </listBibl>
+          </personGrp>
+          <person xml:id="stadtasg-actors-663">
+            <persName type="full" xml:lang="de">Mötteli, Lütfried (1465–)</persName>
+            <persName type="main" xml:lang="de">Mötteli, Lütfried</persName>
+            <persName type="sort" xml:lang="de">moetteli, luetfried</persName>
+            <persName type="alternative" xml:lang="de">Lütfriden Moetelin</persName>
+            <birth when="1465-05-06"/>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/138421161"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q57338304"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/138421161.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/028594"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/89964920/"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-664">
+            <persName type="full" xml:lang="de">Riner, Hans (1465–)</persName>
+            <persName type="main" xml:lang="de">Riner, Hans</persName>
+            <persName type="sort" xml:lang="de">riner, hans</persName>
+            <persName type="alternative" xml:lang="de">Hanssen Riner von Saletz</persName>
+            <birth when="1465-03-27"/>
+            <listBibl>
+              <bibl>
+                <ptr type="lub-(liechtensteinisches-urkundenbuch)" target="https://www.lub.li/personregister.aspx?PId=10837&amp;&amp;PrName=riner&amp;&amp;Prlet="/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-665">
+            <persName type="full" xml:lang="de">Signer, Lienhart (1465–)</persName>
+            <persName type="main" xml:lang="de">Signer, Lienhart</persName>
+            <persName type="sort" xml:lang="de">signer, lienhart</persName>
+            <birth when="1465-03-27"/>
+            <listBibl>
+              <bibl>
+                <ptr type="lub-(liechtensteinisches-urkundenbuch)" target="https://www.lub.li/personregister.aspx?PId=10838&amp;&amp;PrName=signer&amp;&amp;Prlet="/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-666">
+            <persName type="full" xml:lang="de">Ortwin, Othmar (II) (1465–)</persName>
+            <persName type="main" xml:lang="de">Ortwin, Othmar (II)</persName>
+            <persName type="sort" xml:lang="de">ortwin, othmar (ii)</persName>
+            <persName type="alternative" xml:lang="de">Othmar Orttwin</persName>
+            <birth when="1465-07-23"/>
+            <note type="description" xml:lang="de">
+              <p>Wohnhaft in Zürich</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-667">
+            <persName type="full" xml:lang="de">Ritzi, Hans (1465–)</persName>
+            <persName type="main" xml:lang="de">Ritzi, Hans</persName>
+            <persName type="sort" xml:lang="de">ritzi, hans</persName>
+            <persName type="alternative" xml:lang="de">Hansen Ritzis</persName>
+            <birth when="1465-09-06"/>
+            <note type="description" xml:lang="de">
+              <p>Schultheiss zu Luzern (1464, 1466, 1470 und 1472)</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q110551399"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/014474"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-668">
+            <persName type="full" xml:lang="de">Utz, Johannes (1464–)</persName>
+            <persName type="main" xml:lang="de">Utz, Johannes</persName>
+            <persName type="sort" xml:lang="de">utz, johannes</persName>
+            <persName type="alternative" xml:lang="de">Johannes Utz</persName>
+            <persName type="alternative" xml:lang="de">Hanns Uotz</persName>
+            <birth when="1464-10-28"/>
+            <note type="description" xml:lang="de">
+              <p>Stadtschreiber von St.Gallen</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-669">
+            <persName type="full" xml:lang="de">Merz, Leonhard (1464–)</persName>
+            <persName type="main" xml:lang="de">Merz, Leonhard</persName>
+            <persName type="sort" xml:lang="de">merz, leonhard</persName>
+            <persName type="alternative" xml:lang="de">Lienhart Mertz</persName>
+            <birth when="1464-11-01"/>
+          </person>
+          <person xml:id="stadtasg-actors-670">
+            <persName type="full" xml:lang="de">Hux, Othmar (1464–)</persName>
+            <persName type="main" xml:lang="de">Hux, Othmar</persName>
+            <persName type="sort" xml:lang="de">hux, othmar</persName>
+            <birth when="1464-11-01"/>
+          </person>
+          <person xml:id="stadtasg-actors-671">
+            <persName type="full" xml:lang="de">NN, Konrad (1464–)</persName>
+            <persName type="main" xml:lang="de">NN, Konrad</persName>
+            <persName type="sort" xml:lang="de">nn, konrad</persName>
+            <persName type="alternative" xml:lang="de">Cuonrat</persName>
+            <birth when="1464-11-01"/>
+          </person>
+          <person xml:id="stadtasg-actors-672">
+            <persName type="full" xml:lang="de">Bayern-Landshut, Ludwig IX. von (1464–)</persName>
+            <persName type="main" xml:lang="de">Bayern-Landshut, Ludwig IX. von</persName>
+            <persName type="sort" xml:lang="de">bayern-landshut, ludwig ix. von</persName>
+            <birth when="1464-11-01"/>
+            <note type="description" xml:lang="de">
+              <p>Herzog von Bayern-Landshut (1450-1479); Zuname: der Reiche</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/119398613"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q61974"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/119398613.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/nr97004785"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/264315741/"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Ludwig_IX._(Bayern)"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-673">
+            <persName type="full" xml:lang="de">NN, Marquard (1464–)</persName>
+            <persName type="main" xml:lang="de">NN, Marquard</persName>
+            <persName type="sort" xml:lang="de">nn, marquard</persName>
+            <persName type="alternative" xml:lang="de">her Marquart</persName>
+            <birth when="1464-11-01"/>
+          </person>
+          <person xml:id="stadtasg-actors-674">
+            <persName type="full" xml:lang="de">Reischach, NN von (1464–)</persName>
+            <persName type="main" xml:lang="de">Reischach, NN von</persName>
+            <persName type="sort" xml:lang="de">reischach, nn von</persName>
+            <birth when="1464-10-28"/>
+          </person>
+          <person xml:id="stadtasg-actors-675">
+            <persName type="full" xml:lang="de">Homburg, Burkhard von (1464–)</persName>
+            <persName type="main" xml:lang="de">Homburg, Burkhard von</persName>
+            <persName type="sort" xml:lang="de">homburg, burkhard von</persName>
+            <birth when="1464-10-28"/>
+          </person>
+          <person xml:id="stadtasg-actors-676">
+            <persName type="full" xml:lang="de">Rem, Georg (1464–)</persName>
+            <persName type="main" xml:lang="de">Rem, Georg</persName>
+            <persName type="sort" xml:lang="de">rem, georg</persName>
+            <persName type="alternative" xml:lang="de">Rem, Jörg</persName>
+            <birth when="1464-10-18"/>
+            <note type="description" xml:lang="de">
+              <p>Prokurator</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-677">
+            <persName type="full" xml:lang="de">NN, Siferlin (1465–)</persName>
+            <persName type="main" xml:lang="de">NN, Siferlin</persName>
+            <persName type="sort" xml:lang="de">nn, siferlin</persName>
+            <persName type="alternative" xml:lang="de">Syferlin</persName>
+            <birth when="1465-09-12"/>
+            <note type="description" xml:lang="de">
+              <p>Beruf: Bote</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-678">
+            <persName type="full" xml:lang="de">Ferg, Jacob (1466–)</persName>
+            <persName type="main" xml:lang="de">Ferg, Jacob</persName>
+            <persName type="sort" xml:lang="de">ferg, jacob</persName>
+            <birth when="1466-08-29"/>
+          </person>
+          <personGrp role="family" xml:id="stadtasg-actors-679">
+            <persName type="full" xml:lang="de">Klingenberg, von (1466–)</persName>
+            <persName type="main" xml:lang="de">Klingenberg, von</persName>
+            <persName type="sort" xml:lang="de">klingenberg, von</persName>
+            <persName type="alternative" xml:lang="de">Clingenberg</persName>
+            <persName type="alternative" xml:lang="de">Clingemberg</persName>
+            <birth when="1466-08-29"/>
+          </personGrp>
+          <personGrp role="family" xml:id="stadtasg-actors-680">
+            <persName type="full" xml:lang="de">Homburg, von (1467–)</persName>
+            <persName type="main" xml:lang="de">Homburg, von</persName>
+            <persName type="sort" xml:lang="de">homburg, von</persName>
+            <birth when="1467-02-26"/>
+          </personGrp>
+          <person xml:id="stadtasg-actors-681">
+            <persName type="full" xml:lang="de">Friedingen, Hans Wilhelm von (II) (1465–)</persName>
+            <persName type="main" xml:lang="de">Friedingen, Hans Wilhelm von (II)</persName>
+            <persName type="sort" xml:lang="de">friedingen, hans wilhelm von (ii)</persName>
+            <persName type="alternative" xml:lang="de">Hans Wilhelm von Fridingen zuo Hohen Kraeyen</persName>
+            <birth when="1465-09-12"/>
+            <note type="description" xml:lang="de">
+              <p>Zuname: zu Hohenkrähen, Familie <ref target="/actors/728">von Friedingen</ref></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="historisches-familienlexikon-der-schweiz" target="http://www.hfls.ch/humo-gen/family/1/F5314?main_person=I56439"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-682">
+            <persName type="full" xml:lang="de">Rechberg, Georg von (1465–)</persName>
+            <persName type="main" xml:lang="de">Rechberg, Georg von</persName>
+            <persName type="sort" xml:lang="de">rechberg, georg von</persName>
+            <persName type="alternative" xml:lang="de">Joerg von Rechberg</persName>
+            <birth when="1465-07-26"/>
+            <note type="description" xml:lang="de">
+              <p>Bruder von <ref target="/actors/643">Rechberg, Bero von</ref>, Familie <ref target="/actors/727">von Rechberg</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-683">
+            <persName type="full" xml:lang="de">Freiberg, Michael von (1465–)</persName>
+            <persName type="main" xml:lang="de">Freiberg, Michael von</persName>
+            <persName type="sort" xml:lang="de">freiberg, michael von</persName>
+            <persName type="alternative" xml:lang="de">Micheln von Friberg</persName>
+            <birth when="1465-07-26"/>
+          </person>
+          <person xml:id="stadtasg-actors-684">
+            <persName type="full" xml:lang="de">Erlenbach, NN von (1465–)</persName>
+            <persName type="main" xml:lang="de">Erlenbach, NN von</persName>
+            <persName type="sort" xml:lang="de">erlenbach, nn von</persName>
+            <persName type="alternative" xml:lang="de">Urlenbach</persName>
+            <birth when="1465-07-26"/>
+            <note type="description" xml:lang="de">
+              <p>männlich</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-686">
+            <persName type="full" xml:lang="de">Schaumberg, Petrus I. von (1465–)</persName>
+            <persName type="main" xml:lang="de">Schaumberg, Petrus I. von</persName>
+            <persName type="sort" xml:lang="de">schaumberg, petrus i. von</persName>
+            <birth when="1465-07-26"/>
+            <note type="description" xml:lang="de">
+              <p>Bischof zu Augsburg (1424-1469), Kardinal</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/103078711"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q324109"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/103078711.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/2873713/"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <personGrp role="family" xml:id="stadtasg-actors-687">
+            <persName type="full" xml:lang="de">Württemberg, von (1465–)</persName>
+            <persName type="main" xml:lang="de">Württemberg, von</persName>
+            <persName type="sort" xml:lang="de">wuerttemberg, von</persName>
+            <persName type="alternative" xml:lang="de">Wirttenberg</persName>
+            <birth when="1465-07-26"/>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q699788"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Haus_Württemberg"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/House-of-Wurttemberg"/>
+              </bibl>
+              <bibl>
+                <ptr type="worldcat" target="https://worldcat.org/identities/viaf-47555236/"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118635514.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/47555236/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/118635514"/>
+              </bibl>
+            </listBibl>
+          </personGrp>
+          <person xml:id="stadtasg-actors-688">
+            <persName type="full" xml:lang="de">Paul II. (1465–)</persName>
+            <persName type="main" xml:lang="de">Paul II.</persName>
+            <persName type="sort" xml:lang="de">paul ii.</persName>
+            <birth when="1465-07-26"/>
+            <note type="description" xml:lang="de">
+              <p>Papst (1464-1471)</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q102605"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/biography/Paul-II"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/11923212X.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n82080187"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/316406291/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/11923212X"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Paul_II."/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-689">
+            <persName type="full" xml:lang="de">Schürpf, Hans (1465–)</persName>
+            <persName type="main" xml:lang="de">Schürpf, Hans</persName>
+            <persName type="sort" xml:lang="de">schuerpf, hans</persName>
+            <persName type="alternative" xml:lang="de">Hansen Schürpfen</persName>
+            <birth when="1465-03-06"/>
+            <note type="description" xml:lang="de">
+              <p>Bürgermeister von St.Gallen</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/1017762805"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q59287238"/>
+              </bibl>
+              <bibl>
+                <ptr type="worldcat" target="https://worldcat.org/identities/viaf-220590581/"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/1017762805.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/022720"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/220590581/"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-690">
+            <persName type="full" xml:lang="de">Spättig, Walter (1465–)</persName>
+            <persName type="main" xml:lang="de">Spättig, Walter</persName>
+            <persName type="sort" xml:lang="de">spaettig, walter</persName>
+            <persName type="alternative" xml:lang="de">Welty Spettig</persName>
+            <birth when="1465-03-06"/>
+          </person>
+          <person xml:id="stadtasg-actors-691">
+            <persName type="full" xml:lang="de">Küferlin, NN (1465–)</persName>
+            <persName type="main" xml:lang="de">Küferlin, NN</persName>
+            <persName type="sort" xml:lang="de">kueferlin, nn</persName>
+            <birth when="1465-03-06"/>
+            <note type="description" xml:lang="de">
+              <p>männlich</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-692">
+            <persName type="full" xml:lang="de">Baumgarten, Andres (1465–)</persName>
+            <persName type="main" xml:lang="de">Baumgarten, Andres</persName>
+            <persName type="sort" xml:lang="de">baumgarten, andres</persName>
+            <persName type="alternative" xml:lang="de">Andress im Bomgarten</persName>
+            <birth when="1465-03-06"/>
+          </person>
+          <person xml:id="stadtasg-actors-693">
+            <persName type="full" xml:lang="de">Stetter, NN (1465–)</persName>
+            <persName type="main" xml:lang="de">Stetter, NN</persName>
+            <persName type="sort" xml:lang="de">stetter, nn</persName>
+            <persName type="alternative" xml:lang="de">Stetterin</persName>
+            <birth when="1465-03-06"/>
+            <note type="description" xml:lang="de">
+              <p>weiblich</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-694">
+            <persName type="full" xml:lang="de">NN, Fritz (1465–)</persName>
+            <persName type="main" xml:lang="de">NN, Fritz</persName>
+            <persName type="sort" xml:lang="de">nn, fritz</persName>
+            <birth when="1465-03-06"/>
+          </person>
+          <person xml:id="stadtasg-actors-695">
+            <persName type="full" xml:lang="de">Heinz, Rudolf (1465–)</persName>
+            <persName type="main" xml:lang="de">Heinz, Rudolf</persName>
+            <persName type="sort" xml:lang="de">heinz, rudolf</persName>
+            <persName type="alternative" xml:lang="de">Ruodolffen Heintzlis</persName>
+            <birth when="1465-06-14"/>
+            <note type="description" xml:lang="de">
+              <p>Zuname: von Unterwalden</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-696">
+            <persName type="full" xml:lang="de">Stuss, Hans (1465–)</persName>
+            <persName type="main" xml:lang="de">Stuss, Hans</persName>
+            <persName type="sort" xml:lang="de">stuss, hans</persName>
+            <persName type="alternative" xml:lang="de">Hans Stussen</persName>
+            <birth when="1465-03-09"/>
+          </person>
+          <person xml:id="stadtasg-actors-697">
+            <persName type="full" xml:lang="de">NN, Verena (1465–)</persName>
+            <persName type="main" xml:lang="de">NN, Verena</persName>
+            <persName type="sort" xml:lang="de">nn, verena</persName>
+            <persName type="alternative" xml:lang="de">Fren</persName>
+            <birth when="1465-03-09"/>
+            <note type="description" xml:lang="de">
+              <p>Magd, Mutter von <ref target="/actors/698">NN, Hans</ref>, St. Gallerin</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-698">
+            <persName type="full" xml:lang="de">NN, Hans (1465–)</persName>
+            <persName type="main" xml:lang="de">NN, Hans</persName>
+            <persName type="sort" xml:lang="de">nn, hans</persName>
+            <persName type="alternative" xml:lang="de">Hensly</persName>
+            <birth when="1465-03-09"/>
+            <note type="description" xml:lang="de">
+              <p>Sohn von <ref target="/actors/697">NN, Verena</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-700">
+            <persName type="full" xml:lang="de">Landenberg, Hugo von (1465–)</persName>
+            <persName type="main" xml:lang="de">Landenberg, Hugo von</persName>
+            <persName type="sort" xml:lang="de">landenberg, hugo von</persName>
+            <birth when="1465-03-26"/>
+            <note type="description" xml:lang="de">
+              <p>Ritter, Familie <ref target="/actors/726">von Landenberg</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-701">
+            <persName type="full" xml:lang="de">Zwick, Michael (II) (1465–)</persName>
+            <persName type="main" xml:lang="de">Zwick, Michael (II)</persName>
+            <persName type="sort" xml:lang="de">zwick, michael (ii)</persName>
+            <birth when="1465-03-26"/>
+          </person>
+          <person xml:id="stadtasg-actors-702">
+            <persName type="full" xml:lang="de">Landenberg, NN (1465–)</persName>
+            <persName type="main" xml:lang="de">Landenberg, NN</persName>
+            <persName type="sort" xml:lang="de">landenberg, nn</persName>
+            <persName type="alternative" xml:lang="de">Landemberg</persName>
+            <birth when="1465-09-12"/>
+            <note type="description" xml:lang="de">
+              <p>männlich</p>
+            </note>
+          </person>
+          <personGrp role="family" xml:id="stadtasg-actors-703">
+            <persName type="full" xml:lang="de">Sax, von (1466–)</persName>
+            <persName type="main" xml:lang="de">Sax, von</persName>
+            <persName type="sort" xml:lang="de">sax, von</persName>
+            <birth when="1466-02-14"/>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1454415"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/019541"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Sax_(Adelsgeschlecht)"/>
+              </bibl>
+            </listBibl>
+          </personGrp>
+          <person xml:id="stadtasg-actors-704">
+            <persName type="full" xml:lang="de">Brandis, Sigmund I. von (1467–)</persName>
+            <persName type="main" xml:lang="de">Brandis, Sigmund I. von</persName>
+            <persName type="sort" xml:lang="de">brandis, sigmund i. von</persName>
+            <birth when="1467-03-04"/>
+            <note type="description" xml:lang="de">
+              <p>Bruder von <ref target="/actors/54">Brandis, Wolfhart VI. von</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-705">
+            <persName type="full" xml:lang="de">Watt, Hektor von (1467–)</persName>
+            <persName type="main" xml:lang="de">Watt, Hektor von</persName>
+            <persName type="sort" xml:lang="de">watt, hektor von</persName>
+            <birth when="1467-03-04"/>
+            <note type="description" xml:lang="de">
+              <p>Sohn von <ref target="/actors/218">Watt, Hug von</ref></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/021781/2013-02-12/"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-706">
+            <persName type="full" xml:lang="de">Montfort-Tettnang, Wilhelm VIII. von (1467–)</persName>
+            <persName type="main" xml:lang="de">Montfort-Tettnang, Wilhelm VIII. von</persName>
+            <persName type="sort" xml:lang="de">montfort-tettnang, wilhelm viii. von</persName>
+            <birth when="1467-03-04"/>
+            <listBibl>
+              <bibl>
+                <ptr type="ssrq" target="https://personae.ssrq-sds-fds.ch/?query=per000884&amp;query-type=perid"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-707">
+            <persName type="full" xml:lang="de">Gnäpser, NN (1465–)</persName>
+            <persName type="main" xml:lang="de">Gnäpser, NN</persName>
+            <persName type="sort" xml:lang="de">gnaepser, nn</persName>
+            <persName type="alternative" xml:lang="de">Gnäpsseren</persName>
+            <birth when="1465-12-22"/>
+            <note type="description" xml:lang="de">
+              <p>weiblich</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-708">
+            <persName type="full" xml:lang="de">Schüb, Hans (1465–)</persName>
+            <persName type="main" xml:lang="de">Schüb, Hans</persName>
+            <persName type="sort" xml:lang="de">schueb, hans</persName>
+            <birth when="1465-12-22"/>
+            <note type="description" xml:lang="de">
+              <p>Zuname: von Arbon, zeitweise Besitzer der Hälfte von Burg Sulzberg</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-709">
+            <persName type="full" xml:lang="de">Krum, Jodokus (1468–)</persName>
+            <persName type="main" xml:lang="de">Krum, Jodokus</persName>
+            <persName type="sort" xml:lang="de">krum, jodokus</persName>
+            <birth when="1468-04-23"/>
+            <note type="description" xml:lang="de">
+              <p>Abt zu <ref target="/places/236">Kloster St. Georgen</ref> in Stein am Rhein (1460-1490)</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-710">
+            <persName type="full" xml:lang="de">Adlikon, Hans von (1468–)</persName>
+            <persName type="main" xml:lang="de">Adlikon, Hans von</persName>
+            <persName type="sort" xml:lang="de">adlikon, hans von</persName>
+            <birth when="1468-04-23"/>
+          </person>
+          <person xml:id="stadtasg-actors-711">
+            <persName type="full" xml:lang="de">Huwin, Elisabeth (1468–)</persName>
+            <persName type="main" xml:lang="de">Huwin, Elisabeth</persName>
+            <persName type="sort" xml:lang="de">huwin, elisabeth</persName>
+            <birth when="1468-04-23"/>
+            <note type="description" xml:lang="de">
+              <p>Ehefrau von <ref target="/actors/712">Wettler, Konrad</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-712">
+            <persName type="full" xml:lang="de">Wettler, Konrad (1468–)</persName>
+            <persName type="main" xml:lang="de">Wettler, Konrad</persName>
+            <persName type="sort" xml:lang="de">wettler, konrad</persName>
+            <birth when="1468-04-23"/>
+            <note type="description" xml:lang="de">
+              <p>Ehemann von <ref target="/actors/711">Huwin, Elisabeth</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-713">
+            <persName type="full" xml:lang="de">Seger, Anna (1468–)</persName>
+            <persName type="main" xml:lang="de">Seger, Anna</persName>
+            <persName type="sort" xml:lang="de">seger, anna</persName>
+            <persName type="alternative" xml:lang="de">Anna Segerin</persName>
+            <birth when="1468-06-18"/>
+          </person>
+          <person xml:id="stadtasg-actors-714">
+            <persName type="full" xml:lang="de">Sporer, Hans (1468–)</persName>
+            <persName type="main" xml:lang="de">Sporer, Hans</persName>
+            <persName type="sort" xml:lang="de">sporer, hans</persName>
+            <birth when="1468-06-18"/>
+            <note type="description" xml:lang="de">
+              <p>Bürger von Buchhorn</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-715">
+            <persName type="full" xml:lang="de">Sprotz, Hans (1468–)</persName>
+            <persName type="main" xml:lang="de">Sprotz, Hans</persName>
+            <persName type="sort" xml:lang="de">sprotz, hans</persName>
+            <birth when="1468-06-18"/>
+            <note type="description" xml:lang="de">
+              <p>Zuname: von Luzern</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-716">
+            <persName type="full" xml:lang="de">Witzig, Hans (1468–)</persName>
+            <persName type="main" xml:lang="de">Witzig, Hans</persName>
+            <persName type="sort" xml:lang="de">witzig, hans</persName>
+            <birth when="1468-08-01"/>
+            <note type="description" xml:lang="de">
+              <p>Zuname: Schweizer</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-717">
+            <persName type="full" xml:lang="de">Flar, Konrad (1468–)</persName>
+            <persName type="main" xml:lang="de">Flar, Konrad</persName>
+            <persName type="sort" xml:lang="de">flar, konrad</persName>
+            <persName type="alternative" xml:lang="de">Chuonratt</persName>
+            <birth when="1468-10-17"/>
+            <note type="description" xml:lang="de">
+              <p>Zuname: von Konstanz</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-720">
+            <persName type="full" xml:lang="de">Kramer, Jörg (1468–)</persName>
+            <persName type="main" xml:lang="de">Kramer, Jörg</persName>
+            <persName type="sort" xml:lang="de">kramer, joerg</persName>
+            <persName type="alternative" xml:lang="de">Kramer, Georg</persName>
+            <birth when="1468-07-23"/>
+            <note type="description" xml:lang="de">
+              <p>Bürger von München</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-721">
+            <persName type="full" xml:lang="de">Nussdorf, Ulrich von (1467–)</persName>
+            <persName type="main" xml:lang="de">Nussdorf, Ulrich von</persName>
+            <persName type="sort" xml:lang="de">nussdorf, ulrich von</persName>
+            <birth when="1467-08-14"/>
+            <note type="description" xml:lang="de">
+              <p>Fürstbischof Ulrich III. von Passau (1451-1479)</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/137656890"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q2477054"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/137656890.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/81820653/"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Ulrich_von_Nußdorf"/>
+              </bibl>
+              <bibl>
+                <ptr type="metagrid" target="https://api.metagrid.ch/concordance/xnQMG3YBBhcBnYQeH-h9.json"/>
+              </bibl>
+              <bibl>
+                <ptr type="rag" target="https://resource.database.rag-online.org/ngWM6p173VE91lsWqV3l3Uit"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <personGrp role="family" xml:id="stadtasg-actors-722">
+            <persName type="full" xml:lang="de">Strussen (1468–)</persName>
+            <persName type="main" xml:lang="de">Strussen</persName>
+            <persName type="sort" xml:lang="de">strussen</persName>
+            <birth when="1468-12-15"/>
+          </personGrp>
+          <person xml:id="stadtasg-actors-723">
+            <persName type="full" xml:lang="de">Stoss, Klaus (1468–)</persName>
+            <persName type="main" xml:lang="de">Stoss, Klaus</persName>
+            <persName type="sort" xml:lang="de">stoss, klaus</persName>
+            <birth when="1468-12-15"/>
+          </person>
+          <person xml:id="stadtasg-actors-724">
+            <persName type="full" xml:lang="de">Benz, Martin (1468–)</persName>
+            <persName type="main" xml:lang="de">Benz, Martin</persName>
+            <persName type="sort" xml:lang="de">benz, martin</persName>
+            <persName type="alternative" xml:lang="de">Bentzen</persName>
+            <birth when="1468-12-15"/>
+          </person>
+          <person xml:id="stadtasg-actors-725">
+            <persName type="full" xml:lang="de">Eggenberg, Hans von (1468–)</persName>
+            <persName type="main" xml:lang="de">Eggenberg, Hans von</persName>
+            <persName type="sort" xml:lang="de">eggenberg, hans von</persName>
+            <birth when="1468-12-15"/>
+          </person>
+          <personGrp role="family" xml:id="stadtasg-actors-726">
+            <persName type="full" xml:lang="de">von Landenberg</persName>
+            <persName type="main" xml:lang="de">von Landenberg</persName>
+            <persName type="sort" xml:lang="de">von landenberg</persName>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1802003"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/020289"/>
+              </bibl>
+            </listBibl>
+          </personGrp>
+          <personGrp role="family" xml:id="stadtasg-actors-727">
+            <persName type="full" xml:lang="de">von Rechberg</persName>
+            <persName type="main" xml:lang="de">von Rechberg</persName>
+            <persName type="sort" xml:lang="de">von rechberg</persName>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Rechberg_(Adelsgeschlecht)"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q278869"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/129566942.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh2006003391"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/019536"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/8468620/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/129566942"/>
+              </bibl>
+            </listBibl>
+          </personGrp>
+          <personGrp role="family" xml:id="stadtasg-actors-728">
+            <persName type="full" xml:lang="de">von Friedingen</persName>
+            <persName type="main" xml:lang="de">von Friedingen</persName>
+            <persName type="sort" xml:lang="de">von friedingen</persName>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Herren_von_Friedingen"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1613972"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118818791.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/18018940/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/118818791"/>
+              </bibl>
+            </listBibl>
+          </personGrp>
+          <person xml:id="stadtasg-actors-729">
+            <persName type="full" xml:lang="de">Hohenems, Marquard III. von (1469–)</persName>
+            <persName type="main" xml:lang="de">Hohenems, Marquard III. von</persName>
+            <persName type="sort" xml:lang="de">hohenems, marquard iii. von</persName>
+            <birth when="1469-08-08"/>
+            <note type="description" xml:lang="de">
+              <p>Vater von <ref target="/actors/314">Hohenems, Marquard IV. von</ref> und  <ref target="/actors/207">Hohenems, Michael I. von</ref>, Todesdatum 1414</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-730">
+            <persName type="full" xml:lang="de">Tumb (von Neuburg), Konrad (1470–)</persName>
+            <persName type="main" xml:lang="de">Tumb (von Neuburg), Konrad</persName>
+            <persName type="sort" xml:lang="de">tumb (von neuburg), konrad</persName>
+            <birth when="1470-01-20"/>
+            <note type="description" xml:lang="de">
+              <p>Bruder von <ref target="/actors/42">Tumb (von Neuburg), Hans (I)</ref> und <ref target="/actors/43">Tumb (von Neuburg), Hans (II)</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-731">
+            <persName type="full" xml:lang="de">Huntzikon, Erhard von (1470–)</persName>
+            <persName type="main" xml:lang="de">Huntzikon, Erhard von</persName>
+            <persName type="sort" xml:lang="de">huntzikon, erhard von</persName>
+            <birth when="1470-02-03"/>
+            <note type="description" xml:lang="de">
+              <p>Schultheiss von Winterthur</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q96317763"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/018232/"/>
+              </bibl>
+              <bibl>
+                <ptr type="metagrid" target="https://api.metagrid.ch/concordance/rwudIXYBUPOEfqBYG5gj.json"/>
+              </bibl>
+              <bibl>
+                <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per026911"/>
+              </bibl>
+              <bibl>
+                <ptr type="histhub" target="https://data.histhub.ch/person/11464946"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-732">
+            <persName type="full" xml:lang="de">Kunz, Simon (1470–)</persName>
+            <persName type="main" xml:lang="de">Kunz, Simon</persName>
+            <persName type="sort" xml:lang="de">kunz, simon</persName>
+            <persName type="alternative" xml:lang="de">Symon Cuontzen</persName>
+            <birth when="1470-02-03"/>
+          </person>
+          <person xml:id="stadtasg-actors-733">
+            <persName type="full" xml:lang="de">Lörn, Egli von (1470–)</persName>
+            <persName type="main" xml:lang="de">Lörn, Egli von</persName>
+            <persName type="sort" xml:lang="de">loern, egli von</persName>
+            <birth when="1470-02-03"/>
+          </person>
+          <person xml:id="stadtasg-actors-734">
+            <persName type="full" xml:lang="de">Brun, Benz (1467–)</persName>
+            <persName type="main" xml:lang="de">Brun, Benz</persName>
+            <persName type="sort" xml:lang="de">brun, benz</persName>
+            <birth when="1467-09-23"/>
+          </person>
+          <person xml:id="stadtasg-actors-735">
+            <persName type="full" xml:lang="de">NN, Heinrich (1467–)</persName>
+            <persName type="main" xml:lang="de">NN, Heinrich</persName>
+            <persName type="sort" xml:lang="de">nn, heinrich</persName>
+            <birth when="1467-08-14"/>
+            <note type="description" xml:lang="de">
+              <p>Meister</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-736">
+            <persName type="full" xml:lang="de">Schobinger, Sebastian (1650–)</persName>
+            <persName type="main" xml:lang="de">Schobinger, Sebastian</persName>
+            <persName type="sort" xml:lang="de">schobinger, sebastian</persName>
+            <birth when="1650-03-08"/>
+            <note type="description" xml:lang="de">
+              <p>Doktor der Medizin und Bürgermeister zu St. Gallen</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/120582481"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q55126451"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/120582481.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/021807"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/45135849/"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-737">
+            <persName type="full" xml:lang="de">Hegner, Diethlem (1650–)</persName>
+            <persName type="main" xml:lang="de">Hegner, Diethlem</persName>
+            <persName type="sort" xml:lang="de">hegner, diethlem</persName>
+            <birth when="1650-07-28"/>
+            <note type="description" xml:lang="de">
+              <p>Schwager von <ref target="/actors/736">Schobinger, Sebastian</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-738">
+            <persName type="full" xml:lang="de">Zollikofer, Samuel (1650–)</persName>
+            <persName type="main" xml:lang="de">Zollikofer, Samuel</persName>
+            <persName type="sort" xml:lang="de">zollikofer, samuel</persName>
+            <birth when="1650-07-28"/>
+            <listBibl>
+              <bibl>
+                <ptr type="metagrid" target="https://api.metagrid.ch/concordance/cElAK3YBBhcBnYQeb8gs.json"/>
+              </bibl>
+              <bibl>
+                <ptr type="hfls" target="http://www.hfls.ch/humo-gen/family/1/F115129?main_person=I334736"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-740">
+            <persName type="full" xml:lang="de">Rader, Martin Mathias (1649–)</persName>
+            <persName type="main" xml:lang="de">Rader, Martin Mathias</persName>
+            <persName type="sort" xml:lang="de">rader, martin mathias</persName>
+            <birth when="1649-02-27"/>
+          </person>
+          <person xml:id="stadtasg-actors-741">
+            <persName type="full" xml:lang="de">Wehrli, Georg (1649–)</persName>
+            <persName type="main" xml:lang="de">Wehrli, Georg</persName>
+            <persName type="sort" xml:lang="de">wehrli, georg</persName>
+            <persName type="alternative" xml:lang="de">Wehrli, Jörg</persName>
+            <birth when="1649-02-27"/>
+          </person>
+          <person xml:id="stadtasg-actors-742">
+            <persName type="full" xml:lang="de">Bachschmidt, Kaspar (1649–)</persName>
+            <persName type="main" xml:lang="de">Bachschmidt, Kaspar</persName>
+            <persName type="sort" xml:lang="de">bachschmidt, kaspar</persName>
+            <birth when="1649-02-27"/>
+          </person>
+          <person xml:id="stadtasg-actors-743">
+            <persName type="full" xml:lang="de">Ufflauben, Hans (1649–)</persName>
+            <persName type="main" xml:lang="de">Ufflauben, Hans</persName>
+            <persName type="sort" xml:lang="de">ufflauben, hans</persName>
+            <birth when="1649-02-27"/>
+          </person>
+          <person xml:id="stadtasg-actors-744">
+            <persName type="full" xml:lang="de">Bonnaus, Bartholome (1649–)</persName>
+            <persName type="main" xml:lang="de">Bonnaus, Bartholome</persName>
+            <persName type="sort" xml:lang="de">bonnaus, bartholome</persName>
+            <birth when="1649-02-27"/>
+          </person>
+          <person xml:id="stadtasg-actors-745">
+            <persName type="full" xml:lang="de">Schmidt, Tobias (1649–)</persName>
+            <persName type="main" xml:lang="de">Schmidt, Tobias</persName>
+            <persName type="sort" xml:lang="de">schmidt, tobias</persName>
+            <birth when="1649-02-27"/>
+          </person>
+          <person xml:id="stadtasg-actors-746">
+            <persName type="full" xml:lang="de">Schmidt, Hieronymus (1649–)</persName>
+            <persName type="main" xml:lang="de">Schmidt, Hieronymus</persName>
+            <persName type="sort" xml:lang="de">schmidt, hieronymus</persName>
+            <birth when="1649-02-27"/>
+          </person>
+          <person xml:id="stadtasg-actors-747">
+            <persName type="full" xml:lang="de">Locher, Joseph (1649–)</persName>
+            <persName type="main" xml:lang="de">Locher, Joseph</persName>
+            <persName type="sort" xml:lang="de">locher, joseph</persName>
+            <birth when="1649-02-27"/>
+          </person>
+          <person xml:id="stadtasg-actors-748">
+            <persName type="full" xml:lang="de">Geirhalder, Veit (1649–)</persName>
+            <persName type="main" xml:lang="de">Geirhalder, Veit</persName>
+            <persName type="sort" xml:lang="de">geirhalder, veit</persName>
+            <birth when="1649-02-27"/>
+          </person>
+          <person xml:id="stadtasg-actors-749">
+            <persName type="full" xml:lang="de">Ruchenacker, Ursula (1500–)</persName>
+            <persName type="main" xml:lang="de">Ruchenacker, Ursula</persName>
+            <persName type="sort" xml:lang="de">ruchenacker, ursula</persName>
+            <persName type="alternative" xml:lang="de">Urssel Ruchenaker</persName>
+            <birth when="1500-01"/>
           </person>
         </listPerson>
         <listOrg>
@@ -10103,21 +11314,10 @@
             </listBibl>
           </org>
           <org xml:id="stadtasg-actors-534">
-            <orgName type="full" xml:lang="de">Eidgenossenschaft (1454–)</orgName>
-            <orgName type="main" xml:lang="de">Eidgenossenschaft</orgName>
-            <orgName type="sort" xml:lang="de">eidgenossenschaft</orgName>
-            <orgName type="alternative" xml:lang="de">eidgnossen (1423-11-17)</orgName>
-            <orgName type="alternative" xml:lang="de">eidgnossen (1423-11-17)</orgName>
-            <orgName type="alternative" xml:lang="de">eidgnossen (1423-11-17)</orgName>
-            <orgName type="alternative" xml:lang="de">eidgnossen (1423-11-17)</orgName>
-            <orgName type="alternative" xml:lang="de">eidgnossen (1425-04-21)</orgName>
-            <orgName type="alternative" xml:lang="de">eidgnossen (1425-04-21)</orgName>
-            <orgName type="alternative" xml:lang="de">aidgnossen (1435-07-07)</orgName>
-            <orgName type="alternative" xml:lang="de">aydgnossen (1438-01-20)</orgName>
-            <orgName type="alternative" xml:lang="de">aydgnossen (1438-01-20)</orgName>
-            <orgName type="alternative" xml:lang="de">eidgnossen (1439-10-08)</orgName>
-            <orgName type="alternative" xml:lang="de">eidgn</orgName>
-            <orgName type="abbreviation"/>
+            <orgName type="full" xml:lang="de">Eidgenössische Räte (1454–)</orgName>
+            <orgName type="main" xml:lang="de">Eidgenössische Räte</orgName>
+            <orgName type="sort" xml:lang="de">eidgenoessische raete</orgName>
+            <orgName type="alternative" xml:lang="de">Gemeiner eydgnossen ratz fründe</orgName>
             <event type="start" when="1454-07-29">
               <p/>
             </event>
@@ -10565,11 +11765,79 @@
               <p/>
             </event>
           </org>
+          <org xml:id="stadtasg-actors-645">
+            <orgName type="full" xml:lang="de">Bürgermeister und Rat zu Biberach (1462–)</orgName>
+            <orgName type="main" xml:lang="de">Bürgermeister und Rat zu Biberach</orgName>
+            <orgName type="sort" xml:lang="de">buergermeister und rat zu biberach</orgName>
+            <orgName type="alternative" xml:lang="de">Bybrach</orgName>
+            <event type="start" when="1462-11-11">
+              <p/>
+            </event>
+          </org>
+          <org xml:id="stadtasg-actors-660">
+            <orgName type="full" xml:lang="de">Ammann und Richter zu Balgach (1464–)</orgName>
+            <orgName type="main" xml:lang="de">Ammann und Richter zu Balgach</orgName>
+            <orgName type="sort" xml:lang="de">ammann und richter zu balgach</orgName>
+            <event type="start" when="1464-09-06">
+              <p/>
+            </event>
+          </org>
+          <org xml:id="stadtasg-actors-662">
+            <orgName type="full" xml:lang="de">Kanonissenstift Lindau (1443–)</orgName>
+            <orgName type="main" xml:lang="de">Kanonissenstift Lindau</orgName>
+            <orgName type="sort" xml:lang="de">kanonissenstift lindau</orgName>
+            <event type="start" when="1443-08-02">
+              <p/>
+            </event>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q881597"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4214668-9"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Kanonissenstift_Lindau"/>
+              </bibl>
+            </listBibl>
+          </org>
+          <org xml:id="stadtasg-actors-699">
+            <orgName type="full" xml:lang="de">Schultheiss und Rat zu Frauenfeld (1465–)</orgName>
+            <orgName type="main" xml:lang="de">Schultheiss und Rat zu Frauenfeld</orgName>
+            <orgName type="sort" xml:lang="de">schultheiss und rat zu frauenfeld</orgName>
+            <event type="start" when="1465-03-26">
+              <p/>
+            </event>
+          </org>
+          <org xml:id="stadtasg-actors-718">
+            <orgName type="full" xml:lang="de">Schultheiss und Rat zu Winterthur (1468–)</orgName>
+            <orgName type="main" xml:lang="de">Schultheiss und Rat zu Winterthur</orgName>
+            <orgName type="sort" xml:lang="de">schultheiss und rat zu winterthur</orgName>
+            <event type="start" when="1468-10-17">
+              <p/>
+            </event>
+          </org>
+          <org xml:id="stadtasg-actors-719">
+            <orgName type="full" xml:lang="de">Rat zu München (1468–)</orgName>
+            <orgName type="main" xml:lang="de">Rat zu München</orgName>
+            <orgName type="sort" xml:lang="de">rat zu muenchen</orgName>
+            <event type="start" when="1468-07-23">
+              <p/>
+            </event>
+          </org>
+          <org xml:id="stadtasg-actors-739">
+            <orgName type="full" xml:lang="de">Bürgermeister und Rat zu Kaufbeuren (1648–)</orgName>
+            <orgName type="main" xml:lang="de">Bürgermeister und Rat zu Kaufbeuren</orgName>
+            <orgName type="sort" xml:lang="de">buergermeister und rat zu kaufbeuren</orgName>
+            <event type="start" when="1648-12-01">
+              <p/>
+            </event>
+          </org>
         </listOrg>
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-04-19T15:20:26+02:00">teiHeader was automatically produced from the database 2024-04-19T15:20:26+02:00</change>
+      <change when="2024-09-17T19:31:54+02:00">teiHeader was automatically produced from the database 2024-09-17T19:31:54+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

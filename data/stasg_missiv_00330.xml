@@ -42,7 +42,7 @@
                     <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>                    <date>1456-10-27</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
             </correspDesc>
         </profileDesc>
         <revisionDesc>
@@ -83,7 +83,7 @@
 <lb break="no" n="19"/>willen, sunder im fruntlichisten von uns zuo vermercken. Das begeren wir mit willen umb
 <lb n="20"/>uch zuo verdienen, dann in welhen gepuerlichen sachen wir uch und den uwern zuo
 <lb n="21"/>willen werden moechten, tatten wir mit sunderm willen gern. Geben uff <origDate when="1456-10-27">sanntt
-<lb n="22"/>Symon und sant Iudas abend anno domini etc. Lsexsto</origDate>.
+<lb n="22"/>Symon und sant Judas abend anno domini etc. Lsexsto</origDate>.
 <lb n="23"/><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister und
 <lb n="24"/>rate zuo Costentz</orgName>.
 <pb facs="StadtASG_Missive_330_666.JPG" n="2"/>

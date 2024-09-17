@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 394</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_394_803/804</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Der Stadtrat zu München wendet sich an Bürgermeister und Rat zu St. Gallen in der Sache ihres Bürgers Jörg Kramer. Sie bitten um Rückerstattung seiner ihm auf dem See bei Meersburg entwendeten Handelswaren oder des entsprechenden Gegenwerts von 30 Gulden. Kramer habe Schulden, sei aber fleissig und müsse Frau und Kind versorgen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-495">Hab und Gut</term>
+<term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-48">Feindschaft</term>
+<term ref="stadtasg-keywords-277">Herzog</term>
+<term ref="stadtasg-keywords-583">Krämer</term>
+<term ref="stadtasg-keywords-269">Kind</term>
+<term ref="stadtasg-keywords-297">Ehefrau</term>
+<term ref="stadtasg-keywords-525">Gulden</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+<term ref="stadtasg-keywords-66">Beschlagnahmung</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-461">Armut</term>
+<term ref="stadtasg-keywords-125">Arbeit</term>
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-719">Rat zu München</orgName> <placeName ref="stadtasg-places-27">München</placeName>                    <date>1468-07-23</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-09-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_394_803.JPG" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig dinste allzeit zuvoran fürsichtigen ersamen und weysen besunder lieben und gut fründen. Uns
+<lb n="2" />hat anpracht unnser mitburger <persName ref="stadtasg-actors-720">Jörg Kramer</persName>, anntwurtter des briefs, wye yme yetzo an <date when="1468-07-06">mittichen nächst vor sand
+<lb n="3" />Ulrichs tage verganngen</date> bey <placeName ref="stadtasg-places-243">Myerspurg</placeName> auf dem wasser, als er seiner notturft halben doselbs gewesen sey, sein
+<lb n="4" />kramerey und pfenwert, dye, als er sagt, dreyssigk gulden wol wert seye, durch etlich dye ewer zuversprechen steen
+<lb n="5" />süllen, und in maynung, als ob er herzog <persName ref="stadtasg-actors-416">Sigmunds von Österreich</persName> etc. inwoner ainer wäre und dem zu
+<lb break="no" n="6" />gehöret, genomen sey worden. Nun fügen wir ewer warlich zuwissen, das der benannt <persName ref="stadtasg-actors-720">Jörg Kramer</persName> zu <placeName ref="stadtasg-places-27">München</placeName>
+<lb n="7" />unnser mitburger und ain armer herter arbaytter und darzu in vil geltschuld ist und hat bey uns weyb und
+<lb n="8" />kind und neret sich herttigclich. Biten wir ewer herauf mit sunder früntlichem vleys, ir wollet bey den ewren und
+<lb n="9" />wo ir sunst mügent sovil daran sein, domit ime solich sein pfenwert und kramerey oder dafür sovil werdt wider
+<lb n="10" />geben und geanntwurt werde. Danne wir uns gen den, dye im solich gut genomen haben, kainerlay vehe noch
+<lb n="11" />veintschaft versechen. Ir wollet ewer auch also hyerinnen beweysen, als wir sunder früntlich vertrawen zu ewer
+<lb n="12" />haben und wir allzeit auch tun, und wo sich das bey uns gebüret, gern verdyenen wellen. Datum <origPlace ref="stadtasg-places-27">München</origPlace> an
+<lb n="13" /><origDate when="1468-07-23">samtztag vor Jacobi appostoli anno domini etc. LXVOOOo</origDate>. etc.
+<lb n="14" /><orgName ref="stadtasg-actors-719" role="issuer">Rate der stat
+<lb n="15" />Münichen</orgName>.
+<pb facs="StadtASG_Missive_394_804.JPG" n="2" />
+<lb n="16" />Den fürsichtigen ersamen und weysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="17" />und rate der stat zu sand Gallen</orgName> unnsern
+<lb n="18" />besunder lieben und guten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

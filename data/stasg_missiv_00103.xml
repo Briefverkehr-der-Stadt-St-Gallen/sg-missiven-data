@@ -25,7 +25,7 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Marquart der Jüngere von Schellenberg antwortet Bürgermeister und Rat zu St.
+                <p>Marquard der Jüngere von Schellenberg antwortet Bürgermeister und Rat zu St.
                     Gallen, dass er auf seine Forderung gegenüber ihrem Bürger Eberhard von
                     Ramschwag nicht verzichten und daher den von ihnen angesetzten Verhandlungstag
                     aufsuchen werde.</p>
@@ -42,12 +42,12 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="stadtasg-actors-46">Marquart der Jüngere von Schellenberg</persName>
+                    <persName ref="stadtasg-actors-46">Marquard von Schellenberg (I)</persName>
                     
                     <date>1438-03-20</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

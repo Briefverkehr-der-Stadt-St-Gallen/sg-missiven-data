@@ -9,7 +9,7 @@
                 <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
             </publicationStmt>
             <notesStmt>
-                <note><p>Zur Sache siehe auch die Missiven Nrn. 16 und 17.</p></note>
+                <note><p>Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00016.xml">16</ref> und <ref target="stasg_missiv_00017.xml">17</ref>.</p></note>
             </notesStmt>
             <sourceDesc>
                 <msDesc type="missiv">
@@ -33,7 +33,7 @@
                     neue Münze zu schlagen. Sie bitten die St. Galler, ihre Gesandten zu
                     schicken und zu entscheiden, ob die St. Galler bei dieser Münzerneuerung
                     mitmachen. Zürich wolle die neuen Münzen am 5. März ausgeben und der Vertrag
-                    soll 5 Jahre gültig sein.</p>
+                    soll fünf Jahre gültig sein.</p>
             </abstract>
             <langUsage>
                 <language ident="deu">Deutsch</language>
@@ -53,7 +53,7 @@
                     <date>1424-01-19</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
@@ -82,7 +82,7 @@
                 vorgenanter sach wegen ze samen komen werden, <lb n="5"/>da tuon wir üwer
                 früntschaft ze wissen, das wir ze rat syen worden und dar uf gefallen <lb n="6"
                 />sint, das wir ein nüw müntz wellent slachen uff der stett korn und besser ie ein
-                pfund <lb n="7"/>und sechs schilling pfenning unser werung, dz ist XIII <abbr>ß.</abbr> angster
+                pfund <lb n="7"/>und sechs schilling pfenning unser werung, dz ist XIII <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> angster
                 denar für einen guldin, <lb n="8"/>und süllent XXXXI angster pfenning uff ein lot
                 gan. So wellen wir slachen haller, <lb n="9"/>da gand XLIII haller uff ein lot. So
                 wellen wir dann slachen gross gelt, ie XIII für <lb n="10"/>einen guldin, und

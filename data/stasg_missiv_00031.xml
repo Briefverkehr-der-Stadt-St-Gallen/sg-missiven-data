@@ -9,7 +9,7 @@
                 <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
             </publicationStmt>
             <notesStmt>
-                <note><p>Zur Sache siehe auch die Missive Nr. 30.</p></note>
+                <note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00030.xml">30</ref>.</p></note>
             </notesStmt>
             <sourceDesc>
                 <msDesc type="missiv">
@@ -50,7 +50,7 @@
                     <date>1427-01-25</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

@@ -54,7 +54,7 @@
                     <date>1451-07-15</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
@@ -88,7 +88,7 @@
                 daz selb guot anleggen an den hof, den er <lb n="9"/>koufft hett, und welt sin da
                 versorgen, daz es ir wol angeleit ward und ir gewaertig <lb n="10"/>waer ouch an
                 gelegen guot ze glicher wis, als es och hie gelegen waer. Und uff daz <lb n="11"
-                />liessent wir in daz guot verkouffen und hinuss ziehen, und lost daruss XL <abbr>lb.</abbr> <abbr>dn.</abbr>,
+                />liessent wir in daz guot verkouffen und hinuss ziehen, und lost daruss XL <choice><abbr>lb.</abbr><expan>Pfund</expan></choice> <choice><abbr>dn.</abbr><expan>Denar</expan></choice>,
                 die <lb n="12"/>er och hinuss truog. Welt aber daran iemen zwifel han, so hat si
                 darumb guoter kunt <lb break="no" n="13"/>schaft und zügen gnuog, daz es also gieng,
                 bitt ich üch lieben herren, daz ir umb gotz <lb n="14"/>willen und durch der

@@ -23,7 +23,7 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Ammann und Rat zu Arbon antworten Bürgermeister und Rat zu St. Gallen in der Angelegenheit zwischen Hans Harscher und Konrad Bäldi, beide Bürger zu St. Gallen, und Hans Strauss, Bürger zu Arbon, dass Arbon und Marquard von Ems vergeblich versucht hätten, Strauss davon zu überzeugen, die Angelegenheit fallen zu lassen. Strauss hat aber der Teilnahme an einer Verhandlung in Arbon innerhalb der nächsten vierzehn Tage zugestimmt. Arbon bittet die St. Galler um eine schriftliche Antwort, ob sie und ihre Partei damit einverstanden seien.</p>            </abstract>
+                <p>Ammann und Rat zu Arbon antworten Bürgermeister und Rat zu St. Gallen in der Angelegenheit zwischen Hans Harscher und Konrad Bäldi, beide Bürger zu St. Gallen, und Hans Strauss, Bürger zu Arbon, dass Arbon und Marquard von Ems vergeblich versucht hätten, Strauss davon zu überzeugen, die Angelegenheit fallen zu lassen. Strauss hat aber der Teilnahme an einer Verhandlung in Arbon innerhalb der nächsten 14 Tage zugestimmt. Arbon bittet die St. Galler um eine schriftliche Antwort, ob sie und ihre Partei damit einverstanden seien.</p>            </abstract>
             <langUsage>
                 <language ident='deu'>Deutsch</language>            </langUsage>
             <textClass>
@@ -42,7 +42,7 @@
                     <orgName ref="stadtasg-actors-102">Ammann und Rat zu Arbon</orgName>                    <date>1455-11-14</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
             </correspDesc>
         </profileDesc>
         <revisionDesc>

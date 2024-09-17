@@ -81,11 +81,11 @@
                 recht, und bitt üch mit gantzan ernst, dz ir so wol tuon woellint, <lb n="6"/>und
                 wie ich mit üwerm diener über komen bin von dez kofs wegan, <lb n="7"/>als üwer
                 diener des och in geschriban. <pb facs="StadtASG_Missive_133_266.JPG" n="2"/>
-                <lb n="8"/><persName ref="stadtasg-actors-267">Staehili</persName> gab mir II <abbr>fl.</abbr><lb n="9"
-                />Gab <persName ref="stadtasg-actors-268">S. Hoer</persName> IIII <abbr>fl.</abbr> <lb n="10"/>Gab dem
-                    <persName ref="stadtasg-actors-269">Gaelter</persName> I <abbr>fl.</abbr> <lb n="11"/><persName
-                    ref="stadtasg-actors-270" cert="medium">Kaysper Wirt</persName> gab mir I <abbr>fl.</abbr> am unngelt. <lb n="12"
-                    /><persName ref="stadtasg-actors-271">Heini Suter</persName> gab mir I <abbr>fl.</abbr> uss dem stokk. </p>
+                <lb n="8"/><persName ref="stadtasg-actors-267">Staehili</persName> gab mir II <choice><abbr>fl.</abbr><expan>Gulden</expan></choice><lb n="9"
+                />Gab <persName ref="stadtasg-actors-268">S. Hoer</persName> IIII <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> <lb n="10"/>Gab dem
+                    <persName ref="stadtasg-actors-269">Gaelter</persName> I <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> <lb n="11"/><persName
+                    ref="stadtasg-actors-270" cert="medium">Kaysper Wirt</persName> gab mir I <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> am unngelt. <lb n="12"
+                    /><persName ref="stadtasg-actors-271">Heini Suter</persName> gab mir I <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> uss dem stokk. </p>
         </body>
     </text>
 </TEI>

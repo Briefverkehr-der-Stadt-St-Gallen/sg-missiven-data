@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 381 Beilage 1</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. <ref target="stasg_missiv_00381.xml">381</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_381_777/778</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Georg Rem listet Johannes Utz, Stadtschreiber in St. Gallen, seine Auslagen auf und bittet um Prüfung sowie Bezahlung.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-174">Rechnung</term>
+<term ref="stadtasg-keywords-479">Botenlohn</term>
+<term ref="stadtasg-keywords-24">Klage</term>
+<term ref="stadtasg-keywords-478">Register</term>
+<term ref="stadtasg-keywords-314">Anwalt</term>
+<term ref="stadtasg-keywords-159">Stadtschreiber</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-50">Acht</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-676">Georg Rem</persName>                    <date>1466-08-29</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-668">Johannes Utz</persName> <placeName ref="stadtasg-places-38">St. Gallen</placeName>               </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName/>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2024-09-12</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_382_777.JPG" n="1"/>
+<p>
+<lb n="1"/>Ußgeben uff die IIII <orgName ref="stadtasg-actors-679">Clingemberger</orgName>
+<lb n="2"/>Item IIII <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> <choice><abbr>h.</abbr><expan>Heller</expan></choice> umb IIII ladbrieff
+<lb n="3"/>Item X <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> <choice><abbr>h.</abbr><expan>Heller</expan></choice> dem botten si zu laden
+<lb n="4"/>Item III <choice><abbr>lib.</abbr><expan>Pfund</expan></choice> IIII <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> <choice><abbr>h.</abbr><expan>Heller</expan></choice> claggelts dem procurator
+<lb n="5"/>Item I <choice><abbr>lib.</abbr><expan>Pfund</expan></choice> IIII <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> si all vier in aucht ze schriben
+<lb n="6"/>Item VIII <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> umb ain auchtbrieff
+<lb n="7"/>Item umb verbietbrieff gen <placeName ref="stadtasg-places-7">Costentz</placeName>, <placeName ref="stadtasg-places-68">Stain</placeName>, Zell<note>Es ist unklar, welcher Ort gemeint ist.</note>, <placeName ref="stadtasg-places-23">Diessenhofen</placeName>, <placeName ref="stadtasg-places-185">Schaffhusen</placeName> I <abbr>lib.</abbr> V <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> <choice><abbr>h.</abbr><expan>Heller</expan></choice>
+<lb n="8"/>Item und V <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> <choice><abbr>h.</abbr><expan>Heller</expan></choice> umb die anlaitin
+<lb n="9"/>Item I gulden dem botten die anlaitin und verbietbrief zuo enden.
+<lb n="10"/>Item III gulden umb die ervolgung.
+<lb n="11"/>Lieber herr, ich bitt üch früntlich, aigentlich ze suochen in üwern registern, ob und
+<lb n="12"/>was ir in der sach ußgeben habend, dann es ist mir gantz empfallen, doch
+<lb n="13"/>so wölt ich nit ainen pfenning vordern noch haben mit wissen, er gehortin
+<lb n="14"/>mir dann zu. Deßglich hoff ich ouch und setz in kainen zwifel, dann das min
+<lb n="15"/>herren von <placeName ref="stadtasg-places-38">sant Gallen</placeName> und ir des minen ouch nit begerend, doch
+<lb n="16"/>wa kain krütz stat, da ist mir gantz kain zwyfel an dann, das ich dasselb alles
+<lb n="17"/>uß minem gelt betzalt hab, und ich glob, das ander hab ich ouch ußgeben,
+<lb n="18"/>doch setz ich das zuo üch und üwerm register.
+<lb n="19"/><persName ref="stadtasg-actors-676" role="issuer">Jörg Rem</persName>.
+<pb facs="StadtASG_Missive_382_778.JPG" n="2"/>
+</p>
+        </body>
+    </text>
+</TEI>

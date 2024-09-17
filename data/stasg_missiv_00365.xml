@@ -1,0 +1,102 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 365</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00361.xml">361</ref>, <ref target="stasg_missiv_00363.xml">363</ref>, <ref target="stasg_missiv_00364.xml">364</ref>, <ref target="stasg_missiv_00376.xml">376</ref>, <ref target="stasg_missiv_00386.xml">386</ref> und <ref target="stasg_missiv_00388.xml">388</ref>.</p></note></notesStmt>    
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_365_735/736</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Georg Rem informiert Johannes Utz, Stadtschreiber zu St. Gallen, dass im Fall der Acht von Burkhard von Homburg dem Rat zu St. Gallen erneut eine Fristverlängerung gewährt wurde. Rem rät, den Vollmachtsbrief zu erneuern und anzupassen, und er gibt dazu genaue Anweisungen. Die Sache um Bilgeri stehe noch immer aus.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-159">Stadtschreiber</term>
+<term ref="stadtasg-keywords-50">Acht</term>
+<term ref="stadtasg-keywords-59">Frist</term>
+<term ref="stadtasg-keywords-283">Vollmacht</term>
+<term ref="stadtasg-keywords-37">Verhandlung</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-194">Hofgericht</term>
+<term ref="stadtasg-keywords-24">Klage</term>
+<term ref="stadtasg-keywords-473">Eile</term>
+<term ref="stadtasg-keywords-454">Kopie</term>
+<term ref="stadtasg-keywords-168">Abschrift</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-676">Georg Rem</persName>                    <date>1464-12-13</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-668">Johannes Utz</persName>        <placeName ref="stadtasg-places-38">St. Gallen</placeName>          </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-07-24</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_365_735.JPG" n="1"/>
+<p>
+<lb n="1"/>Min früntlich willig denst zuo vor ersamer sonder lieber herr und gönner. Ich fueg
+<lb n="2"/>üch zuo wissen, das minen herren von <placeName ref="stadtasg-places-38">sant Gallen</placeName> in herr <persName ref="stadtasg-actors-675">Burkharts
+<lb n="3"/>von Homburg</persName> sach aber uffslag worden ist, nun versihe ich mich wol,
+<lb n="4"/>si werden üch zuom nechstkünfftigen hofgericht herab schicken, und
+<lb n="5"/>darumb so schick ich üch ain abschrifft des gewaltsbriefs, so ir mir an
+<lb break="no" n="6"/>fangs der sach gebracht und übergeben hand. Und wer min ratt,
+<lb n="7"/>das ir ainen andern machetind, glich der copy mit data und allen
+<lb n="8"/>sachen, ußgenomen, das ir üch für mich dar inn satztend, deß glich
+<lb n="9"/>ouch den knecht, der dennzuomal mit üch hie ist gewesen, und das
+<lb n="10"/>min herren üch als iren ratsfründ und den knecht als ain von der
+<lb n="11"/>gemaind dar inn bestimend, dann es ist also herkomen, wa ain con
+<lb break="no" n="12"/>mun yemant vor dem hofgericht beclagnen wil, das sol ainen irs
+<lb n="13"/>rats oder gerichts und ainen von der gemaind mit gewalt schiken,
+<lb n="14"/>und die wyl ich in dem vorgeenden gewaltsbrieff bestimpt bin
+<lb n="15"/>und herr <persName ref="stadtasg-actors-96">Sigmund vom Stain</persName> den gehört hat, so setzend mich nach üch und dem
+<lb n="16"/>knecht in den nüwen ouch. Item ir söllent uff üch und ain knecht in
+<lb n="17"/>vorgeruerter maß aber ain gewaltsbrieff stellen, des rechten halp,
+<lb n="18"/>als herr <persName ref="stadtasg-actors-675">Burkhart</persName> minem herren yetz hat verkünden lassen, und ist nit
+<lb n="19"/>not, mich dar inn zesetzen, doch so muessend ir dar in setzen, das ir
+<lb n="20"/>und der knecht macht habend, ander ze substituieren etc., als ir das
+<lb n="21"/>alles baß wissend. Item <persName ref="stadtasg-actors-359">Bilgerins</persName> sach stat ouch noch also, nun
+<lb n="22"/>hat er ain procuratorem, dar umb bringend die brieff all mit üch und
+<lb n="23"/>was zuo der sach dienet nit me, dann gebietend mir alltzit. Geben
+<lb n="24"/>mit yl an <origDate when="1464-12-13">sant Lucien tag anno etc. LXIIIIto</origDate>.
+<lb n="25"/><persName ref="stadtasg-actors-676" role="issuer">Jörg Rem</persName>.
+<pb facs="StadtASG_Missive_365_736.JPG" n="2"/>
+<lb n="26"/>Dem fürnemen wysen <persName ref="stadtasg-actors-668" role="recipient">Johannes Uotz</persName> statt
+<lb break="no" n="27"/>schriber zuo <placeName ref="stadtasg-places-38">sant Gallen</placeName> minem lieben
+<lb n="28"/>herren und gepietter.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -50,7 +50,7 @@
                     <date>1427-04-16</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
@@ -86,7 +86,7 @@
                     n="9"/>dz ich min schuld gefoerhted hab denn umb solich sach, als üch allen wol
                 ze wissend ist, rat dar umb ze suochen, wie ich <lb n="10"/>die für hand nem, dz ich
                 bi glimpf und bi eran bestand. Och bin ich der statt besunder nüt schuldig denn VI
-                <abbr>lb.</abbr> haller bank <lb break="no" n="11"/>zins, dar an ist mir die schuldig VIII tag,
+                <choice><abbr>lb.</abbr><expan>Pfund</expan></choice> haller bank <lb break="no" n="11"/>zins, dar an ist mir die schuldig VIII tag,
                 die ich geriten bin in irem dienst, und och ist mir die statt schuldig XXX guldin,
                     <lb n="12"/>die si mir versprachen hand ze geben von <persName ref="stadtasg-actors-22"
                     >Wilhelm Vischen</persName> wegen. Lieben herren tuond har zuo als ich üwern

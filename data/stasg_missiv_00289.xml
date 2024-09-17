@@ -28,7 +28,6 @@
                 <language ident='deu'>Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
-                    <term ref="stadtasg-keywords-323">Junker</term>
 <term ref="stadtasg-keywords-149">Rechtstag</term>
 <term ref="stadtasg-keywords-37">Verhandlung</term>
 <term ref="stadtasg-keywords-21">Rechtshilfe</term>
@@ -45,7 +44,7 @@
                     <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>                    <date>1453-08-20</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
             </correspDesc>
         </profileDesc>
         <revisionDesc>

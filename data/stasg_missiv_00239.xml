@@ -27,7 +27,7 @@
             <abstract>
                 <p>Ammann und Rat zu Appenzell informieren Bürgermeister und Rat zu St. Gallen über
                     einen Streit zwischen Hermann Grunder, Klaus Heer und Hans Riemer, Appenzeller
-                    Landleute, und Heinrich Maier von Oberdorf, St. Galler Bürger, um 7 Rheinische
+                    Landleute, und Heinrich Maier von Oberdorf, St. Galler Bürger, um sieben Rheinische
                     Gulden. Sie bitten sie (St. Galler), ihren Bürger dazu zu bewegen, das gefällte
                     Gerichtsurteil einzuhalten und seine Schulden zu bezahlen. Sie bitten um
                     schriftliche Antwort mit dem Boten.</p>
@@ -54,7 +54,7 @@
                     <date>1451-06-22</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

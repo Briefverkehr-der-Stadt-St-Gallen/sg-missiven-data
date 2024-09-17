@@ -1,0 +1,119 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 374</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00372.xml">372</ref>, <ref target="stasg_missiv_00373.xml">373</ref> und <ref target="stasg_missiv_00375.xml">375</ref>.</p></note></notesStmt>  
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_374_761/762</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich antworten im Namen ihres Einwohners Othmar Ortwin Bürgermeister und Rat zu St. Gallen im Fall seiner abgewiesenen Erbschaftsklage. Dieser beanstandet die Zusammensetzung des Pfalzgerichts sowie die Nichteinhaltung des Geleitschutzes. Trotz seines Rekurses und der Bitte um Wiederaufnahme der Verhandlung habe er bislang keine Antwort erhalten. Zürich bittet um Unterstützung, damit die Angelegenheit möglichst bald und ohne weitere Aufwände erledigt werden können. Die Zürcher bitten um eine schriftliche Antwort mit dem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-252">Prozess</term>
+<term ref="stadtasg-keywords-5">Erbe</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-357">Rekurs</term>
+<term ref="stadtasg-keywords-2">Geleit</term>
+<term ref="stadtasg-keywords-201">Abt</term>
+<term ref="stadtasg-keywords-402">Pfalz</term>
+<term ref="stadtasg-keywords-24">Klage</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-401">Statthalter</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1465-08-23</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-06-18</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_374_761.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser fruntlich willig dienst und was wir in allen sachen eren liebs und guotz vermögend sye üch alle zitt zuovor an bereitt
+<lb n="2"/>fursichtigen wisen besundern guotten frunde und getruwen lieben eidgnossen. Üwer antwurt uns ietz uff dz schriben, so wir üch
+<lb n="3"/>von unsers bywoners <persName ref="stadtasg-actors-666">Othmar Orttwins</persName> wegen getan zuogesendt, habentt wir gehörtt und die den selben <persName ref="stadtasg-actors-666">Orttwin</persName> ouch lassen hören.
+<lb n="4"/>Des antwurt darzuo ist also, inn befrömde die nit unbillich, denn er begere sinen sachen keinen schin, durch die er usfluchtt des rechten
+<lb n="5"/>von uns gesprochen nemen mocht zuo erdencken und als ir schribint, wie dz gericht uff der pfallentz sye besetztt nach lutt eines
+<lb n="6"/>artikels zwischent unserm herrn dem abtt und uch der innhaltt, wenn si uff der pfallentz gerichtt haben wollintt, das sy einen
+<lb n="7"/>burgermeister oder statthalter zuo <placeName ref="stadtasg-places-38">sant Gallen</placeName> umb so vil und sy denn nach gestalt der sachen der rätten oder ir burgern notturfftig
+<lb n="8"/>syentt, da hin zuo schicken enbietten mögintt, die sollent denn geschickt werden, und unser herr der abtt mog dz gericht stercken mit
+<lb n="9"/>uswendigen personen, doch dz der nit mer sye dann der üwern. Und darzuo sage er also, wenn bisher sunder personen gegen ein andern
+<lb n="10"/>vor dem  pfaltzgerichtt zuo rechten gehebt habintt, so sye dz gericht also besetztt. Als er aber gegen üch für dz gerichtt kame, da
+<lb n="11"/>werint nit dry oder zwen von den ussern und die andern all üwer rätt ald gesworn burger. Das im dann vor denen, die üwers
+<lb n="12"/>ratz als geswornen ob ioch von den ussern als vil als der üwern zuo recht gebürlich gewesen were, meinte er nit die wile und
+<lb n="13"/>die ansprach üwer gemeine statt anträff. Vermein ouch noch hütt by tag, des nit schuldig zuo sinde, sunder so sölle daz gericht
+<lb n="14"/>besetzt werden allein mit lütten, die unparthyg und üch und im gemein und weders uwers ratz ald burger syentt. Verrer meldint
+<lb n="15"/>ir, ob er an des gerichtz besetzung mangel gehebtt, das hette er billich an unsern herrn von <placeName ref="stadtasg-places-38">sant Gallen</placeName> gebrachtt etc. Sölichs sye
+<lb n="16"/>von im beschechen, aber im wurde nit antwurt, das er siner sachen ustrag bekömen möchtt. Dann von des geleittes wegen
+<lb n="17"/>sye die sach also gestaltt, sin hushalter und ander habint vor inen gehebtt, uff ein zitte in sin hus ze komen und im dz gesagtt.
+<lb n="18"/>Das habe er in abgeslagen, über daz syent sy usserthalb sines wissens und wider sinen willen darinn gangen. Er habe sy dar
+<lb break="no" n="19"/>umb zuo zimlicher rede gesetztt, da habint sy inn gewundett, da er meine, das gleitt sye an im nit gehalten und er habe
+<lb n="20"/>darinn nutzit unbillichs gehandeltt und im sye ie nit fuoglich, gen <placeName ref="stadtasg-places-38">sant Gallen</placeName> ze komen, nach dem und von üch in geleitte
+<lb n="21"/>mit im gehandelt sye. Und dz nach gestalt der sachen sin ansprach billich berechtet werden sölle vor unpartygen lütten und die
+<lb n="22"/>weder üwer rätt als geswornen syentt und unser herr von <placeName ref="stadtasg-places-38">sant Gallen</placeName> wol macht habe, das gericht ze <placeName ref="stadtasg-places-102">Wil</placeName> zuo haben, wölte
+<lb n="23"/>aber solichs üwers willens ye nit sin, des er doch nit hoffe, die wile und ir dann inn dar zuo gehalten habint, das er sich
+<lb n="24"/>verschriben habe, sich rechtes von üch lassen zuo benügen vor üwern und unsern guotten fründen von <placeName ref="stadtasg-places-7">Costentz</placeName>, <placeName ref="stadtasg-places-24">Lindow</placeName> und uns,
+<lb n="25"/>so wölle er des für üch zuo lüttrung komen. Ob üch aber dz nit zuo willen sin wöltt, so wölle er des noch hütt bi tag komen
+<lb n="26"/>zuo einer erlutrung für gemeiner üwer und unser eidgnossen botten ald ein ortt in sunders, weliches ir wöllintt, sich die
+<lb n="27"/>erkennen ze lassen, was harumb billichen bescheche. Und ob ir üch des widrettint, hoffte er nit ungelimpff zuo haben,
+<lb n="28"/>wo er sich des erklagty, und inn sölle unser urtel nit binden, vor üwern ratten und geswornen zuo rechten. Die wile
+<lb n="29"/>sin ansprach gemeine statt antreffe, dann es sye ungehortt antwurter und richter ze finde. Lieben eydgnossen,
+<lb n="30"/>die wile ir nun des <persName ref="stadtasg-actors-666">Orttwins</persName> meynug aber verstand und wir an im nit gehaben mögent, sin ansprach vallen und
+<lb n="31"/>üch unersuochtt zelassen, dann er sagt, dz im zuo vil daran gelegen sye, wölten wir ie gern die sachen mit dem nechsten
+<lb n="32"/>hingelegt sechen, umb dz ir vil rechtens costen und arbeitt vertragen blibint. Darumb so ist zuo üch unser ernstlich bitte,
+<lb n="33"/>den obgenenten <persName ref="stadtasg-actors-666">Orttwin</persName> sines bruoders seiligen erb und guott in gewalt und gewere ze setzen hatt, dann ieman iehzitt zuo im ze
+<lb n="34"/>sprechen, dem wil er eines rechten sin nach erb vals rechtt. Wölte aber dz üwers willens ie nit sin, dann mit im
+<lb n="35"/>rechtt ze pflegen an der vorgemelten enden, einem umb daz im nit nott werd, sich des zuo erklagen, und üch dar inne als
+<lb n="36"/>fruntlichen zuo bewisen, als wir uch des und noch grössers getruwent, das wöllentt wir umb uwer liebn verdienen,
+<lb n="37"/>wo sich dz fugen wirtt. Und begernt harumb üwer geschriben antwurtt by dem botten. Geben uff <origDate when="1465-08-23">sant Bartlomeus
+<lb n="38"/>abentt anno etc LXV to</origDate>.
+<lb n="39"/><orgName ref="stadtasg-actors-503" role="issuer">Burgermeister und
+<lb n="40"/>ratte der statt Zurich</orgName>.
+<pb facs="StadtASG_Missive_374_762.JPG" n="2"/>
+<lb n="41"/>Den fursichtigen wysen unnsern besundern guotten frunden und
+<lb n="42"/>getrüwen lieben eydgnossen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und ratte zuo
+<lb n="43"/>sant Gallen</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

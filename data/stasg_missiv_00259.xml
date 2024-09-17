@@ -8,7 +8,7 @@
             <publicationStmt>
                 <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
             </publicationStmt>
-            <notesSmts><note><p>Zur Sache siehe auch die Missiven Nrn. 258, 262, 268, 269 und 358.</p></note></notesSmts>
+            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00258.xml">258</ref>, <ref target="stasg_missiv_00262.xml">262</ref>, <ref target="stasg_missiv_00268.xml">268</ref>, <ref target="stasg_missiv_00269.xml">269</ref> und <ref target="stasg_missiv_00358.xml">358</ref>.</p></note></notesStmt>
             <sourceDesc>
                 <msDesc type="missiv">
                     <msIdentifier>
@@ -59,7 +59,7 @@
                     <date>1452-05-10</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

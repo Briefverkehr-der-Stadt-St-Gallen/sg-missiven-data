@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 363</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00361.xml">361</ref>, <ref target="stasg_missiv_00364.xml">364</ref>, <ref target="stasg_missiv_00365.xml">365</ref>, <ref target="stasg_missiv_00376.xml">376</ref>, <ref target="stasg_missiv_00386.xml">386</ref> und <ref target="stasg_missiv_00388.xml">388</ref>.</p></note></notesStmt>    
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_363_731/732</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Georg Rem berichtet Johannes Utz, Stadtschreiber zu St. Gallen, wie Burkhard von Homburg der Meinung sei, sich von der Acht lösen zu können. Rem bittet zudem um Informationen und Handlungsanweisungen, besonders bezüglich der Schadenersatzklage.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-159">Stadtschreiber</term>
+<term ref="stadtasg-keywords-50">Acht</term>
+<term ref="stadtasg-keywords-358">Schadenersatz</term>
+<term ref="stadtasg-keywords-24">Klage</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-194">Hofgericht</term>
+<term ref="stadtasg-keywords-638">Prokurator</term>
+<term ref="stadtasg-keywords-283">Vollmacht</term>
+<term ref="stadtasg-keywords-454">Kopie</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-676">Georg Rem</persName>                    <date>1464-11-14</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-668">Johannes Utz</persName>      <placeName ref="stadtasg-places-38">St. Gallen</placeName>          </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-07-24</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_363_731.JPG" n="1"/>
+<p>
+<lb n="1"/>Fürnemer ersamer lieber herr und günner. Ir werdent vernemen, wie herr <persName ref="stadtasg-actors-675">Burkhart
+<lb n="2"/>von Homburg</persName> vermaint, die aucht, dar inn er ist, abzetuond, deßhalp haischet
+<lb n="3"/>miner herren von <placeName ref="stadtasg-places-38">sant Gallen</placeName> notdurfft, ir machtbotten, namlich ain von
+<lb n="4"/>den raetten und ain von der gemaind, uff das hofgericht zeschiken mit ainem
+<lb n="5"/>gewaltsbrieff cum mandato substituendi. Das erst procurationum stat uff üch
+<lb n="6"/>und uff mich der ursach halp, daz nit zwen von <placeName ref="stadtasg-places-38">sant Gallen</placeName> dar inn stand,
+<lb n="7"/>vermaint er, die aucht abtriben zu lassen. Die botten soellent ouch mitbringen
+<lb n="8"/>den brieff, so ir nehst von hinnen fuortend, in dem min herren von <placeName ref="stadtasg-places-38">sant
+<lb n="9"/>Gallen</placeName> zuo pflegern der kind gesetzt sind, deß glich ob sich min herren mit <persName ref="stadtasg-actors-359">Bilgerin</persName>
+<lb n="10"/>tags nit ferfangen haben, so schikend mir die informaciones wider, wie
+<lb n="11"/>man die clag für nemen söll, dann ich hab nit me dann den hoptbrieff und
+<lb n="12"/>das alt procurationem. Her nach ir üch nun wol wissent zuo richten. Ich hoff, er söll doch
+<lb n="13"/>nit vil an dem rechten gewinnen etc. Ich hab üch nechst geschriben und
+<lb n="14"/>den brieff üwerm sweher geschikt, wie ich uff clag mit <persName ref="stadtasg-actors-359">Bilgeris</persName> botschaft
+<lb n="15"/>bis uff dz nechst hofgericht gemacht, ouch wie es im rechten der anlaitung
+<lb n="16"/>halp gangen sig. Wer üch der selb brieff nit worden, so schikend dar nach
+<lb n="17"/>und bringend in mit üch oder ain copy dar von, besonder an dem end,
+<lb n="18"/>als ich dar inn gemeldet hab, was in der anlaitin beliben mueß etc. Geben
+<lb n="19"/>an <origDate when="1464-11-14">mitwoch nach Martini anno etc. LXIIIIto</origDate>.
+<lb n="20"/><persName ref="stadtasg-actors-676" role="issuer">Jörg Rem</persName>.
+<pb facs="StadtASG_Missive_363_732.JPG" n="2"/>
+<lb n="21"/>Dem ersamen wysen <persName ref="stadtasg-actors-668" role="recipient">Johannes Uotz</persName> statschriber
+<lb n="22"/>zuo <placeName ref="stadtasg-places-38">sant Gallen</placeName> minem sonder lieben herren
+<lb n="23"/>und günner.
+</p>
+        </body>
+    </text>
+</TEI>

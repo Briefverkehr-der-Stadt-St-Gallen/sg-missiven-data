@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 376</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00363.xml">363</ref>, <ref target="stasg_missiv_00364.xml">364</ref>, <ref target="stasg_missiv_00365.xml">365</ref>, <ref target="stasg_missiv_00379.xml">379</ref>, <ref target="stasg_missiv_00386.xml">386</ref> und <ref target="stasg_missiv_00388.xml">388</ref>. Sowie die Missiven Nrn. <ref target="stasg_missiv_00377.xml">377</ref>, <ref target="stasg_missiv_00381.xml">381</ref>, <ref target="stasg_missiv_00383.xml">383</ref>, <ref target="stasg_missiv_00384.xml">384</ref> und <ref target="stasg_missiv_00385.xml">385</ref>.</p></note></notesStmt>   
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_376_765/766</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Georg Rem schreibt an Johannes Utz, Stadtschreiber zu St. Gallen, zu den Prozessen mit Burkhard von Homburg, den Herren von Klingenberg, von Landenberg und von Friedingen. Rem beklagt sich, dass er über die Anklage am Hofgericht in Rottweil nicht genügend unterrichtet werde. Er hätte früher nach St. Gallen geschrieben, allerdings sei der Bote Siferlin nicht geritten. Ausserdem schulde ihm die Stadt St. Gallen noch Geld; Rem bittet um Begleichung der offenen Rechnungen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-174">Rechnung</term>
+<term ref="stadtasg-keywords-194">Hofgericht</term>
+<term ref="stadtasg-keywords-24">Klage</term>
+<term ref="stadtasg-keywords-57">Verpfändung</term>
+<term ref="stadtasg-keywords-218">Ratschlag</term>
+<term ref="stadtasg-keywords-373">Schreiber</term>
+<term ref="stadtasg-keywords-478">Register</term>      
+<term ref="stadtasg-keywords-221">Rückzahlung</term>
+<term ref="stadtasg-keywords-323">Junker</term>
+</keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-676">Georg Rem</persName> <placeName ref="stadtasg-places-158">Rottweil</placeName>                    <date>1465-09-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-668">Johannes Utz</persName>     <placeName ref="stadtasg-places-38">St. Gallen</placeName>           </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW</persName>
+                <date>2021-04-12</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-09-02</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_376_765.JPG" n="1" />
+<p>
+<lb n="1" />Min früntlich willig denst zuo vor ersamer wyser lieber herr und gunner.
+<lb n="2" />Es ist iunkherr <persName ref="stadtasg-actors-359">Bilgerin</persName> zuo on aim dem nechstvergangen hofgericht hie
+<lb n="3" />zuo <placeName ref="stadtasg-places-158">Rotwil</placeName> gesin und wolt mich ye drenngen zuo clagen. Ich hett die
+<lb n="4" />sach gern vertzogen, wann ich niemant by mir hatt. Und nach dem
+<lb n="5" />minen herren von <placeName ref="stadtasg-places-38">sant Gallen</placeName> vil und groß an der sach gelegen
+<lb n="6" />ist, hatt ich sorg, soelt er mir mit recht ußgan der ursach halp, das
+<lb n="7" />ich im nit west fürzehalten, wo, wie, wann und gegen wiem
+<lb n="8" /><placeName ref="stadtasg-places-59">Bürgla</placeName> versetzt were, das dann die andern ouch also dar durch ußgan
+<lb n="9" />moechten und fand an etlichen minen herren und ouch an min selbs
+<lb n="10" />rat, das ich sagt, ich were der clag nit gnuogsam underricht und
+<lb n="11" />ließ ee daruff die ladung abkennen, dann der zuospruch ist da mit
+<lb n="12" />nit ab, man mag in widerumb fürnemmen, wann man wil, und das
+<lb n="13" />woellent minen herren im allerbesten zuo erkennen geben, dann ich hab
+<lb n="14" />es on rat nit getan. Ich hett es üch ouch eer geschriben, so ist <persName ref="stadtasg-actors-677">Syferlin</persName>,
+<lb n="15" />als er sagt, sidher nit hinuff geritten. Ouch lieber herr, als ich
+<lb n="16" />üch dann vormals geschikt hab die ervolgung uff hern <persName ref="stadtasg-actors-675">Burkharten
+<lb n="17" />von Homburg</persName>, die ist mir noch unbetzalt, bitt ich üch mit ernste,
+<lb n="18" />mit minen herren davon ze reden, si kostet III gulden, die woellent
+<lb n="19" />mir schiken so erst ir moegend, ich hab si dem schriber vor
+<lb n="20" />langem mit minem gelt betzalen muessen. So denne von der
+<lb n="21" />vier <persName ref="stadtasg-actors-679">Clingemberger</persName> wegen waiß ich nit, ob ir mir die vier
+<lb n="22" />clag gelt betzalt haend oder nit, das stell ich zuo üwer vertzaichnuß,
+<lb n="23" />werent die nit betzalt, so schikend mir ouch dafür, was mine herren
+<lb n="24" />und ir woellent. Item da mit mine herren und ir an den ervolg mugen
+<lb n="25" />nit verstossend, so han ich üch II ervolgung geschikt, aine uff den
+<lb n="26" /><persName ref="stadtasg-actors-681">von Fridingen</persName> und <persName ref="stadtasg-actors-702">Landemberg</persName>, die ist verrechnet und betzalt,
+<lb n="27" />und zuo letst die uff hern <persName ref="stadtasg-actors-675">Burkhart von Homburg</persName>, die stat mir
+<lb n="28" />uß, wie wol ichs hab betzalen muessen, dann wann der schriber unnser
+<lb n="29" />ainem die briefe gibt, so muß er im dz gelt geben. Nit me
+<lb n="30" />dann tuend, als ich üch vertruw und gebiettend mir als dem
+<lb n="31" />üwern. Geben an <origDate when="1465-09-12">donrstag vor des hailgen crütztag exaltacionis
+<lb n="32" />anno domini etc. LXVto</origDate>. Lieber herr, schikend mir solich gelt üwerm
+<lb n="33" />sweher, der würt mir es wol schiken.
+<lb n="34" /><persName ref="stadtasg-actors-676" role="issuer">Jörg Rem</persName> üwer williger.
+<pb facs="StadtASG_Missive_376_766.JPG" n="2" />
+<lb n="35" />Dem fürnemen ersamen wysen <persName ref="stadtasg-actors-668" role="recipient">Johannes Uetz</persName>, statschriber
+<lb n="36" />zuo <placeName ref="stadtasg-places-38">sant Gallen</placeName> minem insonder lieben herren
+<lb n="37" />und gepiettiger etc.
+</p>
+        </body>
+    </text>
+</TEI>

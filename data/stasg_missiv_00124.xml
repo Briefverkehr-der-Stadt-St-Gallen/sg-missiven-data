@@ -28,7 +28,7 @@
                 <p>Bürgermeister und Rat zu Ulm teilen Bürgermeister und Rat zu St. Gallen mit, dass
                     sie das königliche und kaiserliche Recht erhalten hätten, in ihrer Stadt eine
                     Messe und einen Markt abzuhalten, der am dritten Sonntag nach Fronleichnam
-                    beginnt und vierzehn Tage dauert. Sie bitten die St. Galler darum, dies bei
+                    beginnt und 14 Tage dauert. Sie bitten die St. Galler darum, dies bei
                     ihnen und in ihrer Umgebung zu verkünden. Es werde zudem jeweils ein
                     Pferderennen mit einem Preis veranstaltet.</p>
             </abstract>
@@ -57,7 +57,7 @@
                     <date>1439-12-23</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

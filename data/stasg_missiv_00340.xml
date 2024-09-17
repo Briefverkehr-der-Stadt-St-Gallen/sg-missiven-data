@@ -40,7 +40,7 @@
                     <orgName ref="stadtasg-actors-58">Bürgermeister und Rat zu Ravensburg</orgName>                    <date>1458-07-10</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
             </correspDesc>
         </profileDesc>
         <revisionDesc>
@@ -62,7 +62,7 @@
 <p>
 <lb n="1"/>Unnser früntlich willig dienst allzit zuovor ersamen und wysen besundern guoten lieben fründe. Wir hand vor dem fromen
 <lb n="2"/>vesten <persName ref="stadtasg-actors-611">Hannsen Uolrichen von Stoffeln</persName> als ainem gemainen mit gelichen zusatz mit dem edeln <persName ref="stadtasg-actors-460">Hannsen von
-<lb n="3"/>Rechberg von Hohenrechberg</persName> als von wegen des erwirdigen unsers herren von sant Ioergen und der von
+<lb n="3"/>Rechberg von Hohenrechberg</persName> als von wegen des erwirdigen unsers herren von sant Joergen und der von
 <lb n="4"/><placeName ref="stadtasg-places-205" cert="medium">Herbrechtzhoven</placeName><note>Wohl <placeName ref="stadtasg-places-205">Herbertshofen (BW)</placeName>.</note> ainen treffenlichen rechttag zuo laisten uff <date when="1458-07-18">zinstag naechst vor sant Marien Magdalenen
 <lb n="5"/>tag</date> zuo früwer tagzite zu <placeName ref="stadtasg-places-36">Rauttolffzelle am Bodemsee</placeName> zuo laisten. Wann nun unser gemainer statt groß und
 <lb n="6"/>vil daran gelegen, darumb unser notdurft ist, vil wyser treffenlicher lüten by soelichem rechten zuohalten,

@@ -6,7 +6,7 @@
             <publicationStmt>
                 <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
             </publicationStmt>
-            <notesStmt><note><p>Stallen ist der alte deutsche Namen von Bivio bis 1895 (bis 1903 ital. Stalla).</p></note></notesStmt>
+            <notesStmt><note><p>Bivio veraltet dt. Stallen (bis 1903 offiziell ital. Stalla).</p></note></notesStmt>
                        <sourceDesc>
                 <msDesc type="missiv">                    <msIdentifier>
                         <idno>StadtASG Missive_350_705/706</idno>
@@ -49,7 +49,7 @@
                     <persName ref="stadtasg-actors-626">Janot Fulschill</persName>                    <date>1460-10-27</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
             </correspDesc>
         </profileDesc>
         <revisionDesc>
@@ -88,7 +88,7 @@
 <lb n="17"/>unser nachkomen alle zit üch und üwern nachkomen mit unserem dienst und
 <lb n="18"/>vermügen gewillig und gehorsam. Datum <origDate when="1460-10-27">XXVII tag october anno domini etc.
 <lb n="19"/>LXo</origDate>.
-<lb n="20"/><persName ref="stadtasg-actors-626" role="issuer">Iannot Fulschill</persName> amman und
+<lb n="20"/><persName ref="stadtasg-actors-626" role="issuer">Jannot Fulschill</persName> amman und
 <lb n="21"/>dz commun zu <placeName ref="stadtasg-places-207">Stallen</placeName>.
 <pb facs="StadtASG_Missive_350_706.JPG" n="2"/>
 <lb n="22"/>Den ersammen und wysen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister

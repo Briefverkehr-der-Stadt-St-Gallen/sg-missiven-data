@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 388</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00361.xml">361</ref>, <ref target="stasg_missiv_00363.xml">363</ref>, <ref target="stasg_missiv_00364.xml">364</ref>, <ref target="stasg_missiv_00365.xml">365</ref>, <ref target="stasg_missiv_00376.xml">376</ref> und <ref target="stasg_missiv_00386.xml">386</ref>.</p></note></notesStmt>   
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_388_789/790</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Georg Rem schreibt in Eile an Johannes Utz, Stadtschreiber von St. Gallen, bezüglich diverser juristischer Geschäfte. Er sendet vier Achtbriefe, welche zehn Schilling kosten. Sollte auch in der Sache von Burkhard von Homburg und Hans Wilhelm von Friedingen ein Achtbrief erstellt werden, müsste er dafür die Suche im Achtbuch auf der Kanzlei bezahlen. Daraufhin rät Rem gegen die von Meringen <!-- evtl. Mering--> zu prozessieren. Er listet die diversen Kosten und den Botenlohn auf. Er versichert, dass er sein Möglichstes in den St. Galler Angelegenheiten tun werde, schliesslich habe er heute den ganzen Tag nichts anderes getan, als  ihren Boten abzufertigen. Er sendet die alten Achtbriefe und andere Schriften zurück und bittet um Anweisungen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-50">Acht</term>
+                    <term ref="stadtasg-keywords-639">Achtbrief</term>
+                    <term ref="stadtasg-keywords-640">Achtbuch</term>
+                    <term ref="stadtasg-keywords-479">Botenlohn</term>
+<term ref="stadtasg-keywords-252">Prozess</term>
+<term ref="stadtasg-keywords-103">Urteil</term>
+<term ref="stadtasg-keywords-635">Kanzlei</term>
+<term ref="stadtasg-keywords-473">Eile</term>
+<term ref="stadtasg-keywords-314">Anwalt</term>
+<term ref="stadtasg-keywords-159">Stadtschreiber</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-352">Lohn</term>
+<term ref="stadtasg-keywords-454">Kopie</term>
+<term ref="stadtasg-keywords-217">Anwort</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-676">Georg Rem</persName>                    <date>1467-03-28</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-668">Johannes Utz</persName> <placeName ref="stadtasg-places-38">St. Gallen</placeName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName></persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2024-09-12</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_388_789.JPG" n="1" />
+<p>
+<lb n="1" />Ersamer wiser besonder lieber herr furdrer und gunner gar früntlich willig
+<lb n="2" />denste sigen üch zuo vor. Wie ir mir yetz geschriben hand, hab ich verlesen, und
+<lb n="3" />nach üwerm begeren schike ich üch IIII auchtbrieff kostend X <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> <choice><abbr>dn.</abbr><expan>Denar</expan></choice>, und
+<lb n="4" />von hern <persName ref="stadtasg-actors-675">Burkhart von Homburgen</persName> und <persName ref="stadtasg-actors-681">Hanns Wilhelm von Fridingen</persName> die
+<lb n="5" />wyl ich den selben auchtbrieve nit gehept hab, so müst V <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> dn.
+<lb n="6" />von den zwayen geben ze suochen im auchtbuoch alles in die cantzly,
+<lb n="7" />summa I gulden IX <choice><abbr>dn.</abbr><expan>Denar</expan></choice>, hand ir mir I gulden geschikt, die IX <choice><abbr>dn.</abbr><expan>Denar</expan></choice> hab ich darge
+<lb break="no" n="8" />lühen. Item der armen lüt halp, die mine herren von <placeName ref="stadtasg-places-38">sant Gallen</placeName> ervordert
+<lb n="9" />hand umb huldung etc., dar uff hab ich den hoptbrieff überlesen
+<lb n="10" />und rates dar uff gepflegen. Und wie wol sich die armen lüte
+<lb n="11" />hand erlangen lassen, weder si noch ire herren sich verantwurt und
+<lb n="12" />mine herren die ervolgung besessen hand, so gat doch das recht im
+<lb n="13" />grund nit wyter mag ouch nit höher angetzogen werden dann uff der
+<lb n="14" />echter gütter, uß dem grund wol zemerken, was nit der echter
+<lb n="15" />das, das in der ervolgung nit begriffen ist, find ouch das an rat.
+<lb n="16" />Sölt ich dann mine herren oder üch daran legen, das si gelt uff
+<lb n="17" />ain sach legten, da nit grundes were und villicht min nutz
+<lb n="18" />der best, das wölt ich ouch ungern tuon, doch uff die von <placeName ref="stadtasg-places-241">Meringen</placeName> <!-- evtl. Mering-->
+<lb n="19" />rat ich wol ze procedieren, und gedenkend, das ich den ervolg
+<lb n="20" />brieff hie hab uff <date when="1467-04-28">zinstag nach dem sontag cantate nechst
+<lb n="21" />künfftig</date>, so wil ich uff <date when="1467-04-07">yetz zinstag nach quasi modo geniti</date>
+<lb n="22" />die verkundung uß vertigen und procedieren, so vil ich mag,
+<lb n="23" />und üch dann gestalt der sach aber wissen lassen. Item die verkündung
+<lb n="24" />würt kosten II 1/2 <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> <choice><abbr>dn.</abbr><expan>Denar</expan></choice>,  IIII <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> <choice><abbr>dn.</abbr><expan>Denar</expan></choice> bottenlon und III ort procuratoren lon
+<lb n="25" />on urtailbrieff und inschriben, ob es darzu komet, darnach ir
+<lb n="26" />üch nun wol wissent ze richten. Item in üwer sach wil ich das
+<lb n="27" />best tuon des sind zwyfelson, so vil mir dann zetuond gepürt,
+<lb n="28" />dann wa mit ich üch früntlichen willen bewisen möcht, des
+<lb n="29" />were ich allweg willig, als billich ist. Item min vetter ist zuo <placeName ref="stadtasg-places-91">Österrich</placeName>,
+<lb n="30" />und sin underschriber warent zuo unnser lieben frowen zuo den <placeName ref="stadtasg-places-242">Ain
+<lb break="no" n="31" />sidlen</placeName>, und als diser bott uff hüt frü zuo mir komen ist, hab ich
+<lb n="32" />onzwyfel disen gantzen tag wenig anders geschafft dann üwern
+<lb n="33" />botten ze vertigen und das mit willen getan. Geben mit yl an
+<lb n="34" /><origDate when="1467-03-28">dem hailigen osteraubend zuo nacht anno etc. LXVIImo</origDate>.
+<lb n="35" /><persName ref="stadtasg-actors-676" role="issuer">Jörg Rem</persName>.
+<lb n="36" />Item ich schik üch den alten auchtbrief und all schrifften
+<lb n="37" />bis an der von <placeName ref="stadtasg-places-241">Meringen</placeName> copy, und ob si minen
+<lb n="38" />herren ouch schriftlich antwurten würden, so
+<lb n="39" />schiken mir die selben antwurt
+<lb n="40" />mit dem ervolgbrieff. Item von der von <placeName ref="stadtasg-places-240">Hiltzingen</placeName> <!-- evtl. Hilzingen--> wegen
+<lb n="41" />verstan ich kain antwurt, wöllen ouch frag haben, ob ich die
+<lb n="42" />fürnemen söll oder nit.
+<pb facs="StadtASG_Missive_388_790.JPG" n="2" />
+<lb n="43" />Dem fürnemen ersamen und wysen
+<lb n="44" /><persName ref="stadtasg-actors-668" role="recipient">Hannsen Uotz</persName>, statschriber zuo <placeName ref="stadtasg-places-38">sant
+<lb n="45" />Gallen</placeName> minem sonder lieben herren und gepietter.
+</p>
+        </body>
+    </text>
+</TEI>

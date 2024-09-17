@@ -1,0 +1,139 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 346</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Wohl Abschrift. Die Missive ist nicht datiert. Der hier als verstorben erwähnte Johannes von Widenbach ist noch 1454 bis 1456 als Bürgermeister bezeugt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_346_697/698</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Urban von Widenbach, Sohn des verstorbenen St. Galler Bürgermeisters Johannes von Widenbach, bittet Bürgermeister und Rat zu St. Gallen (unklarer Adressat) um Hilfe in der Angelegenheit um das Schloss Zwingenstein im Rheintal, welches von den Appenzellern zerstört wurde. Schloss Zwingenstein sei seinem Vater von Herzog Sigmund von Habsburg-Österreich verliehen worden, da er diesem und König Friedrich IV. von Habsburg-Österreich treu untergeben gewesen sei. Bereits sein Vater habe vor den Eidgenossen geklagt, dass ihm das Schloss zurückzugeben sei, doch die Appenzeller seien lange nicht darauf eingegangen, und sein Vater sei mittlerweile verstorben. Er bittet nun als Erbe die St. Galler, sich für ihn bei den Eidgenossen einzusetzen, damit er sein väterliches Erbe antreten könne.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-175">Sohn</term>
+<term ref="stadtasg-keywords-82">Tod</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-540">Schloss</term>
+<term ref="stadtasg-keywords-527">Vater</term>
+<term ref="stadtasg-keywords-24">Klage</term>
+<term ref="stadtasg-keywords-5">Erbe</term>
+<term ref="stadtasg-keywords-275">Fürst</term>
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-277">Herzog</term>
+<term ref="stadtasg-keywords-79">Pfand</term>
+<term ref="stadtasg-keywords-136">Lehen</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-149">Rechtstag</term>
+<term ref="stadtasg-keywords-168">Abschrift</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-637">Urban von Widenbach</persName>                    <date cert="medium">1456</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148" cert="medium">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>     
+                              </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-01-30</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_346_697.JPG" n="1"/>
+<p>
+<lb n="1"/>Fursichtigen fromen ersamen weisen insunder lieben
+<lb n="2"/>herren und gutten fründ. In den zyten des lebens <persName ref="stadtasg-actors-631">Hansen
+<lb n="3"/>Wydemnbachs</persName>, mins elichen lieben vatters saeligen, als
+<lb n="4"/>die statt zu <placeName ref="stadtasg-places-38">sant Gallen</placeName> on mittel dem <orgName ref="stadtasg-actors-559">Haeligen Röm
+<lb break="no" n="5"/>ischen Rych</orgName> on verrer puntnuss zugehörig und gewaertig
+<lb n="6"/>gewesen ist, der genant min vatter saelig daselb zu <placeName ref="stadtasg-places-38">sant
+<lb n="7"/>Gallen</placeName> burgermaister und dem hus von <placeName ref="stadtasg-places-91">Osterrich</placeName>, nem
+<lb break="no" n="8"/>lich den durchleuchtigen fürsten und herren herren
+<lb n="9"/><persName ref="stadtasg-actors-129">Fridrichen</persName>, der zeit römischen künig, und hern <persName ref="stadtasg-actors-416">Sigmund
+<lb n="10"/>hertzogen ze Osterreich</persName> etc. ouch mit phlicht und diennsten
+<lb n="11"/>verpunden gesin, und demnach bey den guten fürsten
+<lb n="12"/>sich mit sinen unnderthenigen getrewen dienstenn so
+<lb n="13"/>redlich gegen dem hus von <placeName ref="stadtasg-places-91">Osterreich</placeName> und zu nutzlicher
+<lb n="14"/>werbung der statt <placeName ref="stadtasg-places-38">sant Gallenn</placeName> erschaint und bewyßt,
+<lb n="15"/>das im von dem bemelten hertzog <persName ref="stadtasg-actors-416">Sigmundenn</persName> das
+<lb n="16"/>hus <placeName ref="stadtasg-places-212">Zwingenstain</placeName> mit siner zugehörde, im <placeName ref="stadtasg-places-64">Rintal</placeName> ge
+<lb break="no" n="17"/>legen, yetz in die phanndtschafft <placeName ref="stadtasg-places-88">Rineg</placeName> gehörig, zuo rechtem
+<lb n="18"/>lehen gelihen und von künig <persName ref="stadtasg-actors-129">Fridrichen</persName> verwilgt und
+<lb n="19"/>bestaett worden ist, innhalt der lehen und wilbriefen,
+<lb n="20"/>indem als min vatter saelig das schloss inhends hat
+<lb n="21"/>gehept und mit geschaefften beladen und uslendig gewesen
+<lb n="22"/>ist, es durch etlich von <placeName ref="stadtasg-places-8">Apennzell</placeName>, dero noch vil inleben,
+<lb n="23"/>ouch sust redlich lanndtleut des ingedenck sind, uß ursach
+<lb n="24"/>den herren von <placeName ref="stadtasg-places-91">Osterrich</placeName> kain offen schloss in irem
+<lb n="25"/>land ze dulden, in mainung, als ob si früntschafft
+<lb n="26"/>durch nemung der spys sicher wölten unbewert
+<lb n="27"/>verbrennt worden, des sich min vatter saelig nach
+<lb n="28"/>mals vor gemainen aydgnossen, als die vor <placeName ref="stadtasg-places-32">Zürich</placeName>
+<lb n="29"/>gelegen sind, erclagt hat, und sovil hier innen ge
+<lb break="no" n="30"/>worbenn, das gemain aydgnossen denen von <placeName ref="stadtasg-places-8">Ap
+<lb break="no" n="31"/>ennzell</placeName> deßhalb geschriben und darinne gütlich
+<pb facs="StadtASG_Missive_346_698.JPG" n="2"/>
+<lb n="32"/>tag gesetzt hand, daruf aber die von <placeName ref="stadtasg-places-8">Apennzell</placeName> villicht
+<lb n="33"/>der schwaeren kriegslöffenn halb nit vil enntlicher
+<lb n="34"/>antwurt geben, sunder
+<lb n="35"/>die sach verzogen, so lang, das min vatter mit tod
+<lb n="36"/>verschain, do maln ich an iarenn ains gehebt und
+<lb n="37"/>sidher wesennlich noch hushablich in land nie ge
+<lb break="no" n="38"/>wesen deßhalb ich die sach nie gerecht noch gemelt
+<lb n="39"/>hab, so gruntlich das si zu ustrag kommen sey.
+<lb n="40"/>Und die wyl ich nun zu <placeName ref="stadtasg-places-38">sant Gallenn</placeName> und
+<lb n="41"/>hushablich, deßhalb ich wie annder üch verbundenn
+<lb n="42"/>und phlichtig bin, ouch der hoffnung, das die vonn
+<lb n="43"/><placeName ref="stadtasg-places-8">Apennzell</placeName> mir mine recht an dem hus <placeName ref="stadtasg-places-212">Zwingenstain</placeName>
+<lb n="44"/>nit emtpfromdt, sunder des hus von <placeName ref="stadtasg-places-91">Osterreichs</placeName>
+<lb n="45"/>gerechtigkait an sich gezogen habenn, und die weil
+<lb n="46"/>min vatter salig noch ich kains kriegs wider ouch
+<lb n="47"/>gehaltten, bystenndig gewesenn, och die nutzung
+<lb n="48"/>von dem bestimpten hus und ir zugehord gar clain,
+<lb n="49"/>und ich erbittig und willig bin, darvon ze thuen, was
+<lb n="50"/>sich gebürlichen haischt, so ist an ewer fürnemen
+<lb n="51"/>fromm ersamkait min underthenig früntlich pitt,
+<lb n="52"/>die sach bedächtlich zuvernemenn und gegen minenn
+<lb n="53"/>herren gemainen aidgenossenn darum ze sind, da
+<lb n="54"/>mit ich mit der besigelten lehen und wilbriefenn
+<lb n="55"/>des huss mit siner zugehörd gerüwig besitzung
+<lb n="56"/>erlaing, als ich zwifels fry bin, nach verhörung
+<lb n="57"/>der briefenn ir selbs erkennen werden, billich beschehen.
+<lb n="58"/>Das wil ich umb uwer fürsichtig from ersamkait
+<lb n="59"/>mit schnealer gehorsamkait gar willig verdienenn.
+<lb n="60"/><persName ref="stadtasg-actors-637" role="issuer">Urban Weidennpach</persName>.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -9,7 +9,7 @@
                 <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
             </publicationStmt>
             <notesStmt>
-                <note><p>Zur Sache siehe auch die Missive Nr. 101.</p></note>
+                <note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_000101.xml">101</ref>.</p></note>
             </notesStmt>
             <sourceDesc>
                 <msDesc type="missiv">
@@ -30,7 +30,7 @@
             <abstract>
                 <p>Statthalter und Rat zu Appenzell bitten Bürgermeister und Rat zu St. Gallen, ihnen
                     bei der Aufklärung des Totschlags an ihrem Ammann Häch zu helfen. St. Gallen soll
-                    seinen Läufer Konrad Utz, Zeuge des Verbrechens, befragen, wer Helfer der
+                    seinen Läufer Konrad Utz, Zeuge des Verbrechens, befragen, wer Helfer des
                     Totschlägers namens Himmeli gewesen sei.</p>
             </abstract>
             <langUsage>
@@ -56,7 +56,7 @@
                     <date>1437-04-16</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

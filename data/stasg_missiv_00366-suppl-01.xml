@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 366 Beilage 1</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. <ref target="stasg_missiv_00366.xml">366</ref>.</p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_366_739</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Georg von Rechberg zu Hohenrechberg und Bero von Rechberg zu Hohenrechberg, Brüder, erklären Bürgermeister und Rat zu St. Gallen ihre Sicht der Dinge im Streit mit Michael von Friedberg. Sie hätten den Kaiser um ein Urteil gebeten, der ihnen befohlen hatte, 3000 Gulden Hauptgut in Ulm zu hinterlegen, was sie getan hätten. Sie bitten St. Gallen, nicht weiter für Michael von Friedberg Partei zu ergreifen. Dem Schreiben liegt eine Abschrift eines kaiserlichen Aufgebotes zu einer Verhandlung bei, das auf den 20. Februar 1465 datiert ist.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-147">Kaiser</term>
+                    <term ref="stadtasg-keywords-103">Urteil</term>
+                    <term ref="stadtasg-keywords-127">Geld</term>
+                    <term ref="stadtasg-keywords-11">Kapital</term>
+                    <term ref="stadtasg-keywords-495">Hab und Gut</term>
+                    <term ref="stadtasg-keywords-168">Abschrift</term>
+                    <term ref="stadtasg-keywords-37">Verhandlung</term>
+                    <term ref="stadtasg-keywords-604">Beilage</term>
+                    <term ref="stadtasg-keywords-372">Papst</term>
+                    <term ref="stadtasg-keywords-277">Herzog</term>
+                    <term ref="stadtasg-keywords-642">Kardinal</term>
+                    <term ref="stadtasg-keywords-314">Anwalt</term>
+                    <term ref="stadtasg-keywords-621">Kanzler</term>
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-49">Friedrich III. von Habsburg-Österreich</persName>               <date>1465-02-20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-683">Michael von Friedberg</persName>              </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-08-27</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_366_739.JPG" n="1" />
+            <p>
+<lb n="1" />Wir <persName ref="stadtasg-actors-49" role="issuer">Fridrich von gottes gnaden roemischer kaiser</persName> zuo allen ziten moerer
+<lb n="2" />des richs zuo <placeName ref="stadtasg-places-41">Hungeren</placeName>, <placeName ref="stadtasg-places-215">Dalmatien</placeName>, <placeName ref="stadtasg-places-216">Croacien</placeName> etc., küng, hertzog zuo
+<lb n="3" /><placeName ref="stadtasg-places-91">Oesterrich</placeName> und ze <placeName ref="stadtasg-places-94">Steier</placeName> etc. enbieten unsren und des riches lieben getrewen
+<lb n="4" /><persName ref="stadtasg-actors-683" role="recipient">Micheln von Friberg</persName> unser gnad und alles guotten. Lieben getrewer wir
+<lb n="5" />haben soellich anlait processe aucht ervolung gebot strauf mit ir uebung,
+<lb n="6" />so du wider unser und des richs lieben getrewen <persName ref="stadtasg-actors-682">Joergen</persName> und <persName ref="stadtasg-actors-643">Beren
+<lb n="7" />von Rechberg</persName> zuo <placeName ref="stadtasg-places-231">Hochenrechberg</placeName> an unsrem und deß richs hofgericht
+<lb n="8" />zuo <placeName ref="stadtasg-places-158">Rottweil</placeName> vermainst erlangt ze haben, bis uff den <date when="1465-06-09">sonntag der
+<lb n="9" />hailgen trüvaltikait tag</date> schirist künftig angestelt, also das sy der
+<lb n="10" />selben sachen halb drewtusend guldin haptguots in der statt <placeName ref="stadtasg-places-28">Ulm</placeName> da
+<lb n="11" />zwischen niderlegen soellen und uns fürgenomen üch der sachen halb
+<lb n="12" />miteinander güttlich zuo verainen, dar umb so enpfelchen wir dir
+<lb n="13" />mit disem brief ernstlich gebiettende, ob ir üch selbs der selben schaeden
+<lb n="14" />halb mit ainander gütlich nit vertragen moechtent, das du denn uff den
+<lb n="15" />vorgemelten <date when="1465-06-09">sonntag der hailgen trüveltikait tag</date> schirist künftig an
+<lb n="16" />unsrem kaiserlichen hof komest oder deinen volmaechtigen anwalt
+<lb n="17" />senndest, so woellen wir üch der selben sachen halb gegen ainander aigen
+<lb break="no" n="18" />lich verhoeren und mit fleyß versuochen, darumb güttlich zeverainen, ob deß
+<lb n="19" />nit gesein moecht, dar inne fürter handlen, als sich inn soellichem gepürtt,
+<lb n="20" />da mit kain tail in seinem recht verletzt werd. Deß glich haben wir
+<lb n="21" />den vorgenanten <persName ref="stadtasg-actors-682">von Rechberg</persName><note>Georg und sein Bruder <persName ref="stadtasg-actors-643">Bero von Rechberg</persName>.</note> soellichen tag durch sich selbs oder
+<lb n="22" />ir vollmaechtigen anwalt zuo komen und zuo sennden ach verkündet,
+<lb n="23" />dar nach wisse dich zerichten. Geben zu der <placeName ref="stadtasg-places-232">Newenstatt</placeName> am <origDate when="1465-02-20">zweintzi
+<lb break="no" n="24" />gisten tag des monatz february nach Christi gepurtt vierzechen hundert
+<lb n="25" />und im fünff und sechtzigesten, unsers richs des roemischen im
+<lb n="26" />fünff und zweintzigisten, des kaisers tuombs im dryzechenden und
+<lb n="27" />des hungrischen im sechsten iaren</origDate>.
+<lb n="28" />Ad mandatum domini imperatoris
+<lb n="29" />Uodalricus <abbr>eps.</abbr> <abbr>pat.</abbr> cancellarius.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -26,7 +26,7 @@
         <profileDesc>
             <abstract>
                 <p>Hans Schad, genannt Güggel, bittet Bürgermeister und Rat zu St. Gallen, Sigmund,
-                    genannt Münzer, von dem er einen Rock im Wert von 1 Gulden ausgeliehen und dem
+                    genannt Münzer, von dem er einen Rock im Wert von einem Gulden ausgeliehen und dem
                     er selbst einen solchen im Wert von 12 Gulden ausgeliehen habe, dazu anzuhalten,
                     dass Sigmund ihm seinen Rock zurückgebe oder den Mehrwert entschädige.</p>
             </abstract>
@@ -49,7 +49,7 @@
                     <date>1427-04-24</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

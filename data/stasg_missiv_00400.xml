@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 400</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Wohl Entwurf. Da die Adresse und der Absender fehlen, wurden diese aus dem Kontext erschlossen.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_400_815/816</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen teilen vermutlich dem Rat zu Winterthur mit, dass ihr Bürger Simon Kunz nichts mit der Auseinandersetzung um ausstehende Zinsen mit Schultheiss Erhart Hunzikon zu tun hat, und dass Egli von Lörn, der den Zins ausrichten muss, die Streitigkeiten beilegen möchte.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-10">Zins</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
+<term ref="stadtasg-keywords-281">Entwurf</term>
+<term ref="stadtasg-keywords-151">Schuldbrief</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                    <date>1470-02-03</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-718">Schultheiss und Rat zu Winterthur</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-09-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_400_815.JPG" n="1" />
+<p>
+<lb n="1" /><date when="1470">Anno LXXmo</date>.
+<lb n="2" />Unser früntlich willig dienst zevor lieben und guoten fründ. Üwer
+<lb n="3" />schriben uns yetzo getan von üwers schulthaisßen <persName ref="stadtasg-actors-731">Erharten Huntzikonen</persName>
+<lb n="4" />wegen antreffend unsern burger <persName ref="stadtasg-actors-732">Symon Cuontzen</persName> haben wir vernomen,
+<lb n="5" />und uff soelichs nach unserm burger ouch nach <persName ref="stadtasg-actors-733">Eglin von Loern</persName>, der denn den
+<lb n="6" />zinß üwerm schulthaissen zegeben pflichtig ist, gesanndt und so soelich
+<lb n="7" />schrifft horen lassen. Derselb <persName ref="stadtasg-actors-733">Eglin von Loern</persName> nun vor uns bekantlich gewesen
+<lb n="8" />ist, daz der zinß, namlich fünf pfund, den gangind usser sinen guettern und
+<lb n="9" />berür <persName ref="stadtasg-actors-732">Symon Cuontzen</persName> gantz nicht. Den zinß er och vil iar dem Huntzikon
+<lb n="10" />und sinen vordern geben hab, das man in nie witter erfordert hab denn
+<lb n="11" />umb fünf <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> <choice><abbr>den.</abbr><expan>Denar</expan></choice> denn biß uff diß zit, daz in <persName ref="stadtasg-actors-731">Huntzikon</persName> witer angestrehen
+<lb n="12" />hab und in hangendem rechten standind, dem er ußtrag begere. Und wann
+<lb n="13" />uns aber soelich spenn und stoesß des üwern und der unsernhalb nitt lieb
+<lb n="14" />sind, hierumb so bitten wir üwer wisßhait und guoten fründschaft, sovil
+<lb n="15" />mit üwerm schulthaissen zereden und zebitten, sich her zuo uns zefuegen.
+<lb n="16" />Woellen wir in hoffnung sin, sovil in die ding zereden und zetuend, damit
+<lb n="17" />so soelichen stoesß und spenn samend guetlich ane recht betragen werden
+<lb n="18" />nach der billichait. Und woellen üch hierinen also früntlich gegen uns
+<lb n="19" />ze bewisen, als wir üch in sunders wol getruwen. Das stat uns hinfür
+<lb n="20" />in soelichen und meren sachen umb üch und die üwern zebeschulden und
+<lb n="21" />zegedienen. Geben uff <origDate when="1470-02-03">sambßtag nach unser frowen tag purifica
+<lb break="no" n="22" />tionis anno domini etc. LXXmo</origDate>.
+<pb facs="StadtASG_Missive_400_816.JPG" n="2" />
+</p>
+        </body>
+    </text>
+</TEI>

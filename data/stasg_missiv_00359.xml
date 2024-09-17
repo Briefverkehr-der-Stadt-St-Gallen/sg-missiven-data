@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 359</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                    <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_359_723/724</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Jakob Trapp, Hofmeister und Vogt zu Bregenz, bittet Bürgermeister und Rat zu St. Gallen, ihm die Hebamme aus Kempten, die sich in St. Gallen aufhalte, zu schicken, damit diese sich um seine hochschwangere Frau kümmern könne. Er bittet um schriftliche Antwort mit dem Boten, ob und wie lange St. Gallen die Hebamme entbehren könne.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-375">Hebamme</term>
+                    <term ref="stadtasg-keywords-42">Schwangerschaft</term>
+                    <term ref="stadtasg-keywords-356">Geburt</term> 
+                    <term ref="stadtasg-keywords-297">Ehefrau</term> 
+                    <term ref="stadtasg-keywords-269">Kind</term>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+                    <term ref="stadtasg-keywords-636">Hofmeister</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-658">Jakob Trapp</persName>                    <date>1464-07-24</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName/>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-05-28</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_359_723.JPG" n="1"/>
+<p>
+<lb n="1"/>Min früntlich dienst zue vor ersamen und wisen lieben fründ.
+<lb n="2"/>Ich fueg üch zue wißen, daz min hußfrow <note>Wohl <persName ref="stadtasg-actors-659" cert="medium">Barbara von Matsch</persName>.</note>groß schwanger
+<lb n="3"/>mit ainem kind gat und daz ich gern ain guette hebamman
+<lb n="4"/>by ir haben woelte. Wan ich nun vernim, daz ir ain guette,
+<lb n="5"/>namlich die hebamman von <placeName ref="stadtasg-places-40">Kempten</placeName>, in üwer statt haben,
+<lb n="6"/>so pitt ich üch mit besonderm vliß und ernste, ir woellent
+<lb n="7"/>umb mins verdienentz willen der genanten miner hußfrowen
+<lb n="8"/>die selben üwer hebamman zue ir purte guetlich vergunnen
+<lb n="9"/>und lihen, und mit ir reden und schaffen laßen, wenn si
+<lb n="10"/>ir embüt und bottschaft tueg, dz sy dann zue ir kome.
+<lb n="11"/>Und woellent mir dz nit versagen, sunder umb minen willen
+<lb n="12"/>so früntlich darinn bewisen, alz ich des guet getrüwen
+<lb n="13"/>zue üch hab. Wa ich dz umb üch und die uwern verdienen
+<lb n="14"/>kan, wil ich willig sin. Und laßent mich darumb üwer
+<lb n="15"/>guetlich verschriben antwurt wider wißen by dem botten,
+<lb n="16"/>und wie lang ir der embern und mir die lihen mügen.
+<lb n="17"/>Datum <origDate when="1464-07-24">vigilia Jacobi appostoli anno etc. LXIIIIto</origDate>.
+<lb n="18"/><persName ref="stadtasg-actors-658" role="issuer">Jacob Trapp</persName> hofmaister
+<lb n="19"/>und vogt zu <placeName ref="stadtasg-places-60">Pregentz</placeName>.
+<pb facs="StadtASG_Missive_359_724.JPG" n="2"/>
+<lb n="20"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und
+<lb n="21"/>rate zue sant Gallen</orgName> minen sondern gueten
+<lb n="22"/>fründen.
+</p>
+        </body>
+    </text>
+</TEI>

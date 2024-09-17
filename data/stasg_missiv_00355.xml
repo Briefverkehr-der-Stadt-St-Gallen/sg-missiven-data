@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 355</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnte Beilage ist nicht vorhanden.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_355_715/716</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich informieren Bürgermeister und Rat zu St. Gallen darüber, dass die in einer verschlossenen Beilage Erwähnten ihnen, den St. Gallern und den beiden zugehörigen Eidgenossen als Helfer Reinhards von Schauenburg den Krieg erklärt hätten.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-341">Kriegserklärung</term>
+<term ref="stadtasg-keywords-48">Feindschaft</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1464-02-18</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName> <placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-05-28</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_355_715.JPG" n="1"/>
+<p>
+<lb n="1"/>Unser willig früntlich dienste alle zitte zuovor fürsichttigen wisen sundern guoten fründe
+<lb n="2"/>und getrüwen lieben eydgnossen. Die, dero namen wir üch an dem zedel harinne
+<lb n="3"/>verslossen schickent, habent üch, andern üwern und unsern lieben eydgnossen und
+<lb n="4"/>uns als helffer <persName ref="stadtasg-actors-655">Reinhartz von Schowemburg</persName> ouch ein offne vintschafft zuo
+<lb n="5"/>geschriben und gesagt, das wir üch verkündent, umb das ir und die üwern
+<lb n="6"/>üch darnach wissen mögint ze verwalten und ze vergoment. Dann sunder
+<lb n="7"/>zwiffels in welichen sachen wir üch und den üwern getuon könnent, das üch
+<lb n="8"/>früntlich und lieb wer, werent wir geneigt allezitte mit guotem willen
+<lb n="9"/>zetuonde. Geben uff <origDate when="1464-02-18">samstag vor dem sonntag invocavit anno
+<lb n="10"/>domini etc. LXIIIImo</origDate>.
+<lb n="11"/><orgName ref="stadtasg-actors-503" role="issuer">Burgermeister und rätt
+<lb n="12"/>der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_355_716.JPG" n="2"/>
+<lb n="13"/>Den fürsichttigen wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rätt
+<lb n="14"/>zuo sant Gallen</orgName> unsern sundern guotten
+<lb n="15"/>fründen und getrüwen lieben eydgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

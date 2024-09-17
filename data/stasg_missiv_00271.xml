@@ -7,7 +7,7 @@
             <publicationStmt>
                 <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
             </publicationStmt>
-            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. 250 und 253.</p></note></notesStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00250.xml">250</ref> und <ref target="stasg_missiv_00253.xml">253</ref>.</p></note></notesStmt>
                         <sourceDesc>
                 <msDesc type="missiv">                    <msIdentifier>
                         <idno>StadtASG Missive_271_543/548</idno>
@@ -66,7 +66,7 @@
                     <orgName ref="stadtasg-actors-510">Bürgermeister und Rat zu Ulm</orgName>                    <date>1452-11-03</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
             </correspDesc>
         </profileDesc>
         <revisionDesc>
@@ -228,7 +228,7 @@
 <lb break="no" n="132" />botten, doch das er uns desglich an der nachbenempten ennde ainem ouch eren
 <lb n="133" />und rechtz sy, und das ains mit dem andern zuogang unbedingtlich erbotten uff
 <lb n="134" />die stette, daruff wir gefryet sien, oder für den vorgenanten unsern gnadigisten herren
-        <lb n="135" />den <perName ref="stadtasg-actors-49">romischen kaiser</perName> oder den egenanten unsern gnadigen herren von <placeName ref="stadtasg-places-167">Wirtemberg</placeName>
+        <lb n="135" />den <persName ref="stadtasg-actors-49">romischen kaiser</persName> oder den egenanten unsern gnadigen herren von <placeName ref="stadtasg-places-167">Wirtemberg</placeName>
 <lb n="136" />und siner gnaden stathalter, und wiewol es nicht billich sy, im dannocht
 <lb n="137" />durch unsers gelympffen willen aucht und banne hindan und zuo im setzen,
 <lb n="138" />welichs tails recht vorgang, doch das des andern tails recht uff die zite

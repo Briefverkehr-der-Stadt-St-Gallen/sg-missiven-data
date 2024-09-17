@@ -1,0 +1,106 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 384</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00376.xml">376</ref>, <ref target="stasg_missiv_00377.xml">377</ref>, <ref target="stasg_missiv_00381.xml">381</ref>, <ref target="stasg_missiv_00383.xml">383</ref> und <ref target="stasg_missiv_00385.xml">385</ref>.</p></note></notesStmt>   
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_384_781/782</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Georg Rem schreibt an Johannes Utz, Stadtschreiber in St. Gallen, dass er seine Abrechnungskontrolle erhalten habe. Er ist damit einverstanden und bittet nun um rasche Auszahlung. Weiter bittet er um ein schriftliches Einverständnis, dass er die Briefe einem Boten mitgebe. Weiter bittet er, Hans Zerahoch einen Ledersack mitzugeben.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-174">Rechnung</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-518">Leder</term>
+<term ref="stadtasg-keywords-159">Stadtschreiber</term>
+<term ref="stadtasg-keywords-558">Botentasche</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-676">Georg Rem</persName>                    <date>1466-12-03</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-668">Johannes Utz</persName> <placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2024-07-29</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_384_781.JPG" n="1"/>
+<p>
+<lb n="1"/>Ersamer wyser lieber herr und gunner min gar früntlich wil
+<lb break="no" n="2"/>lig denst sigen üch zuo vor. Und wie ir mir nechste der rech
+<lb break="no" n="3"/>nunghalp geschriben und die summ bestimpt hand, hab ich
+<lb n="4"/>verlesen und mich benüget der rechnung, wie ir die ge
+<lb break="no" n="5"/>setzt hand, gantz wol dann ich kainen zwyfel weder an minen
+<lb n="6"/>herren noch an üch hab, ob es üwer aigen sach were und so vil
+<lb n="7"/>guldin beruortin als schilling mir geschee dannnocht nit un
+<lb break="no" n="8"/>recht weder von üch noch von inen. Nun hab ich vil und
+<lb n="9"/>mengerlay mit den lüten zetuond, deßhalp ich den sachen
+<lb n="10"/>allen nit als aigentlich nachgedenken kan, als yeglicher siner
+<lb n="11"/>sach für sich selbs tuot, doch so wölt ich on zwyfel ouch nie
+<lb break="no" n="12"/>mans guot, das mir nit zustünd, haben, und darumb so bitt
+<lb n="13"/>ich üch in aller früntschafft, mög es yendter gesin, das ir dann
+<lb n="14"/>daran sigend, das mir sölich gelt by disem botten geschikt
+<lb n="15"/>und lenger nit vertzogen werde, dann mir sachen zuogestann
+<lb break="no" n="16"/>den sind, das ich vast gern die und ander schulden haben wölt
+<lb n="17"/>zuo mergklicher miner notdurfft herumb mög es gesin,
+<lb n="18"/>so wöllent mich nit verlassen. Das wil ich umb min herren von
+<lb n="19"/><placeName ref="stadtasg-places-38">sant Gallen</placeName> und üch mit guotem willen verdienen. Item von
+<lb n="20"/>der briefe wegen die hett ich üch gern geschickt, so hett ich
+<lb n="21"/>sorg, sölt ich die ainem botten one miner herren oder üwer
+<lb n="22"/>bevelh uffgeben und es im dann da mit mißgan, das
+<lb n="23"/>minen herren und mir das zuo schaden komen möcht.
+<lb n="24"/>Doch <persName ref="stadtasg-actors-624">Hanns Zerahoh</persName> der würt uff die nehst gericht
+<lb n="25"/>komen, wil es minen herren gefallen, so schribend mir by
+<lb n="26"/>im und gebend im ain keken ledersack, so wil ich üch
+<lb n="27"/>die schiken doch an ain schrifft von minen herren oder von
+<lb n="28"/>üch, so gib ich si nieman nit me, dann gepietten mir
+<lb n="29"/>als üwerm willigen und minen herren von <placeName ref="stadtasg-places-38">sant Gallen</placeName>
+<lb n="30"/>wöllent min undertenig willig denst sagen. Geben
+<lb n="31"/>an <origDate when="1466-12-03">sant Barbaren aubend anno domini etc. LXVIto</origDate>.
+<lb n="32"/><persName ref="stadtasg-actors-676" role="issuer">Jörg Rem</persName>.
+<pb facs="StadtASG_Missive_384_782.JPG" n="2"/>
+<lb n="33"/>Dem fürsichtigen ersamen und wysen <persName ref="stadtasg-actors-668" role="recipient">Johannes
+<lb n="34"/>Uotz</persName>, stattschriber zuo <placeName ref="stadtasg-places-38">sant Gallen</placeName> minem in
+<lb break="no" n="35"/>sonder lieben herren und gunner.
+</p>
+        </body>
+    </text>
+</TEI>

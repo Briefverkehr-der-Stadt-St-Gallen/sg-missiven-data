@@ -8,7 +8,7 @@
             <publicationStmt>
                 <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
             </publicationStmt>
-            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. 192.</p></note></notesStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00192.xml">192</ref>.</p></note></notesStmt>
             <sourceDesc>
                 <msDesc type="missiv">
                     <msIdentifier>
@@ -27,7 +27,7 @@
         <profileDesc>
             <abstract>
                 <p>Anton Schenk von Landegg, Vogt zu Bischofszell, bittet Bürgermeister und Rat zu
-                    St. Gallen dafür zu sorgen, dass sich der St.Galler Bürger Konrad Künzli von Brüewil mit den seinen, die ebenfalls Bürger von St. Gallen sind und die einen armen Mann, Brüewiler genannt und Eigenmann von Anton Schenk und von Walter von Andwil angegriffen haben, stellen. Wie es von Bürgermeister und Rat zu St. Gallen
+                    St. Gallen dafür zu sorgen, dass sich der St. Galler Bürger Konrad Künzli von Brüewil mit den seinen, die ebenfalls Bürger von St. Gallen sind und die einen armen Mann, Brüewiler genannt und Eigenmann von Anton Schenk und von Walter von Andwil angegriffen haben, stellen. Wie es von Bürgermeister und Rat zu St. Gallen
                     zugesagt worden war.</p>
             </abstract>
             <langUsage>
@@ -50,7 +50,7 @@
                     <date>1444-05-09</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

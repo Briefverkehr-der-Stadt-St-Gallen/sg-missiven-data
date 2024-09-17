@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 395</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_395_805/806</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Konstanz bitten Bürgermeister und Rat zu St. Gallen in einer Sache gegen ihren Einwohner Hans Witzig, den man Schweizer nennt, um Unterstützung. Diesem wurde von etlichen Gesellen in Bregenz die Feindschaft erklärt. Nun habe Witzig unter Eid bezeugt, dass er nichts davon gewusst habe und sich keiner Schuld bewusst sei, weshalb ihm seine Sicherheit gewährleistet werden soll. Die Konstanzer bitten um eine schriftliche Antwort mit dem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-305">Ehre</term>
+<term ref="stadtasg-keywords-27">Eid</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-48">Feindschaft</term>
+<term ref="stadtasg-keywords-322">Geselle</term>
+<term ref="stadtasg-keywords-102">Sicherheit</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-318">Schuld</term>
+<term ref="stadtasg-keywords-125">Arbeit</term>
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>                    <date>1468-08-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-09-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_395_805.JPG" n="1" />
+<p>
+<lb n="1" />Unnser willig früntlich diennst sy üch von uns zuovor beraitt ersamen und wisen
+<lb n="2" />besonndern lieben und guotten fründ. Nach dem in kurtz ettlich gesellen zuo <placeName ref="stadtasg-places-60">Pregentz</placeName>
+<lb n="3" />von unnsers gnedigen herren von <placeName ref="stadtasg-places-91">Oesterrich</placeName> wegen üch und andern unnsern guoten
+<lb n="4" />fründen den aidgnoßen ain vindschaft zuogeschriben hand, ist <persName ref="stadtasg-actors-716">Hanns Witzig</persName>, den
+<lb n="5" />man nembt <persName ref="stadtasg-actors-716">Switzer</persName>, ietzo in unnser statt wonende, für uns komen und hat vor
+<lb n="6" />uns inclag wis ertzelt, wie in ettlich gesellen zuo <placeName ref="stadtasg-places-60">Pregenntz</placeName> in die vindschaft habind
+<lb n="7" />gesetzt und sy in üwer statt uffgeschlagen, des er fere erschrocken, nach dem im davon
+<lb n="8" />nicht wissend gewesen sy er och das niemand bevolchen hab, darumb er ainen
+<lb n="9" />aid zuo gott und den hailigen vor unns hatt gesworen und uns gar ernstlich durch
+<lb n="10" />gottes willen gebetten, üwer früntschaft söllichs zuoschriben, damit er nit in unsicher
+<lb break="no" n="11" />haitt sin muess. Und wan er nu gar ain armer guoter gsell ist, der sich mit siner arbait
+<lb n="12" />in unnser statt begat und nit das er sich in die vindschaft nit hab haißen schriben und
+<lb n="13" />och davon nit wiss, ainen aide zuo gott und den hailigen gesworn hat, so bitten wir
+<lb n="14" />üwer guotten früntschaft mit ernst gar früntlich, soellicher absagung gegen im nit antze
+<lb break="no" n="15" />nemen noch in darumb zuo nehen, sonnder sicher zuo sagen, angesehen sin unschuld
+<lb n="16" />und üch umb unnsern willen so guettlich gegen im bewißen, als wir üch des nach
+<lb break="no" n="17" />verhandlung der sach wol getrüwen. Das statt uns in der glichen und vast merern sachen
+<lb n="18" />zuo beschulden und zuoverdienen. Und bitten darumb üwer früntlich verschriben anttwurt
+<lb n="19" />by dem botten. Geben am <origDate when="1468-08-01">mentag vor sannt Oswalds tag anno etc. LXVIIIvo</origDate>.
+<lb n="20" /><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister und raut
+<lb n="21" />der statt Costenntz</orgName>.
+<pb facs="StadtASG_Missive_395_806.JPG" n="2" />
+<lb n="22" />Den ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raut
+<lb n="23" />zuo sannt Gallen</orgName> unsern besonndern lieben und
+<lb n="24" />guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

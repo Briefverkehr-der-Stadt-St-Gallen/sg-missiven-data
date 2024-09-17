@@ -1,0 +1,121 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 672</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_672_1593/1594</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Überlingen bitten Bügermeister und Rat zu St. Gallen darum, sie aufgrund eines Versorgungsengpasses mit Butter zu versorgen. Dabei soll der Butter über Steinach mit dem Schiff, welches vom Überlinger Wochenmarkt Getreide nach Steinach führt und wieder zurückfährt, transportiert werden. Sollte die Butterknappheit nicht mehr bestehen, würden sie die St. Galler informieren.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-284">Kauf</term>
+<term ref="stadtasg-keywords-282">Schmalz</term>
+<term ref="stadtasg-keywords-224">Schiff</term>
+<term ref="stadtasg-keywords-143">Markt</term>
+<term ref="stadtasg-keywords-631">Wochenmarkt</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-440">Korn</term>
+<term ref="stadtasg-keywords-600">Aufruhr</term>
+<term ref="stadtasg-keywords-500">Bauer</term>
+<term ref="stadtasg-keywords-632">Butter</term>
+<term ref="stadtasg-keywords-144">Getreide</term>
+<term ref="stadtasg-keywords-346">Versorgung</term>
+<term ref="stadtasg-keywords-392">Belagerung</term>
+<term ref="stadtasg-keywords-440">Korn</term>
+<term ref="stadtasg-keywords-570">Not</term>
+
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-68">Bürgermeister und Rat zu Überlingen</orgName>                    <date>1548-07-18</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2024-02-05</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_672_1593.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser fründtlich willig dienst zuvor ersamen und weysen besonder
+<lb n="2"/>lieben unnd guten fründ. Wir haben noch unvergessen des fründt
+<lb break="no" n="3"/>lichen unnd nachpurlichen zuempietens, so ir verganngner peurischen
+<lb n="4"/>emperung gegen unns gethon haben, der gestalt wo wir schon von den auff
+<lb break="no" n="5"/>rigen pauren belegert, das ir unns mit schmaltz zu unnser notturfft
+<lb n="6"/>fürsehen unnd dagegen verhoffen welten, wir würden euch mit korn
+<lb n="7"/>auch nit verlassen. Welch eur erpieten wir domaln
+<lb n="8"/>zu sonnderm gefallen unnd hochdannckhparlich angenomen unnd
+<lb n="9"/>haben unns, wie ir sonnder zweyfel auch noch angedenckh seyt, hin
+<lb break="no" n="10"/>wider vernemen lassen, das ir unns im val unnd sunst nach eurm
+<lb n="11"/>begern willig unnd berait finden sollen. Doch hat gott der allmechtig
+<lb n="12"/>gnad verlihen, das ernennter zeit kain thail solch des anndern beschehen
+<lb n="13"/>erpieten, würckhlich zuvoltziehen bedurffen. Dieweyl aber
+<lb n="14"/>layder die sachen yetzo dermassen geschaffen, das unnsere burger one
+<lb n="15"/>grosse müe das schmaltz nit wol zuwegen bringen, so haben wir guter
+<lb n="16"/>mainung nit underlassen konden, euch angeruts eurs erpietens
+<lb n="17"/>zuerinnern unnd daneben ganntz fründtlich zepitten, von unnsert
+<lb break="no" n="18"/>wegen bemüt zesein unnd unns etlich wochen iede wochen innsonnder
+<lb n="19"/>bis in zwaintzig centen guts schmaltz, dartzu ir unnsers erachtens
+<lb n="20"/>umb euch unnd sonnderlich auff eurn märckhten fugklich und wol
+<lb n="21"/>komen mögen, verhelffen unnd zuschickhen unnd hierinn fürsehung
+<lb n="22"/>thun, das dasselbig schmaltz unns allweg in dem scheff, so auff unsern
+<lb n="23"/>wochenmarckht von <placeName ref="stadtasg-places-218">Stainach</placeName> herab fart unnd eurn burgern,
+<lb n="24"/>die bey unns getraid kauffen, solchs hinauff bis wider geen <placeName ref="stadtasg-places-218">Stainach</placeName>
+<lb n="25"/>fürn, gebracht werde, by welchem schiffman oder eurn burgern
+<lb n="26"/>ir unns auch iederzeit berichten, was ir von unnsertwegen darumb
+<lb n="27"/>ausgeben habt, das wellen wir, wie ir unns des beschaiden, als sich gepürt,
+<lb n="28"/>wider erlegen unnd zu gleich, wo ir unns deshalb ansuchen werden,
+<lb n="29"/>die eurn zum getraid zubefürdern, dartzu des in annderweg umb
+<lb n="30"/>euch unnser besonnder lieb unnd gut fründ zuverdienen willig unnd
+<lb n="31"/>berait sein. Wo auch möglich, das die erst fart des schmaltz auff
+<lb n="32"/>nechsten marckht angieng, das möchten wir leyden, so sich dann schickhen
+<lb n="33"/>wurde, das wir unns von anndern orten beschmaltzen konden, welten
+<lb n="34"/>wir euch füro der müe wider entladen unnd dasselbig allemal zeytlich
+<lb n="35"/>gnug zuschreiben eur antwurt, was wir unns hierauff getrösten und versehen
+<lb n="36"/>sollen by disem unnserm poten gewartend. Datum den <origDate when="1548-07-18">18 dentag iulii
+<lb n="37"/>anno 1548</origDate>.
+<lb n="38"/><orgName ref="stadtasg-actors-68" role="issuer">Burgermaister unnd rate der
+<lb n="39"/>statt Uberlingen</orgName>.
+<pb facs="StadtASG_Missive_672_1594.JPG" n="2"/>
+<lb n="40"/>Den ersamen unnd weysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rate
+<lb n="41"/>der statt sannt Gallen</orgName> unnsern besonnder lieben
+<lb n="42"/>unnd guten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

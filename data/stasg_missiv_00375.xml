@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 375</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00372.xml">372</ref>, <ref target="stasg_missiv_00373.xml">373</ref> und <ref target="stasg_missiv_00374.xml">374</ref>.</p></note></notesStmt>  
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_375_763/764</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die in Rapperswil versammelten eidgenössischen Räte fordern Bürgermeister und Rat zu St. Gallen dazu auf, den Erbschaftsstreit zwischen ihnen und dem Zürcher Bürger Othmar Ortwin zu beenden. Sie bieten sich als Schiedsgericht an. Eine schriftliche Antwort wird innert acht Tagen in Zürich erwartet.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-5">Erbe</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-2">Geleit</term>
+<term ref="stadtasg-keywords-156">Recht</term>
+<term ref="stadtasg-keywords-60">Schiedsgericht</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-9">Bote</term> 
+<term ref="stadtasg-keywords-630">Bruder</term> 
+<term ref="stadtasg-keywords-22">Konflikt</term>
+              </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-534">Eidgenössische Räte</orgName><placeName ref="stadtasg-places-225">Rapperswil</placeName>                    <date>1465-09-06</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName/>
+                <date>2021-04-12</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-06-18</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_375_763.JPG" n="1"/>
+<p>
+<lb n="1"/>Unser früntlich willig dienst zuo vor ersamen wisen besunder guette fründe und getrüwen lieben aydgenossen.
+<lb n="2"/>Die spenn und stoes enzüschen üch und <persName ref="stadtasg-actors-666">Othmaren Ortwinn</persName> uff erlouffen, dar umb dann unser und üwer besunder
+<lb n="3"/>guotten fründe und getrüwen lieben eydgenossen <orgName ref="stadtasg-actors-503">burgermeister und rat zuo Zürich</orgName> üch vile und dik und ir
+<lb n="4"/>wider umbe üwer antwurt und zuo letzt ain geschrift geben und geschickt, die wir denn ouch verlesen haben, und als wir
+<lb n="5"/>die sachen verstanden, so  begert der benant <persName ref="stadtasg-actors-666">Othmar Ortwinn</persName> des ersten, das er wider umb in das erb, so sin bruoder
+<lb n="6"/>saelig verschaft sol haben, gesetz werdi, und wenn das beschaech, so well er menklichen da by nach erbfals recht ains
+<lb n="7"/>rechten gestatten und sin. Ob ir aber soelichs zuo tuon nit vermainten, ouch nit fuegen welten, so haben ir im vor malen recht
+<lb n="8"/>für unser und üwer lieben und getrüwen aygnossen, <orgName ref="stadtasg-actors-503">burgermeister und rat zuo Zürich</orgName>, ouch unser und üwer lieben und ge
+<lb break="no" n="9"/>trüwen guot fründ <orgName ref="stadtasg-actors-56">burgermeister und rat der statt Costentz</orgName> und <orgName ref="stadtasg-actors-511">Lindouw</orgName> fürgeschlagen, da er die obgenanten unser
+<lb n="10"/>lieb und getrüw aydgnossen von <placeName ref="stadtasg-places-32">Zürich</placeName> uff genomen hab, begibt sich noch hüt betag soellichs und meint die uff
+<lb n="11"/>mit üch soellichs siner stoes und spenn für si zuo recht zekomen. Und ob üch daz nit eben sin welte, so wil er mit üch ze minn
+<lb n="12"/>und zuo recht komen für gemeiner aydgnossen ratzfründ oder für yetlich ort, besunder vermeint ouch, da mit üch gnuog
+<lb n="13"/>gethan habe. Har umb besundern guotten fründe und getrüwen lieben aydgnossen ist unser ernstlich begeren zuo üch
+<lb n="14"/>bittende, soellich weg einen uff zenemen und im sines für nementz gestatten wellen, da mit soelich stoess und spenn hin
+<lb n="15"/>geleit und abweg getan und wir füro sines überlouffens vertragen werden, dar an ir ouch unser allen sunder frütschaft und
+<lb n="16"/>dienst bewisten, ouch das in soellichen und der glich sachen mindren und meren gern und mit willen verdienen. Üwer verschriben
+<lb n="17"/>antwurt gen <placeName ref="stadtasg-places-32">Zürich</placeName> in <date when="1465-09-14">achtagen</date>. Geben zuo <origPlace ref="stadtasg-places-225">Rapperswil</origPlace> und besigelt mit des ersamen und wisen <persName ref="stadtasg-actors-667">Hansen Ritzis</persName>, alten
+<lb n="18"/>schultheisen zuo <placeName ref="stadtasg-places-69">Lutzern</placeName>, unsers liben und getrüwen aydgnossen insigel von unser allen wegen an <origDate when="1465-09-06">sant Magen tag
+<lb n="19"/>anno domini etc. LXVo etc</origDate>.
+<lb n="20"/><orgName ref="stadtasg-actors-534" role="issuer">Gemeiner eydgnossen ratz fründe</orgName>
+<lb n="21"/>yetz zuo <placeName ref="stadtasg-places-225">Rapperschwil</placeName> by einander.
+<pb facs="StadtASG_Missive_375_764.JPG" n="2"/>
+<lb n="22"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und ratte zuo sant Gallen</orgName>
+<lb n="23"/>unsern besunderen guotten fründen und getrüwen liben eydgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

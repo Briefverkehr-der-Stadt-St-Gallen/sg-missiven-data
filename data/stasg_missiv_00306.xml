@@ -42,12 +42,12 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sent">
-                    <orgName ref="stadtasg-actors-534">Eidgenossenschaft</orgName>
+                    <orgName ref="stadtasg-actors-534">Eidgenössische Räte</orgName>
                     <placeName ref="stadtasg-places-32">Zürich</placeName>
                     <date>1454-07-29</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

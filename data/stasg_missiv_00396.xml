@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 396</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_396_807/808</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich bitten Bürgermeister und Rat zu St. Gallen in einem Konflikt um eine Geldforderung in der Höhe von 6 Gulden des St. Galler Bürgers Konrad Flar aus Konstanz gegenüber der Priorin und dem Konvent des Klosters Töss um Unterstützung. Flar drohe damit, das Kloster vor ein fremdes Gericht zu ziehen. Dies sei zu verhindern, und der Fall sei entweder vom Zürcher Bürgermeister und Rat oder Winterthurer Schultheiss und Rat zu behandeln. Die Zürcher bitten um eine schriftliche Antwort mit dem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-555">Schuldenerlass</term>
+<term ref="stadtasg-keywords-420">Priorin</term>
+<term ref="stadtasg-keywords-380">Konvent</term>
+<term ref="stadtasg-keywords-115">Kloster</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-525">Gulden</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-58">Drohung</term>
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName> <placeName ref="stadtasg-places-32">Zürich</placeName>                    <date>1468-10-17</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName> <placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-09-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_396_807.JPG" n="1" />
+<p>
+<lb n="1" />Unnser fruntlich willig dienst und was wir in allen sachen guotz vermoegend alle zitt zuovor ersamen
+<lb n="2" />wisen besundern guotten frund und getrüwen lieben eidgnosen. Die erwirdigen geistlichen unser lieben
+<lb n="3" />andechtigen die pryorin und convent des <placeName ref="stadtasg-places-238">closters zuo Thöß</placeName> habent uns furbrachtt, wie das üwer
+<lb n="4" />burger <persName ref="stadtasg-actors-717">Chuonratt Flar</persName> von <placeName ref="stadtasg-places-7">Costentz</placeName> sy anspreche als umb sechs guldin geltz harruerent von sins
+<lb n="5" />schwechers seiligen wegen und inen trowe, sy darumb uff froemde gericht ze laden und da mit zebekümbren,
+<lb n="6" />das uns an inn befroemdett, denn sy redent und meinent, das sy sich warlichen erfinden solle, das sy im
+<lb n="7" />by solichen sechs guldin geltz gar nützit schuldig syent und die abgeloest habint. Darumb so bittent
+<lb n="8" />und begerent wir an üch mit ernstlichem vlis, ir woellend mit dem obgenanten uwerm burger ver
+<lb break="no" n="9" />schaffen und daran sin, das er die obgenanten frowen zuo <placeName ref="stadtasg-places-239">Thös</placeName> solicher sach halb mit fromden gerichten
+<lb n="10" />gantz unbekümbertt lasse, und ob er sy ansprach, darumb von inen nit erlasse moege oder woelle
+<lb n="11" />sich darumb von inen rechtz vor uns oder unsern lieben getrüwen <orgName ref="stadtasg-actors-718">schultheisen und ratte zuo Winter
+<lb break="no" n="12" />thur</orgName> benuegen lasse, des sy im ouch, an wedrem end er wil, gehorsam sin woellend, wenn er des von
+<lb n="13" />inen begertt. Das wollend wir umb üwer wyßheit und guotten fruntschafftt in solichen und andern
+<lb n="14" />sachen fruntlichen beschulden und verdienen, wo sich das fuegen wirtt. Und begerent harumb üwer
+<lb n="15" />verschriben antwurtt by disem botten. Geben uff <origDate when="1468-10-17">mentag nach sant Gallen tag anno etc. LXVIIIvo</origDate>.
+<lb n="16" /><orgName ref="stadtasg-actors-503" role="issuer">Burgermeister und ratte
+<lb n="17" />der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_396_808.JPG" n="2" />
+<lb n="18" />Den ersamen wisen unsern besundern guotten frunden
+<lb n="19" />und getrüwen lieben eidgnosen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermeister
+<lb n="20" />und ratte zuo Santgallen</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -27,8 +27,8 @@
         <profileDesc>
             <abstract>
                 <p>Herzog Albrecht von Österreich informiert Bürgermeister und Rat zu St. Gallen
-                    über einen Überfall auf seinen Berater Bilgeri von Heudorf und bittet sie, ihn
-                    bei seinen Bemühungen um Friedenswahrung zu unterstützen.</p>
+                    über einen Überfall der Fulacher und Roggwiler auf die Burg seines Beraters Bilgeri von Heudorf und bittet sie, ihn
+                    bei seinen Bemühungen um Friedenswahrung zu unterstützen. Die Fulacher Brüder erobern sich die Burg Laufen von Bilgeri zurück, nachem er diese aufgrund vermeintlicher Erbansprüche 1448 besetzt hatte. </p>
             </abstract>
             <langUsage>
                 <language ident="deu">Deutsch</language>
@@ -50,7 +50,7 @@
                     <date>1449-07-01</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

@@ -26,7 +26,7 @@
         <profileDesc>
             <abstract>
                 <p>König Friedrich III. teilt Bürgermeister und Rat zu St. Gallen mit, dass sie zur
-                    Bekämpfung der Armagnaken zwölf Reiter, darunter Schützen, stellen sollen, die
+                    Bekämpfung der Armagnaken 12 Reiter, darunter Schützen, stellen sollen, die
                     sich am 16. Oktober in Strassburg einfinden sollen.</p>
             </abstract>
             <langUsage>
@@ -56,7 +56,7 @@
                     <date>1444-09-25</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

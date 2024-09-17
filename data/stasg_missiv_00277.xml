@@ -7,7 +7,7 @@
             <publicationStmt>
                 <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
             </publicationStmt>
-            <notesStmt><note><p>Die erwähnte Beilage, das heisst die Ordnung selbst, ist nicht vorhanden. Zur Sache siehe auch die Missive Nr. 276.</p></note></notesStmt>            <sourceDesc>
+            <notesStmt><note><p>Die erwähnte Beilage, das heisst die Ordnung selbst, ist nicht vorhanden. Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00276.xml">276</ref>.</p></note></notesStmt>            <sourceDesc>
                 <msDesc type="missiv">                    <msIdentifier>
                         <idno>StadtASG Missive_277_559/560</idno>
                     </msIdentifier>
@@ -44,7 +44,7 @@
                     <orgName ref="stadtasg-actors-521">Ammann und Rat zu Bregenz</orgName>                    <date>1453-01-10</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
             </correspDesc>
         </profileDesc>
         <revisionDesc>

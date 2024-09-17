@@ -22,7 +22,7 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Jos Gössler bittet Bürgermeister und Rat zu St. Gallen zum wiederholten Mal, ihm seinen ausstehenden Lohn von 3 Pfund zu schicken. Der Stadtrat habe ihm diese Summe zugsprochen, und der damalige Säckelmeister Senn hätte den Auftrag gehabt, ihn zu bezahlen, was aber nicht geschehen sei. Er bittet darum, das Geld seinem Schwager, Überbringer des Briefs, auszuhändigen.</p>            </abstract>
+                <p>Jos Gössler bittet Bürgermeister und Rat zu St. Gallen zum wiederholten Mal, ihm seinen ausstehenden Lohn von drei Pfund zu schicken. Der Stadtrat habe ihm diese Summe zugsprochen, und der damalige Säckelmeister Senn hätte den Auftrag gehabt, ihn zu bezahlen, was aber nicht geschehen sei. Er bittet darum, das Geld seinem Schwager, Überbringer des Briefs, auszuhändigen.</p>            </abstract>
             <langUsage>
                 <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
@@ -44,7 +44,7 @@
                     <persName ref="stadtasg-actors-616">Jos Gössler</persName> <placeName ref="stadtasg-places-24">Lindau</placeName>                    <date>1459-02-12</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
             </correspDesc>
         </profileDesc>
         <revisionDesc>
@@ -75,7 +75,7 @@
 <lb n="9"/>des ain ratt noch min buocher der saelben raechnung ine
 <lb n="10"/>hatt, und do die raechnung geschach lang dar nach, kam
 <lb n="11"/>ich erst für ain ratt von des lons waegen, do bekantt
-<lb n="12"/>ain ratt, das man mir soeltt gen III <abbr>lb.</abbr> <abbr>den.</abbr> und apfolt
+<lb n="12"/>ain ratt, das man mir soeltt gen III <choice><abbr>lb.</abbr><expan>Pfund</expan></choice> <choice><abbr>den.</abbr><expan>Denar</expan></choice> und apfolt
 <lb n="13"/>man dem <persName ref="stadtasg-actors-619">Sennen</persName>, der war do zuo mal sekler der
 <lb n="14"/>statt, das er mirs soelt gen, also han ich es an lassen
 <lb n="15"/>ston. Waist aber ain ratt oder iemen, das man mir dz
@@ -88,7 +88,7 @@
 <lb n="22"/>gaeben an der zerung, so ich by im thuon han ietz nitt me.
 <lb n="23"/>Gaeben zuo <origPlace ref="stadtasg-places-24">Lindow</origPlace> uff <origDate when="1459-02-12">mentag naechst nach der altten
 <lb n="24"/>vasnacht Mo CCCCo LVIIII iar</origDate>.
-<lb n="25"/>Von mir <persName ref="stadtasg-actors-616" role="issuer">Ios
+<lb n="25"/>Von mir <persName ref="stadtasg-actors-616" role="issuer">Jos
 <lb n="26"/>Goessler</persName>.
 <pb facs="StadtASG_Missive_344_694.JPG" n="2"/>
 <lb n="27"/>Den ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und ratt zuo santt

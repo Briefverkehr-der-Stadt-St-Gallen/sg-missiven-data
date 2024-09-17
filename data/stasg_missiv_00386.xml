@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 386</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00361.xml">361</ref>, <ref target="stasg_missiv_00363.xml">363</ref>, <ref target="stasg_missiv_00364.xml">364</ref>, <ref target="stasg_missiv_00365.xml">365</ref>, <ref target="stasg_missiv_00376.xml">376</ref>, <ref target="stasg_missiv_00379.xml">379</ref> und <ref target="stasg_missiv_00388.xml">388</ref>.</p></note></notesStmt>   
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_386_785/786</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Georg Rem bittet in Eile Johannes Utz, Stadtschreiber in St. Gallen, um Informationen bezüglich der Acht- und Schuldbriefe betreffend die Herren von Klingenberg, Homburg und Friedingen. Er zählt die Kosten für Neuausfertigungen auf. Er rät, ihm die alten Urkunden zuzustellen, weil sonst Auslagen für die Suche im Achtbuch anfallen. Weiter bittet er um Angabe, ob die Urkunden mit teureren angehängten oder nur mit aufgedrückten Siegeln beglaubigt sein sollen.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-639">Achtbrief</term>
+                    <term ref="stadtasg-keywords-50">Acht</term>
+<term ref="stadtasg-keywords-151">Schuldbrief</term>
+<term ref="stadtasg-keywords-56">Urkunde</term>
+<term ref="stadtasg-keywords-194">Hofgericht</term>
+<term ref="stadtasg-keywords-211">Kosten</term>
+<term ref="stadtasg-keywords-473">Eile</term>
+<term ref="stadtasg-keywords-640">Achtbuch</term>
+<term ref="stadtasg-keywords-159">Stadtschreiber</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-676">Georg Rem</persName>                    <date>1467-02-26</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-668">Johannes Utz</persName>  <placeName ref="stadtasg-places-38">St. Gallen</placeName>          </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName/>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="approved">
+                <persName>NSch</persName>
+                <date>2024-07-29</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_386_785.JPG" n="1"/>
+<p>
+<lb n="1"/>Min gar früntlich willig denste sigen üch zuovor fürnemer wiser sonder lieber
+<lb n="2"/>herr und gunner. Üwer schriben mir yetz getan hab ich verlesen, und den er
+<lb break="no" n="3"/>volgsbrieff hab ich gehept und schick üch den hie by. Als ir dann melden,
+<lb n="4"/>wie in ainem anlaitbrieflin etwas misschriben sig des sigels halp
+<lb n="5"/>lassend üch nit irren, dann an den selben brieflin ist nichtzit gelegen,
+<lb n="6"/>man bedarff si ouch niender herfür ziehen noch bruchen, dann es ligt
+<lb n="7"/>alles an den zwayn grossen briefen, und die klainen brieflin
+<lb n="8"/>die bruchet man allain uff dem hofgericht, die grossen briefe da
+<lb n="9"/>durch zuo erlangen. Und als ir mir schribend, uch noch IIII aucht
+<lb break="no" n="10"/>brieff zeschiken und schribend doch nit, ob die mit anhangenden
+<lb n="11"/>insigel oder mit uffgedrukten insigeln  sin sölln, zuo dem so
+<lb n="12"/>ich die alten auchtbrieff nit hab, so müst ich von yeglichem
+<lb n="13"/>echter V <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> <choice><abbr>h.</abbr><expan>Heller</expan></choice> zesuochen im auchtbuch geben, ee man mir die aucht
+<lb break="no" n="14"/>brieff schribe. Da hab ich sorg, das mine herren und üch der kost
+<lb n="15"/>beduren würd. Und damit es zum nechsten zuogang, so ist
+<lb n="16"/>min rat, das ir mir schiken die alten zwen auchtbrieff, so ir
+<lb n="17"/>hand über <orgName ref="stadtasg-actors-679">Clingemberg</orgName>, <persName ref="stadtasg-actors-675">Homburg</persName> und <persName ref="stadtasg-actors-681">Fridingen</persName>, so be
+<lb break="no" n="18"/>darff ich nit me dann die auchtbriefe slechtlich betzalen. Und
+<lb n="19"/>wöllen ir dan mit anhangenden  insigeln haben, so schicken
+<lb n="20"/>mir XVI <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> <choice><abbr>dn.</abbr><expan>Denar</expan></choice>, wöllen ir aber mit uffgedruckten insigeln
+<lb n="21"/>haben, so schicken mir X <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> <choice><abbr>dn.</abbr><expan>Denar</expan></choice> für IIII auchtbrief, und man
+<lb n="22"/>ersparet mit den alten auchtbrief XV <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> <choice><abbr>dn.</abbr><expan>Denar</expan></choice> Darnach ir üch
+<lb n="23"/>nun wol wissent zerechten und mir als uwerm willigen
+<lb n="24"/>altzit zuo gebietten. Geben mit yl an <origDate when="1467-02-26">donrstag vor Oculi anno LXVIImo</origDate>.
+<lb n="25"/><persName ref="stadtasg-actors-676" role="issuer">Jörg Rem</persName>.
+<pb facs="StadtASG_Missive_386_786.JPG" n="2"/>
+<lb n="26"/>Dem fürnemen ersamen und wysen
+<lb n="27"/><persName ref="stadtasg-actors-668" role="recipient">Hanns Uotz</persName>, stattschriber zuo <placeName ref="stadtasg-places-38">sant Gallen</placeName>
+<lb n="28"/>minen besonder lieben herren und gunner.
+</p>
+        </body>
+    </text>
+</TEI>

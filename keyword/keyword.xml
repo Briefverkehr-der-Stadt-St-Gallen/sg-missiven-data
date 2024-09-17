@@ -10,7 +10,7 @@
         <sponsor>Ortsbürgergemeinde St. Gallen</sponsor>
       </editionStmt>
       <publicationStmt>
-        <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+        <publisher/>
         <pubPlace>St. Gallen</pubPlace>
         <date when="2024">2024</date>
         <availability>
@@ -18,12 +18,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-04-19 15:20:27 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
+        <p>Datenbankexport vom 2024-09-17 19:31:55 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2024-04-19T15:20:27+02:00">teiHeader was automatically produced from the database 2024-04-19T15:20:27+02:00</change>
+      <change when="2024-09-17T19:31:55+02:00">teiHeader was automatically produced from the database 2024-09-17T19:31:55+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -4083,9 +4083,6 @@
               <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/almsgiving"/>
             </bibl>
             <bibl>
-              <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/01328f.htm"/>
-            </bibl>
-            <bibl>
               <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh87007633"/>
             </bibl>
             <bibl>
@@ -4349,13 +4346,22 @@
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Anathema"/>
             </bibl>
             <bibl>
-              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q211517"/>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q49822"/>
             </bibl>
             <bibl>
-              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/anathema"/>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/excommunication"/>
             </bibl>
             <bibl>
-              <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/01455e.htm"/>
+              <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/142102"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4153322-7"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh85046257"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/009625"/>
             </bibl>
           </listBibl>
         </item>
@@ -4907,6 +4913,122 @@
         <item xml:id="stadtasg-keywords-632">
           <label xml:lang="de" type="main">Butter</label>
           <label xml:lang="de" type="sort">butter</label>
+        </item>
+        <item xml:id="stadtasg-keywords-634">
+          <label xml:lang="de" type="main">Jagd</label>
+          <label xml:lang="de" type="sort">jagd</label>
+        </item>
+        <item xml:id="stadtasg-keywords-635">
+          <label xml:lang="de" type="main">Kanzlei</label>
+          <label xml:lang="de" type="sort">kanzlei</label>
+        </item>
+        <item xml:id="stadtasg-keywords-636">
+          <label xml:lang="de" type="main">Hofmeister</label>
+          <label xml:lang="de" type="sort">hofmeister</label>
+        </item>
+        <item xml:id="stadtasg-keywords-637">
+          <label xml:lang="de" type="main">Kanonissenstift</label>
+          <label xml:lang="de" type="sort">kanonissenstift</label>
+        </item>
+        <item xml:id="stadtasg-keywords-638">
+          <label xml:lang="de" type="main">Prokurator</label>
+          <label xml:lang="de" type="sort">prokurator</label>
+          <note type="description" xml:lang="de">
+            <p>Bevollmächtigter, Sachverwalter</p>
+          </note>
+          <listBibl>
+            <bibl>
+              <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/171076"/>
+            </bibl>
+          </listBibl>
+        </item>
+        <item xml:id="stadtasg-keywords-639">
+          <label xml:lang="de" type="main">Achtbrief</label>
+          <label xml:lang="de" type="sort">achtbrief</label>
+          <listBibl>
+            <bibl>
+              <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/101946"/>
+            </bibl>
+          </listBibl>
+        </item>
+        <item xml:id="stadtasg-keywords-640">
+          <label xml:lang="de" type="main">Achtbuch</label>
+          <label xml:lang="de" type="sort">achtbuch</label>
+          <listBibl>
+            <bibl>
+              <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/101947"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Achtbuch"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q12270042"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4141282-5"/>
+            </bibl>
+          </listBibl>
+        </item>
+        <item xml:id="stadtasg-keywords-641">
+          <label xml:lang="de" type="main">Zunft</label>
+          <label xml:lang="de" type="sort">zunft</label>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Zunft"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q170161"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh85057744"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/013729"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4068112-9"/>
+            </bibl>
+          </listBibl>
+        </item>
+        <item xml:id="stadtasg-keywords-642">
+          <label xml:lang="de" type="main">Kardinal</label>
+          <label xml:lang="de" type="sort">kardinal</label>
+        </item>
+        <item xml:id="stadtasg-keywords-643">
+          <label xml:lang="de" type="main">Magd</label>
+          <label xml:lang="de" type="sort">magd</label>
+        </item>
+        <item xml:id="stadtasg-keywords-644">
+          <label xml:lang="de" type="main">Spruchbrief</label>
+          <label xml:lang="de" type="sort">spruchbrief</label>
+          <listBibl>
+            <bibl>
+              <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/191582"/>
+            </bibl>
+          </listBibl>
+        </item>
+        <item xml:id="stadtasg-keywords-645">
+          <label xml:lang="de" type="main">Gnadenbrief</label>
+          <label xml:lang="de" type="sort">gnadenbrief</label>
+          <listBibl>
+            <bibl>
+              <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/126308"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Gnadenbrief"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1533014"/>
+            </bibl>
+          </listBibl>
+        </item>
+        <item xml:id="stadtasg-keywords-646">
+          <label xml:lang="de" type="main">Katholisch</label>
+          <label xml:lang="de" type="sort">katholisch</label>
+        </item>
+        <item xml:id="stadtasg-keywords-647">
+          <label xml:lang="de" type="main">Evangelium</label>
+          <label xml:lang="de" type="sort">evangelium</label>
         </item>
       </list>
       <p/>

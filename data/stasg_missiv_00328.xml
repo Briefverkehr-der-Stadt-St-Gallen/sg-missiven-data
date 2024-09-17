@@ -22,7 +22,7 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Ulrich Spät von Rorschach informiert Bürgermeister und Rat zu St. Gallen darüber, dass er, wie in einer vergangenen Gerichtsverhandlung entschieden, im Streit mit Hans Zerhoch um einen Zehnt, so gehandelt habe, wie entschieden wurde. Allerdings sei er (Spät) dem Zerhoch keinen Zehnten schuldig. Da der Fall nun an das Pfalzgericht der Benediktinerabtei St. Gallen weitergeleitet wurde, wolle er tun, was dort entschieden werde.</p>            </abstract>
+                <p>Ulrich Spät von Rorschach informiert Bürgermeister und Rat zu St. Gallen darüber, dass er, wie in einer vergangenen Gerichtsverhandlung entschieden, im Streit mit Hans Zerahoch um einen Zehnt, so gehandelt habe, wie entschieden wurde. Allerdings sei er (Spät) dem Zerahoch keinen Zehnten schuldig. Da der Fall nun an das Pfalzgericht der Benediktinerabtei St. Gallen weitergeleitet wurde, wolle er tun, was dort entschieden werde.</p>            </abstract>
             <langUsage>
                 <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
@@ -44,7 +44,7 @@
                     <persName ref="stadtasg-actors-623">Ulrich Spät</persName>                    <date>1456-07-14</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
             </correspDesc>
         </profileDesc>
         <revisionDesc>

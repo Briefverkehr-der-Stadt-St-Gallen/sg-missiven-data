@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 397</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Schön erhaltenes Wachssiegel mit den Stadtheiligen von Zürich.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_397_809/810</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die in Zürich versammelten eidgenössischen Ratsboten schreiben Bürgermeister und Rat zu St. Gallen im Streit des Zürcher Bürgers Martin Benz und des Unterwaldner Landmanns Hans von Eggenberg einerseits und den St. Galler Bürgern Strauss und ihrem Partner Klaus Stoss. Sie hätten die St. Galler um Behandlung im grossen Rat gebeten, aber es sei darauf noch keine Antwort erfolgt. Sie bitten nun um die Herausgabe der Korrespondenz. Zudem sollen Bürgermeister und Rat zu St. Gallen die Bürgschaft der Strauss aufheben, da sie ohnehin Zürcher Bürger und bei ihnen wohnhaft seien. Sie bitten um eine schriftliche Antwort mit dem gleichen Boten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-65">Fürbitte</term>
+<term ref="stadtasg-keywords-20">Bürgschaft</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-345">Zeiger</term>
+<term ref="stadtasg-keywords-526">Ratsbote</term>
+<term ref="stadtasg-keywords-130">Ratsdelegation</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-534">Eidgenössische Räte</orgName><placeName ref="stadtasg-places-32">Zürich</placeName>                    <date>1468-12-15</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-09-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_397_809.JPG" n="1" />
+<p>
+<lb n="1" />Unser früntlich willig dienste und was wir eren liebs und guots vermoegent zuovor ersamen wisen sundern
+<lb n="2" />guotten fründe und getrüwen lieben eidgnossen. Uns zwivelt nit, üch sye noch wol indenckig das
+<lb n="3" />anbringen üwer burger die <orgName ref="stadtasg-actors-722">Strussen</orgName> an einem und <persName ref="stadtasg-actors-723">Claus Stossen</persName>, iren gemeinder, am andern teile
+<lb n="4" />ouch unser lieben eidgnossen von <placeName ref="stadtasg-places-32">Zürich</placeName> und <placeName ref="stadtasg-places-72">Underwalden</placeName> burger und lantmann <persName ref="stadtasg-actors-724">Martin Bentzen</persName>
+<lb n="5" />und <persName ref="stadtasg-actors-725">Hannsen von Eggenberg</persName>, als die den ietz die sachen zuo versprechen stand und übergeben sind,
+<lb n="6" />beruerende von unser lieben eidgnossen von <placeName ref="stadtasg-places-32">Zürich</placeName> und <placeName ref="stadtasg-places-72">Underwalden</placeName> erbern ratzbottschafften
+<lb n="7" />an üch beschechen und die antwuert inen von üch gegeben, das ir das an üwern grossen rat
+<lb n="8" />bringen und denne darumb üwer unverzogenlich antwuert unser lieben eidgnossen von <placeName ref="stadtasg-places-32">Zürich</placeName>
+<lb n="9" />oder <placeName ref="stadtasg-places-72">Underwalden</placeName> ingeschrifft wissen lassen wellint, das aber von üch noch nit beschechen ist.
+<lb n="10" />Harumb so werdent wir von den obgenanten <persName ref="stadtasg-actors-724">Marty Bentzen</persName> und <persName ref="stadtasg-actors-725">Hannsen von Eggenberg</persName>, als den
+<lb n="11" />so die sachen zuostand, umb fürdernusse inen die an üch zegeben ernstlich angeruefft und gebetten,
+<lb n="12" />das die obgenanten <orgName ref="stadtasg-actors-722">Strussen</orgName> von üch ire bürgschafft deßhalb  getan, erlassen und inen des sust
+<lb n="13" />vertruwet werde, wan sy doch üwer burger und by üch wonhafft und inen die sachen nit
+<lb n="14" />mer zuestan sigint, und ouch das ir inen ettlich brieffe, so ir hinder üch ligen habint und
+<lb n="15" />die zuo den sachen dienint, dero sy zuo bruchen gegen dem obgenanten <persName ref="stadtasg-actors-723">Stossen</persName>, als er denne
+<lb n="16" />lantroemig notdurfftig sigint, heruß zuo iren handen die nach ir notdurfft zuobruchen
+<lb n="17" />geben woellint, als ir das und anders denne von unser lieben eidgnossen von <placeName ref="stadtasg-places-32">Zürich</placeName> erber
+<lb n="18" />ratzbotschafft, zoeiger diß brieffs, muntlich ouch wol underricht moegent werden, also soelicher
+<lb n="19" />ir zimlicher bitte und begerunge, als uns bedunckt, das die zimlich sye. Nach ist zuo
+<lb n="20" />üch unser ernstlich bitte und begerunge, die benanten <orgName ref="stadtasg-actors-722">Strussen</orgName> ir bürgschafft guettlich und
+<lb n="21" />one lenger vertzüchen zuo erlassen und ledig zuo zelen und inen sust one bürgschafft, nach
+<lb n="22" />dem sy üwer burger und erlich harkomen sind, zuo vertruwen, ouch die brieffe zuo den
+<lb n="23" />sachen dienende, den obgenanten <persName ref="stadtasg-actors-724">Marty Bentzen</persName> und <persName ref="stadtasg-actors-725">Hannsen von Eggenberg</persName> heruß zuo
+<lb n="24" />geben und die zuo iren handen komen und nach aller ir notdurfft bruchen zuo lassent
+<lb n="25" />und uns sölich unser zimlich bitte nit abzeziehen noch zuoversagen, sunder üch har inne
+<lb n="26" />so guottwilliklich zebewisen, das sy empfinden moegen, inen soelich unser bitte fruchtber
+<lb n="27" />gegen üch gewesen sye und sy dero genossen habint, als wir üch des gentzlich getruwen.
+<lb n="28" />Das wil uns umb üch in der glich sachen, wa das an uns von üch begert wirdet, zuo be
+<lb break="no" n="29" />schulden sin. Geben und von unser aller wegen mit unser lieben eidgnossen von <placeName ref="stadtasg-places-32">Zürich</placeName>
+<lb n="30" />insigel dem mindern versigelt uff <origDate when="1468-12-15">donrstag vor sant Thomas des heiligen apposteln
+<lb n="31" />tage anno etc. LXoctavo</origDate>. Üwer verschriben antwuert by disem botten.
+<lb n="32" /><orgName ref="stadtasg-actors-534" role="issuer">Gemeiner eidgnossen von stetten und lendern
+<lb n="33" />ratzbotten</orgName>, als wir uff <date when="1468-12-11">sontag nach sant
+<lb n="34" />Niclas</date> zuo <origPlace ref="stadtasg-places-32">Zurich</origPlace> byeinander versamlet gewesen sind.
+<pb facs="StadtASG_Missive_397_810.JPG" n="2" />
+<lb n="35" />Den ersamen und wisen unsern besundern guotten fründen
+<lb n="36" />und getrüwen lieben eidgnossen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermeister
+<lb n="37" />und ratte zuo sant Gallen</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

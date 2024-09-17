@@ -25,7 +25,7 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Marquart Brisacher teilt Bürgermeister und Rat zu St. Gallen mit, dass die
+                <p>Marquard Brisacher teilt Bürgermeister und Rat zu St. Gallen mit, dass die
                     Auseinandersetzung zwischen dem St. Galler Bürger Ulrich Engler und Pulsterholz
                     vor dem Gericht des Bischofs von Konstanz ausgetragen werden sollte, da die
                     Auseinandersetzung in Bischofszell geschah, und zudem Egli Weber, der dem Abt
@@ -57,7 +57,7 @@
                     <date>1444-06-08</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

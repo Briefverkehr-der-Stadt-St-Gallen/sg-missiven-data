@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 383</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00376.xml">376</ref>, <ref target="stasg_missiv_00377.xml">377</ref>, <ref target="stasg_missiv_00381.xml">381</ref>, <ref target="stasg_missiv_00384.xml">384</ref> und <ref target="stasg_missiv_00385.xml">385</ref>.</p></note></notesStmt>   
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_383_779/780</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Georg Rem bittet Johannes Utz, Stadtschreiber in St. Gallen, nochmals um Begleichung seiner Geldforderungen. Er habe bislang keine Antwort auf seine Briefe erhalten und bittet darum.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-174">Rechnung</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+<term ref="stadtasg-keywords-159">Stadtschreiber</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-676">Georg Rem</persName>                    <date>1466-10-10</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-668">Johannes Utz</persName> <placeName ref="stadtasg-places-38">St. Gallen</placeName>               </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName/>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2024-07-29</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_383_779.JPG" n="1"/>
+<p>
+<lb n="1"/>Fürnemer wiser sonder lieber herr und gunner min gar früntlich willig
+<lb n="2"/>denste sigen uch zuovor. Ich hab uch gar vor guoter wyl geschriben,
+<lb n="3"/>wie ich die bevolgung uff die von <orgName ref="stadtasg-actors-679">Clingemberg</orgName> hab ußbracht
+<lb n="4"/>und daby, was die sach alle gestanden hab, zuo versteend geben, und
+<lb n="5"/>trifft sich uff X gulden werung I ort und solich briefe üwerm sweher
+<lb n="6"/>gen <placeName ref="stadtasg-places-7">Costentz</placeName> geschikt, im daby geschriben und gebetten, uch söllich
+<lb n="7"/>schrifften zuo zeschiken. Mir ist kain antwurt von üch komen,
+<lb n="8"/>mir ist ouch kain gelt worden, wie wol ich doch dis alles ußge
+<lb break="no" n="9"/>richt hab, es sige dann umb etlich stuk in der selben miner schrifft
+<lb n="10"/>üch zuo verstend geben in hoffnung, ir mins schadens nit begeren
+<lb n="11"/>sigen, dar an mir ouch gantz kain zwifel lit, was mir dann nit
+<lb n="12"/>zuogehortin, wölt ich ontzwyfel ouch nit haben, wie wol ich doch
+<lb n="13"/>in der ersten sach irrig gewesen bin, schaffet min unmuoß, doch
+<lb n="14"/>hab ich dz selb fallen lassen, dann der selben rechnung kan ich nit me
+<lb n="15"/>nachkomen. Nun hett ich üch gern die briefe alle geschickt,
+<lb n="16"/>do hatt ich sorg, dz die und sonder der hoptbrieff verloren oder
+<lb n="17"/>entwert wurden. Herumb lieber herr und gunner, so wöllen
+<lb n="18"/>die briefe zuo üwer herren hannden nemen und mir min obgemelt
+<lb n="19"/>gelt, namlich zehen gulden werung, am ort schiken und mich ouch
+<lb n="20"/>minen herren von <placeName ref="stadtasg-places-38">sant Gallen</placeName> zuo denst bevelhen, des ich ouch
+<lb n="21"/>zetuond willig bin. Das wil ich umb uch mit willen verdienen,
+<lb n="22"/>und disem botten tuond ain erung, dann er sprach, er hett sust nichtzit
+<lb n="23"/>by üch zuo schaffen. So wolt ichs ouch lenger nit anston lassen,
+<lb n="24"/>sonder ye bericht werden, ob uch min vorgend gschrifft worden
+<lb n="25"/>were oder nit. Datum <origDate when="1466-10-10">VIta post Dionisy anno etc. LXVIto</origDate>.
+<lb n="26"/><persName ref="stadtasg-actors-676" role="issuer">Jörg Rem</persName>.
+<pb facs="StadtASG_Missive_383_780.JPG" n="2"/>
+<lb n="27"/>Dem fürnemen wisen <persName ref="stadtasg-actors-668" role="recipient">Johannes Uotz</persName>,
+<lb n="28"/>stattschriber zuo <placeName ref="stadtasg-places-38">sant Gallen</placeName> minem
+<lb n="29"/>lieben herren und gunner.
+</p>
+        </body>
+    </text>
+</TEI>

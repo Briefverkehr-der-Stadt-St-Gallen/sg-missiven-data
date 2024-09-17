@@ -65,6 +65,10 @@
 - `<abbr>`
   - Anzeige: Text NICHT in eckige Klammer, nur grau
   - Popup:  Abkürzung
+- `<choice><abbr></abbr><expan></expan></choice>`
+  -	Anzeige: Text NICHT in eckige Klammer, nur grau
+  -	Popup: Inhalt von <expan></expan>
+
 
 ## Registerdaten
 

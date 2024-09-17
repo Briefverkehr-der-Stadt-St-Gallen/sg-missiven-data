@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 369</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_369_745/746</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Frauenfeld informieren Bürgermeister und Rat zu St. Gallen darüber, dass Hugo von Landenberg und Michael Zwick den Termin der Gerichtsverhandlung vom 28. März nicht einhalten könnten, da Hugo von Landenberg an diesem Tag einen anderen Gerichtstermin warnehmen müsse. Sie bitten um einen neuen Termin für die Verhandlung.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-70">Termin</term>
+<term ref="stadtasg-keywords-61">Terminverschiebung</term>
+<term ref="stadtasg-keywords-240">Ritter</term>
+<term ref="stadtasg-keywords-149">Rechtstag</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-699">Schultheiss und Rat zu Frauenfeld</orgName>                    <date>1465-03-26</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-08-27</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_369_745.JPG" n="1" />
+<p>
+<lb n="1" />Unser früntlich willig dienst ze vor fürsichtigen wisen lieben herren und guotten
+<lb n="2" />fründ. Wir vernement, wie der streng herr <persName ref="stadtasg-actors-700">Hug von Landenberg</persName>, ritter, und
+<lb n="3" /><persName ref="stadtasg-actors-701">Michel Zwick</persName> uff <date when="1465-03-28">donstag naechst kompt</date> ainen rechtlichen tag vor üwer
+<lb n="4" />wishait laisten solten. Nu sind dem gedauchten <persName ref="stadtasg-actors-700">von Landenberg</persName> ehafftig
+<lb n="5" />treffennlich sachen, die wir wol wissent, zuogestanden, daz er nothalb den
+<lb n="6" />tag nit gesuochen kan noch mag, insunder uff <date when="1465-03-28">den genanten donstag</date> ander
+<lb n="7" />rechtlich tag, daran im treffenlich gelegen ist, suochen muoß. Bitten üch
+<lb n="8" />früntlich mit flis, ir wellint im ander rechtlich tag der dinghalb setzen
+<lb n="9" />in mas und er üch davon ouch geschriben haut, sidmals und in darinn
+<lb n="10" />ehafftige not sumpt. Daz wellent wir umb üch früntlich verdienen. Geben
+<lb n="11" />uff <origDate when="1465-03-26">zinstag nauch unser frowentag in der vasten anno domini etc. LXquinto</origDate>.
+<lb n="12" /><orgName ref="stadtasg-actors-699" role="issuer">Schulthais und ratte
+<lb n="13" />ze Frowenfeld</orgName>.
+<pb facs="StadtASG_Missive_369_746.JPG" n="2" />
+<lb n="14" />Den fürsichtigen ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="15" />maister und raut ze sant Gallen</orgName> unsern
+<lb n="16" />lieben herren und guotten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -44,7 +44,7 @@
                     <persName ref="stadtasg-actors-597">Rudolf Friedbolt</persName>                    <date>1457-08-22</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
             </correspDesc>
         </profileDesc>
         <revisionDesc>
@@ -66,7 +66,7 @@
 <p>
 <lb n="1"/>Minen undertaenigen willigen dienst zuo vor ersamen wisen lieben herren. Als üch wol ze
 <lb n="2"/>wissen ist, wie es sich kurtzlich gefuegt hat, nach dem und der erwirdig herr <persName ref="stadtasg-actors-608">Uolrich Horchentaler</persName>
-<lb n="3"/>saelig von zit geschaiden ist, dz ich umb dz pfruendli zuo sant Ioerien geworben hab und
+<lb n="3"/>saelig von zit geschaiden ist, dz ich umb dz pfruendli zuo sant Joerien geworben hab und
 <lb n="4"/>das selbig pfruendli do ze mal maister <persName ref="stadtasg-actors-609">Hanß Keller</persName> gelihen ward, in soelicher mainung,
 <lb n="5"/>als es mir ze verstand ward geben, das ich gen <placeName ref="stadtasg-places-8">Appenzell</placeName> gefürdrot solt sin worden,
 <lb n="6"/>dar zuo ir mir üwer hilf und rat erzogtind schinbarlichen und groeßlichen, des ich üch be

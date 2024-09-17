@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 372</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00373.xml">373</ref>, <ref target="stasg_missiv_00374.xml">374</ref> und <ref target="stasg_missiv_00375.xml">375</ref>.</p></note></notesStmt>  
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_372_751/752</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich berichten Bürgermeister und Rat zu St. Gallen, dass Othmar Ortwin ihnen geklagt habe, dass er bei der Gerichtsverhandlung in der Pfalz in St. Gallen nicht richtig behandelt worden sei. Ortwin wünsche, dass sein Fall in Wil mit unparteiischen Lehenleuten neu verhandelt werde. Falls die St. Galler damit nicht einverstanden seien, solle der Fall von einem eidgenössichen Schiedsgericht oder einer anderen, ihnen genehmen Stelle verhandelt werden. Sie bitten um eine schriftliche Antwort mit dem gleichen Boten.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-24">Klage</term>
+<term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+<term ref="stadtasg-keywords-136">Lehen</term>
+<term ref="stadtasg-keywords-517">Lehenherr</term>
+<term ref="stadtasg-keywords-60">Schiedsgericht</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-103">Urteil</term>
+<term ref="stadtasg-keywords-402">Pfalz</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1465-07-23</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-06-17</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_372_751.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser fruntlich willig diennst und was wir in allen sachen eren liebs und guotz vermoegend sye üch alle zitt zuo voran
+<lb n="2"/>bereitt fürsichtigen wisen besundern guotten fründe und getrüwen lieben eidgnossen. Also hatt uns unser bywoner <persName ref="stadtasg-actors-666">Othmar
+<lb n="3"/>Orttwin</persName> fürbracht, wie dz er nach lutt unser urtel zwischent uch und im gesprochen des rechten uff der pfallentz
+<lb n="4"/>ze <placeName ref="stadtasg-places-38">sant Gallen</placeName> mit üch gepflegen haben woelt, so hettent ir dz gericht mit uwern raetten und geschwornen besetztt
+<lb n="5"/>gehebtt, und sye sust nit dry lechenman da gewesen, und nach dem dz geleitt, so ir im geben hettent, von ettlichen den
+<lb n="6"/>uwern an im gebrochen, die selben ungestrafft bliben syentt, wie wol er dz nach uwer statt gewonheitt uwerm burger
+<lb break="no" n="7"/>meister und zunfftmeistern fürbracht habe, darumb so fuege im nit me des rechten mit uch also zuo pflegen. Und
+<lb n="8"/>won er nu der sach gern ustrag hett, so hatt er uns gebetten, üch zuo schriben und zuo bitten, mit unsern herren von <placeName ref="stadtasg-places-38">sant Gallen</placeName>
+<lb n="9"/>ze reden, dz gericht ze <placeName ref="stadtasg-places-102">Wil</placeName> ze haben und dz mit unpartygen lechen lutten, als sich dz gebürtt, zuo besetzen und die sach da
+<lb n="10"/>selbs ze berechtigen. Darumb so ist zuo üwer guotten fruntschafft unser bitt, soelichs also ze tuonde, umb dz die sach
+<lb n="11"/>ab weg kome. Daran bewisent ir uns sunder fruntschafft, die wir umb üch in gelichen mindern und meren sachen
+<lb n="12"/>verdienen wollent, wenn sich dz fuegen wirt. Ob aber soelichs üwers willens nit sin woelltt, das ir im dann eins
+<lb n="13"/>rechten sin vor gemeinen eidgnossen oder welichem ortt ir woellend, umb dz im nit nott werd, sich von üch zuo erklagen.
+<lb n="14"/>Und lassent uns harumb üwer geschriben antwurtt wissen by disem botten. Geben uff <origDate when="1465-07-23">zinstag vor sant
+<lb n="15"/>Jacobs tage appostoli anno etc. LXVto</origDate>.
+<lb n="16"/><orgName ref="stadtasg-actors-503" role="issuer">Burgermeister und
+<lb n="17"/>ratte der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_372_752.JPG" n="2"/>
+<lb n="18"/>Den fürsichtigen wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und ratte zuo santt
+<lb n="19"/>Gallen</orgName> unsern besundern guotten fründen und getrüwen
+<lb n="20"/>lieben eydgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

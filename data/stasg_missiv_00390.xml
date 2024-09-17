@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 390</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_390_795/796</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Kempten schicken an Bürgermeister und Rat zu St. Gallen ein Empfehlungsschreiben für ihren Bürger Benz Brun und dessen Sohn. Dieser möchte für sich und seinen Sohn eine Spitalpfründe im Heiliggeistspital in St. Gallen kaufen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+   <term ref="stadtasg-keywords-87">Empfehlung</term>
+<term ref="stadtasg-keywords-302">Pfründner</term>
+<term ref="stadtasg-keywords-354">Spital</term>
+<term ref="stadtasg-keywords-542">Spitalpfleger</term>
+<term ref="stadtasg-keywords-175">Sohn</term>
+<term ref="stadtasg-keywords-516">Pfrund</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-533">Bürgermeister und Rat zu Kempten</orgName>                    <date>1467-09-23</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-09-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_390_795.JPG" n="1" />
+<p>
+<lb n="1" />Unnser frünntlich willig diennst voran ersamen wysen sunder lieben und guoten fründ.
+<lb n="2" />Wir vernemen, das <persName ref="stadtasg-actors-734">Benntz Brun</persName>, wylend unnser burger, gar guoten willen hab, im selb und sim
+<lb n="3" />sun ain pfruend in ewerm <orgName ref="stadtasg-actors-552">spital</orgName> zu kouffen. Bitten wir ewr wyßhait frünntlich mit allem
+<lb n="4" />vliss, mit sampt ewers spitalspflegern daran so früntlich zu sin, damit er mit sampt sinem
+<lb n="5" />sun guetlich ufgenomen werde. Daran tuend ir unns sunder guot frünntschafft mit gantzem
+<lb n="6" />willen zuverdienen begeren. Geben am <origDate when="1467-09-23">mitwochen vor sant Michels tag anno etc. LXVIImo</origDate>.
+<lb n="7" /><orgName ref="stadtasg-actors-533" role="issuer">Burgermaister und
+<lb n="8" />rate zuo Kempten</orgName>.
+<pb facs="StadtASG_Missive_390_796.JPG" n="2" />
+<lb n="9" />Den ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rate
+<lb n="10" />der statt zu sant Gallen</orgName> unsern besondern lieben unnd
+<lb n="11" />guoten frünnden.
+</p>
+        </body>
+    </text>
+</TEI>

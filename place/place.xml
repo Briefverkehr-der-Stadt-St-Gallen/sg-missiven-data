@@ -10,7 +10,7 @@
         <sponsor>Ortsbürgergemeinde St. Gallen</sponsor>
       </editionStmt>
       <publicationStmt>
-        <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+        <publisher/>
         <pubPlace>St. Gallen</pubPlace>
         <date when="2024">2024</date>
         <availability>
@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-04-19 15:20:26 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
+        <p>Datenbankexport vom 2024-09-17 19:31:54 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -155,7 +155,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001852"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/6000059"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/6000059"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2661731"/>
@@ -253,7 +253,7 @@
                 <ptr type="gnd" target="https://d-nb.info/gnd/4002487-8"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/1013499"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/1013499"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2661740"/>
@@ -307,7 +307,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/000797"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/8005636"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/8005636"/>
               </bibl>
               <bibl>
                 <ptr type="gnd" target="https://d-nb.info/gnd/4068063-0"/>
@@ -340,10 +340,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001340"/>
               </bibl>
               <bibl>
-                <ptr type="tgn" target=""/>
-              </bibl>
-              <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4025262"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4025262"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2661766"/>
@@ -372,7 +369,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001606"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/3032482"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/3032482"/>
               </bibl>
               <bibl>
                 <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q64178"/>
@@ -422,7 +419,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/000209"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/309108609"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/309108609"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2661552"/>
@@ -572,7 +569,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001334"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4021774"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4021774"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2661550"/>
@@ -607,7 +604,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001865"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/6000454"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/6000454"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/8394414"/>
@@ -695,7 +692,7 @@
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/places-db-edit/views/view-place.xq?id=loc010222"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/6001258"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/6001258"/>
               </bibl>
               <bibl>
                 <ptr type="gnd" target="https://d-nb.info/gnd/4090794-6"/>
@@ -866,7 +863,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001898"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/6002254"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/6002254"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2660727"/>
@@ -893,7 +890,7 @@
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/places-db-edit/views/view-place.xq?id=loc014638"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/803387448"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/803387448"/>
               </bibl>
               <bibl>
                 <ptr type="gnd" target="https://d-nb.info/gnd/1068774851"/>
@@ -953,7 +950,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/000171"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/802000261"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802000261"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2657896"/>
@@ -978,7 +975,7 @@
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/places-db-edit/views/view-place.xq?id=loc007566"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4003716"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4003716"/>
               </bibl>
               <bibl>
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001384"/>
@@ -1069,7 +1066,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001321"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4048787"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4048787"/>
               </bibl>
               <bibl>
                 <ptr type="gnd" target="https://d-nb.info/gnd/4051594-1"/>
@@ -1240,7 +1237,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/000157"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/7073915"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/7073915"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2657970"/>
@@ -1293,7 +1290,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001174"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/802002601"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802002601"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2658564"/>
@@ -1321,10 +1318,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001620"/>
               </bibl>
               <bibl>
-                <ptr type="tgn" target=""/>
-              </bibl>
-              <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/13000004"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/13000004"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2661881"/>
@@ -1349,7 +1343,7 @@
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/places-db-edit/views/view-place.xq?id=loc009188"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/6000474"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/6000474"/>
               </bibl>
               <bibl>
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/008159"/>
@@ -1381,7 +1375,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001633"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/13000013"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/13000013"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2661646"/>
@@ -1504,7 +1498,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/002008"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/802004911"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802004911"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2661315"/>
@@ -1562,7 +1556,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/007649"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4011422"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4011422"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2661871"/>
@@ -1656,7 +1650,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001293"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/1000273"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/1000273"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2660365"/>
@@ -1686,7 +1680,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001407"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4009263"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4009263"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2660549"/>
@@ -1717,7 +1711,7 @@
                 <ptr type="gnd" target="https://d-nb.info/gnd/4346982-6"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4008889"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4008889"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/7669457"/>
@@ -1746,7 +1740,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001288"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/5020920"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/5020920"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2658489"/>
@@ -1809,7 +1803,7 @@
                 <ptr type="gnd" target="https://d-nb.info/gnd/4062129-7"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/800000004"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/800000004"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2658226"/>
@@ -1840,7 +1834,7 @@
                 <ptr type="gnd" target="https://d-nb.info/gnd/4054019-4"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/800000005"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/800000005"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2658664"/>
@@ -1896,7 +1890,7 @@
                 <ptr type="gnd" target="https://d-nb.info/gnd/4021141-1"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/800000008"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/800000008"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2660593"/>
@@ -1949,7 +1943,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001862"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/802004446"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802004446"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2659453"/>
@@ -2025,7 +2019,7 @@
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/places-db-edit/views/view-place.xq?id=loc008504"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4018017"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4018017"/>
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
@@ -2047,7 +2041,7 @@
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/places-db-edit/views/view-place.xq?id=loc008505"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4025095"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4025095"/>
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
@@ -2069,7 +2063,7 @@
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/places-db-edit/views/view-place.xq?id=loc008506"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4025457"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4025457"/>
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
@@ -2094,7 +2088,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/002853"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/802006458"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802006458"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2659496"/>
@@ -2246,7 +2240,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001327"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4020320"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4020320"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2658969"/>
@@ -2276,7 +2270,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001336"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4021077"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4021077"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2659062"/>
@@ -2508,7 +2502,7 @@
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/places-db-edit/views/view-place.xq?id=loc000885"/>
               </bibl>
               <bibl>
-                <ptr type="url" target=""/>
+                <ptr type="namenbuch-li" target=""/>
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
@@ -2630,7 +2624,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001851"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/13000239"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/13000239"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2657891"/>
@@ -2642,7 +2636,7 @@
           </place>
           <place type="P" xml:id="stadtasg-places-102">
             <placeName type="main" xml:lang="de">Wil</placeName>
-            <placeName type="full" xml:lang="de">Wil (ZH)</placeName>
+            <placeName type="full" xml:lang="de">Wil (SG)</placeName>
             <placeName type="sort" xml:lang="de">wil</placeName>
             <location>
               <geo>47.46152 9.04552</geo>
@@ -2658,7 +2652,7 @@
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/places-db-edit/views/view-place.xq?id=loc000840"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/7058963"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/7058963"/>
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
@@ -2687,7 +2681,7 @@
                 <ptr type="gnd" target="https://d-nb.info/gnd/4119605-3"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/800000020"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/800000020"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2658372"/>
@@ -2765,7 +2759,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/049350"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4006205"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4006205"/>
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
@@ -2996,7 +2990,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001337"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4021206"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4021206"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2658816"/>
@@ -3075,7 +3069,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001333"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4023996"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4023996"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2661635"/>
@@ -3103,9 +3097,6 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/000588"/>
               </bibl>
               <bibl>
-                <ptr type="waser" target=""/>
-              </bibl>
-              <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2659766"/>
               </bibl>
             </listBibl>
@@ -3131,7 +3122,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001342"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4025027"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4025027"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/8505039"/>
@@ -3160,7 +3151,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/007661"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4026646"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4026646"/>
               </bibl>
               <bibl>
                 <ptr type="gnd" target="https://d-nb.info/gnd/4486912-5"/>
@@ -3187,7 +3178,7 @@
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/places-db-edit/views/view-place.xq?id=loc006301"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4026521"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4026521"/>
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
@@ -3211,7 +3202,7 @@
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/places-db-edit/views/view-place.xq?id=loc009691"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4009238"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4009238"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/11764432"/>
@@ -3237,7 +3228,7 @@
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/places-db-edit/views/view-place.xq?id=loc009693"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4011915"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4011915"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/11765366"/>
@@ -3348,7 +3339,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/007545"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/5020050"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/5020050"/>
               </bibl>
               <bibl>
                 <ptr type="gnd" target="https://d-nb.info/gnd/4398925-1"/>
@@ -3417,7 +3408,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Region, Herzogtum</p>
+              <p>Region, Herzogtum, Kurfürstentum</p>
             </note>
           </place>
           <place type="P" xml:id="stadtasg-places-133">
@@ -3438,7 +3429,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/007478"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/802002701"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802002701"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2661604"/>
@@ -3511,7 +3502,7 @@
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/places-db-edit/views/view-place.xq?id=loc006855"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/6000219"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/6000219"/>
               </bibl>
               <bibl>
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001858"/>
@@ -3544,7 +3535,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001859"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/802004431"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802004431"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2658993"/>
@@ -3619,7 +3610,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001374"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4014817"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4014817"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2658210"/>
@@ -3931,7 +3922,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/008655"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/6029407"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/6029407"/>
               </bibl>
               <bibl>
                 <ptr type="gnd" target="https://d-nb.info/gnd/4007403-1"/>
@@ -3993,7 +3984,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001863"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/802004451"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802004451"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2658212"/>
@@ -4021,7 +4012,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001408"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/802003444"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802003444"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2658067"/>
@@ -4045,7 +4036,7 @@
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/places-db-edit/views/view-place.xq?id=loc008933"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4009291"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4009291"/>
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
@@ -4141,7 +4132,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001400"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/802003422"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802003422"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2659468"/>
@@ -4224,7 +4215,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/002903"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/802006621"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802006621"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2660646"/>
@@ -4277,7 +4268,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/016136"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/803388921"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/803388921"/>
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
@@ -4349,9 +4340,6 @@
               </bibl>
               <bibl>
                 <ptr type="gnd" target="https://d-nb.info/gnd/4117084-2"/>
-              </bibl>
-              <bibl>
-                <ptr type="url" target=""/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2845212"/>
@@ -4431,7 +4419,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/008190"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/6003960"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/6003960"/>
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
@@ -4504,7 +4492,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/007829"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/7032235"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/7032235"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/7286233"/>
@@ -4533,7 +4521,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001397"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/802003407"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802003407"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2659331"/>
@@ -4561,7 +4549,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001325"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4067610"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4067610"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2660575"/>
@@ -4638,7 +4626,7 @@
                 <ptr type="gnd" target="https://d-nb.info/gnd/4051995-8"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/800000014"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/800000014"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2658760"/>
@@ -4669,7 +4657,7 @@
                 <ptr type="gnd" target="https://d-nb.info/gnd/4078653-5"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/800000006"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/800000006"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2659315"/>
@@ -4697,7 +4685,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/001387"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/4006070"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4006070"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2658042"/>
@@ -4902,7 +4890,7 @@
                 <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/000953"/>
               </bibl>
               <bibl>
-                <ptr type="ortsnamen.ch" target="https://search.ortsnamen.ch/de/record/802002196"/>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802002196"/>
               </bibl>
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2660718"/>
@@ -5116,9 +5104,27 @@
               <bibl>
                 <ptr type="geonames" target="https://www.geonames.org/2661484"/>
               </bibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/3002591"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q68332"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n85101404"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001422"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/151333119/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4222568-1"/>
+              </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Stallen ist der alte deutsche Namen von Bivio, bis 1895 (bis 1903 ital. Stalla)</p>
+              <p>veraltet dt. Stallen (bis 1903 offiziell ital. Stalla)</p>
             </note>
           </place>
           <place type="S" xml:id="stadtasg-places-210">
@@ -5158,9 +5164,9 @@
             </listBibl>
           </place>
           <place type="S" xml:id="stadtasg-places-212">
-            <placeName type="main" xml:lang="de">Zwingenstein Schloss</placeName>
-            <placeName type="full" xml:lang="de">Zwingenstein Schloss / Au (SG)</placeName>
-            <placeName type="sort" xml:lang="de">zwingenstein schloss</placeName>
+            <placeName type="main" xml:lang="de">Zwingenstein Burg</placeName>
+            <placeName type="full" xml:lang="de">Zwingenstein Burg / Au (SG)</placeName>
+            <placeName type="sort" xml:lang="de">zwingenstein burg</placeName>
             <placeName type="alternative" xml:lang="de">Zwingenstain</placeName>
             <location>
               <settlement xml:lang="de">Au</settlement>
@@ -5168,6 +5174,11 @@
               <country xml:lang="en">Switzerland</country>
             </location>
             <idno type="stadtasg-places-id">212</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geoportal-(archäologische-fundstellen-kt-sg)" target="https://www.geoportal.ch/ktsg/map/349?y=2765780&amp;x=1256580&amp;scale=10000&amp;rotation=0"/>
+              </bibl>
+            </listBibl>
           </place>
           <place type="P" xml:id="stadtasg-places-213">
             <placeName type="main" xml:lang="de">Hohenems</placeName>
@@ -5263,9 +5274,6 @@
                 <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Dalmatia"/>
               </bibl>
               <bibl>
-                <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/04606b.htm"/>
-              </bibl>
-              <bibl>
                 <ptr type="lcnaf" target="https://id.loc.gov/authorities/n85017878"/>
               </bibl>
               <bibl>
@@ -5297,9 +5305,6 @@
               </bibl>
               <bibl>
                 <ptr type="worldcat" target="https://worldcat.org/identities/lccn-n81035140/"/>
-              </bibl>
-              <bibl>
-                <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/04510a.htm"/>
               </bibl>
               <bibl>
                 <ptr type="lcnaf" target="https://id.loc.gov/authorities/n81035140"/>
@@ -5362,6 +5367,1014 @@
               </bibl>
             </listBibl>
           </place>
+          <place type="P" xml:id="stadtasg-places-220">
+            <placeName type="main" xml:lang="de">Warthausen</placeName>
+            <placeName type="full" xml:lang="de">Warthausen (BW)</placeName>
+            <placeName type="sort" xml:lang="de">warthausen</placeName>
+            <placeName type="alternative" xml:lang="de">warthusen</placeName>
+            <location>
+              <geo>48.12863 9.79749</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">220</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6556035"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q528017"/>
+              </bibl>
+              <bibl>
+                <ptr type="worldcat" target="https://worldcat.org/identities/viaf-249017878/"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/249017878/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4122662-8"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-221">
+            <placeName type="main" xml:lang="de">Memmingen</placeName>
+            <placeName type="full" xml:lang="de">Memmingen (BY)</placeName>
+            <placeName type="sort" xml:lang="de">memmingen</placeName>
+            <location>
+              <geo>47.98372 10.18527</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">221</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6557109"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q14825"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Memmingen"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n82075645"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/131134819/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4038586-3"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-222">
+            <placeName type="main" xml:lang="de">Stühlingen</placeName>
+            <placeName type="full" xml:lang="de">Stühlingen (BW)</placeName>
+            <placeName type="sort" xml:lang="de">stuehlingen</placeName>
+            <placeName type="alternative" xml:lang="de">Stuelingen</placeName>
+            <location>
+              <geo>47.7458 8.44813</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">222</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6558151"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q527783"/>
+              </bibl>
+              <bibl>
+                <ptr type="worldcat" target="https://worldcat.org/identities/viaf-244114499/"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/007121"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/244114499/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4106122-6"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-223">
+            <placeName type="main" xml:lang="de">Salez</placeName>
+            <placeName type="full" xml:lang="de">Salez / Sennwald (SG)</placeName>
+            <placeName type="sort" xml:lang="de">salez</placeName>
+            <location>
+              <geo>47.23645 9.50004</geo>
+              <settlement xml:lang="de">Sennwald</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">223</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/7287152"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q99764635"/>
+              </bibl>
+              <bibl>
+                <ptr type="worldcat" target="https://worldcat.org/identities/viaf-236513826/"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001349"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/236513826/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4320622-0"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Salez"/>
+              </bibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4059387"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-225">
+            <placeName type="main" xml:lang="de">Rapperswil</placeName>
+            <placeName type="full" xml:lang="de">Rapperswil (SG)</placeName>
+            <placeName type="sort" xml:lang="de">rapperswil</placeName>
+            <location>
+              <geo>47.22557 8.82228</geo>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">225</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2659099"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q688539"/>
+              </bibl>
+              <bibl>
+                <ptr type="worldcat" target="https://worldcat.org/identities/viaf-247633649/"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n81024635"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001371"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/247633649/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4048417-8"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-226">
+            <placeName type="main" xml:lang="de">Landshut</placeName>
+            <placeName type="full" xml:lang="de">Landshut (BY)</placeName>
+            <placeName type="sort" xml:lang="de">landshut</placeName>
+            <placeName type="alternative" xml:lang="de">Landtzhuot</placeName>
+            <location>
+              <geo>48.52961 12.16179</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">226</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6556450"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q3974"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Landshut"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n83140680"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/297813499/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4034367-4"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-227">
+            <placeName type="main" xml:lang="de">Lauingen (Donau)</placeName>
+            <placeName type="full" xml:lang="de">Lauingen (Donau) (BY)</placeName>
+            <placeName type="sort" xml:lang="de">lauingen (donau)</placeName>
+            <placeName type="alternative" xml:lang="de">Logingen</placeName>
+            <location>
+              <geo>48.56545 10.4297</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">227</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6558407"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q572921"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/nr2003015381"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/135334133/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4034738-2"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Lauingen_(Donau)"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-228">
+            <placeName type="main" xml:lang="de">Gundelfingen a.d.Donau</placeName>
+            <placeName type="full" xml:lang="de">Gundelfingen a.d.Donau (BY)</placeName>
+            <placeName type="sort" xml:lang="de">gundelfingen a.d.donau</placeName>
+            <location>
+              <geo>48.55095 10.36885</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">228</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6559032"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q509648"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n89146825"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/147869060/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4086854-0"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Gundelfingen_an_der_Donau"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-229">
+            <placeName type="main" xml:lang="de">Stüsslingen</placeName>
+            <placeName type="full" xml:lang="de">Stüsslingen (SO)</placeName>
+            <placeName type="sort" xml:lang="de">stuesslingen</placeName>
+            <placeName type="alternative" xml:lang="de">Stüßlingen</placeName>
+            <location>
+              <geo>47.39427 7.97426</geo>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">229</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/8533607"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q66281"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001115"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/241221161/"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="S" xml:id="stadtasg-places-230">
+            <placeName type="main" xml:lang="de">Burg Holenstein</placeName>
+            <placeName type="full" xml:lang="de">Burg Holenstein (BW)</placeName>
+            <placeName type="sort" xml:lang="de">burg holenstein</placeName>
+            <location>
+              <geo>49.0199 9.94563</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">230</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1015795"/>
+              </bibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2900727"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="S" xml:id="stadtasg-places-231">
+            <placeName type="main" xml:lang="de">Burg Hohenrechberg</placeName>
+            <placeName type="full" xml:lang="de">Burg Hohenrechberg (BW)</placeName>
+            <placeName type="sort" xml:lang="de">burg hohenrechberg</placeName>
+            <location>
+              <geo>48.75565 9.78179</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">231</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/12503579"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q2175310"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Burg_Hohenrechberg"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/7822897-9"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-232">
+            <placeName type="main" xml:lang="de">Neuenstadt</placeName>
+            <placeName type="full" xml:lang="de">Neuenstadt (BW)</placeName>
+            <placeName type="sort" xml:lang="de">neuenstadt</placeName>
+            <placeName type="alternative" xml:lang="de">Newenstatt</placeName>
+            <location>
+              <geo>49.23498 9.33215</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">232</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6557988"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q503145"/>
+              </bibl>
+              <bibl>
+                <ptr type="worldcat" target="https://worldcat.org/identities/lccn-n2005062969/"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/124545855/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4240976-7"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Neuenstadt_am_Kocher"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="S" xml:id="stadtasg-places-233">
+            <placeName type="main" xml:lang="de">Burg Hohenkrähen</placeName>
+            <placeName type="full" xml:lang="de">Burg Hohenkrähen (BW)</placeName>
+            <placeName type="sort" xml:lang="de">burg hohenkraehen</placeName>
+            <placeName type="alternative" xml:lang="de">Hohen Kraeyen</placeName>
+            <location>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">233</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1012426"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/239499763/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4131780-4"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Burg_Hohenkrähen"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-234">
+            <placeName type="main" xml:lang="de">Triesen</placeName>
+            <placeName type="full" xml:lang="de">Triesen</placeName>
+            <placeName type="sort" xml:lang="de">triesen</placeName>
+            <location>
+              <geo>47.10752 9.52815</geo>
+              <country xml:lang="de">Liechtenstein</country>
+              <country xml:lang="en">Liechtenstein</country>
+            </location>
+            <idno type="stadtasg-places-id">234</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/3042036"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q49654"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/007129"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/168178947/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4399865-3"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-235">
+            <placeName type="main" xml:lang="de">Sevelen</placeName>
+            <placeName type="full" xml:lang="de">Sevelen (SG)</placeName>
+            <placeName type="sort" xml:lang="de">sevelen</placeName>
+            <location>
+              <geo>47.12213 9.48601</geo>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">235</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/7287160"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q69612"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001350"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/140187281/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4197382-3"/>
+              </bibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802003275"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="S" xml:id="stadtasg-places-236">
+            <placeName type="main" xml:lang="de">Kloster St. Georgen</placeName>
+            <placeName type="full" xml:lang="de">Kloster St. Georgen / Stein am Rhein (SH)</placeName>
+            <placeName type="sort" xml:lang="de">kloster st. georgen</placeName>
+            <location>
+              <settlement xml:lang="de">Stein am Rhein</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">236</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1776083"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/011601"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4301491-4"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-237">
+            <placeName type="main" xml:lang="de">Romanshorn</placeName>
+            <placeName type="full" xml:lang="de">Romanshorn (TG)</placeName>
+            <placeName type="sort" xml:lang="de">romanshorn</placeName>
+            <location>
+              <geo>47.56586 9.37869</geo>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">237</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2658985"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q65125"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n83052725"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001860"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/136077963/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4291259-3"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="S" xml:id="stadtasg-places-238">
+            <placeName type="main" xml:lang="de">Kloster Töss</placeName>
+            <placeName type="full" xml:lang="de">Kloster Töss / Winterthur (ZH)</placeName>
+            <placeName type="sort" xml:lang="de">kloster toess</placeName>
+            <placeName type="alternative" xml:lang="de">closters zuo Thöß</placeName>
+            <location>
+              <geo>47.48772 8.703</geo>
+              <settlement xml:lang="de">Winterthur</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">238</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Kloster_Töss"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q680659"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/011878"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/151486091/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4741874-6"/>
+              </bibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/7069834"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-239">
+            <placeName type="main" xml:lang="de">Töss</placeName>
+            <placeName type="full" xml:lang="de">Töss / Winterthur (ZH)</placeName>
+            <placeName type="sort" xml:lang="de">toess</placeName>
+            <location>
+              <geo>47.5519 8.55398</geo>
+              <settlement xml:lang="de">Winterthur</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">239</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2658344"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1699150"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/003129"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/238357946/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4355064-2"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-240">
+            <placeName type="main" xml:lang="de">Hilzingen</placeName>
+            <placeName type="full" xml:lang="de">Hilzingen (BW)</placeName>
+            <placeName type="sort" xml:lang="de">hilzingen</placeName>
+            <location>
+              <geo>47.76667 8.78333</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">240</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6555864"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q62039"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/235464619/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4024922-0"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Hilzingen"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-241">
+            <placeName type="main" xml:lang="de">Mering</placeName>
+            <placeName type="full" xml:lang="de">Mering (BY)</placeName>
+            <placeName type="sort" xml:lang="de">mering</placeName>
+            <location>
+              <geo>48.2656 10.98461</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">241</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6558745"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q275579"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n85308095"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/149589140/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4038718-5"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Mering"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-242">
+            <placeName type="main" xml:lang="de">Einsiedeln</placeName>
+            <placeName type="full" xml:lang="de">Einsiedeln (SZ)</placeName>
+            <placeName type="sort" xml:lang="de">einsiedeln</placeName>
+            <location>
+              <geo>47.12849 8.74735</geo>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">242</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/7285715"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q68950"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Einsiedeln"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n83017359"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/000710"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/133725232/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4013932-3"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Einsiedeln"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-243">
+            <placeName type="main" xml:lang="de">Meersburg</placeName>
+            <placeName type="full" xml:lang="de">Meersburg (BW)</placeName>
+            <placeName type="sort" xml:lang="de">meersburg</placeName>
+            <placeName type="alternative" xml:lang="de">Myerspurg</placeName>
+            <location>
+              <geo>47.69419 9.27113</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">243</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6558182"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q498212"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n82216146"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/007086"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/126699405/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4038336-2"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Meersburg"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-244">
+            <placeName type="main" xml:lang="de">Leutkirch im Allgäu</placeName>
+            <placeName type="full" xml:lang="de">Leutkirch im Allgäu (BW)</placeName>
+            <placeName type="sort" xml:lang="de">leutkirch im allgaeu</placeName>
+            <placeName type="alternative" xml:lang="de">Lütkilch</placeName>
+            <location>
+              <geo>47.82672 10.0205</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">244</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6558189"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q539645"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n88080040"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/141999277/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4035503-2"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Leutkirch_im_Allgäu"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-245">
+            <placeName type="main" xml:lang="de">Montbéliard</placeName>
+            <placeName type="full" xml:lang="de">Montbéliard (BFC)</placeName>
+            <placeName type="sort" xml:lang="de">montbeliard</placeName>
+            <placeName type="alternative" xml:lang="de">Münppelgart</placeName>
+            <location>
+              <geo>47.50957 6.79823</geo>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="stadtasg-places-id">245</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2992938"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q154715"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Montbeliard"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n82106917"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/007088"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/155890847/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4074960-5"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-246">
+            <placeName type="main" xml:lang="de">Passau</placeName>
+            <placeName type="full" xml:lang="de">Passau (BY)</placeName>
+            <placeName type="sort" xml:lang="de">passau</placeName>
+            <location>
+              <geo>48.5665 13.43122</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">246</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6556451"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q4190"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Passau"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80040815"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/129000588/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4044828-9"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Passau"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-247">
+            <placeName type="main" xml:lang="de">Emmishofen</placeName>
+            <placeName type="full" xml:lang="de">Emmishofen (TG)</placeName>
+            <placeName type="sort" xml:lang="de">emmishofen</placeName>
+            <location>
+              <geo>47.64978 9.16247</geo>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">247</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2660906"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1338766"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/003168"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/246939832/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4382666-0"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="A" xml:id="stadtasg-places-248">
+            <placeName type="main" xml:lang="de">Schweden</placeName>
+            <placeName type="full" xml:lang="de">Schweden</placeName>
+            <placeName type="sort" xml:lang="de">schweden</placeName>
+            <location>
+              <geo>62 15</geo>
+              <country xml:lang="de">Schweden</country>
+              <country xml:lang="en">Sweden</country>
+            </location>
+            <idno type="stadtasg-places-id">248</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2661886"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q34"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Sweden"/>
+              </bibl>
+              <bibl>
+                <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/14347a.htm"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n79021184"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/003371"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/172149294332280521859/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4077258-5"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Schweden"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-249">
+            <placeName type="main" xml:lang="de">Westendorf</placeName>
+            <placeName type="full" xml:lang="de">Westendorf (BY)</placeName>
+            <placeName type="sort" xml:lang="de">westendorf</placeName>
+            <location>
+              <geo>48.57223 10.84007</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">249</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2810533"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q549052"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/154271479/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4439725-2"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Westendorf_(Landkreis_Ostallgäu)"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-250">
+            <placeName type="main" xml:lang="de">Dösingen</placeName>
+            <placeName type="full" xml:lang="de">Dösingen (BY)</placeName>
+            <placeName type="sort" xml:lang="de">doesingen</placeName>
+            <location>
+              <geo>47.92019 10.70162</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">250</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2935463"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q105885457"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Dösingen"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4085452-8"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-251">
+            <placeName type="main" xml:lang="de">Kaufbeuren</placeName>
+            <placeName type="full" xml:lang="de">Kaufbeuren (BY)</placeName>
+            <placeName type="sort" xml:lang="de">kaufbeuren</placeName>
+            <location>
+              <geo>47.88238 10.62192</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">251</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2892080"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q14805"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n81090248"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/129016379/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4030060-2"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Kaufbeuren"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-252">
+            <placeName type="main" xml:lang="de">Landsberg</placeName>
+            <placeName type="full" xml:lang="de">Landsberg (BY)</placeName>
+            <placeName type="sort" xml:lang="de">landsberg</placeName>
+            <placeName type="alternative" xml:lang="de">Landsberg am Lech</placeName>
+            <location>
+              <geo>48.04819 10.88282</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">252</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2881509"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q494299"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n83211255"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/312811964/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4034337-6"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Landsberg_am_Lech"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="S" xml:id="stadtasg-places-253">
+            <placeName type="main" xml:lang="de">Steinerburg</placeName>
+            <placeName type="full" xml:lang="de">Steinerburg / Steinach (SG)</placeName>
+            <placeName type="sort" xml:lang="de">steinerburg</placeName>
+            <location>
+              <geo>47.485521488832 9.4281013278066</geo>
+              <settlement xml:lang="de">Steinach</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">253</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/11743671"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1433803"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/011371"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/1058769774"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Steinerburg"/>
+              </bibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/803387459"/>
+              </bibl>
+            </listBibl>
+          </place>
         </listPlace>
       </settingDesc>
     </profileDesc>
@@ -5409,7 +6422,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2024-04-19T15:20:27+02:00">teiHeader was automatically produced from the database 2024-04-19T15:20:27+02:00</change>
+      <change when="2024-09-17T19:31:55+02:00">teiHeader was automatically produced from the database 2024-09-17T19:31:55+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

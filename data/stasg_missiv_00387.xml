@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 387</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_387_787/788</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die Brüder Wolfhart und Sigmund von Brandis bitten Bürgermeister und Rat zu St. Gallen, ihren Stadtschreiber anzuhalten, den für ihre Triesner Untertanen und den ihrem Vetter Graf Wilhelm von Montfort zugehörenden Untertanen von Sevelen aufgesetzten Spruchbrief den Triesern, da sie arme Leute seien, gegen ein bescheidenes Entgelt auszulösen.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-644">Spruchbrief</term>
+<term ref="stadtasg-keywords-159">Stadtschreiber</term>
+<term ref="stadtasg-keywords-461">Armut</term>
+<term ref="stadtasg-keywords-103">Urteil</term>
+<term ref="stadtasg-keywords-278">Graf</term>
+<term ref="stadtasg-keywords-314">Anwalt</term>
+<term ref="stadtasg-keywords-324">Freiherr</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-54">Wolfhart VI. von Brandis</persName><persName ref="stadtasg-actors-704">Sigmund I. von Brandis</persName><placeName ref="stadtasg-places-31">Vaduz</placeName>                    <date>1467-03-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2024-09-09</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_387_787.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich willig dienste zuvor ersamen wysen lieben und guotten fründe.
+<lb n="2"/>Üwer burger <persName ref="stadtasg-actors-705">Hector von Watt</persName> hat uns in ainem sinem sandtbrieve geschriben,
+<lb n="3"/>den unsern von <placeName ref="stadtasg-places-234">Trisen</placeName> zu verkünnden, den spruchbrieve des rechtens, so si sich
+<lb n="4"/>an ainem, und die von <placeName ref="stadtasg-places-235">Sevelen</placeName>, die dem wolgeporn unserm lieben vettern
+<lb n="5"/>grave <persName ref="stadtasg-actors-706">Wilhelmen von Montfortt</persName> zuogehoerend, an dem anndern tail uff in
+<lb n="6"/>veranlausset gehept, von üwerm stattschriber zu loesendt etc., soelichs wir
+<lb n="7"/>nu gethan haben. Daruff werden si ir bottschafft und anwaelt umb
+<lb n="8"/>solich brief sennden, und wann nu die bemelten von <placeName ref="stadtasg-places-234">Trisen</placeName> arm lüte
+<lb n="9"/>sind und si die sache vil hat gestannden, so pitten wir üch mit allem
+<lb n="10"/>vlisse ernstlichist wir koennen, ir wellent mit dem bemelten üwerm
+<lb n="11"/>stattschriber daran sin und schaffen, damit die selben von <placeName ref="stadtasg-places-234">Trisen</placeName> von
+<lb n="12"/>im guettlich und beschaidenlich gehalten werden. Daz wellen wir in gepür
+<lb break="no" n="13"/>lichait gerne umb üch verdienen, wa das ze schulden kompt. Geben zu
+<lb n="14"/><origPlace ref="stadtasg-places-31">Vadutz</origPlace> uff <origDate when="1467-03-04">mitwochen vor dem sunntag letare zu mitterfasten anno
+<lb n="15"/>domini MoCCCCLX septimo</origDate>.
+<lb n="16"/><persName ref="stadtasg-actors-54" role="issuer">Wolfhart</persName> und <persName ref="stadtasg-actors-704" role="issuer">Sigmund</persName> fry
+<lb n="17"/>hern gebruoder von Branndiß.
+<pb facs="StadtASG_Missive_387_788.JPG" n="2"/>
+<lb n="18"/>Den ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raute
+<lb n="19"/>der statt zu Santgallen</orgName> unsern guotten frünnden.
+</p>
+        </body>
+    </text>
+</TEI>

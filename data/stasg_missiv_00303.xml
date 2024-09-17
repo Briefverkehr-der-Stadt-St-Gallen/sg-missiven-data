@@ -47,7 +47,7 @@
                     <persName ref="stadtasg-actors-104">Hans von Höchst</persName>                    <date>1454-05-27</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
             </correspDesc>
         </profileDesc>
         <revisionDesc>
@@ -82,7 +82,7 @@
 <lb n="13" />ains briefs, den ich irem kircherren darumb gescriben han, die ich üch hierinn
 <lb n="14" />verslossen send. Bitt ich üwer wißhait mit ernst, ob dz waer, das
 <lb n="15" />ich si mit dem gaistlichen gericht, damit ich si umb dz reht fürgenomen han,
-    <lb n="16" />dar zuo bringen moecht, dem rehten noch <origdate when="1454-05-27">hüt bi tag</origdate> nach ze koment
+    <lb n="16" />dar zuo bringen moecht, dem rehten noch <origDate when="1454-05-27">hüt bi tag</origDate> nach ze koment
 <lb n="17" />nach ir ersten gescriften sag, daz ir es denn tuegint durch gotz und
 <lb n="18" />mins dienstz willen, und üch dz rehten an nemint und kurtz tag
 <lb n="19" />daran setzint, dz wir mit reht entschaiden werdint, und daz ich üch

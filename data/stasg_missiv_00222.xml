@@ -8,7 +8,7 @@
             <publicationStmt>
                 <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
             </publicationStmt>
-            <noteStmt><note><p>Die erwähnte Beilage ist nicht vorhanden.</p></note></noteStmt>
+            <notesStmt><note><p>Die erwähnte Beilage ist nicht vorhanden.</p></note></notesStmt>
             <sourceDesc>
                 <msDesc type="missiv">
                     <msIdentifier>
@@ -69,7 +69,7 @@
                     <date>1450-02-08</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

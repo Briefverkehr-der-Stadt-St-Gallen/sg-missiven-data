@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 370</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00371.xml">371</ref>.</p></note></notesStmt>  
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_370_747/748</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Wolfhard VI. von Brandis antwortet Bürgermeister und Rat zu St. Gallen, dass er auf ihr Schreiben hin seinen Ammann am Eschnerberg beauftragt habe, im Streit zwischen Hans Riner von Salez und Lienhard Signer vom Eschnerberg zu vermitteln.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+<term ref="stadtasg-keywords-154">Ammann</term>
+<term ref="stadtasg-keywords-120">Vermittlung</term>
+<term ref="stadtasg-keywords-324">Freiherr</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-54">Wolfhard VI. von Brandis</persName>                    <date>1465-03-27</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-06-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_370_747.JPG" n="1" />
+<p>
+<lb n="1" />Min früntlich dienst zuo vor lieben guoten fründ. Als ir mir geschriben hand als
+<lb n="2" />von <persName ref="stadtasg-actors-664">Hanssen Riner</persName> von <placeName ref="stadtasg-places-223">Saletz</placeName>, och <persName ref="stadtasg-actors-665">Lienhart Signers</persName> ab dem <placeName ref="stadtasg-places-96">Eschnerberg</placeName> mit
+<lb n="3" />enander ain zewurffnuss gehebt haben, über das sy in ainer trostung des rechten
+<lb n="4" />standint etc. Nun hab ich nit umb soelich zerwurffung vor gewist, dann das ir
+<lb n="5" />mir sy künt haben durch üwer geschrifft. Also hab ich minem amman an
+<lb n="6" />dem <placeName ref="stadtasg-places-96">Eschnerberg</placeName> enbotten, zuo den sachen ze tuon und in trostung stellen zuo
+<lb n="7" />recht, und das daruff ieder vor dem anderen sicher wandlen mug, wie dann
+<lb n="8" />das billich ist. Geben am <origDate when="1465-03-27">mittwuchen nach unsser lieben frowen tag annunciationis
+<lb n="9" />anno domini LXVo</origDate>.
+<lb n="10" /><persName ref="stadtasg-actors-54" role="issuer">Wolffhart von Brandis</persName>,
+<lb n="11" />fry.
+<pb facs="StadtASG_Missive_370_748.JPG" n="2" />
+<lb n="12" />Den fürsichtigen wissen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und
+<lb n="13" />rat zuo sant Gallen</orgName> minen guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

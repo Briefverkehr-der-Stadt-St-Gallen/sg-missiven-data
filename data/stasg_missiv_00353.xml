@@ -1,0 +1,115 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 353</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_353_711/712</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hans Zerahoch von Rorschach, Bürger zu St. Gallen, schreibt an Bürgermeister und Rat zu St. Gallen wegen des Konflikts mit seinen Stiefsöhnen Rudolf und Egli Bertschi. Der Ritter Heinrich von Randegg habe den Fall an St. Gallen weitergeleitet. Er bittet nun St. Gallen um eine Gerichtsverhandlung und sicheres Geleit im Namen von Ulrich Rösch, dem Kirchenpfleger. Des Weiteren bittet er um schriftliche Antwort in das Haus von Klaus Blarer in Konstanz.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-175">Sohn</term>
+<term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+<term ref="stadtasg-keywords-2">Geleit</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-16">Kirchenpfleger</term>
+<term ref="stadtasg-keywords-527">Vater</term>
+<term ref="stadtasg-keywords-56">Urkunde</term>
+<term ref="stadtasg-keywords-240">Ritter</term>
+<term ref="stadtasg-keywords-149">Rechtstag</term>
+<term ref="stadtasg-keywords-314">Anwalt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-624">Hans Zerahoch</persName>                    <date>1463-04-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName> <placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-05-28</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_353_711.JPG" n="1"/>
+<p>
+<lb n="1"/>Fürsichtigen ersamen und wisen gnedigen lieben herren min
+<lb n="2"/>berait willig undertenig dienst sigen uwer wishait von mir
+<lb n="3"/>alziten bevor. Wisen herren, ich fueg üwer wishait zewissen,
+<lb n="4"/>nach dem und ich dann <persName ref="stadtasg-actors-648">Ruedin</persName> und <persName ref="stadtasg-actors-649">Eglin die Bertschin</persName>, gebrueder,
+<lb n="5"/>mine stüfsün, von <placeName ref="stadtasg-places-87">Rorschach</placeName> umb mine spruch gen <placeName ref="stadtasg-places-158">Rotwile</placeName>
+<lb n="6"/>fürgenomen haedt, wann sy nun minem gendigen herren von
+<lb n="7"/><placeName ref="stadtasg-places-7">Costentz</placeName> zuo versprechen stond, also sigen wir ze baider sidt ver
+<lb break="no" n="8"/>anlaset durch den edeln strengen herrn <persName ref="stadtasg-actors-650">Hainrichen von Ran
+<lb break="no" n="9"/>degk</persName>, ritter, und ander mins gnedigen herrn von <placeName ref="stadtasg-places-7">Costentz</placeName> raet uff
+<lb n="10"/>uch burgermaister und rat nach lut zwayer zedelen von enander
+<lb n="11"/>geschnitten. Also wisen gnedigen lieben herrn, wann ich nun zuo
+<lb n="12"/>uwer wishait das vertruwen hab, so bitt ich uch yemer durch
+<lb n="13"/>gott und des rechten willen, ir wellen uch solich recht minhalb
+<lb n="14"/>guetlich annemen und beladen, mir och anfang und ze end
+<lb n="15"/>desselben rechten und wider davon bis an min gewarnusse
+<lb n="16"/>guot sicherhait und gelait für uch und die uwern zuo schriben
+<lb n="17"/>und geben, mir och das zuo argem nicht vermerken, sonder üch
+<lb n="18"/>darynne so gnedklich bewisen und erzaigen wellen, als ich dann üch
+<lb n="19"/>des von alles guoten ain sonder gantz vertruwen hab. Und nach
+<lb n="20"/>dem so wellen mir und minem widertail, so ir des ermant
+<lb n="21"/>werden, kurtz tag dar an ze setzen, damit das recht gefürdert
+<lb n="22"/>und zuo entlichem ustrag komme. Das beger ich umb uwer ersam
+<lb n="23"/>wishait alle und yeglichen insonders und och umb uwer gemain
+<lb n="24"/>statt mit gantzem unverdrossen willen, als billich ist, verdienen,
+<lb n="25"/>wa sich das gepürt, dann mir der würdig herr <persName ref="stadtasg-actors-651">Uolrich Roesch</persName>
+<lb n="26"/>pfleger oder sin anwaelt an siner statt och dermaß für sich und
+<lb n="27"/>die sinen gelait und guot sicherhait geben und zuo schriben süllen,
+<lb n="28"/>als mir denn dz von den vorgenanten betaedunger zuo gesagt ist worden.
+<lb n="29"/>Geben und zuo urkünt von miner bitt wegen mit der ersamen
+<lb n="30"/><persName ref="">Johansen Frowenlobs</persName>, burger zuo <placeName ref="stadtasg-places-7">Costentz</placeName>, für mich, im on schaden,
+<lb n="31"/>hie ufgetruckten bittschet versigelt uff <origDate when="1463-04-12">hüt zinstag nach lut der
+<lb n="32"/>anlaeß zedel in der hailigen oesterlichen wochen anno domini etc. LXIII</origDate>.
+<lb n="33"/>Und bitt darumb uwer geschriben antwort mir zuo schicken gen
+<lb n="34"/><placeName ref="stadtasg-places-7">Costentz</placeName> in <persName ref="stadtasg-actors-652">Clausen Plaren</persName> hus, so erst und ir botten gehan mügen.
+<lb n="35"/>Üwer wishait
+<lb n="36"/>underteniger
+<lb n="37"/><persName ref="stadtasg-actors-624" role="issuer">Hans Zerahoh</persName>
+<lb n="38"/>von <placeName ref="stadtasg-places-87">Rorschach</placeName>,
+<lb n="39"/>uwer mitburger.
+<pb facs="StadtASG_Missive_353_712.JPG" n="2"/>
+<lb n="40"/>Den fürsichtigen ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="41"/>maister und rate zuo sant Gallen</orgName> minen
+<lb n="42"/>gnedigen herren und guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

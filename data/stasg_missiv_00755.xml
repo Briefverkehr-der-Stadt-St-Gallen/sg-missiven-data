@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 755</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Pergament.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_755_1963/1964</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Pergament</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Nürnberg schreiben Statthalter und Rat zu St. Gallen, dass sie den Überfall auf St. Galler Kaufleute bedauern und verurteilen. Die Nürnberger versichern den St. Gallern, dass sie sich für die Verfolgung der Räuber einsetzen werden, weisen aber darauf hin, dass die Tat auf dem Hoheitsgebiet des Markgrafen Georg Friedrich I. von Brandenburg-Ansbach geschehen sei, wodurch dieser für die Sicherheit zuständig sei. Zudem erwähnen sie, dass es gut gewesen wäre, wenn die Geschädigten etwas behutsamer mit ihrer Ware umgegangen und verschwiegener gewesen wären, denn dann hätte man sie nicht so leicht auskundschaften können.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                <term ref="stadtasg-keywords-236">Raub</term>
+<term ref="stadtasg-keywords-385">Strasse</term>
+<term ref="stadtasg-keywords-75">Angriff</term>
+<term ref="stadtasg-keywords-180">Kaufmann</term>
+<term ref="stadtasg-keywords-409">Markgraf</term>
+<term ref="stadtasg-keywords-316">Obrigkeit</term>
+<term ref="stadtasg-keywords-275">Fürst</term> 
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-217">Antwort</term> 
+<term ref="stadtasg-keywords-107">Strafe</term> 
+<term ref="stadtasg-keywords-228">Reiter</term> 
+<term ref="stadtasg-keywords-106">Diebstahl</term>
+<term ref="stadtasg-keywords-401">Statthalter</term>
+            </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-571">Bürgermeister und Rat zu Nürnberg</orgName>                    <date>1556-08-31</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-629">Statthalter und Rat zu St. Gallen</orgName> <placeName  ref="stadtasg-places-38">St. Gallen</placeName>                 </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW</persName>
+                <date>2021-04-12</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-01-26</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_755_1963.JPG" n="1"/>
+<p>
+<lb n="1"/>Unser freundtlich willig dienst eur erberkait mit vleis voran berait gestrengen fromen fürsichtigen ersamen unnd weisen besonder
+<lb n="2"/>lieben unnd guten frünnd. Wir haben eur fürsichtigkait schreiben, die raublich that unnd morderischen angriff, so neulicher zeit eur wyshait burger
+<lb n="3"/>ainem auch derselben potten von ettlichen reuttern unnd stroß räubern begegnet belangende alles inhalts vernomen, unnd ist unns warlich
+<lb n="4"/>solche raubliche that unnd der eurn zugestandner schad unnd verlust nit lieb, sonder tragen mit inen ein christlichs getreus mitleiden, wolten
+<lb n="5"/>auch nichts liebers, dann das wir zue gebürlicher straff unnd außreuttung diser unnd dergleichen ubelthatten füglich komen möchten. Solt fürwar
+<lb n="6"/>zu kainem mal an allem unserm fleis unnd mühe, auch <unclear>unbeshauet</unclear> ainichs cosstens, der darauf geen möcht, gar nichts erwinden, wie wir dann nit
+<lb n="7"/>undterlassen, sobald dise strefliche hanndlung vor zukunfft eur fürsichtigkait schreibens an unns gelanngt, ungeachtet das die nit in unser, sunder deß durch
+<lb break="no" n="8"/>leuchtigen hochgebornen fürsten unsers gnedigen herrn marggraff <persName ref="stadtasg-actors-630">Georg Fridreichs zu Brandenburg</persName> etc. oberkait unnd gebiet gescheen, fleissige
+<lb n="9"/>nachfrag unnd kuntschafft auf die thetter zumachen, wer sie gewest und wohin sie komen sein mochten, aber bis uf disen tag nichts grundtlichs
+<lb n="10"/>erkundigen konnen, dann ob wol solche streffliche that, wie gemelt in einer frembden oberkait dess orts wir gar nichts zugebieten haben,
+<lb n="11"/>noch die strassen rain hallten oder versichern mugen, wollen wir dannocht an allem dem, das zuerkundigung der thetter unnd gebür
+<lb break="no" n="12"/>licher straff derselben imer dienstlich und fürderlich sein mag, noch nichts an unns erwinden unnd eur fürsichtigkait alß dann, was wir mit
+<lb n="13"/>grundt in erfarung bringen, dasselbigs inn vertrauen unverhalten lassen. Wer aber gleichwol gut gewest, das die beschedigten mit
+<lb n="14"/>iren dingen etwas behutsamer und etwas stiler mit iren dingen umbgangen weren, damit mans nit so leichtlich het außkuntschafften mugen,
+<lb n="15"/>dann uns unmuglich bey so mancherley genachbaurten herrschafften unnd oberkaiten, die umb unns wonen, die strassen uberal rein zuhalten
+<lb n="16"/>und allen plackereyen zu wehrn, so seyen dise gotlose leut der art und aigenschafft, wo sy nur ein peut zuerobern wissen, das sy in solchenfall
+<lb n="17"/>zwischen unsern unnd andern burgern unnd kauffleuten wenig underschieds machen. Eur fürsichtigkait steet aber bevor, irer beschedigten burgers und potens
+<lb n="18"/>halb bey hochgedachtem unserm gnedigsten herrn dem marggrafen di gebürlich notturfft auch zusuchen und zuhandeln, zweifelt uns nit, sein fürsichtig gnaden werden
+<lb n="19"/>sich in der sachen auch wol fürstlich und gnediglich zuhalten wissen, welches wir eur fürsichtigkait, der wir zu aller freundtlicher dienstbarkait gentzlich wol gewegen
+<lb n="20"/>seyen, hinwider guter meinung zu antwort nit wolten pergen. Datum <origDate when="1556-08-31">montags 31ten augusti 1556</origDate>.
+<lb n="21"/><orgName ref="stadtasg-actors-571" role="issuer">Burgermeister unnd rathe
+<lb n="22"/>zuo Nürmberg</orgName>.
+<pb facs="StadtASG_Missive_755_1964.JPG" n="2"/>
+<lb n="23"/>Den gestrengen fromen fürsichtigen ersamen
+<lb n="24"/>unnd weysen <orgName ref="stadtasg-actors-629" role="recipient">statthalltern und rath der
+<lb n="25"/>statt sanct Gallen</orgName> unsern besundern lieben
+<lb n="26"/>unnd guten freunden.
+</p>
+        </body>
+    </text>
+</TEI>

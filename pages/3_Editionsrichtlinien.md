@@ -23,7 +23,7 @@ Im Text sind Personen, Familien, Organisationen und Orte hervorgehoben und durch
 #### Namen
 
 Im Namensregister sind Personen, Familien und Organisationen unterschieden.
-Ist eine Person nicht namentlich genannt, aber einfach zu identifizieren, wird sie in einer Fussnote gekennzeichnet. Weitere Informationen zur betreffenden Person (z.B. Ämter, Erwähnungsdaten innerhalb dieser Edition etc.) sind nicht ausgeschrieben, da sie über die Personendatenbank greifbar sind. Organisationen können Körperschaften und Institutionen sein, z.B. *Kloster St. Gallen*.
+Ist eine Person nicht namentlich genannt, aber einfach zu identifizieren, wird sie in einer Fussnote gekennzeichnet. Andernfalls wird, auch für fehlende Namensteile, die Abkürzung NN gesetzt, z.B. *NN, Grete*. Weitere Informationen zur betreffenden Person (z.B. Ämter, Erwähnungsdaten innerhalb dieser Edition etc.) sind nicht ausgeschrieben, da sie über die Personendatenbank greifbar sind. Organisationen können Körperschaften und Institutionen sein, z.B. *Kloster St. Gallen*.
 
 #### Orte
 
@@ -60,5 +60,5 @@ Es gilt das Prinzip der Kleinschreibung. Personen-, Orts- und Flurnamen sowie Sa
 ### Abkürzungen und unsichere Lesung
 
 - Gebräuchliche Abkürzungen und Verschleifungen werden kommentarlos aufgelöst, sei es nach den allgemeingültigen Regeln, sei es nach der Gewohnheit der Schreiberin oder des Schreibers.
-- Nicht aufgelöst werden Münz- und Massangaben. Sie werden originalgetreu mit Kürzungspunkt wiedergegeben.
+- Münz- und Massangaben werden originalgetreu mit Kürzungspunkt wiedergegeben und in einem Pop-up-Fenster aufgelöst.
 - Herausgeberergänzungen, unsichere Lesungen oder Auflösungen sowie Textlücken sind in eckige Klammern gesetzt.

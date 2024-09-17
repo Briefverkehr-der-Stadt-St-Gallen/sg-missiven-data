@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 380</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00367.xml">367</ref>.</p></note></notesStmt>  
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_380_773/774</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die in Baden versammelten eidgenössischen Räte bitten Bürgermeister und Rat zu St. Gallen in der Sache des Spitalpfründners Walter Spättig aus Appenzell um Unterstützung. Aufgrund einer Verleumdung wurde er aus dem Spital und aus der Stadt St. Gallen verwiesen. Nun bitten sie darum, ihn wieder in seine Pfründe einzusetzen. Es wird eine Antwort auf die Tagsatzung in Zürich erwartet.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-44">Verleumdung</term>
+<term ref="stadtasg-keywords-302">Pfründner</term>
+<term ref="stadtasg-keywords-354">Spital</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+<term ref="stadtasg-keywords-263">Vogt</term>
+<term ref="stadtasg-keywords-461">Armut</term>
+<term ref="stadtasg-keywords-63">Gerücht</term>
+<term ref="stadtasg-keywords-24">Klage</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-534">Eidgenössische Räte</orgName>     <placeName ref="stadtasg-places-53">Baden</placeName>               <date>1466-06-14</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-08-27</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_380_773.JPG" n="1" />
+<p>
+<lb n="1" />Unnser fruntlich willig diennst und was wir in allen sachen eren lieb und guotz vermögend sye üch alle zitt zuovor an
+<lb n="2" />bereit ersamen wisen sundern guotten fründ und getrüwen lieben eidgnoßen. Also hatt uns fürbracht <persName ref="stadtasg-actors-690">Weltti Spettig</persName> von
+<lb n="3" /><placeName ref="stadtasg-places-8">Apenzelle</placeName>, wie dz ir im vor ettwas iaren ein pfruond in üwerm <orgName ref="stadtasg-actors-552">spittal</orgName> geben habend, und als er ein zitt darinn were,
+<lb n="4" />do wurde er von etlichen sinen mißgönnern schwarlich und treffenlich verclagt und gen üch mit unwarheit dargeben,
+<lb n="5" />dz er von der selben siner pfruond und us üwer statt und gebiett wichen müsste one schuld und unverdienter sach und sye
+<lb n="6" />also ein zit also nit in üwer statt gewesen und hat uns gar demütenklich angerüfft und gebetten, im harinn unser furdernüß
+<lb n="7" />an üch ze geben, denn er hoff, dz im die erschieslichen sin sölle. Wonn nun derselb <persName ref="stadtasg-actors-690">Spättig</persName> ein alter krancker man und sölicher
+<lb n="8" />pfruonde notturfftig ist ouch sich willenklich erbütt ze tounde, wz üch und dem spittal und denen, so dar inn sind, früntlich
+<lb n="9" />lieb und dienst ist, darumb so bitten wir üwer guotten früntschafft mit besunder ernstlichem vlis früntlich, habe
+<lb n="10" />der obgenant <persName ref="stadtasg-actors-690">Spettig</persName> mit keinen sachen wider üch getan und sich nit gehalten, als er solt, im dz zuo vergeben und im durch gotz
+<lb n="11" />willen ouch uns ze eren und lieb wider begnaden und im sin pfruond in dem obgemelten üwern <orgName ref="stadtasg-actors-552">spittal</orgName> gütlich widergeben
+<lb n="12" />und volgen lasen und üch har inn umb unsern willen so fruntlich bewisen, da mit der obgenanten arman bevinden moge unser
+<lb n="13" />bitt genesen haben. Das wöllend wir umb üch fruntlich verdienen, wenn sich dz fügen wirt, und ir wollend uns har
+<lb break="no" n="14" />umb üwer antwurt uff den tag gen <placeName ref="stadtasg-places-32">Zurich</placeName> wissen lasen. Geben und mit des fromen wissen <persName ref="stadtasg-actors-695">Ruodolffen Heintzlis</persName> von <placeName ref="stadtasg-places-72">Under
+<lb break="no" n="15" />walden</placeName> unser vogtz zuo <placeName ref="stadtasg-places-53">Baden</placeName> insigel von uns aller wegen versigelt uff <origDate when="1466-06-14">samstag vor sant Vitz tag in anno etc. LXIIto</origDate>.
+<lb n="16" /><orgName ref="stadtasg-actors-534" role="issuer">Gemeiner eidgnosen ratsfrunde</orgName>, als wir
+<lb n="17" />ietz zuo <origPlace ref="stadtasg-places-53">Baden</origPlace> by einandern sinnd.
+<pb facs="StadtASG_Missive_380_774.JPG" n="2" />
+<lb n="18" />Den ersamen wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und ratte zuo santt Gallen</orgName>
+<lb n="19" />unnsern besundern guotten frunden und getrüwen lieben eidgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

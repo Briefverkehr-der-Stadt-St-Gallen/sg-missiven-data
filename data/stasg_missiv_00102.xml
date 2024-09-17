@@ -25,7 +25,7 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Marquart der Jüngere von Schellenberg bittet Bürgermeister und Rat zu St. Gallen
+                <p>Marquard der Jüngere von Schellenberg bittet Bürgermeister und Rat zu St. Gallen
                     darum, ihm bei der Schuldeneintreibung beim St. Galler Bürger Eberhard von
                     Ramschwag, dem Schwiegersohn und Erben Ulrichs von Ems, des ursprünglichen
                     Schuldners, zu helfen. Er bittet um die Ansetzung eines Verhandlungstags und um
@@ -51,12 +51,12 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="stadtasg-actors-46">Marquart der Jüngere von Schellenberg</persName>
+                    <persName ref="stadtasg-actors-46">Marquard von Schellenberg (I)</persName>
                     
                     <date>1438-03-07</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

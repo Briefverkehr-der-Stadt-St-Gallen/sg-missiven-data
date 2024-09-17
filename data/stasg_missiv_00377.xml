@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 377</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00376.xml">376</ref>, <ref target="stasg_missiv_00381.xml">381</ref>, <ref target="stasg_missiv_00383.xml">383</ref>, <ref target="stasg_missiv_00384.xml">384</ref> und <ref target="stasg_missiv_00385.xml">385</ref>.</p></note></notesStmt>   
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_377_767/768</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Georg Rem schreibt an Johannes Utz, Stadtschreiber in St. Gallen, und fragt nach den ausstehenden drei Gulden, welche er bereits früher schriftlich eingefordert habe. Der Bote Siferlin habe ihm gesagt, dass man in St. Gallen meine, der Betrag von drei Gulden sei bereits abgegolten, was jedoch nicht stimme.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-221">Rückzahlung</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-159">Stadtschreiber</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-676">Georg Rem</persName>                    <date>1465-11-02</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-668">Johannes Utz</persName> <placeName ref="stadtasg-places-38">St. Gallen</placeName>                 </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-08-27</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_377_767.JPG" n="1" />
+<p>
+<lb n="1" />Min früntlich willig dienst zuvor ersamer wyser lieber herr. Ich
+<lb n="2" />hab üch nechstmals geschriben umb dry guldin, so ich min herren
+<lb n="3" />von <placeName ref="stadtasg-places-38">sannt Gallen</placeName> umb die ervolgung dargelichen hab, daruff ir
+<lb n="4" />mir nütz geschriben, ouch das gelt nit geschickt hand, und sagt
+<lb n="5" />mir <persName ref="stadtasg-actors-677">Syfferlin</persName>, üwer mainung syge, mir die vergolten haben. Lieber
+<lb n="6" />herr, da wöllend wissend, das mir an der ervolgung nie haller worden
+<lb n="7" />ist. Und wie wol ich doch der bin, der minen herren zu willen
+<lb n="8" />sin aigengelt dar gelühen hat, herumb ich üch mit allem vliß ernst
+<lb break="no" n="9" />lich bitt, daran zu sin, damit mir sölich gelt geschickt werd by disem
+<lb n="10" />botten, damit ich mines guten willen gegen minen herren nit en
+<lb break="no" n="11" />gelten mueß, dann wer es mir worden, ich wölt es gar ungern
+<lb n="12" />haischen. Und tünd hier inn, als ich sonnder üch wol getruwe, das
+<lb n="13" />wel ich mit willen umb üch verdienen. Geben an <origDate when="1465-11-02">aller selen tag
+<lb n="14" />anno etc. sexagesimo quinto</origDate>.
+<lb n="15" /><persName ref="stadtasg-actors-676" role="issuer">Jörg Rem</persName> procurator etc.
+<pb facs="StadtASG_Missive_377_768.JPG" n="2" />
+<lb n="16" />Dem ersamen wysen <persName ref="stadtasg-actors-668" role="recipient">Johannes Uotz</persName>,
+<lb n="17" />stattschriber zu <placeName ref="stadtasg-places-38">sannt Gallen</placeName> minem
+<lb n="18" />lieben herren.
+</p>
+        </body>
+    </text>
+</TEI>

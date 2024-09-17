@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 371</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00370.xml">370</ref>.</p></note></notesStmt>  
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_371_749/750</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Wolfhard VI. von Brandis informiert Bürgermeister und Rat zu St. Gallen im Streit zwischen seinem Untergebenen Lienhard Signer auf der einen und Hans Riner von Salez, dem Untergebenen von Lütfried Mötteli, auf der anderen Seite, dass er sich der Streitsache angenommen habe. Er bittet nun im Namen Signers die St. Galler, dafür zu sorgen, dass Signer zu seinem Recht komme. Sollte dies nicht geschehen, so werde er Signer nicht daran hindern, den Fall gerichtlich weiter zu ziehen. Er bittet um schriftliche Antwort.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-123">Untertan</term>
+<term ref="stadtasg-keywords-156">Recht</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-324">Freiherr</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-54">Wolfhard VI. von Brandis</persName>                    <date>1465-05-06</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>CS</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-06-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_371_749.JPG" n="1"/>
+<p>
+<lb n="1"/>Min früntlich willig dienst zuo vor ersamen und wisen lieben guoten fründ.
+<lb n="2"/>Euüer schriben der stoessen halb, den <persName ref="stadtasg-actors-665">Siginer</persName> den minen an ainem und
+<lb n="3"/>den <persName ref="stadtasg-actors-664">Riner</persName> von <placeName ref="stadtasg-places-223">Salaetz</placeName>, <persName ref="stadtasg-actors-663">Lütfriden Moetelin</persName> zuogehoerend, an demm andren taile
+<lb n="4"/>anlangend, verlesen, heb ich wol vermerkt, und fuege üch zuo wissen, das
+<lb n="5"/>ich den <persName ref="stadtasg-actors-665">Siginer</persName> deß frevels halb ze baider geschaechen genuogsamlich ze vertroesten
+<lb n="6"/>hab geschaft, als denn billich ist. Daby mich aber der <persName ref="stadtasg-actors-665">Siginer</persName> umb recht imm
+<lb n="7"/>verschaffen gegen demm <persName ref="stadtasg-actors-664">Riner</persName> zeverfolgen ernstlich an ruefet, wann er gebraest halb
+<lb n="8"/>deß rechten in soemlichem schwaeren lümpden, lenger denn billich ist, sye gestanden.
+<lb n="9"/>Hyer umb so bitte ich euüer lieb früntschaft mit flis, ir wellend füro
+<lb n="10"/>dar an sin, damit demm <persName ref="stadtasg-actors-665">Siginer</persName> ain unerzogenlich recht werde bestimpt
+<lb n="11"/>und gesetz, damit und yeder parthye nach gelegenheit der sachen billichs
+<lb n="12"/>verfolge und och geschaeche. Ob aber soemlichs nit beschaech, so moechte ich
+<lb n="13"/>demm minen nit vorsin, recht witer ze suochen, als sich denn gepüren
+<lb n="14"/>wirde, vergunnen, deß ich doch üch und den euüern ze schonen lieber
+<lb n="15"/>welte sin vertragen. Hyer inne wellend üch bewisen, als ich denn sunder
+<lb n="16"/>guot triü zuo ewer ersam lieb früntschaft habe. Datum uff <origDate when="1465-05-06">mentag naechst
+<lb n="17"/>nach demm suntag iubilate anno domini LXV</origDate> etc. Euüer beschriben antwurt etc.
+<lb n="18"/><persName ref="stadtasg-actors-54" role="issuer">Wolfhart fry herr
+<lb n="19"/>zuo Brandis</persName>.
+<pb facs="StadtASG_Missive_371_750.JPG" n="2"/>
+<lb n="20"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaistren
+<lb n="21"/>und rat der statt zuo sant Gallen</orgName> minen
+<lb n="22"/>lieben guoten fründen etc.
+</p>
+        </body>
+    </text>
+</TEI>

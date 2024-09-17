@@ -41,7 +41,7 @@
                                         <date>1452-08-22</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
             </correspDesc>
         </profileDesc>
         <revisionDesc>
@@ -72,8 +72,8 @@
 <lb n="9" />versehen wir uns wol, wa üwer gesellen yetzen her zuo
 <lb n="10" />uns kömynt, dz sy denn mit tantzen, spilen und andern froeden,
 <lb n="11" />so zuo soellichem gehoert, froed und lust begertint ze suochen alz
-<lb n="12" />billich waer. Und wan wir nun soellichz yetzen die driß
-<lb n="13" />gesten uß by uns verbotten haben, hierumb so waer unser
+<lb n="12" />billich waer. Und wan wir nun soellichz yetzen die driß-
+<lb n="13" />gosten uß by uns verbotten haben, hierumb so waer unser
 <lb n="14" />gevallen, dz ir mit den üwern redttint, dz sy die sach untz
 <lb n="15" />für die drißgosten verzugint und verhieltint, und wenn
 <lb n="16" />sy denn nach derselben zit koemynt, darumb wir üch und

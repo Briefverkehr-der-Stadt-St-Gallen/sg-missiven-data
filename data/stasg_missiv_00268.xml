@@ -7,7 +7,7 @@
             <publicationStmt>
                 <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
             </publicationStmt>
-            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. 258, 259, 262, 269 und 358.</p></note></notesStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00258.xml">258</ref>, <ref target="stasg_missiv_00259.xml">259</ref>, <ref target="stasg_missiv_00262.xml">262</ref>, <ref target="stasg_missiv_00269.xml">269</ref> und <ref target="stasg_missiv_00358.xml">358</ref>.</p></note></notesStmt>
                         <sourceDesc>
                 <msDesc type="missiv">                    <msIdentifier>
                         <idno>StadtASG Missive_268_537/538</idno>
@@ -45,7 +45,7 @@
                     <placeName ref="stadtasg-places-7">Konstanz</placeName>                    <date>1452-07-29</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
             </correspDesc>
         </profileDesc>
         <revisionDesc>

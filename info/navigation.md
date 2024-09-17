@@ -13,5 +13,6 @@ Logo
 - Über die Edition
     - Über das Projekt
     - Editionsrichtlinien
+    - Missive des Monats
     - Auswahlbibliographie 
     - Impressum
