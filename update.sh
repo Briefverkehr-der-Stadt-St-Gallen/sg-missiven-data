@@ -1,7 +1,7 @@
 #!/bin/sh
 source="../missive-data"
-target="../stgm-data"
-app="../stgm"
+target="../sg-missiven-data"
+app="../sg-missiven-app"
 
 SECONDS=0
 start=$(date +"%Y-%m-%dT%H:%M:%S%z")
@@ -15,10 +15,16 @@ cp $source/34_finalized/*.xml "$target/data/"
 cp $source/README.md "$target/"
 cp $source/info/* "$target/info"
 cp -r $source/pages/* "$target/pages"
-mv "$target/pages/2_Über das Projekt.md" "$target/pages/2_Ueber_das_Projekt.md"
 echo "Move PDF files to web app"
-rm -r "$app/stgm/resources/pdfs"
-mv "$target/pages/pdfs" "$app/stgm/resources/"
+rm -r "$app/resources/pdfs"
+mv "$target/pages/pdfs" "$app/resources/"
+cp -a "$target/pages/missivedesmonats/." "$app/resources/pdfs/"
+rm -r "$target/pages/missivedesmonats"
+echo "Move images files to web app"
+cp -a "$source/pages/images/." "$app/resources/images/"
+rm -r "$target/pages/images/"
+echo "Move script data to web app"
+mv "$target/pages/highlights.xml" "$app/resources/scripts/app/"
 
 echo "Update Anton data"
 curl https://stadtasg.anton.ch/api/tei/refresh?api_token=yMzzOO8NeKQFuynAYRhrKZSMcjZAnuAkcFlEzDtru209aXnPk8jexRzCTyam
