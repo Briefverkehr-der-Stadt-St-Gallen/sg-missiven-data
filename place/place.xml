@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-09-18 11:35:38 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
+        <p>Datenbankexport vom 2024-09-18 16:57:38 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -1110,6 +1110,8 @@
             <placeName type="sort" xml:lang="de">ungarn</placeName>
             <location>
               <geo>47 20</geo>
+              <country xml:lang="de">Ungarn</country>
+              <country xml:lang="en">Hungary</country>
             </location>
             <idno type="stadtasg-places-id">41</idno>
             <listBibl>
@@ -1143,6 +1145,21 @@
               </bibl>
               <bibl>
                 <ptr type="gnd" target="https://d-nb.info/gnd/4007467-5"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q39193"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Böhmen"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Bohemia"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh85015303"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/246065600/"/>
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
@@ -6422,7 +6439,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2024-09-18T11:35:39+02:00">teiHeader was automatically produced from the database 2024-09-18T11:35:39+02:00</change>
+      <change when="2024-09-18T16:57:39+02:00">teiHeader was automatically produced from the database 2024-09-18T16:57:39+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
