@@ -51,7 +51,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <!-- absender kann natuerlich auch mit orgName getaggt sein -->
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                    <date>1467-08-14</date>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                    <date>1467-08-14</date>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="stadtasg-actors-721">Ulrich von Nussdorf</persName><placeName ref="stadtasg-places-246">Passau</placeName>               </correspAction>

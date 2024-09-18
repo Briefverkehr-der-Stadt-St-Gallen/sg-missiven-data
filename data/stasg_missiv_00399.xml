@@ -44,7 +44,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <!-- absender kann natuerlich auch mit orgName getaggt sein -->
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>                    <date>1470-01-20</date>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                    <date>1470-01-20</date>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="stadtasg-actors-591">Ulrich V. von Württemberg</persName>                </correspAction>

@@ -57,7 +57,7 @@
                     <date>1439-10-08</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>
                 </correspAction>
             </correspDesc>
         </profileDesc>
@@ -82,7 +82,7 @@
                 fründ. Wir sind, als billich ist, unvergessen, das üwer früntschaft von unser und
                 ander unser eidgnossen
                 <lb n="3"/>begerens und ouch solichs getruwen zuo sechens wegen, so ir ze gemeiner
-                    <orgName ref="stadtasg-actors-534">Eidgnoschafft</orgName> hant, in aller liebi und <lb
+                    <orgName ref="stadtasg-actors-750">Eidgnoschafft</orgName> hant, in aller liebi und <lb
                     n="4"/>trüw vil müy costen und arbeit von der zweitrecht wegen, so denn
                 zwüschent unsern sundern guoten fründen <lb n="5"/>und lieben getruwen eidgnossen
                 denen von <placeName ref="stadtasg-places-32">Zürich</placeName> und von
@@ -102,7 +102,7 @@
                     uffem Rin</orgName> guoten und lieben fründen gan <placeName ref="stadtasg-places-10"
                     >Zug</placeName> ze koment, <lb n="15"/>da selbs uff <date when="1439-10-16"
                     >sant Gallen tag</date> an der herberg ze sinde, geschriben und gebetten hatten,
-                üch umb unser <lb n="16"/>gemeiner <orgName ref="stadtasg-actors-534">Eidgnoschafft</orgName> willen fürer ze
+                üch umb unser <lb n="16"/>gemeiner <orgName ref="stadtasg-actors-750">Eidgnoschafft</orgName> willen fürer ze
                 muegen und ze arbeiten, ob uns gott der almechtig das heil <lb n="17"/>geben wolt,
                 das die sachen noch an meren kumber hin geleit wurden, und umb das üwer wisheit <lb
                     n="18"/>botten, so ir dar zuo schiken werdent, des wir üch ouch wol getruwent,
@@ -114,7 +114,7 @@
                 />domini</date>, nechst koment ze nacht an der herberg das selbs <placeName ref="stadtasg-places-10"
                     >Zug</placeName> ze sinde, und begerend an üwer liebi mit allem <lb n="23"
                 />ernste, so wir iemer gutlicheste koment, ir wellent mit üwren wisen rates botten
-                den tag uns und <lb n="24"/>gemeiner <orgName ref="stadtasg-actors-534"
+                den tag uns und <lb n="24"/>gemeiner <orgName ref="stadtasg-actors-750"
                     >Eidgnoschafft</orgName> ze liebi suochen und früntlichen empfelhen, in den
                 sachen das beste <lb n="25"/>gedenken, für ze nemen, als si ouch biß har
                 getrungenlichen getan und früntlichen sich geübt hant. Konnent <lb n="26"/>wir das
@@ -125,7 +125,7 @@
                     >Schultheis und rat <lb n="30"/>zuo Bernn</orgName>. <pb
                     facs="StadtASG_Missive_123_246.JPG" n="2"/>
                 <lb n="31"/>Den fürsichtigen wisen unsren sunder lieben und guoten <lb n="32"
-                />fründen dem<orgName ref="stadtasg-actors-148" role="recipient"> burgermeister und reten zuo
+                />fründen dem<orgName ref="stadtasg-actors-148" role="recipient">burgermeister und reten zuo
                     Santgallen</orgName>. </p>
         </body>
     </text>

@@ -45,7 +45,7 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sent">
-                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName  ref="stadtasg-places-38">St. Gallen</placeName>
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>
                     
                     <date>1440-12-03</date>
                 </correspAction>

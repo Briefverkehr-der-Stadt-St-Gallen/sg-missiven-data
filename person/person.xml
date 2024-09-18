@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-09-17 19:31:53 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
+        <p>Datenbankexport vom 2024-09-18 11:35:37 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -11833,11 +11833,33 @@
               <p/>
             </event>
           </org>
+          <org xml:id="stadtasg-actors-750">
+            <orgName type="full" xml:lang="de">Eidgenossenschaft (1439–)</orgName>
+            <orgName type="main" xml:lang="de">Eidgenossenschaft</orgName>
+            <orgName type="sort" xml:lang="de">eidgenossenschaft</orgName>
+            <event type="start" when="1439-10-08">
+              <p/>
+            </event>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4151157-8"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q435583"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/026413"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Alte_Eidgenossenschaft"/>
+              </bibl>
+            </listBibl>
+          </org>
         </listOrg>
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-09-17T19:31:54+02:00">teiHeader was automatically produced from the database 2024-09-17T19:31:54+02:00</change>
+      <change when="2024-09-18T11:35:38+02:00">teiHeader was automatically produced from the database 2024-09-18T11:35:38+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
