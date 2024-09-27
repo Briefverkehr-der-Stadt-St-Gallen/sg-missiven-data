@@ -2,7 +2,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>StadtASG Missive, Nr. 3892-suppl-01</title>            </titleStmt>
+                <title>StadtASG Missive, Nr. 3892 Beilage 1</title>            </titleStmt>
             <publicationStmt>
                 <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
             </publicationStmt>
@@ -48,7 +48,9 @@
 <term ref="stadtasg-keywords-561">Obligation</term>
 <term ref="stadtasg-keywords-244">Amt</term>
 <term ref="stadtasg-keywords-154">Ammann</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
 <term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-495">Hab und Gut</term>
 <term ref="stadtasg-keywords-275">Fürst</term>
 <term ref="stadtasg-keywords-525">Gulden</term>
 <term ref="stadtasg-keywords-15">Unterstützung</term>
@@ -64,6 +66,8 @@
 <term ref="stadtasg-keywords-303">Teuerung</term>
 <term ref="stadtasg-keywords-144">Getreide</term>
 <term ref="stadtasg-keywords-283">Vollmacht</term>
+<term ref="stadtasg-keywords-532">Privileg</term>
+<term ref="stadtasg-keywords-641">Zunft</term>
 
                 </keywords>
             </textClass>

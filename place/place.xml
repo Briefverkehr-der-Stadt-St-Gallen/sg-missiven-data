@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-09-18 16:57:38 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
+        <p>Datenbankexport vom 2024-09-27 12:07:49 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -2662,9 +2662,6 @@
             </location>
             <idno type="stadtasg-places-id">102</idno>
             <listBibl>
-              <bibl>
-                <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/places-db-edit/views/view-place.xq?id=loc008840"/>
-              </bibl>
               <bibl>
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/places-db-edit/views/view-place.xq?id=loc000840"/>
               </bibl>
@@ -6365,7 +6362,7 @@
             <placeName type="full" xml:lang="de">Steinerburg / Steinach (SG)</placeName>
             <placeName type="sort" xml:lang="de">steinerburg</placeName>
             <location>
-              <geo>47.485521488832 9.4281013278066</geo>
+              <geo>47.48618 9.42776</geo>
               <settlement xml:lang="de">Steinach</settlement>
               <country xml:lang="de">Schweiz</country>
               <country xml:lang="en">Switzerland</country>
@@ -6439,7 +6436,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2024-09-18T16:57:39+02:00">teiHeader was automatically produced from the database 2024-09-18T16:57:39+02:00</change>
+      <change when="2024-09-27T12:07:50+02:00">teiHeader was automatically produced from the database 2024-09-27T12:07:50+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

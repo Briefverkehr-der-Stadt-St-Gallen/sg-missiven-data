@@ -1,7 +1,7 @@
 
 # Missive des Monats
 
-Jeden Monat zeigen wir ein Highlight aus unserer Edition und vermitteln einen kurzen historischen Kontext. Die Missive des Monats erscheint jeden ersten Freitag im Monat auf [stgallen24](https://stgallen24.ch/).
+Jeden Monat zeigen wir ein Highlight aus unserer Edition und vermitteln einen kurzen historischen Kontext. Die Missive des Monats erscheint jeden ersten Freitag im Monat auf [stgallen24](https://stgallen24.ch/dossiers/missiven-des-monats).
 
 Missive des Monats April: Liechtensteiner Vieh für St.Gallen.
 [[PDF](resources/pdfs/Sonderegger_Liechtensteiner_Vieh_fuer_St.Gallen_05-04-2024.pdf)]
@@ -23,3 +23,6 @@ Missive des Monats August: Wie der klösterliche Weinkeller geplündert wurde.
 [[PDF](resources/pdfs/Schoeb_Weinkeller_02-08-2024.pdf)]
 [[Missive Nr. 65](https://missiven.stadtarchiv.ch/data/stasg_missiv_00065.xml)]
 
+Missive des Monats September: Kunigunde von Altstätten, die aussergewöhnliche Geschichte einer spätmittelalterlichen Frau.
+[[PDF](resources/pdfs/)]
+[[Missive Nr. 65](https://missiven.stadtarchiv.ch/data/stasg_missiv_00225.xml)]

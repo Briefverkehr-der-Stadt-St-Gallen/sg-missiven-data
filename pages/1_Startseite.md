@@ -16,7 +16,7 @@ Briefe sind bis heute ein wichtiges Kommunikationsmittel unserer Gesellschaft. D
 
 ### Missive des Monats
 
-Jeden Monat zeigen wir ein Highlight aus unserer Edition und vermitteln einen kurzen historischen Kontext. Die Missive des Monats erscheint jeden ersten Freitag im Monat auf [stgallen24](https://stgallen24.ch/)
+Jeden Monat zeigen wir ein Highlight aus unserer Edition und vermitteln einen kurzen historischen Kontext. Die Missive des Monats erscheint jeden ersten Freitag im Monat auf [stgallen24](https://stgallen24.ch/dossiers/missiven-des-monats)
 
 [Hier Highlights einfügen]
 
