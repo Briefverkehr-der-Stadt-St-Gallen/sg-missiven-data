@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-09-27 12:07:48 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
+        <p>Datenbankexport vom 2024-09-28 13:21:02 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -11859,7 +11859,7 @@
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-09-27T12:07:49+02:00">teiHeader was automatically produced from the database 2024-09-27T12:07:49+02:00</change>
+      <change when="2024-09-28T13:21:03+02:00">teiHeader was automatically produced from the database 2024-09-28T13:21:03+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
