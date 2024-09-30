@@ -48,7 +48,7 @@
   - Anzeige: […] , grau
   - Popup: Textlücke
 - `<unclear>`
-  - Anzeige: Text in eckige Klammer, grau
+  - Anzeige: Text NICHT in eckige Klammer, nur grau
   - Popup: Unsichere Lesung
 - `<supplied>`
   - Anzeige: Text in eckige Klammer, grau

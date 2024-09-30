@@ -24,5 +24,5 @@ Missive des Monats August: Wie der klösterliche Weinkeller geplündert wurde.
 [[Missive Nr. 65](https://missiven.stadtarchiv.ch/data/stasg_missiv_00065.xml)]
 
 Missive des Monats September: Kunigunde von Altstätten, die aussergewöhnliche Geschichte einer spätmittelalterlichen Frau.
-[[PDF](resources/pdfs/)]
+[[PDF](resources/pdfs/Maechler_Kunigunde_von_Altstaetten_06-09-2024.pdf)]
 [[Missive Nr. 65](https://missiven.stadtarchiv.ch/data/stasg_missiv_00225.xml)]
