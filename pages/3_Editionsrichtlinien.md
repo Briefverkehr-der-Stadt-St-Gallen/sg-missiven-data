@@ -61,4 +61,4 @@ Es gilt das Prinzip der Kleinschreibung. Personen-, Orts- und Flurnamen sowie Sa
 
 - Gebräuchliche Abkürzungen und Verschleifungen werden kommentarlos aufgelöst, sei es nach den allgemeingültigen Regeln, sei es nach der Gewohnheit der Schreiberin oder des Schreibers.
 - Münz- und Massangaben werden originalgetreu mit Kürzungspunkt wiedergegeben und in einem Pop-up-Fenster aufgelöst.
-- Herausgeberergänzungen, unsichere Lesungen oder Auflösungen sowie Textlücken sind in eckige Klammern gesetzt.
+- Herausgeberergänzungen, unsichere Lesungen oder Auflösungen sowie Textlücken sind markiert und Hinzufügungen in eckige Klammern gesetzt.

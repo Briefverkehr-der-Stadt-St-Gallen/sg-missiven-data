@@ -70,7 +70,7 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_50_100.JPG" n="1"/>
+            <pb facs="StadtASG_Missive_50_99.JPG" n="1"/>
             <p>
                 <lb n="1"/>Unser willig früntlich dienst vor an ersamen wisen besundern guoten
                 fründ. Es ist maister <lb n="2"/><persName ref="stadtasg-actors-172">Niclaus</persName> der
@@ -91,7 +91,7 @@
                 botten. Geben an <origDate when="1431-07-21">sant Maryen Magdalenen abend anno etc.
                     XXXImo</origDate>. <lb n="12"/><orgName ref="stadtasg-actors-68" role="issuer"
                     >Burgermaister und rat <lb n="13"/>ze Uberlingen</orgName>. <pb
-                    facs="StadtASG_Missive_50_99.JPG" n="2"/>
+                    facs="StadtASG_Missive_50_100.JPG" n="2"/>
                 <lb n="14"/>Den fursichtigen wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
                     >burgermaister und <lb n="15"/>raeten der statt zu sant Gallen</orgName> unsern
                 besundern <lb n="16"/>guoten frunden. </p>
