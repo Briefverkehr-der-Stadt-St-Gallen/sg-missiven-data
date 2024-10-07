@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-10-07 00:28:47 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
+        <p>Datenbankexport vom 2024-10-07 13:09:09 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -10417,6 +10417,61 @@
             <persName type="alternative" xml:lang="de">Urssel Ruchenaker</persName>
             <birth when="1500-01"/>
           </person>
+          <person xml:id="stadtasg-actors-751">
+            <persName type="full" xml:lang="de">Sailer, Hieronymus (1551–)</persName>
+            <persName type="main" xml:lang="de">Sailer, Hieronymus</persName>
+            <persName type="sort" xml:lang="de">sailer, hieronymus</persName>
+            <persName type="alternative" xml:lang="de">Jeronimus Sailer</persName>
+            <birth when="1551-09-26"/>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q45344938"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/137224435.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/81445250/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/137224435"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Hieronymus_Sailer"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-752">
+            <persName type="full" xml:lang="de">Valois, Heinrich II.</persName>
+            <persName type="main" xml:lang="de">Valois, Heinrich II.</persName>
+            <persName type="sort" xml:lang="de">valois, heinrich ii.</persName>
+            <note type="description" xml:lang="de">
+              <p>König von Frankreich (1547–1559)</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/118548166"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q132545"/>
+              </bibl>
+              <bibl>
+                <ptr type="europeana" target="https://data.europeana.eu/agent/base/146738"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/biography/Henry-II-king-of-France"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118548166.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n81135003"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/289634335/"/>
+              </bibl>
+            </listBibl>
+          </person>
         </listPerson>
         <listOrg>
           <org xml:id="stadtasg-actors-28">
@@ -11859,7 +11914,7 @@
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-10-07T00:28:48+02:00">teiHeader was automatically produced from the database 2024-10-07T00:28:48+02:00</change>
+      <change when="2024-10-07T13:09:10+02:00">teiHeader was automatically produced from the database 2024-10-07T13:09:10+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
