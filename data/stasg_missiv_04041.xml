@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4041</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 9. Juli 1650 vor dem Rat verlesen. Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_04038.xml">4038</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4041_16313/16316</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Ulm antworten auf ein Dankesschreiben von Bürgermeister und Rat zu St. Gallen bezüglich des bei Gögglingen-Donaustetten ertrunkenen Nürnberger Boten, Johannes Locher. Bürgermeister und Rat zu Ulm sprechen ihre Anteilnahme aus und informieren, dass die Leiche Lochers auf ihre angeordnete Suche hin in der Donau gefunden und auf dem bürgerlichen Friedhof zu Ulm ehrlich bestattet wurde. Den in dieser Sache bevollmächtigten und nach Ulm gesandten Lott Specht aus Ravensburg wolle man unterstützen. Specht konnte bereits das Pferd und Zaumzeug des Verstorbenen in Oberkirchberg zu seinen Handen nehmen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-82">Tod</term>
+<term ref="stadtasg-keywords-5">Erbe</term>
+<term ref="stadtasg-keywords-163">Pferd</term>
+<term ref="stadtasg-keywords-283">Vollmacht</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-177">Witwe</term>
+<term ref="stadtasg-keywords-269">Kind</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-510">Bürgermeister und Rat zu Ulm</orgName>                    <date>1650-07-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2024-09-16</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-02-17</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4041_16313.jpg" n="1" />
+<p>
+<lb n="1" />Gestrenge fromme veste fürsichtige er
+<lb break="no" n="2" />same und weise unser freündtlich willig dienst
+<lb n="3" />und waß wir ehren liebs und guets vermögen
+<lb n="4" />seien ewer fürsichtigkeit voran bereit besonders
+<lb n="5" />liebe und guete freündt.
+<lb n="6" />Ewer fürsichtigkeit an unnß gethanes schreiben vom
+<lb n="7" /><date when="1650-06-24">24. juny</date> negsthin, den bey <placeName ref="stadtasg-places-294">Göckhlingen</placeName> in der
+<lb n="8" /><placeName ref="stadtasg-places-173">Thonaw</placeName> unlangst ertrunckhenen ordinari nürn
+<lb break="no" n="9" />berger botten <persName ref="stadtasg-actors-859">Johaim Lochern</persName> betreffendt, haben
+<lb n="10" />wir zuerecht empfangen und seines innhalts
+<lb n="11" />hören verlesen. Wie wir nun solchen laidigen
+<lb n="12" />fall mit sonderer commiseration und mitleiden
+<lb n="13" />vernommen und von herzen wünschen, dz der
+<lb n="14" />allgüetige gott dessen hinderlassene witib
+<lb n="15" />und kinder solcher zuegestandnen betrüebten
+<lb n="16" />begegnung in andere weg ergöttzen wolle, allso
+<lb n="17" />hette es sich der von ewer fürsichtigkeit beschehenen
+<lb n="18" />danckhsagung nit bedörft. Und weil auff
+<lb n="19" />unser anbefohlenes fleißiges suechen dessen
+<lb n="20" />leichnamb schon vor etlich tagen in der <placeName ref="stadtasg-places-173">Thonau</placeName>
+<lb n="21" />gefunden worden, haben wir denselben uff
+<lb n="22" />unsern gewohnlich burgerlichen gotsackher
+<lb n="23" />ehrlich zur erden bestatten lassen. Und da
+<lb n="24" />wir dem hieher abgeordneten gewaltt
+<lb n="25" />trager <persName ref="stadtasg-actors-861">Lott Spechten</persName> von <placeName ref="stadtasg-places-77">Ravenspurg</placeName>
+<lb n="26" />auff sein gepürendt anmelden in ein unnd
+<pb facs="StadtASG_Missive_4041_16314.jpg" n="2" />
+<lb n="27" />anderm beförderung und fürschueb erweisen
+<lb n="28" />können, wolten wir solches gewistlich nicht un
+<lb break="no" n="29" />derlaßen haben. Dann ewer fürsichtigkeit und
+<lb n="30" />lieben angehörigen alle angenehme dienst
+<lb n="31" />und gueten willen zu erweisen seien wir
+<lb n="32" />jederzeit geneigt und erpietig. Sonsten ist
+<lb n="33" />ihme, <persName ref="stadtasg-actors-861">Spechten</persName>, des <persName ref="stadtasg-actors-859">Lochers</persName> seeligen pferdt
+<lb n="34" />sambt sattel und zeüg zue Oberkürchberg ge
+<lb break="no" n="35" />gen leidenlichem abtrag widerumben zue
+<lb n="36" />handen gelüffert worden, wie ewer fürsichtigkeit von
+<lb n="37" />ihme, <persName ref="stadtasg-actors-861">Spechten</persName>, ein solches und andern ver
+<lb break="no" n="38" />lauff mit mehrerm werden zue vernemmen
+<lb n="39" />haben. Göttlicher obacht unnß damit
+<lb n="40" />allerseits träulich befehlendt. Datum den
+<lb n="41" /><origDate when="1650-07-04">4ten july anno 1650</origDate>.
+<lb n="42" /><orgName ref="stadtasg-actors-510" role="issuer">Burgermeister und rath
+<lb n="43" />der statt Ulm</orgName>.
+<pb facs="StadtASG_Missive_4041_16315.jpg" n="3" />
+<pb facs="StadtASG_Missive_4041_16316.jpg" n="4" />
+<lb n="44" />Dem gestrengen frommen
+<lb n="45" />vessten fürsichtigen ersa
+<lb break="no" n="46" />men und weisen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="47" />meistern und rath der statt
+<lb n="48" />sanct Gallen</orgName> unsern beson
+<lb break="no" n="49" />ders lieben und gueten freünden.
+<lb n="50" /><placeName ref="stadtasg-places-38">Sanct Gallen</placeName>.
+</p>
+        </body>
+    </text>
+</TEI>

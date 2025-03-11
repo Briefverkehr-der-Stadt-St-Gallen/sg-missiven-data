@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4018</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 18. März 1650 vor dem Rat verlesen. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_04005.xml">4005</ref>, <ref target="stasg_missiv_04005-suppl-01.xml">4005 Beilage 1</ref>, <ref target="stasg_missiv_04030.xml">4030</ref> und <ref target="stasg_missiv_04030-suppl-01.xml">4030 Beilage 1</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4018_16227/16230</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich informieren Bürgermeister und Rat zu St. Gallen über ein Darlehen an Karl Ludwig, Pfalzgraf zu Heidelberg, das dieser sich von den evangelischen Orten der Eidgenossenschaft wünscht. Die Städte St. Gallen, Zürich, Bern, Basel und Schaffhausen stellen zusammen und unabhängig von den übrigen eidgenössischen Orten einen Kredit von 6000 Reichstalern, wovon St. Gallen einen Anteil von 1000 übernehmen soll. Das Geld sollte an der nächsten Fronfastenmesse zu Frankfurt übergeben werden, weshalb Zürich nachfragt, wie St. Gallen das Geld zu übermitteln gedenke. Eine Möglichkeit bestünde in einer gemeinsamen Übergabe, wobei die Erben des verstorbenen Zürcher Bürgers Heinrich Werdmüller das Geld von St. Gallen nach Zürich transportieren könnten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+   <term ref="stadtasg-keywords-222">Darlehen</term>
+<term ref="stadtasg-keywords-365">Transport</term>
+<term ref="stadtasg-keywords-161">Messe</term>
+<term ref="stadtasg-keywords-93">Mündlich</term>
+<term ref="stadtasg-keywords-348">Kurfürst</term>
+<term ref="stadtasg-keywords-464">Pfalzgraf</term>
+<term ref="stadtasg-keywords-366">Religion</term>
+<term ref="stadtasg-keywords-524">Reichstaler</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-5">Erbe</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1650-03-16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-01-27</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4018_16227.jpg" n="1" />
+<p>
+<lb n="1" />Unnser fründtlich willig dientst sambt was wir ehren
+<lb n="2" />liebs und guots vermögend zuvor fromm fürsichtig
+<lb n="3" />eersamm wyß insonders guot fründ und getrüw lieb
+<lb n="4" />eidtgnosßen.
+<lb n="5" />Demnach wir von üwerer jüngst alhie gehepter zwi
+<lb break="no" n="6" />facher ehrengesandtschafft beschechnen mundtlichen an
+<lb break="no" n="7" />bringen zuo guotem benügen verstannden, was maßen
+<lb n="8" />ihr, unnser getrüw lieb eidtgnossen, erbietig und geneigt, üwere antheil an
+<lb n="9" />die von sythen ihrer churfürstlichen durchlaucht, pfaltzgraff <persName ref="stadtasg-actors-788">Carl
+<lb break="no" n="10" />Ludwigen</persName>, begehrte anlyhung, es were glych gabs
+<lb break="no" n="11" />ald anlyhungs wyß, ouch byzetragen, habend wir, uff
+<lb n="12" />das wir die meinungen ouch von den übrigen loblichen
+<lb n="13" />orthen unseren beidersyths getrüw lieb eidtgnossen und religions
+<lb break="no" n="14" />gnossen an jetzo volkommenlich erhalten, nit ermang
+<lb break="no" n="15" />len wollen, üch hiemit zu guoter nachricht wol
+<lb break="no" n="16" />meinlich zeberichten, das glych wie der mehrere
+<lb n="17" />theil der loblichen orthen, hochgedacht irer churfürstlichen durchlaucht
+<lb n="18" />dero gnedigstem ansinnen und begehren nach willfehrig
+<lb n="19" />zuentsprechen anerbietens, also wir solchem nach die
+<lb n="20" />summa uff 6000 rychßtaler 2 per 1 duggaten ernamms
+<lb break="no" n="21" />et und die abtheilung dahin gericht, das es üch, unnser getrüw
+<lb n="22" />lieb eidtgnossen, zu üwerm antheil 1000 rychßtaler bringen
+<lb n="23" />thuott, und wyl dan, wie inn vorgehnderem unserm
+<lb n="24" />schryben ouch albereit anregung beschehen, yferig be
+<lb break="no" n="25" />gehrt worden, das die bewilligenden gelter uff
+<lb n="26" />bevorstehnder mitfasten-mesß zu <placeName ref="stadtasg-places-16">Frankhfort</placeName> möcht
+<lb break="no" n="27" />en erlegt werden, alß wollend üch, unnser getrüw lieb eidtgnossen,
+<lb n="28" />wir hiemit zu dero belieben überlasßen haben,
+<lb n="29" />berührten üweren antheil eintweders für üch selbs
+<lb n="30" />zu bemeltem <placeName ref="stadtasg-places-16">Frankhfort</placeName> ableggen oder aber mit- und
+<lb n="31" />nebent unserm antheil (so glych üweren und unnseren,
+<lb n="32" />unnser lieb anderen eidtgnossen von <placeName ref="stadtasg-places-13">Bern</placeName> uff 1500 rychßtaleren, beider stett
+<lb break="no" n="33" />en <placeName ref="stadtasg-places-133">Basel</placeName> und <placeName ref="stadtasg-places-185">Schafhusen</placeName> aber jeder ouch 1000 rychßtal
+<lb break="no" n="34" />eren bestehet) vermitelst wylund unsers lieben
+<lb n="35" />burgers <persName ref="stadtasg-actors-823">Heinrich Werdmüllers</persName> seligen erben (zu
+<lb n="36" />deren handen das geltt üwersyths alhar möchte
+<lb n="37" />verschafft werden) umb mehrer anstendigkeit willen
+<lb n="38" />von einer hand bezahlen zelasßen, weßen nun ihr,
+<lb n="39" />unnser getrüw lieb eidtgnossen, hierüber bedacht syn, werdend wir gehrn
+<lb n="40" />vernemmen. Innmittelst den lieben gott bittend
+<lb n="41" />alles zu synes heiligen nammens ehren und vermehr
+<pb facs="StadtASG_Missive_4018_16228.jpg" n="2" />
+<lb break="no" n="42" />ung syner lieben kirchen inn gnaden gedeyen ze
+<lb break="no" n="43" />laßen und uns sambtlich fehrner under synem
+<lb n="44" />schirmm wol zuerhalten. Datum den <origDate when="1650-03-16">16. marty anno 1650</origDate>.
+<lb n="45" /><orgName ref="stadtasg-actors-503" role="issuer">Burgermeister und rath
+<lb n="46" />der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_4018_16229.jpg" n="3" />
+<pb facs="StadtASG_Missive_4018_16230.jpg" n="4" />
+<lb n="47" />Den fromen fürsichtigen
+<lb n="48" />eersammen wysen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="49" />meister und rath der statt
+<lb n="50" />s. Gallen</orgName> unseren inn
+<lb break="no" n="51" />sonders guoten fründen
+<lb n="52" />und getrüwen lieben eidt
+<lb break="no" n="53" />gnosßen.
+</p>
+        </body>
+    </text>
+</TEI>

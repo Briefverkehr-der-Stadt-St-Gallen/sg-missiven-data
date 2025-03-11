@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1000</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00761.xml">761</ref>.</p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1000_3055/3058</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Winterthur bitten Bürgermeister und Rat zu St. Gallen darum, dass sie Magdalena Horber, die Tochter des verstorbenen St. Galler Bürgers Hans Horber, die bei ihnen im Spital liegt, zu sich nach St. Gallen nehmen und versorgen. Magdalena Horber wurde bei der Heuernte von einer Schlange gebissen und musste in der Folge ihr Bein amputieren. Ihre Not gebietet es nun, dass eine christliche Obrigkeit sich ihrer annehme.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-354">Spital</term>
+<term ref="stadtasg-keywords-251">Stadtrecht</term>
+<term ref="stadtasg-keywords-53">Krankheit</term>
+<term ref="stadtasg-keywords-570">Not</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
+<term ref="stadtasg-keywords-497">Säckelmeister</term>
+<term ref="stadtasg-keywords-461">Armut</term>
+<term ref="stadtasg-keywords-32">Arzt</term>
+<term ref="stadtasg-keywords-316">Obrigkeit</term>
+<term ref="stadtasg-keywords-298">Tochter</term>
+<term ref="stadtasg-keywords-527">Vater</term>
+<term ref="stadtasg-keywords-24">Klage</term>
+<term ref="stadtasg-keywords-623">Dorf</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-718">Schultheiss und Rat zu Winterthur</orgName>                    <date>1573-07-17</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                  </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW</persName>
+                <date>2024-09-10</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-10-07</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_1000_3055.jpg" n="1"/>
+<p>
+<lb n="1"/>Eedlen erenvesten fromen fürsichtigen ersamen und wyßen
+<lb n="2"/>her burgermeyster besonders günstige heren guott fründ
+<lb n="3"/>unnd gethrüwen lieben nachparen unnd eydtgnossen
+<lb n="4"/>ewer eedelveste ouch ersam wyßheit sygen unser guottwillige dienst
+<lb n="5"/>geneigten nachbarlichen wyllen sampt erbiettung aller
+<lb n="6"/>eeren liebs unnd guotz zuovor. Es ist diß iüngst
+<lb n="7"/>verschyner tagen <persName ref="stadtasg-actors-756">Magdalena Horwerin</persName>, wylund
+<lb n="8"/><persName ref="stadtasg-actors-757">Hannß Horwers</persName> üwers burgers seligen hindergelasse
+<lb n="9"/>eliche dochter, bewysserin diß brieffs, alher in unsern
+<lb n="10"/>spitall gfüert, alda (wie billich) beherberget unnd
+<lb n="11"/>gspyst wordenn, underanderem sy unsern gethrüwe
+<lb break="no" n="12"/>en lieben schuldheißen und seckellmeyster bschickt,
+<lb n="13"/>inen in anligende nott, grossen schmerzen, arbentselig
+<lb break="no" n="14"/>keit, ellenkeit und armuot fürnemlich erzellt, wie
+<lb n="15"/>sy sych etliche iar lanng usserthalb üwer statt unnd
+<lb n="16"/>oberkeith unnd namlich ietz letstlich by der frow
+<lb break="no" n="17"/>en von Lutternouw<note>Wohl <persName ref="stadtasg-actors-758" cert="medium">Barbara von Luternau</persName>.</note> zuo <placeName ref="stadtasg-places-49">Sollothurn</placeName> diensts wysse
+<lb n="18"/>enthalten unnd wie sy gethruwt dermassenn
+<lb n="19"/>getragenn, das iren einiche clag oder nachred nit
+<lb n="20"/>ervolgen werde, als sy nun im hoüwet an der ar
+<lb break="no" n="21"/>beytt gwessen, sy unversechenlich von einer vergyffteten
+<lb n="22"/>schlangen an irem schenckell verlezt worden, mitt
+<lb break="no" n="23"/>hin zuo sych der schaden also geüblet und erbössert,
+<lb n="24"/>das die scherer unnd lybarzet iren den schenckell
+<lb n="25"/>zom anderen mall abgeschnydten und die 100 gulden,
+<lb n="26"/>so gemelte frow von Lutternouwi<note>Wohl <persName ref="stadtasg-actors-758" cert="medium">Barbara von Luternau</persName>.</note> iren uß
+<lb n="27"/>sonderer erbermbd mittgetheillt und gschenckt, allen
+<lb break="no" n="28"/>klich durchhin gangen unnd was unverbrucht über
+<lb break="no" n="29"/>blibenn iren underwegen von bossen ungünstligen
+<lb n="30"/>lüthen enthwert worden, ouch ettwanvill by unsern
+<lb n="31"/>gethrüwen lieben eydtgnossen zu <placeName ref="stadtasg-places-70">Ury</placeName> in einem
+<lb n="32"/>huß sampt iren eerlichen abscheiden verbrunenn
+<lb n="33"/>und ir sach leyder yezunder dermassen gstaldtet, das
+<lb n="34"/>sy guotten eren unnd byderbenlüthen allenthalben mit
+<lb n="35"/>beschwerd uffbunden, also das man sy von einem dorff
+<lb n="36"/>oder wacht in die ander füeren müesse, sonst nit
+<lb n="37"/>wandlen kon nach möge. Diewyll sy dan
+<lb n="38"/>(wie hienebent anzeigt) by üch erzogen und erboren,
+<lb n="39"/>ouch nit lougenbar<note>laug(en)bar = etwas in Abrede stellen.</note> habe sych mit verhyratung zwey
+<lb break="no" n="40"/>er eemanen übersechenn, dardurch sy villicht gegen
+<lb n="41"/>üch in ettwas ungnaden komen, weliches irenn
+<lb n="42"/>aber in trüwen unnd von herzen leyd ist, möchte
+<lb n="43"/>woll lyden, das sy vernünfftiger oder bass bsyndter
+<pb facs="StadtASG_Missive_1000_3056.jpg" n="2"/>
+<lb n="44"/>ghandlet hette, und also der meinung, üch als ir cristenliche
+<lb n="45"/>oberkeith durch gottes wyllen umb gnad und verzychung
+<lb n="46"/>zuopitten, sy im fall irer hochst und grosten nott nit lass
+<lb break="no" n="47"/>en verderben oder ußschlachenn, derhalb zuo merer
+<lb n="48"/>erlangung gnediger antwurt unß durch gesagten unsern
+<lb n="49"/>schuldheissen unnd seckellmeyster trungenlich ansuochenn
+<lb n="50"/>lassen, iren mit fürschrifft an wolgmelt ewer eedel
+<lb break="no" n="51"/>veste ouch ersam wyßheit beholffen zesind. Wan nun arm,
+<lb n="52"/>kranck, presthafft und nottwendige lüth nit allein denn
+<lb n="53"/>oberkeithen, sonder ouch gmeinen sonderen personen
+<lb n="54"/>von gott dem allmechtigen in trüwen bevolhen hat unß
+<lb n="55"/>sölichs ouch ir ellenkeit und armuot lassen bewegenn
+<lb n="56"/>sy mit disserm unserm schryben zuobemüegen. Und
+<lb n="57"/>ist also hieruff unser dienstlich und nachparlichs piten,
+<lb n="58"/>mit der guotten wyßlossen<note>wislos = unberaten, hilflos.</note> frouwen gnedigs mittlyden
+<lb n="59"/>und geduldt zehaben, sy als ir statt kind in gnaden uff
+<lb break="no" n="60"/>nemen, ir bschuldte handlung und sach nit verargenn,
+<lb n="61"/>besonders begüetigen verzychen und zuo allem guoten wenden,
+<lb n="62"/>damit sy unsers fürschrifftlichen schribens genossenn
+<lb n="63"/>haben befinde, inmassen wir ewer eedelveste ouch
+<lb n="64"/>ersam wyßheit genzlich woll verthruwent. Daran beschicht
+<lb n="65"/>dem herren gott ein wolgfelligs werck und uns sonder
+<lb n="66"/>angnems gfallen, wollen ouch dasselbig zuoverdienen
+<lb n="67"/>yederzytt unvergessen und hiemit in schirm gottlicher
+<lb n="68"/>gnaden bevolhen haben. Datum den <oirgDate when="1573-07-17">17ten iulius anno etc.
+<lb n="69"/>1573</oirgDate>.
+<lb n="70"/><orgName ref="stadtasg-actors-718" role="issuer">Schuldheiß unnd ratt der
+<lb n="71"/>statt Winterthur</orgName>.
+<pb facs="StadtASG_Missive_1000_3057.jpg" n="3"/>
+<pb facs="StadtASG_Missive_1000_3058.jpg" n="4"/>
+<lb n="72"/>Den eedlen erenvesten fromen fürsichtigen
+<lb n="73"/>ersamen unnd wysen her <orgName ref="stadtasg-actors-148" role="recipient">burgermeyster
+<lb n="74"/>unnd ratt der statt sannt Gallen</orgName> uns
+<lb break="no" n="75"/>ern günstigen heren guotten fründenn
+<lb n="76"/>gethrüwen lieben nachbaren und eydt
+<lb break="no" n="77"/>gnossen.
+</p>
+        </body>
+    </text>
+</TEI>

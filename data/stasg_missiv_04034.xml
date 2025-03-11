@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4034</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Entwurf. Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4034_16283/16286</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen schicken zwei Gesandte, den Oberbaumeister und Ratsangehörigen Cyrill Finsterling und das Ratsmitglied Georg Zwicker, nach Appenzell Ausser- und Innerrhoden, die das Anliegen der Stadt mündlich vortragen werden. Es geht um eine an die Tagsatzung versandte Schmähschrift eines nicht weiter identifizierbaren Zieglers.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-281">Entwurf</term>
+<term ref="stadtasg-keywords-535">Schmähschrift</term>
+<term ref="stadtasg-keywords-12">Gesandter</term>
+<term ref="stadtasg-keywords-93">Mündlich</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                    <date>1648-06-07</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-773">Ammann und Rat von Appenzell Ausserrhoden</orgName><orgName ref="stadtasg-actors-833">Ammann und Rat von Appenzell Innerrhoden</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2024-09-16</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-02-05</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4034_16283.jpg" n="1" />
+<p>
+<pb facs="StadtASG_Missive_4034_16284.jpg" n="2" />
+<pb facs="StadtASG_Missive_4034_16285.jpg" n="3" />
+<pb facs="StadtASG_Missive_4034_16286.jpg" n="4" />
+</p>
+        </body>
+    </text>
+</TEI>

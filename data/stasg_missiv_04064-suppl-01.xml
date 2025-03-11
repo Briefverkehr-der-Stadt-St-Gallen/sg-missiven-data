@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4064 Beilage 1</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. <ref target="stasg_missiv_04064.xml">4064</ref>. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_03963.xml">3963</ref> und <ref target="stasg_missiv_03976.xml">3976</ref>, auf die der Kanzlist in dieser Notiz verweist.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_4064_16417/16420</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Es ist eine Notiz des St. Galler Kanzlisten, der auf die beiden Schreiben aus dem Jahr 1649 von Bartholomäus Anhorn, dem Pfarrer zu Mosbach verweist, die bereits in der Kanzlei archiviert sind.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-93">Mündlich</term>
+<term ref="stadtasg-keywords-321">Schriftlich</term>
+<term ref="stadtasg-keywords-244">Amt</term>
+<term ref="stadtasg-keywords-388">Pfarrei</term>
+<term ref="stadtasg-keywords-382">Prediger</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-635">Kanzlei</term>
+<term ref="stadtasg-keywords-402">Pfalz</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-834">Bartholomäus Anhorn</persName><placeName ref="stadtasg-places-288">Mosbach</placeName>                    <date>1650-10-23</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>WH</persName>
+                <date>2025-01-08</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-02-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+        
+<pb facs="StadtASG_Missive_4064_16417.jpg" n="1" />
+<p>
+<lb n="1" />Zu wüßen, das von herren <persName ref="stadtasg-actors-834">Barthlome Anhornn</persName>
+<lb n="2" />noch zwey sandtschreiben an meine heren
+<lb n="3" />in der canzley ligen, sider er in der <placeName ref="stadtasg-places-143">Pfaltz</placeName>
+<lb n="4" />ist, vom <date when="1649">1649</date> jar, die sind zu finden under 
+<lb n="5" />den burgerlichen actis im kasten B truck
+<lb break="no" n="6" />hen no. 3 unnd pagget no. 3.
+<pb facs="StadtASG_Missive_4064_16418.jpg" n="2" />
+<pb facs="StadtASG_Missive_4064_16419.jpg" n="3" />
+<pb facs="StadtASG_Missive_4064_16420.jpg" n="4" />
+</p>
+        </body>
+    </text>
+</TEI>

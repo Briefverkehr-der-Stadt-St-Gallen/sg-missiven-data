@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4007</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Entwurf. Die Transkription wurde zurückgestellt. Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_04000.xml">4000</ref>, mit der Anfrage von Chur.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4007_16187/16188</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen schreiben an Bürgermeister und Rat zu Chur betreffend die Anfrage aus Chur wegen den Vermögensanteilen des von der Frau in die Ehe eingebrachten Guts von Georg Spindler. Auf Wunsch der Churer haben Bürgermeister und Rat zu St. Gallen Georg Spindler über dessen finanzielle Verhältnisse befragt. Er sagte aus, dass er momentan das Frauengut nicht herausgeben könne, weil er mit seiner Handelsfirma in einer schwierigen Lage sei. Er hoffe in Zukunft auf bessere Geschäfte. Der Frau werden zwei Beistände aus dem St. Galler Rat zur Seite gestellt, die in Zukunft ihre Interessen vertreten werden.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-281">Entwurf</term>
+<term ref="stadtasg-keywords-455">Ehevertrag</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-497">Säckelmeister</term>
+<term ref="stadtasg-keywords-5">Erbe</term>
+<term ref="stadtasg-keywords-141">Befragung</term>
+<term ref="stadtasg-keywords-91">Handel</term>
+<term ref="stadtasg-keywords-21">Rechtshilfe</term>
+<term ref="stadtasg-keywords-270">Vormundschaft</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName> <placeName ref="stadtasg-places-38">St. Gallen</placeName>                    <date>1650-02-25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-518">Bürgermeister und Rat zu Chur</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-01-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4007_16187.jpg" n="1" />
+<p>
+<pb facs="StadtASG_Missive_4007_16188.jpg" n="2" />
+</p>
+        </body>
+    </text>
+</TEI>

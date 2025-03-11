@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4015 Beilage 1</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. <ref target="stasg_missiv_04015.xml">4015</ref>. Die Transkription wurde zurückgestellt. Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_04022.xml">4022</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_4015_16215/16216</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die Beilage betrifft die Kreditoren des Fittlerischen Erbes. Bürgermeister und Rat zu St. Gallen übersenden Schultheiss und Rat zu Frauenfeld mit ihrem Empfehlungsschreiben eine Supplikation jener St. Galler Bürger, die als Direktoren die von der Gesellschaft Hans Fittler Gebrüder und Mitverwandten übernommenen Vermögenswerte verwalten. Diese Direktoren haben eine Schuldforderung an Franziskus Hurter, Bürger zu Frauenfeld. Bürgermeister und Rat zu St. Gallen bitten mit ihrem Begleitschreiben, den Anwalt der Direktoren vor Frauenfelder Gerichten zuzulassen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-281">Entwurf</term>
+<term ref="stadtasg-keywords-603">Supplikation</term>
+<term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-91">Handel</term>
+<term ref="stadtasg-keywords-252">Prozess</term>
+<term ref="stadtasg-keywords-180">Kaufmann</term>
+<term ref="stadtasg-keywords-5">Erbe</term>
+<term ref="stadtasg-keywords-87">Empfehlung</term>
+<term ref="stadtasg-keywords-314">Anwalt</term>
+<term ref="stadtasg-keywords-21">Rechtshilfe</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-800">Hans Fittler</persName>                   <date>1650-03-06</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>    <placeName ref="stadtasg-places-38">St. Gallen</placeName>             </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-12-10</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            
+<p>
+<pb facs="StadtASG_Missive_4015_16215.jpg" n="1" />
+<pb facs="StadtASG_Missive_4015_16216.jpg" n="2" />
+</p>
+        </body>
+    </text>
+</TEI>

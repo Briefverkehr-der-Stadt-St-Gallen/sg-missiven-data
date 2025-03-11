@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4011 Beilage 1</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. <ref target="stasg_missiv_04011.xml">4011</ref>. Kanzleivermerke des Schreibers am Schluss der Missive: <unclear>...</unclear> Girardi <unclear>...</unclear>. Ad mandatum serenissimi domini archiducis proprium. <unclear>...</unclear> Hainrich.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_4011_16177/16178</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ferdinand Karl, Erzherzog von Österreich-Tirol, antwortet auf eine von den 13 Orten der Eidgenossenschaft am 20. Dezember 1649 eingereichte Beschwerde an ihn, die sie an der datumsgleichen Tagsatzung zu Baden besprochen haben. Die Eidgenossen baten darin um Aufhebung der Zollerhöhungen nach dem Abschluss des Westfälischen Friedens und um die Einhaltung der zwischen Habsburg und der Eidgenossenschaft bestehenden Erbeinung. Ferdinand Karl lehnt das Gesuch mit dem Hinweis ab, dass die Zölle für die eidgenössischen Kaufleute nie erhöht worden seien. Man solle ihm genauere Angaben zu den von den angeblich höher verzollten Waren sowie den Zollstationen liefern, damit er auf dieser Grundlage eine Entscheidung treffen könne.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                     
+<term ref="stadtasg-keywords-129">Zoll</term>
+<term ref="stadtasg-keywords-574">Erzherzog</term>
+<term ref="stadtasg-keywords-573">Herzog</term>
+<term ref="stadtasg-keywords-278">Graf</term>
+<term ref="stadtasg-keywords-419">Landgraf</term> 
+<term ref="stadtasg-keywords-405">Reich</term>
+<term ref="stadtasg-keywords-180">Kaufmann</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-83">Frieden</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-658">Westfälischer Friede</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-818">Ferdinand Karl von Österreich-Tirol</persName><placeName ref="stadtasg-places-14">Innsbruck</placeName>                    <date>1650-02-22</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-750">13 Orte der Eidgenossenschaft</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-01-14</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4004_16177.jpg" n="1" />
+<p>
+<lb n="1" /><persName ref="stadtasg-actors-818" role="issuer">Ferdinand Carl</persName> von gottes gnaden ertzhertzog zu <placeName ref="stadtasg-places-91">Österrych</placeName>, hertzog
+<lb n="2" />zu <placeName ref="stadtasg-places-281">Burgund</placeName>, graff zu <placeName ref="stadtasg-places-99">Tyrol</placeName> und <placeName ref="stadtasg-places-282">Görtz</placeName>, landtgraf in <placeName ref="stadtasg-places-170">Elsaß</placeName>.
+<lb n="3" />Ehrsamme besondere liebe uß üwerer räth und sandtbotten, so im ver
+<lb break="no" n="4" />wichenen monat decembris uff dem tag zu <placeName ref="stadtasg-places-53">Baden</placeName> im <placeName ref="stadtasg-places-266">Ergoüw</placeName> versamblet ge
+<lb break="no" n="5" />wesen an uns den <date when="1649-12-20">20.</date> dito abglassenem schryben haben wir vernommen, was
+<lb n="6" />maaßen sy in uwerm gesambten nammen die ansuchung gethan, wie die
+<lb n="7" />gegen üweren landen uf ein bestimbte zyt verwilligte an unseren zol
+<lb break="no" n="8" />stetten in <placeName ref="stadtasg-places-108">Schwaben</placeName> und anderwerts gesteigerte alte und nüwe
+<lb n="9" />ufschleg nach nunmehr im <orgName ref="stadtasg-actors-559">Römischen Rych</orgName> ervolgten fridenschluss wider ab
+<lb break="no" n="10" />thuon und uns darmit dem alten herkommen und erbeinigung gmess verhalten wolten.
+<lb n="11" />Woruf wir üch in antwort gnädigst anzufügen nit underlassen mögen, das
+<lb n="12" />wir uf yngeholten bricht solche erinnerung empfangen, daß die schwytzer
+<lb break="no" n="13" />ische kauff- und handelslüth mit derglychen kriegsufschlegen oder nüwer
+<lb break="no" n="14" />lichen zolssteigerung an einicher österrychischer zolstatt, so lang selbige so
+<lb break="no" n="15" />wol in unser als unsers herr vatters und frau muotter seelig angedenkens de
+<lb break="no" n="16" />votion verbliben, untzhero niemaln weren graviert, sonder vilmehr all
+<lb break="no" n="17" />er orthen bevohlen worden, dz dieselben by der alten verabzolung
+<lb n="18" />gelassen werden solten.
+<lb n="19" />Alldiewyl unß dann üwere beschwerd etwas zu general bedunk
+<lb break="no" n="20" />en und von nöten syn will, daß unß nit allein die zollstatt allwo,
+<lb n="21" />sonder ouch die güter und wahren von welchen und zu was zyt
+<lb n="22" />derglychen angebende nüwerliche zöll und ufschleg von den üw
+<lb break="no" n="23" />rigen yngefordert worden, mehrers specificiert werden,
+<lb n="24" />alß wöllen wir von üch in ein- und anderm mehrern und umb
+<lb break="no" n="25" />stentlichen bericht erwarten, damit wir nach gstaltsamme
+<lb n="26" />unß wyters entschliessen mögen. Und verblybend üch
+<lb n="27" />darneben mit gnedigist nachbarlichem willen wolbygethann.
+<lb n="28" />Geben in unserer statt <origPlace ref="stadtasg-places-14">Ynßbrugg</origPlace> den <origDate when="1650-02-22">22. february
+<lb n="29" />anno 1650</origDate>.
+<lb n="30" />An die <orgName ref="stadtasg-actors-750" role="recipient">13 orth der eidtgnoschafft</orgName>.
+<pb facs="StadtASG_Missive_4004_16178.jpg" n="2" />
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4066</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4066_16431/16434</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Maximilian, Erbmarschall und Landgraf zu Stühlingen, ersucht Bürgermeister und Rat zu St. Gallen, seinem Schlosshauptmann Antonius Gerber eine Audienz zu gewähren. Er werde dann das Anliegen in seinem Namen mündlich vorbringen. Maximilian bittet Bürgermeister und Rat, Gerber guten Glauben entgegenzubringen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-419">Landgraf</term>
+<term ref="stadtasg-keywords-540">Schloss</term>
+<term ref="stadtasg-keywords-474">Hauptmann</term>
+<term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-405">Reich</term>
+<term ref="stadtasg-keywords-93">Mündlich</term>
+<term ref="stadtasg-keywords-283">Vollmacht</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-345">Zeiger</term>
+<term ref="stadtasg-keywords-275">Fürst</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-842">Maximilian von Stühlingen</persName><placeName ref="stadtasg-places-222">Stühlingen</placeName>                    <date>1650-11-02</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>WH</persName>
+                <date>2025-01-08</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-02-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4066_16431.jpg" n="1" />
+<p>
+<lb n="1" /><persName ref="stadtasg-actors-842">Maximilian</persName> kayserlicher mayestät und des hayligen
+<lb n="2" />römischen reichs erbmarschall,
+<lb n="3" />landtgrave zu <placeName ref="stadtasg-places-222">Stüelingen</placeName> etc.
+<lb n="4" />Unßren freündtlichen gruß und genaigten guten
+<lb n="5" />willen zuvor edel ernvest fromm fürsichtig er
+<lb break="no" n="6" />sam und weiß besonders liebe unnd gute nachparen etc.
+<lb n="7" />Zu denn herrn haben wir vorweißern dißes den
+<lb n="8" />ernvesten unßern schlosßhauptmann unnd lieben
+<lb n="9" />getrewen <persName ref="stadtasg-actors-843">Anthonium Gerbern</persName> sachen halber,
+<lb n="10" />wie dieselben von ime mündtlichen genugsam ver
+<lb break="no" n="11" />nemmen werden, <ex cert="medium">güetlich</ex> abgefertigt freündt- und nach
+<lb break="no" n="12" />parlich gesinnende neben gutwillig gestattender audienz
+<lb n="13" />in unßerm nammen ime guten glauben zugeben unnd
+<lb n="14" />sich darauf also willfehrig zuerzeigen unnd zuerkleren,
+<lb n="15" />inmaasen zu denn herren unßer gut vertrawen steet,
+<lb n="16" />solches umb die herren (dennen wir mit allem gutem
+<lb n="17" />nachparlichen willen beigethan) sind wir auf begebenden
+<lb n="18" />fahl freündtlich und nachparlich zuerwidern anerpit
+<lb break="no" n="19" />tig. Datum auf unßerm schlosß
+<lb n="20" /><origPlace ref="stadtasg-places-222">Stüelingen</origPlace> denn <origDate when="1650-11-02">2ten novembris anno 1650</origDate>.
+<lb n="21" /><persName ref="stadtasg-actors-842" role="issuer">Maximilian dux landgraff
+<lb n="22" />zu Stilingen</persName>.
+<pb facs="StadtASG_Missive_4066_16432.jpg" n="2" />
+<pb facs="StadtASG_Missive_4066_16433.jpg" n="3" />
+<pb facs="StadtASG_Missive_4066_16434.jpg" n="4" />
+<lb n="23" />Den edlen ernvesten frommen fürsichtigen ersammen
+<lb n="24" />unnd weißen unßern besonders lieben unnd
+<lb n="25" />guten nachparn <orgName ref="stadtasg-actors-148" role="recipient">burgermaistern unnd rath der
+<lb n="26" />statt st. Gallen</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

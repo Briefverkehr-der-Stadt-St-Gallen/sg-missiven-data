@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4031</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Entwurf. Die Transkription wurde zurückgestellt. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_04033.xml">4033</ref> und <ref target="stasg_missiv_04044.xml">4044</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4031_16273/16274</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Der bevogtete St. Galler Bürger Joachim Spengler, Glasergeselle in Konstanz, möchte sein Bürgerrecht in St. Gallen aufgeben. Bürgermeister und Rat zu St. Gallen bitten Bürgermeister und Rat zu Konstanz, Spengler zwecks Befragung und Aufgabe des Bürgerrechts nach St. Gallen zu schicken.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-112">Bürgerrecht</term>
+<term ref="stadtasg-keywords-351">Handwerk</term>
+<term ref="stadtasg-keywords-270">Vormundschaft</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-281">Entwurf</term>
+<term ref="stadtasg-keywords-474">Hauptmann</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                    <date>1650-05-16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-587">Hauptmann, Bürgermeister und Rat zu Konstanz</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2024-09-16</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-01-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4031_16273.jpg" n="1" />
+<p>
+<pb facs="StadtASG_Missive_4031_16274.jpg" n="2" />
+</p>
+        </body>
+    </text>
+</TEI>

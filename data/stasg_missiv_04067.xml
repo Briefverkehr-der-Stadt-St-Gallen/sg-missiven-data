@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4067</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 15. November 1650 vor dem Rat verlesen. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_03965.xml">3965</ref> und <ref target="stasg_missiv_03994.xml">3994</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4067_16435/16438</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Stadtvogt und Rat zu Maienfeld antworten Bürgermeister und Rat zu St. Gallen auf deren Schreiben vom 14. Januar 1650 (Missive Nr. 3994) zugunsten von St. Galler Gläubigern des Glarners Rudolf Elmer. Nun habe aber ihr Bürger und zugleich Landmann von Glarus, Hans Heinrich Stäger, Arrest auf in Maienfeld gelegene elmerische Vermögenswerte gelegt. Gemäss Verträgen und Bündnissen könnten aber Stadtvogt und Rat zu Maienfeld den Arrest ohne Wissen und Willen der Obrigkeit zu Glarus nicht aufheben. Stadtvogt und Rat würden aber Glarus ersuchen zu verordnen, dass der Arrest aufgehoben werde.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    
+<term ref="stadtasg-keywords-39">Vertrag</term>
+<term ref="stadtasg-keywords-603">Supplikation</term>
+<term ref="stadtasg-keywords-490">Gläubiger</term>
+<term ref="stadtasg-keywords-66">Beschlagnahmung</term>
+<term ref="stadtasg-keywords-257">Arrest</term>
+<term ref="stadtasg-keywords-520">Bündnis</term>
+<term ref="stadtasg-keywords-263">Vogt</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+<term ref="stadtasg-keywords-316">Obrigkeit</term>
+<term ref="stadtasg-keywords-104">Landmann</term>
+<term ref="stadtasg-keywords-13">Schulden</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-844">Stadtvogt und Rat zu Maienfeld</orgName>                    <date>1650-11-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>WH</persName>
+                <date>2025-01-08</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-02-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4067_16435.jpg" n="1" />
+<p>
+<lb n="1" />Unsser fründtlich willig dienst sampt
+<lb n="2" />waß wir ehren liebs und guts vermögend
+<lb n="3" />zuvor hochgeacht wol edel gestreng
+<lb n="4" />from fürsichtig weiß besonders gute
+<lb n="5" />fründt getrew lieb eidt- und pundts
+<lb break="no" n="6" />gnossen.
+<lb n="7" />Ewer unsser getrew lieb eidt- und pundtsgnossen
+<lb n="8" />an unß abgangen schreiben sampt
+<lb n="9" />beiligender suplication der herren
+<lb n="10" />elmerischen creditoren<note>Gemeint sind hier die Kreditoren des Glarner <persName ref="stadtasg-actors-830">Hans Rudolf Elmer</persName>.</note> ist unß zuo recht
+<lb n="11" />eingelangt, deren inhalt wier verstanden.
+<lb n="12" />Füegen hingegen eüch unsseren gestreng lieb eidt
+<lb break="no" n="13" />und pundtsgnossen in antwurt zuo
+<lb n="14" />vernemmen, daß wier denselben ald
+<lb n="15" />dero angehörigen, so weit sich unssere
+<lb n="16" />autoriteth und oberkeitlichen gewalt
+<lb n="17" />erstreckt und gelangen mag, zuo
+<lb n="18" />ihrem billichen begeren alle möglicheste
+<lb n="19" />hilff und assistenz zuo beweisen und
+<lb n="20" />erzeigen geneigt und wolgewogen
+<lb n="21" />sind. Wan dan aber von unsserem
+<lb n="22" />burger und auch landtman zuo <placeName ref="stadtasg-places-73">Glarus</placeName>,
+<lb n="23" />dem herren <persName ref="stadtasg-actors-845">Hanß Heinrich Stäger</persName> der
+<lb n="24" />eltere, arrest uff gedachte elmerischen
+<lb n="25" />schulden, so sich bey unß befindend und wir
+<lb n="26" />crafft zuosammen habenden verträg
+<lb n="27" />und pundtnusen ohne vor wüssen und
+<lb n="28" />willen der oberkeit zuo <placeName ref="stadtasg-places-73">Glaruß</placeName>
+<lb n="29" />selbigen nit relaxieren und uffgeben 
+<pb facs="StadtASG_Missive_4067_16436.jpg" n="2" />
+<lb n="30" />können, angelegt worden ist. So wollend 
+<lb n="31" />wier (zum fal es eüch unsser gestreng lieb eidt
+<lb break="no" n="32" />und pundtsgnossen beliebt) denselbigen zuo schreiben,
+<lb n="33" />ob sy mit selbigem verordnung zethun
+<lb n="34" />sich bequemen wolten, damit er
+<lb n="35" />den angedeüten arrest ledig spreche,
+<lb n="36" />damit wir eüer gestreng lieb eidt- und pundtsgnossen ange
+<lb break="no" n="37" />hörigen mit gebürender wilfährigkeit,
+<lb n="38" />warzuo sy recht haben werdend, begegnen
+<lb n="39" />köntend. Wollend hierüber eüer unsser gestreng lieb
+<lb n="40" />eidt- und pundtsgnossen antwort gewertig
+<lb n="41" />sein mit fründtlichem anerbieten
+<lb n="42" />aller fründtlichen eidt und pundts
+<lb break="no" n="43" />gnösischen affectionen, so wier eüch unser
+<lb n="44" />gestreng lieb eidt- und pundtsgnossen und dero
+<lb n="45" />angehörigen erweisen köntend, unß
+<lb n="46" />so geneigt als guotwillig best ver
+<lb break="no" n="47" />mögens zuo erzeigen, damit unß
+<lb n="48" />samptlichen götlicher protection wol
+<lb n="49" />befehlende. Geben den <origDate when="1650-11-12">12 novembris anno 1650</origDate>.
+<lb n="50" /><orgName ref="stadtasg-actors-844" role="issuer">Stattvogt und rhatt
+<lb n="51" />zuo Meyenfeld</orgName>.
+<pb facs="StadtASG_Missive_4067_16437.jpg" n="3" />
+<pb facs="StadtASG_Missive_4067_16438.jpg" n="4" />
+<lb n="52" />Den hochgeachten woledlen gestrengen
+<lb n="53" />frommen vesten fürsichtigen und weisen
+<lb n="54" />herren herren <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und
+<lb n="55" />rhat loblicher statt st. Gallen</orgName> unsern
+<lb n="56" />besonders guten fründen getrewen
+<lb n="57" />lieben eidt- und pundtsgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

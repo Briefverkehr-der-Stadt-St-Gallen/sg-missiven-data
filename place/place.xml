@@ -12,13 +12,13 @@
       <publicationStmt>
         <publisher/>
         <pubPlace>St. Gallen</pubPlace>
-        <date when="2024">2024</date>
+        <date when="2025">2025</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-10-07 13:09:10 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
+        <p>Datenbankexport vom 2025-03-11 10:24:33 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -2406,8 +2406,8 @@
             <placeName type="alternative" xml:lang="de">Ryne</placeName>
             <placeName type="alternative" xml:lang="de">Rine</placeName>
             <location>
-              <country xml:lang="de">Schweiz</country>
-              <country xml:lang="en">Switzerland</country>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
             </location>
             <idno type="stadtasg-places-id">92</idno>
             <listBibl>
@@ -3660,6 +3660,7 @@
             <placeName type="main" xml:lang="de">Kurpfalz</placeName>
             <placeName type="full" xml:lang="de">Kurpfalz (RP)</placeName>
             <placeName type="sort" xml:lang="de">kurpfalz</placeName>
+            <placeName type="alternative" xml:lang="de">Pfalz</placeName>
             <location>
               <country xml:lang="de">Deutschland</country>
               <country xml:lang="en">Germany</country>
@@ -3669,9 +3670,21 @@
               <bibl>
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/places-db-edit/views/view-place.xq?id=loc010344"/>
               </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q22880"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/157693038/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/25943-3"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Kurpfalz"/>
+              </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Pfalzgrafschaft bei Rhein</p>
+              <p>Pfalzgrafschaft bei Rhein, Unterpfalz</p>
             </note>
           </place>
           <place type="P" xml:id="stadtasg-places-145">
@@ -3891,31 +3904,6 @@
             </listBibl>
             <note type="description" xml:lang="de">
               <p>Gemeinde</p>
-            </note>
-          </place>
-          <place type="P" xml:id="stadtasg-places-155">
-            <placeName type="main" xml:lang="de">Rothenburg ob der Tauber</placeName>
-            <placeName type="full" xml:lang="de">Rothenburg ob der Tauber (BY)</placeName>
-            <placeName type="sort" xml:lang="de">rothenburg ob der tauber</placeName>
-            <location>
-              <geo>49.37885 10.18711</geo>
-              <country xml:lang="de">Deutschland</country>
-              <country xml:lang="en">Germany</country>
-            </location>
-            <idno type="stadtasg-places-id">155</idno>
-            <listBibl>
-              <bibl>
-                <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/places-db-edit/views/view-place.xq?id=loc000676"/>
-              </bibl>
-              <bibl>
-                <ptr type="gnd" target="https://d-nb.info/gnd/4050698-8"/>
-              </bibl>
-              <bibl>
-                <ptr type="geonames" target="https://www.geonames.org/2844056"/>
-              </bibl>
-            </listBibl>
-            <note type="description" xml:lang="de">
-              <p>Stadt</p>
             </note>
           </place>
           <place type="H" xml:id="stadtasg-places-157">
@@ -4263,10 +4251,11 @@
           </place>
           <place type="S" xml:id="stadtasg-places-171">
             <placeName type="main" xml:lang="de">Ramstein Burg</placeName>
-            <placeName type="full" xml:lang="de">Ramstein Burg / Bretzwil BL (BL)</placeName>
+            <placeName type="full" xml:lang="de">Ramstein Burg / Bretzwil (BL)</placeName>
             <placeName type="sort" xml:lang="de">ramstein burg</placeName>
             <location>
-              <settlement xml:lang="de">Bretzwil BL</settlement>
+              <geo>47.3901111 7.65425</geo>
+              <settlement xml:lang="de">Bretzwil</settlement>
               <country xml:lang="de">Schweiz</country>
               <country xml:lang="en">Switzerland</country>
             </location>
@@ -4485,7 +4474,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Burg</p>
+              <p>Burg und dazugehörig die Grafschaft</p>
             </note>
           </place>
           <place type="A" xml:id="stadtasg-places-180">
@@ -5610,9 +5599,9 @@
             </listBibl>
           </place>
           <place type="P" xml:id="stadtasg-places-228">
-            <placeName type="main" xml:lang="de">Gundelfingen a.d.Donau</placeName>
-            <placeName type="full" xml:lang="de">Gundelfingen a.d.Donau (BY)</placeName>
-            <placeName type="sort" xml:lang="de">gundelfingen a.d.donau</placeName>
+            <placeName type="main" xml:lang="de">Gundelfingen a.d. Donau</placeName>
+            <placeName type="full" xml:lang="de">Gundelfingen a.d. Donau (BY)</placeName>
+            <placeName type="sort" xml:lang="de">gundelfingen a.d. donau</placeName>
             <location>
               <geo>48.55095 10.36885</geo>
               <country xml:lang="de">Deutschland</country>
@@ -6389,6 +6378,1323 @@
               </bibl>
             </listBibl>
           </place>
+          <place type="P" xml:id="stadtasg-places-254">
+            <placeName type="main" xml:lang="de">Antdorf</placeName>
+            <placeName type="full" xml:lang="de">Antdorf (BY)</placeName>
+            <placeName type="sort" xml:lang="de">antdorf</placeName>
+            <location>
+              <geo>47.75133 11.30845</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">254</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6556422"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q532016"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/176023808/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/16171675-1"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Antdorf"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-255">
+            <placeName type="main" xml:lang="de">Kreuzlingen</placeName>
+            <placeName type="full" xml:lang="de">Kreuzlingen (TG)</placeName>
+            <placeName type="sort" xml:lang="de">kreuzlingen</placeName>
+            <location>
+              <geo>47.65051 9.17504</geo>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">255</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/7286222"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q63905"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n85096183"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001932"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/146643813/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4097071-1"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Kreuzlingen"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-256">
+            <placeName type="main" xml:lang="de">Rettenberg</placeName>
+            <placeName type="full" xml:lang="de">Rettenberg (BY)</placeName>
+            <placeName type="sort" xml:lang="de">rettenberg</placeName>
+            <location>
+              <geo>47.57428 10.29173</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">256</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6557313"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q529023"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/247336545/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4318629-4"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Rettenberg"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-257">
+            <placeName type="main" xml:lang="de">Gottsfeld</placeName>
+            <placeName type="full" xml:lang="de">Gottsfeld / Creußen (BY)</placeName>
+            <placeName type="sort" xml:lang="de">gottsfeld</placeName>
+            <placeName type="alternative" xml:lang="de">Gotzfeld</placeName>
+            <location>
+              <geo>49.84126 11.59036</geo>
+              <settlement xml:lang="de">Creußen</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">257</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2918584"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q38163773"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/242821901/"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Gottsfeld"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-258">
+            <placeName type="main" xml:lang="de">Egg an der Günz</placeName>
+            <placeName type="full" xml:lang="de">Egg an der Günz (BY)</placeName>
+            <placeName type="sort" xml:lang="de">egg an der guenz</placeName>
+            <location>
+              <geo>48.08714 10.28495</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">258</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2933168"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q120620"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/213932301/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4458463-5"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Egg_an_der_Günz"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-259">
+            <placeName type="main" xml:lang="de">Schomburg</placeName>
+            <placeName type="full" xml:lang="de">Schomburg / Wangen im Allgäu (BW)</placeName>
+            <placeName type="sort" xml:lang="de">schomburg</placeName>
+            <location>
+              <geo>47.68205 9.75714</geo>
+              <settlement xml:lang="de">Wangen im Allgäu</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">259</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2837113"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q19969752"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Schomburg_(Wangen_im_Allgäu)"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/33402-9"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-260">
+            <placeName type="main" xml:lang="de">Bärbach</placeName>
+            <placeName type="full" xml:lang="de">Bärbach (BW/BY)</placeName>
+            <placeName type="sort" xml:lang="de">baerbach</placeName>
+            <placeName type="alternative" xml:lang="de">Baerbach</placeName>
+            <location>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">260</idno>
+          </place>
+          <place type="P" xml:id="stadtasg-places-261">
+            <placeName type="main" xml:lang="de">Almensberg</placeName>
+            <placeName type="full" xml:lang="de">Almensberg / Amriswil (TG)</placeName>
+            <placeName type="sort" xml:lang="de">almensberg</placeName>
+            <placeName type="alternative" xml:lang="de">Albersperg</placeName>
+            <location>
+              <geo>47.5337 9.32888</geo>
+              <settlement xml:lang="de">Amriswil</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">261</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/11731108"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q83550243"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/015296"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Almensberg"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-262">
+            <placeName type="main" xml:lang="de">Montauban</placeName>
+            <placeName type="full" xml:lang="de">Montauban (OCC)</placeName>
+            <placeName type="sort" xml:lang="de">montauban</placeName>
+            <location>
+              <geo>44.01759 1.3542</geo>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="stadtasg-places-id">262</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2993002"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Montauban"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q172593"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Montauban"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n50005126"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/126552114/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4102157-5"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-263">
+            <placeName type="main" xml:lang="de">Trogen</placeName>
+            <placeName type="full" xml:lang="de">Trogen (AR)</placeName>
+            <placeName type="sort" xml:lang="de">trogen</placeName>
+            <location>
+              <geo>47.40782 9.46498</geo>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">263</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/7287337"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q68189"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001304"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4106969-9"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Trogen_AR"/>
+              </bibl>
+              <bibl>
+                <ptr type="das-portal-der-schweizerischen-ortsnamenforschung-(ortsnamen.ch)" target="https://search.ortsnamen.ch/de/record/802003025"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-264">
+            <placeName type="main" xml:lang="de">Kurzenberg</placeName>
+            <placeName type="full" xml:lang="de">Kurzenberg / Vorderland (AR)</placeName>
+            <placeName type="sort" xml:lang="de">kurzenberg</placeName>
+            <placeName type="alternative" xml:lang="de">Kurtzenberg</placeName>
+            <location>
+              <geo>47.444569 9.546897</geo>
+              <settlement xml:lang="de">Vorderland</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">264</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1794413"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/003329"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4321196-3"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Region im ehemaligen Bezirk Vorderland AR, welche die Gemeinden Heiden, Wolfhalden und Lutzenberg umfasst.</p>
+            </note>
+          </place>
+          <place type="P" xml:id="stadtasg-places-265">
+            <placeName type="main" xml:lang="de">Churwalden</placeName>
+            <placeName type="full" xml:lang="de">Churwalden (GR)</placeName>
+            <placeName type="sort" xml:lang="de">churwalden</placeName>
+            <placeName type="alternative" xml:lang="de">Churwalchen</placeName>
+            <location>
+              <geo>46.78143 9.54377</geo>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">265</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/7285516"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q64363"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n86082391"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001582"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/145501552/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4127101-4"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Churwalden"/>
+              </bibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/3034489"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="A" xml:id="stadtasg-places-266">
+            <placeName type="main" xml:lang="de">Aargau</placeName>
+            <placeName type="full" xml:lang="de">Aargau (AG)</placeName>
+            <placeName type="sort" xml:lang="de">aargau</placeName>
+            <placeName type="alternative" xml:lang="de">Ergöw</placeName>
+            <location>
+              <geo>47.39557 8.17214</geo>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">266</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2661876"/>
+              </bibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/800000019"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Kanton_Aargau"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q11972"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Aargau-canton-Switzerland"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80145150"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/007392"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/123736594/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4000022-9"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-267">
+            <placeName type="main" xml:lang="de">Erlach</placeName>
+            <placeName type="full" xml:lang="de">Erlach (BE)</placeName>
+            <placeName type="sort" xml:lang="de">erlach</placeName>
+            <location>
+              <geo>47.0422 7.09728</geo>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">267</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/7285748"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q69453"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/nr95003972"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/000281"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/131800940/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/2096260-5"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-268">
+            <placeName type="main" xml:lang="de">Grünenbach</placeName>
+            <placeName type="full" xml:lang="de">Grünenbach (BY)</placeName>
+            <placeName type="sort" xml:lang="de">gruenenbach</placeName>
+            <placeName type="alternative" xml:lang="de">Grüenenbach</placeName>
+            <location>
+              <geo>47.62864 10.00843</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">268</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6557194"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q552415"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Grünenbach"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/246275915/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4496376-2"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-270">
+            <placeName type="main" xml:lang="de">Ossingen</placeName>
+            <placeName type="full" xml:lang="de">Ossingen (ZH)</placeName>
+            <placeName type="sort" xml:lang="de">ossingen</placeName>
+            <location>
+              <geo>47.61175 8.72781</geo>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">270</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/7286760"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q68393"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/000031"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/240905414/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4249179-4"/>
+              </bibl>
+              <bibl>
+                <ptr type="das-portal-der-schweizerischen-ortsnamenforschung-(ortsnamen.ch)" target="https://search.ortsnamen.ch/de/record/7043037"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-271">
+            <placeName type="main" xml:lang="de">Immenstadt im Allgäu</placeName>
+            <placeName type="full" xml:lang="de">Immenstadt im Allgäu (BY)</placeName>
+            <placeName type="sort" xml:lang="de">immenstadt im allgaeu</placeName>
+            <location>
+              <geo>47.55996 10.21394</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">271</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2896261"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q506278"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n82085896"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/136064712/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4113996-3"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Immenstadt_im_Allgäu"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-272">
+            <placeName type="main" xml:lang="de">Heidelberg</placeName>
+            <placeName type="full" xml:lang="de">Heidelberg (BW)</placeName>
+            <placeName type="sort" xml:lang="de">heidelberg</placeName>
+            <placeName type="alternative" xml:lang="de">Heydelberg</placeName>
+            <location>
+              <geo>49.40768 8.69079</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">272</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2907911"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q2966"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Heidelberg"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n81096075"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/006590"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/144258029/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4023996-2"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Heidelberg"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="A" xml:id="stadtasg-places-273">
+            <placeName type="main" xml:lang="de">Italien</placeName>
+            <placeName type="full" xml:lang="de">Italien</placeName>
+            <placeName type="sort" xml:lang="de">italien</placeName>
+            <placeName type="alternative" xml:lang="de">Italia</placeName>
+            <location>
+              <geo>42.83333 12.83333</geo>
+              <country xml:lang="de">Italien</country>
+              <country xml:lang="en">Italy</country>
+            </location>
+            <idno type="stadtasg-places-id">273</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/3175395"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q38"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Italy"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n79021783"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/011196"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/152361066/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4027833-5"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Italien"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-274">
+            <placeName type="main" xml:lang="de">Recanati</placeName>
+            <placeName type="full" xml:lang="de">Recanati (57)</placeName>
+            <placeName type="sort" xml:lang="de">recanati</placeName>
+            <placeName type="alternative" xml:lang="de">Rachanati</placeName>
+            <location>
+              <geo>43.40381 13.55379</geo>
+              <country xml:lang="de">Italien</country>
+              <country xml:lang="en">Italy</country>
+            </location>
+            <idno type="stadtasg-places-id">274</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6541846"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q83362"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n83033421"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/124369957/"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Recanati"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4336610-7"/>
+              </bibl>
+              <bibl>
+                <ptr type="meyers-großes-konversationslexikon" target="https://woerterbuchnetz.de/?sigle=Meyers&amp;lemid=R01332"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-275">
+            <placeName type="main" xml:lang="de">Aulendorf</placeName>
+            <placeName type="full" xml:lang="de">Aulendorf (BW)</placeName>
+            <placeName type="sort" xml:lang="de">aulendorf</placeName>
+            <location>
+              <geo>47.95083 9.63745</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">275</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6558185"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q505459"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n85040998"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/153665086/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4003648-0"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Aulendorf"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-276">
+            <placeName type="main" xml:lang="de">Osnabrück</placeName>
+            <placeName type="full" xml:lang="de">Osnabrück (NI)</placeName>
+            <placeName type="sort" xml:lang="de">osnabrueck</placeName>
+            <placeName type="alternative" xml:lang="de">Oßnabruckh</placeName>
+            <location>
+              <geo>52.27264 8.0498</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">276</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6552851"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q2916"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Osnabruck"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n79075257"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/132548501/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4043974-4"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Osnabrück"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-277">
+            <placeName type="main" xml:lang="de">Münster</placeName>
+            <placeName type="full" xml:lang="de">Münster (NW)</placeName>
+            <placeName type="sort" xml:lang="de">muenster</placeName>
+            <location>
+              <geo>51.96236 7.62571</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">277</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/3247442"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q2742"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Munster-Germany"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n82040141"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/132447077/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4040608-8"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Münster"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="A" xml:id="stadtasg-places-278">
+            <placeName type="main" xml:lang="de">Königsegg (Grafschaft)</placeName>
+            <placeName type="full" xml:lang="de">Königsegg (Grafschaft) (BW)</placeName>
+            <placeName type="sort" xml:lang="de">koenigsegg (grafschaft)</placeName>
+            <location>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">278</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4838038-6"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Grafschaft_Königsegg-Rothenfels"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Histor. Territorium bis 1806</p>
+            </note>
+          </place>
+          <place type="P" xml:id="stadtasg-places-279">
+            <placeName type="main" xml:lang="de">Hoßkirch</placeName>
+            <placeName type="full" xml:lang="de">Hoßkirch (BW)</placeName>
+            <placeName type="sort" xml:lang="de">hoßkirch</placeName>
+            <location>
+              <geo>47.95 9.45</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">279</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6556067"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q550659"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/238632334/"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/7712821-7"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Hoßkirch"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="A" xml:id="stadtasg-places-280">
+            <placeName type="main" xml:lang="de">Spanien</placeName>
+            <placeName type="full" xml:lang="de">Spanien</placeName>
+            <placeName type="sort" xml:lang="de">spanien</placeName>
+            <placeName type="alternative" xml:lang="de">Spania</placeName>
+            <location>
+              <geo>40 -4</geo>
+              <country xml:lang="de">Spanien</country>
+              <country xml:lang="en">Spain</country>
+            </location>
+            <idno type="stadtasg-places-id">280</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2510769"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q29"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Spain"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/en/viaf/133609710"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n79006971"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/003372"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4055964-6"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Spanien"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="A" xml:id="stadtasg-places-281">
+            <placeName type="main" xml:lang="de">Burgund</placeName>
+            <placeName type="full" xml:lang="de">Burgund (BFC)</placeName>
+            <placeName type="sort" xml:lang="de">burgund</placeName>
+            <location>
+              <geo>47.25 4.16667</geo>
+              <country xml:lang="de">Frankreich</country>
+              <country xml:lang="en">France</country>
+            </location>
+            <idno type="stadtasg-places-id">281</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/3030967"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1173"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Burgundy"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/en/viaf/6603147786777368220009"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n79091183"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4129468-3"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Burgund"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-282">
+            <placeName type="main" xml:lang="de">Görz</placeName>
+            <placeName type="full" xml:lang="de">Görz (36)</placeName>
+            <placeName type="sort" xml:lang="de">goerz</placeName>
+            <placeName type="alternative" xml:lang="de">Gorizia, Gorica, Gurize</placeName>
+            <location>
+              <geo>45.94088 13.62167</geo>
+              <country xml:lang="de">Italien</country>
+              <country xml:lang="en">Italy</country>
+            </location>
+            <idno type="stadtasg-places-id">282</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6541866"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q6596"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Gorizia"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/en/viaf/126349538"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80087732"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4071921-2"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Gorizia"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="A" xml:id="stadtasg-places-283">
+            <placeName type="main" xml:lang="de">Hessen-Kassel</placeName>
+            <placeName type="full" xml:lang="de">Hessen-Kassel (HE, RP, NI, TH)</placeName>
+            <placeName type="sort" xml:lang="de">hessen-kassel</placeName>
+            <location>
+              <geo>50.55 9</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">283</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2905330"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q168651"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Hesse-Kassel"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n83009474"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4072472-4"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/135844586"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Landgrafschaft_Hessen-Kassel"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Ehemalige Landgrafschaft Hessen-Kassel auf dem heutigen Gebiet des Bundeslandes Hessen</p>
+            </note>
+          </place>
+          <place type="P" xml:id="stadtasg-places-285">
+            <placeName type="main" xml:lang="de">Schweigern</placeName>
+            <placeName type="full" xml:lang="de">Schweigern (BW)</placeName>
+            <placeName type="sort" xml:lang="de">schweigern</placeName>
+            <location>
+              <geo>49.49392 9.66889</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">285</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2834577"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q61882291"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4297259-0"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/241580330"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-286">
+            <placeName type="main" xml:lang="de">Boxberg</placeName>
+            <placeName type="full" xml:lang="de">Boxberg (BW)</placeName>
+            <placeName type="sort" xml:lang="de">boxberg</placeName>
+            <location>
+              <geo>49.47965 9.64006</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">286</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6558010"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q61851"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4007888-7"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/244360594"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Boxberg_(Baden)"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="A" xml:id="stadtasg-places-287">
+            <placeName type="main" xml:lang="de">Schweiz</placeName>
+            <placeName type="full" xml:lang="de">Schweiz</placeName>
+            <placeName type="sort" xml:lang="de">schweiz</placeName>
+            <location>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">287</idno>
+          </place>
+          <place type="P" xml:id="stadtasg-places-288">
+            <placeName type="main" xml:lang="de">Mosbach</placeName>
+            <placeName type="full" xml:lang="de">Mosbach (BW)</placeName>
+            <placeName type="sort" xml:lang="de">mosbach</placeName>
+            <location>
+              <geo>49.35357 9.15106</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">288</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4040316-6"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q23008"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n83232258"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/125532346"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Mosbach"/>
+              </bibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2869120"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="S" xml:id="stadtasg-places-289">
+            <placeName type="main" xml:lang="de">Schloss Zeil</placeName>
+            <placeName type="full" xml:lang="de">Schloss Zeil (BW)</placeName>
+            <placeName type="sort" xml:lang="de">schloss zeil</placeName>
+            <placeName type="alternative" xml:lang="de">Zyhl</placeName>
+            <location>
+              <geo>47.86667 10</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">289</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2838245"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Sitz der Adelsfamilie <ref target="/actors/836">Waldburg-Zeil</ref></p>
+            </note>
+          </place>
+          <place type="A" xml:id="stadtasg-places-290">
+            <placeName type="main" xml:lang="de">Waldburg-Zeil</placeName>
+            <placeName type="full" xml:lang="de">Waldburg-Zeil (BW)</placeName>
+            <placeName type="sort" xml:lang="de">waldburg-zeil</placeName>
+            <location>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">290</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/1318597803"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>historisches Territorium, Sitz der Adelsfamilie <ref target="/actors/836">Waldburg-Zeil</ref> auf <ref target="/places/289">Schloss Zeil</ref></p>
+            </note>
+          </place>
+          <place type="P" xml:id="stadtasg-places-291">
+            <placeName type="main" xml:lang="de">Elgg</placeName>
+            <placeName type="full" xml:lang="de">Elgg (ZH)</placeName>
+            <placeName type="sort" xml:lang="de">elgg</placeName>
+            <location>
+              <geo>47.49715 8.86523</geo>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">291</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/7285719"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q67137"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/no98115250"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/000144"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4377643-7"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/144568453"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Elgg"/>
+              </bibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/7015668"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="S" xml:id="stadtasg-places-293">
+            <placeName type="main" xml:lang="de">Drei Kronen</placeName>
+            <placeName type="full" xml:lang="de">Drei Kronen / Nürnberg (BY)</placeName>
+            <placeName type="sort" xml:lang="de">drei kronen</placeName>
+            <location>
+              <settlement xml:lang="de">Nürnberg</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">293</idno>
+            <note type="description" xml:lang="de">
+              <p>Gasthaus</p>
+            </note>
+          </place>
+          <place type="P" xml:id="stadtasg-places-294">
+            <placeName type="main" xml:lang="de">Gögglingen-Donaustetten</placeName>
+            <placeName type="full" xml:lang="de">Gögglingen-Donaustetten / Ulm (BW)</placeName>
+            <placeName type="sort" xml:lang="de">goegglingen-donaustetten</placeName>
+            <placeName type="alternative" xml:lang="de">Gögglingen</placeName>
+            <location>
+              <geo>48.33742 9.93902</geo>
+              <settlement xml:lang="de">Ulm</settlement>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">294</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1559217"/>
+              </bibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2919522"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Gögglingen-Donaustetten"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-295">
+            <placeName type="main" xml:lang="de">Thal</placeName>
+            <placeName type="full" xml:lang="de">Thal (SG)</placeName>
+            <placeName type="sort" xml:lang="de">thal</placeName>
+            <location>
+              <geo>47.46677 9.56643</geo>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">295</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6620245"/>
+              </bibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802003237"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-296">
+            <placeName type="main" xml:lang="de">Eggen</placeName>
+            <placeName type="full" xml:lang="de">Eggen (TG)</placeName>
+            <placeName type="sort" xml:lang="de">eggen</placeName>
+            <location>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">296</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/008185/2009-10-08/"/>
+              </bibl>
+            </listBibl>
+            <note type="description" xml:lang="de">
+              <p>Ehemalige Vogtei beziehungsweise Niedergericht TG</p>
+            </note>
+          </place>
+          <place type="P" xml:id="stadtasg-places-297">
+            <placeName type="main" xml:lang="de">Hanau</placeName>
+            <placeName type="full" xml:lang="de">Hanau (HE)</placeName>
+            <placeName type="sort" xml:lang="de">hanau</placeName>
+            <location>
+              <geo>50.13423 8.91418</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">297</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6557738"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q3802"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n81146665"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4023201-3"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/134967927"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Hanau"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-298">
+            <placeName type="main" xml:lang="de">Grönenbach</placeName>
+            <placeName type="full" xml:lang="de">Grönenbach (BY)</placeName>
+            <placeName type="sort" xml:lang="de">groenenbach</placeName>
+            <location>
+              <geo>47.87714 10.22207</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">298</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/6558778"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q550231"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/nr88006243"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/007065"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4217624-4"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/168132242"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Bad_Grönenbach"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-299">
+            <placeName type="main" xml:lang="de">Herbishofen</placeName>
+            <placeName type="full" xml:lang="de">Herbishofen (BY)</placeName>
+            <placeName type="sort" xml:lang="de">herbishofen</placeName>
+            <location>
+              <geo>47.95263 10.2251</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">299</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2906214"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q19285423"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/240075743"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Herbishofen"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4460704-0"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-300">
+            <placeName type="main" xml:lang="de">Theinselberg</placeName>
+            <placeName type="full" xml:lang="de">Theinselberg (BY)</placeName>
+            <placeName type="sort" xml:lang="de">theinselberg</placeName>
+            <location>
+              <geo>47.94252 10.24947</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">300</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2822898"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1565142"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Theinselberg"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4458280-8"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="S" xml:id="stadtasg-places-301">
+            <placeName type="main" xml:lang="de">Schloss Hahnberg</placeName>
+            <placeName type="full" xml:lang="de">Schloss Hahnberg / Berg (SG)</placeName>
+            <placeName type="sort" xml:lang="de">schloss hahnberg</placeName>
+            <location>
+              <geo>47.495048813252 9.4147397461055</geo>
+              <settlement xml:lang="de">Berg</settlement>
+              <country xml:lang="de">Schweiz</country>
+              <country xml:lang="en">Switzerland</country>
+            </location>
+            <idno type="stadtasg-places-id">301</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4018843"/>
+              </bibl>
+            </listBibl>
+          </place>
+          <place type="P" xml:id="stadtasg-places-302">
+            <placeName type="main" xml:lang="de">Erbach</placeName>
+            <placeName type="full" xml:lang="de">Erbach (HE)</placeName>
+            <placeName type="sort" xml:lang="de">erbach</placeName>
+            <placeName type="alternative" xml:lang="de">Erbach (Odenwald)</placeName>
+            <location>
+              <geo>49.66148 8.99402</geo>
+              <country xml:lang="de">Deutschland</country>
+              <country xml:lang="en">Germany</country>
+            </location>
+            <idno type="stadtasg-places-id">302</idno>
+            <listBibl>
+              <bibl>
+                <ptr type="geonames" target="https://www.geonames.org/2929802"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q571748"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n81070831"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4015092-6"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/144256311"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Erbach_(Odenwald)"/>
+              </bibl>
+            </listBibl>
+          </place>
         </listPlace>
       </settingDesc>
     </profileDesc>
@@ -6436,7 +7742,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2024-10-07T13:09:11+02:00">teiHeader was automatically produced from the database 2024-10-07T13:09:11+02:00</change>
+      <change when="2025-03-11T10:24:34+01:00">teiHeader was automatically produced from the database 2025-03-11T10:24:34+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

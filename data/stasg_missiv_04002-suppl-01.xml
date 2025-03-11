@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4002 Beilage 1</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. <ref target="stasg_missiv_04002.xml">4002</ref>. Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_4002_16175/16176</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Ulm bieten in einem Postskriptum Bürgermeister und Rat zu St. Gallen sowie der Bürgerschaft der Stadt St. Gallen und ihren Handeltreibenden Pulver, Metall und Blei zum Kauf gegen Barzahlung an. Über den Preis könne man verhandeln. Die Ulmer versichern aber, dass sie bei Bedarf ein zufriedenstellendes Angebot machen können.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-597">Schiesspulver</term>
+<term ref="stadtasg-keywords-77">Metall</term>
+<term ref="stadtasg-keywords-284">Kauf</term>
+<term ref="stadtasg-keywords-180">Kaufmann</term>
+<term ref="stadtasg-keywords-167">Verkauf</term>
+<term ref="stadtasg-keywords-91">Handel</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-510">Bürgermeister und Rat zu Ulm</orgName>                    <date>1650-02-20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-01-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4003_16175.jpg" n="1" />
+<p>
+<pb facs="StadtASG_Missive_4003_16176.jpg" n="2" />
+</p>
+        </body>
+    </text>
+</TEI>

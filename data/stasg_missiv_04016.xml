@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4016</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4016_16219/16222</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ulrich Trüeb, Stadtammann zu Arbon, bittet Sebastian Schobinger, Bürgermeister zu St. Gallen, darum, diejenigen St. Galler Bürger, die an der Hochzeit von Franziskus Meder, Bürger zu Arbon, eingeladen und im Hause des Hochzeiters an einem Tanz teilgenommen haben und die deswegen vor die St. Galler Obrigkeit zitiert werden, nicht zu bestrafen. Der Ehrentanz an der Hochzeit sei obrigkeitlich bewilligt worden, weshalb auf eine Strafe verzichtet werden solle.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-349">Heirat</term>
+<term ref="stadtasg-keywords-263">Vogt</term>
+<term ref="stadtasg-keywords-107">Strafe</term>
+<term ref="stadtasg-keywords-157">Ammann</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-879">Ulrich Trüeb</persName><placeName ref="stadtasg-places-5">Arbon</placeName>                    <date>1650-03-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-736">Sebastian Schobinger</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-02-26</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4016_16219.jpg" n="1" />
+<p>
+<lb n="1" />Wohl edler hochgelerter fürnemer und hochgeachter insonders
+<lb n="2" />großgünstiger herr deme seyen meine willige dienst und
+<lb n="3" />fründtlich gruoß bevor.
+<lb n="4" />Ich wirde glaubwürdig berichtet, das alle die jenige personen,
+<lb n="5" />so von der statt <placeName ref="stadtasg-places-38">st. Gallen</placeName> bey unßers mitburgers <persName ref="stadtasg-actors-880">Franzisus
+<lb n="6" />Meders</persName> hochzeit alhie geweßen, für die herren (weilen sie alhie
+<lb n="7" />ain ehren danz verüept haben) ervorderet sollen werden.
+<lb n="8" />Es hatt aber der herr hochzeiter wie nit weniger sein geliepter
+<lb n="9" />herr vatter bey herren obervogt und mir (weilen zue gedachter
+<lb n="10" />hochzeit veil ansechenliche herren, frauwen und junckhfrawen
+<lb n="11" />beruoffen) umb ain ehren danz angehalten, uff irer begeren
+<lb n="12" />nichts abgeschlagen worden. Darauff ist in des herr
+<lb n="13" />hochzeiters behaußunge nach gehalten mahlzeiten ain ehren
+<lb n="14" />danz, das alles in aller stille, zucht und erbarkhait, auch
+<lb n="15" />kain ungeliches, weder mit wordten nach werckhen,
+<lb n="16" />in gegenwart der frauw obervögtin und meiner, verüept worden.
+<lb n="17" />Alles welle der herr ganz fründt-nachparlich gepten sein, so
+<lb n="18" />sie möchten für die herren desendtwegen ervorderet werden,
+<lb n="19" />sie samptlichen mit gnaden und ohne straffwürdige (weilen
+<lb n="20" />es vergünstiget worden) ansechen und hinsinckhen laßen.
+<lb n="21" />Soliches solle in allen begebendten ocasionen fründt-nachpar
+<lb break="no" n="22" />lich recompensiert werden. Darbey unß samptlichen der 
+<lb n="23" />almacht gottes wohl empfehlendt. <origPlace ref="stadtasg-places-5">Arbon</origPlace>, den <origDate when="1650-03-08">8ten marty anno 50</origDate>. 
+<lb n="24" />Des herren
+<lb n="25" />dienst und freündt
+<lb n="26" />williger
+<lb n="27" /><persName ref="stadtasg-actors" role="issuer">Ulrich Trüeb</persName>, der zeit
+<lb n="28" />stattaman daselbsten.
+<pb facs="StadtASG_Missive_4016_16220.jpg" n="2" />
+<pb facs="StadtASG_Missive_4016_16221.jpg" n="3" />
+<pb facs="StadtASG_Missive_4016_16222.jpg" n="4" />
+<lb n="29" />Dem wohledlen hochgelerten fürnemen und
+<lb n="30" />hochgeachten herren <persName ref="stadtasg-actors-736" role="recipient">Sebastian Schobinger</persName>
+<lb n="31" />beider rechten doctor und der statt <placeName ref="stadtasg-places-38">sanct Gallen</placeName>
+<lb n="32" />wohl bestelten ampts burgermaisteren etc.
+<lb n="33" />meinem insonders großgünstigen hochgeerten
+<lb n="34" />herren.
+<lb n="35" /><placeName ref="stadtasg-places-38">Sant Gallen</placeName>.
+</p>
+        </body>
+    </text>
+</TEI>

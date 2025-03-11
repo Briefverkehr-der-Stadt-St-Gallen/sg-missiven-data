@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4057</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4057_16389/16392</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Bludenz informieren Bürgermeister und Rat zu St. Gallen, dass der erste der gewöhnlichen Bludenzer Märkte in diesem Jahr vom 2. auf den 3. Oktober verlegt werde, da der 2. Oktober auf einen Sonntag falle. Danach würden die Märkte alle 14 Tage bis Weihnachten abgehalten. Bürgermeister und Rat zu Bludenz wehren sich im Weiteren gegen Gerüchte, wonach unter dem auf dem Markt angebotenen Vieh eine Krankheit ausgebrochen sei. Jedermann könne unbesorgt den Markt besuchen und könne eine entsprechende Bescheinigung verlangen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-179">Jahrmarkt</term>
+<term ref="stadtasg-keywords-143">Markt</term>
+<term ref="stadtasg-keywords-189">Vieh</term>
+<term ref="stadtasg-keywords-53">Krankheit</term>
+<term ref="stadtasg-keywords-63">Gerücht</term>
+<term ref="stadtasg-keywords-56">Urkunde</term>
+<term ref="stadtasg-keywords-182">Viehseuche</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-825">Bürgermeister und Rat zu Bludenz</orgName><placeName ref="stadtasg-places-90">Bludenz</placeName>                    <date>1650-09-14</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>WH</persName>
+                <date>2025-01-08</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-01-27</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4057_16389.jpg" n="1" />
+<p>
+<lb n="1" />Edel vest hochgeacht ehrenvest fürsichtig ehrsamb und weise in
+<lb break="no" n="2" />sonders großgünstig geehrte herren und nachparen denselben
+<lb n="3" />seyen unser nachparlich beraitwillige dienst zuvor.
+<lb n="4" />Dieweilen abermahlen die zeit herbei nahet, daß die gewonlichen
+<lb n="5" />jahr märckht bei unß zu <placeName ref="stadtasg-places-90">Bludenz</placeName> ihren und nun der erste
+<lb n="6" />järlich allwegen den <date when="1650-10-02">2. octobris</date> den anfang genommen, allein
+<lb n="7" />heürigs jahr (weil auf selben tag der sontag fallen thuet) 
+<lb n="8" />gleich am montag darnach alß den <date when="1650-10-03">3ten octobris</date> negstkhom
+<lb break="no" n="9" />menden monats transferiert und gelegt, auch hinach alzeit
+<lb n="10" />zu 14 tag hinumb biß auf weichnächten gehalten werden,
+<lb n="11" />unß aber weitleüffig verkhomen, daß ungleiche reden und
+<lb n="12" />geschrai ergangen, ob solte diser enden und orthen bey unnß
+<lb n="13" />under dem (salvo honore) vieh nit gesunder luft seyn, an deme
+<lb n="14" />zuvil auch unß unrecht beschechen. Und damit man desto
+<lb n="15" />mehr dessen gesichert, alß haben die herren nachparen wier
+<lb n="16" />nit allein diß wie obsteht, wan der erste marckht gehalten,
+<lb n="17" />sondern daß (got lob) bei unß und in diser lanndts
+<lb n="18" />refier under dem vieh ganz khain ainiche böse argwönisch
+<lb n="19" />oder erbliche kranckheit nicht regiert, daß also jeder
+<lb n="20" />menigkhlichen solliche märckht ohne scheühen sicherlich besuechen
+<lb n="21" />mag, auch ainem jeden, der es begert, glaubwürdige schein
+<lb n="22" />und urkhundt gegeben werden khünden, nachbarlich berichten
+<lb n="23" />und dabey dienstlich biten wöllen, solches den ihrigen und 
+<lb n="24" />anderwerts sovil möglich zu jeniger, die solliche märckht
+<lb n="25" />zubesuechen vorhabens sein möchten, besseren nachricht
+<pb facs="StadtASG_Missive_4057_16390.jpg" n="2" />
+<lb n="26" />unbeschwerdt notificieren lassen. Daß seindt wier in dergleichen
+<lb n="27" />und anderen begebenden fählen nachparlich zubeschulden genaigt,
+<lb n="28" />in deme göttlicher protection unß allerseits wol
+<lb n="29" />empfelchendt. Datum <origPlace ref="stadtasg-places-90">Bludenz</origPlace> den <origDate when="1650-09-14">14. septembris anno 1650</origDate>.
+<lb n="30" />Der herren
+<lb n="31" />dienst beraithwillige
+<lb n="32" />nachparen
+<lb n="33" />nomen nominandum <orgName ref="stadtasg-actors-825" role="issuer">burgermaister 
+<lb n="34" />und rhat</orgName> daselbsten.
+<pb facs="StadtASG_Missive_4057_16391.jpg" n="3" />
+<pb facs="StadtASG_Missive_4057_16392.jpg" n="4" />
+<lb n="35" />Denen edlen veßten hochgeacht ehrnveßten fürsichtigen
+<lb n="36" />ehrsamen und weisen herren nomen nominandum <orgName ref="stadtasg-actors-148" role="recipient">burgermaister 
+<lb n="37" />und rath der loblichen stat st. Gallen</orgName> unseren
+<lb n="38" />insonders großgnedigsten geehrten herren nachparen.
+</p>
+        </body>
+    </text>
+</TEI>

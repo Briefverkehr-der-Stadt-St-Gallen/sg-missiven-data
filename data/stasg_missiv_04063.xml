@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4063</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 30. Oktober 1650 vor dem Rat verlesen.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4063_16411/16414</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau informieren Bürgermeister und Rat zu St. Gallen, dass der Jahrmarkt zu Lindau, der am Freitag 4. und Samstag 5. November stattfinden sollte, aus verschiedenen Gründen nicht stattfinden werde. Lindau ersucht St. Gallen, diejenigen, die den Markt besuchen wollten, zu informieren, damit sie vor unnötigen Kosten bewahrt würden.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-179">Jahrmarkt</term>
+<term ref="stadtasg-keywords-211">Kosten</term>
+<term ref="stadtasg-keywords-91">Handel</term>
+<term ref="stadtasg-keywords-292">Absage</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>                    <date>1650-10-21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>WH</persName>
+                <date>2025-01-08</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-01-28</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4063_16411.jpg" n="1" />
+<p>
+<lb n="1" />Unnser freündtlich willig dienst zuvor fürsichtig
+<lb n="2" />ersame und weise besonders liebe freünd 
+<lb n="3" />und nachbarn.
+<lb n="4" />Wir seyen auß allerhand beweglichen ursachen
+<lb n="5" />unsern jahrmarckht (so auf nechsten
+<lb n="6" /><date when="1650-11-04">freitag</date> und <date when="1650-11-05">sambstag nach Simonis
+<lb n="7" />und Judae</date> nechstkünftig inn unser statt
+<lb n="8" />gehalten werden sollen) dißmahls
+<lb n="9" />einzustellen entschlossen, derowegen 
+<lb n="10" />eure fürsichtigkeit freündtnachbarlich bittend,
+<lb n="11" />sie wolle solches den ihrigen, so den
+<lb break="no" n="12" />selben besucht haben möchten, wissend
+<lb n="13" />machen, sich vor vergeblichem costen
+<lb n="14" />haben zuverhüeten, unß dabei sambtlich
+<lb n="15" />den gnaden gottes bevelchend. Datum
+<lb n="16" />den <origDate when="1650-10-21">21. octobris anno 1650</origDate>.
+<lb n="17" /><orgName ref="stadtasg-actors-511" role="issuer">Burgermeister und rhat
+<lb n="18" />der statt Lindaw</orgName>.
+<pb facs="StadtASG_Missive_4063_16412.jpg" n="2" />
+<pb facs="StadtASG_Missive_4063_16413.jpg" n="3" />
+<pb facs="StadtASG_Missive_4063_16414.jpg" n="4" />
+<lb n="19" />Den fürsichtigen ersamen und weisen
+<lb n="20" /><orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rhat der statt sanct
+<lb n="21" />Gallen</orgName> unsern besonderß lieben freünden
+<lb n="22" />und gueten nachbarn.
+</p>
+        </body>
+    </text>
+</TEI>

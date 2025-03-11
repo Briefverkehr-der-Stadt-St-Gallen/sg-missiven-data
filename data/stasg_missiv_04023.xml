@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4023</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_04019.xml">4019</ref> und <ref target="stasg_missiv_04020.xml">4020</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4023_16245/16248</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Graf Hugo von Königsegg verpflichtet sich gegenüber Bürgermeister und Rat zu St. Gallen als Bürge für ein Darlehen, das sein Vetter Johann Wilhelm, Graf zu Königsegg und Rothenfels, Herr zu Aulendorf, bei Bürgermeister und Rat zu St. Gallen zur Abzahlung der schwedischen Satisfaktionsgelder aufnehmen möchte.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+   <term ref="stadtasg-keywords-606">Satisfaktion</term>
+<term ref="stadtasg-keywords-222">Darlehen</term>
+<term ref="stadtasg-keywords-20">Bürgschaft</term>
+<term ref="stadtasg-keywords-278">Graf</term>
+<term ref="stadtasg-keywords-386">Vetter</term>
+<term ref="stadtasg-keywords-384">Grafschaft</term>
+<term ref="stadtasg-keywords-279">Herrschaft</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-787">Hugo Franz von Königsegg</persName><placeName ref="stadtasg-places-271">Immenstadt im Allgäu</placeName>                    <date>1650-03-26</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-01-07</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4023_16245.jpg" n="1" />
+<p>
+<lb n="1" />Woledle gestrenge und vesste vor
+<lb break="no" n="2" />sichtig ehrsamb und weyße besond
+<lb break="no" n="3" />ers liebe herren und freundt
+<lb n="4" />dennselben seyen mein freundtlich willige diennst und grueß
+<lb n="5" />auch alles liebs und guets bevor.
+<lb n="6" />Eß hat der hoch und wolgebornn herr <persName ref="stadtasg-actors-806">Johann
+<lb n="7" />Willhellm</persName>, grave zue <placeName ref="stadtasg-places-278">Königseckh</placeName> und <placeName ref="stadtasg-places-179">Rothanfelß</placeName>,
+<lb n="8" />herr zue <placeName ref="stadtasg-places-275">Aulendorf</placeName> etc., mein freundtlich lieber vetter,
+<lb n="9" />mir mit mehrern zue erkhennen geben, waß maßen
+<lb n="10" />seine liebden necessitiert werden zue bezahlung der
+<lb n="11" />4ten und 5ten million schweedischer satisfaction
+<lb break="no" n="12" />geltter betreffenden 3000 <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> contingentß
+<lb n="13" />auf seine graf- und herrschafften <placeName ref="stadtasg-places-278">Königseckh</placeName>
+<lb n="14" />und <placeName ref="stadtasg-places-275">Aulendorf</placeName> zueendtlehenen, und in specie bey
+<lb n="15" />den herren desto ehender darmit aufzekhomben
+<lb n="16" />getrawete, wann neben seiner liebden gnaden
+<lb n="17" />mein assecurations wortt zum überfluss mit
+<lb n="18" />geben thete. Innmaßen sie dann mich hierumben
+<lb n="19" />inständig ersucht und angelangt haben,
+<lb n="20" />wann ich nun obwolgedachtem meinem vett
+<lb break="no" n="21" />ern liebden hierinnen gern geholfen sehen möcht,
+<lb n="22" />und da es vonnöthen, neben seiner liebden mich zue
+<lb break="no" n="23" />verobligirn ich kein bedenckhen,
+<pb facs="StadtASG_Missive_4023_16246.jpg" n="2" />
+<lb n="24" />alß bitt ich nicht allein mit vorleihung obiger summa
+<lb n="25" />ihme zu gratificieren, sonndern offeriere mich auch
+<lb n="26" />hiemit mit und neben deroselben, mich zue obligirn.
+<lb n="27" />Wie nun unnß beeden hierdurch ein großer favor
+<lb n="28" />geschicht, alßo wöllen wür beede auch nicht
+<lb n="29" />unnderlaßen, neben danckhbarlicher bezahlung
+<lb n="30" />dieße gratification annderwerts zue demerirn.
+<lb n="31" />Und verbleibe dabey nechst göttlicher all
+<lb break="no" n="32" />machts bevelchung,
+<lb n="33" /><origPlace ref="stadtasg-places-271">Immenstatt</origPlace>, den <origDate when="1650-03-26">26.
+<lb n="34" />marty anno 1650</origDate>.
+<lb n="35" />Der herren
+<lb n="36" />fraiendt williger
+<lb n="37" /><persName ref="stadtasg-actors-787" role="issuer">Haug zu Königsegg</persName>.
+<pb facs="StadtASG_Missive_4023_16247.jpg" n="3" />
+<pb facs="StadtASG_Missive_4023_16248.jpg" n="4" />
+<lb n="38" />Denn woledl gestrengen und vessten vorsichtig
+<lb n="39" />ehrsamb und weißen nomen nominandum <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und
+<lb n="40" />rath der stattt zue st. Gallen</orgName> etc. meinen
+<lb n="41" />besonnders lieben herren und freundt.
+<lb n="42" /><placeName ref="stadtasg-places-38">St. Gallen</placeName>.
+</p>
+        </body>
+    </text>
+</TEI>

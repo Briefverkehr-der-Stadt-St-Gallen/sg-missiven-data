@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4061</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 1. Oktober 1650 vor dem Rat verlesen. Der Unterschied zwischen den Datierungen geht auf die unterschiedlichen Kalender (gregorianisch/julianisch) zurück. Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_04062.xml">4062</ref>, mit der Antwort von St. Gallen.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4061_16405/16408</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Überlingen zeigen Bürgermeister und Rat zu St. Gallen an, dass nach dem Friedensschluss der Kornmarkt in Überlingen wieder aufgenommen wird. Die St. Galler Kaufleute hätten regen Handel mit Überlingen getrieben, sie bitten deshalb, dass das alte Vertrauen nun zurückkehre.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+    <term ref="stadtasg-keywords-83">Frieden</term>
+<term ref="stadtasg-keywords-145">Kornmarkt</term>
+<term ref="stadtasg-keywords-180">Kaufmann</term>
+<term ref="stadtasg-keywords-143">Markt</term>
+<term ref="stadtasg-keywords-91">Handel</term>
+<term ref="stadtasg-keywords-554">Kalender</term>
+<term ref="stadtasg-keywords-144">Getreide</term>
+<term ref="stadtasg-keywords-126">Reichsstadt</term>
+<term ref="stadtasg-keywords-440">Korn</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-68">Bürgermeister und Rat zu Überlingen</orgName>                    <date>1650-10-05</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>WH</persName>
+                <date>2025-01-08</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-01-28</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4061_16405.jpg" n="1" />
+<p>
+<lb n="1" />Unser fründtwillige dienst zuvor ehrnveste fürsichtig
+<lb n="2" />ehrsamb unnd weise sonders liebe herren guete fründt
+<lb n="3" />unnd nachparen.
+<lb n="4" />Es last sich durch die gnad gottes mitelst erlangten lieben friden
+<lb n="5" />nunmehr ansehen, als wolte der allhiesige so lang und zue nachtheil
+<lb n="6" />der benachparten hinderblibne und gesterkhte kornmarkht wider
+<lb n="7" />zue auffnamb kommen, das bereits nicht an den früchten, sonder
+<lb n="8" />allein an den kauffleuthen erwindet. Nachdeme dann an pflantz
+<lb break="no" n="9" />und widerbringung diser und anderer commercien meniglich gelegen,
+<lb n="10" />wir uns auch vorderist erinneren, daß der herren nachparen burger
+<lb n="11" />und angehörige vor anderen starckh und merckhlich allhero ge
+<lb break="no" n="12" />handlet und ohnzweiffenlich, wann sie von diser zuefuhr und re
+<lb break="no" n="13" />flor deß marckhts wissen solten, dem gewerb widerumb nach
+<lb n="14" />und das alte vertrawen zue uns setzen werden, so haben
+<lb n="15" />wir vor ein noturfft erachtet, den herren ein solches zue bedeutem
+<lb n="16" />ende nachrichtlich anzuefüegen. Mit fründtlich gesinnen, sie wollen
+<lb n="17" />den ihrigen deßen ohnbeschwerth part geben und darmit ihre gegen 
+<lb n="18" />uns immerzue bezaigte wohlmeinung noch ferner beharren.
+<lb n="19" />Wie herwider ein solches mit fründtlich nachparlicher dienstbeliebigkheit
+<lb n="20" />zuebeschulden wir uns und zue allem gueten erpietem zue
+<lb break="no" n="21" />gleich auch göttlichen obhalt wohl befehlen. Datum den <origDate when="1650-10-05">5. octobris
+<lb n="22" />stilo novo anno 1650</origDate>.
+<lb n="23" /><orgName ref="stadtasg-actors-68" role="issuer">Burgermeister und rath
+<lb n="24" />deß heyligen reichs statt
+<lb n="25" />Uberlingen</orgName>.
+<pb facs="StadtASG_Missive_4061_16406.jpg" n="2" />
+<pb facs="StadtASG_Missive_4061_16407.jpg" n="3" />
+<pb facs="StadtASG_Missive_4061_16408.jpg" n="4" />
+<lb n="26" />Denn ehrnvesten fürsichtigen ehrsamen unndt
+<lb n="27" />weisen nomen nominandum <orgName ref="stadtasg-actors-148" role="recipient">burgermeistern und rath der statt
+<lb n="28" />st. Gallen</orgName> unseren besonders lieben herren fründ
+<lb break="no" n="29" />den und gueten nachparen.
+</p>
+        </body>
+    </text>
+</TEI>

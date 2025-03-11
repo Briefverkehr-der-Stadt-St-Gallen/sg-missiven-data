@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4001 Beilage 1</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Abschrift. Beilage zur Missive Nr. <ref target="stasg_missiv_04001.xml">4001</ref>. Die Transkription wurde zurückgestellt. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_03999.xml">3999</ref> und <ref target="stasg_missiv_03998.xml">3998</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_4001_16167/16169</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Der St. Galler Bürger Christoph Tobias Studer bittet Bürgermeister und Rat zu St. Gallen um Zustellung seines in dieser Supplikation verfassten Gegenberichts im Konflikt um eine Schuldforderung mit Magdalena, der Witwe von Tobias Schnitzer, Bürger zu Kempten, an Bürgermeister und Rat zu Kempten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+  <term ref="stadtasg-keywords-604">Beilage</term>
+  <term ref="stadtasg-keywords-168">Abschrift</term>
+<term ref="stadtasg-keywords-603">Supplikation</term>
+<term ref="stadtasg-keywords-21">Rechtshilfe</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-126">Reichsstadt</term>
+<term ref="stadtasg-keywords-177">Witwe</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-813">Christoph Tobias Studer</persName>                    <date>1650-02-14</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-01-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4001_16167.jpg" n="1" />
+<p>
+<pb facs="StadtASG_Missive_4001_16168.jpg" n="2" />
+<pb facs="StadtASG_Missive_4001_16169.jpg" n="3" />
+</p>
+        </body>
+    </text>
+</TEI>

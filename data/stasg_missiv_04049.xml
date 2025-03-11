@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4049</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Abschrift. Die Transkription wurde zurückgestellt. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_04046.xml">4046</ref>, <ref target="stasg_missiv_04047.xml">4047</ref>, <ref target="stasg_missiv_04051.xml">4051</ref> und <ref target="stasg_missiv_04054.xml">4054</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4049_16345/16348</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Statthalter und Rat zu St. Gallen bedanken sich bei Hauptmannschaft, Bürgermeister und Rat zu Konstanz über die Nachricht der Gefangennahme und des Verhörs von Matthäus Mattler, der Leinwand auf den St. Galler Bleichen entwendet hatte. Im Namen der St. Galler Bleichermeister bitten Statthalter und Rat zu St. Gallen um die Rückgabe allfällig auftauchender St. Galler Leinwand sowie um eine angemessene Bestrafung des Delinquenten. Weiterhin bitten Statthalter und Rat zu St. Gallen, im Namen der betroffenen St. Galler, den Bleichermeister Michael Schorno, Ratsherr zu Schwyz und Landvogt im Thurgau, um Hilfe bei der Rückführung der durch Matthäus Mattler gestohlenen Leinwand. Dieser habe im Konstanzer Verhör zugegeben, dass er die entwendete St. Galler Leinwandtuche nicht nur in der Stadt Konstanz, sondern auch an mehreren Orten im Thurgau, insbesondere in einem Wirtshaus in Egelshofen, verkauft habe.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-168">Abschrift</term>
+<term ref="stadtasg-keywords-258">Leinwand</term>
+<term ref="stadtasg-keywords-510">Leinwanddiebstahl</term>
+<term ref="stadtasg-keywords-76">Delikt</term>
+<term ref="stadtasg-keywords-107">Strafe</term>
+<term ref="stadtasg-keywords-21">Rechtshilfe</term>
+<term ref="stadtasg-keywords-431">Bleicher</term>
+<term ref="stadtasg-keywords-252">Prozess</term>
+<term ref="stadtasg-keywords-259">Rückgabe</term>
+<term ref="stadtasg-keywords-359">Meister</term>
+<term ref="stadtasg-keywords-319">Landvogt</term>
+<term ref="stadtasg-keywords-197">Geständnis</term>
+<term ref="stadtasg-keywords-141">Befragung</term>
+<term ref="stadtasg-keywords-333">Wirtshaus</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-629">Statthalter und Rat zu St. Gallen</orgName>                  <date>1650-08-29</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-587">Hauptmann, Bürgermeister und Rat zu Konstanz</orgName>   <persName ref="stadtasg-actors-784">Michael Schorno</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2024-09-16</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-11-22</date>
+                </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4049_16345.jpg" n="1" />
+<p>
+<pb facs="StadtASG_Missive_4049_16346.jpg" n="2" />
+<pb facs="StadtASG_Missive_4049_16347.jpg" n="3" />
+<pb facs="StadtASG_Missive_4049_16348.jpg" n="4" />
+</p>
+        </body>
+    </text>
+</TEI>

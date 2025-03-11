@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4025</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 2. April 1650 vor dem Rat verlesen. Der Unterschied zwischen den Datierungen geht auf die unterschiedlichen Kalender (gregorianisch/julianisch) zurück. Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_4024.xml">4024</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4025_16251/16254</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Verwalter, Hauptmannschaft, Bürgermeister und Rat zu Konstanz bitten Bürgermeister und Rat zu St. Gallen um die Verlängerung der Rückzahlungsfrist des Darlehens von 3000 Gulden, das die Konstanzer 1633 bei den St. Gallern aufgenommen hatten. Anlass für die Bitte um Verlängerung ist die Rückforderung des Kapitals durch den St. Galler Säckelmeister und Ratsherrn Georg Zwicker.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-222">Darlehen</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-497">Säckelmeister</term>
+<term ref="stadtasg-keywords-11">Kapital</term>
+<term ref="stadtasg-keywords-10">Zins</term>
+<term ref="stadtasg-keywords-221">Rückzahlung</term>
+<term ref="stadtasg-keywords-392">Belagerung</term>
+<term ref="stadtasg-keywords-98">Steuer</term>                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-587">Hauptmannschaft, Bürgermeister und Rat zu Konstanz</orgName>                    <date>1650-04-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-12-02</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4025_16251.jpg" n="1" />
+<p>
+<lb n="1" />Unnßer freündt-nachparlich und guetwillige dienst zuevor
+<lb n="2" />fürsichtige ehrsambe und weiße besonders liebe freündt
+<lb n="3" />und wohlvertraute guete nachparen.
+<lb n="4" />Unnß seindt von ewerem lieben mitraths freündt und seckhel
+<lb break="no" n="5" />maistern <persName ref="stadtasg-actors-799">Georg Zwickhern</persName> iehnige 3000 <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> capital, so
+<lb n="6" />ihr unnß auf unnßer nachparliches ansuochen in anno <date when="1633">1633</date>
+<lb n="7" />auf verzinßung vorgelichen, aufkhündt und wir darbey
+<lb n="8" />ersuocht worden, ime, seckhelmaister, angeregts capital
+<lb n="9" />sambt dennen dabey außstendigen zinßen ehist zuekhomen
+<lb n="10" />zuelassen.
+<lb n="11" />Wann aber unnßer gemaines stattweßen sowohlen wegen
+<lb n="12" />annoch beharrlich alhier ligender besazung alß auch sonsten
+<lb n="13" />in andere weeg noch zue zeit mit vilerlay starckhen auß
+<lb n="14" />gaaben behafftet ist, also dz unnß dermahlen dz capital
+<lb n="15" />abzuelegen eben beschwehrlich fallen thuet, alß haben
+<lb n="16" />wir eüch hiemit dienstfreündt-nachparlich ersuochen
+<lb n="17" />wollen, ob ihr euch heten belieben lassen, auff unnßerem
+<lb n="18" />gemainen stattweßen angeregtes capital noch ain jahr
+<lb n="19" />etliche außligen zuelassen, dargegen auß unnßerem
+<lb n="20" />bevelch unnßere steür einnemmere nicht ermanglen
+<lb n="21" />werden, mehr gedachtem eweren seckhelmaistern gleich
+<lb n="22" />angehendt einen und dann ehist widerumb einen zinß
+<lb n="23" />zue übermachen und hinführo zueverhoffenden besseren
+<lb n="24" />zeiten und mitlen fürdersamber zinßrichtung sich best
+<lb n="25" />möglichist zuebefleissen. Wie wir unnß nun
+<pb facs="StadtASG_Missive_4025_16252.jpg" n="2" />
+<lb n="26" />der nachparlichen willfahr gegen euch getrösten, alß
+<lb n="27" />werden wir nicht ermanglen, selbige umb eüch in
+<lb n="28" />andere weeg bey zuetragender gelegenhait nachparlich
+<lb n="29" />zuebeschulden. Unnß damit allerseits gottes vorsorg
+<lb n="30" />wohlbevehlendt. Geben denn <origDate when="1650-04-04">4. apriliß anno 1650</origDate>.
+<lb n="31" /><orgName ref="stadtasg-actors-587" role="issuer">Verwalter und haubtman
+<lb break="no" n="32" />schafft auch burgermaister
+<lb n="33" />und rath der statt
+<lb n="34" />Costanz</orgName>.
+<pb facs="StadtASG_Missive_4025_16253.jpg" n="3" />
+<pb facs="StadtASG_Missive_4025_16254.jpg" n="4" />
+<lb n="35" />Denn fürsichtigen ehrsamen und weißen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="36" />maister und rath der statt st. Gallen</orgName>
+<lb n="37" />unnßeren besonders lieben freünden und
+<lb n="38" />wohlvertrauten güeten nachparen.
+</p>
+        </body>
+    </text>
+</TEI>

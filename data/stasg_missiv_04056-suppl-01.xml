@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4056 Beilage 1</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. <ref target="stasg_missiv_04056.xml">4056</ref>. Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_4056_16379/16386</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Darlehensgesuch des Herrn Jacques Dupuy an die Evangelischen Orte der Eidgenossenschaft Zürich, Bern, Basel und Schaffhausen.</p>            </abstract>
+            <langUsage>
+                <language ident='fra'>Französisch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-222">Darlehen</term>
+<term ref="stadtasg-keywords-547">Evangelisch</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-769">Jacques Dupuy</persName><placeName ref="stadtasg-places-188">Venedig</placeName>                    <date>1650-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-771">Evangelische Orte der Eidgenossenschaft</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2024-09-16</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-11-12</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4056_16379.jpg" n="1" />
+<p>
+<pb facs="StadtASG_Missive_4056_16380.jpg" n="2" />
+<pb facs="StadtASG_Missive_4056_16385.jpg" n="3" />
+<pb facs="StadtASG_Missive_4056_16386.jpg" n="4" />
+</p>
+        </body>
+    </text>
+</TEI>

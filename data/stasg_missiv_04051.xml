@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4051</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnte <ref target="stasg_missiv_04051-suppl-01.xml">Beilage</ref> ist vorhanden. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_04046.xml">4046</ref>, <ref target="stasg_missiv_04047.xml">4047</ref>, <ref target="stasg_missiv_04049.xml">4049</ref> und <ref target="stasg_missiv_04054.xml">4054</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4051_16353/16356</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_4051_16353/16356</idno><altIdentifier type="filename"><idno>stasg_missiv_04051-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc>  
+                         </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Verwalter der Hauptmannschaft, Bürgermeister und Rat zu Konstanz informieren Bürgermeister und Rat zu St. Gallen über die Verhaftung und die gütliche sowie peinliche Befragung des Delinquenten Matthäus Mattler aus Ossingen. Die Konstanzer schicken als Beilage Auszüge aus dem Geständnis Mattlers mit, die St. Gallen betreffen, und verweisen darauf, dass die St. Galler nach Abklärungen gegebenenfalls schriftlich auf die angesetzte Verhandlung vor Malefizgericht Einfluss nehmen können.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-76">Delikt</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-141">Befragung</term>
+<term ref="stadtasg-keywords-21">Rechtshilfe</term>
+<term ref="stadtasg-keywords-197">Geständnis</term>
+<term ref="stadtasg-keywords-210">Gefangenschaft</term>
+<term ref="stadtasg-keywords-321">Schriftlich</term>
+<term ref="stadtasg-keywords-510">Leinwanddiebstahl</term>
+<term ref="stadtasg-keywords-258">Leinwand</term>
+<term ref="stadtasg-keywords-367">Bleiche</term>
+<term ref="stadtasg-keywords-252">Prozess</term>
+<term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-587">Hauptmann, Bürgermeister und Rat zu Konstanz</orgName>                    <date>1650-09-05</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>   <placeName ref="stadtasg-places-38">St. Gallen</placeName>             </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2024-09-16</date>
+            </change>
+        <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-11-25</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4051_16353.jpg" n="1" />
+<p>
+<lb n="1" />Unser freündt-nachpahrlich unnd gutwillige
+<lb n="2" />dienst zuvor fürsichtige ehrsambe unnd
+<lb n="3" />weyßen besonders liebe freündt unnd gute
+<lb n="4" />nachpahren.
+<lb n="5" />Dennselben ist anvor bekhandt, das vor wenig
+<lb n="6" />abgeflosßenen tagen bey unns <persName ref="stadtasg-actors-786">Mathaeus Matler</persName>
+<lb n="7" />von <placeName ref="stadtasg-places-270">Ossingen</placeName> auß zürchischen gebieth umb
+<lb n="8" />verüebten mißhandlungen in unser obber
+<lb break="no" n="9" />khaitlichen hafft unnd verstrickhung khomben.
+<lb n="10" />Unnd alß man nun zue erforderter inquisition
+<lb n="11" />unnd strenger examination geschriten, hat
+<lb n="12" />er unnder anderem seinem verbrechen das
+<lb n="13" />jehnige güet- unnd peinlich außgesagt, was
+<lb n="14" />mit khomendter extract vermög, welches
+<lb n="15" />denhalben wir vertröster masßen zue dem 
+<lb n="16" />ende communiciren wollen, damit sie deren
+<lb n="17" />enden über sölche vergicht gründtliche nach
+<lb break="no" n="18" />forschung pflegen unnd, da ihnen beliebt,
+<lb n="19" />endtlichs bewandtnus hierüber vor an
+<lb break="no" n="20" />stellendten malefitz gericht einschikhen
+<lb n="21" />khönnen.
+<lb n="22" />Wollten ihnen himit nit verhalten, hierzwischen
+<lb n="23" />wir unns wie allezeit der allmacht gottes
+<lb n="24" />getrawen vleissend empfelendt. Datum den
+<lb n="25" /><origDate when="1650-09-05">5ten sebtembris anno 1650</origDate>.
+<lb n="26" /><orgName ref="stadtasg-actors-587" role="issuer">Verwalter der haubt
+<lb break="no" n="27" />manschafft, auch burger
+<lb break="no" n="28" />maister unnd rath der 
+<lb n="29" />statt Costannz</orgName>.
+<pb facs="StadtASG_Missive_4051_16354.jpg" n="2" />
+<pb facs="StadtASG_Missive_4051_16355.jpg" n="3" />
+<pb facs="StadtASG_Missive_4051_16356.jpg" n="4" />
+<lb n="30" />Denn fürsichtigen ehrsamben
+<lb n="31" />unnd weyßen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="32" />unnd rath der statt st. Gallen</orgName>
+<lb n="33" />unseren besonders lieben freünden
+<lb n="34" />unnd gueten nachpahren.
+</p>
+        </body>
+    </text>
+</TEI>

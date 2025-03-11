@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4038</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Entwurf. Die Transkription wurde zurückgestellt. Es handelt sich um zwei Entwürfe, wobei der eine an den gräflich-fuggerischen Rat und Pfleger zu Oberkirchberg, der andere an Bürgermeister und Rat zu Ulm gerichtet ist. Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_04041.xml">4041</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4038_16303/16306</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen bitten den gräflich-fuggerischen Rat und Pfleger zu Oberkirchberg und Bürgermeister und Rat zu Ulm in zwei unterschiedlichen Schreiben um Unterstützung bei der Rückschaffung des Besitzes des tödlich verunglückten St. Galler Bürgers Johannes Locher. Locher war Nürnberger Bote und in der Donau ertrunken. Sein Pferd und seine Habseligkeiten waren in Oberkirchberg an Land gezogen worden. Sein Bruder Jeremias Locher, Bürger zu St. Gallen und Lindauer Bote, bat im Namen von Johannes Lochers Witwe und Kinder bei Bürgermeister und Rat zu St. Gallen um die Rückführung von Pferd, Kleidern und Besitz des Verstorbenen, weshalb Bürgermeister und Rat zu St. Gallen zwei Schreiben aufsetzen liessen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-281">Entwurf</term>
+<term ref="stadtasg-keywords-82">Tod</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-163">Pferd</term>
+<term ref="stadtasg-keywords-5">Erbe</term>
+<term ref="stadtasg-keywords-177">Witwe</term>
+<term ref="stadtasg-keywords-278">Graf</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-269">Kind</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                    <date>1650-06-24</date>
+                </correspAction>
+                <correspAction type="received">
+                <orgName ref="stadtasg-actors-510">Bürgermeister und Rat zu Ulm</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2024-09-16</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-02-17</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4038_16303.jpg" n="1" />
+<p>
+<pb facs="StadtASG_Missive_4038_16304.jpg" n="2" />
+<pb facs="StadtASG_Missive_4038_16305.jpg" n="3" />
+<pb facs="StadtASG_Missive_4038_16306.jpg" n="4" />
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4053</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 4. März 1650 vor dem Rat verlesen.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4053_16365/16368</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Bern bitten Bürgermeister und Rat zu St. Gallen, ihren Meister Christoph Schüpfer aus Erlach, den sie mit diesem Empfehlungs- und Bittschreiben ausgestattet haben, in seinen Anliegen vor Ort in St. Gallen zu unterstützen. Christoph Schüpfer vertritt seinen Bruder Daniel Schüpfer und dessen Ehefrau Anna Gonzenbach in einer Erbschafts- und Nutzungsstreitigkeit. Es geht um 1500 Gulden, die Anna Gonzenbach ihrem nun verstorbenen Bruder Heinrich Gonzenach zur Nutzung überlassen hatte. Nach seinem Tod fordert sie dieses Geld zurück. Das Anliegen wird von den Erben verhindert, weil davon nichts im Testament vermerkt ist. Mit dem Hinweis, dass Schleissgüter nicht im Testament vermerkt werden müssen, bitten Schultheiss und Rat zu Bern Bürgermeister und Rat zu St. Gallen, die Petenten zu unterstützen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-307">Erbstreit</term>
+<term ref="stadtasg-keywords-87">Empfehlung</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-5">Erbe</term>
+<term ref="stadtasg-keywords-82">Tod</term>
+<term ref="stadtasg-keywords-178">Nutzungsrecht</term>
+<term ref="stadtasg-keywords-359">Meister</term>
+<term ref="stadtasg-keywords-630">Bruder</term>
+<term ref="stadtasg-keywords-411">Testament</term>
+<term ref="stadtasg-keywords-269">Kind</term>
+<term ref="stadtasg-keywords-297">Ehefrau</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-514">Schultheiss und Rat zu Bern</orgName>                    <date>1650-09-09</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2024-09-16</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-11-19</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4053_16365.jpg" n="1" />
+<p>
+<lb n="1" />Unser freündtlich grus sambt was wir liebs und
+<lb n="2" />guts vermögend zuvor from fürsichtig ersam wyß
+<lb n="3" />insonders gut frünnd unnd getreüw lieb eidtgnoßen.
+<lb n="4" />Uns hatt unser angehöriger meister <persName ref="stadtasg-actors-778">Christophel Schüpfer</persName>,
+<lb n="5" />der bruchschneider zu <placeName ref="stadtasg-places-267">Erlach</placeName>, innammen seines bruders
+<lb n="6" /><persName ref="stadtasg-actors-779">Daniel Schüpfers</persName> mit mehrerem inn gebür angelegen
+<lb break="no" n="7" />lich zu erkennen gegeben, was maßen er, <persName ref="stadtasg-actors-779">Daniel Schüpfer</persName>,
+<lb n="8" />innammen und zuhanden seiner ehefrauwen <persName ref="stadtasg-actors-780">Anna
+<lb n="9" />Gunzenbachin</persName> gewüße 1500 <choice><abbr>gl.</abbr><expan>Gulden</expan></choice> schleißgutt<note>Schleissgut = Nutzungsrecht auf Gütern mit der Pflicht zum Erhalt in ordnungsgemässem Zustand.</note> uff ab
+<lb break="no" n="10" />sterben seines schwechers herr <persName ref="stadtasg-actors-781">Heinrich Gunzenbachs</persName>
+<lb n="11" />selig imme hievor vorgenommen zuerheben. Wan aber
+<lb n="12" />imme hierinnen uß vorwand gedachts herr <persName ref="stadtasg-actors-781">Gunzenbachs</persName>
+<lb n="13" />selig gemachten testaments und hierumben begerter
+<lb n="14" />versicher- unnd verbürgung nit weniger eintrag beschechen
+<lb n="15" />unnd also ohnverrichteter sachen widerumb nach hauß ziechen
+<lb n="16" />müßen, were sein einstendige pitt, wir inne, den petenten,
+<lb n="17" />mit unser intercession umb desto schleünigere erhaltung
+<lb n="18" />seines nit unzimlichen begerens an üch, unser getreüw lieb eidtgnoßen,
+<lb n="19" />besellen woltend, der hoffnung derselben fruchtbarlich
+<lb n="20" />zegenießen. Unnd nun wir vermerkend, dz gedeüte
+<lb n="21" />1500 <choice><abbr>gl.</abbr><expan>Gulden</expan></choice> nur schleißgutt gewesen unnd hiemit der testator
+<lb n="22" />inn keiner nachigkeit gestanden, hierüber anderwertig ze
+<lb break="no" n="23" />disponieren, sonders dz ohne ander verpoenigung dz eigen
+<lb break="no" n="24" />thumb widerumb an sein gehörig ort fallen sollen unnd zu
+<lb break="no" n="25" />malen zem rechten gemeß, dz der natürliche erb ohne
+<lb n="26" />einichen widrigen eintrag sich seines rechtens zugebruchen
+<pb facs="StadtASG_Missive_4053_16366.jpg" n="2" />
+<lb n="27" />unnd also seine gebür zu apprehendieren haben solle,
+<lb n="28" />als ersuchend demnach üch, unser getreüw lieb eidtgnoßen, wir hiemit
+<lb n="29" />fründt-wolmeintlich, die unseren deß orts günstig für
+<lb n="30" />recommendiert zehalten unnd uß oberkeitlichen ansechen
+<lb n="31" />solche krefftige anstalt unnd verordnung zeverschaffen,
+<lb n="32" />dz ohne weiteren eintrag der uweren der petent sambt
+<lb n="33" />seinem weib unnd kinden inn seinem billichmeßigen suchen
+<lb n="34" />mit ohnnötig weiterem costen unnd unglegenheit nit
+<lb n="35" />umbtreiben, sonders den unseren die selbsten redende
+<lb n="36" />erb satisfaction gevolgt werde. Syend wir die günstige
+<lb n="37" />willfahr inn gleichen unnd anderen begebenheiten zuer
+<lb break="no" n="38" />wideren ohnvergeßen. Datum <origDate when="1650-09-09">9. septembris 1650</origDate>.
+<lb n="39" /><orgName ref="stadtasg-actors-514" role="issuer">Schultheiß und rahtt der
+<lb n="40" />statt Bern</orgName>.
+<pb facs="StadtASG_Missive_4053_16367.jpg" n="3" />
+<pb facs="StadtASG_Missive_4053_16368.jpg" n="4" />
+<lb n="41" />Den frommen fürsichtigen
+<lb n="42" />ersammen weisen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister
+<lb n="43" />unnd raht der statt st. Gallen</orgName>
+<lb n="44" />unseren insonders guten freünden
+<lb n="45" />unndt gethreüwen lieben eidt
+<lb break="no" n="46" />gnoßen.
+</p>
+        </body>
+    </text>
+</TEI>

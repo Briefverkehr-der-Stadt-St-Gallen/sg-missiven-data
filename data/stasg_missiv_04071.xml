@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4071</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 23. Dezember 1650 vor dem Rat verlesen. Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_03977.xml">3977</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4071_16451/16454</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hans Bernhard Ströbel, Bürger und Gastwirt zu den Drei Kronen in Nürnberg, ersucht Bürgermeister und Rat zu St. Gallen, deren Bürger Georg Basthard, Buchbinder zu St. Gallen, anzuhalten, dass dieser ihm eine längst verfallene und anerkannte Schuld von 38 1/2 Florin samt Zinsen und Unkosten in der Höhe von ungefähr 23 Florin bezahle. Der Schuldner habe noch genügend Mittel dazu in der Hand, er habe sich einfach nach Art böser Zahler mutwillig auf die faule Seite gelegt. Sollte er sich weiter weigern, mögen Bürgermeister und Rat zu St. Gallen auf das Hab und Gut Basthards zugreifen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-156">Recht</term>
+<term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-10">Zins</term>
+<term ref="stadtasg-keywords-495">Hab und Gut</term>
+<term ref="stadtasg-keywords-582">Wirt</term>
+<term ref="stadtasg-keywords-333">Wirtshaus</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-24">Klage</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-856">Hans Bernhard Ströbel</persName> <placeName ref="stadtasg-places-21">Nürnberg</placeName>                    <date>1650-12-17</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>WH</persName>
+                <date>2025-01-08</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-02-18</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4071_16451.jpg" n="1" />
+<p>
+<lb n="1" />Edle ehrnveste fürsichtig erbar weiße
+<lb n="2" />großgnedigste geehrte herren.
+<lb n="3" />Euer edel ehrnvest und weißheit ist auser allem 
+<lb n="4" />zweiffel unentsuncken, was gestalt ein edler
+<lb n="5" />hochweiser rath der statt <placeName ref="stadtasg-places-21">Nürnberg</placeName>, meine großgnedigste
+<lb n="6" />hochgeehrte obrigkeit mir ehe deßen intercessio
+<lb break="no" n="7" />nales dahin ertheilt, daß die liebe iustitia be
+<lb break="no" n="8" />fürdert und dero burger <persName ref="stadtasg-actors-857">Georg Basthardt</persName>,
+<lb n="9" />buchbinder, dahin adstringirt werden möchte,
+<lb n="10" />die schuldige und lengst verfallene <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> 38 1/2
+<lb n="11" />sampt denen aufgeloffenen zinsen und uncosten,
+<lb n="12" />so sich in circa uf <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> 23 belauffen, zu bezahlen.
+<lb n="13" />Ob ich nun wohlen der getrosten zuversicht gelebet,
+<lb n="14" />es solt bey einem solche debito liquido et con
+<lb break="no" n="15" />fessato die gebühr verfügt werden,
+<lb n="16" />so hab ich doch uf datto der bezahlung und benebens
+<lb n="17" />aller oberherrlichen verhulff entbeeren müßen,
+<lb n="18" />ohn eracht dieser mein debitor noch gute mittel
+<lb n="19" />obhanden und sich nur aller böser bezahler arth nach
+<lb n="20" />mutwillig uf die faule seithen leget. Bin dero
+<lb break="no" n="21" />wegen veranlaßet worden, meine hochgeehrte
+<lb n="22" />herren nochmalen zuersuchen, gelanget demnach
+<lb n="23" />an eure edel ehrnvest und weißheit mein ganz dinst und freundlich
+<lb n="24" />bitten, die geruhen meinen debitorn, besagten
+<lb n="25" /><persName ref="stadtasg-actors-857">Basthardt</persName> zu lengst schuldiger bezahlung alles
+<lb n="26" />ernsts anzustrengen und in derselben ermanglung
+<lb n="27" />wieder seine person auch haab und güter execu
+<lb break="no" n="28" />tive zuverfahren, wie nun dieses mein bitten
+<lb n="29" />an sich selbsten billich, die liebe iustitia nicht
+<lb n="30" />wenigers hiedurch befürdert würdt und ich obde
+<lb break="no" n="31" />negatam mich nicht zubeschweren habe.
+<pb facs="StadtASG_Missive_4071_16452.jpg" n="2" />
+<lb n="32" />Als bin umb eure edel ehrnvest und weißheit die großgnedigste wilfahrung
+<lb n="33" />zu erwiedern ich jederzeit gefliesßen ect.
+<lb n="34" />Eure edel ehrnvest und weißheit deß höchsten protection
+<lb n="35" />und mich zu dero großgnedigst befehlendt.
+<lb n="36" />Eurer edel ehrnvest und weißheit
+<lb n="37" />dinstergebener
+<lb n="38" /><persName ref="stadtasg-actors-856" role="issuer">Hanns Bernhardt Ströbel</persName>
+<lb n="39" />burger, auch wirth und 
+<lb n="40" />gastgeb zum <placeName ref="stadtasg-places-293">3 Cronen</placeName>.
+<lb n="41" /><origPlace ref="stadtasg-places-21">Nürnberg</origPlace> am <origDate when="1650-12-17">17. december
+<lb n="42" />anno 1650</origDate>.
+<pb facs="StadtASG_Missive_4071_16453.jpg" n="3" />
+<pb facs="StadtASG_Missive_4071_16454.jpg" n="4" />
+<lb n="43" />Denen edlen ehrnvesten fürsich
+<lb break="no" n="44" />tig erbar und weißen herren
+<lb n="45" /><orgName ref="stadtasg-actors-148" role="recipient">burgermaistere und rath
+<lb n="46" />der statt st. Gallen</orgName>
+<lb n="47" />meinen hochgeerthen
+<lb n="48" />herren in 
+<lb n="49" /><placeName ref="stadtasg-places-38">St. Gallen</placeName>.
+</p>
+        </body>
+    </text>
+</TEI>

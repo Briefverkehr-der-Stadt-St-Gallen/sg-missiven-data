@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4011</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 4. März 1650 vor den Verordneten Herren verlesen. Die erwähnte <ref target="stasg_missiv_04011-suppl-01.xml">Kopie</ref> ist vorhanden.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4011_16199/16202</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                    <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_4011_16199/16202</idno><altIdentifier type="filename"><idno>stasg_missiv_04011-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc> 
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich informieren Bürgermeister und Rat zu St. Gallen mit einer Kopie eines Antwortschreiben des Erzherzogs Ferdinand Karl von Österreich-Tirol in Innsbruck bezüglich einer Beschwerde der eidgenössischen Orte über Zollerhöhungen in den österreichischen Landen. Da der Erzherzog über die bereits erhaltenen noch weitere Informationen zur eidgenössischen Forderung verlangt, bitten Bürgermeister und Rat zu Zürich Bürgermeister und Rat zu St. Gallen um Einholung von Informationen bei den St. Galler Kaufleuten, da diese am meisten Handel mit Österreich treiben würden. Die Aussagen der St. Galler Kaufleute sollen schriftlich an Zürich übersandt werden.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-129">Zoll</term>
+<term ref="stadtasg-keywords-180">Kaufmann</term>
+<term ref="stadtasg-keywords-91">Handel</term>
+<term ref="stadtasg-keywords-454">Kopie</term>
+<term ref="stadtasg-keywords-574">Erzherzog</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-275">Fürst</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1650-03-02</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-01-14</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4011_16199.jpg" n="1" />
+<p>
+<lb n="1" />Unnser fründtlich willig dientst sambt was wir ehren
+<lb n="2" />liebs und guots vermögend zuvor fromm fürsichtig eer
+<lb break="no" n="3" />samm wyß insonnders guot fründ und getrüw lieb eidt
+<lb break="no" n="4" />gnossen.
+<lb n="5" />Nachdemme abr letst zu <placeName ref="stadtasg-places-53">Baden</placeName> gehaltener gemeinen eidt
+<lb break="no" n="6" />gnössischen tagleistung von beschwerrlicher zolßerhöhung
+<lb n="7" />wegen inn <placeName ref="stadtasg-places-91">Östereychischen Landen</placeName> an ire fürstliche durchlaucht<note>Gemeint ist Erzherzog <persName ref="stadtasg-actors-818">Ferdinand Karl von Österreich-Tirol</persName>.</note>
+<lb n="8" />zu <placeName>Inßbrugg</placeName> die gebühr schrifftlich gelangt, ist unß dahar
+<lb n="9" />allererst wider antwortlich ingelangt, wie ihr, unser getrüw
+<lb n="10" />lieb eidtgnossen, uß copyglichem inschluss zu ersehen. Wyle nun
+<lb n="11" />von hochgedacht irer <persName ref="stadtasg-actors-818">fürstlichen durchlaucht</persName> der yngewenndten bschwerd
+<lb break="no" n="12" />en halb mehrere specification, als inn vorgehnderm schryb
+<lb break="no" n="13" />en begriffen gewesen, begehrt wirt, halten wir
+<lb n="14" />darfür, daß by üweren verburgerten und handelßlüth
+<lb break="no" n="15" />en, als am nechsten inn <placeName ref="stadtasg-places-91">Östereychischen Lannden</placeName> reyß
+<lb break="no" n="16" />end und handlend, hierumb der beste bericht ze finnden syn
+<lb n="17" />werde. Ersuochend üch derowegen hiemit fründtlich, ihr
+<lb n="18" />solches by den üweren unschwerr erkundigen laßen, und
+<lb n="19" />unß der befindtnuß hinwider zu fehrnerm verhalten
+<lb n="20" />mit nechstem berichten wollind. Inn deßen wir üch
+<lb n="21" />zu erwysung aller angenehmen eidtgnössischen fründt
+<lb break="no" n="22" />schafft und dientsten wol gewogen verblybend und unß
+<lb n="23" />damit sambtlich gottes wolbewahrung empfellend. 
+<lb n="24" />Datum den <origDate when="1650-03-02">2. marty anno 1650</origDate>.
+<lb n="25" /><orgName ref="stadtasg-actors-503" role="issuer">Burgermeister und rath
+<lb n="26" />der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_4011_16200.jpg" n="2" />
+<pb facs="StadtASG_Missive_4011_16201.jpg" n="3" />
+<pb facs="StadtASG_Missive_4011_16202.jpg" n="4" />
+<lb n="27" />Den frommen fürsichtigen
+<lb n="28" />eersammen wysen <orgName ref="stadtasg-actors-148" role="recipient">burg
+<lb break="no" n="29" />ermeister und rath der
+<lb n="30" />statt st. Gallen</orgName> uns
+<lb break="no" n="31" />eren innsonnders guoten
+<lb n="32" />fründen und getrüwen
+<lb n="33" />lieben eidtgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

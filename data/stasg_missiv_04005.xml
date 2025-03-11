@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4005</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 28. Februar 1650 vor dem Rat verlesen. Die erwähnte <ref target="stasg_missiv_04005-suppl-01.xml">Beilage</ref> ist vorhanden. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_04018.xml">4018</ref>, <ref target="stasg_missiv_04030.xml">4030</ref> und <ref target="stasg_missiv_04030-suppl-01.xml">4030 Beilage 1</ref>.</p></note></notesStmt>          <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4005_16179/16182</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                 <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_4005_16179/16182</idno><altIdentifier type="filename"><idno>stasg_missiv_04005-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc> 
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich informieren Bürgermeister und Rat zu St. Gallen über ein vom Kurfürsten und Pfalzgrafen Karl Ludwig zu Heidelberg an die Evangelischen Orte der Eidgenossenschaft gestelltes Darlehensgesuch, das in einer Abschrift der Missive beigelegt wurde. Zürich steht dem Gesuch wohlwollend gegenüber, bittet aber St. Gallen um eine Stellungnahme. Man möchte wissen, ob St. Gallen prinzipiell Unterstützung gewähren würde und ob man das Geld als Darlehen oder als Hochzeitsgeschenk des Kurfürsten mit Charlotte, Landgräfin zu Hessen-Kassel, zukommen lassen solle. Zürich bittet um schriftliche Antwort, da auch der Unterhändler des Kurfürsten, Karl Mieg, darum gebeten hätte. Das Geld könnte auf den Beginn der Frankfurter Ostermesse spediert werden.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-222">Darlehen</term>
+<term ref="stadtasg-keywords-349">Heirat</term>
+<term ref="stadtasg-keywords-548">Hochzeitsgeschenk</term>
+<term ref="stadtasg-keywords-348">Kurfürst</term>
+<term ref="stadtasg-keywords-464">Pfalzgraf</term>
+<term ref="stadtasg-keywords-463">Landgräfin</term>
+<term ref="stadtasg-keywords-661">Fürstin</term>
+<term ref="stadtasg-keywords-547">Evangelisch</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-522">Reichsstand</term>
+<term ref="stadtasg-keywords-549">Agent</term>
+<term ref="stadtasg-keywords-168">Abschrift</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-93">Mündlich</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1650-02-23</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-01-27</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4005_16179.jpg" n="1" />
+<p>
+<lb n="1" />Unnser fründtlich willig dientst sambt was wir
+<lb n="2" />ehren liebs und guots vermögend zuvor fromm für
+<lb break="no" n="3" />sichtig eersamm wys innsonders guot fründt und
+<lb n="4" />getrüw lieb eidtgnossen.
+<lb n="5" />Was des herrn pfaltzgraffen <persName ref="stadtasg-actors-788">Carl-Ludwigen</persName>, chur
+<lb break="no" n="6" />fürstliche majestät, gnedigst gefallen, sowol wegen deroselben mit
+<lb n="7" />der hochgebornen fürstin fröüuwlin <persName ref="stadtasg-actors-790">Charlotte</persName>, landt
+<lb break="no" n="8" />greffin zu <placeName ref="stadtasg-places-283">Hessen</placeName> etc., getroffnen christlichen hyraths
+<lb n="9" />und albereit angestelten fürstlichen bylägers, als ouch
+<lb n="10" />einer anlyhung von 5 inn 6000 rychßtalern etc., an ein
+<lb n="11" />gesambte evangelische lobliche eidtgnoschafft<note>Gemeint sind hier die <orgName ref="stadtasg-actors-771">Evangelischen Orte der Eidgenossenschaft</orgName>.</note> schrifftlich ge
+<lb break="no" n="12" />langen laßen, daß ist uß hiebykommender abschrifft
+<lb n="13" />des von dero agenten, dem herrn <persName ref="stadtasg-actors-822">Carl Miegen</persName>, uns
+<lb n="14" />nebent mundtlichen complimenten überreichten schrybens
+<lb n="15" />inn mehrerm zevernemmen. So üch, unser getrüw lieb eidtgnossen, wie
+<lb n="16" />gegen übrigen loblichen orthen ouch beschicht, wir hiemit
+<lb n="17" />wolmeinlich zu communicieren und daby umb üwer gut
+<lb break="no" n="18" />achten hierüber fründtlich zeersuochen, nit ermanglen woll
+<lb break="no" n="19" />en. Und hetten zwarn harunder zu unserer gnuog
+<lb break="no" n="20" />sammen entschuldigung die ofenbaren merklichen ußgaben,
+<lb n="21" />inn dennen wir beharrlich begriffen, grundtlich fürze
+<lb break="no" n="22" />wenden, wann wir aber dann ouch zu hertzen fassend,
+<lb n="23" />das die gesuochte anlyhung solle zu ufnamm und befürderung
+<lb n="24" />gereichen einem so ansehenlichen rychßstanndt und zuglych
+<lb n="25" />mit einem andern nüwlich so nach befrünndet sambtlich
+<lb n="26" />mit unß gemeinlich inn unserer wahren evangelischen religi
+<lb break="no" n="27" />on übereinstimmig, mit demme ouch wir und unßere re
+<lb break="no" n="28" />gimentsforderen sambtlich inn sonderbar guttem vertruwen
+<lb n="29" />und nachbarschafft jederwyln gestanden und fürer inns
+<lb n="30" />gmein und bsonnderbar ersprießlich syn mag, sygen wir
+<lb n="31" />bedacht worden, hochermelt ihr <persName ref="stadtasg-actors-788">churfürstliche majestät</persName> inn dero
+<lb n="32" />ansuochen unsers theils fründtlich zuwillfahren, und nach
+<lb n="33" />anleitung, wie inn zusammen schüssen hievor mehr be
+<lb break="no" n="34" />schehen, unßern antheill guotwilligklich byzetragen. Wollend
+<lb n="35" />aber glychwoln ouch unser getrüw lieb eidtgnossen erclerung, besonders ab
+<lb break="no" n="36" />er ouch, obngenantes dan den nammen einer anlyhung ald hochzyth
+<lb n="37" />gab by gebührlichem glükwünschen zu dem getroffenen
+<lb n="38" />hyrath solle haben, ald waß diß orths üwer verstand
+<lb n="39" />und meynung eigentlichen syge, gern vernemmen, und
+<lb n="40" />das umb sovil fürdersammer wyle ermelter herr
+<lb n="41" /><persName ref="stadtasg-actors-822">Mieg</persName> umb ehendisten bscheid anhaltens gethann, damit
+<pb facs="StadtASG_Missive_4005_16180.jpg" n="2" />
+<lb n="42" />alles bis uff nechst bevorstehnde frankfurter oster
+<lb break="no" n="43" />mäss die gebührliche spedition gehaben möchte. Inn er
+<lb break="no" n="44" />wartung nun eines solchen thuond wir den lieben gott
+<lb n="45" />bitten, dißen christlichen hyrath zu synes heyligen namm
+<lb break="no" n="46" />ens ehren und syner lieben kirchen heilsammer erbuw
+<lb break="no" n="47" />ung gnedigklich zesegnen und uns sambtlich under syn
+<lb break="no" n="48" />en gwaltigen schirmm fehrner wolzuerhalten. Datum den
+<lb n="49" /><origDate when="1650-02-23">23. february anno 1650</origDate>.
+<lb n="50" /><orgName ref="stadtasg-actors-503" role="issuer">Burgermeister und rath
+<lb n="51" />der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_4005_16181.jpg" n="3" />
+<pb facs="StadtASG_Missive_4005_16182.jpg" n="4" />
+<lb n="52" />Den frommen fürsichtigen
+<lb n="53" />eersammen wysen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="54" />meister und rath der statt
+<lb n="55" />st. Gallen</orgName> unseren inn
+<lb break="no" n="56" />sonnders guoten fründen und
+<lb n="57" />getrüwen lieben eidtgnoss
+<lb break="no" n="58" />en.
+</p>
+        </body>
+    </text>
+</TEI>

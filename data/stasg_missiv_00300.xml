@@ -23,7 +23,7 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Landammann und Rat zu Schwyz berichten Bürgermeister und Rat zu St. Gallen, wie nach dem letzten Treffen der Eidgenossen in Luzern alle Beteiligten dem Abschied zugestimmt hätten ausser Unterwalden. Schwyz fragt nun in St. Gallen nach, ob sie bei ihrer Meinung bleiben und daran mitarbeiten wollen, Unterwalden zur Annahme des Abschieds zu bewegen. Sie bitten um eine schriftliche Antwort mit dem Boten.</p>            </abstract>
+                <p>Ammann und Rat zu Schwyz berichten Bürgermeister und Rat zu St. Gallen, wie nach dem letzten Treffen der Eidgenossen in Luzern alle Beteiligten dem Abschied zugestimmt hätten ausser Unterwalden. Schwyz fragt nun in St. Gallen nach, ob sie bei ihrer Meinung bleiben und daran mitarbeiten wollen, Unterwalden zur Annahme des Abschieds zu bewegen. Sie bitten um eine schriftliche Antwort mit dem Boten.</p>            </abstract>
             <langUsage>
                 <language ident='deu'>Deutsch</language>            </langUsage>
             <textClass>
@@ -41,7 +41,7 @@
             <correspDesc>
                 <correspAction type="sent">
                    
-                    <orgName ref="stadtasg-actors-522">Landammann und Rat zu Schwyz</orgName>                    <date>1454-01-08</date>
+                    <orgName ref="stadtasg-actors-522">Ammann und Rat zu Schwyz</orgName>                    <date>1454-01-08</date>
                 </correspAction>
                 <correspAction type="received">
                     <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>

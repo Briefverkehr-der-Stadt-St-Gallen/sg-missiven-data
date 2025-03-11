@@ -12,13 +12,13 @@
       <publicationStmt>
         <publisher/>
         <pubPlace>St. Gallen</pubPlace>
-        <date when="2024">2024</date>
+        <date when="2025">2025</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-10-07 13:09:09 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
+        <p>Datenbankexport vom 2025-03-11 10:24:32 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -66,9 +66,6 @@
             <listBibl>
               <bibl>
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per009965"/>
-              </bibl>
-              <bibl>
-                <ptr type="histhub" target="https://data.histhub.ch/person/11597237"/>
               </bibl>
             </listBibl>
           </person>
@@ -925,7 +922,7 @@
             <persName type="full" xml:lang="de">Schauenberg, Johann zu (1439–)</persName>
             <persName type="main" xml:lang="de">Schauenberg, Johann zu</persName>
             <persName type="sort" xml:lang="de">schauenberg, johann zu</persName>
-            <persName type="alternative" xml:lang="de">Johanns graue zu Schaunberg (1439-04-13)</persName>
+            <persName type="alternative" xml:lang="de">Johanns grave zu Schaunberg (1439-04-13)</persName>
             <persName type="alternative" xml:lang="de">Johann, Graf zu Schauenberg</persName>
             <birth when="1439-04-13"/>
             <note type="description" xml:lang="de">
@@ -8511,9 +8508,6 @@
               <bibl>
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per010959"/>
               </bibl>
-              <bibl>
-                <ptr type="histhub" target="https://data.histhub.ch/person/11596767"/>
-              </bibl>
             </listBibl>
           </person>
           <personGrp role="family" xml:id="stadtasg-actors-537">
@@ -10442,9 +10436,10 @@
             </listBibl>
           </person>
           <person xml:id="stadtasg-actors-752">
-            <persName type="full" xml:lang="de">Valois, Heinrich II.</persName>
+            <persName type="full" xml:lang="de">Valois, Heinrich II. (1551–)</persName>
             <persName type="main" xml:lang="de">Valois, Heinrich II.</persName>
             <persName type="sort" xml:lang="de">valois, heinrich ii.</persName>
+            <birth when="1551-09-26"/>
             <note type="description" xml:lang="de">
               <p>König von Frankreich (1547–1559)</p>
             </note>
@@ -10471,6 +10466,1394 @@
                 <ptr type="viaf" target="https://viaf.org/viaf/289634335/"/>
               </bibl>
             </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-753">
+            <persName type="full" xml:lang="de">Grimmel, Alexius (1551–)</persName>
+            <persName type="main" xml:lang="de">Grimmel, Alexius</persName>
+            <persName type="sort" xml:lang="de">grimmel, alexius</persName>
+            <birth when="1551-09-26"/>
+            <note type="description" xml:lang="de">
+              <p>Welser-Faktor</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="süddeutsche-patrizier" target="http://süddeutsche-patrizier.de/tng/getperson.php?personID=I4240&amp;tree=patrizier"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-754">
+            <persName type="full" xml:lang="de">Peccari, Simon (1551–)</persName>
+            <persName type="main" xml:lang="de">Peccari, Simon</persName>
+            <persName type="sort" xml:lang="de">peccari, simon</persName>
+            <persName type="alternative" xml:lang="de">Simon Peccari</persName>
+            <birth when="1551-09-26"/>
+          </person>
+          <person xml:id="stadtasg-actors-755">
+            <persName type="full" xml:lang="de">Tschudi, Georg (1555–)</persName>
+            <persName type="main" xml:lang="de">Tschudi, Georg</persName>
+            <persName type="sort" xml:lang="de">tschudi, georg</persName>
+            <birth when="1555-08-19"/>
+            <note type="description" xml:lang="de">
+              <p>Abt des <ref target="/actors/791">Augustiner-Chorherrenstift Kreuzlingen</ref> (1545-1566)</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-756">
+            <persName type="full" xml:lang="de">Horber, Magdalena (1557–)</persName>
+            <persName type="main" xml:lang="de">Horber, Magdalena</persName>
+            <persName type="sort" xml:lang="de">horber, magdalena</persName>
+            <birth when="1557-03-11"/>
+            <note type="description" xml:lang="de">
+              <p>Tochter von <ref target="/actors/757">Horber, Hans</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-757">
+            <persName type="full" xml:lang="de">Horber, Hans (1573–)</persName>
+            <persName type="main" xml:lang="de">Horber, Hans</persName>
+            <persName type="sort" xml:lang="de">horber, hans</persName>
+            <birth when="1573-07-17"/>
+            <note type="description" xml:lang="de">
+              <p>Vater von <ref target="/actors/756">Horber, Magdalena</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-758">
+            <persName type="full" xml:lang="de">Luternau, Barbara von (1573–)</persName>
+            <persName type="main" xml:lang="de">Luternau, Barbara von</persName>
+            <persName type="sort" xml:lang="de">luternau, barbara von</persName>
+            <birth when="1573-07-17"/>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/139221891"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q55855405"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/139221891.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/014600"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/100515013/"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-759">
+            <persName type="full" xml:lang="de">Werdenberg, Johann II. von (1472–)</persName>
+            <persName type="main" xml:lang="de">Werdenberg, Johann II. von</persName>
+            <persName type="sort" xml:lang="de">werdenberg, johann ii. von</persName>
+            <birth when="1472-12-07"/>
+            <note type="description" xml:lang="de">
+              <p>Bischof zu Augsburg (1469 bis 1486)</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/129033162"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1694736"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/129033162.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/20750970/"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Johann_II._von_Werdenberg"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-760">
+            <persName type="full" xml:lang="de">Gottsfeld, Hermann von (1472–)</persName>
+            <persName type="main" xml:lang="de">Gottsfeld, Hermann von</persName>
+            <persName type="sort" xml:lang="de">gottsfeld, hermann von</persName>
+            <persName type="alternative" xml:lang="de">Herman von Gotzfelden</persName>
+            <birth when="1472-12-07"/>
+            <note type="description" xml:lang="de">
+              <p>Familie <ref target="/actors/761">von Gottsfeld</ref></p>
+            </note>
+          </person>
+          <personGrp role="family" xml:id="stadtasg-actors-761">
+            <persName type="full" xml:lang="de">von Gottsfeld (1472–)</persName>
+            <persName type="main" xml:lang="de">von Gottsfeld</persName>
+            <persName type="sort" xml:lang="de">von gottsfeld</persName>
+            <persName type="alternative" xml:lang="de">Gotzfelden</persName>
+            <birth when="1472-12-07"/>
+            <note type="description" xml:lang="de">
+              <p>fränkisches Ortsadelsgeschlecht, Ursprung im gleichnamigen <ref target="/places/257">Gottsfeld</ref></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q48754531"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Gottsfeld_(Adelsgeschlecht)"/>
+              </bibl>
+            </listBibl>
+          </personGrp>
+          <person xml:id="stadtasg-actors-762">
+            <persName type="full" xml:lang="de">Mayer, Heinz (1472–)</persName>
+            <persName type="main" xml:lang="de">Mayer, Heinz</persName>
+            <persName type="sort" xml:lang="de">mayer, heinz</persName>
+            <persName type="alternative" xml:lang="de">Haintzen Mayer</persName>
+            <birth when="1472-12-07"/>
+          </person>
+          <person xml:id="stadtasg-actors-763">
+            <persName type="full" xml:lang="de">Lehmann, Heinrich (1473–)</persName>
+            <persName type="main" xml:lang="de">Lehmann, Heinrich</persName>
+            <persName type="sort" xml:lang="de">lehmann, heinrich</persName>
+            <persName type="alternative" xml:lang="de">Hainrich Lenmans</persName>
+            <birth when="1473-06-25"/>
+            <note type="description" xml:lang="de">
+              <p>Zuname: Vogelwaider</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-764">
+            <persName type="full" xml:lang="de">Schomburg, Bernhard von (1473–)</persName>
+            <persName type="main" xml:lang="de">Schomburg, Bernhard von</persName>
+            <persName type="sort" xml:lang="de">schomburg, bernhard von</persName>
+            <birth when="1473-06-25"/>
+          </person>
+          <personGrp role="family" xml:id="stadtasg-actors-765">
+            <persName type="full" xml:lang="de">von Schomburg (1473–)</persName>
+            <persName type="main" xml:lang="de">von Schomburg</persName>
+            <persName type="sort" xml:lang="de">von schomburg</persName>
+            <birth when="1473-06-25"/>
+            <listBibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q56246093"/>
+              </bibl>
+            </listBibl>
+          </personGrp>
+          <person xml:id="stadtasg-actors-766">
+            <persName type="full" xml:lang="de">Schomburg, Wolfgang von (1473–)</persName>
+            <persName type="main" xml:lang="de">Schomburg, Wolfgang von</persName>
+            <persName type="sort" xml:lang="de">schomburg, wolfgang von</persName>
+            <birth when="1473-06-25"/>
+            <note type="description" xml:lang="de">
+              <p>Familie <ref target="/actors/765">von Schomburg</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-768">
+            <persName type="full" xml:lang="de">Helmsdorf, Ludwig von (1475–)</persName>
+            <persName type="main" xml:lang="de">Helmsdorf, Ludwig von</persName>
+            <persName type="sort" xml:lang="de">helmsdorf, ludwig von</persName>
+            <birth when="1475-02-17"/>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/135905710"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q58796811"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/135905710.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/021750"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/80342476/"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-769">
+            <persName type="full" xml:lang="de">Dupuy, Jacques (1650–)</persName>
+            <persName type="main" xml:lang="de">Dupuy, Jacques</persName>
+            <persName type="sort" xml:lang="de">dupuy, jacques</persName>
+            <birth when="1650-09-12"/>
+            <note type="description" xml:lang="de">
+              <p>1621 erster Konsul von <ref target="/places/262">Montauban</ref> und Anführer derer calvinistischen Protestanten (<ref target="/keywords/653">Hugenotten</ref>) im Widerstands gegen die Belagerung von <ref target="/places/262">Montauban</ref> von August bis September 1621.</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-770">
+            <persName type="full" xml:lang="de">Rohan, Henri II. de (1650–)</persName>
+            <persName type="main" xml:lang="de">Rohan, Henri II. de</persName>
+            <persName type="sort" xml:lang="de">rohan, henri ii. de</persName>
+            <persName type="alternative" xml:lang="de">hertzogn von Roan</persName>
+            <birth when="1650-09-12"/>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/119336839"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q701048"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/biography/Henri-duc-de-Rohan"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/119336839.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n85053726"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/016930"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/27134595/"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Henri_II._de_Rohan"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-772">
+            <persName type="full" xml:lang="de">Faget, Ambroise (1627–)</persName>
+            <persName type="main" xml:lang="de">Faget, Ambroise</persName>
+            <persName type="sort" xml:lang="de">faget, ambroise</persName>
+            <birth when="1627-09-12"/>
+            <note type="description" xml:lang="de">
+              <p>Pfarrer von Orléans (1557) und ab 1559 von La Rochelle</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-774">
+            <persName type="full" xml:lang="de">Bänziger, Konrad (1650–)</persName>
+            <persName type="main" xml:lang="de">Bänziger, Konrad</persName>
+            <persName type="sort" xml:lang="de">baenziger, konrad</persName>
+            <persName type="alternative" xml:lang="de">Cunradt Bäntzinger</persName>
+            <birth when="1650-09-11"/>
+            <note type="description" xml:lang="de">
+              <p>Bänziger Geschlecht vom <ref target="/places/264">Kurzenberg AR</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-776">
+            <persName type="full" xml:lang="de">Valois, Heinrich III. (1574–)</persName>
+            <persName type="main" xml:lang="de">Valois, Heinrich III.</persName>
+            <persName type="sort" xml:lang="de">valois, heinrich iii.</persName>
+            <birth when="1574-09-27"/>
+            <note type="description" xml:lang="de">
+              <p>König von Frankreich (1574-1589)</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/118773720"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q53448"/>
+              </bibl>
+              <bibl>
+                <ptr type="europeana" target="https://data.europeana.eu/agent/base/146737"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/biography/Henry-III-king-of-France-and-Poland"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118773720.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n50040026"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/5774506/"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-778">
+            <persName type="full" xml:lang="de">Schüpfer, Christoph (1650–)</persName>
+            <persName type="main" xml:lang="de">Schüpfer, Christoph</persName>
+            <persName type="sort" xml:lang="de">schuepfer, christoph</persName>
+            <persName type="alternative" xml:lang="de">Christophel Schüpfer</persName>
+            <birth when="1650-09-09"/>
+            <note type="description" xml:lang="de">
+              <p>Meister Bruchschneider (mittelalterlicher Wundarzt, der Eingeweidebrüche operativ behandelte), Bruder von <ref target="/actors/779">Schüpfer, Daniel</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-779">
+            <persName type="full" xml:lang="de">Schüpfer, Daniel (1650–)</persName>
+            <persName type="main" xml:lang="de">Schüpfer, Daniel</persName>
+            <persName type="sort" xml:lang="de">schuepfer, daniel</persName>
+            <birth when="1650-09-09"/>
+            <note type="description" xml:lang="de">
+              <p>Bruder von <ref target="/actors/778">Schüpfer, Christoph</ref>, Ehemann von <ref target="/actors/780">Gonzenbach, Anna</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-780">
+            <persName type="full" xml:lang="de">Gonzenbach, Anna (1650–)</persName>
+            <persName type="main" xml:lang="de">Gonzenbach, Anna</persName>
+            <persName type="sort" xml:lang="de">gonzenbach, anna</persName>
+            <persName type="alternative" xml:lang="de">Anna Gunzenbachin</persName>
+            <birth when="1650-09-09"/>
+            <note type="description" xml:lang="de">
+              <p>Ehefrau von <ref target="/actors/779">Schüpfer, Daniel</ref>, Schwester von <ref target="/actors/781">Gonzenbach, Heinrich</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-781">
+            <persName type="full" xml:lang="de">Gonzenbach, Heinrich (1650–)</persName>
+            <persName type="main" xml:lang="de">Gonzenbach, Heinrich</persName>
+            <persName type="sort" xml:lang="de">gonzenbach, heinrich</persName>
+            <persName type="alternative" xml:lang="de">Heinrich Gunzenbach</persName>
+            <birth when="1650-09-09"/>
+            <note type="description" xml:lang="de">
+              <p>Bruder von <ref target="/actors/780">Gonzenbach, Anna</ref></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/1196159882"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-783">
+            <persName type="full" xml:lang="de">Pflaumern, Johann Heinrich von (1650–)</persName>
+            <persName type="main" xml:lang="de">Pflaumern, Johann Heinrich von</persName>
+            <persName type="sort" xml:lang="de">pflaumern, johann heinrich von</persName>
+            <birth when="1650-07-04"/>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/100228895"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q41617492"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/100228895.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n88139892"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/32338143/"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-784">
+            <persName type="full" xml:lang="de">Schorno, Michael (1650–)</persName>
+            <persName type="main" xml:lang="de">Schorno, Michael</persName>
+            <persName type="sort" xml:lang="de">schorno, michael</persName>
+            <birth when="1650-08-29"/>
+            <note type="description" xml:lang="de">
+              <p>Bleichermeister, Ratsherr zu Schwyz und Landvogt im Thurgau</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/105334094X"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q98923731"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/019037"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/309624385/"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-785">
+            <persName type="full" xml:lang="de">Scheibener, Kaspar (1650–)</persName>
+            <persName type="main" xml:lang="de">Scheibener, Kaspar</persName>
+            <persName type="sort" xml:lang="de">scheibener, kaspar</persName>
+            <birth when="1650-08-17"/>
+            <note type="description" xml:lang="de">
+              <p>Bleichermeister und Bürger von St. Gallen</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-786">
+            <persName type="full" xml:lang="de">Mattler, Matthäus (1650–)</persName>
+            <persName type="main" xml:lang="de">Mattler, Matthäus</persName>
+            <persName type="sort" xml:lang="de">mattler, matthaeus</persName>
+            <birth when="1650-08-17"/>
+          </person>
+          <person xml:id="stadtasg-actors-787">
+            <persName type="full" xml:lang="de">Königsegg, Hugo Franz von (1650–)</persName>
+            <persName type="main" xml:lang="de">Königsegg, Hugo Franz von</persName>
+            <persName type="sort" xml:lang="de">koenigsegg, hugo franz von</persName>
+            <persName type="alternative" xml:lang="de">Haug zu Königsegg</persName>
+            <birth when="1650-04-28"/>
+            <note type="description" xml:lang="de">
+              <p>Vetter von <ref target="/actors/806">Königsegg, Johann Wilhelm von</ref></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/136176917"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q91628"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/136176917.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/90609932/"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Hugo_Franz_von_Königsegg-Rothenfels"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-788">
+            <persName type="full" xml:lang="de">Pfalz, Karl I. Ludwig von der (1650–)</persName>
+            <persName type="main" xml:lang="de">Pfalz, Karl I. Ludwig von der</persName>
+            <persName type="sort" xml:lang="de">pfalz, karl i. ludwig von der</persName>
+            <persName type="alternative" xml:lang="de">Carl-Ludwig zu Heidelberg</persName>
+            <birth when="1650-01-26"/>
+            <note type="description" xml:lang="de">
+              <p>Weitere Titel: Pfalzgraf bei Rhein, Erztruchsess und Kurfürst, Herzog in Bayern; Ehemann von <ref target="/actors/790">Pfalz, Charlotte von der</ref></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/118560182"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q57989"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118560182.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n82203084"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/72185959/"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Karl_I._Ludwig_(Pfalz)"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-789">
+            <persName type="full" xml:lang="de">Meigen, Karl (1650–)</persName>
+            <persName type="main" xml:lang="de">Meigen, Karl</persName>
+            <persName type="sort" xml:lang="de">meigen, karl</persName>
+            <birth when="1650-04-24"/>
+            <note type="description" xml:lang="de">
+              <p>Agent, Beauftragter, Vertreter in politischen Angelegenheiten für <ref target="/actors/788">Pfalz, Karl I. Ludwig von der</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-790">
+            <persName type="full" xml:lang="de">Pfalz, Charlotte von der (1650–)</persName>
+            <persName type="main" xml:lang="de">Pfalz, Charlotte von der</persName>
+            <persName type="sort" xml:lang="de">pfalz, charlotte von der</persName>
+            <persName type="alternative" xml:lang="de">Charlotte von Hessen-Kassel (lediger Name)</persName>
+            <birth when="1650-01-26"/>
+            <note type="description" xml:lang="de">
+              <p>Ehefrau von <ref target="/actors/788">Pfalz, Karl I. Ludwig von der</ref></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/117722944"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q261876"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/117722944.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/30321202/"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-792">
+            <persName type="full" xml:lang="de">Grimmel, Felix (1554–)</persName>
+            <persName type="main" xml:lang="de">Grimmel, Felix</persName>
+            <persName type="sort" xml:lang="de">grimmel, felix</persName>
+            <birth when="1554-05-06"/>
+            <note type="description" xml:lang="de">
+              <p>Bruder von <ref target="/actors/793">Grimmel, Jakob</ref></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/119425521"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-793">
+            <persName type="full" xml:lang="de">Grimmel, Jakob (1554–)</persName>
+            <persName type="main" xml:lang="de">Grimmel, Jakob</persName>
+            <persName type="sort" xml:lang="de">grimmel, jakob</persName>
+            <birth when="1554-05-06"/>
+            <note type="description" xml:lang="de">
+              <p>Bruder von <ref target="/actors/792">Grimmel, Felix</ref></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/119425548"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-795">
+            <persName type="full" xml:lang="de">Locher, Heinrich (1555–)</persName>
+            <persName type="main" xml:lang="de">Locher, Heinrich</persName>
+            <persName type="sort" xml:lang="de">locher, heinrich</persName>
+            <persName type="alternative" xml:lang="de">Hainrichen Locher</persName>
+            <birth when="1555-08-19"/>
+            <note type="description" xml:lang="de">
+              <p>Bürger von St. Gallen</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-796">
+            <persName type="full" xml:lang="de">Rüegger, Hans Ulrich (1554–)</persName>
+            <persName type="main" xml:lang="de">Rüegger, Hans Ulrich</persName>
+            <persName type="sort" xml:lang="de">rueegger, hans ulrich</persName>
+            <birth when="1554-05-06"/>
+          </person>
+          <person xml:id="stadtasg-actors-797">
+            <persName type="full" xml:lang="de">Speth von Sulzburg, Georg (1554–)</persName>
+            <persName type="main" xml:lang="de">Speth von Sulzburg, Georg</persName>
+            <persName type="sort" xml:lang="de">speth von sulzburg, georg</persName>
+            <persName type="alternative" xml:lang="de">Jörg Spätt von Sultzburg</persName>
+            <birth when="1554-05-06"/>
+            <note type="description" xml:lang="de">
+              <p>Lebensdaten: 1522-65, war Rat und Begleiter Kaiser Karls V. auf seinen Feldzügen, Führer im schmalkaldischen Krieg, Hauptmann zu Konstanz</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-799">
+            <persName type="full" xml:lang="de">Zwicker, Georg (1650–)</persName>
+            <persName type="main" xml:lang="de">Zwicker, Georg</persName>
+            <persName type="sort" xml:lang="de">zwicker, georg</persName>
+            <persName type="alternative" xml:lang="de">Zwickher</persName>
+            <birth when="1650-04-04"/>
+            <note type="description" xml:lang="de">
+              <p>Säckelmeister zu St.Gallen</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-800">
+            <persName type="full" xml:lang="de">Fittler, Hans (1650–)</persName>
+            <persName type="main" xml:lang="de">Fittler, Hans</persName>
+            <persName type="sort" xml:lang="de">fittler, hans</persName>
+            <birth when="1650-03-26"/>
+            <note type="description" xml:lang="de">
+              <p>Bürger von St.Gallen</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-801">
+            <persName type="full" xml:lang="de">Hurter, Franziskus (1650–)</persName>
+            <persName type="main" xml:lang="de">Hurter, Franziskus</persName>
+            <persName type="sort" xml:lang="de">hurter, franziskus</persName>
+            <birth when="1650-03-26"/>
+            <note type="description" xml:lang="de">
+              <p>Sohn von <ref target="/actors/802">Hurter, Werner</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-802">
+            <persName type="full" xml:lang="de">Hurter, Werner (1650–)</persName>
+            <persName type="main" xml:lang="de">Hurter, Werner</persName>
+            <persName type="sort" xml:lang="de">hurter, werner</persName>
+            <birth when="1650-03-26"/>
+            <note type="description" xml:lang="de">
+              <p>Altschultheiss von Frauenfeld, Vater von <ref target="/actors/801">Hurter, Franziskus</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-803">
+            <persName type="full" xml:lang="de">Fehr, Jacob (1650–)</persName>
+            <persName type="main" xml:lang="de">Fehr, Jacob</persName>
+            <persName type="sort" xml:lang="de">fehr, jacob</persName>
+            <birth when="1650-03-26"/>
+            <note type="description" xml:lang="de">
+              <p>Substitut in St. Gallen</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-804">
+            <persName type="full" xml:lang="de">Walser, Konrad (1650–)</persName>
+            <persName type="main" xml:lang="de">Walser, Konrad</persName>
+            <persName type="sort" xml:lang="de">walser, konrad</persName>
+            <birth when="1650-03-22"/>
+            <note type="description" xml:lang="de">
+              <p>Landmann von Appenzell Ausserrhoden</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/124395518X"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-805">
+            <persName type="full" xml:lang="de">Huber, Christian (1650–)</persName>
+            <persName type="main" xml:lang="de">Huber, Christian</persName>
+            <persName type="sort" xml:lang="de">huber, christian</persName>
+            <birth when="1650-03-22"/>
+          </person>
+          <person xml:id="stadtasg-actors-806">
+            <persName type="full" xml:lang="de">Königsegg, Johann Wilhelm von (1650–)</persName>
+            <persName type="main" xml:lang="de">Königsegg, Johann Wilhelm von</persName>
+            <persName type="sort" xml:lang="de">koenigsegg, johann wilhelm von</persName>
+            <birth when="1650-03-18"/>
+            <note type="description" xml:lang="de">
+              <p>Vetter von <ref target="/actors/787">Königsegg, Hugo von</ref></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/136177026"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q94855750"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/136177026.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/80566035/"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-807">
+            <persName type="full" xml:lang="de">Bosch, Sebastian (1650–)</persName>
+            <persName type="main" xml:lang="de">Bosch, Sebastian</persName>
+            <persName type="sort" xml:lang="de">bosch, sebastian</persName>
+            <birth when="1650-03-18"/>
+            <note type="description" xml:lang="de">
+              <p>von <ref target="/places/279">Hoßkirch</ref>, Stabhalter und Gerichtsammann in der <ref target="/places/278">Grafschaft Königsegg</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-808">
+            <persName type="full" xml:lang="de">Hornstein, Martin (1650–)</persName>
+            <persName type="main" xml:lang="de">Hornstein, Martin</persName>
+            <persName type="sort" xml:lang="de">hornstein, martin</persName>
+            <birth when="1650-03-18"/>
+          </person>
+          <person xml:id="stadtasg-actors-809">
+            <persName type="full" xml:lang="de">Tscharner, Johann (1650–)</persName>
+            <persName type="main" xml:lang="de">Tscharner, Johann</persName>
+            <persName type="sort" xml:lang="de">tscharner, johann</persName>
+            <birth when="1650-02-11"/>
+            <note type="description" xml:lang="de">
+              <p>Bürgermeister von Chur; Schwager von <ref target="/actors/810">Cleric, Martin</ref> und Verwandter von <ref target="/actors/811">Cleric, Emerita</ref></p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/1075708117"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/017006/2015-11-18/"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-810">
+            <persName type="full" xml:lang="de">Cleric, Martin (1650–)</persName>
+            <persName type="main" xml:lang="de">Cleric, Martin</persName>
+            <persName type="sort" xml:lang="de">cleric, martin</persName>
+            <persName type="alternative" xml:lang="de">Martin Clerig</persName>
+            <birth when="1650-02-11"/>
+            <note type="description" xml:lang="de">
+              <p>Stadtrichter von Chur; Bruder von <ref target="/actors/811">Cleric, Emerita</ref> und Schwager von <ref target="/actors/809">Tscharner, Johann</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-811">
+            <persName type="full" xml:lang="de">Cleric, Emerita (1650–)</persName>
+            <persName type="main" xml:lang="de">Cleric, Emerita</persName>
+            <persName type="sort" xml:lang="de">cleric, emerita</persName>
+            <persName type="alternative" xml:lang="de">Emerita Clerickin</persName>
+            <birth when="1650-02-11"/>
+            <note type="description" xml:lang="de">
+              <p>Ehefrau von <ref target="/actors/812">Spindler, Georg</ref>, Schwester von <ref target="/actors/810">Cleric, Martin</ref> und Verwandte von <ref target="/actors/809">Tscharner, Johann</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-812">
+            <persName type="full" xml:lang="de">Spindler, Georg (1649–)</persName>
+            <persName type="main" xml:lang="de">Spindler, Georg</persName>
+            <persName type="sort" xml:lang="de">spindler, georg</persName>
+            <persName type="alternative" xml:lang="de">Jörg Spyndler</persName>
+            <birth when="1649-05-09"/>
+            <note type="description" xml:lang="de">
+              <p>Bürger von St.Gallen und Säckelmeister; Ehemann von <ref target="/actors/811">Cleric, Emerita</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-813">
+            <persName type="full" xml:lang="de">Studer, Christoph Tobias (1650–)</persName>
+            <persName type="main" xml:lang="de">Studer, Christoph Tobias</persName>
+            <persName type="sort" xml:lang="de">studer, christoph tobias</persName>
+            <birth when="1650-02-14"/>
+            <note type="description" xml:lang="de">
+              <p>Bürger von St. Gallen</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-814">
+            <persName type="full" xml:lang="de">Zollikofer, Bartholome (1650–)</persName>
+            <persName type="main" xml:lang="de">Zollikofer, Bartholome</persName>
+            <persName type="sort" xml:lang="de">zollikofer, bartholome</persName>
+            <birth when="1650-03-04"/>
+            <note type="description" xml:lang="de">
+              <p>Stadthauptmann, Wohn/Herkunftsort: St. Gallen</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-815">
+            <persName type="full" xml:lang="de">Peyer, Hieronymus (1650–)</persName>
+            <persName type="main" xml:lang="de">Peyer, Hieronymus</persName>
+            <persName type="sort" xml:lang="de">peyer, hieronymus</persName>
+            <birth when="1650-03-04"/>
+            <note type="description" xml:lang="de">
+              <p>Sohn von <ref target="/actors/817">Peyer-Zollikofer, Elisabeth</ref>, Wohn/Herkunftsort: Schaffhausen</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-816">
+            <persName type="full" xml:lang="de">Schobinger, Margaretha (1650–)</persName>
+            <persName type="main" xml:lang="de">Schobinger, Margaretha</persName>
+            <persName type="sort" xml:lang="de">schobinger, margaretha</persName>
+            <birth when="1650-03-04"/>
+            <note type="description" xml:lang="de">
+              <p>Witwe</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-817">
+            <persName type="full" xml:lang="de">Peyer-Zollikofer, Elisabeth (1650–)</persName>
+            <persName type="main" xml:lang="de">Peyer-Zollikofer, Elisabeth</persName>
+            <persName type="sort" xml:lang="de">peyer-zollikofer, elisabeth</persName>
+            <persName type="alternative" xml:lang="de">Zollickoferin, Elisabetha</persName>
+            <birth when="1650-03-04"/>
+            <note type="description" xml:lang="de">
+              <p>Mutter von <ref target="/actors/815">Peyer, Hieronymus</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-818">
+            <persName type="full" xml:lang="de">Österreich-Tirol, Ferdinand Karl von (1650–)</persName>
+            <persName type="main" xml:lang="de">Österreich-Tirol, Ferdinand Karl von</persName>
+            <persName type="sort" xml:lang="de">oesterreich-tirol, ferdinand karl von</persName>
+            <birth when="1650-02-22"/>
+            <note type="description" xml:lang="de">
+              <p>Weitere Titel: Erzherzog von Österreich, Herzog zu Burgund, Graf zu Tirol, Landgraf im Elsass</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/100100465"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q560021"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/en/viaf/69270022"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/100100465.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/nr2001020261"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Ferdinand_Karl_(Österreich-Tirol)"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-819">
+            <persName type="full" xml:lang="de">Zollikofer, Jacob (1650–)</persName>
+            <persName type="main" xml:lang="de">Zollikofer, Jacob</persName>
+            <persName type="sort" xml:lang="de">zollikofer, jacob</persName>
+            <persName type="alternative" xml:lang="de">Zollikofer, Jakob</persName>
+            <birth when="1650-03-04"/>
+            <note type="description" xml:lang="de">
+              <p>Ehemann von <ref target="/actors/820">Peyer, Barbara</ref>, Vater von <ref target="/actors/821">Peyer, Georg</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-820">
+            <persName type="full" xml:lang="de">Peyer, Barbara (1650–)</persName>
+            <persName type="main" xml:lang="de">Peyer, Barbara</persName>
+            <persName type="sort" xml:lang="de">peyer, barbara</persName>
+            <birth when="1650-03-04"/>
+            <note type="description" xml:lang="de">
+              <p>Ehefrau von <ref target="/actors/819">Zollikofer, Jacob</ref>, Mutter von <ref target="/actors/821">Peyer, Georg</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-821">
+            <persName type="full" xml:lang="de">Peyer, Georg (1650–)</persName>
+            <persName type="main" xml:lang="de">Peyer, Georg</persName>
+            <persName type="sort" xml:lang="de">peyer, georg</persName>
+            <birth when="1650-03-04"/>
+            <note type="description" xml:lang="de">
+              <p>Sohn von <ref target="/actors/820">Peyer, Barbara</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-822">
+            <persName type="full" xml:lang="de">Mieg, Karl (1650–)</persName>
+            <persName type="main" xml:lang="de">Mieg, Karl</persName>
+            <persName type="sort" xml:lang="de">mieg, karl</persName>
+            <birth when="1650-01-26"/>
+            <note type="description" xml:lang="de">
+              <p>Unterhändler des Kurfürsten und Pfalzgrafen <ref target="/actors/788">Pfalz, Karl I. Ludwig von der</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-823">
+            <persName type="full" xml:lang="de">Werdmüller, Heinrich (1650–)</persName>
+            <persName type="main" xml:lang="de">Werdmüller, Heinrich</persName>
+            <persName type="sort" xml:lang="de">werdmueller, heinrich</persName>
+            <birth when="1650-03-16"/>
+            <note type="description" xml:lang="de">
+              <p>Bürger von Zürich</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-824">
+            <persName type="full" xml:lang="de">Volkmar, Joachim von (1648–)</persName>
+            <persName type="main" xml:lang="de">Volkmar, Joachim von</persName>
+            <persName type="sort" xml:lang="de">volkmar, joachim von</persName>
+            <birth when="1648-09-17"/>
+            <note type="description" xml:lang="de">
+              <p>Obrist der schwedischen Armee</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Joachim_von_Volkmar"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q45904036"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-826">
+            <persName type="full" xml:lang="de">Kessler, Daniel (1650–)</persName>
+            <persName type="main" xml:lang="de">Kessler, Daniel</persName>
+            <persName type="sort" xml:lang="de">kessler, daniel</persName>
+            <birth when="1650-09-28"/>
+            <note type="description" xml:lang="de">
+              <p>Bürger von St. Gallen; Zuname: Der Jüngere</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-827">
+            <persName type="full" xml:lang="de">Reding, Georg Dietrich (1650–)</persName>
+            <persName type="main" xml:lang="de">Reding, Georg Dietrich</persName>
+            <persName type="sort" xml:lang="de">reding, georg dietrich</persName>
+            <birth when="1650-10-03"/>
+            <note type="description" xml:lang="de">
+              <p>Landvogt im Toggenburg</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="historisch-biographisches-lexikon-der-schweiz" target="https://biblio.unibe.ch/digibern/hist_bibliog_lexikon_schweiz/Pictet_Resti_448_603.pdf"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-828">
+            <persName type="full" xml:lang="de">Finsterling, Elias (1650–)</persName>
+            <persName type="main" xml:lang="de">Finsterling, Elias</persName>
+            <persName type="sort" xml:lang="de">finsterling, elias</persName>
+            <birth when="1650-10-03"/>
+            <note type="description" xml:lang="de">
+              <p>Bürger von St. Gallen</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-829">
+            <persName type="full" xml:lang="de">Rennhas, N. (1650–)</persName>
+            <persName type="main" xml:lang="de">Rennhas, N.</persName>
+            <persName type="sort" xml:lang="de">rennhas, n.</persName>
+            <persName type="alternative" xml:lang="de">Rennhasin</persName>
+            <birth when="1650-10-03"/>
+            <note type="description" xml:lang="de">
+              <p>Vorname mit N., weiblich</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-830">
+            <persName type="full" xml:lang="de">Elmer, Hans Rudolf (1649–)</persName>
+            <persName type="main" xml:lang="de">Elmer, Hans Rudolf</persName>
+            <persName type="sort" xml:lang="de">elmer, hans rudolf</persName>
+            <birth when="1649-10-11"/>
+            <note type="description" xml:lang="de">
+              <p>Landmann zu Glarus</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-831">
+            <persName type="full" xml:lang="de">Spengler, Joachim (1650–)</persName>
+            <persName type="main" xml:lang="de">Spengler, Joachim</persName>
+            <persName type="sort" xml:lang="de">spengler, joachim</persName>
+            <birth when="1650-05-16"/>
+            <note type="description" xml:lang="de">
+              <p>Glasergeselle in Konstanz, Wohn/Herkunftsort: Konstanz, Schwager von <ref target="/actors/832">Pfeil, Johannes</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-832">
+            <persName type="full" xml:lang="de">Pfeil, Johann (1650–)</persName>
+            <persName type="main" xml:lang="de">Pfeil, Johann</persName>
+            <persName type="sort" xml:lang="de">pfeil, johann</persName>
+            <birth when="1650-05-16"/>
+            <note type="description" xml:lang="de">
+              <p>Raiteschreiber, Wohn/Herkunftsort: Konstanz, Schwager von <ref target="/actors/831">Spengler, Joachim</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-834">
+            <persName type="full" xml:lang="de">Anhorn, Bartholomäus (1649–)</persName>
+            <persName type="main" xml:lang="de">Anhorn, Bartholomäus</persName>
+            <persName type="sort" xml:lang="de">anhorn, bartholomaeus</persName>
+            <persName type="alternative" xml:lang="de">Anhorn von Hartwiss, Bartholomaeus</persName>
+            <birth when="1649-10-10"/>
+            <note type="description" xml:lang="de">
+              <p>Zuname: der Jüngere</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/121076717"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q809340"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/121076717.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/nr2001045830"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/010505"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/74699744"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Bartholomäus_Anhorn_der_Jüngere"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-835">
+            <persName type="full" xml:lang="de">Waldburg-Zeil, Johann Jakob I. von (1650–)</persName>
+            <persName type="main" xml:lang="de">Waldburg-Zeil, Johann Jakob I. von</persName>
+            <persName type="sort" xml:lang="de">waldburg-zeil, johann jakob i. von</persName>
+            <birth when="1650-10-28"/>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/1207993212"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q66682828"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/109158669833127201854"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <personGrp role="family" xml:id="stadtasg-actors-836">
+            <persName type="full" xml:lang="de">Waldburg-Zeil (1650–)</persName>
+            <persName type="main" xml:lang="de">Waldburg-Zeil</persName>
+            <persName type="sort" xml:lang="de">waldburg-zeil</persName>
+            <birth when="1650-10-28"/>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Waldburg-Zeil"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q896782"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/128555122.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh93009323"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/128555122"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/55202123"/>
+              </bibl>
+            </listBibl>
+          </personGrp>
+          <person xml:id="stadtasg-actors-837">
+            <persName type="full" xml:lang="de">Escher, Johann Peter (1650–)</persName>
+            <persName type="main" xml:lang="de">Escher, Johann Peter</persName>
+            <persName type="sort" xml:lang="de">escher, johann peter</persName>
+            <birth when="1650-10-28"/>
+            <note type="description" xml:lang="de">
+              <p>Obrist der Herrschaft Venedig, Zeugmeister zu Zürich</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-838">
+            <persName type="full" xml:lang="de">Schlumpf, Hans (1650–)</persName>
+            <persName type="main" xml:lang="de">Schlumpf, Hans</persName>
+            <persName type="sort" xml:lang="de">schlumpf, hans</persName>
+            <persName type="alternative" xml:lang="de">Hanß Schlumpfen</persName>
+            <birth when="1650-10-28"/>
+            <note type="description" xml:lang="de">
+              <p>Zuname: der Ältere, Bürger von St.Gallen</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-839">
+            <persName type="full" xml:lang="de">Sulzer, Hans Ulrich (1650–)</persName>
+            <persName type="main" xml:lang="de">Sulzer, Hans Ulrich</persName>
+            <persName type="sort" xml:lang="de">sulzer, hans ulrich</persName>
+            <birth when="1650-10-28"/>
+            <note type="description" xml:lang="de">
+              <p>Gerichtsherr zu Elgg</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/1089329997"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-840">
+            <persName type="full" xml:lang="de">Sulzer, Peter (1650–)</persName>
+            <persName type="main" xml:lang="de">Sulzer, Peter</persName>
+            <persName type="sort" xml:lang="de">sulzer, peter</persName>
+            <birth when="1650-10-28"/>
+            <note type="description" xml:lang="de">
+              <p>Zuname: der Jüngere</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-841">
+            <persName type="full" xml:lang="de">Oswald, NN (1650–)</persName>
+            <persName type="main" xml:lang="de">Oswald, NN</persName>
+            <persName type="sort" xml:lang="de">oswald, nn</persName>
+            <birth when="1650-05-02"/>
+            <note type="description" xml:lang="de">
+              <p>Sekretär, männlich</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-842">
+            <persName type="full" xml:lang="de">Stühlingen, Maximilian von (1650–)</persName>
+            <persName type="main" xml:lang="de">Stühlingen, Maximilian von</persName>
+            <persName type="sort" xml:lang="de">stuehlingen, maximilian von</persName>
+            <birth when="1650-11-02"/>
+            <note type="description" xml:lang="de">
+              <p>Erbmarschall und Landgraf</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-843">
+            <persName type="full" xml:lang="de">Gerber, Antonius (1650–)</persName>
+            <persName type="main" xml:lang="de">Gerber, Antonius</persName>
+            <persName type="sort" xml:lang="de">gerber, antonius</persName>
+            <birth when="1650-11-02"/>
+            <note type="description" xml:lang="de">
+              <p>Schlosshauptmann</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-845">
+            <persName type="full" xml:lang="de">Stäger, Heinrich Hans (1650–)</persName>
+            <persName type="main" xml:lang="de">Stäger, Heinrich Hans</persName>
+            <persName type="sort" xml:lang="de">staeger, heinrich hans</persName>
+            <birth when="1650-11-12"/>
+            <note type="description" xml:lang="de">
+              <p>Zuname: der Ältere, Landmann zu Glarus</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-847">
+            <persName type="full" xml:lang="de">Pfalz, Maximilian I. (1650–)</persName>
+            <persName type="main" xml:lang="de">Pfalz, Maximilian I.</persName>
+            <persName type="sort" xml:lang="de">pfalz, maximilian i.</persName>
+            <birth when="1650-06-08"/>
+            <note type="description" xml:lang="de">
+              <p>Pfalzgraf bei Rhein, Herzog in Ober- und Niederbayern, Erztruchsess und Kurfürst des Reichs</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/118579355"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q57206"/>
+              </bibl>
+              <bibl>
+                <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/biography/Maximilian-I-duke-of-Bavaria"/>
+              </bibl>
+              <bibl>
+                <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/10075b.htm"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118579355.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="lcnaf" target="https://id.loc.gov/authorities/n81012321"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/8179803"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-848">
+            <persName type="full" xml:lang="de">Krebs, Johann Adolph (1650–)</persName>
+            <persName type="main" xml:lang="de">Krebs, Johann Adolph</persName>
+            <persName type="sort" xml:lang="de">krebs, johann adolph</persName>
+            <birth when="1650-06-08"/>
+            <note type="description" xml:lang="de">
+              <p>Doktor, Geheimrat</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-850">
+            <persName type="full" xml:lang="de">Kunz, Cornelius (1650–)</persName>
+            <persName type="main" xml:lang="de">Kunz, Cornelius</persName>
+            <persName type="sort" xml:lang="de">kunz, cornelius</persName>
+            <birth when="1650-06-23"/>
+            <note type="description" xml:lang="de">
+              <p>Wohn/Herkunftsort: St. Gallen, Schwiegersohn von <ref target="/actors/851">Krütli, Hans Heinrich</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-851">
+            <persName type="full" xml:lang="de">Krütli, Hans Heinrich (1650–)</persName>
+            <persName type="main" xml:lang="de">Krütli, Hans Heinrich</persName>
+            <persName type="sort" xml:lang="de">kruetli, hans heinrich</persName>
+            <birth when="1650-06-23"/>
+            <note type="description" xml:lang="de">
+              <p>Pfarrer, Wohn/Herkunftsort: Winterthur, Schwiegervater von <ref target="/actors/850">Kunz, Corneluis</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-852">
+            <persName type="full" xml:lang="de">Montfort, Hugo XVIII. von (1650–)</persName>
+            <persName type="main" xml:lang="de">Montfort, Hugo XVIII. von</persName>
+            <persName type="sort" xml:lang="de">montfort, hugo xviii. von</persName>
+            <persName type="alternative" xml:lang="de">Montfort, Hugo XV. von</persName>
+            <birth when="1650-07-04"/>
+            <note type="description" xml:lang="de">
+              <p>Graf von Montfort</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Hugo_XVIII._von_Montfort"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q50850515"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/124065023.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/124065023"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/64930302"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-853">
+            <persName type="full" xml:lang="de">Reding, Johann Rudolf (1650–)</persName>
+            <persName type="main" xml:lang="de">Reding, Johann Rudolf</persName>
+            <persName type="sort" xml:lang="de">reding, johann rudolf</persName>
+            <persName type="alternative" xml:lang="de">Reding, Johann Rudolf von Schwyz</persName>
+            <birth when="1650-06-27"/>
+            <note type="description" xml:lang="de">
+              <p>Fürstäbtischer St. Galler Rat, Landvogt der Grafschaft Toggenburg</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-854">
+            <persName type="full" xml:lang="de">Schlappritzi, Johannes (1649–)</persName>
+            <persName type="main" xml:lang="de">Schlappritzi, Johannes</persName>
+            <persName type="sort" xml:lang="de">schlappritzi, johannes</persName>
+            <persName type="alternative" xml:lang="de">Schlapparitz</persName>
+            <birth when="1649-07-26"/>
+            <note type="description" xml:lang="de">
+              <p>Bürger von Ravensburg. Schwager von <ref target="/actors/855">Högger, Johannes</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-855">
+            <persName type="full" xml:lang="de">Högger, Johannes (1650–)</persName>
+            <persName type="main" xml:lang="de">Högger, Johannes</persName>
+            <persName type="sort" xml:lang="de">hoegger, johannes</persName>
+            <birth when="1650-12-16"/>
+            <note type="description" xml:lang="de">
+              <p>Bürger und Krämer von St. Gallen. Schwager von <ref target="/actors/854">Schlappritzi, Johannes</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-856">
+            <persName type="full" xml:lang="de">Ströbel, Hans Bernhard (1649–)</persName>
+            <persName type="main" xml:lang="de">Ströbel, Hans Bernhard</persName>
+            <persName type="sort" xml:lang="de">stroebel, hans bernhard</persName>
+            <birth when="1649-11-13"/>
+            <note type="description" xml:lang="de">
+              <p>Bürger und Gastwirt zu den <ref target="/places/293">Drei Kronen</ref> in Nürnberg</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-857">
+            <persName type="full" xml:lang="de">Basthard, Georg (1649–)</persName>
+            <persName type="main" xml:lang="de">Basthard, Georg</persName>
+            <persName type="sort" xml:lang="de">basthard, georg</persName>
+            <persName type="alternative" xml:lang="de">Bastardt, Basthardt</persName>
+            <birth when="1649-11-13"/>
+            <note type="description" xml:lang="de">
+              <p>Buchbinder zu St. Gallen</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/1036492583"/>
+              </bibl>
+              <bibl>
+                <ptr type="historisch-biographisches-lexikon-der-schweiz" target="https://biblio.unibe.ch/digibern/hist_bibliog_lexikon_schweiz/Basel_Berikon_001_135.pdf"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-858">
+            <persName type="full" xml:lang="de">Wagner, Johann Michael (1650–)</persName>
+            <persName type="main" xml:lang="de">Wagner, Johann Michael</persName>
+            <persName type="sort" xml:lang="de">wagner, johann michael</persName>
+            <birth when="1650-12-28"/>
+            <note type="description" xml:lang="de">
+              <p>Amtmann der Herrschaft Langenargen</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-859">
+            <persName type="full" xml:lang="de">Locher, Johannes (1650–)</persName>
+            <persName type="main" xml:lang="de">Locher, Johannes</persName>
+            <persName type="sort" xml:lang="de">locher, johannes</persName>
+            <birth when="1650-06-24"/>
+            <note type="description" xml:lang="de">
+              <p>Nürnberger Bote, Wohn/Herkunftsort: St. Gallen, Bruder von Jeremias Locher</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-860">
+            <persName type="full" xml:lang="de">Haltmeyer, Kaspar (1650–)</persName>
+            <persName type="main" xml:lang="de">Haltmeyer, Kaspar</persName>
+            <persName type="sort" xml:lang="de">haltmeyer, kaspar</persName>
+            <birth when="1650-12-28"/>
+            <note type="description" xml:lang="de">
+              <p>Zuname: Güggi, Bürger von St. Gallen</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-861">
+            <persName type="full" xml:lang="de">Specht, Lott (1650–)</persName>
+            <persName type="main" xml:lang="de">Specht, Lott</persName>
+            <persName type="sort" xml:lang="de">specht, lott</persName>
+            <birth when="1650-07-04"/>
+            <note type="description" xml:lang="de">
+              <p>Wohn/Herkunftsort: Ravensburg</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-862">
+            <persName type="full" xml:lang="de">Muffler, Hans (1650–)</persName>
+            <persName type="main" xml:lang="de">Muffler, Hans</persName>
+            <persName type="sort" xml:lang="de">muffler, hans</persName>
+            <birth when="1650-12-28"/>
+            <note type="description" xml:lang="de">
+              <p>Bürger und Metzger von Langenargen</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-863">
+            <persName type="full" xml:lang="de">Wacher, Christoph (1650–)</persName>
+            <persName type="main" xml:lang="de">Wacher, Christoph</persName>
+            <persName type="sort" xml:lang="de">wacher, christoph</persName>
+            <birth when="1650-12-28"/>
+            <note type="description" xml:lang="de">
+              <p>Beruf: Gastwirt</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-865">
+            <persName type="full" xml:lang="de">Berung, Johannes (1651–)</persName>
+            <persName type="main" xml:lang="de">Berung, Johannes</persName>
+            <persName type="sort" xml:lang="de">berung, johannes</persName>
+            <birth when="1651-01-08"/>
+            <note type="description" xml:lang="de">
+              <p>Bürger von Thal SG, Ehemann von <ref target="/actors/866">Kuon, Barbara</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-866">
+            <persName type="full" xml:lang="de">Kuon, Barbara (1651–)</persName>
+            <persName type="main" xml:lang="de">Kuon, Barbara</persName>
+            <persName type="sort" xml:lang="de">kuon, barbara</persName>
+            <birth when="1651-01-08"/>
+            <note type="description" xml:lang="de">
+              <p>Ehefrau von <ref target="/actors/865">Berung, Johannes</ref></p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-867">
+            <persName type="full" xml:lang="de">Kuon, Christof (1651–)</persName>
+            <persName type="main" xml:lang="de">Kuon, Christof</persName>
+            <persName type="sort" xml:lang="de">kuon, christof</persName>
+            <birth when="1651-01-08"/>
+          </person>
+          <person xml:id="stadtasg-actors-868">
+            <persName type="full" xml:lang="de">Messmer, Samuel (1651–)</persName>
+            <persName type="main" xml:lang="de">Messmer, Samuel</persName>
+            <persName type="sort" xml:lang="de">messmer, samuel</persName>
+            <birth when="1651-01-08"/>
+            <note type="description" xml:lang="de">
+              <p>Stadtammann zu Thal SG</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-869">
+            <persName type="full" xml:lang="de">Schmidt, Niklaus (1650–)</persName>
+            <persName type="main" xml:lang="de">Schmidt, Niklaus</persName>
+            <persName type="sort" xml:lang="de">schmidt, niklaus</persName>
+            <birth when="1650-07-12"/>
+            <note type="description" xml:lang="de">
+              <p>Gerichtsschreiber, Wohn/Herkunftsort: Konstanz</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-870">
+            <persName type="full" xml:lang="de">Spengler, Michael (1650–)</persName>
+            <persName type="main" xml:lang="de">Spengler, Michael</persName>
+            <persName type="sort" xml:lang="de">spengler, michael</persName>
+            <birth when="1650-07-12"/>
+            <note type="description" xml:lang="de">
+              <p>Wohn/Herkunftsort: Konstanz</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-873">
+            <persName type="full" xml:lang="de">Fels, NN (1650–)</persName>
+            <persName type="main" xml:lang="de">Fels, NN</persName>
+            <persName type="sort" xml:lang="de">fels, nn</persName>
+            <persName type="alternative" xml:lang="de">Felß</persName>
+            <birth when="1650"/>
+            <note type="description" xml:lang="de">
+              <p>männlich, Bürger von St. Gallen</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-875">
+            <persName type="full" xml:lang="de">Fugger, Paul (1649–)</persName>
+            <persName type="main" xml:lang="de">Fugger, Paul</persName>
+            <persName type="sort" xml:lang="de">fugger, paul</persName>
+            <birth when="1649-06-01"/>
+            <note type="description" xml:lang="de">
+              <p>Graf zu Kirchberg-Weißenhorn</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/136021271"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q126884"/>
+              </bibl>
+              <bibl>
+                <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/136021271.html"/>
+              </bibl>
+              <bibl>
+                <ptr type="viaf" target="https://viaf.org/viaf/80436151"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Paul_Fugger"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-876">
+            <persName type="full" xml:lang="de">Sayn und Wittgenstein, Johannette zu (1650–)</persName>
+            <persName type="main" xml:lang="de">Sayn und Wittgenstein, Johannette zu</persName>
+            <persName type="sort" xml:lang="de">sayn und wittgenstein, johannette zu</persName>
+            <persName type="alternative" xml:lang="de">Erbach, Johannette von</persName>
+            <birth when="1650-02-27"/>
+            <note type="description" xml:lang="de">
+              <p>Gräfin, Witwe von Ludwig I., ab 1606 Graf von Erbach zu Erbach und Freienstein, ab 1623 zu Michelstedt und König, ab 1627 auch zu Wildenstein</p>
+            </note>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/1214755046"/>
+              </bibl>
+            </listBibl>
+          </person>
+          <person xml:id="stadtasg-actors-878">
+            <persName type="full" xml:lang="de">Tanner, Johannes (1650–)</persName>
+            <persName type="main" xml:lang="de">Tanner, Johannes</persName>
+            <persName type="sort" xml:lang="de">tanner, johannes</persName>
+            <birth when="1650-03-05"/>
+            <note type="description" xml:lang="de">
+              <p>Landammann, Bannerherr</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-879">
+            <persName type="full" xml:lang="de">Trüeb, Ulrich (1650–)</persName>
+            <persName type="main" xml:lang="de">Trüeb, Ulrich</persName>
+            <persName type="sort" xml:lang="de">trueeb, ulrich</persName>
+            <birth when="1650-03-05"/>
+            <note type="description" xml:lang="de">
+              <p>Stadtammann zu Arbon</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-880">
+            <persName type="full" xml:lang="de">Meder, Franziskus (1650–)</persName>
+            <persName type="main" xml:lang="de">Meder, Franziskus</persName>
+            <persName type="sort" xml:lang="de">meder, franziskus</persName>
+            <birth when="1650-03-08"/>
+            <note type="description" xml:lang="de">
+              <p>Wohn/Herkunftsort: Arbon</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-881">
+            <persName type="full" xml:lang="de">Schobinger, Melchior (1650–)</persName>
+            <persName type="main" xml:lang="de">Schobinger, Melchior</persName>
+            <persName type="sort" xml:lang="de">schobinger, melchior</persName>
+            <birth when="1650-03-09"/>
+            <note type="description" xml:lang="de">
+              <p>Wohn/Herkunftsort: Konstanz</p>
+            </note>
+          </person>
+          <person xml:id="stadtasg-actors-882">
+            <persName type="full" xml:lang="de">Ziegler, Conrad (1650–)</persName>
+            <persName type="main" xml:lang="de">Ziegler, Conrad</persName>
+            <persName type="sort" xml:lang="de">ziegler, conrad</persName>
+            <birth when="1650-03-09"/>
+            <note type="description" xml:lang="de">
+              <p>Anwalt</p>
+            </note>
           </person>
         </listPerson>
         <listOrg>
@@ -11910,11 +13293,239 @@
               </bibl>
             </listBibl>
           </org>
+          <org xml:id="stadtasg-actors-767">
+            <orgName type="full" xml:lang="de">Dekan und Kapitel des Stifts zu Konstanz (1475–)</orgName>
+            <orgName type="main" xml:lang="de">Dekan und Kapitel des Stifts zu Konstanz</orgName>
+            <orgName type="sort" xml:lang="de">dekan und kapitel des stifts zu konstanz</orgName>
+            <event type="start" when="1475-02-17">
+              <p/>
+            </event>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4032211-7"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q23787970"/>
+              </bibl>
+            </listBibl>
+          </org>
+          <org xml:id="stadtasg-actors-771">
+            <orgName type="full" xml:lang="de">Evangelische Orte der Eidgenossenschaft (1574–)</orgName>
+            <orgName type="main" xml:lang="de">Evangelische Orte der Eidgenossenschaft</orgName>
+            <orgName type="sort" xml:lang="de">evangelische orte der eidgenossenschaft</orgName>
+            <event type="start" when="1574-09-27">
+              <p/>
+            </event>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/1087617170"/>
+              </bibl>
+            </listBibl>
+          </org>
+          <org xml:id="stadtasg-actors-773">
+            <orgName type="full" xml:lang="de">Ammann und Rat zu Appenzell Ausserrhoden (1648–)</orgName>
+            <orgName type="main" xml:lang="de">Ammann und Rat zu Appenzell Ausserrhoden</orgName>
+            <orgName type="sort" xml:lang="de">ammann und rat zu appenzell ausserrhoden</orgName>
+            <orgName type="alternative" xml:lang="de">Landtamman und rath der ußeren rooden deß landts Appenzell</orgName>
+            <event type="start" when="1648-06-07">
+              <p/>
+            </event>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/1086271599"/>
+              </bibl>
+            </listBibl>
+          </org>
+          <org xml:id="stadtasg-actors-775">
+            <orgName type="full" xml:lang="de">Drei Bünde (1574–)</orgName>
+            <orgName type="main" xml:lang="de">Drei Bünde</orgName>
+            <orgName type="sort" xml:lang="de">drei buende</orgName>
+            <orgName type="alternative" xml:lang="de">Dryg Pündt</orgName>
+            <event type="start" when="1574-09-27">
+              <p/>
+            </event>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/1069513687"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q672685"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/026840"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Drei_Bünde"/>
+              </bibl>
+            </listBibl>
+          </org>
+          <org xml:id="stadtasg-actors-777">
+            <orgName type="full" xml:lang="de">Katholische Orte der Innerschweiz (UR, SZ, UW, LU, ZG) (1574–)</orgName>
+            <orgName type="main" xml:lang="de">Katholische Orte der Innerschweiz (UR, SZ, UW, LU, ZG)</orgName>
+            <orgName type="sort" xml:lang="de">katholische orte der innerschweiz (ur, sz, uw, lu, zg)</orgName>
+            <event type="start" when="1574-09-27">
+              <p/>
+            </event>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4079490-8"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q30978"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/015334"/>
+              </bibl>
+            </listBibl>
+          </org>
+          <org xml:id="stadtasg-actors-782">
+            <orgName type="full" xml:lang="de">Stadtgericht zu Zürich (1650–)</orgName>
+            <orgName type="main" xml:lang="de">Stadtgericht zu Zürich</orgName>
+            <orgName type="sort" xml:lang="de">stadtgericht zu zuerich</orgName>
+            <event type="start" when="1650-09-02">
+              <p/>
+            </event>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/5101800-7"/>
+              </bibl>
+            </listBibl>
+          </org>
+          <org xml:id="stadtasg-actors-791">
+            <orgName type="full" xml:lang="de">Augustiner-Chorherrenstift Kreuzlingen (1555–)</orgName>
+            <orgName type="main" xml:lang="de">Augustiner-Chorherrenstift Kreuzlingen</orgName>
+            <orgName type="sort" xml:lang="de">augustiner-chorherrenstift kreuzlingen</orgName>
+            <event type="start" when="1555-08-19">
+              <p/>
+            </event>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/813499-6"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q679893"/>
+              </bibl>
+              <bibl>
+                <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/011409"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Kloster_Kreuzlingen"/>
+              </bibl>
+            </listBibl>
+          </org>
+          <org xml:id="stadtasg-actors-794">
+            <orgName type="full" xml:lang="de">Handelsgesellschaft Felix und Jakob Grimmel (1554–)</orgName>
+            <orgName type="main" xml:lang="de">Handelsgesellschaft Felix und Jakob Grimmel</orgName>
+            <orgName type="sort" xml:lang="de">handelsgesellschaft felix und jakob grimmel</orgName>
+            <orgName type="alternative" xml:lang="de">den Grumeln</orgName>
+            <event type="start" when="1554-05-06">
+              <p/>
+            </event>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4462505-4"/>
+              </bibl>
+            </listBibl>
+          </org>
+          <org xml:id="stadtasg-actors-798">
+            <orgName type="full" xml:lang="de">Bürgermeister und Rat zu Leutkirch (1650–)</orgName>
+            <orgName type="main" xml:lang="de">Bürgermeister und Rat zu Leutkirch</orgName>
+            <orgName type="sort" xml:lang="de">buergermeister und rat zu leutkirch</orgName>
+            <orgName type="alternative" xml:lang="de">Burgermaister und rath der statt Leutkürch</orgName>
+            <event type="start" when="1650-04-09">
+              <p/>
+            </event>
+          </org>
+          <org xml:id="stadtasg-actors-825">
+            <orgName type="full" xml:lang="de">Bürgermeister und Rat zu Bludenz (1650–)</orgName>
+            <orgName type="main" xml:lang="de">Bürgermeister und Rat zu Bludenz</orgName>
+            <orgName type="sort" xml:lang="de">buergermeister und rat zu bludenz</orgName>
+            <event type="start" when="1650-09-14">
+              <p/>
+            </event>
+          </org>
+          <org xml:id="stadtasg-actors-833">
+            <orgName type="full" xml:lang="de">Ammann und Rat von Appenzell Innerrhoden (1648–)</orgName>
+            <orgName type="main" xml:lang="de">Ammann und Rat von Appenzell Innerrhoden</orgName>
+            <orgName type="sort" xml:lang="de">ammann und rat von appenzell innerrhoden</orgName>
+            <event type="start" when="1648-06-07">
+              <p/>
+            </event>
+          </org>
+          <org xml:id="stadtasg-actors-844">
+            <orgName type="full" xml:lang="de">Stadtvogt und Rat zu Maienfeld (1650–)</orgName>
+            <orgName type="main" xml:lang="de">Stadtvogt und Rat zu Maienfeld</orgName>
+            <orgName type="sort" xml:lang="de">stadtvogt und rat zu maienfeld</orgName>
+            <event type="start" when="1650-11-12">
+              <p/>
+            </event>
+          </org>
+          <org xml:id="stadtasg-actors-849">
+            <orgName type="full" xml:lang="de">Ammann und Rat zu Uri (1650–)</orgName>
+            <orgName type="main" xml:lang="de">Ammann und Rat zu Uri</orgName>
+            <orgName type="sort" xml:lang="de">ammann und rat zu uri</orgName>
+            <event type="start" when="1650-06-18">
+              <p/>
+            </event>
+          </org>
+          <org xml:id="stadtasg-actors-864">
+            <orgName type="full" xml:lang="de">Ammann und Gericht zu Thal (1651–)</orgName>
+            <orgName type="main" xml:lang="de">Ammann und Gericht zu Thal</orgName>
+            <orgName type="sort" xml:lang="de">ammann und gericht zu thal</orgName>
+            <event type="start" when="1651-01-08">
+              <p/>
+            </event>
+          </org>
+          <org xml:id="stadtasg-actors-871">
+            <orgName type="full" xml:lang="de">Grafschaft Hanau (1650–)</orgName>
+            <orgName type="main" xml:lang="de">Grafschaft Hanau</orgName>
+            <orgName type="sort" xml:lang="de">grafschaft hanau</orgName>
+            <event type="start" when="1650">
+              <p/>
+            </event>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4023202-5"/>
+              </bibl>
+              <bibl>
+                <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q874567"/>
+              </bibl>
+            </listBibl>
+          </org>
+          <org xml:id="stadtasg-actors-872">
+            <orgName type="full" xml:lang="de">Predigtamt zu St. Gallen (1650–)</orgName>
+            <orgName type="main" xml:lang="de">Predigtamt zu St. Gallen</orgName>
+            <orgName type="sort" xml:lang="de">predigtamt zu st. gallen</orgName>
+            <event type="start" when="1650">
+              <p/>
+            </event>
+          </org>
+          <org xml:id="stadtasg-actors-874">
+            <orgName type="full" xml:lang="de">Beamten der Herrschaft Rothenstein (1649–)</orgName>
+            <orgName type="main" xml:lang="de">Beamten der Herrschaft Rothenstein</orgName>
+            <orgName type="sort" xml:lang="de">beamten der herrschaft rothenstein</orgName>
+            <event type="start" when="1649-06-01">
+              <p/>
+            </event>
+            <listBibl>
+              <bibl>
+                <ptr type="gnd" target="https://d-nb.info/gnd/4592203-2"/>
+              </bibl>
+            </listBibl>
+          </org>
+          <org xml:id="stadtasg-actors-877">
+            <orgName type="full" xml:lang="de">Landamman, Hauptleute und Räte der Kirchhöri Herisau (1650–)</orgName>
+            <orgName type="main" xml:lang="de">Landamman, Hauptleute und Räte der Kirchhöri Herisau</orgName>
+            <orgName type="sort" xml:lang="de">landamman, hauptleute und raete der kirchhoeri herisau</orgName>
+            <event type="start" when="1650-03-05">
+              <p/>
+            </event>
+          </org>
         </listOrg>
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2024-10-07T13:09:10+02:00">teiHeader was automatically produced from the database 2024-10-07T13:09:10+02:00</change>
+      <change when="2025-03-11T10:24:33+01:00">teiHeader was automatically produced from the database 2025-03-11T10:24:33+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

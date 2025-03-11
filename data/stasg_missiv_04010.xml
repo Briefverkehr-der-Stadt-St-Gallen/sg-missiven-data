@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4010</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 5. März 1650 vor dem Rat verlesen. Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_04037.xml">4037</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4010_16195/16198</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Winterthur bitten Bürgermeister und Rat zu St. Gallen um die Aufnahme der Tochter ihres Bürgers und Kirchendieners Heinrich Krütli in das St. Galler Bürgerrecht. Anlass ist die Verlobung der Tochter Krütlis mit dem Schneider Cornelius Cunz, Bürger zu St. Gallen. Um ins St. Galler Bürgerrecht aufgenommen zu werden, benötigt die Frau laut Stadtrecht ein Vermögen von 200 Gulden, das ihr der Vater allerdings nicht geben kann. Schultheiss und Rat zu Winterthur bitten Bürgermeister und Rat zu St. Gallen deshalb um eine Ausnahmebewilligung.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-112">Bürgerrecht</term>
+<term ref="stadtasg-keywords-349">Heirat</term>
+<term ref="stadtasg-keywords-251">Stadtrecht</term>
+<term ref="stadtasg-keywords-350">Schneider</term>
+<term ref="stadtasg-keywords-452">Verlobung</term>
+<term ref="stadtasg-keywords-451">Pfarrer</term>
+<term ref="stadtasg-keywords-134">Kaution</term>
+<term ref="stadtasg-keywords-269">Kind</term>
+<term ref="stadtasg-keywords-298">Tochter</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-718">Schultheiss und Rat zu Winterthur</orgName>                    <date>1650-03-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-02-17</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4010_16195.jpg" n="1" />
+<p>
+<lb n="1" />Edle gestrenge fromme veste fürsichtige und wyße
+<lb n="2" />innsonders hochehrende günstige heren und fründtliche
+<lb n="3" />liebe nachbaren denselben seigen unßere geneigtwillige
+<lb n="4" />nachbarliche dienst und gruoß bevor.
+<lb n="5" />Unß hat unßer lieber getröüwer burger und kirchendiener
+<lb n="6" />herr <persName ref="stadtasg-actors-851">Heinrich Krütlin</persName> gantz flehenlich an- und fürbringen
+<lb n="7" />laßen, waß maaßen syn liebe tochter mit synem consens sich
+<lb n="8" />gegen <persName ref="stadtasg-actors-850">Cornellio Kuntzen</persName> den schnyder, der heren angehörigen
+<lb n="9" />burger, inn ein eheliches versprechen eingelaßen und es an
+<lb n="10" />jetzo an dem, daß ir eheliches versprechen christenlichem
+<lb n="11" />gebruch nach solte confirmiert werden. Diewyl aber by den
+<lb n="12" />heren jederzyth üeblich geweßen syn soll, dhein nüewe burg
+<lb break="no" n="13" />erin inn ir statt zelaßen, sy seige dann 200 <choice><abbr>gl.</abbr><expan>Gulden</expan></choice> vermögens
+<lb n="14" />oder umb sovil caution thuon könne, wann nun angezeigtem
+<lb n="15" />unßerm kirchendiener wegen übrigen syner kinderen
+<lb n="16" />angedeüte 200 <choice><abbr>gl.</abbr><expan>Gulden</expan></choice> abzestatten ald dißmahl zeversprechen
+<lb n="17" />nit muglich, alls gelangt an die heren nachbaren unßer
+<lb n="18" />dienst-fründt-nachbarlich ersuochen und piten (wyllen es
+<lb n="19" />nunmehr zwüschent gedachten jungen vor gott ein ehe),
+<lb n="20" />uß sonderen gnaaden und gunsten, ohne nachtheil dero hab
+<lb break="no" n="21" />enden stattrechten und üeblichen gebruchen, einzuowilligen,
+<lb n="22" />damit gesagte beide versprochnen ir verloben würcklich
+<lb n="23" />vollnziehen können, welliches wir ime gleichen ald andern
+<lb n="24" />jederwyllen zuotragenden begebenheiten erwidrigen könden,
+<lb n="25" />darzuo die onehein unß angenemm und erfroüvlich syn
+<lb n="26" />wurde. Damit die heren ferner der gnedigen regier- und
+<lb n="27" />erhaltung deß allerhöchsten wolbefehlen thuond.
+<lb n="28" />Datum den <origDate when="1650-03-01">1sten mertzen anno 1650</origDate>.
+<lb n="29" /><orgName ref="stadtasg-actors-718" role="issuer">Schuldtheiß und rath der
+<lb n="30" />statt Winterthur</orgName>.
+<pb facs="StadtASG_Missive_4010_16196.jpg" n="2" />
+<pb facs="StadtASG_Missive_4010_16197.jpg" n="3" />
+<pb facs="StadtASG_Missive_4010_16198.jpg" n="4" />
+<lb n="31" />Den edlen gestrengen frommen vesten
+<lb n="32" />fürsichtigen und wyßen herren <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="33" />meister und rath der statt st. Gallen</orgName>
+<lb n="34" />unßern innsonders hochehrenden gönstigen
+<lb n="35" />herren und fründtlichen lieben nachbaren.
+</p>
+        </body>
+    </text>
+</TEI>

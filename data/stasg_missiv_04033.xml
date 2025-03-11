@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4033</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 16. Mai 1650 vor dem Rat verlesen. Der Unterschied zwischen den Datierungen geht auf die unterschiedlichen Kalender (gregorianisch/julianisch) zurück. Zur Sache siehe auch den zur Transkription zurückgestellten Entwurf Nr. <ref target="stasg_missiv_04031.xml">4031</ref> sowie die Missive Nr. <ref target="stasg_missiv_04044.xml">4044</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4033_16279/16282</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Der Verwalter der Hauptmannschaft, Bürgermeister und Rat zu Konstanz berichten an Bürgermeister und Rat zu St. Gallen, dass der St. Galler Bürger und Glasergeselle Joachim Spengler auf seine und die Bitte mehrerer Konstanzer Bürger hin in das Konstanzer Bürgerrecht aufgenommen wurde. Zur Erlangung seines Geburtsbriefs und seines Erbanteils in St. Gallen hat Spengler seinem zukünftigen Schwager, dem Konstanzer Bürger und Raiteschreiber Johann Pfeil, die Vollmacht erteilt, um beides für ihn in St. Gallen abzuholen. Deshalb bitten Verwalter der Hauptmannschaft, Bürgermeister und Rat zu Konstanz um die Akzeptanz und die Unterstützung von Johannes Pfeil bei seinen Aufgaben in St. Gallen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-112">Bürgerrecht</term>
+<term ref="stadtasg-keywords-5">Erbe</term>
+<term ref="stadtasg-keywords-349">Heirat</term>
+<term ref="stadtasg-keywords-356">Geburt</term>
+<term ref="stadtasg-keywords-316">Obrigkeit</term>
+<term ref="stadtasg-keywords-551">Gut</term>
+<term ref="stadtasg-keywords-351">Handwerk</term>
+<term ref="stadtasg-keywords-177">Witwe</term>
+<term ref="stadtasg-keywords-373">Schreiber</term>
+<term ref="stadtasg-keywords-609">Schwager</term>
+<term ref="stadtasg-keywords-322">Geselle</term>
+<term ref="stadtasg-keywords-527">Vater</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-175">Sohn</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-587">Hauptmann, Bürgermeister und Rat zu Konstanz</orgName>                    <date>1650-05-23</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2024-09-16</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-02-05</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4033_16279.jpg" n="1" />
+<p>
+<lb n="1" />Unßer freündtnachparlich guetwillig dienst
+<lb n="2" />zuvor fürsichtig ehrsamb und weiße be
+<lb break="no" n="3" />sonders liebe freund und guete nachparn.
+<lb n="4" />Nachdeme wir deroselben burgers sohn
+<lb n="5" /><persName ref="stadtasg-actors-831">Joachim Spengler</persName>, glaser gesellen, auf sein
+<lb n="6" />undertheniges anhalten und für ihne in großer
+<lb n="7" />anzahl unßerer burger beschehnes vorpit
+<lb n="8" />in unßer burger recht auf- und angenommen,
+<lb n="9" />der hat unß gehorsamblich zuerkhennen geben,
+<lb n="10" />wie daß er zue volnzichung seiner schuldigkheit
+<lb n="11" />unßerm burger und raitheschreiber <persName ref="stadtasg-actors-832">Johann
+<lb n="12" />Pfeilen</persName>, alß seinem zuekhünfftigen schwager,
+<lb n="13" />auß bewögenden ursachen seinen vollkhomenen
+<lb n="14" />gewalt ertheilt habe, bey eüch umb ertheilung
+<lb n="15" />sein, <persName ref="stadtasg-actors-831">Spenglers</persName>, ehelicher geburths authentische
+<lb n="16" />urkhundt und dan auch die von seinem ge
+<lb break="no" n="17" />liebten vatter seelig angefallne vätterliche
+<lb n="18" />verlassenschafft gebührend zue sollicitiern
+<lb n="19" />und ein zueforderen. Alß ersuchen
+<lb n="20" />wir eüch, ihr wollen gedachtem <persName ref="stadtasg-actors-832">Pfeilen</persName> in seinem
+<lb n="21" />für und anbringen nit allein völligen glauben
+<lb n="22" />zuestellen, sondern auch demselben zue erhaltung
+<lb n="23" />sein, <persName ref="stadtasg-actors-831">Spenglers</persName>, ehelicher geburthsbriefen alß
+<lb n="24" />auch seines von seinem vatter seelig angebähr
+<lb break="no" n="25" />ende erbs portion würkhlich obrigkheitlichen
+<lb n="26" />verhelffen.
+<lb n="27" />Wie nun an eweren nachparlichen willfahr
+<pb facs="StadtASG_Missive_4033_16280.jpg" n="2" />
+<lb n="28" />unß ganz nit zweiflet, alß seind wir
+<lb n="29" />solche umb eüch und ewere angehörige
+<lb n="30" />zue begebenden fählen freündt nachpar
+<lb break="no" n="31" />lich zuebeschulden erbietig. Geben den
+<lb n="32" /><origDate when="1650-05-23">23 may 1650</origDate>.
+<lb n="33" /><orgName ref="stadtasg-actors-587" role="issuer">Verwalter der haubtman
+<lb break="no" n="34" />schafft, auch burgermaister
+<lb n="35" />und rath der statt
+<lb n="36" />Costannz</orgName>.
+<pb facs="StadtASG_Missive_4033_16281.jpg" n="3" />
+<pb facs="StadtASG_Missive_4033_16282.jpg" n="4" />
+<lb n="37" />Denn fürsichtigen ehrsamen und weisen
+<lb n="38" /><orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rath der statt
+<lb n="39" />sanct Gallen</orgName> unßeren besonders lieben
+<lb n="40" />freünd und gueten nachparen.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4056</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 16. September 1650 vor den Verordneten verlesen. Die zwei erwähnten Beilagen <ref target="stasg_missiv_04056-suppl-01.xml">1</ref> und <ref target="stasg_missiv_04056-suppl-02.xml">2</ref>sind vorhanden.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4056_16377/16388</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                     <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_4056_16377/16388</idno><altIdentifier type="filename"><idno>stasg_missiv_04056-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc>     <msDesc n="2" type="supplement"><msIdentifier><idno>StadtASG Missive_4056_16377/16388</idno><altIdentifier type="filename"><idno>stasg_missiv_04056-suppl-02.xml</idno></altIdentifier></msIdentifier></msDesc>
+                           </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich informieren Bürgermeister und Rat zu St. Gallen über ein Darlehensgesuch des Herrn Jacques Dupuys, Altkonsul zu Montauban, über 200 Dublonen, das er von evangelischen Städten und Orten begehrt. Mit dem Schreiben leiten die Zürcher zwei Beilagen zur Angelegenheit weiter und bitten um die Meinung der St. Galler in dieser Sache. Identische Schreiben wurden auch an andere Evangelische Städte und Orte der Eidgenossenschaft versandt.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-222">Darlehen</term>
+<term ref="stadtasg-keywords-470">Religionskrieg</term>
+<term ref="stadtasg-keywords-652">Hugenottenaufstand</term>
+<term ref="stadtasg-keywords-454">Kopie</term>
+<term ref="stadtasg-keywords-547">Evangelisch</term>
+<term ref="stadtasg-keywords-277">Herzog</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1650-09-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2024-09-16</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-11-12</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4056_16377.jpg" n="1" />
+<p>
+<lb n="1" />Unßer fründtlich willig dienst sambt was wir ehren liebs
+<lb n="2" />und guots vermögend zuovor fromb fürsichtig ehrsamb
+<lb n="3" />wyß insonders guott fründ und getrüw lieb eidtgnosßen.
+<lb n="4" />Uß der bylag werdent ir in mehrerm vernemmen, was maasßen
+<lb n="5" />herr <persName ref="stadtasg-actors-769">du Puy</persName>, alt consul zuo <placeName ref="stadtasg-places-262">Montauban</placeName>, unßerer evangelischen religion
+<lb n="6" />zuogethan, wellicher sich ein zyt lang anhero zuo <placeName ref="stadtasg-places-188">Venedig</placeName> ufgehalten
+<lb n="7" />und zemahlen noch alda befinden thuot, vor dißer zyth aber in währ
+<lb break="no" n="8" />enden religionstrublen in <placeName ref="stadtasg-places-131">Franckrych</placeName> eine charge getragen,
+<lb n="9" />alß wyland ihr durchlaucht herren hertzogn von Roan<note>Gemeint ist <persName ref="stadtasg-actors-770">Henri II. de Rohan</persName>.</note> seligen ange
+<lb break="no" n="10" />denckens patent, darvon auch ein copyg hierby gefuegt, inn
+<lb n="11" />mehrerm zuoerkennen gibt, von den sambtlichen evangelischen
+<lb n="12" />stetten<note>Gemeint sind die <orgName ref="stadtasg-actors-771">Evangelischen Orte der Eidgenossenschaft (ZH, BE, BS, SH)</orgName>.</note> ein anlyhung von zweyhundert duplonen in synen
+<lb n="13" />zuogstandnen großen nöthen begehren thuot. Darüber nun
+<lb n="14" />wollend üwer, unßerer getrüw lieb eidtgnossen und übrigen loblicher <orgName ref="stadtasg-actors-771">evangelischer
+<lb n="15" />stetten</orgName> (gegen wellichen ein glyche participation bestelt wirt)
+<lb n="16" />guottachten, will und meinung gern vernemmen und dem
+<lb break="no" n="17" />nach unß auch darnach zerichten wüsßen. Inn erwartung
+<lb n="18" />nun desßen thuond wir unß der obhalt gottes deß allmechtig
+<lb break="no" n="19" />en wol empfehlen. Datum den <origDate when="1650-09-12">12ten septembris anno 1650</origDate>.
+<lb n="20" /><orgName ref="stadtasg-actors-503" role="issuer">Burgermeister und rath
+<lb n="21" />der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_4056_16378.jpg" n="2" />
+<pb facs="StadtASG_Missive_4056_16387.jpg" n="3" />
+<pb facs="StadtASG_Missive_4056_16388.jpg" n="4" />
+<lb n="22" />Den frommen fürsichtigen ehr
+<lb break="no" n="23" />sammen wyßen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister
+<lb n="24" />und rath der statt sanct Gallen</orgName>
+<lb n="25" />unßeren insonders guotten fründen
+<lb n="26" />und getrüwen lieben eidt
+<lb break="no" n="27" />gnosßen.
+</p>
+        </body>
+    </text>
+</TEI>

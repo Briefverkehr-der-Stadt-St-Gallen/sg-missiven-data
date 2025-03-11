@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4000</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch den Entwurf Nr. <ref target="stasg_missiv_04007.xml">4007</ref>, mit der Antwort von St. Gallen.</p></note></notesStmt>  
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4000_16161/16164</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Chur bitten Bürgermeister und Rat zu St. Gallen um Vermittlung in einem Konflikt um einen Ehevertrag zwischen Emerita Cleric von Chur samt ihrer Verwandtschaft einerseits und Georg Spindler, Bürger von St. Gallen, alt Säckelmeister, andererseits. Da Georg Spindler mit seiner Handelsgesellschaft in finanziellen Schwierigkeiten ist und der Verwandtschaft seiner Frau nach Chur berichtet hatte, dass er unter den gegebenen Umständen den bei der Heirat geschlossenen Ehevertrag nicht mehr einhalten könne und er schon in hohem Alter sei, befürchtet die weibliche Verwandtschaft den Verlust des Heiratsguts. Für die Versorgungssicherheit der Frau und der Kinder bitten Johann Tscharner, Bürgermeister von Chur, sowie Martin Cleric, Stadtrichter von Chur, im Namen ihrer Verwandten Emerita Cleric um Hilfe, unter anderem um die Bestellung eines Beistandes für die Frau und die Kinder.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+   <term ref="stadtasg-keywords-255">Ehevertrag</term>
+<term ref="stadtasg-keywords-297">Ehefrau</term>
+<term ref="stadtasg-keywords-612">Schwester</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-349">Heirat</term>
+<term ref="stadtasg-keywords-5">Erbe</term>
+<term ref="stadtasg-keywords-296">Stadtgericht</term>
+<term ref="stadtasg-keywords-497">Säckelmeister</term>
+<term ref="stadtasg-keywords-269">Kind</term>
+<term ref="stadtasg-keywords-174">Rechnung</term>
+<term ref="stadtasg-keywords-270">Vormundschaft</term>
+<term ref="stadtasg-keywords-495">Hab und Gut</term>
+<term ref="stadtasg-keywords-204">Richter</term>
+<term ref="stadtasg-keywords-175">Sohn</term>
+<term ref="stadtasg-keywords-490">Gläubiger</term>
+<term ref="stadtasg-keywords-263">Vogt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-518">Bürgermeister und Rat zu Chur</orgName>                    <date>1650-02-11</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-01-07</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4000_16161.jpg" n="1" />
+<p>
+<lb n="1" />Unser freundtlich willig dienst und gruß sambt was wir
+<lb n="2" />ehren liebes und gutes vermögend anvorn fromm fürsich
+<lb break="no" n="3" />tige weise insonders gute freund getrewe liebe eydt- und
+<lb n="4" />pundtsgnossen etc.
+<lb n="5" />Demnach fügent wir euch unsern getruwen lieben eydt- und pundtsgnossen
+<lb n="6" />hiermit freundlichen zuvernehmen, wie daß für uns in gesambth
+<lb n="7" />raht erschienen sind ihr weisheit herr <persName ref="stadtasg-actors-809">Johann Tscharner</persName>, unser lieber
+<lb n="8" />ambts burgermeister, sambt seinem schwager herr <persName ref="stadtasg-actors-810">Martin Clerig</persName>,
+<lb n="9" />derzeit stadtrichter alhier, an statt und im namen übriger
+<lb n="10" />ehrenverwandth, fürbringende, was massen vor etwas ab
+<lb break="no" n="11" />geflossener jahren ihr geliebte gschwey, schwester und baß
+<lb n="12" /><persName ref="stadtasg-actors-811">Emerita Clerickin</persName> mit alten herren seckelmeister <persName ref="stadtasg-actors-812">Georg
+<lb n="13" />Spindleren</persName> von <placeName ref="stadtasg-places-38">sanct Gallen</placeName> sich ehelichen verpflichtet und
+<lb n="14" />hieruf mit consens beiderseits ehrenverwandth ein ordenlicher
+<lb n="15" />heyrathsbrief ufgericht worden, da man sich keines an
+<lb break="no" n="16" />deren zu ihme versehen, es würde in allweg bei demselbigen
+<lb n="17" />zu bewenden haben. Weiln aber durch sonderbahre un
+<lb break="no" n="18" />fäll er, herr <persName ref="stadtasg-actors-812">Spindler</persName>, sambt mit interessirten, betreffende
+<lb n="19" />ihre handlung in hinderschlag kommen, hab er zu verstehen geben,
+<lb n="20" />daß es in seinem gwalt und vermögen nit mehr stehe, selbigen
+<lb n="21" />heyrahtsbrief zu manuteniren<note>manutenieren = eine Rechtsstellung schützen, beibehalten.</note>, warüber er, herr <persName ref="stadtasg-actors-812">Spindler</persName>,
+<lb n="22" />vieler underschidenlicher malen von ihnen, verwandten, durch
+<lb n="23" />schreiben ersucht worden, er solle bei so beschaffenen sachen ufs
+<lb n="24" />wenigst eine authentische schrifftliche rechnung abstatten,
+<lb n="25" />welcher gestalten er gemelter frawen ihme zugebrachtes hab
+<lb n="26" />und gutt angelegt und verwendet habe, daß in betrachtung
+<lb n="27" />seines hohen alters, auch daß er von vorigen ehen underschie
+<lb break="no" n="28" />denliche kinder und kindeskinder hab, wie auch daß in dieser
+<lb n="29" />ehe vier kinder, so noch unerzogen bei gemelter frauwen
+<pb facs="StadtASG_Missive_4000_16162.jpg" n="2" />
+<lb n="30" />und ihme erzeuget, zusambt einem sohn, so sie, fraw, in voriger ehe er
+<lb break="no" n="31" />zeüget, vorhanden, damit, wo gott über ihn gebiethen solte, und
+<lb n="32" />die creditoren zu ihrer bezahlung gelangen werden, gemelte fraw
+<lb n="33" />oder ihre erben versicherung und wissenschafft haben mögen, daß ihrig,
+<lb n="34" />so viel verhanden, krafft heyrahtsbriefes zu einpfahen wissen. Wa
+<lb break="no" n="35" />rüber er, herr <persName ref="stadtasg-actors-812">Spindler</persName>, zwarn ihnen mit etwas antwort begegnet seige,
+<lb n="36" />dessen aber sy sich nit ersettigen köntent. Derantwegen uns trugenlich
+<lb n="37" />ersucht, wir wolten dieß recommendation schreiben an euch, unsere getruwen lieben
+<lb n="38" />eydt- und pundtsgnossen, ihretwegen abgehen lassen etc.
+<lb n="39" />Weiln wir denn ihr begehren nit unzimblich, sondern aller gebühr gemäß befunden,
+<lb n="40" />langt derowegen an euch unsere getruwen lieben eydt- und pundtsgnoßen freundtliches
+<lb n="41" />ansuchen, sy wellent von oberkeit wegen gedachte fraw <persName ref="stadtasg-actors-811">Emerita</persName>
+<lb n="42" />sambt dero kindern ihnen lassen anbefohlen sein und ihne, herren alt seckel
+<lb break="no" n="43" />meister <persName ref="stadtasg-actors-812">Spyndler</persName>, dahin halten, daß er der gebühr gmäß ihren billichen
+<lb n="44" />begehren nach sich hierzu bequeme. Und weiln es die nottwendigkeit er
+<lb break="no" n="45" />forderet, daß die fraw und kinder mit einem ordenlichen vogt ver
+<lb break="no" n="46" />sehen werde, wellent sy gebetten sein, ihnen denselbigen zu vergunnen
+<lb n="47" />und geben, damit sy, fraw und kinder, bei so beschaffener sachen nicht
+<lb n="48" />verkürzet werdent, weiln man berichtet, daß andere seine vorige kinder
+<lb n="49" />mit schönen haab und guott ußgesteüret worden, auch ihnen zu dem jenigen,
+<lb n="50" />was ihnen von gott und billigkeit gebührt, jederzeit behülfflich, und diß
+<lb n="51" />unser fürschreiben ihnen lassen ersprießlich sein etc. Solches gegen euch unsere
+<lb n="52" />getruwen lieben eydt- und pundtsgnossen in dergleichen und andern begebenheiten wie
+<lb break="no" n="53" />derumb zuverschulden werden wir nit ermanglen. Thun hiermit dieselbigen,
+<lb n="54" />neben wünschung glücklicher regierung, göttlicher obhalt trewlichen
+<lb n="55" />befehlen etc. Geben den <origDate when="1650-02-11">11ten february anno 1650</origDate> etc.
+<lb n="56" /><orgName ref="stadtasg-actors-518" role="issuer">Burgermeister und raht der stadt Chur</orgName>.
+<pb facs="StadtASG_Missive_4000_16163.jpg" n="3" />
+<pb facs="StadtASG_Missive_4000_16164.jpg" n="4" />
+<lb n="57" />Denen frommen fürsichtigen ehr
+<lb break="no" n="58" />samen und weisen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister
+<lb n="59" />und raht loblicher stadt st. Gallen</orgName>
+<lb n="60" />unseren insonders guten freünden
+<lb n="61" />und getrewen lieben eydt- und
+<lb n="62" />pundtsgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

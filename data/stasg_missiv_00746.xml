@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 746</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00730.xml">730</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_746_1907/1910</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Georg Tschudi, Abt des Chorherrenstifts zu Kreuzlingen, bittet auch im Namen von Konstanz Bürgermeister und Rat zu St. Gallen in den Konflikt mit den Gebrüdern Felix und Jakob Grimmel mit der Konfiskation von Leinwand und der Versteigerungsandrohung einzugreifen. Es wäre am besten, wenn ihre Bürger zur Ruhe kämen und sich für eine gütliche Lösung entscheiden könnten.</p>         </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-340">Rechtsstreit</term>
+<term ref="stadtasg-keywords-258">Leinwand</term>
+<term ref="stadtasg-keywords-66">Beschlagnahmnung</term>
+<term ref="stadtasg-keywords-24">Klage</term>
+<term ref="stadtasg-keywords-212">Reichskammergericht</term>
+<term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-405">Reich</term>
+<term ref="stadtasg-keywords-272">Gant</term>
+<term ref="stadtasg-keywords-201">Abt</term>
+<term ref="stadtasg-keywords-58">Drohung</term>
+<term ref="stadtasg-keywords-164">Tuch</term>
+               </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-755">Georg Tschudi</persName>                    <date>1555-08-19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName/>
+                <date>2021-04-12</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-10-07</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_746_1907.JPG" n="1"/>
+<p>
+<lb n="1"/><persName ref="stadtasg-actors-755" role="issuer">Georg</persName> von gottes genaden abte zu
+<lb n="2"/><placeName ref="stadtasg-places-255">Crüzlingen</placeName> etc.
+<lb n="3"/>Unser früntlich dienst zuvor vesten fürsichtigen weisen lieben und
+<lb n="4"/>guten fründ. Als sich etwas irtung<note>irtung = Irrtum, Hindernis.</note> zwüschen <persName ref="stadtasg-actors-792">Felixen</persName> und <persName ref="stadtasg-actors-793">Jacoben</persName>
+<lb n="5"/>den Grumeln<note>Gemeint sind im Weiteren nicht nur die Privatpersonen, sondern die <orgName ref="stadtasg-actors-794">Handelsgesellschaft Felix und Jakob Grimmel</orgName>.</note>, och uwern burgern <persName ref="stadtasg-actors-795">Hainrichen Locher</persName> und
+<lb n="6"/>sinen mitverwandten zugetragen und gedachte <orgName ref="stadtasg-actors-794">Grumel</orgName> in
+<lb n="7"/>derselben sach für das kaiserlich chamergericht geappelliert,
+<lb n="8"/>alda die sach noch unentschiden schwebet, aber mitler wil
+<lb n="9"/>uwere burgere den <orgName ref="stadtasg-actors-794">Grumeln</orgName> ir linwat verhefft, och ver
+<lb break="no" n="10"/>habens sin söllen, uff <date when="1555-08-26">kunfftig montag</date> inen die zuverganten,
+<lb n="11"/>wiewol nun solchs inen, wie wir bericht werden, von unsern
+<lb n="12"/>hern den gmainen aidgnossen nachgeben, langt unß doch
+<lb n="13"/>daneben, das an ermeltem chamergericht iezo nach <date when="1555-09-01">Egidii</date>
+<lb n="14"/>erkantnus ergen, und also ungezwiffelt in contumatiam<note>contumacia = Kontumaz (lat. contumacia = Eigensinn, Trotz) ist in der Rechtssprache der Ungehorsam gegen eine gerichtliche Ladung bzw. der Verstoss gegen eine Anwesenheitspflicht.</note>
+<lb n="15"/>procediert, och ermelten <orgName ref="stadtasg-actors-794">Grumeln</orgName> mandata und executoriales<note>executoriales = Vollstreckungsbefehl.</note>
+<lb n="16"/>nach chamergerichts gebruch gegen uwern burgen erkent
+<lb n="17"/>werden. Wo nun solhs in das werck kumen und die
+<lb n="18"/><orgName ref="stadtasg-actors-794">Grumel</orgName> derselben uwerer burger guter im rich och arrestieren
+<lb n="19"/>und verlegen etc., darus nichts anders dann allerhand weit
+<lb break="no" n="20"/>loffigkait und unruw, och costen ervolgen, do doch die <orgName ref="stadtasg-actors-794">Grumel</orgName>
+<lb n="21"/>nichts, dann was inen zugelassen, verhandelten. Welhs
+<lb n="22"/>och unsere nachburen von <placeName ref="stadtasg-places-7">Costanz</placeName> erwegen, sampt der
+<lb n="23"/><orgName ref="stadtasg-actors-794">Grumel</orgName> fründtschafft und derhalben och damit zwüschen
+<lb n="24"/>uch und inen gute nachburschafft erhalten, uns ersucht,
+<pb facs="StadtASG_Missive_746_1908.JPG" n="2"/>
+<lb n="25"/>wir wolten in bedenckung dessen sovil mit uch handlen,
+<lb n="26"/>das die gant solang angestelt, biß das das recht am chamergericht
+<lb n="27"/>ußgefürt oder gemaine aidgnossen durch die von <placeName ref="stadtasg-places-7">Costanz</placeName>
+<lb n="28"/>zu tagen diser handlung nach notturfft mechten bericht werden
+<lb n="29"/>oder aber das die sachen in gute hingelegt, syen sy in hoffnung,
+<lb n="30"/>die <orgName ref="stadtasg-actors-794">Grumel</orgName> mit hilff irer fründtschafft dahin zebringen,
+<lb n="31"/>das sy die gütlichait nit verwegern sollen, es mechten
+<lb n="32"/>och die von <placeName ref="stadtasg-places-7">Costanz</placeName> und och der <orgName ref="stadtasg-actors-794">Grumel</orgName> fründschafft,
+<lb n="33"/>so uns glichwol etwas verwant, witherung zuverhüten
+<lb n="34"/>gern sehen, das die sachen verglichen würden durch uns. Und
+<lb n="35"/>so wir dann uß diser sachen, so die also irn fürgang haben,
+<lb n="36"/>anderst nichts hoffen dann unwillen zwischen den fründen
+<lb n="37"/>och grosser cost und schwere witloffigkait hinderlich, do der
+<lb n="38"/>ain Grumel<note>Gemeint ist <persName ref="stadtasg-actors-793">Jakob Grimmel</persName>.</note> im rich und zu <placeName ref="stadtasg-places-221">Memmingen</placeName> gesessen, so hetten
+<lb n="39"/>wir warlich, wie wir dann solchs von andern lüten vernemen,
+<lb n="40"/>für das best, ir hetten uwere burger dahin gewisen, das sy
+<lb n="41"/>zu ruwen kemen und die sachen gütlichen liessen vertragen.
+<lb n="42"/>Zu welchem wir, so es den uwern gefellig, gern an müh
+<lb n="43"/>und arbait nichts erwinden, sunder was zu guter nachburschafft
+<lb n="44"/>und ruw dienen möchte, fürnemen wolten. Wie es uns
+<lb n="45"/>dann och uß allerlay ursachen für das best ansicht,
+<lb n="46"/>wolten wir uch guter mainung neben erbietung
+<lb n="47"/>unser gutwilligen diensten nit verhalten. Den <origDate when="1555-08-19">19 augusti
+<lb n="48"/>anno 1555</origDate>.
+<pb facs="StadtASG_Missive_746_1909.JPG" n="3"/>
+<pb facs="StadtASG_Missive_746_1910.JPG" n="4"/>
+<lb n="49"/>Den vesten fürsichtigen und weisen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="50"/>maister und rate der statt zu sannt Gallen</orgName>
+<lb n="51"/>unsern besundren lieben und guten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4070</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4070_16447/16450</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Ravensburg berichten Bürgermeister und Rat zu St. Gallen von ihrem Einwohner, Johannes Schlappritzi, der seinem Schwager, Johannes Högger, Bürger und Krämer zu St. Gallen, 450 Florin schulde. Schlaprizi habe Högger eine Schuldanerkennung ausgestellt. Nachdem im Herbst Zahlungen fällig geworden seien, habe Högger diese bei Schlappritzi eingefordert, der aber nicht in der Lage dazu sei, zumal er seinerseits offene Forderungen gegenüber Dritten habe. Solange diese Forderungen ihm gegenüber nicht beglichen seien, könne er Högger nichts bezahlen. Deshalb habe er Bürgermeister und Rat zu Ravensburg um Unterstützung zu seinen Gunsten bei Bürgermeister zu Rat zu St. Gallen gebeten. Schlappritzi bitte Högger um Geduld. Bürgermeister und Rat zu Ravensburg schliessen sich dem Ersuchen an, zumal Schlappritzi die Forderung von Högger weder vorsätzlich noch mutwillig noch nicht beglichen habe.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-583">Krämer</term>
+<term ref="stadtasg-keywords-609">Schwager</term>
+<term ref="stadtasg-keywords-561">Obligation</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-109">Haus</term>
+<term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-606">Satisfaktion</term>
+<term ref="stadtasg-keywords-24">Klage</term>
+<term ref="stadtasg-keywords-248">Einwohner</term>
+<term ref="stadtasg-keywords-126">Reichsstadt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-58">Bürgermeister und Rat zu Ravensburg</orgName>                    <date>1650-12-16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>WH</persName>
+                <date>2025-01-08</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-02-18</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4070_16447.jpg" n="1" />
+<p>
+<lb n="1" />Unser freündtlich willig dienst und grueß zuevor er
+<lb break="no" n="2" />same und weise besonders liebe herren unnd
+<lb n="3" />guete freündt etc.
+<lb n="4" />Unß hat unser lieber beiwohner herr <persName ref="stadtasg-actors-854">Johann 
+<lb n="5" />Schlapparitzi</persName> klagend berichtet, waß massen
+<lb n="6" />der selbe seinem herren lieben schwager herren
+<lb n="7" /><persName ref="stadtasg-actors-855">Johannes Höggern</persName>, burgern und kramern zue <placeName ref="stadtasg-places-38">st.
+<lb n="8" />Gallen</placeName> bei 450 <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> verrechnetes gelts so wohl
+<lb n="9" />für sich selbsten als auch für andere herren und 
+<lb n="10" />freündt auffrecht, redlich liquidiert und be
+<lb break="no" n="11" />kandtlich schuldig worden und noch seye, warumben
+<lb n="12" />dann bemelter herr <persName ref="stadtasg-actors-854">Schlapparitz</persName> gedachtem
+<lb n="13" />seinem herren schwager eine ordenliche gnuegsame
+<lb n="14" />obligation und schuld bekantnuß, mit welcher
+<lb n="15" />gerüehrter sein herr schwager wol zue friden ge
+<lb break="no" n="16" />wesen etc., zue gestelt und behändigt etc.
+<lb n="17" />Demnach nun solche gelter beraiths dergestalt ver
+<lb break="no" n="18" />fallen, daß er, herr <persName ref="stadtasg-actors-854">Schlapparitz</persName>, mehr gedachtem seinem
+<lb n="19" />herren schwager verschinen herbst solche hetten be
+<lb break="no" n="20" />zahlen solten, deßwegen viel bemelter sein herr
+<pb facs="StadtASG_Missive_4070_16448.jpg" n="2" />
+<lb n="21" />schwager solche bezahlung alles ernsts und mit ernst
+<lb break="no" n="22" />licher harter betrohung fordert und begehrt, so aber
+<lb n="23" />ihme, herren <persName ref="stadtasg-actors-854">Schlapparitzen</persName> (alß welcher sich erst
+<lb n="24" />mit grossem uncosten in sein alhieiges haußweßen
+<lb n="25" />ein gerüstet, dahero ihme so wohl deßhalben alß
+<lb n="26" />auch zue eintreibung seiner vielfältigen nambhaften
+<lb n="27" />schuld praetensionen angestelter statt und landghtlicher
+<lb n="28" />processen und rechtfertigungen ein ansehlich stück
+<lb n="29" />gelts auß handen gegangen etc.) der zeit mit parem
+<lb n="30" />schutz ab zue statten und zue entrichten schwer, zue
+<lb n="31" />mahlen auch unmöglich falle, sintemahlen er, herr
+<lb n="32" /><persName ref="stadtasg-actors-854">Schlapparitz</persName>, vor ein bringung seiner gegen schulden
+<lb n="33" />keine pare mittel zue ergreiffen wisse. So hat
+<lb n="34" />er unß umb dise unsere wohl meinende in
+<lb break="no" n="35" />tercession und für bütt gehorsamblich angelanget, die
+<lb n="36" />wir ihme bei solcher beschaffenheit nit abschlagen und
+<lb n="37" />verweigern wollen.
+<lb n="38" />Dieweil dann die sach oberzelter massen beschaffen unnd 
+<lb n="39" />unß wohl bewußt ist, daß er, herr <persName ref="stadtasg-actors-854">Schlapparitz</persName>, ein
+<lb n="40" />ansehlihs alhie und anderst wo zue praetendieren
+<lb n="41" />auch zue fürderlichen bezahlung ein und anderer
+<pb facs="StadtASG_Missive_4070_16449.jpg" n="3" />
+<lb n="42" />post guete vertrostung und hoffnung hat, auch deß
+<lb n="43" />ehrlichen anerbietens ist, seinem herren schwagern
+<lb n="44" />uff solchen fall fürderlichste möglichste satisfaction
+<lb n="45" />zue thun und desswegen ihne umb gedult bitet,
+<lb n="46" />dann ihme wol bewust, dz er, <persName ref="stadtasg-actors-854">Schlapparizi</persName>, an
+<lb n="47" />seinem verkaufften hauß zue <placeName ref="stadtasg-places-38">st. Gallen</placeName> 1500 <choice><abbr>fl.</abbr><expan>Gulden</expan></choice>
+<lb n="48" />verlieren müessen, sonsten diese summa schon bezahlt were.
+<lb n="49" />Alß ersuechen eure ersame weisheit wir hiemit dienst freündt
+<lb break="no" n="50" />lich, die selbe geruehen, ihren verburgerten in er
+<lb break="no" n="51" />wegung obiger motiven und daß die nit laistung
+<lb n="52" />versprochner bezahlung auß keinem vorsatz noch mueth
+<lb break="no" n="53" />willen verbleibet etc., dahin zu disponieren, dz derselbe
+<lb n="54" />sich noch eine zeit gedulde und die angetrohete unfründt
+<lb break="no" n="55" />liche und ohn schwägerliche mittel suspendiere und ein
+<lb break="no" n="56" />stellen. Wie nun herr <persName ref="stadtasg-actors-854">Schlapparitz</persName> solches für einen sonder
+<lb break="no" n="57" />bahren favor erkhennen und eüßerst möglich zue verdienen
+<lb n="58" />sich befleissen wirdt, also seind wir auch es umb euer
+<lb n="59" />ersame weisheit in der gleichen und andern fällen zue beschulden
+<lb n="60" />erbietig. Gott mit unß. Datum <origDate when="1650-12-16">16. decembris anno
+<lb n="61" />1650</origDate>.
+<lb n="62" /><orgName ref="stadtasg-actors-58" role="issuer">Burgermeister und rahtt
+<lb n="63" />deß heiligen reichs statt Ravenspurg</orgName>.
+<pb facs="StadtASG_Missive_4070_16450.jpg" n="4" />
+<lb n="64" />Denen ersamben und weysen <orgName ref="stadtasg-actors-148" role="recipient">burgermeistern 
+<lb n="65" />und rhatt loblicher statt st. Gallen</orgName> unsern beson
+<lb break="no" n="66" />dern lieben herren und gueten freunden.
+</p>
+        </body>
+    </text>
+</TEI>

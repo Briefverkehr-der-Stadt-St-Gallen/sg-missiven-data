@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4019</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die Missive hat zwei Datierungen nach altem und neuem Kalender. Da die Stadt St. Gallen bis 1724 am julianischen Kalender festhielt, gilt das erste Datum. Laut Rückvermerk wurde die Missive am 21. März 1650 vor dem Rat verlesen. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_04020.xml">4020</ref> und <ref target="stasg_missiv_04023.xml">4023</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4019_16231/16234</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Johann Wilhelm, Graf zu Königsegg, bittet Bürgermeister und Rat zu St. Gallen um ein weiteres Darlehen, damit er seinen letzten Teil der aus dem Westfälischen Frieden resultierenden schwedischen Satisfaktionsgeldern bezahlen kann. Sein Vetter, Graf Hugo von Königsegg zu Immenstadt, bürgt mit ihm gemeinsam für die Rückzahlung des Darlehens und die Begleichung der Zinsen. Als Boten wurden Sebastian Bosch aus Hoßkirch, Stabhalter und Gerichtsammann zu Königsegg, und Martin Hornstein aus dem Gericht Königsegg, gesandt. Sie sollen weiteren mündlichen Bericht über die Notwendigkeit eines neuen Darlehens erstatten und die Zinsen aus dem letztjährigen Darlehen der Stadt St. Gallen von 600 Gulden begleichen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-222">Darlehen</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-658">Westfälischer Friede</term>
+<term ref="stadtasg-keywords-606">Satisfaktion</term>
+<term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-405">Reich</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-254">Söldner</term>
+<term ref="stadtasg-keywords-123">Untertan</term>
+<term ref="stadtasg-keywords-83">Frieden</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-10">Zins</term>
+<term ref="stadtasg-keywords-93">Mündlich</term>
+<term ref="stadtasg-keywords-278">Graf</term>
+<term ref="stadtasg-keywords-384">Grafschaft</term>
+<term ref="stadtasg-keywords-386">Vetter</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-659">Einquartierung</term>
+<term ref="stadtasg-keywords-660">Halsgerichtsordnung</term>
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-806">Johann Wilhelm von Königsegg</persName><placeName ref="stadtasg-places-275">Aulendorf</placeName>                    <date>1650-03-18</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-12-10</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4019_16231.jpg" n="1" />
+<p>
+<lb n="1" />Wohledle gestrenge ehrenveste fürsichtig wohlweyse unnd
+<lb n="2" />frombe insonders liebe heren nachparen und hochgeehrte
+<lb n="3" />freindt.
+<lb n="4" />Meinen geehrten heren freindt und nachparen ist auß dem in 
+<lb n="5" />dem keyserlichen reich publicirten und allen weltkhundigen <placeName ref="stadtasg-places-276">Oßna
+<lb break="no" n="6" />bruckh</placeName> und <placeName ref="stadtasg-places-277">Münsterischen</placeName> fridens instrumenten notorie be
+<lb break="no" n="7" />khandt, wie vil millionen man khöniglicher mayestät und reiche
+<lb n="8" /><placeName ref="stadtasg-places-248">Schweeden</placeName> zue abzahlung dero soldatesca und militia zue
+<lb n="9" />underschidlichen terminen und fristen zuentrichten sich obligirt
+<lb n="10" />und versprochen. Wan nur gleichwohl underschidliche
+<lb n="11" />ständt, wie nit weniger ich, an den dreyen ersten terminen
+<lb n="12" />daß mehrere erlegt, zue richtigmachung deß rests aber
+<lb n="13" />nach so langem behartem contribuieren die gelt mittel
+<lb n="14" />nit mehr vorhanden, dahero ich und meine underthanen
+<lb n="15" />auf ein ergibige geltaufnahm von drey biß in vier
+<lb break="no" n="16" />tausent gulden nothwendiglich gedenkhen miessen, wollen
+<lb n="17" />wür, anderster deß von mäniglichen so hoch desiderirten
+<lb n="18" />lieben fridens auch würckhlich geniessen, und unß der noch
+<lb n="19" />beharrlichen, hochbeschwerlichen, costbarlichen einquartierungen
+<lb n="20" />und verderblichen militarischen, auf dem halßligenten
+<lb n="21" />execution<note>Halsgerichtsordnung = Strafgericht- und prozessordnung.</note> erledigen, also hab ich vorweisere und bringere,
+<lb n="22" />diß meinen stabhalter und gerichts amman in meiner graff
+<lb break="no" n="23" />schafft <placeName ref="stadtasg-places-278">Khönigsegg</placeName> und lieben getreüen <persName ref="stadtasg-actors-807">Sebastian Bosch</persName> von 
+<lb n="24" /><placeName ref="stadtasg-places-279">Hoßkhürch</placeName> und <persName ref="stadtasg-actors-808">Martin Hornstein</persName>, deß gerichts daselbsten,
+<lb n="25" />zue meinen vilgeehrten heren hiemit widerumben abgeordnet,
+<lb n="26" />und, nach entrichtung deß schier gefallenten zinses von be
+<lb break="no" n="27" />raits vor einem jahr vor und angesezten 600 <choice><abbr>fl.</abbr><expan>Gulden</expan></choice>, noch umb
+<lb n="28" />berüerte anlehenschafft gegen genuegsamber versicherung
+<lb n="29" />anzuemelden, und inen die höchst bedürfftig- und beschaffen
+<pb facs="StadtASG_Missive_4019_16232.jpg" n="2" />
+<lb break="no" n="30" />heit mehrers mundlich vorzuetragen, instruirt und befelcht,
+<lb n="31" />einständigst pittent, sye nicht allein in solch irem anbringen
+<lb n="32" />guethwillig anzuehören und genuegsamben glauben zuegeben,
+<lb n="33" />sonder sich also mit einem solchen anlehenschafft guetherzig und
+<lb n="34" />nachparlich zuerzaigen, wie zue denselbigen mein und den
+<lb n="35" />meinigen höchstfreindliches vertrauwen und entliche zueflucht
+<lb n="36" />gesezt. Mit beständigem anerpieten, wa ich und meine under
+<lb break="no" n="37" />thanen solche unß erweisente gueththat und hochverbundlichen
+<lb n="38" />favor anderwerts erwidern khönden, solches nicht zue under
+<lb break="no" n="39" />lassen. Und waß wür unß hingegen obligirn und versprechen
+<lb n="40" />werden, versicherlichen zuehalten, wie dan der hoch unnd
+<lb n="41" />wohlgeboren herr graff <persName ref="stadtasg-actors-787">Haug von Khönigsegg etc.</persName> zue <placeName ref="stadtasg-places-271">Immen
+<lb break="no" n="42" />statt</placeName> alß mein hochgeehrter herr vetter, wie sie auß dessen
+<lb n="43" />schreiben vernehmen werden, sich mit und neben mir zue obligirn
+<lb n="44" />erbietig. Damit unß allerseits göttlichen gnadenschuz wohl
+<lb n="45" />ergebent. <placeName ref="stadtasg-places-275">Aullendorff</placeName>, den <origDate when="1650-03-18">18</origDate> / <date when="1650-03-28">28 marty anno 1650</date>.
+<lb n="46" />Meinen hochgeehrten heren
+<lb n="47" />freindt und guethwilliger
+<lb n="48" /><persName ref="stadtasg-actors-806" role="issuer">Johan Wilhelm, grave zue Khönigsegg</persName>.
+<pb facs="StadtASG_Missive_4019_16233.jpg" n="3" />
+<pb facs="StadtASG_Missive_4019_16234.jpg" n="4" />
+<lb n="49" />Denen wohledlen gestrengen ehrenvesten fürsich
+<lb break="no" n="50" />tigen wohlweisen und fromben heren nomen nominandum <orgName ref="stadtasg-actors-148" role="recipient">bur
+<lb break="no" n="51" />germaister und rath der loblichen statt zue st.
+<lb n="52" />Gallen</orgName> etc. meinen insonders lieben heren nachparen
+<lb n="53" />und hochgeehrten freinden.
+<lb n="54" /><placeName ref="stadtasg-places-38">Sanct Gallen</placeName>.
+</p>
+        </body>
+    </text>
+</TEI>

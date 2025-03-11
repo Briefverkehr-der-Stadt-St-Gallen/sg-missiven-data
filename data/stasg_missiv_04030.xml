@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4030</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 9. Mai 1650 vor dem Rat verlesen. Die erwähnte <ref target="stasg_missiv_04030-suppl-01.xml">Beilage</ref> ist vorhanden. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_04005.xml">4005</ref>, <ref target="stasg_missiv_04005-suppl-01.xml">4005 Beilage 1</ref> und <ref target="stasg_missiv_04018.xml">4018</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4030_16269/16272</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                                <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_4030_16269/16272</idno><altIdentifier type="filename"><idno>stasg_missiv_04030-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc>  
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich übersenden Bürgermeister und Rat zu St. Gallen in der vorhandenen Beilage ein Antwortschreiben vom Kurfürsten Karl Ludwig von der Pfalz betreffend die Übersendung von 6000 Reichstalern durch die fünf evangelischen Orte. Auch den übrigen evangelischen Orten seien von Zürich Kopien der kurfürstlichen Antwort übersandt worden.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-464">Pfalzgraf</term>
+<term ref="stadtasg-keywords-348">Kurfürst</term>
+<term ref="stadtasg-keywords-547">Evangelisch</term>
+<term ref="stadtasg-keywords-524">Reichstaler</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1650-05-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-11-25</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4030_16269.jpg" n="1" />
+<p>
+<lb n="1" />Unßer fründtlich willig dientst sambt was wir ehren liebs und
+<lb n="2" />guots vermögent zuovor fromb fürsichtig ehrsamb wyß
+<lb n="3" />insonders guott fründ und getrüw lieb eidtgnossen.
+<lb n="4" />Was von deß pfaltzgraff <persName ref="stadtasg-actors-788">Carl Ludwigen</persName>, churfürstlicher durchlaucht, über das
+<lb n="5" />inn unßer der 5 evangelischen stetten<note>Gemeint sind die <orgName ref="stadtasg-actors-771">evangelischen Orte der Eidgenossenschaft (ZH, BS, SH, BE, SG)</orgName>.</note> abgäben antwort schryben und
+<lb n="6" />die bezalung der 6000 rychstaleren hiewider antwortlich yn
+<lb break="no" n="7" />kommen, das ist uß der bylag zuovernemmen, so üch, unseren gnädigen lieben eidtgnossen,
+<lb n="8" />wie wir gegen den übrigen loblichen stetten ouch beschicht, wol
+<lb break="no" n="9" />meinend communicieren und darby der bewahrung deß all
+<lb break="no" n="10" />mechtigen unß samptlich wol empfellen wollen. Datum den <origDate when="1650-05-04">
+<lb n="11" />4ten may anno 1650</origDate>.
+<lb n="12" /><orgName ref="stadtasg-actors-503" role="issuer">Burgermeister und rath
+<lb n="13" />der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_4030_16270.jpg" n="2" />
+<pb facs="StadtASG_Missive_4030_16271.jpg" n="3" />
+<pb facs="StadtASG_Missive_4030_16272.jpg" n="4" />
+<lb n="14" />Den frommen fürsichtigen ehr
+<lb break="no" n="15" />sammen wyßen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="16" />und rath der statt st. Gallen</orgName>
+<lb n="17" />unßeren insonders guotten fründ
+<lb break="no" n="18" />en und getrüwen lieben eidt
+<lb break="no" n="19" />gnossen.
+</p>
+        </body>
+    </text>
+</TEI>

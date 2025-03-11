@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4039</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Entwurf. Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4039_16307/16310</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen bitten Johann Rudolf Reding von Schwyz, Landvogt zu Lichtensteig, um Vermittlung in einer Erbteilung zwischen Elisabeth Billwiler, Ehefrau von Jakob Locher, und deren Schwester Dorothea Billwiler nach dem Tod der Mutter Rosina Habmann. Der Schwester Dorothea Billwiler stehen 200 Gulden Heiratsgut zu, die aus der Erbmasse genommen werden sollen, allerdings keine Zinsen daraus. Nach Abzug der 200 Gulden soll das mütterliche Gut je zur Hälfte den beiden Schwestern zufallen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-281">Entwurf</term>
+<term ref="stadtasg-keywords-5">Erbe</term>
+<term ref="stadtasg-keywords-612">Schwester</term>
+<term ref="stadtasg-keywords-585">Mutter</term>
+<term ref="stadtasg-keywords-297">Ehefrau</term>
+<term ref="stadtasg-keywords-10">Zins</term>
+<term ref="stadtasg-keywords-3">Erbteilung</term>
+<term ref="stadtasg-keywords-82">Tod</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-319">Landvogt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                    <date>1650-06-27</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-853">Johann Rudolf Reding von Schwyz</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2024-09-16</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-02-17</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4039_16307.jpg" n="1" />
+<p>
+<pb facs="StadtASG_Missive_4039_16308.jpg" n="2" />
+<pb facs="StadtASG_Missive_4039_16309.jpg" n="3" />
+<pb facs="StadtASG_Missive_4039_16310.jpg" n="4" />
+</p>
+        </body>
+    </text>
+</TEI>

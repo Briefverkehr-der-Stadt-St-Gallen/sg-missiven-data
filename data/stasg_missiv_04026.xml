@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4026</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die Missive hat zwei Datierungen nach altem und neuem Kalender. Da die Stadt St. Gallen bis 1724 am julianischen Kalender festhielt, gilt das erste Datum. Laut Rückvermerk wurde die Missive am 23. April 1650 vor dem Rat verlesen.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4026_16255/16258</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Leutkirch bitten Bürgermeister und Rat zu St. Gallen um einen Zahlungsaufschub der seit Ostern fälligen Schuldzinsen in der Höhe von 15 Gulden für ein Kapital von 300 Gulden, das St. Gallen Leutkirch im Jahr 1649 zur Begleichung der schwedischen Satisfaktionsgelder geliehen hatte.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-222">Darlehen</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-11">Kapital</term>
+<term ref="stadtasg-keywords-606">Satisfaktion</term>
+<term ref="stadtasg-keywords-221">Rückzahlung</term>
+<term ref="stadtasg-keywords-392">Belagerung</term>
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-200">Versprechen</term>
+<term ref="stadtasg-keywords-10">Zins</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-798">Bürgermeister und Rat zu Leutkirch</orgName>                    <date>1650-04-09</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-12-02</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4026_16255.jpg" n="1" />
+<p>
+<lb n="1" />Unser freundtlich willige dienst zuvor ehrnvöste vorsichtige
+<lb n="2" />ersame und weise besonders liebe herrn und freund.
+<lb n="3" />Euer vorsichtige ersame und weise erinneren sich gueter maßen, was ge
+<lb break="no" n="4" />stallten sie unß zue abzahlung der königlichen schwedischen sa
+<lb break="no" n="5" />tisfactionsgebühr und anderer unser notturfft ver
+<lb break="no" n="6" />wichnes <date when="1649">1649te</date> jahr umb jährliche verzinsung 300 gulten
+<lb n="7" />in specie wohlmainend vorgelihen, dabey wir gewise
+<lb n="8" />versprechung gethan haben, solch capital allweegen
+<lb n="9" />auf <date when="1650-04-14">osteren</date><note>Nach julianischem Kalender fiel der Ostersonntag auf den <date when="1650-04-14">4. April 1650</date>.</note> mit 15 gulten zu verzinsen, massen dann
+<lb n="10" />jeziger zeit der erste jahrgang oder terminus beraits ver
+<lb break="no" n="11" />floßen, welchem versprechen wir auch nachzukom
+<lb break="no" n="12" />men uns eyferig angelegen sein lassen.
+<lb n="13" />Wann sich aber eraignet, auch weltkundig ist, das wi
+<lb break="no" n="14" />der alle habende vermuetung der unerträgliche kriegs
+<lb n="15" />last annoch uns wirkhlich obliget, und darzue dises
+<lb n="16" />schläget, das vermög beeder schwäbischen craises aus
+<lb break="no" n="17" />schreibender ffr<ex cert="medium">eundlicher</ex> gnaden beweglicher und betrohlicher
+<lb n="18" />erinnerungen wir uns mit unserem contingent
+<lb n="19" />wegen deren inn <placeName ref="stadtasg-places-21">Nürnberg</placeName> geschloßnen terminen
+<lb n="20" />gefasst halten müessen, also haben wir nothge
+<lb break="no" n="21" />trangte uhrsachen euer vorsichtige ersame und weise dienstlichen 
+<lb n="22" />fleißes zu erbitten, ob dieselbe bey so beschaffenheit
+<lb n="23" />der sachen des verfallnen jahr zins halben dermah
+<lb break="no" n="24" />len gnädiglicher geduldt tragen und uns harte betrangte
+<lb n="25" />inn gnädiglichem recommendat erhalten möchten, mit
+<pb facs="StadtASG_Missive_4026_16256.jpg" n="2" />
+<lb n="26" />dienstfreundlicher erbietung, das wir, wa nicht vor ablauffung
+<lb n="27" />dises jahrs, doch wenigist mit dem anderen termino
+<lb n="28" />solche schuldigkeit danckhbarlich erlegen wollen.
+<lb n="29" />Uns allerseits göttlicher beschirmung ergebend.
+<lb n="30" />Datum den <origDate when="1650-04-09">9ten</origDate> / <date when="1650-04-19">19ten aprilis anno 1650</date>.
+<lb n="31" /><orgName ref="stadtasg-actors-798" role="issuer">Burgermaister und rath der 
+<lb n="32" />statt Leutkürch</orgName>.
+<pb facs="StadtASG_Missive_4026_16257.jpg" n="3" />
+<pb facs="StadtASG_Missive_4026_16258.jpg" n="4" />
+<lb n="33" />Den ehrnvösten vorsichtigen
+<lb n="34" />ersamen und weisen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="35" />maister und rath der statt
+<lb n="36" />sanct Gallen</orgName> unseren besonders
+<lb n="37" />lieben herrn und gueten freun
+<lb break="no" n="38" />den.
+<lb n="39" /><placeName ref="stadtasg-places-38">St. Gallen</placeName>.
+</p>
+        </body>
+    </text>
+</TEI>

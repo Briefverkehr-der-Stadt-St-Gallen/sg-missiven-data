@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4006</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Entwurf. Die Transkription wurde zurückgestellt. Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_04001.xml">4001</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4006_16183/16186</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen bitten mit dem vorliegenden Empfehlungsschreiben Obrist, Stadthauptmann, Bürgermeister und Rat zu Konstanz, dem Metzgerknecht Hans Christoph Buff von Gammertingen ab der Schwäbischen Alb, der momentan beim St. Galler Bürger, Metzger und Zunftmeister Ulrich Alther arbeitet, in seinem angestrebten Prozess gegen Heinrich Hüetli aus Konstanz wegen Ehrverletzung zu unterstützen. Auf Gesuch von Buff bezeugten zwei seiner Arbeitgeber in St. Gallen vor der St. Galler Obrigkeit das bisherige Wohlverhalten und den guten Ruf Buffs.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+   <term ref="stadtasg-keywords-281">Entwurf</term>
+<term ref="stadtasg-keywords-87">Empfehlung</term>
+<term ref="stadtasg-keywords-21">Rechtshilfe</term>
+<term ref="stadtasg-keywords-146">Metzger</term>
+<term ref="stadtasg-keywords-124">Knecht</term>
+<term ref="stadtasg-keywords-351">Handwerk</term>
+<term ref="stadtasg-keywords-305">Ehre</term>
+<term ref="stadtasg-keywords-306">Ehrverletzung</term>
+<term ref="stadtasg-keywords-44">Verleumdung</term>
+<term ref="stadtasg-keywords-252">Prozess</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                    <date>1650-02-24</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-587">Hauptmann, Bürgermeister und Rat zu Konstanz</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-01-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4006_16183.jpg" n="1" />
+<p>
+<pb facs="StadtASG_Missive_4006_16184.jpg" n="2" />
+<pb facs="StadtASG_Missive_4006_16185.jpg" n="3" />
+<pb facs="StadtASG_Missive_4006_16186.jpg" n="4" />
+</p>
+        </body>
+    </text>
+</TEI>

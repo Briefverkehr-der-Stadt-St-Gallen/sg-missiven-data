@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4050</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Wohl Abschrift oder Entwurf. Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4050_16349/16352</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen bitten im Namen ihres Bürgers Heinrich Giller dem Jüngeren die Beisitzer des Stadtgerichts zu Zürich um Unterstützung bei der Eintreibung der ausstehenden Schulden, die Felix Burckhart, Rotgerber und Zürcher Bürger, bei Giller hat. Die Schuldstreitigkeiten waren bereits zweimal vor dem Zürcher Stadtgericht verhandelt worden, wobei Burckhart rechtlich verpflichtet wurde, die Schulden zu begleichen. Die vom Gericht festgelegten Zahlungstermine sind verstrichen, ohne dass eine Bezahlung bei Giller eingegangen ist.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-281">Entwurf</term>
+ <term ref="stadtasg-keywords-168">Abschrift</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-21">Rechtshilfe</term>
+<term ref="stadtasg-keywords-296">Stadtgericht</term>
+<term ref="stadtasg-keywords-351">Handwerk</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                    <date>1650-09-02</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-782">Stadtgericht zu Zürich</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2024-09-16</date>
+            </change>
+           <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-11-22</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4050_16349.jpg" n="1" />
+<p>
+<pb facs="StadtASG_Missive_4050_16350.jpg" n="2" />
+<pb facs="StadtASG_Missive_4050_16351.jpg" n="3" />
+<pb facs="StadtASG_Missive_4050_16352.jpg" n="4" />
+</p>
+        </body>
+    </text>
+</TEI>

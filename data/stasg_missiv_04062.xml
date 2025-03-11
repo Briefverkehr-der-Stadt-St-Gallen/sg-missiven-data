@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4062</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Wohl Abschrift. Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_04061.xml">4061</ref>, mit dem Anliegen von Überlingen.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4062_16409/16410</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen antworten Bürgermeister und Rat zu Überlingen auf deren Schreiben vom 5. Oktober 1650, mit dem diese die Wiederaufnahme des Marktes in Überlingen angekündigt und ihre St. Galler Kollegen gebeten hatten, ihre Kaufleute anzuhalten, den Markt wie früher wieder zu besuchen. Bürgermeister und Rat zu St. Gallen teilen mit, dass ihre Kaufleute sich über die hohen Zölle in Überlingen beschwert hätten. Die Kaufleute würden am Markt wieder teilnehmen, sobald die Zölle wie in Radolfzell und an anderen Orten wieder herabgesetzt würden.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-83">Frieden</term>
+ <term ref="stadtasg-keywords-145">Kornmarkt</term>
+<term ref="stadtasg-keywords-180">Kaufmann</term>
+<term ref="stadtasg-keywords-143">Markt</term>
+<term ref="stadtasg-keywords-91">Handel</term>
+<term ref="stadtasg-keywords-554">Kalender</term>
+<term ref="stadtasg-keywords-144">Getreide</term>
+<term ref="stadtasg-keywords-440">Korn</term>
+<term ref="stadtasg-keywords-129">Zoll</term>
+<term ref="stadtasg-keywords-454">Kopie</term>
+<term ref="stadtasg-keywords-641">Zunft</term>
+<term ref="stadtasg-keywords-74">Beschwerde</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                    <date>1650-10-07</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-68">Bürgermeister und Rat zu Überlingen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>WH</persName>
+                <date>2025-01-08</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-01-28</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4062_16409.jpg" n="1" />
+<p>
+<lb n="1" />Unser freündtnachbarlich willig dienst zuvor edle veste fürsich
+<lb break="no" n="2" />tige und weise insonders gute freünd und nachbaren.
+<lb n="3" />Wir habend uß der herren underm <date when="1650-10-05">5ten diß stilo novo</date> an uns abgeleßnen
+<lb n="4" />brichts schreiben mit sonderem lieb vernommen, das vermittens
+<lb n="5" />erlangten lieben fridens ihr wol hargebrachte kornmarckh,
+<lb n="6" />der diser nachparschafft wolgelegen, widerum in seinen auff
+<lb break="no" n="7" />gang kommen, daneben auch das die herren uns nachbarlich
+<lb n="8" />ersuchen lasßen, wir wolten bey unseren pfister zünfftigen
+<lb n="9" />gwerbsleüten so vil verschaffen, das derselbig durch sie
+<lb n="10" />widerum wie von altersher besucht werde. Hierauff wir
+<lb n="11" />nit ermanglet, ihnen solches anzufügen. Die habend sich aber
+<lb n="12" />in dem beschwärt, das bey eüch die zöll und andere unkösten,
+<lb n="13" />so von den früchten genommen wirt, der zeit so hoch, das sie
+<lb n="14" />ohn ihren schaden den marckht nicht wol gebrauchen könnten.
+<lb n="15" />Sie erbieten sich aber, wie bald obgedachte fruchtzöll und un
+<lb break="no" n="16" />kösten wider in den alten tax werden herab gesezt sein,
+<lb n="17" />(maßen ein solches zu <placeName ref="stadtasg-places-36">Cell</placeName> und anderen benachbarten orthen
+<lb n="18" />bereits geschehen sein solle) wöllen sie eweren marckht 
+<lb n="19" />wie von alterher auch wider besuchen. So wir den herren
+<lb n="20" />zu begehrter antwort nebend entbietung aller guten nach
+<lb break="no" n="21" />parschafft hiemit überschreiben und uns samptlich göttlicher
+<lb n="22" />obsicht wol befehlen wöllen. Datum den <origDate when="1650-10-07">7ten octobris stilo novo
+<lb n="23" />anno 1650</origDate>.
+<lb n="24" /><orgName ref="stadtasg-actors-148" role="issuer">Burgermeister und rath der
+<lb n="25" />statt sant Gallen</orgName>.
+<lb n="26" />An 
+<lb n="27" /><orgName ref="stadtasg-actors-68" role="recipient">burgermeister und rath der
+<lb n="28" />statt Uberlingen</orgName>.
+<pb facs="StadtASG_Missive_4062_16410.jpg" n="2" />
+</p>
+        </body>
+    </text>
+</TEI>

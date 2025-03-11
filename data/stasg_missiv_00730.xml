@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 730</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00746.xml">746</ref>. Zum Kontext: Die Affäre hatte bereits 1552 begonnen, als die St. Galler Brüder Hans Ulrich und Bartholome Rüegger einen Teil ihrer Schulden mit dem Abtreten von Besitztiteln - unter anderem Zinsbriefe und Häuser in Konstanz - an ihre Mitbürger beglichen. Als im Jahr darauf Gerüchte in Umlauf kamen, dass Rüeggers fallieren würden, liessen die Konstanzer Kaufleute Felix und Jakob Grimmel eben diese Besitztümer in der Stadt, aber auch in Italien vorsorglich konfiszieren. Daraufhin klagten die St. Galler Kaufleute erfolgreich beim Konstanzer Stadtgericht. Und auch Bürgermeister und Rat zu St. Gallen setzten sich für ihre Bürger beim Konstanzer Stadtrat ein. Schliesslich appellierten die Brüder Grimmel, nachdem sie auch zweitinstanzlich verloren hatten, am Reichskammergericht. Inzwischen hatten St. Galler Kaufleute Leinwand der Firma Grimmel konfiszieren lassen und drohten mit der Zwangsversteigerung der Ware. Nicht zuletzt durch die Einschaltung von Habsburg und der Eidgenossenschaft erhielt dieser Fall nun auch noch eine politische Dimension und drohte zu eskalieren. Erst durch die Vermittlung des Abtes von Kreuzlingen erzielte man 1555 eine Einigung mittels Vergleich. Felix und Jakob Grimmel erhielten ihre Ware zurück, mussten aber im Gegenzug auf weitere Besitzansprüche verzichten. Im April 1560 schrieb Felix Grimmel in seiner Liquidationsbilanz die Schulden der Gebrüder Rüegger, welche sich auf 285 Dukaten in Venedig und 91 Gulden in St. Gallen beliefen, endgültig ab.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_730_1841/1848</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen beklagen sich bei Georg Speth von Sulzburg, kaiserlicher Rat und Hauptmann zu Konstanz, sowie Bürgermeister und Rat zu Konstanz über das widerrechtliche Vorgehen der Gebrüder Felix und Jakob Grimmel gegen die St. Galler Gläubiger von Hans Ulrich Rüegger, Bürger zu St. Gallen. Die St. Galler bitten um eine schriftliche Antwort.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-340">Rechtsstreit</term>
+                    <term ref="stadtasg-keywords-424">Zinsbrief</term>
+                    <term ref="stadtasg-keywords-495">Hab und Gut</term>
+                    <term ref="stadtasg-keywords-66">Beschlagnahmung</term>
+                    <term ref="stadtasg-keywords-24">Klage</term>
+                    <term ref="stadtasg-keywords-406">Konkurs</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-103">Urteil</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+                    <term ref="stadtasg-keywords-316">Obrigkeit</term>
+                    <term ref="stadtasg-keywords-314">Anwalt</term>
+                    <term ref="stadtasg-keywords-13">Schulden</term>
+                    <term ref="stadtasg-keywords-156">Recht</term>
+                    <term ref="stadtasg-keywords-490">Gläubiger</term>
+                    <term ref="stadtasg-keywords-79">Pfand</term>
+                    <term ref="stadtasg-keywords-275">Fürst</term>
+                    <term ref="stadtasg-keywords-183">König</term>
+                    <term ref="stadtasg-keywords-347">Majestät</term>
+                    <term ref="stadtasg-keywords-149">Rechtstag</term>
+                    <term ref="stadtasg-keywords-474">Hauptmann</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                    <date>1554-05-06</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-797">Georg Speth von Sulzburg</persName>
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW</persName>
+                <date>2021-04-12</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-12-02</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_730_1841.JPG" n="1" />
+<p>
+<pb facs="StadtASG_Missive_730_1842.JPG" n="2" />
+<pb facs="StadtASG_Missive_730_1843.JPG" n="3" />
+<lb n="1" />Schryben an die von <placeName ref="stadtasg-places-7">Costantz</placeName>
+<lb n="2" />Sunder freundtlich willig dienst sampt was wir eeren
+<lb n="3" />liebs und gutz vermegend zuvor from edel vest fürsichtig
+<lb n="4" />ersam wyss besonder lieben und guten fründ. Als dann
+<lb n="5" />ettlich unnser burger mit dem vesten <persName ref="stadtasg-actors-792">Felix</persName> und <persName ref="stadtasg-actors-793">Jacoben
+<lb n="6" />den Grimlen</persName> in langwüriger rechtvertigung gestannden
+<lb n="7" />von wegen ettlicher zinnsbrieffen, so <persName ref="stadtasg-actors-796">Hanns Ulrich Rüger</persName>
+<lb n="8" />gedachten unsern burgern domals seinen gleubigern
+<lb n="9" />sammpt ainem hus und anderen waren zu irm aignen
+<lb n="10" />gut uberantwurt, zugesteltt und hiemit der schuld, so er inen
+<lb n="11" />zethun gewessen, gentzlich ussgericht und vernügt hatt,
+<lb n="12" />unnd aber nach sollicher ubergab erst von gemeltten <orgName ref="stadtasg-actors-794">Grimmlen</orgName>,
+<lb n="13" />wyl er inen auch schuldig gewessen und dieselbigenn
+<lb n="14" />zinnssverschrybungen uff ettliche hüsser der statt
+<lb n="15" /><placeName ref="stadtasg-places-7">Costantz</placeName> lutend, gehefft und in arrest gelegt worden,
+<lb n="16" />doch letschtlich nach lang geübter rechtvertigung ain urtel
+<lb n="17" />von euer vest und wysshait dess innhaltts besigeltt
+<lb n="18" />ussgangen. Diewyl dise stryttge zinnssbrief
+<lb n="19" />nit von uns als ainer ordenlichen oberkait, sonnder
+<lb n="20" />durch dess <persName ref="stadtasg-actors-796">Hanns Ulrich Rügers</persName> angemasste anweldt
+<lb n="21" />den gemeltten unnsern burgern zugesteltt und den
+<lb n="22" /><orgName ref="stadtasg-actors-794">Grimlen</orgName> oder anderen gleubigern den geschribnen rechten
+<lb n="23" />nach nit darzu verkünnt werden, solle derselbig
+<lb n="24" />ubergab nichtig und uncrefftig erkent sein, welchs
+<lb n="25" />urtell uns nit ohne beweglich ursachen höchlich be
+<lb break="no" n="26" />schwert und beduret. Dann wir vermaint, es
+<lb n="27" />were gegen unnseren burgern uff ire vor euer vest und
+<lb n="28" />wysshait gethone antwurten ouch unnser vilfalttig
+<pb facs="StadtASG_Missive_730_1844.JPG" n="4" />
+<lb n="29" />schryben in annder gebürlichen weg gefahren und gehandlet
+<lb n="30" />und sonderlich, das offtgesagte unnsere burger mit unnser
+<lb n="31" />verwilligung und erkantnus lut darumb uffgerichtenn
+<lb n="32" />und besigeltten brieffen von dem <persName ref="stadtasg-actors-796">Hanns Ulrich
+<lb n="33" />Rüger</persName>, irem schuldner, wol durch seinen schweher, aber
+<lb n="34" />darneben erbettnen volmechtigen und mit angemassten an
+<lb break="no" n="35" />wald bezaltt und ussgericht worden und vor sollicher be
+<lb break="no" n="36" />zalung weder von den <orgName ref="stadtasg-actors-794">Grimel</orgName> noch iemand andrer zu
+<lb n="37" />der <persName ref="stadtasg-actors-796">Rüger</persName> hab und gut, in unnser statt gelegen, kain
+<lb n="38" />rechtliche ansprach noch vorderung fürgenommen noch be
+<lb break="no" n="39" />schehen ist. Desshalb die <persName ref="stadtasg-actors-796">Rüger</persName> gemainen stett und
+<lb n="40" />landtbruch recht und gewonhait nach gut fug und macht
+<lb n="41" />geheptt, dise unnser burger, die <orgName ref="stadtasg-actors-794">Grimel</orgName> oder annder
+<lb n="42" />ire gleubiger nach irem gefallen mit offternenten
+<lb n="43" />zinnssbrieffen oder anderen güter und waren als do
+<lb break="no" n="44" />mals mit irem aigen unangefochtnen gut für menig
+<lb break="no" n="45" />klichs intrag usszerichten und zebezalen, dann
+<lb n="46" />die vilberürten <orgName ref="stadtasg-actors-794">Grimel</orgName> die houptgüter und underpfand,
+<lb n="47" />in den dickhbemeltten zinnssverschrybungen begriffenn
+<lb n="48" />und in der statt <placeName ref="stadtasg-places-7">Costantz</placeName> gelegen, erst nach dem ge
+<lb break="no" n="49" />hefft und arrestiert, do sie schon ettlich zeit darvor
+<lb n="50" />unnseren burgern als zu aignen und zugehörigen gütern
+<lb n="51" />und ietz beschribener wyss warend ubergeben und zugesteltt
+<lb n="52" />worden. Hierumb die <orgName ref="stadtasg-actors-794">Grimel</orgName> nit der <persName ref="stadtasg-actors-796">Rüger</persName>,
+<lb n="53" />sonnder unnserer burger underpfand dasselbst zu <placeName ref="stadtasg-places-7">Costantz</placeName>
+<lb n="54" />gehefft, do sie aber die <persName ref="stadtasg-actors-796">Rüger</persName> mit recht darumb
+<lb n="55" />solttend ersucht und angelangt haben, besonnder
+<pb facs="StadtASG_Missive_730_1845.JPG" n="5" />
+<lb n="56" />wyl die <persName ref="stadtasg-actors-796">Rüger</persName> nit landtrümig oder flüchtig, sonder
+<lb n="57" />in unnser statt und gerichten gute zeit offentlich gewessen
+<lb n="58" />und den <orgName ref="stadtasg-actors-794">Grimlen</orgName> und anderen, so zu inen ettwas zesprechen vermaint, aines rechten hettind
+<lb n="59" />sein mögen, wie dann wir in unnseren geschrifften
+<lb n="60" />an euer vest unnd wysshait der handlung halber gethun
+<lb n="61" />nit nun ainmal habend vermerckhen lassen. (Und
+<lb n="62" />ouch die erbainigung zwischet dem fürstlichen huss
+<lb n="63" /><placeName ref="stadtasg-places-91">Osterreich</placeName>, welchem die statt <placeName ref="stadtasg-places-7">Costantz</placeName> ietzmals inge
+<lb break="no" n="64" />libt, und ainer hochloblichen <orgName ref="stadtasg-actors-750">Eidtgnoschafft</orgName>
+<lb n="65" />uffgericht und beschlossen haiter vermag unnd
+<lb n="66" />innhaltt, das ainer den ihenigen, zu dem er
+<lb n="67" />ettwas rechtlichs zesprechen, an den enden unnd
+<lb n="68" />orten suchen sölle, do er dann wonhafft gesessen
+<lb n="69" />ist.) Das aber euer vest und wysshait vermaint, wir
+<lb n="70" />sollttend ainen gemainen entlichen rechtstag ge
+<lb break="no" n="71" />setzt und allen dess <persName ref="stadtasg-actors-796">Rügers</persName> gleubigern darzu
+<lb n="72" />verkündigen, haben wir nit thun künnen
+<lb n="73" />noch mögen, einssthails das der <persName ref="stadtasg-actors-796">Rüger</persName> hab und
+<lb n="74" />gut niemand by uns gehefft und sie, wie oben ge
+<lb break="no" n="75" />nent, nit landtrümig oder flüchtig, sonder by uns
+<lb n="76" />von menigklichem ungerechtvertiget gewessen sinnd,
+<lb n="77" />dess anndern, das es nit unnser statt bruch noch
+<lb n="78" />recht ist, iemand zu dem rechten dann den
+<lb n="79" />ihenigen zeverkündigen, so in unnser statt gehefft
+<lb n="80" />und zu recht arrestiert habend. Das aber von
+<lb n="81" />den <orgName ref="stadtasg-actors-794">Grimlen</orgName> bissher gegen den <persName ref="stadtasg-actors-796">Rügern</persName> nit beschehen
+<lb n="82" />und dess anschein, das die <orgName ref="stadtasg-actors-794">Grimel</orgName> dess vilgesagten
+<pb facs="StadtASG_Missive_730_1846.JPG" n="6" />
+<lb n="83" /><persName ref="stadtasg-actors-796">Rügers</persName> gut schulden und annders zu <placeName ref="stadtasg-places-274">Rachanati</placeName> <!-->Rachanati = Recanati schwecher = Schwiegervater? Mit Recanati ist wohl eher der Ort in Italien gemeint<!--> und anderen
+<lb n="84" />orten in <placeName ref="stadtasg-places-273">Italia</placeName> verhefft, darvon sovil inen müglich
+<lb n="85" />zuwegen pracht und unnseren burgern zu demselbigen
+<lb n="86" />ouch nit habend verkündigen lassen, da villicht mehr
+<lb n="87" />dann an disen zinnssbriefen were zeerholen gewessen.
+<lb n="88" />Derhalben die <orgName ref="stadtasg-actors-794">Grimmel</orgName> dise vilbemeltte underpfand der
+<lb n="89" />ietz angeregten ursachen und unnserem erachten nach
+<lb n="90" />ungebürlicher wyss in arrest habend verlegen lassen
+<lb n="91" />und vermainend, sie solttend unsern burgern relagiert
+<lb n="92" />und entschlagen werden, diewil doch zinnsrecht
+<lb n="93" />und gewonhait ist, alle zinnsverschrybungenn
+<lb n="94" />für menigklichs hefften verbieten, niderlegen und ent
+<lb break="no" n="95" />weren uffgeriht, gemacht und bewart werdend, weliches
+<lb n="96" />wir euer vest und wysshait zu wytterer erinnerung der sachen
+<lb n="97" />ouch zu fürderung unserer burger und ires rechten
+<lb n="98" />guter und nodtwendiger mainung billich nit habend
+<lb n="99" />bergen noch verhaltten können und söllen, der
+<lb n="100" />hoffnung, sie werden nach disem unnserem ernst
+<lb break="no" n="101" />lichen schryben und uff erzeltte grundtliche ursachen,
+<lb n="102" />ouch unnserem vertruwen noch ain flyssig nachge
+<lb break="no" n="103" />denckhen und insehen haben, wie sollicher unge
+<lb break="no" n="104" />bürlicher hafft entschlagen und gedachte unnsere
+<lb n="105" />burger by dem iren und zu dem sie recht habend, blyben
+<lb n="106" />und verharren mögend. Wo aber nit (deß wir uns
+<lb n="107" />doch in kainen weg versehen), wurdend wir ver
+<lb break="no" n="108" />ursacht, an den gebürlichen enden und orten rath
+<lb n="109" />zesuchen, do wir gedenckhend, unseren burgernn
+<pb facs="StadtASG_Missive_730_1847.JPG" n="7" />
+<lb n="110" />möge geholffen werden. Und so wann die
+<lb n="111" /><orgName ref="stadtasg-actors-794">Grimel</orgName> an die <persName ref="stadtasg-actors-796">Rüger</persName> oder ander burger
+<lb n="112" />etwas rechtlichs anzusprechen habend, wellend
+<lb n="113" />wir inen entgegen fürderlich und billich gut recht
+<lb n="114" />haltten und ergen lassen, wie wir uns das und
+<lb n="115" />annders billichen ietz und allweg anerbottenn
+<lb n="116" />habend, mit beger, eure vest unnd wysshait welle
+<lb n="117" />unns ir gschrifftlich antwurt und mainung hie
+<lb break="no" n="118" />ruff unverzogenlich zuschicken. Datum
+<lb n="119" /><origPlace ref="stadtasg-places-38">sanct Gallen</origPlace> den <origDate when="1554-05-06">VIten tag may
+<lb n="120" />anno etc. fünffzig unnd vier iar</origDate> etc.
+<lb n="121" /><orgName ref="stadtasg-actors-148" role="issuer">Burgermaister und rath
+<lb n="122" />der statt sant Gallen</orgName>.
+<lb n="123" />Den edlen vesten fürsichtigen unnd wysen
+<lb n="124" />heren <persName ref="stadtasg-actors-797" role="recipient">Georg Spätt von Sultzburg</persName> römischer königlicheer maiestät
+<lb n="125" />houptmann ouch <orgName ref="stadtasg-actors-56" role="recipient">burgermaiser unnd rath der statt
+<lb n="126" />Costanntz</orgName> unnsern lieben unnd guten fründen
+<lb n="127" />Eure veste wysshait.
+<pb facs="StadtASG_Missive_730_1848.JPG" n="8" />
+<lb n="128" />Meiner herren
+<lb n="129" />schryben an die von
+<lb n="130" /><placeName ref="stadtasg-places-7">Costanntz</placeName> <origDate when="1554-05-06">anno 1554
+<lb n="131" />6 may</origDate>.
+</p>
+        </body>
+    </text>
+</TEI>

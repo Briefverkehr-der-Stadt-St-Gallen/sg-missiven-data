@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4042</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 4. Juli 1650 vor dem Rat verlesen.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4042_16317/16320</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Überlingen senden ihren Bürgermeister, Doktor Johann Heinrich von Pflaumern, kaiserlicher Rat, für gewisse Angelegenheiten nach St. Gallen. Sie bitten die St. Galler, ihrem Bürgermeister als Überbringer des Empfehlungsschreibens, eine Audienz zu gewähren, ihn zu empfangen und ihm und seinen Aussagen Glauben zu schenken.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-87">Empfehlung</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-12">Gesandter</term>
+<term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-554">Kalender</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-68">Bürgermeister und Rat zu Überlingen</orgName>                    <date>1650-07-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2024-09-16</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-11-22</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4042_16317.jpg" n="1" />
+<p>
+<lb n="1" />Unser fründt-nachbarlich willige dienst zuvor edle ehrnveste
+<lb n="2" />fürsichtig und weise sonders liebe herren guette fründt unndt
+<lb n="3" />nachbaren.
+<lb n="4" />Zue ewer weisheit haben wir unseren lieben und hochgeehrten ambtsburger
+<lb break="no" n="5" />meistern, herren doctor <persName ref="stadtasg-actors-783">Johann Heinrich von Pflaumern</persName>, kayserlicher mayestät rath, gewisser
+<lb n="6" />angelegener sachen willen abgeordnet, wie dieselbige von ihme mit mehrem zue
+<lb break="no" n="7" />vernemmen. Hierumben unser fründt-nachbarliches ersuchen, ihme mitelst ertheilter
+<lb n="8" />audientz nicht allein vollkhomnen glauben als uns selbsten beyzuemessen, sondern
+<lb n="9" />zuemahlen uber sein vorbringen sich also fründt-nachbarlich zuebezeigen, wie unser
+<lb n="10" />vertrawen zu ewer fürsichtig weisheit gestelt ist und wir ein solches anderwerts zue
+<lb break="no" n="11" />beschulden gedenckhen. Den gnaden gottes hierunder uns allerseits trewlich
+<lb n="12" />empfehlende. Datum den <origDate when="1650-07-04">4ten july stilus novus anno 1650</origDate>.
+<lb n="13" /><orgName ref="stadtasg-actors-68" role="issuer">Burgermeister und rath
+<lb n="14" />der statt Uberlingen</orgName>.
+<pb facs="StadtASG_Missive_4042_16318.jpg" n="2" />
+<pb facs="StadtASG_Missive_4042_16319.jpg" n="3" />
+<pb facs="StadtASG_Missive_4042_16320.jpg" n="4" />
+<lb n="15" />Denn edlen ehrnvesten fürsichtigen und weisen nomen nominandum
+<lb n="16" /><orgName ref="stadtasg-actors-148" role="recipient">burgermeistern und rath der statt st. Gallen</orgName> unseren
+<lb n="17" />sonders lieben herren gueten fründen und nachbarn.
+<lb n="18" /><placeName ref="stadtasg-places-38">St. Gallen</placeName>.
+</p>
+        </body>
+    </text>
+</TEI>

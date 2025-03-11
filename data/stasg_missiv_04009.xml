@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4009</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Entwurf oder Abschrift. Die Transkription wurde zurückgestellt. Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_04002.xml">4002</ref>, mit der Anfrage von Ulm.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4009_16193/16194</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen antworten Bürgermeister und Rat zu Ulm auf ihre Bitte um ein weiteres Darlehen zur Bezahlung der schwedischen Satisfaktionsgelder. St. Gallen schlägt die Bitte aus mit dem Hinweis, dass die Stadt aufgrund vieler Konkurse und des Stillstands des Handels auch keine Reserven mehr habe. Zudem sei kürzlich ein Feuer in der Vorstadt ausgebrochen, durch das etliche Häuser abgebrannt seien. 13 Haushaltungen seien deshalb in grösster Not, und die Stadt habe die Pflicht zur Unterstützung.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-222">Darlehen</term>
+<term ref="stadtasg-keywords-606">Satisfaktion</term>
+<term ref="stadtasg-keywords-91">Handel</term>
+<term ref="stadtasg-keywords-41">Feuer</term>
+<term ref="stadtasg-keywords-406">Konkurs</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-281">Entwurf</term>
+<term ref="stadtasg-keywords-168">Abschrift</term>
+<term ref="stadtasg-keywords-624">Vorstadt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                    <date>1650-03-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-510">Bürgermeister und Rat zu Ulm</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-01-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4009_16193.jpg" n="1" />
+<p>
+<pb facs="StadtASG_Missive_4009_16194.jpg" n="2" />
+</p>
+        </body>
+    </text>
+</TEI>

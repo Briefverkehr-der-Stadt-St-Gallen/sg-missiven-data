@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1034</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_01035.xml">1035</ref> und <ref target="stasg_missiv_01044.xml">1044</ref>.</p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1034_3205/3208</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich informieren Bürgermeister und Rat zu St. Gallen über die neusten Ereignisse bezüglich der geplanten eidgenössischen Friedensmission in Frankreich. Neben den vier evangelischen Städten haben nun auch die fünf katholischen Orte der Innerschweiz sowie Glarus und die Drei Bünde in Churwalden beschlossen, sich daran zu beteiligen. Die Anfrage an den französischen Botschafter in Solothurn, wo sich der König von Frankreich zur Zeit aufhält und wo er die eidgenössische Delegation zu treffen gedenkt, ist noch offen. Zürich bittet die St. Galler erneut darum, sich ebenfalls mit einem Gesandten zu beteiligen, bittet um eine Antwort und stellt in Aussicht, den Besammlungsort der Delegation bekannt zu geben, sobald dieser bestimmt ist.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+    <term ref="stadtasg-keywords-217">Antwort</term>
+<term ref="stadtasg-keywords-12">Gesandter</term>
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-131">Versammlung</term>
+<term ref="stadtasg-keywords-470">Religionskrieg</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-547">Evangelisch</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1574-09-27</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW</persName>
+                <date>2024-09-16</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-10-15</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_1034_3205.jpg" n="1"/>
+<p>
+<lb n="1"/>Unnser fründtlich willig diennst sampt was wir eeren
+<lb n="2"/>liebs unnd guots vermögent zuovor from fürsichtig er
+<lb break="no" n="3"/>sam unnd wyß innsonders guot fründt unnd gethrüw
+<lb n="4"/>lieb eydtgnossen. Was wir üch unnd ir unns
+<lb n="5"/>hinwiderumb von wegen der bottschafften, so man zuo
+<lb n="6"/>küniglicher maiestät<note><persName ref="stadtasg-actors-776">Heinrich III., König von Frankreich</persName>.</note> inn <placeName ref="stadtasg-places-131">Frannkrych</placeName> umb sachen, so üch wol
+<lb n="7"/>bewüßt zeschigken bedacht, zuogeschriben, das ist
+<lb n="8"/>üch, als unns nit zwyffelt, wol inngedenngk.
+<lb n="9"/>Unnd als ir darunder von unns zuoverstan begert,
+<lb n="10"/>welliche orth mit unns den vier evangelischen
+<lb n="11"/>stetten<note>Gemeint sind die <orgName ref="stadtasg-actors-771">Evangelischen Orte der Eidgenossenschaft (ZH, BE, BS, SH)</orgName>.</note> botten zeschigken willens, söllen
+<lb n="12"/>ir wüssen, das üwer unnd unser lieb eydtgnossen
+<lb n="13"/>von den fünff orthen<note>Gemeint sind die <orgName ref="stadtasg-actors-777">Katholischen Orte der Innerschweiz (UR, SZ, UW, LU, ZG)</orgName>.</note> , deßglychen <placeName ref="stadtasg-places-73">Glarus</placeName> unnd
+<lb n="14"/>die <orgName ref="stadtasg-actors-775">Dryg Pündt</orgName> inn <placeName ref="stadtasg-places-265">Churwalchen</placeName> sölliches ze
+<lb break="no" n="15"/>thuondt sich anerpotten unnd sich nit sönndern wellen,
+<lb n="16"/>welliches wir üch vor lanngist zuoschryben wellen.
+<lb n="17"/>Diewyl unns aber unnderzwüschent von des <persName ref="stadtasg-actors-776">künigs</persName>
+<lb n="18"/>ambassadoren zuo <placeName ref="stadtasg-places-49">Sollothurn</placeName> bescheyd zuokhommen,
+<lb n="19"/>das er unns fürderlich berichten, wa die <persName ref="stadtasg-actors-776">künigliche maiestät</persName>
+<lb n="20"/>sich niderlassen unnd ir <persName ref="stadtasg-actors-776">maiestät</persName> die bottschafften zuover
+<lb break="no" n="21"/>hören annemlich syn werde unnd aber unns darüber
+<lb n="22"/>noch nie nüzit zuokhommen, hat sich darumbe die
+<lb n="23"/>sach bißhar also verwylt. Deßhalben wir unns
+<lb n="24"/>gegen üch hiemit des enntschuldiget haben, unnd
+<lb n="25"/>so bald unns von gemeltem herren ambassadoren
+<lb n="26"/>anntwurt zuokhompt unnd ir üwer bottschafft ouch
+<lb n="27"/>schigken (darumb wir dann yezmalen üwers
+<lb n="28"/>enndtlichen bescheyds begeren), wellenn wir
+<lb n="29"/>üch alßdan angendts berichten, uff welliche
+<lb n="30"/>zyth die botten annryten unnd wo sy zuosammen
+<lb n="31"/>kommen söllen unnd hieran an unnserm flyß
+<lb n="32"/>unnd ernnst nüzit erwinden lassen unnd wer
+<lb break="no" n="33"/>dennt hierüber üwer anntwurt erwarten. Üch
+<lb n="34"/>unnd unns damit inn göttlichenn schirm thrüw
+<lb break="no" n="35"/>lich bevelchende. Datum <origDate when="1574-09-27">mentags den XXVIIten sep
+<lb break="no" n="36"/>tembris anno etc. LXXIIII</origDate>.
+<lb n="37"/><orgName ref="stadtasg-actors-503" role="issuer">Burgermeister und rath
+<lb n="38"/>der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_1034_3206.jpg" n="2"/>
+<pb facs="StadtASG_Missive_1034_3207.jpg" n="3"/>
+<pb facs="StadtASG_Missive_1034_3208.jpg" n="4"/>
+<lb n="39"/>Den frommen fürsichtigen ersammen wysen
+<lb n="40"/><orgName ref="stadtasg-actors-148" role="recipient">burgermeyster unnd rath der statt sant
+<lb n="41"/>Gallen</orgName> unnsern innsonders guoten frün
+<lb break="no" n="42"/>den unnd gethrüwen lieben eydtgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4064</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 4. November 1650 vor dem Rat verlesen. Beigelegt ist eine <ref target="stasg_missiv_04064-suppl-01.xml">Notiz</ref> des St. Galler Kanzlisten. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_03963.xml">3963</ref> und <ref target="stasg_missiv_03976.xml">3976</ref>, auf die der Kanzlist in der Notiz verweist. Die erwähnten Exemplare der Anhornschen Valetpredigt sind nicht vorhanden.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4064_16415/16422</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+         <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_4064_16415/16422</idno><altIdentifier type="filename"><idno>stasg_missiv_04064-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc> 
+
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bartholomäus Anhorn, Pfarrer und Inspektor zu Mosbach, berichtet Bürgermeister und Rat zu St. Gallen über ihm nachteilige Reden und Schreiben von St. Galler Bürgern, die von ihm Geld fordern würden. Alle seine Leute im Amt und Inspektion Mosbach, einschliesslich der ihm anvertrauten zehn Pfarreien samt Kirchenräten, würden bezeugen, dass die Vorwürfe nicht gerechtfertigt seien. Anhorn ersucht Bürgermeister und Rat, ihr Wohlwollen ihm gegenüber fortzusetzen. Um seine Dankbarkeit zu bezeugen, habe er seine Abschiedspredigt drucken lassen, die er Bürgermeister und Rat zueigne. Er werde St. Gallen nie aus seinem Gedächtnis tilgen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+  <term ref="stadtasg-keywords-93">Mündlich</term>
+<term ref="stadtasg-keywords-321">Schriftlich</term>
+<term ref="stadtasg-keywords-63">Gerücht</term>
+<term ref="stadtasg-keywords-320">Kirche</term>
+<term ref="stadtasg-keywords-244">Amt</term>
+<term ref="stadtasg-keywords-348">Kurfürst</term>
+<term ref="stadtasg-keywords-388">Pfarrei</term>
+<term ref="stadtasg-keywords-382">Prediger</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-451">Pfarrer</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-834">Bartholomäus Anhorn</persName><placeName ref="stadtasg-places-288">Mosbach</placeName>                    <date>1650-10-23</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>WH</persName>
+                <date>2025-01-08</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-02-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4064_16415.jpg" n="1" />
+<p>
+<lb n="1" />Wol-edle gestrenge veste ehrenveste hochgelehrte fromme fürsichtige
+<lb n="2" />insonders großgünstige hochgeehrte gebietende herren und väter.
+<lb n="3" />Meine schuldigkeit erforderte, eure ehrenveste weisheit weitleüftig und umbstandlich meines
+<lb n="4" />zustands zuberichten, insonderheit in solcher verwirrung allerhand widerwertiger
+<lb n="5" />hin und her fliegender, vilmahlen meiner ehrn nachtheilliger reden und schreiben,
+<lb n="6" />aber weilen mein thun und laßen, mein hertz, gemüt und gewüßen dem
+<lb n="7" />allmechtigen und allwüßenden bekandt ist, der auch alle zeit die unschuldigen
+<lb n="8" />ihm vertrawenden rettet und darneben die meisten wider mich außgegoßnen
+<lb n="9" />lesterungen mehrenthailß von stgallern, die in diese land gezogen und ihnen
+<lb n="10" />ich weiß nicht was für guldene berg eingebildet, die sie aber nicht so finden,
+<lb n="11" />herkommen, alß befihl ich alles dem recht richtenden gott. Bitte in deße dee
+<lb break="no" n="12" />mütigst und underthenigst, eure ehrenveste weisheit wolle keine widerigen reden noch schreiben
+<lb n="13" />wider mich glauben geben, sonder versichert sein, so ich im <unclear>cerütz</unclear> wolgeübter
+<lb n="14" />jemahln mich befleiße, die kirche gottes zuerbawen, ich gwüßlich je lenger
+<lb n="15" />je mehr in lehr und leben solches zuthun mich befleiße maße nicht und 
+<lb n="16" />meine moßbachische zuhörer, sonder alle in dem ganzen ampt und inspection
+<lb n="17" /><placeName ref="stadtasg-places-288">Moßbach</placeName> sampt dero nun mehr meiner aufsicht anvertrawten zehn pfahren
+<lb n="18" />und den herren kirchräthen selbsten, wo es von nöten sein wird, zeügnuß werden
+<lb n="19" />geben müßen. <unclear>Zwen</unclear> stgallische burger sind, die vermeint haben, sie wollen
+<lb n="20" />mich zuruckh legen, wann sie alßbald mit rächt einziehen, was sie droben erst
+<lb n="21" />in verwichenem februar auf sich freiwillig genommen mit andeüten, ich solle
+<lb n="22" />ihnen alle jahr widerum eine zahlung an ihre anforderung thun, nun aber
+<lb n="23" />sie einsmahls ietz wolln bezahlt sein und mir alle meine zum vorrath
+<lb n="24" />verordnete mittel auß den henden genommen. Gleichwol ich gott nicht gnug
+<lb n="25" />dancken kan, der mir in solcher landverwüstung so viel an der besoldung
+<lb n="26" />eingehen laßen, dz ich darvon nebend dem, wz ich mit mir herunder genommen,
+<lb n="27" />sie außrichten und bezahlen können. Eure ehrenveste weisheit alß meine hochgeehrte herren und
+<lb n="28" />vätter verzeichen mir, dz ich so weit meinen zustand thun eröffnen. Zweiffle
+<lb n="29" />nicht, wie ich für ihren wolstand sorgfeltig eüßerst mich bekümbere, wann
+<lb n="30" />derselbige sollte schaden leiden (wie schier verlauten will) und herzlich mich erfrewen,
+<lb n="31" />wann derselbige aufrecht wider alle deßelbigen feinde bestehet, also sie auch hin
+<lb break="no" n="32" />widerum mein alß ihres underthenigsten und gehorsamsten verpflichtesten burgers
+<lb n="33" />wolstand erfrewen oder im übelstand, deßen verbeßerung von herzen wünschen werden.
+<lb n="34" />Bitte underthenigst eure ehrenveste weisheit, ihr gegen mir gefaßte affection, die sie allezeit im
+<lb n="35" />werckh und vilfeltigen guthaten spüren und sehen laßen, allezeit continuiren und fort
+<lb break="no" n="36" />sezen wollen. Meine schuldigkeit und herzliche danckbarkeit für ihre zeit, sonderlich bei meinem abschied mir erwiesene freigebige guthaten nur in 
+<pb facs="StadtASG_Missive_4064_16416.jpg" n="2" />
+<lb n="37" />etwas zuerweißen, hab ich die gehaltene valetpredig auf vieler
+<lb n="38" />ehrlicher gutherziger leüten begären zum trucken übergeben und selbige 
+<lb n="39" />eurer ehrenvesten weisheit und ganzer burgerschafft zum zeichen meiner obligation
+<lb n="40" />gegen ihnen dediciren und zuschreiben wollen, underthenigst und gehorsambst
+<lb n="41" />bittend, eure ehrenveste weisheit nicht auf dz werckh, dz gering, doch gottes wort gemeß
+<lb n="42" />sonder auf meine herzliche zuneigung und lieb gegen ihnen, die bis in
+<lb n="43" />meinen tod bestendig bleibt, sehen und mich und die meinigen weiter
+<lb n="44" />für recommendirt haben wollen. Meine unfürsichtigkeit ist schuld, dz es mit
+<lb n="45" />mir dahinkommen, wo es jezund steth. Aber gott, der auß finsternuß machet
+<lb n="46" />dz liecht herfür scheinen, hat alles regirt und wird es weiter regirn
+<lb n="47" />ob wol zu meiner wolverdienten züchtigung, doch darneben auch zu
+<lb n="48" />seiner kirchen auferbawung und seines heiligen nammens ehr in diesen landen.
+<lb n="49" />Zweifflet nur nicht, ihr meine hochgeehrte gebietende herren und 
+<lb n="50" />vätter, ihr solt keine schand an mir haben, der ich, ewer burger
+<lb n="51" />in diesen enden mich anjezo aufhalten und wie gern und herzlich
+<lb n="52" />gern ich an dieserem ort wohne, soll doch <placeName ref="stadtasg-places-38">st Gallen</placeName> auß meiner 
+<lb n="53" />gedechtnuß nicht außgetilgget werden, will auch nimmer aufhören,
+<lb n="54" />für eurer ehrenvester weisheit und gantzer burgerschafft wolstand zu gott ruffen
+<lb n="55" />und bitten, nicht zweifflend dann, dz er, der getrewe gott, auch eurer ehrenvesten weisheit 
+<lb n="56" />und gantzer statt nach dem regen den lieben sonnenschain widerumb werde
+<lb n="57" />leuchten laßen. Mit widerholter demütiger bitt, eurer ehrenvesten weisheit ihnen diß
+<lb n="58" />mein schreiben und die dedication dieser valet-predig wollen gefallen
+<lb n="59" />laßen, befehle ich sie gottes trew-vätterlichem schutz und mich
+<lb n="60" />zu dero ferneren gunsten und wolgewogenheit. Die zeit meines
+<lb n="61" />lebens verbleibend
+<lb n="62" />eurer ehrenvesten weisheit und hochachtbarkeiten
+<lb n="63" />getrewer underthenigster und 
+<lb n="64" />gehorsambster burger 
+<lb n="65" />und underthan
+<lb n="66" /><persName ref="stadtasg-actors-834" role="issuer">Barthlome Anhorn</persName>, derzeit
+<lb n="67" />pfarer und inspector
+<lb n="68" />zu <placeName ref="stadtasg-places-288">Mosbach</placeName> in der churfürstlichen
+<lb n="69" /><placeName ref="stadtasg-places-143">Pfaltz</placeName>
+<lb n="70" /><origPlace ref="stadtasg-places-288">Mosbach</origPlace> den <origDate when="1650-10-23">23. octobris 1650</origDate>.
+<pb facs="StadtASG_Missive_4064_16421.jpg" n="3" />
+<pb facs="StadtASG_Missive_4064_16422.jpg" n="4" />
+<lb n="71" />Denen wol-edlen gestrengen vesten ehren
+<lb break="no" n="72" />vesten hochgelehrten frommen fürsichtigen 
+<lb n="73" />ehrsamen und weisen herren herren <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="74" />meister klein- und großen rhäten der
+<lb n="75" />loblichen statt st. Gallen</orgName> meinen hochgeehrten
+<lb n="76" />gnedigen gebietenden herren und vättern
+<lb n="77" />zu handen.
+</p>
+        </body>
+    </text>
+</TEI>

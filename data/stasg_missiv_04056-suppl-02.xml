@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4056 Beilage 2</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. <ref target="stasg_missiv_04056.xml">4056</ref>. Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_4056_16381/16384</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schreiben von Henri II. de Rohan mit dem Pfarrer Ambroise Faget an Jacques Dupuy betreffend die Religionsauseinandersetzungen in La Rochelle.</p>            </abstract>
+            <langUsage>
+                <language ident='fra'>Französisch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-484">Kriegshilfe</term>
+<term ref="stadtasg-keywords-366">Religion</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-770">Henri II. de Rohan</persName>
+                    <persName ref="stadtasg-actors-772">Ambroise Faget</persName>                    <date>1627-09-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-769">Jacques Dupuy</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2024-09-16</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-11-12</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4056_16381.jpg" n="1" />
+<p>
+<pb facs="StadtASG_Missive_4056_16382.jpg" n="2" />
+<pb facs="StadtASG_Missive_4056_16383.jpg" n="3" />
+<pb facs="StadtASG_Missive_4056_16384.jpg" n="4" />
+</p>
+        </body>
+    </text>
+</TEI>

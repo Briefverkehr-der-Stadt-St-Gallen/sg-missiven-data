@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4044</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 4. Juli 1650 vor dem Rat verlesen. Der Unterschied zwischen den Datierungen geht auf die unterschiedlichen Kalender (gregorianisch/julianisch) zurück. Zur Sache siehe auch den zur Transkription zurückgestellten Entwurf Nr. <ref target="stasg_missiv_04031.xml">4031</ref> sowie die Missive Nr. <ref target="stasg_missiv_04033.xml">4033</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4044_16325/16328</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Verwalter der Hauptmannschaft, Bürgermeister und Rat zu Konstanz bitten Bürgermeister und Rat zu St. Gallen, ihren Bürger Joachim Spengler und dessen Beistand Niklaus Schmidt, Gerichtsschreiber und Konstanzer Bürger, während ihres Aufenthalts in St. Gallen zu unterstützen. Spengler, Zeiger des Briefs, möchte die Witwe des verstobenen Konstanzer Bürgers Michael Spengler heiraten und für sein neu erhaltenes Konstanzer Bürgerrecht seine Geburtsbriefe und sein väterliches Gut in St. Gallen auslösen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-112">Bürgerrecht</term>
+<term ref="stadtasg-keywords-662">Geburtsbrief</term>
+<term ref="stadtasg-keywords-349">Heirat</term>
+<term ref="stadtasg-keywords-316">Obrigkeit</term>
+<term ref="stadtasg-keywords-551">Gut</term>
+<term ref="stadtasg-keywords-351">Handwerk</term>
+<term ref="stadtasg-keywords-177">Witwe</term>
+<term ref="stadtasg-keywords-373">Schreiber</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-609">Schwager</term>
+<term ref="stadtasg-keywords-345">Zeiger</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-527">Vater</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-587">Hauptmann, Bürgermeister und Rat zu Konstanz</orgName>                    <date>1650-07-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2024-09-16</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-02-18</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4044_16325.jpg" n="1" />
+<p>
+<lb n="1" />Unser freündt-nachparlich unnd guetwillige
+<lb n="2" />dienst zuvor fürsichtige ehrsambe unnd
+<lb n="3" />weise besonders liebe freündt unnd guete
+<lb n="4" />nachparen.
+<lb n="5" />Unnß hat überandtworter dis unser burger
+<lb n="6" /><persName ref="stadtasg-actors-831">Joachim Spengler</persName> underthenig zuvernehmen
+<lb n="7" />gegeben, waß gestalten er, nachdeme er von
+<lb n="8" />unnß mit dem burgerrechten begnadiget worden
+<lb n="9" />unnd darauffhin nechst verwichenen monats mit
+<lb n="10" />unseres gewesten burgers <persName ref="stadtasg-actors-870">Michael Spenglers</persName>
+<lb n="11" />seelig hinderlasßnen wittibin hochzeit gehalten vor
+<lb break="no" n="12" />habens wäre, sich in begleitung auch unseres
+<lb n="13" />burgers unnd gerichtschreibers auff den <placeName ref="stadtasg-places-296" cert="medium">Eggen</placeName><!--Evt. Ehemalige Vogtei beziehungsweise Niedergericht TG-->,
+<lb n="14" /><persName ref="stadtasg-actors-869">Niclauß Schmidts</persName> (allweilen sein schwager
+<lb n="15" /><persName ref="stadtasg-actors-832">Johann Pfeil</persName>, raitheschreiber, in ambtsgeschäfften
+<lb n="16" />dermahlen verhinderet, welchen wir ihme,
+<lb n="17" />wie vormals auch beschehen, zue adjungieren ge
+<lb break="no" n="18" />maint) ehist nacher <placeName ref="stadtasg-places-38">st. Gallen</placeName> zuerheben
+<lb n="19" />unnd daselbsten nicht allein seine geburts
+<lb n="20" />brieff, sonderen auch sein verfangen vätterlich
+<lb n="21" />güetlin abzueholen gehorsamblich pittend,
+<lb n="22" />wormit er desto schleiniger zue dem ainen unnd
+<lb n="23" />anderen gelangen möge, ihme mit unserer
+<pb facs="StadtASG_Missive_4044_16326.jpg" n="2" />
+<lb n="24" />intercession an eüch befürderlich zuesein. Obwohlen
+<lb n="25" />wir eüch nun von selbsten zue aller billicheit sonders
+<lb n="26" />genaigt wüsßen, dahero gar nicht zweifflen, das
+<lb n="27" />ihr auch ohne unser vorschreiben ihme, <persName ref="stadtasg-actors-831">Spengler</persName>, zue
+<lb n="28" />der gebüehr verholffen haben wurden, so haben
+<lb n="29" />wir doch demselben burgerlicher verwandtnuß
+<lb n="30" />halber die gebettne intercession nicht verwaigeren
+<lb n="31" />wollen.
+<lb n="32" />Ist demnach an eüch unser dienst-freündt- unnd
+<lb n="33" />nachparliches ersuechen, ihr wollen ohnbeschwert sein,
+<lb n="34" />ihme, <persName ref="stadtasg-actors-831">Spengler</persName>, auff sein unnd gemelts seines
+<lb n="35" />geleitsmans unnd beystandts gebüehrendes an
+<lb break="no" n="36" />melden nicht allein zue den brieffen seiner
+<lb n="37" />eheelichen geburth, sonderen auch seinem bey
+<lb break="no" n="38" />ligend habenden güetlein also fürdersamb zue
+<lb break="no" n="39" />verhelffen, auch das er ehist ab dem costen wider
+<lb n="40" />alhero zue seiner haußhaltung unnd werkhstatt
+<lb n="41" />gelangen unnd also diser unserer intercession
+<lb n="42" />würkhlichen genosßen zuehaben verspüeren
+<lb n="43" />möge.
+<lb n="44" />Solche mehrgedachtem <persName ref="stadtasg-actors-831">Spengler</persName> erzaigende obber
+<lb break="no" n="45" />kheitliche assistenz unnd unnß dardurch erweisende
+<pb facs="StadtASG_Missive_4044_16327.jpg" n="3" />
+<lb n="46" />nachparliche willfahr umb eüch unnd ewere ange
+<lb break="no" n="47" />hörige data occasione in andere weeg zuebeschulden,
+<lb n="48" />wollen wir unvergesßen sein. Unnß dabey
+<lb n="49" />gottes obacht sambtlichen wolbevehlendt. Geben
+<lb n="50" />den <origDate when="1650-07-12">12. july anno 1650</origDate>.
+<lb n="51" /><orgName ref="stadtasg-actors-587" role="issuer">Verwalter der haupt
+<lb break="no" n="52" />manschaft auch burger
+<lb break="no" n="53" />maister unnd rath der
+<lb n="54" />statt Costannz</orgName>.
+<pb facs="StadtASG_Missive_4044_16328.jpg" n="4" />
+<lb n="55" />Denn fürsichtigen ehrsamben unnd weisen
+<lb n="56" /><orgName ref="stadtasg-actors-148" role="recipient">burgermaister unnd rath der statt
+<lb n="57" />st. Gallen</orgName> unseren besonders lieben
+<lb n="58" />freünden unnd gueten nachparen.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4047</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Entwurf. Die Transkription wurde zurückgestellt. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_04046.xml">4046</ref>, <ref target="stasg_missiv_04049.xml">4049</ref>, <ref target="stasg_missiv_04051.xml">4051</ref> und <ref target="stasg_missiv_04054.xml">4054</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4047_16337/16340</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen bitten Verwalter der Hauptmannschaft, Bürgermeister und Rat zu Konstanz um die Überstellung eines in Konstanz gefassten Leinwanddiebs. Die Bitte um Überstellung samt Übernahme der Transportkosten durch St. Gallen wird mit dem Ort des Delikts begründet. Da die Diebstähle in St. Gallen geschehen waren, sollte der Täter auch vor Ort in St. Gallen und nicht in Konstanz verhört und bestraft werden. Von der fürstäbtischen Verwaltung haben die St. Galler bereits die Bewilligung für den Transport des Täters durch das Herrschaftsgebiet erhalten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-281">Entwurf</term>
+<term ref="stadtasg-keywords-258">Leinwand</term>
+<term ref="stadtasg-keywords-510">Leinwanddiebstahl</term>
+<term ref="stadtasg-keywords-76">Delikt</term>
+<term ref="stadtasg-keywords-21">Rechtshilfe</term>
+<term ref="stadtasg-keywords-431">Bleicher</term>
+<term ref="stadtasg-keywords-193">Gerichtsort</term>
+<term ref="stadtasg-keywords-365">Transport</term>
+<term ref="stadtasg-keywords-141">Befragung</term>
+<term ref="stadtasg-keywords-252">Prozess</term>
+<term ref="stadtasg-keywords-201">Abt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                    <date>1650-08-19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-587">Hauptmann, Bürgermeister und Rat zu Konstanz</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2024-09-16</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-11-22</date>
+                </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4047_16337.jpg" n="1" />
+<p>
+<pb facs="StadtASG_Missive_4047_16338.jpg" n="2" />
+<pb facs="StadtASG_Missive_4047_16339.jpg" n="3" />
+<pb facs="StadtASG_Missive_4047_16340.jpg" n="4" />
+</p>
+        </body>
+    </text>
+</TEI>

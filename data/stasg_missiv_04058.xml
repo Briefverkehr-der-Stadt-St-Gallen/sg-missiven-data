@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4058</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 24. September 1650 vor dem Rat verlesen. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_03910.xml">3910</ref>, <ref target="stasg_missiv_03914.xml">3914</ref>, <ref target="stasg_missiv_03916.xml">3916</ref>, <ref target="stasg_missiv_03917.xml">3917</ref>, <ref target="stasg_missiv_03918.xml">3918</ref>, <ref target="stasg_missiv_03919.xml">3919</ref>, <ref target="stasg_missiv_03923.xml">3923</ref>, <ref target="stasg_missiv_03924.xml">3924</ref>, <ref target="stasg_missiv_03926.xml">3926</ref>, <ref target="stasg_missiv_03953.xml">3953</ref> und <ref target="stasg_missiv_03958.xml">3958</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4058_16393/16396</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Überlingen ersuchen Bürgermeister und Rat zu St. Gallen um Aufschub der fälligen Jahreszinszahlung für ein Darlehen. Es sei Überlingen wegen der auferlegten Kriegslasten unmöglich, die Mittel zu beschaffen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-10">Zins</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term  ref="stadtasg-keywords-83">Frieden</term>
+<term ref="stadtasg-keywords-405">Reich</term>
+<term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-222">Darlehen</term>
+<term ref="stadtasg-keywords-221">Rückzahlung</term>
+<term ref="stadtasg-keywords-126">Reichsstadt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-68">Bürgermeister und Rat zu Überlingen</orgName>                    <date>1650-09-20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>WH</persName>
+                <date>2025-01-08</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-02-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4058_16393.jpg" n="1" />
+<p>
+<lb n="1" />Edle veste ehrnveste fromb fürsichtig ehrsamb und weise gnedigste
+<lb n="2" />und geehrte herren euer edle veste fürsichtige weisheit seyen unser fründtlich-guet
+<lb break="no" n="3" />willige dienst bevor.
+<lb n="4" />Wir seindt noch unvergessen, sonder behalten immer in frischer gedächtnuß den
+<lb n="5" />sonderen favor, den euer edle veste fürsichtige weisheit mit vorgelichenen geltern unß bewisen.
+<lb n="6" />Wolten auch nichts liebers als hergegen unser danckbares gemüeth mit bezahlung
+<lb n="7" />deß lengst verfallenen jahrs zins schuldiger massen bezeigen, wann nicht
+<lb n="8" />die ubermässige unß biß dahero continuirlich obgelegene kriegs beschwerden
+<lb n="9" />solches verhindert hetten. Dann ob wir zwar gehofft, es solten die
+<lb n="10" />fridens sach dergestalt beschleuniget und befürdert werden, daß wir zeit
+<lb break="no" n="11" />lich etwas lufft bekhommen und bey geniessung der fridens früchten die
+<lb n="12" />zahlungs mittel würckhlich ergreiffen möchten, so haben doch
+<lb n="13" />die verweilte nürenbergische executions tractaten und die hierzwischen auff
+<lb n="14" />dem hals gelegene quartir nebent der hochentwielischen contributionen
+<lb n="15" />(so uns monatlich uber 4000 <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> bestanden) solches nicht zuegeben, sonder die
+<lb n="16" />höchste unmöglichkheit causirt. Dannenhero unser dienst-fründtlich pit,
+<lb n="17" />euer edle veste fürsichtige weisheit wollen dise verzügerung zue ungleichem nicht auffnemmen
+<lb n="18" />und bey so beschaffenen dingen noch fernere gedult so lang mit uns haben, biß
+<lb n="19" />durch gottes gnad (wie zuehoffen) wir zue besseren kräfften nechstkünfftig
+<lb n="20" />gelangen und erforderter schuldighkeit nach uns einstellen mögen allermassen
+<lb n="21" />vorderist uns angelegen sein, auch sonsten in all mögliche weeg dise gnedigst beschuldet
+<lb n="22" />werden solle. Under dessen dem lieben gott zue obhalt uns allerseits be
+<lb break="no" n="23" />befehlende. Datum den <origDate when="1650-09-20">20ten septembris anno 1650</origDate>.
+<lb n="24" />Euer edlen vesten fürsichtigkeit und weisheit
+<lb n="25" />fründt-dienstwillige
+<lb n="26" /><orgName ref="stadtasg-actors-68" role="issuer">burgermeister und rath
+<lb n="27" />des heyligen römischen reichs
+<lb n="28" />statt Uberlingen</orgName>.
+<pb facs="StadtASG_Missive_4058_16394.jpg" n="2" />
+<pb facs="StadtASG_Missive_4058_16395.jpg" n="3" />
+<pb facs="StadtASG_Missive_4058_16396.jpg" n="4" />
+<lb n="29" />Denn edlen vesten ehrnvesten fromb fürsichtig ehr
+<lb break="no" n="30" />sam und weisen herren <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rath der
+<lb n="31" />stat st. Gallen</orgName> etc. unseren gnedigen geehrten herren unnd 
+<lb n="32" />gueten nachbaren.
+</p>
+        </body>
+    </text>
+</TEI>

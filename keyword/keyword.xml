@@ -12,18 +12,18 @@
       <publicationStmt>
         <publisher/>
         <pubPlace>St. Gallen</pubPlace>
-        <date when="2024">2024</date>
+        <date when="2025">2025</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0</licence>
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2024-10-07 13:09:11 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
+        <p>Datenbankexport vom 2025-03-11 10:24:34 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2024-10-07T13:09:11+02:00">teiHeader was automatically produced from the database 2024-10-07T13:09:11+02:00</change>
+      <change when="2025-03-11T10:24:34+01:00">teiHeader was automatically produced from the database 2025-03-11T10:24:34+01:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -81,15 +81,6 @@
             </bibl>
             <bibl>
               <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/186095"/>
-            </bibl>
-          </listBibl>
-        </item>
-        <item xml:id="stadtasg-keywords-7">
-          <label xml:lang="de" type="main">Bewerbungsschreiben</label>
-          <label xml:lang="de" type="sort">bewerbungsschreiben</label>
-          <listBibl>
-            <bibl>
-              <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-keyword.xq?id=key005529"/>
             </bibl>
           </listBibl>
         </item>
@@ -752,6 +743,9 @@
             <bibl>
               <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-keyword.xq?id=key005254"/>
             </bibl>
+            <bibl>
+              <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/127466"/>
+            </bibl>
           </listBibl>
         </item>
         <item xml:id="stadtasg-keywords-81">
@@ -1000,6 +994,9 @@
           <listBibl>
             <bibl>
               <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-keyword.xq?id=key000043"/>
+            </bibl>
+            <bibl>
+              <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/229373"/>
             </bibl>
           </listBibl>
         </item>
@@ -1273,9 +1270,15 @@
         <item xml:id="stadtasg-keywords-142">
           <label xml:lang="de" type="main">Ordnung</label>
           <label xml:lang="de" type="sort">ordnung</label>
+          <note type="description" xml:lang="de">
+            <p>Vorschrift, Verordnung, Gesetz</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-keyword.xq?id=key000341"/>
+            </bibl>
+            <bibl>
+              <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/159926"/>
             </bibl>
           </listBibl>
         </item>
@@ -2001,6 +2004,15 @@
             <bibl>
               <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-keyword.xq?id=key005572"/>
             </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Armagnaken"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q301905"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4656090-7"/>
+            </bibl>
           </listBibl>
         </item>
         <item xml:id="stadtasg-keywords-227">
@@ -2355,6 +2367,9 @@
           <listBibl>
             <bibl>
               <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-keyword.xq?id=key000412"/>
+            </bibl>
+            <bibl>
+              <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/119519"/>
             </bibl>
           </listBibl>
         </item>
@@ -3170,6 +3185,11 @@
         <item xml:id="stadtasg-keywords-377">
           <label xml:lang="de" type="main">Bader</label>
           <label xml:lang="de" type="sort">bader</label>
+          <listBibl>
+            <bibl>
+              <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/160494"/>
+            </bibl>
+          </listBibl>
         </item>
         <item xml:id="stadtasg-keywords-378">
           <label xml:lang="de" type="main">Bannerherr</label>
@@ -3821,6 +3841,20 @@
           <note type="description" xml:lang="de">
             <p>Finanzverwalter, Seckelmeister, Fiskal</p>
           </note>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Säckelmeister"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1258312"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/010245"/>
+            </bibl>
+            <bibl>
+              <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/188009"/>
+            </bibl>
+          </listBibl>
         </item>
         <item xml:id="stadtasg-keywords-498">
           <label xml:lang="de" type="main">Säckel</label>
@@ -4183,12 +4217,17 @@
           <label xml:lang="de" type="main">Agent</label>
           <label xml:lang="de" type="sort">agent</label>
           <note type="description" xml:lang="de">
-            <p>jemand, der im Auftrag eines anderen Geschäfte vermittelt und abschließt, Käufe o. Ä. tätigt, Unterhändler</p>
+            <p>jemand, der im Auftrag eines anderen Geschäfte vermittelt und abschliesst, Käufe o. Ä. tätigt, Unterhändler</p>
           </note>
-          <note type="sources">https://www.dwds.de/wb/Agent</note>
           <listBibl>
             <bibl>
               <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/102210"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q24229398"/>
+            </bibl>
+            <bibl>
+              <ptr type="frühneuhochdeutsches-wörterbuch" target="https://fwb-online.de/lemma/agent.s.0m?q=agent&amp;page=1"/>
             </bibl>
           </listBibl>
         </item>
@@ -5029,6 +5068,191 @@
         <item xml:id="stadtasg-keywords-647">
           <label xml:lang="de" type="main">Evangelium</label>
           <label xml:lang="de" type="sort">evangelium</label>
+        </item>
+        <item xml:id="stadtasg-keywords-651">
+          <label xml:lang="de" type="main">Tante</label>
+          <label xml:lang="de" type="sort">tante</label>
+        </item>
+        <item xml:id="stadtasg-keywords-652">
+          <label xml:lang="de" type="main">Hugenottenaufstand</label>
+          <label xml:lang="de" type="sort">hugenottenaufstand</label>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Hugenottenaufstände"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q3454505"/>
+            </bibl>
+          </listBibl>
+        </item>
+        <item xml:id="stadtasg-keywords-653">
+          <label xml:lang="de" type="main">Hugenotten</label>
+          <label xml:lang="de" type="sort">hugenotten</label>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Hugenotten"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q101935"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/Huguenot"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh85062809"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4026112-8"/>
+            </bibl>
+          </listBibl>
+        </item>
+        <item xml:id="stadtasg-keywords-654">
+          <label xml:lang="de" type="main">Hugenottenkrieg</label>
+          <label xml:lang="de" type="sort">hugenottenkrieg</label>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Hugenottenkriege"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q673175"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh85051298"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4160768-5"/>
+            </bibl>
+          </listBibl>
+        </item>
+        <item xml:id="stadtasg-keywords-656">
+          <label xml:lang="de" type="main">Waisenhaus</label>
+          <label xml:lang="de" type="sort">waisenhaus</label>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4139280-2"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q160645"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/orphanage"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh85095748"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Waisenhaus"/>
+            </bibl>
+          </listBibl>
+        </item>
+        <item xml:id="stadtasg-keywords-657">
+          <label xml:lang="de" type="main">Zuchthaus</label>
+          <label xml:lang="de" type="sort">zuchthaus</label>
+          <listBibl>
+            <bibl>
+              <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/213387"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4117696-0"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q227691"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Zuchthaus"/>
+            </bibl>
+          </listBibl>
+        </item>
+        <item xml:id="stadtasg-keywords-658">
+          <label xml:lang="de" type="main">Westfälischer Friede</label>
+          <label xml:lang="de" type="sort">westfaelischer friede</label>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Westfälischer_Friede"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q150995"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/event/Peace-of-Westphalia"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n85350483"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/008908"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/180619198/"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4065777-2"/>
+            </bibl>
+          </listBibl>
+        </item>
+        <item xml:id="stadtasg-keywords-659">
+          <label xml:lang="de" type="main">Einquartierung</label>
+          <label xml:lang="de" type="sort">einquartierung</label>
+          <note type="description" xml:lang="de">
+            <p>Zumeist im Kriegsfall, die Zuweisung und Aufnahme des Militärpersonals in zivile Wohnbereiche</p>
+          </note>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4504016-3"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1308509"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Einquartierung"/>
+            </bibl>
+          </listBibl>
+        </item>
+        <item xml:id="stadtasg-keywords-660">
+          <label xml:lang="de" type="main">Halsgerichtsordnung</label>
+          <label xml:lang="de" type="sort">halsgerichtsordnung</label>
+          <listBibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Constitutio_Criminalis_Carolina"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q695790"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/n85278584"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/008949"/>
+            </bibl>
+            <bibl>
+              <ptr type="viaf" target="https://viaf.org/viaf/186509535/"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4122991-5"/>
+            </bibl>
+          </listBibl>
+        </item>
+        <item xml:id="stadtasg-keywords-661">
+          <label xml:lang="de" type="main">Fürstin</label>
+          <label xml:lang="de" type="sort">fuerstin</label>
+        </item>
+        <item xml:id="stadtasg-keywords-662">
+          <label xml:lang="de" type="main">Geburtsbrief</label>
+          <label xml:lang="de" type="sort">geburtsbrief</label>
+          <listBibl>
+            <bibl>
+              <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/120404"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4748280-1"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1468575"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Geburtsbrief"/>
+            </bibl>
+          </listBibl>
         </item>
       </list>
       <p/>

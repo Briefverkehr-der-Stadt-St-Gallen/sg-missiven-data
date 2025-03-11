@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4035</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 4. Juni 1650 vor dem Rat verlesen. Der Unterschied zwischen den Datierungen geht auf die unterschiedlichen Kalender (gregorianisch/julianisch) zurück.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4035_16287/16290</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Maximilian, Pfalzgraf bei Rhein, Herzog in Ober- und Niederbayern und Erztruchsess und Kurfürst des Reichs, bedankt sich bei Bürgermeister und Rat zu St. Gallen für die freundliche Aufnahme und die Ehrerweisungen seines Geheimrates Doktor Johann Adolph Krebs, der wegen Geschäften für eine Zeit in St. Gallen weilte und nach seiner Rückkehr nach München über seinen freundlichen Empfang Maximilian Bericht erstattet hatte. Maximilian versichert Bürgermeister und Rat sein Wohlwollen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-305">Ehre</term>
+<term ref="stadtasg-keywords-12">Gesandter</term>
+<term ref="stadtasg-keywords-278">Graf</term>
+<term ref="stadtasg-keywords-277">Herzog</term>
+<term ref="stadtasg-keywords-405">Reich</term>
+<term ref="stadtasg-keywords-348">Kurfürst</term>
+<term ref="stadtasg-keywords-184">Truchsess</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-847">Maximilian I., Pfalzgraf bei Rhein</persName><placeName ref="stadtasg-places-27">München</placeName>                    <date>1650-06-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2024-09-16</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-02-17</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4035_16287.jpg" n="1" />
+<p>
+<lb n="1" />Von gottes genaden <persName ref="stadtasg-actors-847">Maximilian</persName>, pfalzgraf bey
+<lb n="2" /><placeName ref="stadtasg-places-143">Rhein</placeName>, herzog in obern unnd nidern <placeName ref="stadtasg-places-132">Bayrn</placeName> etc., des
+<lb n="3" /><orgName ref="stadtasg-actors-559">Heiligen Römischen Reichs</orgName> erztruchseß und curfürst.
+<lb n="4" />Unnsern grueß zuvor fürsichtig ersamb und weise besonder
+<lb n="5" />liebe. Unns ist durch unsern nacher <placeName ref="stadtasg-places-38">st. Gallen</placeName> gewisser
+<lb n="6" />geschefften halber abgeordneten gehaimen rhat dr. <persName ref="stadtasg-actors-848">Johan Adolph
+<lb n="7" />Krebsen</persName> zu seiner wider ankhonfft undrthenigist referirt
+<lb n="8" />worden, was von unsertwegen er in seinem anwesen von euch
+<lb n="9" />und gemainer statt für courtesia und guten willen
+<lb n="10" />empfangen. Wan unß nun solche eur bezaigung zu gnädigem
+<lb n="11" />gefallen raichet, als haben wir unser dankhbarkhait durch
+<lb n="12" />dies schreiben erzaigen und euch beinebens versichern wollen,
+<lb n="13" />das wir es in andren begebenheiten zuerkhenen in khein ver
+<lb break="no" n="14" />gessenheit stellen werden. Und sind euch dabei mit gnaden
+<lb n="15" />wolgewogen. Datum in unserer statt <origPlace ref="stadtasg-places-27">München</origPlace> den
+<lb n="16" /><origDate when="1650-06-08">8. monatstag junii anno 1650</origDate>.
+<lb n="17" /><persName ref="stadtasg-actors-847" role="issuer">Maximilian</persName>.
+<pb facs="StadtASG_Missive_4035_16288.jpg" n="2" />
+<pb facs="StadtASG_Missive_4035_16289.jpg" n="3" />
+<pb facs="StadtASG_Missive_4035_16290.jpg" n="4" />
+<lb n="18" />Denn fürsichtigen ersamen unnd weisen
+<lb n="19" />unnser besonder lieben <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und
+<lb n="20" />rhate der statt st. Gallen</orgName> in der <placeName ref="stadtasg-places-287">Schweiz</placeName>.
+<lb n="21" /><placeName ref="stadtasg-places-38">St. Gallen</placeName>.
+</p>
+        </body>
+    </text>
+</TEI>

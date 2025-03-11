@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 3847</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Abschrift. Die Transkription wurde zurückgestellt. Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_03850.xml">3850</ref>, mit der Antwort von J. Volkmar und die Missiven Nrn. 3832-3838, 3842, 3860.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_3847_15511/15512</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen setzen sich bei Joachim Volkmar, Obrist und Generalmajor der schwedischen Armee und Kommandant zu Überlingen, für zwei ihrer Bürger ein. Diese hätten Salzfässchen gekauft, die ihnen auf einem lindauischen Schiff zugeschickt werden sollten. Dieses Schiff sei von Volkmar unterstellten Soldaten aufgegriffen und die Ladung sei nach Überlingen verbracht worden. Bürgermeister und Rat zu St. Gallen ersuchen den Kommandanten, dass die Salzfässchen frei gegeben und den Käufern unentgeltlich und ohne Verzug zurückgegeben werden.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                <term ref="stadtasg-keywords-224">Schiff</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-191">Salz</term>
+<term ref="stadtasg-keywords-365">Transport</term>
+<term ref="stadtasg-keywords-168">Abschrift</term>
+<term ref="stadtasg-keywords-232">Kommandant</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                    <date>1648-09-15</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-824">Joachim von Volkmar</persName>                 </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>WH</persName>
+                <date>2025-01-08</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-01-27</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_3847_15511.jpg" n="1" />
+<p>
+<pb facs="StadtASG_Missive_3847_15512.jpg" n="2" />
+</p>
+        </body>
+    </text>
+</TEI>

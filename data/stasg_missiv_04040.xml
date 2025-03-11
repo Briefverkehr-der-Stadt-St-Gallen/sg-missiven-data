@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4040</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Entwurf. Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4040_16311/16312</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ein namentlich nicht erwähnter Absender bedankt sich persönlich und im Namen des Rats zu St. Gallen für die zwei dem Rat als Geschenk überreichten Wildkälber, welche von den Wildschützen von Graf Hugo von Montfort samt Brief nach St. Gallen gebracht worden waren. Mit dem Dankesschreiben wird ein Stück St. Galler Leinwand, in Ermangelung von Besserem, als Geschenk für die Ehefrau des Grafen mitgeschickt.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-281">Entwurf</term>
+<term ref="stadtasg-keywords-278">Graf</term>
+<term ref="stadtasg-keywords-189">Vieh</term>
+<term ref="stadtasg-keywords-164">Tuch</term>
+<term ref="stadtasg-keywords-258">Leinwand</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-603">NN</persName>                    <date>1650-07-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-852">Hugo XVIII. von Montfort</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2024-09-16</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-02-18</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4040_16311.jpg" n="1" />
+<p>
+<pb facs="StadtASG_Missive_4040_16312.jpg" n="2" />
+</p>
+        </body>
+    </text>
+</TEI>

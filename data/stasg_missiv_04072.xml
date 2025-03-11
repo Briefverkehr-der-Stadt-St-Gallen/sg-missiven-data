@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4072</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 19. Dezember 1650 vor dem Rat verlesen. Der Unterschied zwischen den Datierungen geht auf die unterschiedlichen Kalender (gregorianisch/julianisch) zurück.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4072_16455/16458</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Johann Michael Wagner, Amtmann der Herrschaft Langenargen, berichtet Bürgermeister und Rat zu St. Gallen im Auftrag des Grafen Hugo zu Montfort, Herr von Bregenz, zu Tettnang und Langenargen, dass der St. Galler Bürger Kaspar Haltmeyer, genannt Güggi, im nieder- und hochgerichtlichen Hoheitsgebiet der Herrschaft Langenargen einen Konflikt mit Hans Muffler, Bürger und Metzger zu Langenargen, angefangen habe. Wagner ersucht Bürgermeister und Rat zu St. Gallen, Güggi vorzuladen, damit er, da der Konflikt in Langenargen ausgebrochen sei, dort vor dem Grafen Red und Antwort geben solle.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+   <term ref="stadtasg-keywords-278">Graf</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-128">Fleisch</term>
+<term ref="stadtasg-keywords-279">Herrschaft</term>
+<term ref="stadtasg-keywords-146">Metzger</term>
+<term ref="stadtasg-keywords-124">Knecht</term>
+<term ref="stadtasg-keywords-582">Wirt</term>
+<term ref="stadtasg-keywords-244">Amt</term>
+<term ref="stadtasg-keywords-359">Meister</term>
+<term ref="stadtasg-keywords-193">Gerichtsort</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-858">Johann Michael Wagner</persName><placeName ref="stadtasg-places-84">Langenargen</placeName>                    <date>1650-12-28</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>WH</persName>
+                <date>2025-01-08</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-02-18</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4072_16455.jpg" n="1" />
+<p>
+<lb n="1" />Edle hochgelehrte ehrnveste ersame und weise
+<lb n="2" />insonders gnedigste hochgeehrte herrn.
+<lb n="3" />Denselben seyen zwar meine ganz geneigt- und gefliß
+<lb n="4" />willigste dienst möglichistes fleiß bevoran, darbey aber
+<lb n="5" />auß gehaiß und gnedig empfangnen bevelch deß hoch
+<lb break="no" n="6" />gebornen herrn herrn <persName ref="stadtasg-actors-852">Haugen grafen zu Montforth</persName>,
+<lb n="7" />herrn von <placeName ref="stadtasg-places-60">Bregenz</placeName>, zue <placeName ref="stadtasg-places-93">Tettnang</placeName> und <placeName ref="stadtasg-places-84">Argen</placeName> etc. meinem
+<lb n="8" />gnedigen grafen und herrn, den großgnedigen hoch- und ge
+<lb break="no" n="9" />ehrten herrn gebürendt zu hinderbringen, mir ohnumb
+<lb break="no" n="10" />genglich obligen will, welchergestalten negstverwichner
+<lb n="11" />zeit dero mitburger <persName ref="stadtasg-actors-860">Caspar Haldtmayrn</persName>, Güggi<note>Im Weiteren wird Kaspar Haltmeyer nur noch Güggi genannt.</note> ge
+<lb break="no" n="12" />nant, in hochwolermelts meinen gnedigsten grafen und herrn
+<lb n="13" />alligklicher hocher und niderer iurisdiction zu <placeName ref="stadtasg-places-84">Argen</placeName>
+<lb n="14" />einen stritt und iniuri handel mit <persName ref="stadtasg-actors-862">Hanß Mufflern</persName>,
+<lb n="15" />burger und fleisch hackhern zu besagtem <placeName ref="stadtasg-places-84">Argen</placeName>, angefangen,
+<lb n="16" />auch hierinnen merckhlichen pecciert, aber solch ange
+<lb break="no" n="17" />fangenes werkch auff vilfeltigs wolmeinendes er
+<lb break="no" n="18" />innern kheines wegs volzogen, hingegen ernanten
+<lb n="19" /><persName ref="stadtasg-actors-862">Hanß Muffler</persName>, burger und underthan, die hochgnedigste ob
+<lb break="no" n="20" />rigkheitliche handtreichung zum öfftern underthenig
+<lb n="21" />sollicitiert, welches ime billich nicht zuverwaigern
+<lb n="22" />gewesen.
+<lb n="23" />Allß ist mehr und hochermelter mein gnedigster graf und 
+<lb n="24" />herr etc. endtlichen verursacht worden, biß zue außfü
+<pb facs="StadtASG_Missive_4072_16456.jpg" n="2" />
+<lb break="no" n="25" />rung seines angefangnen stritts und iniuri handelß 
+<lb n="26" />dero besagten mitburgern von seinen alhier durchgehenden
+<lb n="27" />13. schaffen 4. dakhen anhalten zue lassen, biß er gleichwollen
+<lb n="28" />darumben redt und antwort geben werde.
+<lb n="29" />Allweilen aber besagten <persName ref="stadtasg-actors-860">Güggis</persName> mezger knecht vor sich
+<lb n="30" />selbsten alle schaff an dem würth stehen lassen und solches
+<lb n="31" />seinem maister zue referieren begert, so man ime nit in
+<lb n="32" />abredt sein khönnen.
+<lb n="33" />Wann aber sonder hero er, <persName ref="stadtasg-actors-860">Güggi</persName>, im wenigsten ant
+<lb break="no" n="34" />wort gegeben, allß ist vil und mehrernanter mein 
+<lb n="35" />gnedigster graff und herr dahin verursacht worden, meinen grossgnedigsten 
+<lb n="36" />hoch- und geehrten herrn ganz fründtlich zuersuechen, daß dieselb
+<lb n="37" />inen hetten belieben lassen, mehrbesagten <persName ref="stadtasg-actors-860">Güggi</persName>, allweilen
+<lb n="38" />er daß delictum in mehrbesagten <placeName ref="stadtasg-places-84">Argen</placeName> begangen, gne
+<lb break="no" n="39" />dig auffzuerladen, damit er sich alhir vor hochgräflicher gne
+<lb break="no" n="40" />diger audienz einstellen und wegen angefangen stritts
+<lb n="41" />und iniuri handel gegen seiner wider parthey red und ant
+<lb break="no" n="42" />wort geben solle und wolle.
+<lb n="43" />Negst deme haben sich bereits seine hinderlassene schaff an
+<lb n="44" />dem wirth bey <persName ref="stadtasg-actors-863">Christoff Wacher</persName> allerdings verzehrt. Deme
+<lb n="45" />nach auffscheinung seiner persohn die billicheit admini
+<lb break="no" n="46" />striert werden solle, welches nun der billicheit ähnlich, alß
+<lb n="47" />haben sich meine gnedigste hoch- und geehrte herren zuver
+<pb facs="StadtASG_Missive_4072_16457.jpg" n="3" />
+<lb break="no" n="48" />sicheren, daß ein solches dickh und vilermelte mein gnedigster
+<lb n="49" />graf und herr auff dero und andere vorfallende occur
+<lb break="no" n="50" />rentien hinwiderumb fründtlich zuerwideren in khein ver
+<lb break="no" n="51" />gessenheit stellen werde. Thue damit negst in erwart
+<lb break="no" n="52" />tung wilfehriger resolution dieselbe sambt und sonders
+<lb n="53" />göttlicher gnaden wolbefehlende mithin verbleibende
+<lb n="54" />meiner gnedigsten hoch- und geehrten herren 
+<lb n="55" />dienstgeflüßwilligister
+<lb n="56" /><persName ref="stadtasg-actors-858" role="issuer">Johann Michael Wagner
+<lb n="57" />amptman der herrschafft
+<lb n="58" />Argen</persName>.
+<lb n="59" /><origPlace ref="stadtasg-places-84">Argen</origPlace> den <origDate when="1650-12-28">28. decembris
+<lb n="60" />anno 1650</origDate>.
+<pb facs="StadtASG_Missive_4072_16458.jpg" n="4" />
+<lb n="61" />Denen edlen hochgelehrten ehrnvesten ersamen und 
+<lb n="62" />weisen herren nomen nominandum <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rath der
+<lb n="63" />statt st. Gallen</orgName> meinen insonders gnedigsten und ge
+<lb break="no" n="64" />ehrten herren.
+</p>
+        </body>
+    </text>
+</TEI>

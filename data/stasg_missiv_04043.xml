@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4043</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Entwurf. Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4043_16321/16324</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen bitten im Namen ihres Bürgers Tobias Studer senior Bürgermeister und Rat zu Zürich um die Aufnahme seines gleichnamigen Sohns Tobias Studer ins Zucht- und Waisenhaus am Oetenbach in Zürich. Die Einrichtung nimmt auf Bitte der Eltern ungehorsame Kinder auf und hält sie dort zur Arbeit an. Tobias Studer junior leide an Tobsucht und Wahnwitzigkeit und hatte in Mellingen einen Streit wegen eines Kruzifixes begonnen. Deshalb befürchtet man in St. Gallen, er könnte einen Konflikt im Stiftsbezirk auslösen, weshalb der Vater seinen Sohn gerne in Zürich versorgen würde.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+  <term ref="stadtasg-keywords-281">Entwurf</term>
+<term ref="stadtasg-keywords-53">Krankheit</term>
+<term ref="stadtasg-keywords-346">Versorgung</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-469">Religionskonflikt</term>
+<term ref="stadtasg-keywords-270">Vormundschaft</term>
+<term ref="stadtasg-keywords-656">Waisenhaus</term>
+<term ref="stadtasg-keywords-">Zuchthaus</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                    <date>1650-07-11</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2024-09-16</date>
+            </change>
+           <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-11-22</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4043_16321.jpg" n="1" />
+<p>
+<pb facs="StadtASG_Missive_4043_16322.jpg" n="2" />
+<pb facs="StadtASG_Missive_4043_16323.jpg" n="3" />
+<pb facs="StadtASG_Missive_4043_16324.jpg" n="4" />
+</p>
+        </body>
+    </text>
+</TEI>

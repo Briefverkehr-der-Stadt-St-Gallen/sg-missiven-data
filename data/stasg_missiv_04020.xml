@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4020</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Entwurf. Die Transkription wurde zurückgestellt. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_04019.xml">4019</ref> und <ref target="stasg_missiv_04023.xml">4023</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4020_16235/16236</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen bestätigen Johann Wilhelm, Graf zu Königsegg und Rothenfels, den Erhalt seines Schreibens sowie das Vernehmen weiterer mündlicher Informationen durch den Gesandten des Grafen betreffend das Gesuch um einen Kredit zur Bezahlung der schwedischen Satisfaktionsgelder. Das Gesuch wird von den St. Gallern mit dem Hinweis auf die eigene prekäre finanzielle Situation abgewiesen. Die schwierige Situation St. Gallens habe mit Konkursen, dem Niedergang des Handels, vielen ausserordentlichen Ausgaben des städtischen Haushalts sowie einem kürzlichen Brand in der Vorstadt zu tun. Zudem seien bereits viele weitere gleichlautende und ebenfalls abgewiesene Darlehensgesuche von befreundeten Städten und Ständen eingegangen, welche St. Gallen ebenfalls ablehnen musste.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+    <term ref="stadtasg-keywords-281">Entwurf</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-606">Satisfaktion</term>
+<term ref="stadtasg-keywords-222">Darlehen</term>
+<term ref="stadtasg-keywords-41">Feuer</term>
+<term ref="stadtasg-keywords-91">Handel</term>
+<term ref="stadtasg-keywords-406">Konkurs</term>
+<term ref="stadtasg-keywords-624">Vorstadt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                    <date>1650-03-21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-806">Johann Wilhelm von Königsegg</persName>               </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-01-07</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4020_16235.jpg" n="1" />
+<p>
+<pb facs="StadtASG_Missive_4020_16236.jpg" n="2" />
+</p>
+        </body>
+    </text>
+</TEI>

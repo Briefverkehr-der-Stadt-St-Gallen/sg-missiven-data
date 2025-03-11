@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4021</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 23. März 1650 vor dem Rat verlesen. Aus dem Rückvermerk erschliesst sich der vollständige Name des Stipendiaten: "Abbenzell Ußerroden, ersuchen meine herren, ihren stypendiaten Conradt Walsern examinieren zu lasen."</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_4021_16237/16240</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Appenzell Ausserrhoden bitten Bürgermeister und Rat zu St. Gallen, ihren Landmann Konrad Walser zusammen mit dem St. Galler Christian Huber examinieren zu lassen, damit er seine Stelle als Priester in Teufen antreten könne. Nachdem Konrad Walser das geistliche Studium in Zürich abgeschlossen und danach in St. Gallen Theologie und Sprachen geübt habe, sei er nun bereit für die Examination.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+
+<term ref="stadtasg-keywords-320">Kirche</term>
+<term ref="stadtasg-keywords-435">Studium</term>
+<term ref="stadtasg-keywords-35">Priester</term>
+<term ref="stadtasg-keywords-433">Stipendium</term>
+<term ref="stadtasg-keywords-6">Schule</term>
+<term ref="stadtasg-keywords-104">Landmann</term>
+<term ref="stadtasg-keywords-154">Ammann</term>
+<term ref="stadtasg-keywords-87">Empfehlung</term>
+            </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-773">Ammann und Rat zu Appenzell Ausserrhoden</orgName>                    <date>1650-03-22</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-12-10</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4021_16237.jpg" n="1" />
+<p>
+<lb n="1" />Unnßer fründtlich willig dienst sambt waß wir ehren liebs
+<lb n="2" />unnd guts vermögend zuvor fromm fürsichtig ehrsam weiß
+<lb n="3" />besonders gut freünd unnd vertrauwte liebe nachbaren.
+<lb n="4" />Diß unßers gegenwürtige schreiben an eüch, unßer vertrauwt
+<lb n="5" />lieb nachbaren, geschicht wegen unßers lieben angehörigen landt
+<lb break="no" n="6" />mans herren <persName ref="stadtasg-actors-804">K. Walßers</persName>, der auff ehrliche vocation unnd
+<lb n="7" />beruffung der kilchöri unnd gmeind <placeName ref="stadtasg-places-219">Teüffen</placeName> sein testimonium
+<lb n="8" />unnd gute zeügnus von herren professores der loblichen schul
+<lb n="9" /><placeName ref="stadtasg-places-32">Zürich</placeName> anbetreffende seine studia erreicht. Nun aber alß er,
+<lb n="10" />gedachter herr <persName ref="stadtasg-actors-804">Walßer</persName>, sich von <placeName ref="stadtasg-places-32">Zürich</placeName> begeben unnd in dißer
+<lb n="11" />werenden zeith sich immerdar bey eüch, unßer vertrauwt lieb nach
+<lb break="no" n="12" />baren statt, auffgehalten unnd sich gar fleißig in der theologia
+<lb n="13" />unnd sprachen geübt, dz weilen er unß berichtet, dz auff
+<lb n="14" />bevorstehende examination einer von eüch namens herr <persName ref="stadtasg-actors-805">Christian
+<lb n="15" />Huber</persName> begerth examinieren zelaßen, alß hat obbesagter
+<lb n="16" />herr <persName ref="stadtasg-actors-804">Walßer</persName> unß gar fründtlich unnd deemüttig gebetten
+<lb n="17" />umb ein intercession schreiben an eüch, unßer vertrauwt lieb nach
+<lb break="no" n="18" />baren, welliches wir ihme nit wol denegieren noch abschlachen
+<lb n="19" />können, weilen er sein testimonium wie obgedacht albereit er
+<lb break="no" n="20" />langt. Gelangt derowegen unßer fründtliches unnd nachbar
+<lb break="no" n="21" />liches ersuchen an eüch, unßer vertrauwt lieb nachbaren, die 
+<lb n="22" />geruhen, ihne, vilgedachten herren <persName ref="stadtasg-actors-804">Walßern</persName> mit herren <persName ref="stadtasg-actors-805">Christian
+<lb n="23" />Hueberen</persName> zu examinieren, damit er könne der pristerlichen
+<lb n="24" />gmeind <placeName ref="stadtasg-places-219">Teüffen</placeName>, weilen sie ihne beruffen, ihn den herren wol vor
+<lb break="no" n="25" />stechen, dz ihne der gnedige gott mit seinem heiligen geist erleüchten
+<lb n="26" />unnd regieren wolle, dz er alles dz jenige, waß zu seines heiligen
+<lb n="27" />namens ehren, zu befürderung unnd erbauwung seiner lieben kirchen
+<lb n="28" />in aller deemutt unnd gottseligkeit könne und möge verrichten, 
+<pb facs="StadtASG_Missive_4021_16238.jpg" n="2" />
+<lb n="29" />an welchen ihr, unßer vertrauwt lieb nachbaren, beweißen ein
+<lb n="30" />herzliches wolgefallen, wie dan ohne dz vor dißem wol etwan
+<lb n="31" />mehr gschechen ist. Solliches in anderweg umb eüch, unßer vertrauwt
+<lb n="32" />lieb nachbaren, fründt-nachbarlich widerumb zu beschulden unnd
+<lb n="33" />zeverdienen, sind wir ganz affectioniert unnd geneigt. Unnd
+<lb n="34" />hiermit unß sambtlich gottes gnediger wolbewahrung treüwlich
+<lb n="35" />empfehlende. Datum den <origDate when="1650-03-22">22ten marty anno 1650</origDate>. 
+<lb n="36" /><orgName ref="stadtasg-actors-773" role="issuer">Landtaman unnd rath der
+<lb n="37" />usseren roden deß landts
+<lb n="38" />Appenzell</orgName>.
+<pb facs="StadtASG_Missive_4021_16239.jpg" n="3" />
+<pb facs="StadtASG_Missive_4021_16240.jpg" n="4" />
+<lb n="39" />Den frommen fürsichtigen ehr
+<lb break="no" n="40" />sammen weißen <orgName ref="stadtasg-actors-148" role="recipient">burgermeistern
+<lb n="41" />unnd rath der statt sant Gallen</orgName>
+<lb n="42" />unßeren insonders guten
+<lb n="43" />freünden unnd vertrauwten
+<lb n="44" />lieben nachbaren.
+</p>
+        </body>
+    </text>
+</TEI>

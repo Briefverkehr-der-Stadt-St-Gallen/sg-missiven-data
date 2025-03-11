@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 4030 Beilage 1</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. <ref target="stasg_missiv_04030.xml">4030</ref>. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_04005.xml">4005</ref>, <ref target="stasg_missiv_04005-suppl-01.xml">4005 Beilage 1</ref> und <ref target="stasg_missiv_04018.xml">4018</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_4030_16259/16262</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Karl Ludwig von der Pfalz bedankt sich bei den evangelischen Orten der Eidgenossenschaft für das Darlehen von 6000 Reichstalern, um das er gebeten und das bei ihm angekommen ist. Weiter bedankt sich Karl Ludwig für weitere Bezeugungen der Freundschaft sowie für die Gratulationen zu seiner kürzlich geschlossenen Ehe mit Charlotte von Hessen-Kassel und versichert den Evangelischen Orten umgekehrt auch seine Unterstützung und Freundschaft. Seinem Boten, der diese Dankesworte überbringt, soll diesbezüglich Glauben geschenkt werden.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-222">Darlehen</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-349">Heirat</term>
+<term ref="stadtasg-keywords-464">Pfalzgraf</term>
+<term ref="stadtasg-keywords-277">Herzog</term>
+<term ref="stadtasg-keywords-348">Kurfürst</term>
+<term ref="stadtasg-keywords-547">Evangelisch</term>
+<term ref="stadtasg-keywords-549">Agent</term>
+<term ref="stadtasg-keywords-405">Reich</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-184">Truchsess</term>
+<term ref="stadtasg-keywords-524">Reichstaler</term>
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-788">Karl Ludwig von der Pfalz</persName> <placeName ref="stadtasg-places-272">Heidelberg</placeName>                    <date>1650-04-24</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-771">Evangelische Orte der Eidgenossenschaft</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>ns</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-11-25</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_4027_16259.jpg" n="1" />
+<p>
+<lb n="1" /><persName ref="stadtasg-actors-788" role="issuer">Carl Ludwig</persName> von gottes gnaden pfaltzgraff
+<lb n="2" />bey <placeName ref="stadtasg-places-143">Rhein</placeName>, deß <orgName ref="stadtasg-actors-559">Heyligen Röhmischen Reichs</orgName> ertztruchseß
+<lb n="3" />und churfürst, herrtzog in <placeName ref="stadtasg-places-132">Bayern</placeName>.
+<lb n="4" />Unßeren freündtlichen grueß zevor wohl edle
+<lb n="5" />gestrenge fürsichtige und weiße besonders liebe
+<lb n="6" />herren und freünde. Wihr haben der herren
+<lb n="7" />freündtliche widerantwort vom <date when="1650-03-16">16 marty</date> jüngsthin
+<lb n="8" />von unserem agenten <persName ref="stadtasg-actors-789">Carl Meigen</persName> wohl em
+<lb break="no" n="9" />pfangen. Und wessen die herren uff unser beschechen
+<lb n="10" />ansuchen sich erklären und mit einer vorleyhung
+<lb n="11" />von sechßtaußent reichsthaler, welche bereits zu unseren
+<lb n="12" />händen würcklich geliefferet worden, unß ahsist
+<lb break="no" n="13" />ieren wollen, darab wir auch auß vorgemelten
+<lb n="14" />unsers agenten relation mit mehrerem vernommen.
+<lb n="15" />Gleich wie wihr nun auß diser und anderen be
+<lb break="no" n="16" />zeügungen der herren sonderbahre und bestehndige
+<lb n="17" />geneigenheit gegen unß und unser churhauß
+<lb n="18" />vermercken, allso haben wir nit underlassen
+<lb n="19" />wollen, deßwegen wir auch vor der wohl
+<lb break="no" n="20" />meinende glückwünschung zue unnserenn ohn
+<lb break="no" n="21" />lengst geschlossenen heürath<note>Heirat mit <persName ref="stadtasg-actors-790">Charlotte von Hessen-Kassel</persName>.</note> gantz freündtlichen 
+<lb n="22" />danckh zesagen mit versicherung, daß wir
+<lb n="23" />dieße unß erwießene freündt bey allen be
+<lb break="no" n="24" />gebenheiten und sonderlich, wann got dem allmechtigen
+<lb n="25" />gelieben wirt, unßer churhuß wiedrumb zue
+<lb n="26" />vorigem auffnemmen zuebringen, mit erweißung
+<lb n="27" />aller angenemen gefelligkeiten würcklich zuerkennen
+<lb n="28" />und den herren in ihren angelegenheiten allen möglichen
+<lb n="29" />beforderlichen willen und willfehrigkeit zuerweysen
+<lb n="30" />bereit sein werden, wie sie von vorgemeltem
+<lb n="31" />unserem agenten mit mehrerem vernehmen
+<lb n="32" />und deßwegen imme glauben beyzemessen gelieben
+<lb n="33" />wollen. Und wir verbleiben den herren mit
+<lb n="34" />fründtlichem wohlgeneigtem willen jederzeit zuege
+<lb break="no" n="35" />than. Geben <origPlace ref="stadtasg-places-272">Heydelberg</origPlace> den <origDate when="1650-04-24">24 aprilis 1650</origDate>.
+<lb n="36" />Der herren freündt dienstwilliger
+<lb n="37" /><persName ref="stadtasg-actors-788" role="issuer">Carl Ludwig</persName>.
+<lb n="38" />An die <orgName ref="stadtasg-actors-771" role="recipient">evangelische Eidt
+<lb break="no" n="39" />gnoschafft</orgName> abgangen.
+<pb facs="StadtASG_Missive_4027_16260.jpg" n="2" />
+<pb facs="StadtASG_Missive_4027_16261.jpg" n="3" />
+<pb facs="StadtASG_Missive_4027_16262.jpg" n="4" />
+</p>
+        </body>
+    </text>
+</TEI>
