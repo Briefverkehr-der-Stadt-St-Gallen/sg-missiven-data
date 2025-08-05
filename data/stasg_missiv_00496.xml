@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 496</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_496_1013/1014</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Isny teilen Bürgermeister und Rat zu St. Gallen mit, dass sich ein ehemaliger Frauenwirt aus Kempten in St. Gallen aufhalte. Dieser habe mit seinen Gesellen den Knecht, der diesen Brief vorweist, während des Jahrmarktes am 23. April in einem Wirtshaus ausgeraubt, wofür die von Isny ihn nun bestrafen wollten, aber bisher ohne Erfolg. Sie schicken den St. Gallern deshalb den ausgeraubten Knecht, damit er ihnen den Vorfall schildere, und bitten sie, den Frauenwirt und seine Gesellen zu bestrafen.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-667">Frauenwirt</term>
+<term ref="stadtasg-keywords-322">Geselle</term>
+<term ref="stadtasg-keywords-124">Knecht</term>
+<term ref="stadtasg-keywords-179">Jahrmarkt</term>
+<term ref="stadtasg-keywords-333">Wirtshaus</term>
+<term ref="stadtasg-keywords-236">Raub</term>
+<term ref="stadtasg-keywords-107">Strafe</term>
+<term ref="stadtasg-keywords-336">Zeuge</term>
+<term ref="stadtasg-keywords-345">Zeiger</term>
+<term ref="stadtasg-keywords-327">Waffe</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-509">Bürgermeister und Rat zu Isny</orgName>                    <date>1495-05-25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-07</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_496_1013.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser fründtlich willig dienst allezyt berait zuovor ersammen und wysen besonnndern lieben und guotten
+<lb n="2"/>fründ. Wir vernement gloplich, sich enthalt ainer yetz in üwer statt, ist zuo <placeName ref="stadtasg-places-40">Kaempten</placeName> frowen wirt
+<lb n="3"/>gewesen, der hatt nuo mit ettlicher siner angehenckten gesellschafft uff unnserm iarmarkt <date when="1495-04-23">naechst
+<lb n="4"/>Jeory verganngen</date> disem armen kneacht, zoeuger diss briefs, in unnser statt hindan in aim
+<lb n="5"/>wirtzhus das sin genommen und entragen und sich damit angends mit sinen gesellen
+<lb n="6"/>uss unnser statt gemacht und klaider und sin wer hinder im verlassen. Nuo habent wir
+<lb n="7"/>vlys gehapt mit gelittnem costen, inn zuo unnsern hannden zuo bringen und umb soellich boss
+<lb break="no" n="8"/>hanndlung nach reacht zuo straffen. Unnser wille hatt aber durch sin geschydigkait und ver
+<lb break="no" n="9"/>schlahung nit moegen volg erlanngen, und gezwyfelt unns aber an üwer ersammen lieb
+<lb n="10"/>als liebhaberen der gereachtigkait gantz nicht, dann das die zuo straff soellichs uebels gantz
+<lb n="11"/>genaigt sy und ouch in ir vernunfft ermaessen moeg, wo derglichen gestattet und
+<lb n="12"/>nit gestrafft soellt wearden, was ergers daruss erwachssen moechte. Hierumb haben wir
+<lb n="13"/>uech disen zoeuger zuo geschickt, damit er uech der bosshanndlunng an im beganngen berichten
+<lb n="14"/>und ouch den taetter obgenant anseahen und ware anzaig uff inn geben mag, dardurch
+<lb n="15"/>ir nit missgriffent. Und ist hieruff an uech unnser vlyssig und fruendtlich pitt, ir woellent
+<lb n="16"/>den obgemealten taetter und sin anhaennger, sover die betreatten wuerden, by üch umb
+<lb n="17"/>ir verschulden nach reacht straffen und in anseahunng des gemainen lannds nodturfft
+<lb n="18"/>darinn hanndeln, wie sich gepuert, und uech darinn dermass erzoeigen, als wir unge
+<lb break="no" n="19"/>zwyfelt vertruewen zuo üch habent, kumpt unns mit allem willen umb uech fruendtlich zuo
+<lb n="20"/>verdienen. Datum <origDate when="1495-05-25">meantags post Vocem Jocunditatis anno etc. LXXXXVto</origDate>.
+<lb n="21"/><orgName ref="stadtasg-actors-509" role="issuer">Burgermaister und
+<lb n="22"/>rat zuo Yssni</orgName>.
+<pb facs="StadtASG_Missive_496_1014.JPG" n="2"/>
+<lb n="23"/>Den ersammen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat zuo
+<lb n="24"/>sant Gallen</orgName> unnsern sonndern lieben und guotten
+<lb n="25"/>fruenden.
+</p>
+        </body>
+    </text>
+</TEI>

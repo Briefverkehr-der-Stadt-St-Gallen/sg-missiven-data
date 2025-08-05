@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 535</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_535_1091/1092</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die in Baden versammelten Räte der Eidgenossenschaft bedanken sich bei Bürgermeister und Rat zu St. Gallen, dass sie die Einigung in einer Auseinandersetzung akzeptieren. Die Ratsboten der Eidgenossen haben zudem eine Ordnung gegen die Reisläuferei und das Pensionenwesen erlassen, welche sie beilegen. Sie bitten die St. Galler, diese zu beraten, um sie am künftigen Tag zu Baden zusammen mit der St. Galler Gesandtschaft zu verabschieden.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>        
+<term ref="stadtasg-keywords-344">Solddienst</term>
+<term ref="stadtasg-keywords-342">Pension</term>
+<term ref="stadtasg-keywords-181">Verbot</term>
+<term ref="stadtasg-keywords-556">Einigung</term>
+<term ref="stadtasg-keywords-142">Ordnung</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-12">Gesandter</term>
+<term ref="stadtasg-keywords-454">Kopie</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-534">Eidgenössische Räte</orgName>    <placeName ref="stadtasg-places-53">Baden</placeName>                <date>1503-07-06</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-16</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_535_1091.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich willig diennst unnd was wir erenn und guets vermogenn zuevor fromm
+<lb n="2"/>fürsichtig wiß sunder guettenn fründ unnd getruwen lieben eidtgnossenn. Üwer
+<lb n="3"/>schribenn unns ietz zuekommen, darinn unnser lütrung und vermehtigung zwü
+<lb break="no" n="4"/>schenn üch unnd üwerm widertail ietz zue letst beschechen ungeschwecht lassenn
+<lb n="5"/>belibenn, haben wir verstannden unnd sagenn üch desselbenn gar gueten dannk
+<lb n="6"/>mitt erbietenn, sölichs allzit zueverglichenn. So dann haben wir zue abstellung
+<lb n="7"/>der pensionen unnd reißgeloueff ein ordnunng uff hindersich bringenn unnd
+<lb n="8"/>gevallenn unnser herren und obern angesechenn und ain copy üch hirmitt
+<lb n="9"/>zue kommen lassenn mitt früntlicher bitt, ir weltend darüber sitzen, die erwaegen
+<lb n="10"/>und bedenkenn unnd uff dem tag deshalb allhar wider gen <placeName ref="stadtasg-places-53">Baden</placeName> bestimbt
+<lb n="11"/>durch üwer bottschafft helffenn uffrichten und vollziechenn. Daran tuend ir
+<lb n="12"/>sunder guet gevallen. Datum <origDate when="1503-07-06">donstag nach Uelrici anno III</origDate>.
+<lb n="13"/><orgName ref="stadtasg-actors-534" role="issuer">Stett und laender unnser Eidtgnoschaft
+<lb n="14"/>raet</orgName> ietz zue <origPlace ref="stadtasg-places-53">Baden</origPlace> in <placeName ref="stadtasg-places-266">Ergoew</placeName> ver
+<lb n="15"/>samnet.
+<pb facs="StadtASG_Missive_535_1092.JPG" n="2"/>
+<lb n="16"/>Den frommen fürsichtigenn wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister unnd raten
+<lb n="17"/>zue sant Gallen</orgName> unnsern sundern gueten fründen
+<lb n="18"/>und getruwen lieben eidtgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

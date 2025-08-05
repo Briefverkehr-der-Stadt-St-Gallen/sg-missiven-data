@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 441</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_441_899/900</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Solothurn teilen Bürgermeister und Rat zu St. Gallen mit, dass sie mit den Knechten, die diesen Brief vorweisen, wegen einer Verlängerung ihrer Dienstzeit nicht einig wurden, obwohl sie ihrer Bitte nach einem höheren Sold nachkommen wollten, und die Knechte sich nicht wie angekündigt an den Rhein zum tödlich erkrankten Vater des Trompeters, sondern nach St. Gallen begaben. Die Solothurner sind jedoch dennoch bereit, der St. Galler Bitte nach Dienstentlassung der Knechte nachzukommen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-124">Knecht</term>
+<term ref="stadtasg-keywords-344">Solddienst</term>
+<term ref="stadtasg-keywords-352">Lohn</term>
+<term ref="stadtasg-keywords-527">Vater</term>
+<term ref="stadtasg-keywords-53">Krankheit</term>
+<term ref="stadtasg-keywords-345">Zeiger</term>
+<term ref="stadtasg-keywords-82">Tod</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-944">Schultheiss und Rat zu Solothurn</orgName>                    <date>1487-05-02</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-05-23</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_441_899.JPG" n="1" />
+<p>
+<lb n="1" />Unnser fründtlich willig dienst unnd was wir eren liebs unnd guotts vermoegent allezyt bevor ersamen und wysen sonnders
+<lb n="2" />guotten fründ und getrüwen lieben pundtgenossen. Wir werden von den knechten, disen zoeugern, die unns ettwas
+<lb n="3" />zytshar gedient haben, unnderricht, wie üwer lieb si uff ir begeren zuo dienern empfanngen hab, und gebetten, inen
+<lb n="4" />fürdrung irs abscheids by unns gegen derselben darzuostrecken etc. So wir nuo darzuo willig und wolgeneigt sind,
+<lb n="5" />üch das zuo enndtecken, begeren wir üwer lieb wissent sin, nach dem und der gemelten knechten iar uff <date when="1487-04-15">vergangnen
+<lb n="6" />ostertag</date> uß gewesen, sind demnach angends si vor unns erschinen, haben unns iren dienst und unnser schilt,
+<lb n="7" />als das bitzhar brüchlich gewesen ist in unnserm gesessnen rat, übergeben und mit danckbarem gemuet wider zuo
+<lb n="8" />empfachen und daby inen iren sold ze besseren vlyssig gebetten, und so wir irem beger nach, si fürer zuo unnsren
+<lb n="9" />dienern empfanngen, ir iarsoeld, daby wir wol gemeint, si hetten moegen bestan, erberlich und zimmblich erbessert,
+<lb n="10" />haben si unns nit woellen grundtlich zuo sagen des diensts nach darzuo, als sich gepürt, huldung thuon, sonnder
+<lb n="11" />begert, inen zuo vergoensten hinab an den <placeName ref="stadtasg-places-92">Rin</placeName> zuo des trummetters vatter, der in toedtlicher kranckheit lige, zuo gan
+<lb n="12" />und unnder dem, so wir gemeint hand, ir fürgeben an im selbs sin, sich unns hinderrugks zuo üch mit diensten
+<lb n="13" />verpflicht und unns darinn geacht, als üwer lieb erkennen mag. Daran wir an inen verdient gefallen
+<lb n="14" />haben, doch wie dem laussen wir das in wesen bestan und si ir diensten, die unns füro von inen irem willen
+<lb n="15" />nach nit annaem sin muessen, ledig und üwer lieb, der wir unns zuo aller fründtschafft und lieb erbiettend, mit
+<lb n="16" />inen nach der gefallen vollziechen. Datum <origDate when="1487-05-02">mittwoch nach Philippi et Jacobi anno etc. LXXXVIImo</origDate>.
+<lb n="17" /><orgName ref="stadtasg-actors-944" role="issuer">Schultheis unnd ratte
+<lb n="18" />zuo Solottrunn</orgName>.
+<pb facs="StadtASG_Missive_441_900.JPG" n="2" />
+<lb n="19" />Den ersammen unnd wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister unnd ratt zuo sannt
+<lb n="20" />Gallen</orgName> unnseren sonndern guotten fründen und getrüwen lieben
+<lb n="21" />pundtgenossen.
+</p>
+        </body>
+    </text>
+</TEI>

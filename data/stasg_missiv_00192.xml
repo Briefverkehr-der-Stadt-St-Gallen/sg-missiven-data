@@ -53,7 +53,7 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="stadtasg-actors-59">Anton Schenk von Landegg, Vogt zu Bischofszell</persName>
+                    <persName ref="stadtasg-actors-87">Anton Schenk von Landegg</persName>
                     
                     <date>1445-04-08</date>
                 </correspAction>
@@ -101,7 +101,7 @@
                 fliechen mit ierem fich und <lb n="19"/>mir ir farinden hab, den ich besorgen, wo sy
                 es findint, sy nieminds. <lb n="20"/>Geben an <origDate when="1445-04-08">dunstag
                     nach dem sunentag, so man singt quasy modo anno <lb n="21"/>domini M IV C
-                    VL</origDate>. <lb n="22"/><persName ref="stadtasg-actors-59" role="issuer">Anthoni Schenk von
+                    VL</origDate>. <lb n="22"/><persName ref="stadtasg-actors-87" role="issuer">Anthoni Schenk von
                     Landegg</persName>, <lb n="23"/>vogt zuo <placeName ref="stadtasg-places-19">Bischofzel</placeName>. <pb
                     facs="StadtASG_Missive_192_386.JPG" n="2"/>
                 <lb n="24"/>Den wissen firsichttigen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und <lb

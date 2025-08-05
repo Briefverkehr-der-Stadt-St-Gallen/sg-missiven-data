@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 473</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00472.xml">472</ref>.</p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_473_965/968</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Johannes Schenkli, St. Galler Stadtschreiber, teilt Bürgermeister und Rat zu St. Gallen mit, dass er sich in Konstanz mit dem Ritter Jakob von Schönau getroffen habe, der den St. Gallern zweieinhalb Tausend Gulden leihen wolle. Dieser habe seinem Vetter Hans von Hohenlandenberg geschrieben, dass dieser ihn in Neuenburg treffen solle. Schenkli berichtete Jakob von Schönau von den Verhandlungen mit Hans von Hohenlandenberg und bittet die St. Galler, eine Kopie der Übereinkunft an Jakob von Schönau zu senden. Schenkli bittet die St. Galler zudem, ihm mitzuteilen, wann sie ihre Ratsbotschaft nach Neuenburg senden wollen, damit er den Vertrag aufsetzen könne. Ferner habe er Mitgülten für das Geld gefunden, welches dem Spital für einen Zins und ein Leibgeding übergeben werden soll. Die eintausend Gulden der Frau Mangolt habe er erhalten. Des weiteren bittet er darum, dass die St. Galler den Zins, der Frau Schwarzach geschuldet wird, einzuziehen und ihm zu schicken. In der Angelegenheit von Heinrich Stetter möchte Schenkli Bürgermeister und Rat am folgenden Tag selbst Bericht erstatten und zudem Heinrich Göldli über diesen informieren.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-69">Leihe</term>
+<term ref="stadtasg-keywords-37">Verhandlung</term>
+<term ref="stadtasg-keywords-26">Leibding</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-10">Zins</term>
+<term ref="stadtasg-keywords-39">Vertrag</term>
+<term ref="stadtasg-keywords-354">Spital</term>
+<term ref="stadtasg-keywords-159">Stadtschreiber</term>
+<term ref="stadtasg-keywords-323">Junker</term>
+<term ref="stadtasg-keywords-454">Kopie</term>
+<term ref="stadtasg-keywords-269">Kind</term>
+<term ref="stadtasg-keywords-165">Altbürgermeister</term>
+<term ref="stadtasg-keywords-112">Bürgerrecht</term>
+<term ref="stadtasg-keywords-473">Eile</term>
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1012">Johannes Schenkli</persName>                    <date>1491-01-25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-19</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_473_965.JPG" n="1" />
+<p>
+<lb n="1" />Fursichtigen ersamen und wysen insonder lieben herren min under
+<lb break="no" n="2" />tenigkait in schuldiger pflicht zuovor. Ich fueg uwer wyszhait zuo
+<lb n="3" />vernemen, das ich uff <date when="1491-01-24">gestern</date> den abent, der enpfelh nach
+<lb n="4" />mir von uch bescheachen, gevertgot worden und willens ge
+<lb break="no" n="5" />wesen bin, uff <date when="1491-01-25">hüt</date> frue hin uff zuo rytten, so ist uff necht
+<lb n="6" />spaet her <persName ref="stadtasg-actors-1011">Jacob von Schoennoew</persName>, ritter, der uch die dritthalb
+<lb n="7" />thusent guldin lichen wil, gen <placeName ref="stadtasg-places-7">Costentz</placeName> in <persName ref="stadtasg-actors-1013">Rottengatters</persName> hus
+<lb n="8" />komen, zuo dem hab ich mich gefuegt, der hat mir ge
+<lb break="no" n="9" />sagt, dz inn nichtz dann dz wetter solang gesumpt, er
+<lb n="10" />hab aber sinem vettern, iunckher <persName ref="stadtasg-actors-1010">Hansen von der Hochen
+<lb break="no" n="11" />landemberg</persName>, gen <placeName ref="stadtasg-places-225">Raperschwil</placeName> geschriben, von stund an gen
+<lb n="12" /><placeName ref="stadtasg-places-82">Nuwenburg</placeName> zuo im zekomen, des glich üch, minen hern, soelichs
+<lb n="13" />uch och dar zefuegen zuo verkunden. Uff das hab ich inn
+<lb n="14" />bericht, was untz har der dingen halb zwischen üwer
+<lb n="15" />wyßhait und iunckher <persName ref="stadtasg-actors-1010">Hansen</persName> gehandelt sig, und wie ir
+<lb n="16" />ietz uwer pottschafft zuo iunckher <persName ref="stadtasg-actors-1010">Hansen</persName> gesant habint,
+<lb n="17" />och im dar uff, wes willens iunckher <persName ref="stadtasg-actors-1010">Hans</persName> sig mit
+<lb n="18" />gülten ussert unser statt zuo haben, das nun unser pruch
+<lb n="19" />nit sig, und im daruff gestalt und mainung, was mich
+<lb n="20" />in den dingen unnsers gewerbs und ander dingen halb
+<lb n="21" />notdurfftig beducht, wir dann nechst im rat dar von
+<lb n="22" />geredt und <persName ref="stadtasg-actors-1014">Hanrichen Hochrütiner</persName> ains tails befolhen ist
+<lb n="23" />zum besten, als ich dann hab mugen zuo erkennen geben,
+<lb n="24" />und so vil mit im geredt, das ich guoter hoffnung bin, er
+<lb n="25" />stand von den mitgülten ussert der statt und ie so wyt, dz
+<lb n="26" />er mir bevolhen haet, ain copy zestellen, wie und mit wz
+<lb n="27" />mitgülten, so well er sich gar zimlich halten, und wenn
+<lb n="28" />dann iunckher <persName ref="stadtasg-actors-1010">Hans</persName> kum, den dingen mit uwer hilff ustrag
+<lb n="29" />geben. Also wil ich umb fürdrung der sach dem ab
+<lb break="no" n="30" />schaid nach mit im geton, wie wol ich von uwer wyßhait
+<lb n="31" />der sach nit befelh hab, ouch not wear, ain andrer von
+<lb n="32" />uch, minen hern, gegen im zuo handlen, dar mit es nach
+<lb n="33" />uwer notdurfft usgericht und nichtz gesumpt wurd,
+<lb n="34" />die copy angender stund stellen, im die uber antwurten
+<lb n="35" />und dar inn min besten vliß ankeren, ee maln iunckher
+<lb n="36" /><persName ref="stadtasg-actors-1010">Hans</persName> zuo im kome, ob ich die sach von im nacher bringen
+<lb n="37" />moecht, dann es ist ain erber zimlicher und guotwilliger her.
+<lb n="38" />Dar umb so well uwer wyßhait uff dz, so uch iunckher
+<lb n="39" /><persName ref="stadtasg-actors-1010">Hans</persName> och schriben wirt, ain potten zuo inen gen <placeName ref="stadtasg-places-82">Nüwen
+<lb break="no" n="40" />burg</placeName> schicke, der die sach aigenlich und bas, dann ich
+<lb n="41" />verichten kunne, denn warlich min usß sin weder
+<lb n="42" />uwer noch min nutz ist, dar umb so wellent mich ilentz
+<lb n="43" />berichten, wz verer uwer mainung sig, und uff wenn
+<lb n="44" />ir uwer bottschafft by in zuo <placeName ref="stadtasg-places-82">Nüwenburg</placeName> haben wellen,
+<pb facs="StadtASG_Missive_473_966.JPG" n="2" />
+<lb n="45" />dar mit ich ain lutern abschaid untz uff zuo kunfft iunckher <persName ref="stadtasg-actors-1010">Hansen</persName>
+<lb n="46" />mit im mache, on den er dannocht die sach nit beschliessen
+<lb n="47" />wirt, dann ich uff morn frue hin uff haym rytten und <date when="1491-01-25">hüt</date>
+<lb n="48" />den tag nit fyren wil, dann die copy wirt arbait haben,
+<lb n="49" />ich kan och lenger nit ußpliben. Item des andern geltz halb,
+<lb n="50" />so dem spital werden sol an aym kind zuo zins und
+<lb n="51" />ain andern zuo lipting, hab ich gearbait, dz man von dem
+<lb n="52" /><persName ref="stadtasg-actors-1015">Entgasser</persName> und <persName ref="stadtasg-actors-1016">Krumen</persName> zuo mitgulten stan, und wyl man
+<lb n="53" />umb die drü hundert guldin, so zuo zins gestelt werden, zuo mit
+<lb break="no" n="54" />gulten nemen <persName ref="stadtasg-actors-1017">Bastion Zollikoffer</persName> und och <persName ref="stadtasg-actors-1018">Marn Petrer</persName> und
+<lb n="55" />umb dz lipting den alten burgermaister <persName ref="stadtasg-actors-669">Mertzen</persName> und <persName ref="stadtasg-actors-1019">Frantzis
+<lb n="56" />Zilin</persName>, doch so sol sich ain statt verschriben und nit der spital,
+<lb n="57" />so wil ich uff uwer besser gevallen und endern, hern <persName ref="stadtasg-actors-1011">Jacoben
+<lb n="58" />von Schoennow</persName> setzen, nach allerlay red zwischen uns be
+<lb break="no" n="59" />schechen, dar mit er noch iunckher <persName ref="stadtasg-actors-1010">Hans</persName> nit hinderstellig werden.
+<lb n="60" />Min hern burgermaister <persName ref="stadtasg-actors-1020">Steffan Grübel</persName>, <persName ref="stadtasg-actors-1016">Ulrichen Krumen</persName>, <persName ref="stadtasg-actors-1017">Bastion
+<lb n="61" />Zollikoffer</persName>, <persName ref="stadtasg-actors-1021">Lucas Lenggenhager</persName> und <persName ref="stadtasg-actors-1000">Claus Rotten</persName> dann die zit
+<lb n="62" />ist hie, und wirt uch nichtz mer fruchtpar sin, dann den
+<lb n="63" />dingen ustrag zuo geben. Item die thusent guldin
+<lb n="64" />von der <persName ref="stadtasg-actors-1022">Mangoltin</persName> hab ich enpfangen und wil die morn
+<lb n="65" />selbs hin uff fueren. Mich kan nit verwundern, das ir die
+<lb n="66" />vierzig guldin zins der <persName ref="stadtasg-actors-1023">Schwarzachin</persName> nit har ab schicken, sy
+<lb n="67" />wellen lenger nit enthalten, und macht uch ain geschray,
+<lb n="68" />als ob ir es nit zuo bezalen habint, dar umb wellent uff
+<lb n="69" />niemant wegern und es nachin in ziechen. <persName ref="stadtasg-actors-1024">Hainer
+<lb n="70" />Stetters</persName> halb werden ir selbs von mir bericht, doch die wyl
+<lb n="71" />er sich burggrechtz zuo <placeName ref="stadtasg-places-32">Zürch</placeName> beruempt, so ist her <persName ref="stadtasg-actors-1025">Hanrich
+<lb n="72" />Goeldli</persName>, als ich verstan, ietz hie zuo <placeName ref="stadtasg-places-7">Costentz</placeName>, mag ich, so wil
+<lb n="73" />ich mich zuo im fuegen und inn des handels berichten, dar
+<lb n="74" />mit, ob <persName ref="stadtasg-actors-1024">Hainer Stetter</persName> gen <placeName ref="stadtasg-places-32">Zürch</placeName> keam, dz wir och ver ant
+<lb break="no" n="75" />wurt wurden. Datum ylentz <origDate when="1491-01-25">zinstag nach Se
+<lb break="no" n="76" />bastiani anno LXXXX primo</origDate>.
+<lb n="77" />Uwer stattschriber und diener
+<lb n="78" /><persName ref="stadtasg-actors-1012" role="issuer">Hans Schenckli</persName>.
+<pb facs="StadtASG_Missive_473_967.JPG" n="3" />
+<pb facs="StadtASG_Missive_473_968.JPG" n="4" />
+<lb n="79" />Den fursichtigen ersamen und
+<lb n="80" />wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat
+<lb n="81" />der statt zuo s. G.</orgName> minen insonder
+<lb n="82" />lieben hern.
+</p>
+        </body>
+    </text>
+</TEI>

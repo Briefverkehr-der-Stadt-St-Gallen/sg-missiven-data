@@ -43,6 +43,7 @@
                     <term ref="stadtasg-keywords-188">Bischof</term>
                     <term ref="stadtasg-keywords-301">Lüge</term>
                     <term ref="stadtasg-keywords-75">Angriff</term>
+                    <term ref="stadtasg-keywords-668">Überfall</term>
                     <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
                     <term ref="stadtasg-keywords-9">Bote</term>
                     <term ref="stadtasg-keywords-540">Schloss</term>
@@ -69,7 +70,7 @@
                 <date>2019-09-02</date>
             </change>
             <change type="tagging" status="done">
-                <persName>SC</persName>
+                <persName>NSch</persName>
                 <date>2022-01-19</date>
             </change>
         </revisionDesc>

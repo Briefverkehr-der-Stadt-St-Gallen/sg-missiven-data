@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 546</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_546_1113/1114</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Statthalter und Rat zu Schwyz teilen Bürgermeister und Rat zu St. Gallen in Eile mit, dass sie von den Boten zu Mailand und den Soldaten im Feld erfahren haben, dass der französische König an drei Orten in Mailand einfallen wird und die eidgenössischen Soldaten ihm entgegen ziehen wollen. Daraufhin wurde ein Tag in Beckenried angesetzt, wo beschlossen wurde, weitere Männer zur Unterstützung nach Süden zu senden. Die Urner werden am 16. April und die Schwyzer am 17. April ausziehen, um die Truppen in Vercelli zu versammeln. Sie bitten die St. Galler, das auch dem Fürstabt zu verkünden.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-183">König</term>
+                    <term ref="stadtasg-keywords-347">Majestät</term>
+                    <term ref="stadtasg-keywords-95">Warnung</term>
+                    <term ref="stadtasg-keywords-254">Söldner</term>
+                    <term ref="stadtasg-keywords-484">Kriegshilfe</term>
+                    <term ref="stadtasg-keywords-364">Tagsatzung</term>
+                    <term ref="stadtasg-keywords-472">Truppenaufgebot</term>
+                    <term ref="stadtasg-keywords-48">Feindschaft</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-522">Ammann und Rat zu Schwyz</orgName>                    <date>1515-04-13</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-07-22</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_546_1113.JPG" n="1" />
+<p>
+<lb n="1" />Unnßer früntlich willig dienst etc. zuvor frummen vesten fürsichtigen wyßen insunders guetten fründ und getrüwen
+<lb n="2" />lieben eytgnossen. Es sind uns zue kommen villfalltig warnunngen von unßeren botten zu <placeName ref="stadtasg-places-311">Meyland</placeName>, ouch
+<lb n="3" />vonn unßeren knechten im velld, wie derr frantzos sich an dryenn ortten überr dz gebürg in <placeName ref="stadtasg-places-311">Meiland</placeName>
+<lb n="4" />zuevallen gerüst hab, unns gemelldett, dz unßer knecht gegen den vyenden zue ziechenn unnderstanden
+<lb n="5" />habennd, deßhalb unßerr hillff unnd trüwenn bistantz begerennd etc. Uff semliche warnnung und
+<lb n="6" />irr schribenn hatt mann ein tag gann <placeName ref="stadtasg-places-385">Beckenriedt</placeName> angesechenn und gehallten, namlich die fünff
+<lb n="7" />ortt dazue gegen die nächsten mitt sammpt <placeName ref="stadtasg-places-32">Zürich</placeName>, unnd da angesechenn im namen gotz hinweg zue
+<lb n="8" />ziechenn den unßernn zue trost, dann unns bedunckt, die nott da lenger verzug nitt lidenn müg,
+<lb n="9" />unnd namlich unßer eytgnossen vonn <placeName ref="stadtasg-places-70">Ure</placeName> amm <date when="1515-04-16">menntag</date> und wir amm <date when="1515-04-17">zinstag</date>, und ist der anschlag
+<lb n="10" />den naechsten gan <placeName ref="stadtasg-places-386">Wertzsell</placeName> zue ziechen und da einn andernn samlen, alls sich dann gebürtt. Dz
+<lb n="11" />hand wier üch unverküntt nitt laßenn wellen, damit yerr üch darnach zue hallten wüsßend,
+<lb n="12" />dann es andrenn ortten allenthalben ouch verküntt ist. Semlichs wellend unnßeren gnädigen <orgName ref="stadtasg-actors-148">herr von santt
+<lb n="13" />Gallen</orgName> ouch wüsßen laßenn im aller besten. Datum yllentz uff der <origDate when="1515-04-13">XIII ritter tag zue VIII
+<lb n="14" />nach mittag anno etc. XV</origDate>.
+<lb n="15" /><orgName ref="stadtasg-actors-522" role="issuer">Stathallter unnd
+<lb n="16" />ratt zue Swytz</orgName>.
+<pb facs="StadtASG_Missive_546_1114.JPG" n="2" />
+<lb n="17" />Denn frummen fürsichtigen wyßen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister unnd
+<lb n="18" />ratt derr statt sant Gallenn</orgName> unßernn insunders
+<lb n="19" />guetten fründen und getrüwenn lieben eytgnossenn.
+</p>
+        </body>
+    </text>
+</TEI>

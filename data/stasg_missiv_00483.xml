@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 483</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_483_987/988</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Konrad Flar, Stadtammann zu Konstanz, teilt Bürgermeister und Rat zu St. Gallen mit, dass ihm der St. Galler Bürger Paul Brendler für die 27 Gulden, die ihm der Konstanzer Apotheker Philipp schuldete, einen auf den 21. Januar 1492 datierten, versiegelten Schuldbrief übergeben hat. Laut eines Urteils, das der Apotheker Philipp vorwies, ist dieser Schuldbrief ungültig, wodurch ihn Brendler betrogen habe. Konrad Flar hat dies daraufhin dem kaiserlichen Fiskal gemeldet. Er bittet die St. Galler, Brendler festzuhalten.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-151">Schuldbrief</term>
+<term ref="stadtasg-keywords-103">Urteil</term>
+<term ref="stadtasg-keywords-496">Betrug</term>
+<term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-46">Gefangennahme</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-717">Konrad Flar</persName>                    <date>1492-10-30</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-06-17</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_483_987.JPG" n="1"/>
+<p>
+<lb n="1"/>Fürsichtigen ersamen und wisen lieben herren und guoten fründ.
+<lb n="2"/>Ich fueg üwer wißhait zuo wissen, das <persName ref="stadtasg-actors-1007">Paulin Brendler</persName>,
+<lb n="3"/>üwer burger, mir ain schuld an <persName ref="stadtasg-actors-1008">Philippen</persName>, appontegger zuo
+<lb n="4"/><placeName ref="stadtasg-places-7">Costentz</placeName>, übergeben haut, mit namen siben und zwaintzig
+<lb n="5"/>rinisch guldin, darumm er mir sin hand geschrifft geben hat
+<lb n="6"/>und ain übergab versigelt, der datum wist uff <date when="1492-01-21">samßtag
+<lb n="7"/>nach sant Sebastianis tag im LXXXXII</date> iar. Über solichs
+<lb n="8"/>haut er die schuld verschiben an ander end, damit ich von
+<lb n="9"/>im betrogen und überfuert bin, denn <persName ref="stadtasg-actors-1008">Philipp</persName>, appontegger,
+<lb n="10"/>ist mir hüt mit recht ußgangen und haut dz erwist
+<lb n="11"/>nach innhalt ainer urtal. Semlichs fueg ich üwer
+<lb n="12"/>wißhait zuo wissen, damit ir in wissent zuo halten.
+<lb n="13"/>Ich hab ouch soelichs dem kaiserlichen fiscal ouch
+<lb n="14"/>geschriben und zuo wissen ton, damit ich mins houpt
+<lb n="15"/>guots ouch costens und schadens in kommen mueg.
+<lb n="16"/>Geben uff <origDate when="1492-10-30">zinstag vor aller hailigen tag anno etc.
+<lb n="17"/>im LXXXXII</origDate>.
+<lb n="18"/><persName ref="stadtasg-actors-717" role="issuer">Conrat Flar</persName>, statt
+<lb n="19"/>amman zuo <placeName ref="stadtasg-places-7">Costentz</placeName>.
+<pb facs="StadtASG_Missive_483_988.JPG" n="2"/>
+<lb n="20"/>Den fürsichtigen ersamen und
+<lb n="21"/>wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rate
+<lb n="22"/>zuo sant Gallen</orgName> minen lieben herren
+<lb n="23"/>und guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

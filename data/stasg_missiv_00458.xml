@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 458</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_458_933/934</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Bregenz bitten Bürgermeister und Rat zu St. Gallen im Namen ihres Bürgers Lienhard Ebner, dass sie das Erbe seines verstorbenen Schwagers Hans Märk, des Bruders von Lienhard Ebners Ehefrau und des Barfüssermönchs, der diesen Brief überbringt, zu bewahren, bis sich Ebner darum kümmern kann.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+   <term ref="stadtasg-keywords-5">Erbe</term>
+<term ref="stadtasg-keywords-519">Verwandtschaft</term>
+<term ref="stadtasg-keywords-82">Tod</term>
+<term ref="stadtasg-keywords-630">Bruder</term>
+<term ref="stadtasg-keywords-297">Ehefrau</term>
+<term ref="stadtasg-keywords-154">Ammann</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-521">Ammann und Rat zu Bregenz</orgName>                    <date>1489-04-27</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-04</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_458_933.JPG" n="1" />
+<p>
+<lb n="1" />Unser willig früntlich dienst zuovor ersamen und wisen lieben
+<lb n="2" />und guoten fründ. Unser burger <persName ref="stadtasg-actors-966">Linhart Ebner</persName> hat uns zuo
+<lb n="3" />erkennen geben, wie sins wibs bruoder, sin swager <persName ref="stadtasg-actors-967">Hanns Maerk</persName>,
+<lb n="4" />bi üch mitt tod abgangen, des erb dasselb sin wib zumm tail
+<lb n="5" />sye. Nun kunne er zuo disem mal zuo den dingen nitt tuon,
+<lb n="6" />wie ir von disem herren und barfuossen, des bruoder <persName ref="stadtasg-actors-967">Hanns
+<lb n="7" />Maerk</persName> saelig ouch gewesen ist, gruntlicher verniemenn
+<lb n="8" />werden, und uns daruf gebetten, üch zuo schriben und zuo
+<lb n="9" />bitten, daran zuo sin, damitt nitt endrung mitt desselben
+<lb n="10" /><persName ref="stadtasg-actors-967">Hannsen Maerken</persName> saeligen verlassen erb und guote beschehe,
+<lb n="11" />untz im von sins wibs wegen dabi, waz recht und billich
+<lb n="12" />sye, widerfaren moege. Hierummb sinem bitt nach ist an
+<lb n="13" />üwer ersamen wißhait unser vlissig bitt, dem also ze tuon,
+<lb n="14" />wie wir dann guot vertrüwen zu üch haben. Daz woellen
+<lb n="15" />wir in soelhen und andern sachen willig sin zuoverdienen.
+<lb n="16" />Geben an <origDate when="1489-04-27">mentag nach sant Marx tag anno domini
+<lb n="17" />etc. LXXXVIIIIo</origDate>.
+<lb n="18" /><orgName ref="stadtasg-actors-521" role="issuer">Amman und rate
+<lb n="19" />zuo Bregenntz</orgName>.
+<pb facs="StadtASG_Missive_458_934.JPG" n="2" />
+<lb n="20" />Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="21" />und rate zuo Santgallen</orgName> unsern lieben und
+<lb n="22" />guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 455</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_455_927/928</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Luzern teilen Bürgermeister und Rat zu St. Gallen mit, dass der Abt von Einsiedeln die Pfründe zu Sarmenstorf an Johannes Rissler für dessen Verdienste verliehen hat, und dass Hans Schanner irrtümlich dieselbe Pfründe vom Papst erhalten und diese an den St. Galler Bürger Kaspar Wirth weitergegeben habe. Da der Abt von Einsiedeln bestätigt hat, dass diese Pfründe von päpstlichen Ansprüchen befreit ist, bitten sie die St. Galler, mit Kaspar Wirth zu sprechen, damit er auf seine Ansprüche verzichtet.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+  <term ref="stadtasg-keywords-201">Abt</term>
+<term ref="stadtasg-keywords-516">Pfrund</term>
+<term ref="stadtasg-keywords-372">Papst</term>
+<term ref="stadtasg-keywords-299">Verzicht</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-575">Schultheiss und Rat zu Luzern</orgName>                    <date>1488-12-24</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-04</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_455_927.JPG" n="1" />
+<p>
+<lb n="1" />Unser früntlich willig dienste und wz wir eren liebs und guottes vermoegen allezitt voranbereitt ersamen
+<lb n="2" />wysen sunderen guotten fründe und getrüwen puntgnossen. Nach dem und dann der erwirdig unnser
+<lb n="3" />besunderer, lieber und andaechiger herr der apt<note>Gemeint ist der Abt des Klosters Einsiedeln <persName ref="stadtasg-actors-965">Konrad III. von Hohenrechberg</persName>.</note> zuo <placeName ref="stadtasg-places-242">Ensidlen</placeName> hie vor unnserm lieben und getrüwen
+<lb n="4" /><persName ref="stadtasg-actors-962">Johannissen Rißler</persName> durch mercklicher diensten willen, so er dann dem genantten unnserm herren, dem <persName ref="stadtasg-actors-965">apt</persName>,
+<lb n="5" />und ouch dem gotzhuse bewysen und getan, die pfruond zu <placeName ref="stadtasg-places-328">Sarmistorff</placeName> gelichen, alß er ouch dz ze tuondt hatt,
+<lb n="6" />nun werden wir durch den unnsern mitt hocher clage bericht, wie einer, genampt her <persName ref="stadtasg-actors-964">Hanß Schanner</persName>,
+<lb n="7" />die selbigen in ansprach gehept uß der ursach, dz sy inn unnser heiligen vatters des bapbstz<note>Gemeint ist Papst <persName ref="stadtasg-actors-961">Innozenz VIII.</persName>.</note> manot gefallen
+<lb n="8" />sin soelle, und habe die nun der üwrem eym über geben, genampt <persName ref="stadtasg-actors-963">Caspar Wirtz</persName>. Und als wir verstand,
+<lb n="9" />so het der gemelt <persName ref="stadtasg-actors-963">Caspar Wirtz</persName> die ansprach von imm erkofft, und wirt der unnser also gefexiert, und
+<lb n="10" />wy der allerbillikeitt umbgezogen der ursach halb, dz wir gamtlichem durch den obgenantten unnsern heren
+<lb n="11" />den <persName ref="stadtasg-actors-965">apt</persName> bericht worden sind, dz unnser heiliger vatter der <persName ref="stadtasg-actors-961">bapst</persName> deheinen manot dar uff hatt nach lut
+<lb n="12" />des genantten gotzhusen statutten, privileigen und anderer ir frygheitten, so sy dann von einem stuol zuo <placeName ref="stadtasg-places-55">Rom</placeName>
+<lb n="13" />und ouch den helgen vaettern den <persName ref="stadtasg-actors-961">baepsten</persName> haben und gefrygt sind etc., da durch üwer liebe ouch wol
+<lb n="14" />verstan mag, dz nüt dem unnserm gemuotwilltet und er wyder alle recht umbgetriben wirt. Har umben
+<lb n="15" />lieben guotten fründe und getrüwen puntgnossen so ist an üch unnser gar trungenlich und aernstlich
+<lb n="16" />bitt und begaeren, ir wellend mit dem üwern verschaffen und unns unnsers verdiennens willen dar
+<lb n="17" />an sin, damit und er abstande und sich soelicher erkoffter oder sust übergebner sachen, wyder den unnsern nit
+<lb n="18" />witter behelffe noch gegen imm witter procediere, sunder imm sin pfrounde, wye imm die von unnßerm
+<lb n="19" />heren, dem <persName ref="stadtasg-actors-965">apt</persName>, gelichen ist, lassen vervolgen und gelangen. Dz begaeren wir zuo sampt der billikeitt
+<lb n="20" />umb üwer liebe inn der gelichen und vil mereren sachen ze verdienen, danne wor inne wir der
+<lb n="21" />selbigen gedienen und gewillfarn koenden, woeltten wir ungezwifflet willlig funden werden. Datum
+<lb n="22" />uff <origDate when="1488-12-24">dem helgen abent wiennaecht anno domini etc. LXXXVIIIo</origDate>.
+<lb n="23" /><orgName ref="stadtasg-actors-575" role="issuer">Schulthes und rat
+<lb n="24" />zuo Lutzern</orgName>.
+<pb facs="StadtASG_Missive_455_928.JPG" n="2" />
+<lb n="25" />Den ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und
+<lb n="26" />ratt der statt sant Gallen</orgName> unnsern besundern
+<lb n="27" />guotten fründen und getrüwen lieben puntgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

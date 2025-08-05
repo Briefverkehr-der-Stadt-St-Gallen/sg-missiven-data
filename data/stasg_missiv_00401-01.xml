@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 401-01</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Wohl Abschrift.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_401_817</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen teilen Bürgermeister und Rat zu Konstanz mit, der St. Galler Altbürgermeister Hans Schürpf sei in Konstanz gewesen, um sich über den Kauf und Verkauf von zu jungen Kälbern zu beschweren, was gegen die Konstanzer Metzgerordnung verstosse. Die St. Galler nehmen zur Kenntnis, dass die Konstanzer Metzger dies auf Nachfrage ihrer Obrigkeit verneinen, und diese dann die Metzger nochmals zum Befolgen der Ordnung angehalten habe. Die Konstanzer baten umgekehrt die St. Galler Obrigkeit, ihre Metzger ebenfalls zur Einhaltung der Ordnung anzuhalten. Die St. Galler teilen den Konstanzern nun mit, dass sie dies getan hätten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-168">Abschrift</term>
+<term ref="stadtasg-keywords-146">Metzger</term>
+<term ref="stadtasg-keywords-142">Ordnung</term>
+<term ref="stadtasg-keywords-189">Vieh</term>
+<term ref="stadtasg-keywords-622">Fleischkauf</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                    <date>1470-02-09</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2024-09-16</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-04-03</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_401_817.JPG" n="1" />
+<p>
+<lb n="1" />Denen von <placeName ref="stadtasg-places-7">Costentz</placeName>.
+<lb n="2" />Unser früntlich willig dienst zuovoran fürsichtigen wysen lieben und guoten fründ.
+<lb n="3" />Üwer schriben uns yetzo getan, wie unser alter b<ex cert="medium">urgermaister</ex> <persName ref="stadtasg-actors-689">Hans Schürpff</persName> vor üch
+<lb n="4" />erschinen und erlutt, wie uns fürkomen, daz üwer metzger kelber, emalenn und die gnug
+<lb n="5" />alt syen, kouffen und verkouffen, daz doch uff innhalt üwer ordnung umbillich von
+<lb n="6" />inen beschech, uff soelich anbringen ir nachfrag, ob dz von den üwern beschehen sie,
+<lb n="7" />gehept, sy desßhalb erkennet und nicht finden, von inen beschechen sy,
+<lb n="8" />nichtzs dester minder inen strenklich verbotten, die ding zuo under nemen by üwer ordnung, och
+<lb n="9" />zebekenen und uns bittende sind, mit unsern metzgern ze schaffen, soelich ordnung
+<lb n="10" />zehalten mit mer worten innhalt üwer b<ex cert="medium">riefen</ex> etc., haben wir vernomen
+<lb n="11" />und lassen üwer gueten fründschafft, das wir soelichs, wie obstat, vormalß
+<lb n="12" />mit unsern metzgern verschafft gehebt haben und fürter verschaffen, und dar
+<lb break="no" n="13" />an sin woellen, das das strenklich an hinderstellung gehalten werde. Denn wa
+<lb n="14" />wir üwer wisßhait und gueter fründschaft in denen und andern sachen, die
+<lb n="15" />üch zuo schaden komen moechten, waren und davor sin mochten, taetten wir
+<lb n="16" />ye nüt gern, das soel üwer wisßhait dehainen zwifel haben. Geben uff
+<lb n="17" /><origDate when="1470-02-09">sant Appollonien tag anno domini etc. LXXmo</origDate>.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 474</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_474_969/970</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Ulm teilen Bürgermeister und Rat zu St. Gallen mit, sie müssten eine neue Mange bauen. Sie bitten die St. Galler, ihrem Werkmeister Michael Wirtemberg, der dieses Schreiben vorweist, ihre Mangen zu zeigen, damit er in Ulm ebenfalls eine bauen kann.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-507">Textilwirtschaft</term>
+<term ref="stadtasg-keywords-506">Mange</term>
+<term ref="stadtasg-keywords-505">Maschine</term>
+<term ref="stadtasg-keywords-331">Bau</term>
+<term ref="stadtasg-keywords-267">Werkmeister</term>
+<term ref="stadtasg-keywords-504">Wissen</term>
+<term ref="stadtasg-keywords-345">Zeiger</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-510">Bürgermeister und Rat zu Ulm</orgName>                    <date>1491-04-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_474_969.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser freünntlich willig diennst voran ersamen unnd weisen lieben freünnd. Wir sein in willen, unns unnd gemainer unnser
+<lb n="2"/>statt notturffthalben ain newe manng hie zu <placeName ref="stadtasg-places-28">Ulme</placeName> auffrichtten und machen zulassen, unnd haben demnach unnsern werckh
+<lb break="no" n="3"/>maister, maister <persName ref="stadtasg-actors-1005">Michel Wirttemberg</persName>, zaigernn dis briefs, zu euch verferrttigt mit bevelch, die manngen bey euch zuerkunnen
+<lb n="4"/>unnd zubesichtigen, damitt er sich in bawunng unnsrer manng hie destbas wisste zuschicken unnd zuhalten. Darumm
+<lb n="5"/>bitten wir ewer weyshaitt mitt besonnderem vleyss freünnttlich, ir wollit verfügen unnd daran sein, das dem obgenanntten
+<lb n="6"/>unnserem werckmaister die manngen bey euch zuerkonnen unnd zubesichtigen verholffen unnd gestatt werden. Mitt
+<lb n="7"/>so guttwilliger beweysunng, als wir vertrawen haben, stet unns umm ewer weyßhaitt mitt willen zuverdienen. Datum <origDate when="1491-04-08">freittags
+<lb n="8"/>nach dem hailigen ostertag anno etc. LXXXXI</origDate>.
+<lb n="9"/><orgName ref="stadtasg-actors-510" role="issuer">Burgermaister unnd
+<lb n="10"/>ratte zu Ulme</orgName>.
+<pb facs="StadtASG_Missive_474_970.JPG" n="2"/>
+<lb n="11"/>Den ersamen unnd weisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister unnd rate der
+<lb n="12"/>statt zu sannt Gallen</orgName> unnsern besonnderen gutten
+<lb n="13"/>freunnden.
+</p>
+        </body>
+    </text>
+</TEI>

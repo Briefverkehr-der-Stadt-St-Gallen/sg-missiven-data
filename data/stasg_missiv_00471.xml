@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 471</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00459.xml">459</ref> und das Appenzeller Urkundenbuch I,1253.</p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_471_961/962</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Dominikus Frauenfeld, Vogt zu Rheineck, teilt Bürgermeister und Rat zu St. Gallen mit, dass ihre Ratsfreunde und Mitbürger Gallus Kapfmann und Hans Schwanberg und andere die Rechte an einem Gut, die Magdalena Oppertshofer von ihrem Ehemann Hans geerbt hat, beschlagnamt hätten und verganten wollten. Da Magdalena Bürgerin zu Rheineck ist, bittet er die St. Galler, den Streit in Rheineck, oder dort, wo es ihnen günstig erscheint, auszutragen. Er bittet um eine Antwort mit dem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+   <term ref="stadtasg-keywords-5">Erbe</term>
+<term ref="stadtasg-keywords-66">Beschlagnahmung</term>
+<term ref="stadtasg-keywords-272">Gant</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-177">Witwe</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+<term ref="stadtasg-keywords-112">Bürgerrecht</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-263">Vogt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-974">Dominikus Frauenfeld</persName><placeName ref="stadtasg-places-88">Rheineck</placeName>                    <date>1490-07-06</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-04</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_471_961.JPG" n="1" />
+<p>
+<lb n="1" />Fürsichtigen fürnemen frommen und wysen besonder lieben heren min willig
+<lb n="2" />dinst syen üwer wyßhait allzyt mit vliß zu vor berayt. Ich bin durch
+<lb n="3" /><persName ref="stadtasg-actors-973">Magdalen Opentzhoverin</persName> und ire voegt, nach dem sy ain burgerin ze
+<lb n="4" /><placeName ref="stadtasg-places-88">Rinegg</placeName> ist, angefochten nach erschainung erlangten rechten, die sy an
+<lb n="5" /><persName ref="stadtasg-actors-968">Hannsen Opentzhovers</persName>, ires elichen mans saeligen, verlaussnen guot behept
+<lb n="6" />hab ire in üwer statt durch üwer ratsfründ und burger <persName ref="stadtasg-actors-969">Gallusen Kapffman</persName>
+<lb n="7" />und <persName ref="stadtasg-actors-975">Hannsen Schwanberg</persName> und ander ir mitthafften verspert, das ir vergantet
+<lb n="8" />inen unverkünt etc., iro hilfflich und raetlich zuo sind an statt und in namen
+<lb n="9" />miner heren und obren, damit sy by dem iren und ir erlangten rechten
+<lb n="10" />beliben zu moegent, und ob yemant an sy ainicherlay zuo sprechen
+<lb n="11" />hette, dem woelte sy ze <placeName ref="stadtasg-places-88">Rinegg</placeName>, da sy burgerin ist, rechts still ston. Und
+<lb n="12" />wan ich noch nüw an land und des handels unwyssent bin, och üwer wyß
+<lb break="no" n="13" />hait und den üwren alles das, so üch gefellig, lieb und dinst sin moecht,
+<lb n="14" />tuon wolt. So ist an üch als min lieb heren min flissig bett, ir wellint mit
+<lb n="15" />den vermelten den üwern güticlich daran sin, das sy ains unverbundnen,
+<lb n="16" />früntlichen tags here gen <placeName ref="stadtasg-places-88">Rinegg</placeName>, oder wohin üch das komlich sin beduncken
+<lb n="17" />wil, ze verfolgent, da ich mit andern fliß ankeren wil, ob die parthyen geaint
+<lb n="18" />und betragen moegint werden. Dan warinn üwer wyßhait ich guoten willen
+<lb n="19" />bewysen moecht, beschaehe allzyt von mir. Und wie wol ich mich des gentz
+<lb break="no" n="20" />lich versehen wil, beger ich üwer antwurt mit dem botten. Geben ze <origPlace ref="stadtasg-places-88">Rin
+<lb break="no" n="21" />egg</origPlace> uff <origDate when="1490-07-06">zinstag nach sant Uolrrichs tag anno etc. LXXXXmo</origDate>.
+<lb n="22" /><persName ref="stadtasg-actors-974" role="issuer">Dominicus Frowenfeld</persName>
+<lb n="23" />vogt ze <placeName ref="stadtasg-places-88">Rinegg</placeName>.
+<pb facs="StadtASG_Missive_471_962.JPG" n="2" />
+<lb n="24" />Den fürsichtigen fürnemen frommen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="25" />und rat zuo Santgallen</orgName> minen besonder lieben heren.
+</p>
+        </body>
+    </text>
+</TEI>

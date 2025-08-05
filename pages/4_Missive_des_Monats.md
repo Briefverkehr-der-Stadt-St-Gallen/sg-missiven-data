@@ -5,6 +5,26 @@ Jeden Monat zeigen wir ein Highlight aus unserer Edition und vermitteln einen ku
 
 2025
 
+August: Wie die Feuerpolizei gegen Brandstiftung vorging.
+[[PDF](resources/pdfs/Schoeb_Feuerpolizei_Brandstiftung_01-08-2025.pdf)]
+[[Missive Nr. 30](https://missiven.stadtarchiv.ch/data/stasg_missiv_00030.xml)]
+
+Juli: Die Geschichte der Magdalena Horber.
+[[PDF](resources/pdfs/Weidenmann_Magdalena_Horber_04-07-2025.pdf)]
+[[Missive Nr. 761](https://missiven.stadtarchiv.ch/data/stasg_missiv_00761.xml)]
+
+Juni: Seekrieg auf dem Bodensee.
+[[PDF](resources/pdfs/Hagmann_Seegkrieg_Bodensee_06-06-2025.pdf)]
+[[Missive Nr. 3850](https://missiven.stadtarchiv.ch/data/stasg_missiv_03850.xml)]
+
+Mai: Reglementierung und Zölle oder freie Hand der Wirtschaft.
+[[PDF](resources/pdfs/Sonderegger_Reglementierung_und_Zölle_02-05-2025.pdf)]
+[[Missive Nr. 96](https://missiven.stadtarchiv.ch/data/stasg_missiv_00096.xml)]
+
+April: Steigende Schulden als Phänomen der bargeldlosen Moderne?
+[[PDF](resources/pdfs/Guggenheimer_Steigende_Schulden_04-04-2025.pdf)]
+[[Missive Nr. 4022](https://missiven.stadtarchiv.ch/data/stasg_missiv_04022.xml)]
+
 März: Überlingen "beschmalzen".
 [[PDF](resources/pdfs/Sonderegger_Ueberlingen_beschmalzen_07-03-2025.pdf)]
 [[Missive Nr. 672](https://missiven.stadtarchiv.ch/data/stasg_missiv_00672.xml)]

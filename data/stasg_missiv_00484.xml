@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 484</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_484_989/990</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau berichten Bürgermeister und Rat zu St. Gallen, dass der Lindauer Bürger Josef Koet seinen Knecht mit etlichen Stücken Leinwand nach St. Gallen geschickt habe, um sie dort beschauen zu lassen. Als der Knecht gefragt wurde, ob die Leinwand nach St. Galler Art gemacht wurde, habe dieser mit ja geantwortet, worauf ihm die Leinwand abgenommen wurde. Die Lindauer geben zu bedenken, dass der Knecht aus Angst oder Unwissenheit geantwortet habe und dass sie vorher die St. Galler wie die Lindauer angefragt hätten, ob sie Leinwand zur Beschauung zulassen würden. Sie bitten die St. Galler, dem Knecht die Leinwand zurückzugeben. Sie bitten um eine schriftliche Antwort mit dem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-124">Knecht</term>
+<term ref="stadtasg-keywords-258">Leinwand</term>
+<term ref="stadtasg-keywords-322">Geselle</term>
+<term ref="stadtasg-keywords-508">Schauzeichen</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-164">Tuch</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>                    <date>1493-04-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-06-25</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_484_989.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser fründtlich willig dinst allzit berait voran ersamen und wysen besonder lieben unnd
+<lb n="2"/>guotten fründ. Uns hat ünnser burger <persName ref="stadtasg-actors-1043">Jos Koet</persName> fürbracht, wie er ainen sinen knecht mit
+<lb n="3"/>ettlichen linwat stücken, die ußer soellichem zuog in eüwer statt wol bequem gewuerckt,
+<lb n="4"/>in der selben euwer statt schowen ze lassen gesandt, und so man in, ob die enhalb an
+<lb n="5"/>üwer art gewurckt syen, gefragt hab er unbevolhen sinthalb, villicht uß schricken oder
+<lb n="6"/>ainfaeltigkait, geantwürt ia, daruf werde im sin linwat in üwer statt vorgehalten.
+<lb n="7"/>Nun mag sin, so wir eüwer lieb durch unser ratz botschafft und schrifftlich den unsern
+<lb n="8"/>als den von <placeName ref="stadtasg-places-7">Costentz</placeName> schowen zelassen ernstlich gebetten, ir des gütlich bedencken
+<lb n="9"/>genomen und nitt abgeschlagen haben, er habe die hoffnug gehept, ir sehen uns
+<lb n="10"/>uß sonnder fründtlichem langherbrachten guotten willen an zum minsten, als ander
+<lb n="11"/>des vertrüwens wir och noch syen, hierumm wir eüwer ersamkait mit sonderm
+<lb n="12"/>vliß ernstlich bitten, ir woellen den armen gesellen umb unnsern willen guettlich
+<lb n="13"/>bedencken und im sin linwat one beswaerd volgen lassen, als wir eüch unzwy
+<lb break="no" n="14"/>fenlich getrüwen. Das woellen wir umb euwer guot fründtschafft willigclich zuo
+<lb n="15"/>verdienen haben. Eüwer fründtlich geschriben antwürt wider mit dem botten. Datum
+<lb n="16"/>an <origDate when="1493-04-12">frytag nach dem hailgen ostertag anno etc. LXXXXIIIo</origDate>.
+<lb n="17"/><orgName ref="stadtasg-actors-511" role="issuer">Burgermaister und
+<lb n="18"/>rat zuo Lindow</orgName>.
+<pb facs="StadtASG_Missive_484_990.JPG" n="2"/>
+<lb n="19"/>Den ersamen unnd wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister unnd
+<lb n="20"/>rat zuo Santgallen</orgName> unnsern besunder lieben und guotten
+<lb n="21"/>frunden.
+</p>
+        </body>
+    </text>
+</TEI>

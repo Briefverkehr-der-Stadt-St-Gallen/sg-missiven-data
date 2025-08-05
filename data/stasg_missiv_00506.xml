@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 506</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_506_1033/1034</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Überlingen teilen Bürgermeister und Rat zu St. Gallen mit, dass der St. Galler Bürger Hans Dietz ein Dach über einer Türe der Pfarrkirche St. Nikolaus errichtet habe. Dieses weist einige Mängel auf, die Dietz trotz schriftlicher Aufforderung nicht behoben hat, obwohl er den Pflegern der Kirche die Garantie zur Behebung von Mängeln gegeben habe. Die Überlinger bitten namens ihrer Kirchenpfleger Bürgermeister und Rat zu St. Gallen, bei ihrem Dachdecker vorstellig zu werden, damit er seiner Verpflichtung nachkommt. Sie bitten zudem um eine schriftliche Antwort mit dem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-351r">Handwerk</term>
+                    <term ref="stadtasg-keywords-300">Schaden</term>
+                    <term ref="stadtasg-keywords-18">Pfarrkirche</term>
+                    <term ref="stadtasg-keywords-16">Kirchenpfleger</term>
+                    <term ref="stadtasg-keywords-300">Schaden</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-68">Bürgermeister und Rat zu Überlingen</orgName>                    <date>1497-08-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-24</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_506_1033.JPG" n="1" />
+<p>
+<lb n="1" />Unnser frunntlich diennst voran ersamen und weisen besonnder lieben und guotten fründ. Ewer
+<lb n="2" />burger <persName ref="stadtasg-actors-1041">Hanns Dietz</persName>, der decker, hatt zuoverganngen iaren den ainen türen an <placeName ref="stadtasg-places-337">sant
+<lb n="3" />Niclaus</placeName> pfarrkirchen in unnser statt gedeckt unnd den pflegern in der selben kirchen, als sie
+<lb n="4" />unns berichten, zu gesagt, ob inen an dem dach kunfftigclich ainicher manngel oder schad
+<lb n="5" />zu stan wurde, das er dann sollichs wennden woelle. Nun erfünden aber yetzo die berürten
+<lb n="6" />pfleger an dem bemellten tach mercklichen mangel und gebrechen, desshalben sie den be
+<lb break="no" n="7" />rürten <persName ref="stadtasg-actors-1041">Hannsen Dietzen</persName> schrifftlichen ersucht und begert haben, seinem zusagen nach allherer
+<lb n="8" />zu komen unnd sollichen mangel zu wenden. Das thut sich nun bißher verziehen, und aber
+<lb n="9" />sich der schad taeglichen zu meren, desshalben unns auch yetzo die egenannten pfleger
+<lb n="10" />ersucht haben, inen hier inn zu erschiessen. Demnach wir ewer ersamen weishait
+<lb n="11" />mit besonnderm frunntlichem fleiß bitten, sie wolle bey dem bemellten iuwern burger
+<lb n="12" />verfugen und daran sein, seinem zu sagen nach alher zu fügen unnd den mangel
+<lb n="13" />unnd schaden an dem berürten tach zu wennden. Das steet unns umb ewer
+<lb n="14" />weiszhait mit früntlichem willen zuvergleichen und zuverdienen. Datum <origDate when="1497-08-01">zinstags
+<lb n="15" />vor Oswalde anno etc. LXXXXVIImo</origDate>. Und bitten hier auff ewer verschriben
+<lb n="16" />annttwurt bey dem botten.
+<lb n="17" /><orgName ref="stadtasg-actors-68" role="issuer">Burgermaister und rat
+<lb n="18" />zu Überlingenn</orgName>.
+<pb facs="StadtASG_Missive_506_1034.JPG" n="2" />
+<lb n="19" />Den ersamen unnd weisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister unnd
+<lb n="20" />ratt der statt Sanntgallen</orgName> unnsern beso
+<lb break="no" n="21" />nndern lieben unnd gutten frunnden.
+</p>
+        </body>
+    </text>
+</TEI>

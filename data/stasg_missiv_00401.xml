@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 401</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Wohl Abschrift.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_401_817</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen teilen Bürgermeister und Rat zu Nürnberg auf deren Bitte hin mit, den St. Galler Bürger Erhart Geisser in seiner Auseinandersetzung mit Nürnbergern zurechtzuweisen. Sie hätten keine Kompetenzen dazu, weil Geisser bereits am 26. September sein St. Galler Bürgerrecht aufgegeben habe.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-168">Abschrift</term>
+ <term ref="stadtasg-keywords-21">Rechtshilfe</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+<term ref="stadtasg-keywords-249">Zurechtweisung</term>
+<term ref="stadtasg-keywords-112">Bürgerrecht</term>
+<term ref="stadtasg-keywords-251">Stadtrecht</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                    <date>1469-10-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-571">Bürgermeister und Rat zu Nürnberg</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2024-09-16</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-04-03</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_401_817.JPG" n="1" />
+<p>
+<lb n="1" />Denen von <placeName ref="stadtasg-places-21">Nueremberg</placeName>
+<lb n="2" />Ex parte <persName ref="stadtasg-actors-893">Er
+<lb break="no" n="3" />hardi Gaiser</persName>.
+<lb n="4" />Fürsichtigen wysen lieben herren und guoten fründ unser etc. Als ir uns denn
+<lb n="5" />yetzo geschriben haben der vordrunghalb, so denn <persName ref="stadtasg-actors-893">Erhart Gaiser</persName> zuo ettlichen
+<lb n="6" />den üwern zuo haben vermaint, wie er zuo üch gen <placeName ref="stadtasg-places-21">Nueremberg</placeName> komen und
+<lb n="7" />sich mit sinen widertail siner vemainten vordrung ains anlasß, innhalt ainer
+<lb n="8" />ingeschlossen coppy, vertragen, nicht vervolg getan und uns under anderm bittende
+<lb n="9" />sind, ob der genant <persName ref="stadtasg-actors-893">Gayser</persName> icht darüber und über daz rechtlich erbietten, vormalß von üch beschehen, gegen üch
+<lb n="10" />oder den üwern fürnemen woelt, im der nicht zuogestattnen, sunder in, als unsern
+<lb n="11" />burger davor zuo sten, zuo underwisen, wie denn daz üwer b<ex cert="medium">rief</ex> uns gesandt mit mer
+<lb n="12" />worten innhalt etc., haben wir vernomen und lassen üwer wisßhait wissen, das
+<lb n="13" />der benant <persName ref="stadtasg-actors-893">Erhart Gaiser</persName> uff <date when="1469-09-26">zinstag vor Michahelis</date> naechst vergangen für uns
+<lb n="14" />komen ist und haut uns sin burgg<ex cert="medium">recht</ex> uffgeben nach unser stattrecht, daz wir im
+<lb n="15" />nitt vorhalten mochten. Desßhalb wir in zuowisen nicht macht haben, denn
+<lb n="16" />er uns nitt mer zuo versprechend staut, ouch nitt hie by uns ist. Waer aber, das
+<lb n="17" />uns hinfür der sachhalb icht anlangen wurde, soellen ir uns wol vertruwen
+<lb n="18" />und daran nitt zwifels haben, denn daz wir darin geschaffen und thuon woeltind, den
+<lb n="19" />wir hofftind uns unverwissentlich und gegen üch glimpff haben soeland. Denn
+<lb n="20" />wa wir üwer wisßhayt und den üwern in denen und allen andern gebürlichen sachen
+<lb n="21" />zuo dienst und zuo lieb werden moegen, soellen ir uns allzit unverdrossen willig und
+<lb n="22" />berait inn befinden. Geben uff <origDate when="1469-10-01">sunnentag nach Michahelis anno domini
+<lb n="23" />etc. LXVIIII</origDate>. <orgName ref="stadtasg-actors-148" role="issuer">Burgermaister und raut zuo sant Gallen</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

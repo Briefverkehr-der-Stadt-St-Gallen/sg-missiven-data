@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 404</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_404_823/824</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich teilen Bürgermeister und Rat zu St. Gallen mit, dass die eidgenössischen Bünde am 19. Mai erneuert werden sollen, und fordern die St. Galler auf, ihre Bürger und Gesandten an diesem Tag zu versammeln.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-12">Gesandter</term>
+<term ref="stadtasg-keywords-520">Bündnis</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1471-05-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-04-07</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_404_823.JPG" n="1" />
+<p>
+<lb n="1" />Ünnser willig früntlich dienst alle zitt zuovor ersamen wisen sundren guotten fründ und getruwen lieben
+<lb n="2" />eidgnossen. Nach dem und sich die zit erloffen hatt, das sich unser <orgName ref="stadtasg-actors-750">Eidgnosschafft</orgName> gemeinlich gebürt,
+<lb n="3" />unser puonde zuo ernüweren, ist von gemeinen unsern eidgnossen angesechen, das soelichs beschechen
+<lb n="4" />soelle uff den nechsten <date when="1471-05-19">suntag nach mittem meyen</date> yetz künfftig, und üns von inen bevolhen, üch
+<lb n="5" />das ze verkunden, als wir och hiemitt tuond, üwer gemeinden uff den selben <date when="1471-05-19">suntag</date> by ein andren
+<lb n="6" />zuo haben, dann sy alle ir bottschafft, das zuo vollzüchen, als sich gebürt, by üch haben wellent. Geben
+<lb n="7" />uff <origDate when="1471-05-04">samstag nach des heiligen crützes tag ze meiyen anno etc. LXXprimo</origDate>.
+<lb n="8" /><orgName ref="stadtasg-actors-503" role="issuer">Burgermeister und ratt
+<lb n="9" />der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_404_824.JPG" n="2" />
+<lb n="10" />Den ersamen wisen unsern besundren guotten fründen
+<lb n="11" />und getrüwen lieben eidgnossen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermeister
+<lb n="12" />und ratt zuo sant Gallen</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,82 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 530</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_530_1081/1082</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Klaus Beiger, Bürger zu Rottweil, bittet Bürgermeister und Rat zu St. Gallen, den jährlichen Zins in der Höhe von 15 Gulden, den die St. Galler auf den 25. Dezember schuldig sind, in Heinrich Rottengatters Haus in Konstanz zu senden, wo sie eine Quittung dafür erhalten.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-525">Gulden</term>
+                    <term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-10">Zins</term>
+<term ref="stadtasg-keywords-265">Quittung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1110">Klaus Beiger</persName>                    <date>1502-01-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-02-14</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_530_1081.JPG" n="1"/>
+<p>
+<lb n="1"/>Ersamen und wißen lieben heren uwer wishait sien min gar willig dienst
+<lb n="2"/>alle zitt berait zuo vor lieben heren. Nach dem und ir mir iaerlichs geben funfzehenn
+<lb n="3"/>guldin zins nach lut mins hopt briefs, och die quittantz das uß wißen,
+<lb n="4"/>ist die selbigen funfzehen guldin nun verfallen sind uf das hailig hochtzit
+<lb n="5"/>wihenaechten. Dar umb so ist gar min ernstlich bitt an uch min herren,
+<lb n="6"/>das ir mir solich funfzehen guldin wellend schicken in <persName ref="stadtasg-actors-1013">Hainrichen Rotten
+<lb break="no" n="7"/>gaters</persName> huß zuo <placeName ref="stadtasg-places-7">Costentz</placeName>, da findt uwer ersam wishait umb solichen obgenanten zins
+<lb n="8"/>guote quittierung nach aller notturfft. Das wil ich umb üwer wißhait, wo
+<lb n="9"/>ich sol oder mag, alltzitt willigclich und gern verdiennen. Datum uff denn
+<lb n="10"/><origDate when="1502-01-01">nüwen iars tag circumcisio domini anno domini etc. im andren iare</origDate>.
+<lb n="11"/><persName ref="stadtasg-actors-1110" role="issuer">Claus Beyger</persName>, burger zuo
+<lb n="12"/><placeName ref="stadtasg-places-158">Rotwil</placeName>.
+<pb facs="StadtASG_Missive_530_1082.JPG" n="2"/>
+<lb n="13"/>Den ersamen und wisen
+<lb n="14"/><orgName ref="stadtasg-actors-148" role="recipient">burgermaister und ratt
+<lb n="15"/>der statt zuo sannt Gallenn</orgName>
+<lb n="16"/>minen gnädigen lieben herren.
+</p>
+        </body>
+    </text>
+</TEI>

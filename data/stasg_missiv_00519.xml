@@ -1,0 +1,89 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 519</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_519_1059/1060</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Chur teilen Bürgermeister und Rat zu St. Gallen mit, dass sie nach deren Vertrag in der Auseinandersetzung zwischen Benedikt Burgauer und dessen Ehefrau diese mit Geld zu ihm schickten. Es sei aber weniger Geld, als im Vertrag der St. Galler genannt wird, weil anzunehmen ist, dass Burgauer sein Geld in Zinsen angelegt hat und deshalb nicht mehr vorhanden ist. Die Churer bitten die St. Galler, dafür zu sorgen, dass der Vertrag eingehalten werde und dass die Frau und die Kinder Burgauers vor ihm geschützt werden.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-355">Ehestreit</term>
+                    <term ref="stadtasg-keywords-127">Geld</term>
+                    <term ref="stadtasg-keywords-10">Zins</term>
+                    <term ref="stadtasg-keywords-39">Vertrag</term>
+                    <term ref="stadtasg-keywords-321">Schriftlich</term>
+                    <term ref="stadtasg-keywords-297">Ehefrau</term>
+                    <term ref="stadtasg-keywords-325">Ehemann</term>
+                    <term ref="stadtasg-keywords-269">Kind</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-518">Bürgermeister und Rat zu Chur</orgName>                    <date>1501-12-07</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-07-14</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_519_1059.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich willig dienst und alles guott zuovor fuersichttigen ersamenn unnd wysen
+<lb n="2"/>lieben und guotten fründ. Dem vertrag nach, durch üwer lieb im besten zwüschen <persName ref="stadtasg-actors-1096">Benedicten
+<lb n="3"/>Burgowern</persName> ains und siner elichen hußfrowen anndertails abgeredt und unns schrifftlich zuo
+<lb n="4"/>gesannt, den wir gehoert lesen und aigenlich verstannden haben, sennden wir genantem <persName ref="stadtasg-actors-1096">Burgower</persName>
+<lb n="5"/>sin wib verfasset mit ettlichem geltt, aber doch nit mit sovil, als üwer vertrag anzaigt, uß
+<lb n="6"/>ursach, das in warhait zuogloben, dasselbig geltt zum groessern tail an annder zins angelegt
+<lb n="7"/>und nit mer vorhannden ist. Und bittend uwer wyßhait hieruff gar früntlich mit allem
+<lb n="8"/>flys und ernst und ymmer früntlichist wir bitten kuenden und moegen, das die genants <persName ref="stadtasg-actors-1096">Burgo
+<lb break="no" n="9"/>wers</persName> wesen und henndel ansechen, die ouch zuhertzen nemen, und wie unnser guot vertruwen
+<lb n="10"/>zuo ir lieb stat, darob sin woell, das geruertem vertrag gelebt, ouch die genant frow vor irem mann
+<lb n="11"/>zuo friden geschirmt, vor unfrid verhuett, und sy und ire kinder by irem guott gehanndhabtt
+<lb n="12"/>werden. Woellen wir umb uwer ersam wyßhait ganntz früntlich verdienen und zuguottem nit
+<lb n="13"/>vergessen. Datum an unnser <origDate when="1501-12-07">lieben frowen aubent conceptionis anno etc. primo</origDate>.
+<lb n="14"/><orgName ref="stadtasg-actors-518" role="issuer">Burgermaister und
+<lb n="15"/>raut der statt Chur</orgName>.
+<pb facs="StadtASG_Missive_519_1060.JPG" n="2"/>
+<lb n="16"/>Den fuersichttigen ersamen und wysen
+<lb n="17"/><orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat der statt zuo
+<lb n="18"/>sannt Gallen</orgName> unnsern lieben und
+<lb n="19"/>guotten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

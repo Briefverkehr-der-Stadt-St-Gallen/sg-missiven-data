@@ -1,0 +1,117 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 464</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Unsichere Datierung.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_464_945/946</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Beda Miles berichtet Bürgermeister und Rat zu St. Gallen, dass er sich von einem Hutmacher namens Sigel dazu hat überreden lassen, mit dem Geld seiner Vogtkinder Wiler Tuch zu kaufen, welches Sigel nach Nördlingen bringen wolle, um es dort zu verkaufen, was einen grossen Gewinn bringen soll, wobei laut Miles Felix Täschler und Sebastian Brenk als Zeugen anwesend waren. Sigel hielt sich aber nicht an die Abmachung, worauf der Unterbürgermeister Miles erlaubte, Othmar Flechsner mit dem Tuch nach Nördlingen zu schicken. Miles erwähnt, dass diese Angelegenheit mindestens zehn Gulden Verlust für das Vermögen seiner Vogtkinder bedeute, wofür er Sigel verantwortlich macht.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+   <term ref="stadtasg-keywords-270">Vormundschaft</term>
+<term ref="stadtasg-keywords-269">Kind</term>
+<term ref="stadtasg-keywords-164">Tuch</term>
+<term ref="stadtasg-keywords-258">Leinwand</term>
+<term ref="stadtasg-keywords-91">Handel</term>
+<term ref="stadtasg-keywords-336">Zeuge</term>
+<term ref="stadtasg-keywords-177">Witwe</term>
+<term ref="stadtasg-keywords-450">Waise</term>
+<term ref="stadtasg-keywords-27">Eid</term>
+<term ref="stadtasg-keywords-351">Handwerk</term>
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-990">Beda Miles</persName>                    <date>1500</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_464_945.JPG" n="1"/>
+<p>
+<lb n="1"/>Der allmechtig ewig got si und werd glopt in ewigkait. Lieber herr<note>Gemeint ist <orgName ref="stadtasg-actors-148" role="recipient">Bürgermeister und Rat zu St. Gallen</orgName>.</note>, darum
+<lb n="2"/>ich üch schrib, gschicht nit on gferd, dann ir zue gzuottem tail wissend, wie got mit
+<lb n="3"/>mir und den minen handlet, dz ich üch nit gern überloff, unntdester minder
+<lb n="4"/>so sol man witwen und waissen sach lassen zue hertzen gon, als ir bass wissend, denn
+<lb n="5"/>ich darum ermanen und bit ich uech umb gotz willen, ir wellend üch ain wenig
+<lb n="6"/>arbaiten und minen heren ainzaigen min ainligen, dann alles dz, so ich alda gsch
+<lb break="no" n="7"/>riftlich offnen, dem ist also, daruff wil ich, so got wil, sterben möcht och
+<lb n="8"/>all aid drum thuen nünt dester minder, wie ain oberkait mich beschaidt,
+<lb n="9"/>daby wil ich gern bliben, denn ich han nit me gwalt, den dz ich mag der
+<lb n="10"/>oberhait ainzaigen. Die wil aber ietz hutt ainer lept und morn tod ist, so
+<lb n="11"/>wer min beger und bit, sölchs zue enden, damit ich wist, wie ich mich sölt
+<lb n="12"/>halten, ist denn sach, dz min heren kain schüchen ab mir hand, so wil ich gern
+<lb n="13"/>selb kumen. Zum ersten het es sich begen, dz der <persName ref="stadtasg-actors-991">Sigel</persName>, huetmacher, mich
+<lb n="14"/>dergstalt hat geraitzt und beredt uffs kürtzst, dz ich minen vogtkinden
+<lb n="15"/>ain sum geltz han ain tuech glait nach sim empfelch, und der <persName ref="stadtasg-actors-991">Sigel</persName>
+<lb n="16"/>mir so grossen gwün fürghalten, den er dran gwunen hab, dz ich
+<lb n="17"/>mich müst gschempt han, sölchen gwün den kinden zefersumen, als ich
+<lb n="18"/>non sofil des groben <placeName ref="stadtasg-places-102">willer</placeName> tuech han koft nach empfelch, ist zue mir
+<lb n="19"/>kumen des <persName ref="stadtasg-actors-991">Sigels</persName> fründ ainer, also mit mir gredt, lieber <persName ref="stadtasg-actors-990">Beda</persName>, lueg für
+<lb n="20"/>dich min minem in dem <persName ref="stadtasg-actors-991">Sigel</persName>, dann er ethwa ain ding redt und denn
+<lb n="21"/>nit ia ist. Sprach ich, ich truwen, er werd mir halten, den du waist, wie
+<lb n="22"/>er mir hat verhaissen, soelch tuech selb ze <placeName ref="stadtasg-places-329">Nörlingen</placeName> zeferkoffen, ich het es
+<lb n="23"/>süst gar nit koft, aber ich wil in bas fragen. Uff die warnung bin
+<lb n="24"/>ich selb zue dem <persName ref="stadtasg-actors-991">Sigel</persName> in sin hus gangen, han in ze oberst im huss
+<lb n="25"/>funden, mit im also gredt, lieber <persName ref="stadtasg-actors-991">Sigel</persName>, wie statz wilen gen <placeName ref="stadtasg-places-329">Nörlingen</placeName>
+<lb n="26"/>und mir dz tuech verkoffen, wie du mir hast zue gsagt in by wessen
+<lb n="27"/><persName ref="stadtasg-actors-992">Felix Teschler</persName> und <persName ref="stadtasg-actors-993">Basty Brencken</persName> ists gschechen gsin, dann wo du
+<lb n="28"/>nit weltest gan, so welt ich hören koffen, dan ich understönd mich der
+<lb n="29"/>dingen gar nit dann uff din verhaissen. Gab er mir die anthwurt, ich
+<lb n="30"/>hatz schier abgeschlassen, aber ich wil gon, darum so koff non redlich. Dz han
+<lb n="31"/>ich glopt und redlich koft. Als non der tag kam, dz man solt inschlachen
+<lb n="32"/>und alle ding grüst was, sagt er erst, er künd nit gon, do kond ich nit
+<lb n="33"/>hindersich gon, wist nit, wie ich im thuen wolt, sprach er, duo im, wie du
+<lb n="34"/>wit, schick ainen knecht darmit etc. Soelchs han ich von stund dem under
+<lb break="no" n="35"/>burgermaister und och dem docter ainzaigt, die han mir <persName ref="stadtasg-actors-994">Othmar
+<lb n="36"/>Flechßner</persName> erlopt, der war na zeschicken, also hat der <persName ref="stadtasg-actors-991">Sigel</persName> mins tuncken
+<lb n="37"/>die kind ungefor umb 10 <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> und me bracht mit sim verhaissen,
+<lb n="38"/>ob er inen den schaiden, dem ers on als mitel drin gfelt hat, sölle gar
+<lb n="39"/>halb, minder oder me gen, setz ich üch als den oberfögten, ham, dann
+<lb n="40"/>ich nim got zum zügen, dz ich unschuldig dran byn, dann ich
+<lb n="41"/>het min lebtag nie dran gedacht, ain sölch tuech gen <placeName ref="stadtasg-places-329">Nörlingen</placeName> zeschick
+<lb break="no" n="42"/>en. Dz dem also ist, wil ich, so got wil, frölich druff sterben, dz <persName ref="stadtasg-actors-991">Sigel</persName>
+<lb n="43"/>den kinder sölch gelt schuldig ist vor got. Got sy lob. <persName ref="stadtasg-actors-990" role="issuer">Beda Milles</persName>,
+<lb n="44"/>uwer diener alzit.
+<pb facs="StadtASG_Missive_464_946.JPG" n="2"/>
+</p>
+        </body>
+    </text>
+</TEI>

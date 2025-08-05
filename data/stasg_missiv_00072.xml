@@ -47,7 +47,7 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sent">
-                    <orgName ref="stadtasg-actors-601">Sieben Orte (UR, SZ, UW, LU, ZH, GL, ZG)</orgName>
+                    <orgName ref="stadtasg-actors-1124">Sieben Orte der Eidgenossenschaft (ZH, LU, UR, SZ, UW, ZG, GL)</orgName>
                     <placeName ref="stadtasg-places-8">Appenzell</placeName>
                     <date>1435-07-07</date>
                 </correspAction>
@@ -88,9 +88,9 @@
                     ref="stadtasg-places-71">Schwitz</placeName>, insigel von unser aller bette wegen. Geben ze
                     <origPlace ref="stadtasg-places-8">Appenzell</origPlace>
                 <lb n="11"/>am <origDate when="1435-07-07">donstag nach sant Uolrichs tag anno
-                    domini Mo CCCCo XXXVo</origDate>. <lb n="12"/><orgName ref="stadtasg-actors-601" role="issuer">Gemainer aidgnossen botten von <lb
-                    n="13"/>Zürich, Lutzern, Ure,
-                    Schwitz, Under <lb break="no" n="14"/>walden, Zug und Glairas</orgName>, als wir <lb
+                    domini Mo CCCCo XXXVo</origDate>. <lb n="12"/><orgName ref="stadtasg-actors-1124" role="issuer">Gemainer aidgnossen botten</orgName> von <lb
+                    n="13"/><placeName ref="stadtasg-places-32">Zürich</placeName>, <placeName ref="stadtasg-places-69">Lutzern</placeName>, <placeName ref="stadtasg-places-70">Ure</placeName>,
+                    <placeName ref="stadtasg-places-71">Schwitz</placeName>, <placeName ref="stadtasg-places-72">Under <lb break="no" n="14"/>walden</placeName>, <placeName ref="stadtasg-places-10">Zug</placeName> und <placeName ref="stadtasg-places-73">Glairas</placeName>, als wir <lb
                     n="15"/>ietz ze <origPlace ref="stadtasg-places-8">Appenzell</origPlace> by enandern
                 gewesen sint. <pb facs="StadtASG_Missive_72_144.JPG" n="2"/>
                 <lb n="16"/>Den wisen fürsichtigen dem <orgName ref="stadtasg-actors-148" role="recipient"

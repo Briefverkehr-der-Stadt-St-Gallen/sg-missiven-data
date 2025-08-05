@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 515</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_515_1051/1052</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die in Basel versammelten Ratsboten der Länder und Städte der Eidgenossenschaft teilen Bürgermeister und Rat zu St. Gallen mit, dass sie festgestellt hätten, dass sie jeweils unterschiedliche Instruktionen in Bezug zu den Artikeln der Vereinbarung hätten, die den Krieg mit dem König beenden soll, während Uri und Glarus gar keine Ratsboten gesandt hätten. Da insbesondere die Zugewandten kriegsmüde seien, wolle man sich mit dem Landgericht im Thurgau, so wie es Konstanz innehat, zufrieden geben und auf die Gerichte im Prättigau, allenfalls Tiengen, Küssaberg und im Klettgau verzichten. Zudem seien die Glieder des Reiches für einen längeren Krieg gerüstet, und ein eidgenössischer Sieg sei sogar mit Hilfe der französischen Geschütze alles andere als sicher. Eroberungen durch die Eidgenossen würden die Gegenpartei eher reizen und den Widerstand verstärken. Deshalb wurden die Mailänder Vermittler zum König gesandt, um herauszufinden, ob ein Frieden unter diesen Bedingungen möglich sei. Der Waffenstillstand soll bis zum 16. September verlängert werden, damit die Mailänder Vermittler bis dahin Zeit erhalten, vom König eine Antwort zu bekommen. Für den Fall, dass kein Frieden zustande kommen sollte, planen die Eidgenossen einen Angriff auf Gottlieben und anschliessend Bregenz und Feldkirch und bitten die St. Galler, ihre Truppen auf den 19. September nach Gottlieben zu senden. Sie bitten die St. Galler, ihre Ratsbotschaft mit Vollmachten auszustatten, damit die Verhandlungen weitergehen können.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                     
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-12">Gesandter</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-528">Friedensverhandlungen</term>
+<term ref="stadtasg-keywords-47">Waffenstillstand</term>
+<term ref="stadtasg-keywords-94">Landgericht</term>
+<term ref="stadtasg-keywords-461">Armut</term>
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-348">Kurfürst</term>
+<term ref="stadtasg-keywords-275">Fürst</term>
+<term ref="stadtasg-keywords-405">Reich</term>
+<term ref="stadtasg-keywords-540">Schloss</term>
+<term ref="stadtasg-keywords-593">Eroberung</term>
+<term ref="stadtasg-keywords-48">Feindschaft</term>
+<term ref="stadtasg-keywords-75">Angriff</term>
+<term ref="stadtasg-keywords-473">Eile</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-534">Eidgenössische Räte</orgName> <placeName ref="stadtasg-places-133">Basel</placeName>                    <date>1499-09-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-07-01</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_515_1051.JPG" n="1" />
+<p>
+<lb n="1" />Unnser frünntlich willig diennst und was wir erenn liebs unnd guotz vermoegen allzit zuovor bereit frommen
+<lb n="2" />fursichtigenn wysenn sundern guoten fründe unnd getrüwen lieben eidtgnossen. Als uff nechstgehaltnem
+<lb n="3" />tag hie zuo <placeName ref="stadtasg-places-133">Basel</placeName> ettlich artickel unnd meinungen zuobericht diß kriegs uff witer anbringen vergriffen, demnach
+<lb n="4" />allennthalb anbracht, unnd wir ietz widerumb hargevertiget sind, ist nit on, wir haben ungeliche
+<lb n="5" />bevelh unnder unns erfundenn, besonnder das ettliche ortt die gestelltenn zuogesagt, etliche
+<lb n="6" />orrt die abgeslagen, etliche orrt etwas enndrung dar inn gemeint unnd begert, so habenn dann <placeName ref="stadtasg-places-70">Ury</placeName> unnd
+<lb n="7" /><placeName ref="stadtasg-places-73">Glarus</placeName> ir bottenn nit hie unnd doch unns irs willenns etwas bericht, unnd wo mann nit har inn annders
+<lb n="8" />sich vereinen oder hanndlenn, so wurde kein frid niemer erfunden unnd doch suß nit fruchtbars des kriegs halb
+<lb n="9" />ouch gehanndelt, dann etliche ortt unnd sonnders unnser zuogewanndten all sind nit lustig, vil ansleg zem
+<lb n="10" />krieg zetuon, sonnder sich zem friden ze schickenn. Unnd vorab so vinden wir unnder unns, das wenn das
+<lb n="11" />lanndtgericht in <placeName ref="stadtasg-places-103">Thurgoew</placeName> unns eidtgnossen der gestallt, wie die von <placeName ref="stadtasg-places-7">Costenntz</placeName> das inngehept haben, zuo ge
+<lb break="no" n="12" />lassenn, so wurd man so vil gesettiget, damit den ubrigen stucken halb nit grosser mangel sin, dann vast
+<lb n="13" />dem merteil der frid angenaem, und nit gemeint sin wurde umb die gericht in <placeName ref="stadtasg-places-344">Brettigoew</placeName> oder annders,
+<lb n="14" />daumb noch von <placeName ref="stadtasg-places-345">Tingen</placeName>, <placeName ref="stadtasg-places-346">Kussemberg</placeName> noch <placeName ref="stadtasg-places-130">Klekoews</placeName> wegen disen sweren sorgklichen krieg zuo beharren,
+<lb n="15" />unnd dem gemeinen armen man, der das hart in die lenng erlidenn mag, damit zuobeladen, unnd
+<lb n="16" />ob die von <orgName ref="stadtasg-actors-775">Pünden</orgName> oder etliche ortt darinn swer oder hertt sin woellten, die guetlich ab zuostellenn
+<lb n="17" />unnd zuo lidlichen gestalltenn zuo vermoegen, dann wir uff vordrigem unnd ietzigem tag so
+<lb n="18" />vil warlich erfunden, das der roemsch kung, kurfursten, fürstenn unnd all stennd, geistlich unnd
+<lb n="19" />weltlich des <orgName ref="stadtasg-actors-559">Heiligen Richs</orgName> sich also vereynt unnd gerüst haben, das sy ee ein ewigen krieg
+<lb n="20" />gegen unns beharrenn, dann das si sich von dem irn, unns das mit willenn zuo geben, zwingenn
+<lb n="21" />lassenn wellenn. Unnd ob wir ioch etlich schloß unnd stettli mit dem frantzoesischen geschütz,
+<lb n="22" />das dannocht nit gewüß ist, erobernn, so wurde es nit vil erschiessen, sonnder erst unnser
+<lb n="23" />vynnde uffbringen unnd zuo rechtem widerstannd erwecken. Dar umb der merteil unnder unns
+<lb n="24" />meint, an den erenn, sig unnd glück, so unns gott verlichen, benuegen ze habenn, unnd wo es
+<lb n="25" />ienndert nit fuegen sin mag, den fridenn nit also umb klein fuog ding uß zeschlahen, haben
+<lb n="26" />ouch daruf gewilliget der bottschafft von <placeName ref="stadtasg-places-311">Meylannd</placeName> als dem unndertaedinger, das der ilennds
+<lb n="27" />zem kung ryt in hoffnunng, das lanndtgericht für unns zuo erlangen, oder doch das wir wüssen,
+<lb n="28" />ob es daran erwinden, unnd wir ir furer kriegen muessen oder nit, ouch deßhalb den anstannd
+<lb n="29" />witter erstreckt biß <date when="1499-09-16">mentag ze nacht nach des heiligen crütz tag</date> nechstkomend, dazwischen
+<lb n="30" />dieselb meylanndisch bottschafft nach irm zuosagen wider komen, und wirt man biß dar mit
+<lb n="31" />den kungklichen raeten in den ubrigen artickeln hanndlen, unns dero zuo vereynen, ob uns gott frid
+<lb n="32" />verlihen woelte, dann des moegen ir üch versehenn, wo ein ieder uff siner meinung beharren unnd
+<lb n="33" />kein frid beslossen werden sol, biß ieden insonnders alles das, so er begert, verlangen, so wirt man
+<lb n="34" />disem krieg nit licht ein ennd vinden. Nitdesterminder, nach uwer unnd annder unnser obern
+<lb n="35" />bevelh, haben wir ein anschlag gemacht mit dem frantzoesichen geschütz den nechsten
+<lb n="36" />für <placeName ref="stadtasg-places-347">Gottlieben</placeName>, ob es nit bericht wirdt, zuoruckenn unnd nach eroberung desselben für uff gen
+<lb n="37" /><placeName ref="stadtasg-places-89">Veldkilch</placeName> unnd <placeName ref="stadtasg-places-60">Bregenntz</placeName> damit zuo ziehen, unnd namlich das man uff <date when="1499-09-19">donnstag nach des
+<lb n="38" />heiligen crütz tag ze nacht</date> imm leger vor <placeName ref="stadtasg-places-347">Gotlieben</placeName> sye. Das alles wollten wir üwer lieb
+<lb n="39" />nit verhalltenn, mit früntlicher bitt, unns daruf üwers willenns ilennds by tag
+<lb n="40" />unnd nacht zuo berichtenn unnd üwer botschafft gewalt har inn ze geben, dann suß mag es
+<lb n="41" />nit enndtlich ußgericht werdenn, unnd solichs von unns zuo guotem vermercken. Dann wir ie
+<lb n="42" />gernn unnser <orgName ref="stadtasg-actors-750">Eidtgnosschafft</orgName> lob und ere und einer gantzen gemeind nutz und fuog fürdern
+<lb n="43" />welten. Datum <origDate when="1499-09-08">suntag ze nacht uff nativitatis Marie anno etc. LXXXXIXo</origDate>.
+<lb n="44" /><orgName ref="stadtasg-actors-534" role="issuer">Stetten unnd lennder gemeiner
+<lb n="45" />Eidtgnosschafft sanndtbotten</orgName> ietz zuo
+<lb n="46" /><origPlace ref="stadtasg-places-133">Basel</origPlace> versamelt.
+<pb facs="StadtASG_Missive_515_1052.JPG" n="2" />
+<lb n="47" />Den frommen fürrsichtigen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rat
+<lb n="48" />der statt Sanntgallen</orgName> unnsren besonnder guotten fründen
+<lb n="49" />unnd getruwen lieben eidtgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

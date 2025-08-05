@@ -1,0 +1,109 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 467</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Unsichere Datierung. Bei der Datierung fehlt das Jahr, der Bartholomäustag ist der 24. August.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_467_953/954</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Johann Rot, Lesemeister in Zürich, schreibt seinem Vetter Klaus Rot, dass er nun, nachdem der Barfüsser Herr Peter St. Gallen verlassen musste, gerne dahin zurückkehren würde, und bittet ihn dafür zu sorgen, dass entweder dieser Bote oder ein Stadtbote so schnell wie möglich ein Schreiben vom St. Galler Rat erhalte, damit die Herren in Konstanz in die Versetzung einwilligten und der Bischof, der zur Zeit in Zürich weile, informiert wird.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-309">Mönch</term>
+<term ref="stadtasg-keywords-188">Bischof</term>
+<term ref="stadtasg-keywords-448">Einwilligung</term>
+<term ref="stadtasg-keywords-159">Stadtschreiber</term>
+<term ref="stadtasg-keywords-297">Ehefrau</term>
+<term ref="stadtasg-keywords-259">Meister</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1001">Johann Rot</persName>                    <date cert="medium">1500-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-1000">Klaus Rot</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_467_953.JPG" n="1"/>
+<p>
+<lb n="1"/>Min gebett und früntlichen gruotz in got etc. hertzlieber vetter.
+<lb n="2"/>Ich ermanen dich diner wort, so du in vergangen tagen zuo mir gereth
+<lb n="3"/>hast, ob ich minen gesant <placeName ref="stadtasg-places-38">Gallen</placeName> welle stellen, als ob din mainung waere,
+<lb n="4"/>ich solte wider dar stellen. Nun uff das selb yetzung zuo antwurten, so ver
+<lb break="no" n="5"/>nim ich durch min obren, dz der barfuos her <persName ref="stadtasg-actors-1002">Peter</persName> hin weg von <placeName ref="stadtasg-places-38">sant
+<lb n="6"/>Gallen</placeName> sy und hab muessen ursach halb, so mir och geoffnet ist. Dem
+<lb n="7"/>nach so ist mir nach ingedenck, wie mine heren von <placeName ref="stadtasg-places-38">sant Gallen</placeName>
+<lb n="8"/>mir zuo sagten in minem früntlichen abschaid von inen, wo ich sy
+<lb n="9"/>ermanety widerumb, so welten sy mich wider uff nemen. Also ver
+<lb break="no" n="10"/>manen ich dich und mine heren, ir ansehen wellind, dz ich mich
+<lb n="11"/>in noeten redlich als ain guoter <placeName ref="stadtasg-places-38">sant Galler</placeName> mit üch gehalten hab, als
+<lb n="12"/>ich nach mer thuo welti, wo es dar zuo kaeme, dz got understan welle,
+<lb n="13"/>und üch behueten vor soellichen und des glichen kummer und mich wider lasse
+<lb n="14"/>zuo üch komen, won ichs miner obren halb mit guotem gunst und willen
+<lb n="15"/>wol haben mag, nit me den dz mine heren von <placeName ref="stadtasg-places-38">sant Gallen</placeName> für mich
+<lb n="16"/>schriben den vaettern von <placeName ref="stadtasg-places-7">Costentz</placeName> nach dem aller treffenlichsten und besten,
+<lb n="17"/>dz soellich schriben by disem botten oder ainem stattbotten, dunckte mich
+<lb n="18"/>besser, unverzogenlich gen <placeName ref="stadtasg-places-7">Costentz</placeName> geantwürt wurde, dz die vaetter
+<lb n="19"/>da selb dar in verwilgitent und iren willen, den by disem botten offnetinth
+<lb n="20"/>minen und irem obren, der nun zuo mal zuo <placeName ref="stadtasg-places-32">Zurich</placeName> by üns ist, soellichs ist
+<lb n="21"/>min ernstlich bitt an dich, du mit samt min heren statt schriber, dem
+<lb n="22"/>ich och guotes vertruw, in minen sachen zuo handlen, wellend anbringen
+<lb n="23"/>an mine heren von <placeName ref="stadtasg-places-38">sant Gallen</placeName>, bin ich in hoffung, es hab kainen verzug.
+<lb n="24"/>Dem nach nun hertz lieber vetter uss fürbringung mines heren
+<lb n="25"/>statt schribers von <placeName ref="stadtasg-places-38">sant Gallen</placeName> ich vernumen hab den abschaid von
+<lb n="26"/>dieser zit, so gott der her gewürckt und gesachet hat, mit dinem ellichen
+<lb n="27"/>gemachel, miner gotten, das mir gar ain trülich laid ist, dar umm ich dich
+<lb n="28"/>trülichen klagen, bin in hoffnung, got ergetze dich aines sollichen in
+<lb n="29"/>ain andren weg. Ich wil got trülich für sy bitten und han es bis her
+<lb n="30"/>gethon hye. Mit glück und hail alle zit mit dir und allen minen heren.
+<lb n="31"/>Geben uff <origDate when="1500-08" cert="medium">sunnentag vor Bartholomei des zwelfbotten</origDate>.
+<lb n="32"/><persName ref="stadtasg-actors-1001" role="issuer">H. Johan Rot</persName>, lesmaister
+<lb n="33"/>zuo <placeName ref="stadtasg-places-32">Zürich</placeName>, din vetter und
+<lb n="34"/>fürbitter alle zit gen gott.
+<pb facs="StadtASG_Missive_467_954.JPG" n="2"/>
+<lb n="35"/>Dem wisen fürsichti
+<lb break="no" n="36"/>gen <persName ref="stadtasg-actors-1000" role="recipient">Clausen Roten</persName>,
+<lb n="37"/>burger der <placeName ref="stadtasg-places-38">sant
+<lb n="38"/>Gallen</placeName>, minem lieben
+<lb n="39"/>heren und vetteren
+<lb n="40"/>gehoert diser brief.
+</p>
+        </body>
+    </text>
+</TEI>

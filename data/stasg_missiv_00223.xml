@@ -26,7 +26,7 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Johann Weidenbach schickt Bürgermeister und Rat zu St. Gallen Informationen vom
+                <p>Johannes Widenbach schickt Bürgermeister und Rat zu St. Gallen Informationen vom
                     Reichstag in München. Die Fürsten von Mainz, Brandenburg, Niederbaden und
                     Württemberg hätten nur vier Boten abgesandt, wodurch am ersten Tag keine
                     Einigung gefunden werden konnte. Er wisse noch nicht, ob eine Einigung zustande
@@ -46,7 +46,7 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="stadtasg-actors-78">Johann Weidenbach</persName>
+                    <persName ref="stadtasg-actors-631">Johannes von Widenbach</persName>
                     <placeName ref="stadtasg-places-27">München</placeName>
                     <date>1450-04-25</date>
                 </correspAction>
@@ -91,7 +91,7 @@
                 wachssind teglich <lb n="13"/>ander irrung und spenne widerumb zwuoschen inen, wie
                 es sich aber füro machen wirdt, <lb n="14"/>wil ich üch bald aber wissen lassen.
                 Geben zu <origPlace ref="stadtasg-places-27">München</origPlace> am <origDate when="1450-04-25">XXV tag
-                    abrellen anno domini <lb n="15"/>Mo CCCCo Lo</origDate>. <lb n="16"/><persName ref="stadtasg-actors-78"
+                    abrellen anno domini <lb n="15"/>Mo CCCCo Lo</origDate>. <lb n="16"/><persName ref="stadtasg-actors-631"
                     role="issuer">Johanns Wydembach</persName>. <pb
                     facs="StadtASG_Missive_223_448.JPG" n="2"/>
                 <lb n="17"/>Den fürsichtigen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und reten

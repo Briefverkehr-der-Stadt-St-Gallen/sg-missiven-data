@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 539</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_539_1099/1100</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Erasmus Riff, genannt Welter von Blidegg, bittet Bürgermeister und Rat zu St. Gallen, seinem Vetter Ludwig Welter, Vogt zu Güttingen, der die Auseinandersetzung mit dessen Schwager Hans Wiler vor dem Hofgericht von Philipp, Pfalzgraf bei Rhein in Germersheim verhandeln möchte, zu gestatten, die Dienste von Doktor Mangolt in Anspruch zu nehmen und diesen reisefertig zu machen.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+<term ref="stadtasg-keywords-194">Hofgericht</term>
+<term ref="stadtasg-keywords-32">Arzt</term>
+<term ref="stadtasg-keywords-386">Vetter</term>
+<term ref="stadtasg-keywords-609">Schwager</term>
+<term ref="stadtasg-keywords-519">Verwandtschaft</term>
+<term ref="stadtasg-keywords-275">Fürst</term>
+<term ref="stadtasg-keywords-464">Pfalzgraf</term>
+<term ref="stadtasg-keywords-277">Herzog</term>
+<term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+<term ref="stadtasg-keywords-21">Rechtshilfe</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1084">Erasmus Riff</persName>                    <date>1508-03-05</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-21</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_539_1099.JPG" n="1"/>
+<p>
+<lb n="1"/>Fürsichtigen ersamen wysen sunder lieben herren und gutten fründ min willig früntlich dienst
+<lb n="2"/>syen üwer wyßhait von mir zuvor. Min vetter <persName ref="stadtasg-actors-1126">Ludwig Welter</persName>, vogt zu <placeName ref="stadtasg-places-377">Güttingen</placeName>, hat
+<lb n="3"/>ettlich vordrung und sprüch an sinen schwecher <persName ref="stadtasg-actors-1127">Hannsen von Wiler zu Wiler</persName>, darumm
+<lb n="4"/>er inn fur des durchlüchtigen, hochgepornen fürsten und herren herren <persName ref="stadtasg-places-1135">Philipsen</persName>, pfaltzgraven
+<lb n="5"/>by <placeName ref="stadtasg-places-143">Rin</placeName>, hertzogen zu <placeName ref="stadtasg-places-132">Bayern</placeName> etc., mins gnedigsten herren hoffrichter und ratt gen <placeName ref="stadtasg-places-378">Germerß
+<lb break="no" n="6"/>heim</placeName> rechtlich für genomen hat etc., deßhalb er doctor <persName ref="stadtasg-actors-1125">Mangoltz</persName>, üwers dieners, zu mal
+<lb n="7"/>notturfftig ist. Hievon an die selben uwer fürsichtikait min gar fruntlich bitt, ir
+<lb n="8"/>wöllen minem vettern und mir zu lieb vermelten doctor <persName ref="stadtasg-actors-1125">Mangolt</persName> die zit und söllicher
+<lb n="9"/>rechtverttigung des fürgenomnen rechttags, der in kurtzer frist sin wirtt, günstlich
+<lb n="10"/>erloben, vergönnen und beritten machen. Das wöllen wir baid, wa sich iendert
+<lb n="11"/>sacht, umb üch und die uwernn gar mit guottem willen fruntlich verdiennen und zu guott
+<lb n="12"/>nit vergessen. Datum <origDate when="1508-03-05">Estomichi anno etc. octavo</origDate>.
+<lb n="13"/><persName ref="stadtasg-actors-1084" role="issuer">Erasmus Riff, genant
+<lb n="14"/>Welter von Blidegg</persName>.
+<pb facs="StadtASG_Missive_539_1100.JPG" n="2"/>
+<lb n="15"/>Den fursichtigen ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="16"/>und ratt der statt zu sant Gallen</orgName> minen sundern
+<lb n="17"/>lieben herren und fründen.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -22,7 +22,7 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Rudolf Rainsperg, Priester, berichtet Bürgermeister, Stadtammann, Ratsherren und Zunftmeister zu St. Gallen, dass er Opfer einer Verleumdung geworden sei. Ein Priester zu Ems hätte ihn mit Unterstützung von Marquard von Ems beschuldigt, dort ein Messgewand entwendet zu haben. In seinem jetzigen Wirkungsort Davos habe sich die Verleumdung fortgesetzt, und er sei beim Bischof von Chur angezeigt worden. Da ihm kein rechtliches Gehör gegeben werde, bittet er St. Gallen, die Bürger und Bischof zu Chur schriftlich zu bitten, ihn recht zu behandeln.</p>            </abstract>
+                <p>Rudolf Ramsperg, Priester, berichtet Bürgermeister, Stadtammann, Ratsherren und Zunftmeister zu St. Gallen, dass er Opfer einer Verleumdung geworden sei. Ein Priester zu Ems hätte ihn mit Unterstützung von Marquard von Ems beschuldigt, dort ein Messgewand entwendet zu haben. In seinem jetzigen Wirkungsort Davos habe sich die Verleumdung fortgesetzt, und er sei beim Bischof von Chur angezeigt worden. Da ihm kein rechtliches Gehör gegeben werde, bittet er St. Gallen, die Bürger und Bischof zu Chur schriftlich zu bitten, ihn recht zu behandeln.</p>            </abstract>
             <langUsage>
                 <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
@@ -46,7 +46,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <!-- absender kann natuerlich auch mit orgName getaggt sein -->
-                    <persName ref="stadtasg-actors-632">Rudolf Rainsperg</persName>                    <date cert="medium">1500</date>
+                    <persName ref="stadtasg-actors-632">Rudolf Ramsperg</persName>                    <date cert="medium">1500</date>
                 </correspAction>
                 <correspAction type="received">
                     <orgName ref="stadtasg-actors-148">Bürgermeister, Stadtammann und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 505</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_505_1031/1032</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hugo von Hohenlandenberg, Bischof zu Konstanz, bittet Bürgermeister und Rat zu St. Gallen, Ritter Ludwig von Helmsdorf, Vogt zu Bischofszell, Walter von Hallwyl, Hofmeister, und Burkhard Schenk, Vogt zu Arbon, anzuhören und ihnen an seiner statt Glauben zu schenken.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-240">Ritter</term>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+                    <term ref="stadtasg-keywords-636">Hofmeister</term>
+                    <term ref="stadtasg-keywords-188">Bischof</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1039">Hugo von Hohenlandenberg</persName><placeName ref="stadtasg-places-7">Konstanz</placeName>                    <date>1497-05-15</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-24</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_505_1031.JPG" n="1" />
+<p>
+<lb n="1" /><persName ref="stadtasg-actors-1039" role="issuer">Hugo</persName> von gottes gnaden
+<lb n="2" />bischoffe zuo <placeName ref="stadtasg-places-7">Costanntz</placeName>.
+<lb n="3" />Unnsern fründtlichen gruoss voran ersamen wysen sonnder lieben fründe. Wir haben den edeln,
+<lb n="4" />strenngen, vesten unnsern lieben getrüwen hern <persName ref="stadtasg-actors-768">Ludwigen von Helmßdorff</persName>, ritter, unnserm vogt
+<lb n="5" />zuo <placeName ref="stadtasg-places-19">Bischoffzell</placeName>, <persName ref="stadtasg-actors-1040">Walthern von Hallwyl</persName>, unnserm hofmaister, und <persName ref="stadtasg-actors-420">Burckharten Schenncken</persName>, unnserm
+<lb n="6" />vogt zuo <placeName ref="stadtasg-places-5">Arbon</placeName>, gemainlich und sonnderlich ettwas unnser mainung, wie ir von inen gründtlich
+<lb n="7" />vernemmen mügt, an üch zuowerben befolhen, bittende, ir woellen sy also von unnsern wegen
+<lb n="8" />guetlich hoern, vernemmen und inen ditzmals glich unnsselbs globen, üch ouch irem anbringen
+<lb n="9" />nach bewysen, als wir üch genntzlich wol getruwen. Stat unns widerumm in gnaden zuoerkennen
+<lb n="10" />und zuobeschulden. Datum <origPlace ref="stadtasg-places-7">Costantz</origPlace> uff <origDate when="1497-05-15">maentag inn pfingstfyrn anno etc. LXXXXVIIo</origDate>.
+<pb facs="StadtASG_Missive_505_1032.JPG" n="2" />
+<lb n="11" />Denn ersamen wysen unnsern sonndern liebenn
+<lb n="12" />frünnden <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat zuo Santgallen</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

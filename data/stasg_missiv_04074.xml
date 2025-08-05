@@ -42,7 +42,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
-                    <orgName ref="stadtasg-actors-871">Grafschaft Hanau</orgName>                    <date>1650</date>
+                    <orgName ref="stadtasg-actors-871">Prediger der Grafschaft Hanau</orgName>                    <date>1650</date>
                 </correspAction>
                 <correspAction type="received">
                     <orgName ref="stadtasg-actors-872">Predigtamt zu St. Gallen</orgName>                </correspAction>
@@ -65,8 +65,8 @@
         <body>
             <pb facs="StadtASG_Missive_4074_16461.jpg" n="1" />
 <p>
-<lb n="1" />Teütschcopey deß schreibens der herren predigeren
-<lb n="2" />der <orgName ref="stadtasg-actors-871" role="issuer">graufschafft Hanow</orgName> an hiesiges
+<lb n="1" />Teütschcopey deß schreibens der herren <orgName ref="stadtasg-actors-871" role="issuer">predigeren
+<lb n="2" />der graufschafft Hanow</orgName> an hiesiges
 <lb n="3" />predigampt<note>Gemeint ist das <orgName ref="stadtasg-actors-872" role="recipient">Predigtamt zu St. Gallen</orgName>.</note> den
 <lb n="4" />ehrwürdige etc. hochgeehrten herren mittbrüder in Christo etc.
 <lb n="5" />Es ist nunmehr ein jar, dz wir in dißer unsern eüßersten ar

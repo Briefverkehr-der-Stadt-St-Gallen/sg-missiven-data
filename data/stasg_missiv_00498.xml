@@ -1,0 +1,93 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 498</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Auflistung von Kosten. Wohl Beilage zu nicht mehr vorhandener Missive.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_498_1017/1018</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Zusammenstellung der Kosten, die durch die Gefangenschaft von Ambrosius Spengler bei den Grafen von Kronberg entstanden ist.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-210">Gefangenschaft</term>
+<term ref="stadtasg-keywords-64">Gefangener</term>
+<term ref="stadtasg-keywords-211">Kosten</term>
+<term ref="stadtasg-keywords-582">Wirt</term>
+<term ref="stadtasg-keywords-149">Rechtstag</term>
+<term ref="stadtasg-keywords-124">Knecht</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-603">NN</persName>                    <date>1495</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-603">NN</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-07</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_498_1017.JPG" n="1"/>
+<p>
+<lb n="1"/>Usstennd unbezalt zerung von
+<lb n="2"/><persName ref="stadtasg-actors-1031">Ambrosin Spenglers</persName> wegen.
+<lb n="3"/>Item uff <date when="1495-07-09" cert="medium">donrstag</date> und <date when="1495-07-10" cert="medium">frytag vor sant Margretha
+<lb n="4"/>tag anno LXXXXVo</date>, als <persName ref="stadtasg-actors-1031">Ambrosin Spengler</persName> vom
+<lb n="5"/>fischgal berechtet ward, am wirt zu Büron<note>Es ist unklar, welcher Ort gemeint ist.</note>
+<lb n="6"/>verzert XXV <choice><abbr>lib.</abbr><expan>Pfund</expan></choice> 3 1/2 <choice><abbr>ß.</abbr><expan>Schilling</expan></choice>  <choice><abbr>d.</abbr><expan>Denar</expan></choice>
+<lb n="7"/>Item so hant <persName ref="stadtasg-actors-1031">Ambrosin</persName> von den obgenanten zwayen rechttagen
+<lb n="8"/>im thurn verzert biß uff <date when="1495-11-12" cert="medium">donrstag nach sant Martins
+<lb n="9"/>tag</date> XI <choice><abbr>lib.</abbr><expan>Pfund</expan></choice> XII <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> <choice><abbr>d.</abbr><expan>Denar</expan></choice>
+<lb n="10"/>Item von dem <date when="1495-11-12" cert="medium">obgenanten donrstag</date> ward <persName ref="stadtasg-actors-1031">Ambrosin</persName>
+<lb n="11"/>heruß im vorhof mit zwayen knehten bewart in
+<lb n="12"/>fanknüß gelegt, haben sy verzert XVIII <choice><abbr>lib.</abbr><expan>Pfund</expan></choice> XVI <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> <choice><abbr>d.</abbr><expan>Denar</expan></choice>
+<lb n="13"/>Item den knehten, die sin gehuet haben, trifft ir yedem
+<lb n="14"/>des tags III critzer, bringt nach der zyt XI gulden
+<lb n="15"/>IIII beh<ex>emsch</ex>.
+<lb n="16"/><persName ref="stadtasg-actors-1031">Ambrosin</persName>
+<lb n="17"/>usskommen und widerumb gefangen, ward er inn
+<lb n="18"/>thurn gelegt biß uff <date when="1495-05-07" cert="medium">donrstag nach crucis imm
+<lb n="19"/>mayen</date>, hant er verzert VI <choice><abbr>lib.</abbr><expan>Pfund</expan></choice> <choice><abbr>d.</abbr><expan>Denar</expan></choice>, des tags II <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> <choice><abbr>d.</abbr><expan>Denar</expan></choice>
+<lb n="20"/>für atzung.
+<lb n="21"/>Item X <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> <choice><abbr>d.</abbr><expan>Denar</expan></choice> dem thorwarten thurnloesin.
+<pb facs="StadtASG_Missive_498_1018.JPG" n="2"/>
+<lb n="22"/>Tax, was <persName ref="stadtasg-actors-1031">Ambrosi Spengler</persName>
+<lb n="23"/>in der <orgName ref="stadtasg-actors-1087">grafen von Cronenberg</orgName> ver
+<lb break="no" n="24"/>warung vor iren und für inn
+<lb n="25"/>costen ufglouffen anno <origDate when="1495">1495</origDate>.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 422</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_422_861/862</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Neuenburg am Rhein im Breisgau bitten Bürgermeister und Rat zu St. Gallen, den Überbringer dieses Schreibens bei der Eintreibung der Schulden von Elisabeth Kronauer, Einwohnerin St. Gallens, gegenüber ihrem Bürger Konrad von Heitersheim, dessen Bevollmächtigter der Bote ist, zu unterstützen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+  <term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-283">Vollmacht</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-248">Einwohnerin</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-351">Handwerk</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-911">Bürgermeister und Rat zu Neuenburg am Rhein</orgName>                    <date>1478-04-22</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-04-22</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_422_861.JPG" n="1" />
+<p>
+<lb n="1" />Unnser fruntlich willig dienst zuvor ersammen wisen lieben und guoten frund. Unser burger
+<lb n="2" /><persName ref="stadtasg-actors-912">Conrat von Haitershain</persName>, der scherer, hat uns anbracht, wie ain frow, die sich nempt
+<lb n="3" /><persName ref="stadtasg-actors-913">Elsa Cronowerin</persName>, by üch wonende, im ettliche summe geltz schuldig sige, die si im ze bezalen
+<lb n="4" />untz har verzogen hab. Bitten wir uwer guote fruntschafft mit sonderm vlis, die genante
+<lb n="5" /><persName ref="stadtasg-actors-913">Elsa</persName> daran ze wisen, dem gemelten unserm burger by disem sinem machtbotten, bringer diß brieffs,
+<lb n="6" />fürderliche bezalung ze tuond. Wo im aber daz nit guottlich gelangen moechte, dem gedachten
+<lb n="7" />sinem machtbotten von sinen wegen, dem er des vollmechtigen gewalt geben hat, des besten
+<lb n="8" />hellffen und raten, damitt daz im gegen der genanten <persName ref="stadtasg-actors-913">Elsin</persName> unverzoegelich gelang sovil und
+<lb n="9" />recht sige, besonnder in umb unsern willen des gefürdert zehaltend. Begernt wir glich dem
+<lb n="10" />und in meren sachen umb uwer gute fruntschafft ze verdienen. Geben uff <origDate when="1478-04-22">mittwuchen
+<lb n="11" />vor sant Jergen des heiligen ritters tag anno domini etc. LXXVIII</origDate>.
+<lb n="12" /><orgName ref="stadtasg-actors-911" role="issuer">Burgermeister und rate zuo
+<lb n="13" />Nuwenburg in Brißgow</orgName>.
+<pb facs="StadtASG_Missive_422_862.JPG" n="2" />
+<lb n="14" />Den ersammen wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rate
+<lb n="15" />zu sant Gallen</orgName> unsern sonder lieben und guoten frunden.
+</p>
+        </body>
+    </text>
+</TEI>

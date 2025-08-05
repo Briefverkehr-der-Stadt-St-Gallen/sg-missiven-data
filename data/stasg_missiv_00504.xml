@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 504</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_504_1029/1030</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hugo von Hohenlandenberg, Bischof zu Konstanz, teilt Bürgermeister und Rat zu St. Gallen mit, dass er sie bei der Beilegung der aktuellen Auseinandersetzung unterstützen will und ihre Bitte, die Sache im Moment nicht vor einem geistlichen Gericht auszutragen, gutheisst. Er bittet um die Namen der Angeklagten und weitere Informationen zur Sache.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-244">Amt</term>
+                    <term ref="stadtasg-keywords-261">Geistliches Gericht</term>
+                    <term ref="stadtasg-keywords-188">Bischof</term>
+                    <term ref="stadtasg-keywords-74">Beschwerde</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1039">Hugo von Hohenlandenberg</persName><placeName ref="stadtasg-places-7">Konstanz</placeName>                  <date>1497-04-05</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-24</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_504_1029.JPG" n="1" />
+<p>
+<lb n="1" /><persName ref="stadtasg-actors-1039" role="issuer">Hugo</persName> von gottes gnaden
+<lb n="2" />bischoff zuo <placeName ref="stadtasg-places-7">Costantz</placeName>.
+<lb n="3" />Unnsern fründtlichen gruoss voran ersamen wysen sonnder lieben fründ. Anfanngs ist unns sonnder laid
+<lb n="4" />die beschwaerd und anfechtigung, so üch diser zyt begegnen. Wir erbieten unns ouch, üch als unnsern sondern
+<lb n="5" />lieben fründen und nachpuren zuoguot sonnder willig und genaigt hierinn alles, das zuo hinlegung der
+<lb n="6" />sach und üch zuo guoten ruowen dienen moeg, fürzuonemmen und zuohandeln und unns hierinn kainer
+<lb n="7" />mueg noch arbait lassen bedurn. Als ir uns dann schryben, mit unnsern amptlüwten daran zuosin,
+<lb n="8" />damit die üwern dizmals bis zuo fuoglicher zyt durch sy mit gaistlichem gericht nit ersuocht werden,
+<lb n="9" />haben wir in wyterm inhalt vernommen. Und wie wol wir gelegenhait der sach nit bericht syen,
+<lb n="10" />dannocht üch zuogefallen, woellen wir gern flyss pruchen, ob dizmals mit den üwern mitlyden gehapt
+<lb n="11" />und handlung mit gaistlichem gericht wider sy ain zyt angestellt werden moecht. Aber damit
+<lb n="12" />wir dest fuoglicher hierinn wissten zehanndlen, als sich gepürt, bedünckte unns not und guot sin, dz ir
+<lb n="13" />unns mitnamen der antzognen personen, ouch warumb und von wes wegen sy fürgenommen werden,
+<lb n="14" />taeten berichten. Woellten wir üch nit verhallten, dann zuo sonnderm guotem willen syen wir üch genaigt.
+<lb n="15" />Datum <origPlace ref="stadtasg-places-7">Costantz</origPlace> uff <origDate when="1497-04-05">mittwochen post Quasimodogeniti anno etc. LXXXXVIIo</origDate>.
+<pb facs="StadtASG_Missive_504_1030.JPG" n="2" />
+<lb n="16" />Denn ersamen wysen unnsern sonndern lieben
+<lb n="17" />fründen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister unnd rat zuo Santgallen</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

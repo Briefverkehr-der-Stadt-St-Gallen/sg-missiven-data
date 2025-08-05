@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 475</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_475_971/972</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Albrecht Miles, Landvogt der Grafschaft Toggenburg, bittet Klaus Rot, Unterbürgermeister zu St. Gallen, sich, wie in Lichtensteig besprochen, für die Sicherheit seines Schwagers Hug von Watt einzusetzen, und dass Bürgermeister und Rat zu St. Gallen ihn, Albrecht, direkt kontaktieren, falls Hug angeklagt wird, damit er sich für ihn einsetzen und die St. Galler zufrieden stellen kann. Er bittet um eine Antwort.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-102">Sicherheit</term>
+<term ref="stadtasg-keywords-519">Verwandtschaft</term>
+<term ref="stadtasg-keywords-319">Landvogt</term>
+<term ref="stadtasg-keywords-24">Klage</term>
+<term ref="stadtasg-keywords-712">Antwort</term>
+<term ref="stadtasg-keywords-609">Schwager</term>
+<term ref="stadtasg-keywords-48">Feindschaft</term>
+<term ref="stadtasg-keywords-305">Ehre</term>
+<term ref="stadtasg-keywords-384">Grafschaft</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1026">Albrecht Miles</persName><placeName ref="stadtasg-places-33">Lichtensteig</placeName>                    <date>1491-06-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-1000">Klaus Rot</persName>    <placeName ref="stadtasg-places-38">St. Gallen</placeName>            </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-19</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_475_971.JPG" n="1" />
+<p>
+<lb n="1" />Min früntlich willig dienst zuevor lieber herr. Nach
+<lb n="2" />dem und ich zum nechsten, so ir by mir zue <placeName ref="stadtasg-places-33">Liech
+<lb break="no" n="3" />tenstaig</placeName> gewesen sind, und ich üch gebetten hab von
+<lb n="4" /><persName ref="stadtasg-actors-1027">Hugen von Watt</persName> wegen, mines schwagers, das ir
+<lb n="5" />an aim <orgName ref="stadtasg-actors-148">burgermaister und rat</orgName> erfarn und sy
+<lb n="6" />ouch von mint wegen trungenlich und ernstlich
+<lb n="7" />zue bittende, des gebitt und red, so ich mit uch
+<lb n="8" />von sint wegen getan hab, an inen zue er
+<lb break="no" n="9" />werben, damit derselbig min schwager usser sorgen
+<lb n="10" />gelassen ouch gesichert werd libs, eren und guetes
+<lb n="11" />halb, dardurch er wandlen und zue dem sinen
+<lb n="12" />ouch mitt dem sinen handlen, werben und tuen
+<lb n="13" />moeg, so dann ainem fromen man gebürt und
+<lb n="14" />zimpt zue tuende, und dann sach wer, oder sich
+<lb n="15" />hinfür witter begab ald begeben wurd, das der
+<lb n="16" />genent min schwager <persName ref="stadtasg-actors-1027">Hug</persName> vor aim burgermaister und
+<lb n="17" />rat durch ungunst, vinentschafft ald in ander
+<lb n="18" />weg verclagt und hinderrett wurd, das ir
+<lb n="19" />dann mine herren burgermaister und raett
+<lb n="20" />von mint wegen bitten wellint, das alda nüt
+<lb n="21" />nottlich geylt, besunder mir soelichs zue wissen
+<lb n="22" />geton werd in hoffnug, mir soelichs nit ange
+<lb break="no" n="23" />stelt, besunder von aim burgermaister und rat
+<lb n="24" />geoffnott soelly werden, so bin ich den willens,
+<lb n="25" />mich sovil zue gwaltigen und üch sint halb soelich
+<lb n="26" />mit guetem glimpff und fueg ab zue stellen, daran
+<lb n="27" />ain gantzer ratt nüt missfallen haben soelly, und
+<lb n="28" />darumb lieber herr burgermaister, dwyl und ich
+<lb n="29" />ietz nechst mit üch geredt und verlassen hab, mir uff
+<lb n="30" />min pitt und beger mir ain antwurt zue senden,
+<lb n="31" />das noch nit beschechen ist, ir wellint daran sin
+<lb n="32" />und mit aim burgermaister und rat ordenlich von
+<lb n="33" />den dingen zue reden und sy von mintwegen, ouch
+<lb n="34" />mins schwagers zue bittende. Wo ich dann das und anders
+<lb n="35" />mit sampt minen soenen, ouch unserm lib und
+<lb n="36" />guet, umb uch all und ietlichen besonder beschulden
+<lb n="37" />und verdien koennen, dar zue soellent ir ain gueten
+<lb n="38" />will spueren und bekennen. Ich beger ouch mit
+<lb n="39" />pitt ain antwurt von üch zue haben. Geben zue
+<lb n="40" /><origPlace ref="stadtasg-places-33">Liechtenstaig</origPlace> <origDate when="1491-06-01">an unsers hern fronlichams abend
+<lb n="41" />im 91 iar</origDate>.
+<lb n="42" /><persName ref="stadtasg-actors-1026" role="issuer">Albrecht Myles</persName>, lantfogt
+<lb n="43" />der graffschafft <placeName ref="stadtasg-places-199">Tockemburg</placeName>.
+<pb facs="StadtASG_Missive_475_972.JPG" n="2" />
+<lb n="44" />Dem fürnemen wisen <persName ref="stadtasg-actors-1000" role="recipient">Clos Roten</persName>, underburger
+<lb break="no" n="45" />maister zue <placeName ref="stadtasg-places-38">Santgallen</placeName> minem besondern lyeben
+<lb n="46" />herren.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 488</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_488_997/998</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Konstanz teilen Bürgermeister und Rat zu St. Gallen mit, dass sie in der Auseinandersetzung zwischen denen von Minckwitz und denen von Meusebach einerseits und Daniel Kapfmann und dem St. Galler Vogt Walter Kuchimeister andererseits einen Gerichtstag auf den 3. Dezember angesetzt haben, und bitten die St. Galler, das ihren Leuten zu verkünden.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+<term ref="stadtasg-keywords-263">Vogt</term>
+<term ref="stadtasg-keywords-620">Herberge</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>                    <date>1493-11-27</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-02</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_488_997.JPG" n="1"/>
+<p>
+<lb n="1"/>Ersamen unnd wysen besonnder lieben unnd guotten fründ unnser willig früntlich dienst und was wir ern
+<lb n="2"/>und guots vermügen sy üwer guotten fruntschafft von unns zuovor berait. Uwer schriben unnd zuosagung
+<lb n="3"/>des guottlichen tags antreffent den von <orgName ref="stadtasg-actors-1061">Minckaintz</orgName> unnd die von <orgName ref="stadtasg-actors-1062">Müßbach</orgName> ains und <persName ref="stadtasg-actors-1063">Danieln Kappff
+<lb break="no" n="4"/>man</persName> und <persName ref="stadtasg-actors-1060">Walthern Kuchimaister</persName>, üwern vogt, anders tails haben wir vermerckt und soellichs an den
+<lb n="5"/>widertail laßen lanngen, der ünns das ouch hat zuo gesait, doch dis wochen haben sy nit wil, tag zuo suochen,
+<lb n="6"/>unnd nicht destminder so haben wir ainen tag in dem besten und der sach zuo guot fürgenomen, als uff den
+<lb n="7"/><date when="1493-12-02">naechsten menttag nach sannt Andres tag appostoli</date> zuo nacht in unnser statt an der
+<lb n="8"/>herberg zuo sind, <date when="1493-12-03">mornendes uff zinstag</date> den tag zuo laisten. Darnach wyssen üch zuo halten und
+<lb n="9"/>den tag in maßen, als obstat, den üwern, so die sach beruort, zuoverkünden. Was wir dann guots
+<lb n="10"/>in der sach wißen fürzuonemen, damit die abweg getan werd, woellen wir unnsern fliß unge
+<lb break="no" n="11"/>spart bruchen, dann üch unnd den üwern in den unnd andern sachen gutten willen zuo bewisen,
+<lb n="12"/>sond ir ünns alltzit willig haben. Geben uff <origDate when="1493-11-27">mitwochen nach sannt Connrats
+<lb n="13"/>tag anno domini etc. LXXXXIIIo</origDate>.
+<lb n="14"/><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister unnd
+<lb n="15"/>rautte der statt Costentz</orgName>.
+<pb facs="StadtASG_Missive_488_998.JPG" n="2"/>
+<lb n="16"/>Den ersammen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rautte
+<lb n="17"/>zu sannt Gallen</orgName> unnsern sonndern lieben und guotten
+<lb n="18"/>frunden.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 436</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_436_889/890</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Appenzell bitten Bürgermeister und Rat zu St. Gallen, dem Appenzeller Landmann Konrad Huter, Zeiger dieses Briefes, der von dem verstorbenen St. Galler Bürger und Fuhrmann Brenner ein Pfand, namentlich ein Haus, erworben hat, welches anschliessend auf Huter übertragen wurde, zu seinem Recht zu verhelfen, da das Pfand widerrechtlich verkauft worden war.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-79">Pfand</term>
+<term ref="stadtasg-keywords-109">Haus</term>
+<term ref="stadtasg-keywords-156">Recht</term>
+<term ref="stadtasg-keywords-167">Verkauf</term>
+<term ref="stadtasg-keywords-21">Rechtshilfe</term>
+<term ref="stadtasg-keywords-345">Zeiger</term>
+<term ref="stadtasg-keywords-365">Transport</term>
+<term ref="stadtasg-keywords-251">Stadtrecht</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-506">Ammann und Rat zu Appenzell</orgName>                    <date>1486-11-05</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-05-12</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_436_889.JPG" n="1" />
+<p>
+<lb n="1" />Unser früntlich willig dienst und wz wir guotz vermoegent zuovor fürsichtigen wisen besunder guoten fründ.
+<lb n="2" /><persName ref="stadtasg-actors-935">Cuonrat Huoter</persName>, ünser lantman, bewiser diß briefs, hat uns fürbracht, wie er den <persName ref="stadtasg-actors-936">Prenner</persName>, den karrer<note>Karrer = Fuhrknecht, Fuhrmann.</note>,
+<lb n="3" />üwern mitburger saeligen, rechtlich nach üwer statt und gantrecht erlangt, dz im die pfand, so im geben
+<lb n="4" />nach derselben statt recht, verstanden syen als sin aigen guot. Über dz syg es im verkoft und veraendrot
+<lb n="5" />im unwissent, dz mit namen ain hus gewesen sye. Wo dz also sin wesen haben soelt, dz er von sinem
+<lb n="6" />erlangten rechten gedrengt wurde, hat uns ernstlich umb hilff und fürdernusß an üch angerueft
+<lb n="7" />und gebetten, und wann billich ist, dz ain ieder by sim erlangten rechten billich bliben sol, so bitten
+<lb n="8" />wir üwer wißhait mit ernstlichem flisß, den ünsern noch <date when="1486-11-05">hütt</date> by tag by soelichen erlangten rechten,
+<lb n="9" />by üch behept, zehanthaben, ze schützen und ze schirmen, damit er sins hoptguotz und sins schadens
+<lb n="10" />im daruff gelassen, usgericht und bezalt werde. Dz wellen wir zuosampt der billichait früntlich
+<lb n="11" />umb üch zuverdienen haben, wo dz zeschulden kumpt. Datum an <origDate when="1486-11-05">sonntag vor Martini anno etc. LXXXVIo</origDate>.
+<lb n="12" /><orgName ref="stadtasg-actors-506" role="issuer">Landtamman und rat
+<lb n="13" />ze Appenzell</orgName>.
+<pb facs="StadtASG_Missive_436_890.JPG" n="2" />
+<lb n="14" />Den fürsichtigen wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="15" />und rat zuo Santgallen</orgName> unsern besundern lieben
+<lb n="16" />und guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 518</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_518_1057/1058</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Daniel Kapfmann bittet in Eile Johannes Schenkli, Stadtschreiber zu St. Gallen, sich für ihn einzusetzen, sei es bei den Regierenden in Mailand oder beim König, damit er zu seinem Recht komme, und bietet ihm dafür Purpur an.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-364">Tagsatzung</term>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+                    <term ref="stadtasg-keywords-159">Stadtschreiber</term>
+                    <term ref="stadtasg-keywords-183">König</term>
+                    <term ref="stadtasg-keywords-347">Majestät</term>
+                    <term ref="stadtasg-keywords-278">Graf</term>
+                    <term ref="stadtasg-keywords-473">Eile</term>
+                    <term ref="stadtasg-keywords-21">Rechtshilfe</term>
+                    <term ref="stadtasg-keywords-548">Geschenk</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1063">Daniel Kapfmann</persName><placeName ref="stadtasg-places-311">Mailand</placeName>                    <date>1500-11-23</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-1012">Johannes Schenkli</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-07-14</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_518_1057.JPG" n="1"/>
+<p>
+<lb n="1"/>Min früntlich undertaenig willig dienst zu vor frommer fürsichtiger wiser min insunder gunstiger
+<lb n="2"/>lieber her. Ich wil üch umb gotzwillen pitten und ain ruffen, sygind ir uff
+<lb n="3"/>disem <placeName ref="stadtasg-places-32">zuricher</placeName> tag mich wellind lassen gen minenn heren gmainenn aidgnossen be
+<lb break="no" n="4"/>folatt sin, und gen sundrigen personnen uwer gutten frunden, deren ir
+<lb n="5"/>maechtig sind, umb ain andry raessery fürdrunng harin an die reganten
+<lb n="6"/>zu <placeName ref="stadtasg-places-311">Maland</placeName>, dz man mir endtlich recht lassy gan, oder man laß mich nitt
+<lb n="7"/>rechloß, und sunder rueffent ain amann berelrug und in der gassen sintz
+<lb n="8"/>da und vogt <persName ref="stadtasg-actors-669" cert="medium">Mertz</persName> und vor allen den stattschriber, die sind och all min
+<lb n="9"/>gutt frund, und lond mich nitt daran umb minß verdienens willen, dz der
+<lb n="10"/>stattschriber die wol setzy, und schribent denn mir darby, wz karmosin
+<lb n="11"/>ir waend, und schickentt mir dz, als by ain gwussen, der harin welly
+<lb n="12"/>nitt mer, denn gott syge mitt uch und verlich uch gesundt und selikayt,
+<lb n="13"/>och lond mich, gibtz eß sich in kainen waeg, uch befolatt gegen dez romischen kungs<note>König <persName ref="stadtasg-actors-914">Maximilian I.</persName>.</note> potten
+<lb n="14"/>und sagent, daz alle waelt in disem land dem frommen <persName ref="stadtasg-actors-914">kung</persName> nach schlagt
+<lb n="15"/>tag und nacht für alle walt, und well sin kuniglich mayestat statt <unclear>...</unclear> darzu
+<lb n="16"/>thuon, so tueg erß by zitt, denn sy belangatt ubel, dz wissy gott, ioemerlicher
+<lb n="17"/>ding hand ir me gehoertt, denn disez waessen hinann von den lutten
+<lb n="18"/>dez graffen über flussygen übermuott, doch stattschriber von <placeName ref="stadtasg-places-32">Zurich</placeName> kain
+<lb n="19"/>uch zoegen und sagen, hergott sechind die unseren, die soelichs verwilgatt
+<lb n="20"/>hand, wie ser sy wurdint sechen und wennig gefallen daran han,
+<lb n="21"/>doch sy wardantz non zuo frue gewar, denn eß mag nommen arlitten
+<lb n="22"/>waerden, waeder hinann und minder dussen. Gen zuo <origPlace ref="stadtasg-places-311">Maland</origPlace> uff <origDate when="1500-11-23">XXIII
+<lb n="23"/>november 1500</origDate>. Und lond mich nitt daran, sunder sind min her und vatter.
+<lb n="24"/>Gen in il.
+<lb n="25"/>Uwer williger alzitt
+<lb n="26"/>dienner <persName ref="stadtasg-actors-1063" role="issuer">Daniel Kapfman</persName>.
+<pb facs="StadtASG_Missive_518_1058.JPG" n="2"/>
+<lb n="27"/>Dem frommen fursichtigen er
+<lb break="no" n="28"/>sammen und wisen <persName ref="stadtasg-actors-1012" role="recipient">Johans
+<lb n="29"/>Schenckly</persName>, stattschriber, minem
+<lb n="30"/>insunder gunstigen lieben
+<lb n="31"/>heren in sin hand.
+<lb n="32"/><placeName ref="stadtasg-places-32">Zurich</placeName> oder
+<lb n="33"/>zu <placeName ref="stadtasg-places-38">Santgallen</placeName>.
+</p>
+        </body>
+    </text>
+</TEI>

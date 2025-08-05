@@ -45,7 +45,7 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="stadtasg-actors-59">Anton Schenk von Landegg, Vogt zu Bischofszell</persName>
+                    <persName ref="stadtasg-actors-87">Anton Schenk von Landegg</persName>
                     <placeName ref="stadtasg-places-19">Bischofszell</placeName>
                     <date>1444-05-09</date>
                 </correspAction>
@@ -98,7 +98,7 @@
                 tagten nach komen werde, als ir dann das vor üch habent und beret ist. Geben <lb
                     n="19"/>ze <origPlace ref="stadtasg-places-19">Byschoffzell</origPlace> am <origDate when="1444-05-09"
                     >samsstag post inventionis sancti crutcis anno domini etc. XLIIIIo</origDate>.
-                    <lb n="20"/><persName ref="stadtasg-actors-59" role="issuer">Anthone Schenk</persName> von <lb
+                    <lb n="20"/><persName ref="stadtasg-actors-87" role="issuer">Anthone Schenk</persName> von <lb
                         n="21"/><placeName ref="stadtasg-places-126">Landegg</placeName>, vogt ze
                     <placeName ref="stadtasg-places-19">Bischoffzell</placeName>. <pb
                     facs="StadtASG_Missive_171_342.JPG" n="2"/>

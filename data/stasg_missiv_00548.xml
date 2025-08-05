@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 548</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Am Schluss Kanzleivermerke.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_548_1117/1118</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Kaiser Maximilian teilt Bürgermeister und Rat zu St. Gallen mit, dass sein Diener Hans Flächsner ihm berichtet habe, dass es in der gerichtlichen Auseinandersetzung mit Bernhard Flachsner, Bürger zu St. Gallen, genannt Ani, noch zu keinem Entscheid gekommen sei und er aber grosse Unkosten gehabt habe. Deshalb habe Flächsener nun den Kaiser um Unterstützung gebeten. Kaiser Maximilian fordert die St. Galler auf, sich schnellstmöglich um die Beilegung des Streites zu bemühen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-398">Diener</term>
+                    <term ref="stadtasg-keywords-340">Rechtsstreit</term>
+                    <term ref="stadtasg-keywords-21">Rechtshilfe</term>
+                    <term ref="stadtasg-keywords-147">Kaiser</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-914">Maximilian I.</persName><placeName ref="stadtasg-places-14">Innsbruck</placeName>                    <date>1518-05-23</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-07-21</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_548_1117.JPG" n="1" />
+<p>
+<lb n="1" /><persName ref="stadtasg-actors-914" role="issuer">Maximilian von gottes gnadenn
+<lb n="2" />römischer kayser</persName> etc.
+<lb n="3" />Lieben getrewen. Unns hat unnser getrewer <persName ref="stadtasg-actors-1132">Hanns Flächsener</persName>, unnser diener, bericht, wiewol
+<lb n="4" />er gegen ainem ewrn mittbürger <persName ref="stadtasg-actors-1133">Bernhart Flachsner</persName>, genannt Ani, lanngs zeit vor euch
+<lb n="5" />in recht gestannden seye und dem rechten mit seim merklichen cossten gewart, so hab er
+<lb n="6" />doch bisher zu kund und austrag desselben nicht komen mugen, das im zu grossen schaden
+<lb n="7" />und nachtayl raiche, und unns darauf umb unnser kayserlich hilffe und furdrung zum
+<lb n="8" />rechten unnderthanigclich angeruffen und gebethen. Dieweil dann niemand das
+<lb n="9" />recht gevaerlicher weis sol verzogen werden, wir auch im zu aller billichait zuver
+<lb break="no" n="10" />helffen mit gnaden genaigt sein, demnach begeren wir an euch mit vleiss und ernnst,
+<lb n="11" />das ir dem obgedachten unnserm dienerr in obbemelter sachen fuderlich und unverzogen
+<lb n="12" />recht ergeenn lasset, und im dasselbs nicht weiter gevarlicher weis aufziehet oder in
+<lb n="13" />grossenn cossten fueret oder komen lasset, sonnder euch dem rechten und billigchait nach
+<lb n="14" />gemaes haltett, damit nit not werde, unns desshalben weiter anzulanngen, daran thut
+<lb n="15" />ir unnser ernnstlich maynung. Geben in unnser stat <origPlace ref="stadtasg-places-14">Ynnsbrug</origPlace> am <origDate when="1518-05-23">dreyundzwaynzigsten
+<lb n="16" />tag des monats may anno etc. im achtzehenndenn unnserr reiche im XXXIIIden iaren</origDate>.
+<lb n="17" />Ad mandatum domini
+<lb n="18" />imperatoris proprium.<note>Sinngemässe Übersetzung: Auf eigenen Befehl des Herrn Imperators wurde diese Missive geschrieben.</note>
+<pb facs="StadtASG_Missive_548_1118.JPG" n="2" />
+<lb n="19" />Unnsern und des reichs lieben getrewen
+<lb n="20" /><ex>nomen nominandum</ex> <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rat der statt
+<lb n="21" />sannd Gallenn</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

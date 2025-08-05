@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 438</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_438_893/894</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich teilen Bürgermeister und Rat zu St. Gallen mit, dass sie mit dem St. Galler Werkmeister bei dessen Besuch in Zürich ausgehandelt haben, dass dieser ab dem 4. März 1487 einen Helm auf die Wasserkirche bauen und während dieser Zeit in Zürich bleiben soll. Sie bitten um die St. Galler Einwilligung sowie darum, während dieser Zeit die Dienste des Werkmeisters niemand anderem zuzusagen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-267">Werkmeister</term>
+<term ref="stadtasg-keywords-331">Bau</term>
+<term ref="stadtasg-keywords-320">Kirche</term>
+<term ref="stadtasg-keywords-448">Einwilligung</term>
+<term ref="stadtasg-keywords-243">Dienst</term>
+<term ref="stadtasg-keywords-351">Handwerk</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1486-12-14</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-05-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_438_893.JPG" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig diennst und was wir liebs und guots vermogen allzit zuovor bereit
+<lb n="2" />fürsichtigen wisen besunderrnn guoten frünnde und getrüwen lieben eydtgnossen. Alr ir yetz uff
+<lb n="3" />unnser bitt üwernn werkmeister zuo unns gevertiget haben, ettlich unnser fürgennomnen büw zuo
+<lb n="4" />besichtigen, des wir üch sunderrnn frünntlichen dannck sagen, sind wir daruff mit dem selben
+<lb n="5" />werckmeister byß an üch verkommen, umb ein helm uff unnser wasserklichen zuo machen, und so
+<lb n="6" />wir keinen zwifel haben, das ir unns das versagen soellen, ist an üwer liebe unnser gar frünt
+<lb break="no" n="7" />lich bitt mit allem vlysss und errnnst, dem obgemellten üwerm werckmeister zuo gonnen, uff
+<lb n="8" />die <date when="1487-03-04">alten vastnacht nechstkünnfftig</date> in unnser statt zuo keren und by unns zuo bliben, byß
+<lb n="9" />er unns soeliche arbeit ussgericht, und byß dar sinthalb niemans andern kein zuosagen zuo tuon, sunder
+<lb n="10" />unns also zuo vollfaren lassen, als wir üwer liebe des und aller frünntschafft ganntz
+<lb n="11" />vertruwen und unns ouch des hallten wellen, dann wir ouch alle bereitschafft daruff
+<lb n="12" />zuo ruesten lassen und des also tuond erwarten. Wo wir dann soelichs umb üwer liebe verdienen
+<lb n="13" />und der selben hinwiderumb frünntschafft und wolgevallen bewisen konnen, wellen wir
+<lb n="14" />allzit guotwillig erfunden werden. Datum <origDate when="1486-12-14">dorrnnstag nach Lucie anno etc. LXXXVIto</origDate>.
+<lb n="15" /><orgName ref="stadtasg-actors-503" role="issuer">Burgermeister und rat
+<lb n="16" />der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_438_894.JPG" n="2" />
+<lb n="17" />Den fürsichtigen wisen unnsern besunderrnn
+<lb n="18" />guoten fründen und getruwen lieben eydgnossen
+<lb n="19" /><orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rat zuo Sanntgallen</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

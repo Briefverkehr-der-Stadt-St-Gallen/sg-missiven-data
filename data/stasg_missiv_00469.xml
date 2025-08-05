@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 469</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_469_957/958</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Winterthur berichten Bürgermeister und Rat zu St. Gallen, dass sie vom Priester Konrad Hirt, geboren in Wil, erfahren haben, dass die Stelle des Leutpriesters in St. Gallen frei sei. Sie stellen Konrad Hirt ein Empfehlungsschreiben aus und bitten die St. Galler, allfälliger übler Nachrede über den Priester keinen Glauben zu schenken.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-35">Priester</term>
+<term ref="stadtasg-keywords-289">Leutpriester</term>
+<term ref="stadtasg-keywords-125">Arbeit</term>
+<term ref="stadtasg-keywords-87">Empfehlung</term>
+<term ref="stadtasg-keywords-63">Gerücht</term>
+<term ref="stadtasg-keywords-320">Kirche</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-718">Schultheiss und Rat zu Winterthur</orgName>                    <date>1490-06-30</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_469_957.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich dienst und was wir eren unnd guotz vermügen alltzit
+<lb n="2"/>zevor ersamen wisen lieben und guoten fründ. Wir werden von dem ersamen
+<lb n="3"/>priester hernn <persName ref="stadtasg-actors-1004">Conrat Hirt</persName>, bürtig von <placeName ref="stadtasg-places-102">Wil</placeName>, bericht, wie üwer lütpriestery by üch
+<lb n="4"/>diser zit onersatz und noch unverlichen, desglichen vormals in naechstvergangnen
+<lb n="5"/>üwern geschaefften gegen üch dargeben sige uff meinung, das er alhie an ünser
+<lb n="6"/>cantzel geprediet, woelcher der üwer einen ze tod schluege oder mit andern schaden
+<lb n="7"/>an sinem lib und guot verletzen taette, das dar selbe taetter wider got nicht verschuldt
+<lb n="8"/>haben soelte etc. Und als er aber das alles gantz unschuldig, als unnser wüssend,
+<lb n="9"/>ouch in willen sige, nach gemelter lütpriestery oder helfery bittlich werbung zetuond,
+<lb n="10"/>haut er unns umb fürdrung ouch glouphaftige entschuldigung an üwer liebe
+<lb n="11"/>zegeben mit ernst angelangt. Und nach dem der gemelt heren <persName ref="stadtasg-actors-1004">Conrat</persName> ettlich
+<lb n="12"/>zit alhye by unnserm kilcherenn sich nach unnserm gefallen geschickt in sinem ampt
+<lb n="13"/>und dienste gar ursenlich enthalten, darumb wir im zuo soelcher fürdrung wol genaigt
+<lb n="14"/>sind, bitten wir üwer ersam liebe mit sonderm flis, ine also vorab durch gottes singens
+<lb n="15"/>und lesens und unnser bittwillen zuo gemelter lütpriestery für ander günstlich ze
+<lb n="16"/>fürdern und soelicher maß guotwillig gegenn im zuo erzaigen, damit er diser
+<lb n="17"/>fürbittung zegeniessen befunde, begeren wir in sogetanem umb üwer liebi alltzit
+<lb n="18"/>früntlich zuo verglichen. Unnd wie er auch bestimbter worten halb gegen
+<lb n="19"/>üch zuo bitten versagt, da woellen in rechter warhait wüssen, das soelche noch
+<lb n="20"/>dar glichen dhain unglimpffig wort von im noch unnserm kilcherenn noch
+<lb n="21"/>yemand andern an ünser cantzel nie geprediet worden, wo auch das beschaehen,
+<lb n="22"/>das unns soelchs gantz misfellig gesin were, deshalb üwer ersam liebe soelchem un
+<lb break="no" n="23"/>warlichen versagen, wie das wider den gemelten hernn <persName ref="stadtasg-actors-1004">Conrat</persName> oder ünser kilcherenn
+<lb n="24"/>gegen üch beschaehen, dheinen glouben geben woelle. Datum <origDate when="1490-06-30">mitwochen nach
+<lb n="25"/>Petri und Pauli apostolorum anno etc. LXXXXo</origDate>.
+<lb n="26"/><orgName ref="stadtasg-actors-718" role="issuer">Schulthais unnd
+<lb n="27"/>rate zuo Winterthur</orgName>.
+<pb facs="StadtASG_Missive_469_958.JPG" n="2"/>
+<lb n="28"/>Den ersamen wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister
+<lb n="29"/>unnd rate zuo Santgallen</orgName> unnsern
+<lb n="30"/>lieben und guotten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

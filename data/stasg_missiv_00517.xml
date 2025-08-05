@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 517</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_517_1055/1056</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Galeazzo, herzoglicher Vizegraf, schreibt an Bürgermeister und Rat zu St. Gallen, dass er durch den St. Galler Bürger Gilg vernommen habe, dass Stefan und Hans Grübel sowie Herli Ritz, die ihm als Hauptleute Söldner zugeführt hatten, in Ungnade gefallen waren. Er bittet die St. Galler, sie zu begnadigen.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-254">Söldner</term>
+                    <term ref="stadtasg-keywords-285">Begnadigung</term>
+                    <term ref="stadtasg-keywords-474">Hauptmann</term>
+                    <term ref="stadtasg-keywords-275">Fürst</term>
+                    <term ref="stadtasg-keywords-124">Knecht</term>
+                    <term ref="stadtasg-keywords-107">Strafe</term>
+                    <term ref="stadtasg-keywords-277">Herzog</term>
+                    <term ref="stadtasg-keywords-278">Graf</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1092">Galeazzo</persName><placeName ref="stadtasg-places-357">Novara</placeName>                    <date>1500-03-09</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-07-09</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_517_1055.JPG" n="1"/>
+<p>
+<lb n="1"/>Großmechtigen ersamenn herren. Ich hab durch <persName ref="stadtasg-actors-1093">Gilgen</persName>, üwernn
+<lb n="2"/>burger, verstannden, das ir gegen <persName ref="stadtasg-actors-1020">Steffan</persName> unnd <persName ref="stadtasg-actors-1094">Hanns Grübel</persName>
+<lb n="3"/>ouch <persName ref="stadtasg-actors-1095">Herly Ritzenn</persName> als hoptlüt mins gnedigen fürsten, umb das
+<lb n="4"/>sy inverganngnenn tagen ettlich gelt von mir genommen,
+<lb n="5"/>unnd mit ir knechten angends widerumm hann gezogen,
+<lb n="6"/>ganntz erzürnt und in ungunst komen sind. Das mir
+<lb n="7"/>zum tail wol gefallen hat unnd hier inn üwer
+<lb n="8"/>from unnd gerechtikait spüren bin, aber darby in kumer,
+<lb n="9"/>wa üch deshalben gegen gemainenn aidgnossen iendert
+<lb n="10"/>irrung entsprungen, unnd ee ich wolt, das darumm
+<lb n="11"/>zwüschen üch und gemainnen aidgnossen unainikait oder
+<lb n="12"/>wider willen entspringen sölt, ee wolt ich mins aigen
+<lb n="13"/>gutz vil verlierenn. Hierumb bitt und beger ich
+<lb n="14"/>nu uch als hoch ich kan und mag, ir wöllen umb mut
+<lb break="no" n="15"/>willen sollich ungunst und straff gegen gemelten
+<lb n="16"/>üwern burger uff gelait nach unnd ab und sy widerumm
+<lb n="17"/>in uwer statt und gebiet laßen. Darinne tünd ir mir
+<lb n="18"/>ain sonnder groß wol gefallen. Das erbüt ich mich allweg
+<lb n="19"/>zuverdienen willig. Datum in hertzogischen
+<lb n="20"/>schloßen wider <origPlace ref="stadtasg-places-357">Novariamm</origPlace> am <origDate when="1500-03-09">IX tag mertzen 500</origDate>.
+<lb n="21"/>Williger
+<lb n="22"/><persName ref="stadtasg-actors-1092" role="issuer">Galliatz</persName>, vicecomis ducalis.
+<lb n="23"/>Den großmechtigen ersamenn
+<lb n="24"/>herrenn, <orgName ref="stadtasg-actors-148" role="recipient">herren von sant Gallenn</orgName>.
+<pb facs="StadtASG_Missive_517_1056.JPG" n="2"/>
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 525</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_525_1071/1072</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Ulm berichten Bürgermeister und Rat zu St. Gallen, dass in ihrer Stadt am letzten Dienstagmorgen, 11. Mai, ein verstümmelter Körper eines kräftig gebauten Mannes gefunden wurde. Dabei handelt es sich möglicherweise um einen Scharfrichter aus dem Bodenseegebiet oder aus der Eidgenossenschaft, der um Weihnachten nach Ulm kam. Die Ulmer bitten die St. Galler darum, Informationen einzuholen, ob ein Nachrichter vermisst wird und wie dieser ausgesehen und was er getragen habe. Sie bitten um eine schriftliche Antwort mit diesem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-23">Mord</term>
+                    <term ref="stadtasg-keywords-663">Scharfrichter</term>
+                    <term ref="stadtasg-keywords-21">Rechtshilfe</term>
+                    <term ref="stadtasg-keywords-107">Strafe</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-584">Fahndung</term>
+                    <term ref="stadtasg-keywords-171">Silber</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-510">Bürgermeister und Rat zu Ulm</orgName>                    <date>1501-05-13</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-07-14</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_525_1071.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser freünntlich willig diennst zuvor ersamen unnd weysen lieben freünnd. Auff <date when="1501-05-11">afftermonntag nechstver
+<lb break="no" n="2"/>ganngen</date> amm morgen ist hie in unnser statt an ungewonlichem ennd ain todter mannscörpel ains starcken, wol
+<lb break="no" n="3"/>mügennden leybs gewesen ermürdt, im sein haupt abgeschlagen, baid arm inn achsslen unnd deßgleichen baide
+<lb n="4"/>schinbain inn knüen auß gelidet, erfunnden, unnd als wir achten unnd bericht werden, so ist sollich mord in mittler
+<lb n="5"/>zeit hie zwischen unnd <date when="1500-12-25">weyhennachent nechstverruckt</date> beschehen, sonnder unns auch dabey sovil angezaigt wordenn,
+<lb n="6"/>als ob villeicht der ermurdt ain nachrichter<note>nachrichter = Scharfrichter, Henker.</note> gewesen unnd auss <orgName ref="stadtasg-actors-750">Aidgenossen</orgName> oder vom <placeName ref="stadtasg-places-157">Bodensee</placeName> in obbestymmpter
+<lb n="7"/>verruckter zeitt her in unnser statt kommen sein sölle. Dieweyl wir nu zu straff sollichs mords unnd übels hitzig
+<lb n="8"/>unnd begirig sind, so haben wir euch sollichs trewer gueter mainnung zuverkünnden nit verhallten wöllen mit
+<lb n="9"/>sonndermm unnd allem vleiss ernstlich bittennt, ir wöllent als liebhaber der gerechigkait unnd straff des übels unnd
+<lb n="10"/>mords in ewer statt und bey eüch in gehaimer weis ewer vleissig erkennen und erfaren haben, ob ir oder
+<lb n="11"/>yemannds anndre ains nachrichters gemanngellt hetten, der von eüch kommen unnd noch auss wär, auch
+<lb n="12"/>wie der ain person lanng oder kurz, gross oder klain gewesen sey, unnd was klaidung der selb gehapt unnd
+<lb n="13"/>angetragen hab, von silbrin kettin oder anndermm, unnd was ir allso desshalb wissen oder erfaren möchten, unns
+<lb n="14"/>das bey disem botten in schrifft aigenntlich berichten mit so guotwilliger beweysunng, als wir zu ewer weishait,
+<lb n="15"/>die unns ungezweivellt zu straff sollichs übels begirig unnd genaigt ist, sonnder vertrawen haben. Begern wir
+<lb n="16"/>das umb sie in gleychem fall mit ganntzem willen zuverdienen. Datum <origDate when="1501-05-13">donnrstags nach cantate anno domini etc.
+<lb n="17"/>primo</origDate>.
+<lb n="18"/><orgName ref="stadtasg-actors-510" role="issuer">Burgermaister unnd
+<lb n="19"/>rate zu Ullm</orgName>.
+<pb facs="StadtASG_Missive_525_1072.JPG" n="2"/>
+<lb n="20"/>Den ersamen unnd weysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister unnd
+<lb n="21"/>rate der statt sant Gallen</orgName> unnsern besonndern
+<lb n="22"/>guoten freünden.
+</p>
+        </body>
+    </text>
+</TEI>

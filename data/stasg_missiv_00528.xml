@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 528</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_528_1077/1078</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hieronymus Stocker von Zug, Landvogt im Thurgau, teilt Bürgermeister und Rat zu St. Gallen mit, dass ihm Boten aus Zihlschlacht mitteilten, dass sie von drei Höfen des Spitals St. Gallen wegen des vergangenen Krieges Abgaben einforderten, wie sie dies auch gegenüber anderen Höfen in ihrer Gemeinde tun würden. Dagegen wehre sich der Spitalmeister mit Verweis auf einen Handel mit dem Welter von Blidegg, welcher dafür aufkommen solle. Stocker bittet im Namen der Eidgenossen die St. Galler nun darum, sich beim Spitalmeister dafür einzusetzen, dass der Spitalmeister die Abgaben leiste, da sonst die Gemeinde das, was ihr zusteht, mit Gewalt holen könnte.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-157">Hof</term>
+<term ref="stadtasg-keywords-371">Spitalmeister</term>
+<term ref="stadtasg-keywords-354">Spital</term>
+ <term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-98">Steuer</term>
+<term ref="stadtasg-keywords-461">Armut</term>
+<term ref="stadtasg-keywords-319">Landvogt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1085">Hieronymus Stocker</persName>                    <date>1501-03-02</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-08</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_528_1077.JPG" n="1"/>
+<p>
+<lb n="1"/>Min willig früntlich dienst altzit zuvor fürsichtigen ersamen und wysen lieben und guten fründ.
+<lb n="2"/>Mir pringen für ainer gemaind zuo <placeName ref="stadtasg-places-353">Zilschlachten</placeName> pottschaft, wie das sy uff dry üwrer des <orgName ref="stadtasg-actors-552">spittals</orgName>
+<lb n="3"/>hoeff, so denn in irer geselschaft ligen, syen des vergangnen kriegs halb stür und brüch gelegt haben,
+<lb n="4"/>inmas wie uff ander der gelich höff in irer geselschaft gelegen etc. Nun soelichs bruchs sich üwer
+<lb n="5"/>spitalmaister zugeben spere und vermaine, sich ettwas handels, den der <orgName ref="stadtasg-actors-552">spital</orgName> und der <persName ref="stadtasg-actors-1084">Welter zuo
+<lb n="6"/>Blideg</persName> gegenenandern haben, zuo behelfen. Das mich innamen miner herren gemainer aidtgnosen ettwas
+<lb n="7"/>befrömbdet, angesechen, das die armen lüt sölichs handels, ob der <persName ref="stadtasg-actors-1084">Waelter</persName> üwerm <orgName ref="stadtasg-actors-552">spital</orgName> glich wol
+<lb n="8"/>vil zugesagt hette, nach minem bedungken an dem bruch unbillich entgelten. Darumbe so ist
+<lb n="9"/>an üwer wyßhait anstatt der egemelten miner herren gemainer aidtgnosen min ernstlich und flißlich
+<lb n="10"/>pitte, ir wöllen gegen üwerm spittalmaister daran sin und verschaffen, das er egerürter gemaind
+<lb n="11"/>den pruch von den dry höfen fürderlich geben und ußrichten sige, damit wyter und mer cost
+<lb n="12"/>und schad erspart werde. Das will ich innamen miner herren umb üwer wyßhait altzit frünt
+<lb break="no" n="13"/>lich beschulden unnd verdienen. Dann wo das nit beschechen sölte, als ich mich doch nit versechen
+<lb n="14"/>will, wurden sy villicht die höff darumb müssen angriffen und bekümbern, das mir laid wäre,
+<lb n="15"/>und vil gerner sechen welte, das die ding gegen inenn in der gütlichait abweg kämint. Datum <origDate when="1501-03-02">zinstag
+<lb n="16"/>nach der alten vaßnacht anno etc. XVc und ain iar</origDate>.
+<lb n="17"/><persName ref="stadtasg-actors-1085" role="issuer">Jeronimus Stocker</persName> von <placeName ref="stadtasg-places-10">Zug</placeName>, landtvogt
+<lb n="18"/>in <placeName ref="stadtasg-places-103">ober und nider Thurgöw</placeName> etc.
+<pb facs="StadtASG_Missive_528_1078.JPG" n="2"/>
+<lb n="19"/>Den fürsichtigen ersamen und wysen
+<lb n="20"/><orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat der statt zu sant
+<lb n="21"/>Gallen</orgName> minen lieben und guten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 503</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_503_1027/1028</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hans Lutzmann von Schwyz, Vogt zu Windegg, bittet Bürgermeister und Rat zu St. Gallen, Meister Georg Rot von Schnittlingen, Glockengiesser, Überbringer dieses Empfehlungsschreibens, anzuhören. Jörg Rot habe kürzlich zu Weesen eine gut tönende Glocke, die etliche St. Galler gehört hätten, geschaffen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-359">Meister</term>
+                    <term ref="stadtasg-keywords-176">Glocke</term>
+                    <term ref="stadtasg-keywords-618">Giesser</term>
+                    <term ref="stadtasg-keywords-351h">Handwerk</term>
+                    <term ref="stadtasg-keywords-125">Arbeit</term>
+                    <term ref="stadtasg-keywords-87">Empfehlung</term>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1037">Hans Lutzmann von Schwyz</persName>                    <date>1496-09-30</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-24</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_503_1027.JPG" n="1" />
+<p>
+<lb n="1" />Min früntlich willig dienst und was ich guotter früntschaft
+<lb n="2" />vermag zuovor bereit fürnemen wisen lieben heren
+<lb n="3" />und guotten gönner. Also kompt zuo üwer fürnemen
+<lb n="4" />wyßheit der ersame meister <persName ref="stadtasg-actors-1038">Joerg Rot</persName> von <placeName ref="stadtasg-places-336">Snitt
+<lb break="no" n="5" />lingen</placeName>, glogkengiesser, antwürtter diß brieffs, in
+<lb n="6" />meynung, ettwas sins wercks oder arbeit halb an
+<lb n="7" />üwer wyßheit zepringen etc. Bitt ich üwer wiß
+<lb break="no" n="8" />heit mit besondrem ernst gar früntlich, den bemelt
+<lb break="no" n="9" />ten meister <persName ref="stadtasg-actors-1038">Jörgen</persName> in sinem anpringen güttlich
+<lb n="10" />ze vernemen und in von minen wegen befolhen
+<lb n="11" />ze haben, denn er zuo <placeName ref="stadtasg-places-335">Wesen</placeName> gar ein hüpsch, guotts
+<lb n="12" />werck an eyner wol tönenden glogken, die ettlich
+<lb n="13" />der üwern ietz kurtzlich ouch lüten gehört hand, be
+<lb break="no" n="14" />werlich und gantz wercklich gemachz und gehenckt
+<lb n="15" />hatt. Und darumb wöllent üch so guotwillig ge
+<lb break="no" n="16" />gen im bewisen, das er enpfinde, miner bitt genos
+<lb break="no" n="17" />sen haben. Das will ich, wo ich vermag, in söllich
+<lb break="no" n="18" />em und mererm umb üwer wyssheit verdienen.
+<lb n="19" />Geben uff <origDate when="1496-09-30">fritag nach sant Michels tag anno etc.
+<lb n="20" />LXXXXVIo</origDate>.
+<lb n="21" /><persName ref="stadtasg-actors-1037" role="issuer">Hanns Lutzman</persName> von <placeName ref="stadtasg-places-71">Schwitz</placeName>,
+<lb n="22" />ietz vogt zuo <placeName ref="stadtasg-places-334">Windegk</placeName>.
+<pb facs="StadtASG_Missive_503_1028.JPG" n="2" />
+<lb n="23" />Den fürnemen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und
+<lb n="24" />ratt der statt sandt Gallen</orgName> minen lieben
+<lb n="25" />herren und guotten gönnern.
+</p>
+        </body>
+    </text>
+</TEI>

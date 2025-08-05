@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 549</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_549_1119/1120</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die in Zürich versammelten Räte der sechs eidgenössischen Orte Zürich, Zug, Basel, Solothurn, Schaffhausen und Appenzell sowie des Fürstabtes von St. Gallen, Franz Gaisberg, senden Bürgermeister und Rat zu St. Gallen einen Abschied von der Tagsatzung, die sie eben geleistet haben, und bitten sie, auf den im Abschied beschlossenen Tag ihre bevollmächtigte Gesandtschaft zu senden.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                     
+<term ref="stadtasg-keywords-83">Frieden</term>
+<term ref="stadtasg-keywords-213">Unruhe</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-328">Eidgenössischer Abschied</term>
+<term ref="stadtasg-keywords-557">Sekretsiegel</term>
+<term ref="stadtasg-keywords-201">Abt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-1130">Sechs Orte der Eidgenossenschaft (ZH, ZG, BS, SO, SH, AP)</orgName>
+                    <persName ref="stadtasg-actors-1131">Franz Gaisberg</persName>    <placeName ref="stadtasg-places-32">Zürich</placeName>                <date>1520-07-17</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-07-21</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_549_1119.JPG" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig dientst unnd was wir eeren und guts vermogent zuovor
+<lb n="2" />fromm fürsichtig wyss sonders guoten fründ unnd getrüwen lieben eidtgnossen.
+<lb n="3" />Wir schickend üch hiemit den abscheid der handlung diser taglei
+<lb break="no" n="4" />stung, wie ir werdent sechenn. Unnd die wil die zwen artickell,
+<lb n="5" />so dar inn sind, ebenn vil beruerent unnd unser <orgName ref="stadtasg-actors-750">Eidtgnoschafft</orgName>
+<lb n="6" />darann treffenlichs ist gelägenn unnd ouch hoch unnd wol sind zuobe
+<lb break="no" n="7" />denckenn, habent wir deßhalb der notturfft unnd den seltza
+<lb break="no" n="8" />men loeuffenn nach den tag gesetzt, wie der abscheid das wist, und
+<lb n="9" />ist daruff an üch unnser erntstig unnd vlyssig pitt, ir wellind be
+<lb break="no" n="10" />denckenn unser aller lob, ruow unnd ere, unnd das die sachen nit
+<lb n="11" />zuoverachten sind, unnd üwer pottschafft uff sollichenn tag mit volkomnem
+<lb n="12" />gewalt unnd entlicher antwurt schickenn unnd helffenn handlen
+<lb n="13" />alles das, so zuo frid, ruow unnd guotem mag reichenn unnd das nit
+<lb n="14" />lassenn. Dess wellend wir uns von unser herren und obern wegen
+<lb n="15" />zuo üch als unsern getrüwen lieben eidtgnossenn gentzlich versechen
+<lb n="16" />unnd das umb üch früntlich verdienenn. Datum unnd mit
+<lb n="17" />üwer unnd unser getrüwen lieben eidtgnossenn von <placeName ref="stadtasg-places-32">Zürich</placeName> statt
+<lb n="18" />uffgtrucktem secrett insigell in ir unnd unser aller namenn
+<lb n="19" />beschlossenn uff <origDate when="1520-07-17">zinstag nach Magrethe anno etc. XXto</origDate>.
+<lb n="20" />Der <orgName ref="stadtasg-actors-1130" role="issuer">sechs ortenn unnser Eidtgnoschafft</orgName>
+<lb n="21" />namlich <placeName ref="stadtasg-places-32">Zürich</placeName>, <placeName ref="stadtasg-places-10">Zug</placeName>, <placeName ref="stadtasg-places-133">Basel</placeName>, <placeName ref="stadtasg-places-49">Solothurn</placeName>,
+<lb n="22" /><placeName ref="stadtasg-places-185">Schaffhusenn</placeName> unnd <placeName ref="stadtasg-places-8">Appentzell</placeName> sampt
+<lb n="23" /><persName ref="stadtasg-actors-1131" role="issuer">her apts von sannt Gallen</persName> ratsbotten
+<lb n="24" />in der statt <origPlace ref="stadtasg-places-32">Zürich</origPlace> zuo tagenn ves
+<lb break="no" n="25" />samplot.
+<pb facs="StadtASG_Missive_549_1120.JPG" n="2" />
+<lb n="26" />Den frommen fürsichtigen wyßen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister
+<lb n="27" />und rat der statt sant Gallen</orgName> unnsern
+<lb n="28" />besonndern guoten fründen und getrüwen
+<lb n="29" />lieben eidgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

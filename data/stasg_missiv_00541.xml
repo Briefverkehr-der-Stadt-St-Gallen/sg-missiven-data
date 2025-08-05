@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 541</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_541_1103/1104</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die in Zürich versammelten Räte der Städte und Länder der Eidgenossenschaft teilen Bürgermeister und Rat zu St. Gallen mit, dass sie wegen den Söldnern in französischen und päpstlichen Diensten und wegen dem Papst, Frankreich und Venedig, die alle eine Vereinbarung mit den Eidgenossen wünschen, einen Tag auf den 12. Juni in Luzern angesetzt haben. Sie bitten die St. Galler, eine bevollmächtigte Gesandtschaft zu entsenden.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-254">Söldner</term>
+<term ref="stadtasg-keywords-344">Solddienst</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-328">Eidgenössischer Abschied</term>
+<term ref="stadtasg-keywords-372">Papst</term>
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-279">Herrschaft</term>
+<term ref="stadtasg-keywords-620">Herberge</term>
+<term ref="stadtasg-keywords-83">Frieden</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-534">Eidgenössische Räte</orgName>       <placeName ref="stadtasg-places-32">Zürich</placeName>             <date>1509-06-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-21</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_541_1103.JPG" n="1"/>
+<p>
+<lb n="1"/>Unser früntlich willig dienst und was wir eren und guots vermoegen allezit zuovor bereit frommen fürsichtigen wisen
+<lb n="2"/>besondern guoten fründ und getrüwen lieben eidgnossen. Uns zwifelt nit, ir sigen durch den abscheid, ieczt zuo
+<lb n="3"/><placeName ref="stadtasg-places-13">Bern</placeName> abgeredt, bericht, wie unser <orgName ref="stadtasg-actors-750">Eidgnosschaft</orgName> knechten halb, so zum bapst<note>Papst <persName ref="stadtasg-actors-1143">Julius II.</persName>.</note>, och küng<note>König <persName ref="stadtasg-actors-1100">Ludwig XII.</persName>.</note> von <placeName ref="stadtasg-places-131">Franckrich</placeName> in reis
+<lb n="4"/>geloffen sind, och als die baepstlich heiligkeit und der <persName ref="stadtasg-actors-1100">küng</persName> von <placeName ref="stadtasg-places-131">Franckrich</placeName> und die herschaft <placeName ref="stadtasg-places-188">Venedye</placeName> einung
+<lb n="5"/>mit uns eidgnosen begerent, ein tag angeseczt sye uff <date when="1509-06-12">zinstag nach unsers herren fronlichnamms tag
+<lb n="6"/>nechstkünftig</date> nachcz zuo <placeName ref="stadtasg-places-69">Luczern</placeName> an der herberg ze sind. Und so wir dis hendel ernsthafftig befinden und
+<lb n="7"/>der gstalt, das aller unser <orgName ref="stadtasg-actors-750">Eidgnosschaft</orgName> vil und groses daran gelegen sin wil, so pitten wir üch
+<lb n="8"/>mit fliss ernstlich, ir woellen zuo soelichem tag gen <placeName ref="stadtasg-places-69">Luczern</placeName> üwer botschaft och fertigen mit vol
+<lb break="no" n="9"/>komnem gwalt bi üns zesiczen, ze lesen und verhelfen ze raten, ze reden und ze handeln, das so
+<lb n="10"/>frid, ruow und einikeit bringen, och ünser aller lob und enthalt sin moeg, und üch in dem bewisen,
+<lb n="11"/>als wir üns versechen und das zuoverdienen haben wellen. Datum und besigelt mit ünser getrüwen
+<lb n="12"/>lieben eidgnosen von <placeName ref="stadtasg-places-32">Zürich</placeName> secret insigel innamen ir und unser aller. <origDate when="1509-06-01">Fritag in der pfingstwochen
+<lb n="13"/>anno etc. VIIIIo</origDate>.
+<lb n="14"/><orgName ref="stadtasg-actors-534" role="issuer">Stet und lender unser Eidgnoschaft
+<lb n="15"/>raete</orgName> ietz <origPlace ref="stadtasg-places-32">Zürich</origPlace> versamelt gewesen.
+<pb facs="StadtASG_Missive_541_1104.JPG" n="2"/>
+<lb n="16"/>Den frommen fürsichtigen wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rat der stat
+<lb n="17"/>Santgallen</orgName> ünsern besondern guoten fründen und getrüwen
+<lb n="18"/>lieben eydgnosen.
+</p>
+        </body>
+    </text>
+</TEI>

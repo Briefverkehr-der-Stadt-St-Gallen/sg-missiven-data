@@ -1,0 +1,91 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 520</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_520_1061/1062</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Wil bitten Bürgermeister und Rat zu St. Gallen im Namen des Wiler Ratsherren Hans Sailer und ihres Knechtes Hans Grossmann, den St. Galler Bürger Bernhard Bühler anzuhalten, seinen schriftlich festgehaltenen Verpflichtungen gegenüber den Wiler Bürgern nachzukommen. Dieser sei noch nicht in Wil eingetroffen, obwohl er dies zugesagt habe.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-124">Knecht</term>
+                    <term ref="stadtasg-keywords-33">Befehl</term>
+                    <term ref="stadtasg-keywords-345">Zeiger</term>
+                    <term ref="stadtasg-keywords-321">Schriftlich</term>
+                    <term ref="stadtasg-keywords-39">Vertrag</term>
+                    <term ref="stadtasg-keywords-368">Schultheiss</term>
+                    <term ref="stadtasg-keywords-112">Bürgerrecht</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-517">Schultheiss und Rat zu Wil</orgName>                    <date>1501-12-02</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-07-14</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_520_1061.JPG" n="1"/>
+<p>
+<lb n="1"/>Fürsichtigen ersammen wißen lieben unnd gueten frünnd unnser gar guotwillig früntlich dienst
+<lb n="2"/>unnd alles guot zuevor. Unns berichtend <persName ref="stadtasg-actors-1097">Hanns Sailer</persName>, unnßer ratzfründ, unnd <persName ref="stadtasg-actors-1098">Hans Großman</persName>, unßer
+<lb n="3"/>knecht, wie üwer burger <persName ref="stadtasg-actors-1099">Bernhart Bueler</persName> inen noch etwas zetuend sig, darumb zil und tag uß,
+<lb n="4"/>unnd er uss üwer statt zegond lut der vercribung darüber vergriffen, durch üwern stattknecht gepotten
+<lb n="5"/>worden syg, über dz kamm sy für, der üwer sig noch zu der statt unnd achte villicht uwer gepott
+<lb n="6"/>och der verscribung wenig, das etwas frembd zehoeren werr. Wann sy nun des iren eben lanng ußge
+<lb break="no" n="7"/>legen, und das witer zetuon nit in ir vermogen sig, haben sy unns umb unnser scrifftliche fürderniß an
+<lb n="8"/>üwer wyßhait zegeben gepotten, invertruwen, dero harinnn wol zegeniessen. Wann wir inen nun
+<lb n="9"/>der burgkrecht halb pflichtig und sunst wol genaigt sind, bittennd wir die selb üwer ersamm wyß
+<lb break="no" n="10"/>hait ernstlich umb unnsert willen, die unnsern in der sach bevolhen zuhaben unnd irn potten,
+<lb n="11"/>zaiger des briefs, zefierderind, darmit der üwer unnsern burgern gnuog tueg, innhalt der verscribung,
+<lb n="12"/>sonnder sich der maß harinn gegen in zeerzoegen, als wir unns vil früntschaft unnd guotz zuo üch
+<lb n="13"/>ungezwifelt versehen, und die unnsern spueren moegen, unnser fürpit ze guot genossen han. Das wellen
+<lb n="14"/>wir gar mit genaigtem willen umb üwer ersam wißhait unnd die üwern in glich messigem
+<lb n="15"/>fal und mererm, wenn es sich yenent begeb, verdienen. Datum <origDate when="1501-12-02">dornstag nach Anndree anno etc. primo</origDate>.
+<lb n="16"/><orgName ref="stadtasg-actors-517" role="issuer">Schultheiss unnd ratt
+<lb n="17"/>zuo Wil</orgName> im <placeName ref="stadtasg-places-103">Thurgoew</placeName>.
+<pb facs="StadtASG_Missive_520_1062.JPG" n="2"/>
+<lb n="18"/>Den fürsichtigen ersammen wysenn <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="19"/>maister und rat zuo Sannctgallenn</orgName> unsern
+<lb n="20"/>besonndern lieben und guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

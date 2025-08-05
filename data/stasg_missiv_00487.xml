@@ -1,0 +1,96 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 487</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_487_995/996</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Wil berichten Bürgermeister und Rat zu St. Gallen, dass ihr Leutpriester Konrad Rösch und seine Schwester Wibrat, Witwe des St. Galler Bürgers Konrad Seiler, mit dessen Angehörigen wegen Erbstreitigkeiten in einem gerichtlichen Streit liege. Da die Angehörigen Seilers die Sache hinziehen, bitten die Wiler die St. Galler dafür zu sorgen, dass Konrad und Wibrat zu ihrem Recht gemäss des bestehenden Gemächtbriefes kommen.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-289">Leutpriester</term>
+<term ref="stadtasg-keywords-177">Witwe</term>
+<term ref="stadtasg-keywords-519">Verwandtschaft</term>
+<term ref="stadtasg-keywords-307">Erbstreit</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-156">Recht</term>
+<term ref="stadtasg-keywords-5">Erbe</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
+<term ref="stadtasg-keywords-612">Schwester</term>
+<term ref="stadtasg-keywords-359">Meister</term>
+<term ref="stadtasg-keywords-321">Schriftlich</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-517">Schultheiss und Rat zu Wil</orgName>                    <date>1493-11-23</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-01</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_487_995.JPG" n="1"/>
+<p>
+<lb n="1"/>Fürsichttigen ersammen und wysen besondern lieben und guotten frunden uwer ersam
+<lb n="2"/>wyshait sigen unser willig früntlich dienst und alles guot bevor an. Der ersamme
+<lb n="3"/>wolgelert her maister <persName ref="stadtasg-actors-1057">Conrat Roesch</persName>, lütbriesster in unser statt <placeName ref="stadtasg-places-102">Wyl</placeName>, bericht unns, wie
+<lb n="4"/>er mit gwalt <persName ref="stadtasg-actors-1058">Wybraut Roeschin</persName>, siner elichen swoester, wilunt uwers burgers <persName ref="stadtasg-actors-1059">Conraten
+<lb n="5"/>Sailers</persName> seligen wittwe, vor üch mit des selben <persName ref="stadtasg-actors-1059">Conrat Sailers</persName> seligen fründen sines
+<lb n="6"/>verlaussnen erbs und guets halb inrecht stande, und als er maine, well soellich recht
+<lb n="7"/>sich uff siner widerparthy unbillich fürzüg eben lang verziehen, und uns daruf
+<lb n="8"/>mit ernst umm unser scrifftlich fürdernus, deshalb im an üch zegeben, ersuocht. Wann
+<lb n="9"/>wir nun im und den sinen zue fürdrung ganntz guett willig sigen, bittend wir
+<lb n="10"/>üwer ersam wyshait mit allem ernst früntlich umm unsern willen, inn in soelhen
+<lb n="11"/>rechten trüwlich bevolhen und fürdersam zehaben, darmit im das, darzuo die ge
+<lb break="no" n="12"/>dacht sin swoester recht haut, und ir der besiglet gemeachts brief, für üch gelegt, zue
+<lb n="13"/>gipt, one lenngern verzug und bi dem minsten costen gedyhe, sonder üwer ersam
+<lb n="14"/>wißhait sich der mauß so fürderlich ze bewysen, als sich unser guet vertruwen des
+<lb n="15"/>zue üch bescheahen gentzlich versichtigt. Dz staut uns umm üch und die üwern in der
+<lb n="16"/>glich und merern, wenn es sich ienert sacht, gar mit guotem frünntlichem willen
+<lb n="17"/>zegedienen. Datum <origDate when="1493-11-23">sambstag vor sannt Katherinen tag anno etc. LXXXXIII</origDate>.
+<lb n="18"/><orgName ref="stadtasg-actors-517" role="issuer">Schulth<supplied>eis</supplied>s und rautt
+<lb n="19"/>zue Wyl</orgName> im <placeName ref="stadtasg-places-103">Turgoew</placeName>.
+<pb facs="StadtASG_Missive_487_996.JPG" n="2"/>
+<lb n="20"/>Den fürsichtigen ersamen und wysen
+<lb n="21"/><orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raut zue sant
+<lb n="22"/>Gallen</orgName> unsern lieben und guottenn
+<lb n="23"/>frünndenn.
+</p>
+        </body>
+    </text>
+</TEI>

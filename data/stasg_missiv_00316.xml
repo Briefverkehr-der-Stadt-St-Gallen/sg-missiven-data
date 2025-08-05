@@ -26,7 +26,7 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Bürgermeister und Rat zu Konstanz berichten Bürgermeister und Rat zu St. Gallen, wie im Streit zwischen Konrad von Fulach und dem Konstanzer Bürger Konrad Ehinger dem Ältern, bei dem bereits eine Verhandlung stattgefunden habe durch Vermittlung des Bischofs von Konstanz, den St. Galler Altbürgermeister Johann Widenbach sowie den Zürcher Säckelmeister Brennwart, noch kein Urteil gesprochen worden sei. Der Konstanzer Bürger Ehinger habe den Bischof bereits mehrfach gebeten, das Urteil zu fällen; dieser wolle dies aber nur tun, wenn alle Vermittler vor Ort seien. St. Gallen solle deshalb den Genannten nach Konstanz schicken, und sie bitten um eine schriftliche Antwort mit dem gleichen Boten.</p>            </abstract>
+                <p>Bürgermeister und Rat zu Konstanz berichten Bürgermeister und Rat zu St. Gallen, wie im Streit zwischen Konrad von Fulach und dem Konstanzer Bürger Konrad Ehinger dem Ältern, bei dem bereits eine Verhandlung stattgefunden habe durch Vermittlung des Bischofs von Konstanz, den St. Galler Altbürgermeister Johannes Widenbach sowie den Zürcher Säckelmeister Brennwart, noch kein Urteil gesprochen worden sei. Der Konstanzer Bürger Ehinger habe den Bischof bereits mehrfach gebeten, das Urteil zu fällen; dieser wolle dies aber nur tun, wenn alle Vermittler vor Ort seien. St. Gallen solle deshalb den Genannten nach Konstanz schicken, und sie bitten um eine schriftliche Antwort mit dem gleichen Boten.</p>            </abstract>
             <langUsage>
                 <language ident='deu'>Deutsch</language>            </langUsage>
             <textClass>
@@ -61,7 +61,7 @@
                 <date>2021-08-25</date>
             </change>
             <change type="tagging" status="done">
-                <persName>SC</persName>
+                <persName>NSch</persName>
                 <date>2022-11-16</date>
             </change>
         </revisionDesc>
@@ -75,7 +75,7 @@
     <lb n="2" />Es sint ettlich spenn zwüschen <persName ref="stadtasg-actors-474">Conraten von Fulach</persName> an ainem und <persName ref="stadtasg-actors-475">Conraten Ehinger</persName>
 <lb n="3" />dem eltern, unserm burger, am andern, darumb sy sich dann ains rechten uff den
     <lb n="4" />hochwirdigen fürsten und herren hern <persName ref="stadtasg-actors-55">Hainrichen</persName> bischoff zuo <placeName ref="stadtasg-places-7">Costentz</placeName> etc., unsern
-    <lb n="5" />gnadigen herren, och uff die ersamen und wisen <persName ref="stadtasg-actors-476">Johannsen Widenbach</persName>, uwern
+    <lb n="5" />gnadigen herren, och uff die ersamen und wisen <persName ref="stadtasg-actors-631">Johannsen Widenbach</persName>, uwern
     <lb n="6" />alten burgermaister, und den <persName ref="stadtasg-actors-477">Brennwart</persName>, seckelmaister zuo <placeName ref="stadtasg-places-32">Zürich</placeName>, baid unser guot
 <lb n="7" />frund, geaint und vor den clag, red und widerred getan hand, uch villicht wol wissen
 <lb break="no" n="8" />lich, die sich nu der urtal darinn zuo geben vor langem ain bedencken genomen ge

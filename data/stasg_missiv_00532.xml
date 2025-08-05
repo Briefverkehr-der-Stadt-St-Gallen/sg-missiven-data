@@ -1,0 +1,85 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 532</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_532_1085/1086</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ulrich Kuhn, Werkmeister zu Bischofszell und Bürger zu St. Gallen, teilt Bürgermeister Johannes Schenkli zu St. Gallen mit, dass er gehört habe, dass der St. Galler Werkmeister weg will. Da sein Bürgerrecht bis zur nächsten Weihnacht verlängert wurde, bittet er den Bürgermeister, in Erfahrung zu bringen, was der Werkmeister vorhabe und ihn darüber zu unterrichten. Ferner bittet Ulrich um die Unterstützung des Bürgermeisters für den Fall, dass die Position des Werkmeisters frei würde.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-267">Werkmeister</term>
+<term ref="stadtasg-keywords-351">Handwerk</term>
+<term ref="stadtasg-keywords-112">Bürgerrecht</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1111">Ulrich Kuhn</persName>  <placeName ref="stadtasg-places-19">Bischofszell</placeName>                  <date>1502-05-21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-1012">Johannes Schenkli</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-14</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_532_1085.JPG" n="1"/>
+<p>
+<lb n="1"/>Fromer fürsichtiger und wyser sunder lieber herr burgermaister min willig diennst sind
+<lb n="2"/>üwer fürsichtig wyßhait allzit voran berait. Ich vernym in lanndzmans wyse,
+<lb n="3"/>das der statt werckmaister mins hanndtwercks by üch hinweg stell. Unnd wann
+<lb n="4"/>darin die selb üwer fürsichtig wyßhait mir nicht zwivelt, das min zit, so mir von üch
+<lb n="5"/>minen hern von <placeName ref="stadtasg-places-38">sannt Gallen</placeName> bißher on verlierung mins burgerrechtzs bis <date when="1502-12-25">wichennecht
+<lb n="6"/>nechst kompt</date> erstreckt wol waist uß unnd verschinen sin, deßhalb ich als dann, ob
+<lb n="7"/>ich mich des nit verzichen, widerumm hinuff verfügen wurde, ist hieruff an die selb
+<lb n="8"/>uwer lieb min gar ernst vlißig bitt, sy wölle die zit, was daran sig, umb mintwillen
+<lb n="9"/>arbaiten und erkundung han, was sin unnd üwer minerr hern halb darum gehanndelt
+<lb n="10"/>werde, und denn mich des günstlich in gehaim underrichten und für ander, ob es
+<lb n="11"/>zuo fall keme, gefürdert haben, wie mir nit zwivelt, ir des on söllich min schribenn
+<lb n="12"/>sunderr genaigt syen. Das wil ich, wa es miner armen diennsten halb iemer zuo schulden
+<lb n="13"/>kompt, zu sampt andern üwernn mir bewisten guttaetten mit ganntzem willen zuver
+<lb break="no" n="14"/>dienen haben. Damit sind gott befolchen. Datum <origDate when="1502-05-21">sampstag vor corporis Christi anno XVc II</origDate>.
+<lb n="15"/><persName ref="stadtasg-actors-1111" role="issuer">Ulrich Kun</persName>, yetz zuo <origPlace ref="stadtasg-places-19">Bischoffzell</origPlace>
+<lb n="16"/>werkmaister, burger zuo <placeName ref="stadtasg-places-38">s Gallenn</placeName>.
+<pb facs="StadtASG_Missive_532_1086.JPG" n="2"/>
+<lb n="17"/>Dem fromen fürsichtigen unnd wysen heren <persName ref="stadtasg-actors-1012" role="recipient">Johann
+<lb n="18"/>Schenncklin</persName> burgermaister der statt zu <placeName ref="stadtasg-places-38">sant Gallen</placeName>
+<lb n="19"/>minem sunder lieben heren in sin handen.
+</p>
+        </body>
+    </text>
+</TEI>

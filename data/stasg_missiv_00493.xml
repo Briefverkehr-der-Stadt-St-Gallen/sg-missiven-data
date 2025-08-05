@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 493</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_493_1007/1008</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Memmingen schreiben Bürgermeister und Rat zu St. Gallen, dass ihre Tuchpresse Mängel habe und sie deshalb Josef Eberli, ihren Werkmeister und Vorzeiger dieses Schreiben, nach St. Gallen schicken, damit er ihre Tuchpresse anschauen kann. Sie bitten darum, ihm die Besichtigung zu erlauben.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-505">Maschine</term>
+<term ref="stadtasg-keywords-267">Werkmeister</term>
+<term ref="stadtasg-keywords-504">Wissen</term>
+<term ref="stadtasg-keywords-258">Leinwand</term>
+<term ref="stadtasg-keywords-180">Kaufmann</term>
+<term ref="stadtasg-keywords-506">Mange</term>
+<term ref="stadtasg-keywords-164">Tuch</term>
+<term ref="stadtasg-keywords-345">Zeiger</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-604">Bürgermeister und Rat zu Memmingen</orgName>                    <date>1494-12-24</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-07</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_493_1007.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser frünndtlich willig diennst voran berait ersamen unnd weisen besonnnder lieben unnd guten
+<lb n="2"/>frünnd. Wir haben an unnserm truck, darinne dann lyniwat unnd annders koffmans
+<lb n="3"/>gut gebrest unnd gedruckt wurdet, etwas bruch unnd manngl, dasselbig zu wennden
+<lb n="4"/>fürgenommen unnd demnach maister <persName ref="stadtasg-actors-1076">Josen Eberlin</persName>, unnser stat werckmaister, weiser ditz
+<lb n="5"/>briefs, abgefoerttiget, sich desßhalb zuerkennen. Die weil wir nu ain seunnder vertruwen
+<lb n="6"/>zu ewch haben, so ist an ewer ersamm weißhait unnser frunntlich unnd flyssig bet,
+<lb n="7"/>sie welle gedauchten unnser werckmaister hierinne als unns selbs glauben unnd ine
+<lb n="8"/>ewern truck besichtigen unnd beschowen laussen, alles mit so frünntllicher unnd gut
+<lb break="no" n="9"/>williger beweisunng, wie wir euch sounnder wol vertruwen, ir unns solh unnser bit
+<lb n="10"/>nit abtziehen unnd versagen. Das wöllenn wir hernach inn solhem und der glych
+<lb n="11"/>mynndern oder mern sachen verglychenn unnd mit willen unverdriesßlich unnd gern
+<lb n="12"/>verdiennen. Datum am <origDate when="1494-12-24">haligen Cristabennt anno etc. LXXXXIIII</origDate>.
+<lb n="13"/><orgName ref="stadtasg-actors-604" role="issuer">Burgermaister und
+<lb n="14"/>rat zu Memingen</orgName>.
+<pb facs="StadtASG_Missive_493_1008.JPG" n="2"/>
+<lb n="15"/>Den ersamen unnd weisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="16"/>unnd rat der stat sannt Gallenn</orgName> unnsern
+<lb n="17"/>besonndern lieben und guten frünnden.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 452</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_452_921/922</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Buchhorn bitten Bürgermeister und Rat zu St. Gallen, ihrem Bürger Zollikofer auf dessen Bitte eine oder zwei Personen zur Unterstützung in einer Streitsache zur Verfügung zu stellen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-505">Bürgermeister und Rat zu Buchhorn</orgName>                    <date>1488-09-22</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-05-26</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_452_921.JPG" n="1" />
+<p>
+<lb n="1" />Ersamen wisen sonnder lieben unnd gueten fründ
+<lb n="2" />unnser willig dienst seien üwer ersamen wishait berait
+<lb n="3" />ze vor. Der veranlasten <persName ref="stadtasg-actors-959">Zollikovers</persName> und siner wider
+<lb break="no" n="4" />part irrung halb üch wol wissend, biten wir ewer
+<lb n="5" />ersamm wishait von ünnsers burgers <persName ref="stadtasg-actors-959">Zollikovers</persName> wegen
+<lb n="6" />ernstvlissig begerende, dem selben ünnserm bürger uff
+<lb n="7" />sin pitlich anforderüng, ain oder zwen man ze zusaetzen
+<lb n="8" />ald sunst bistand nach siner beger guetlich zu zegeben und
+<lb n="9" />mittailen unnd also gegen im haben, als wir unns des
+<lb n="10" />gegen üch unnserm sonndern vertruwen nach versechen, wellen
+<lb n="11" />wir mit willen gedienen. Geben an <origDate when="1488-09-22">sannt Mauritzen tag
+<lb n="12" />anno etc. LXXXVIIIuo</origDate>.
+<lb n="13" /><orgName ref="stadtasg-actors-505" role="issuer">Burgermaister unnd
+<lb n="14" />raut zu Buechornn</orgName>.
+<pb facs="StadtASG_Missive_452_922.JPG" n="2" />
+<lb n="15" />Den ersamen unnd wisen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="16" />maister unnd rautt zu sannt Gallen</orgName>
+<lb n="17" />ünnsern sonndern liebn und gueten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 437</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+        <notesStmt><note><p>Die erwähnte Beilage ist nicht vorhanden.</p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_437_891/892</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Uri teilen Bürgermeister und Rat zu St. Gallen mit, dass der St. Galler Bürger Georg Wetter vom Urner Landmann Bartholomäus Schüeli in Frankreich, wo sie sich trafen, nach der Warnung Schüelis, Wetter solle ihm fernbleiben, von Schüeli getötet wurde. Schüeli rächte sich für den Totschlag Wetters an seinem Verwandten Merch Kirster von Unterwalden, worüber die Unterwaldner die St. Galler unterrichten wollten, jedoch das Schreiben verlegten. Die Freunde Wetters wollen sich nun wiederum an Schüeli rächen. Die Urner bitten die St. Galler nun, die Freunde Wetters anzuhalten, dies nicht zu tun, damit nicht noch grösseres Unheil geschehe. Sie bitten um eine schriftliche Antwort.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+  <term ref="stadtasg-keywords-95">Warnung</term>
+<term ref="stadtasg-keywords-49">Totschlag</term>
+<term ref="stadtasg-keywords-519">Verwandtschaft</term>
+<term ref="stadtasg-keywords-576">Rache</term>
+<term ref="stadtasg-keywords-577">Blutrache</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-120">Vermittlung</term>
+<term ref="stadtasg-keywords-630">Bruder</term>
+<term ref="stadtasg-keywords-454">Kopie</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-849">Ammann und Rat zu Uri</orgName>                    <date>1486-11-15</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-05-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_437_891.JPG" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig dienste und waß wir alle zitt eren liebe und guottes vermogent zuvor fürsichtigenn wisen
+<lb n="2" />sunder guotten fründ getrüwen lieben eidgnossen. Nach dem und in vergangnen iaren der üwer einer, genant
+<lb n="3" /><persName ref="stadtasg-actors-937">Gorius Wetter</persName>, ze <placeName ref="stadtasg-places-72">Unnderwalden</placeName> <persName ref="stadtasg-actors-938">Merchin Kirseter</persName> libloß gethan hat, der nu ettlichen unnseren lantlüten, insunders
+<lb n="4" /><persName ref="stadtasg-actors-939">Bartlin Schülin</persName> und sinen bruodern mit rechter sibschafft so noch verwant gewesen, dz sy in mit recht mochten
+<lb n="5" />rechen, als ir des und anders handels in diser ingelegten copy, so wir üch hie mit schickend, bericht werden mogend,
+<lb n="6" />so nu der selb <persName ref="stadtasg-actors-937">Wetter</persName>, der üwer, und och <persName ref="stadtasg-actors-939">Bartle Schuely</persName>, der unnser, beid in <placeName ref="stadtasg-places-131">Franckrich</placeName> komen, und da mit <persName ref="stadtasg-actors-939">Bartle</persName> nit
+<lb n="7" />geursachet wurde von des obgenanten sins fründs wegen gegen dem üweren zuo rach und solichem schwaerren
+<lb n="8" />handel, so hat er mit dem üweren in guettikeit lassen reden, im och entdeckt die sibschafft und wie hoch sin
+<lb n="9" />fründ, den er liblos hab gethan, im zuo rechen stande, mit beger, dz der üwer sich sinen enziechen und dester mynder
+<lb n="10" />ann sin ogen gang, das aber der obgenant <persName ref="stadtasg-actors-937">Gorius Wetter</persName>, der üwer, alles übermuetenklich verschetz und den unnsern
+<lb n="11" />in massen verachtot, dz ie <persName ref="stadtasg-actors-939">Bartle Schuely</persName>, der unnser, uff solich frefen verachtung den genanten <persName ref="stadtasg-actors-937">Wetter</persName> och libloß
+<lb n="12" />gethan hatt. Nu verstann wir, dz der genant <persName ref="stadtasg-actors-939">Bartle Schuely</persName> und ander sin bruoder ann siner gewarsam und andern
+<lb n="13" />enden durch des <persName ref="stadtasg-actors-937">Wetters</persName> fründ oder gesellen gesuocht, gefecht und in massen gehasset werdin, dz wol witter unfuog
+<lb n="14" />darusß entspringen moechten. Und die wile ir ietz von ünns und och uß dem brieff, so durch
+<lb n="15" />unnser eidgnossen von <placeName ref="stadtasg-places-72">Underwalden</placeName> verlegen und von sümnüß wegen üch hievor nit geschickt worden
+<lb n="16" />ist, deshalben wir üch nu die obgemelten copy desselben brieffs schickend, und dar inn der unnseren glimpff verstan
+<lb n="17" />mogend, so ist zuo üch unnser gar früntlich pitt und beger, ir wellind mit <persName ref="stadtasg-actors-937">Gorgen Wetters</persName> fründen
+<lb n="18" />verschaffen, dz die unnseren vor inen sicher libs und guotz sin mogind und also den unnsern frid geben.
+<lb n="19" />Desglichen wellend wir mit den unnsern och thuon, da mit groesser unfuog nit erwachse, als ünns nit
+<lb n="20" />zwifelt, üch in trüwen leid were, wo deheinerley unfuog oder schad durch die üwern gegen den unnsern
+<lb n="21" />geübt wurde. Daß begern wir umb üwer wisheit mit guottem willen beschulden und verdienen
+<lb n="22" />und üwer verschriben antwürt. Datum uff <origDate when="1486-11-15">sant Othmars abent anno etc. LXXXVI</origDate>.
+<lb n="23" /><orgName ref="stadtasg-actors-849" role="issuer">Landamman und rat
+<lb n="24" />zuo Ure</orgName>.
+<pb facs="StadtASG_Missive_437_892.JPG" n="2" />
+<lb n="25" />Denn fürsichtigen ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister
+<lb n="26" />und ratt zuo sant Gallen</orgName> unnsern sunder guotten fründen
+<lb n="27" />und getrüwen lieben eidgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

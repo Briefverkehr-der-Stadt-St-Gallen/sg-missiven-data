@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 507</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_507_1035/1036</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Frauenfeld teilen Leonhard Merz, Bürgermeister zu St. Gallen, mit, dass sie die St. Galler Antwort betreffend das Pulver verstanden haben, und bitten ihn, bei seiner Rückkehr von der Tagsatzung in Luzern für einen Augenschein betreffend das Pulver und andere Dinge einen Abstecher nach Frauenfeld zu machen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-364">Tagsatzung</term>
+                    <term ref="stadtasg-keywords-597">Schiesspulver</term>
+                    <term ref="stadtasg-keywords-391">Augenschein</term>
+                    <term ref="stadtasg-keywords-368">Schultheiss</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-699">Schultheiss und Rat zu Frauenfeld</orgName>                    <date>1497-08-07</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-669">Leonhard Merz</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-24</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_507_1035.JPG" n="1" />
+<p>
+<lb n="1" />Unser willig früntlich dienst und alles guotz zuo vor fürsichtiger ersamer und wyser besondrer
+<lb n="2" />lieber und guoter fründ. Üwer schriben unserm schulthaißen von wegen des bulffers, dar
+<lb break="no" n="3" />umb wir vorherer mit unser botschafft zuo üch werbung gethan, haben wir verstanden,
+<lb n="4" />und ist an üch unser ernstlich pitt und frünntlich beger, ir wellint nechst, so ir
+<lb n="5" />ab dem tag von <placeName ref="stadtasg-places-69">Lucern</placeName> komen, üch alher zuo uns verfuegen und an dem end unsern
+<lb n="6" />züg des bulffers und andern dingen halb besechen und deßhalben uns üwern nüwen
+<lb n="7" />rat mittailen und üch harinne bewysen nach unserm sondern vertruwen
+<lb n="8" />guottwillig und üch des wegs von <placeName ref="stadtasg-places-46">Winterthur</placeName> her uns zu eren und lieb ver
+<lb break="no" n="9" />wegen. Das stat uns allezit umb üch früntlich zuo verdienen. Datum <origDate when="1497-08-07">mentag
+<lb n="10" />nach Sixsti anno etc. LXXXXVIImo</origDate>.
+<lb n="11" /><orgName ref="stadtasg-actors-699" role="issuer">Schulthais und rat
+<lb n="12" />zuo Frowenveld</orgName>.
+<pb facs="StadtASG_Missive_507_1036.JPG" n="2" />
+<lb n="13" />Den fürsichtigen ersamen und wysen <persName ref="stadtasg-actors-669" role="recipient">Lien
+<lb break="no" n="14" />hart Mertzen</persName> burgermaister zuo <placeName ref="stadtasg-places-38">Sant
+<lb break="no" n="15" />gallen</placeName> unserm besondern lieben und guten
+<lb n="16" />fründ.
+</p>
+        </body>
+    </text>
+</TEI>

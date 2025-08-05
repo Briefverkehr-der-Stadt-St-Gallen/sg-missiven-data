@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 435</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_435_887/888</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Überlingen teilen Bürgermeister und Rat zu St. Gallen mit, dass sie in der Auseinandersetzung zwischen Ulrich von Helmsdorf einerseits und Konrad von Hersberg, Bürger zu Überlingen, andererseits einen Gerichtstag ansetzten, der jedoch nicht zustande kam. Auf Bitten von Jos Rudolf von Hersberg, Vater von Konrad, schlugen die Überlinger Ulrich von Helmsdorf einen Gerichtstag vor den Grafen Georg und Ulrich von Werdenberg oder dem österreichischen Verweser der Landvogtei Schwaben, Marquard von Schellenberg, oder vor Bürgermeister und Rat zu Ravensburg oder Pfullendorf vor. Ulrich von Helmsdorf antwortete auf diesen Vorschlag nicht, teilte dem Überlinger Bote aber mündlich mit, dass er mit Rudolf persönlich Kontakt aufnehmen werde. Bürgermeister und Rat zu Überlingen bitten deshalb Bürgermeister und Rat zu St. Gallen, Ulrich von Helmsdorf nicht zu unterstützen, falls es zu einer Auseinandersetzung kommen sollte. Sie bitten um eine schriftliche Antwort mit dem gleichen Boten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+   <term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-51">Gerichtsverhandlung</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-149">Rechtstag</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-93">Mündlich</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-175">Sohn</term>
+<term ref="stadtasg-keywords-278">Graf</term>
+<term ref="stadtasg-keywords-240">Ritter</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-68">Bürgermeister und Rat zu Überlingen</orgName>                    <date>1486-09-22</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-05-12</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_435_887.JPG" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig dienst zuvor ersammen und wysen insonnder lieb und guetten fründ.
+<lb n="2" />Es hat sich zuovergangen tagen ain handel begeben entzwüschen dem vesten <persName ref="stadtasg-actors-930">Uolrichen
+<lb n="3" />von Helmstorff</persName> und <persName ref="stadtasg-actors-931">Josen Ruodolffen zuo Hersperg</persName> sun, <persName ref="stadtasg-actors-932">Conraten</persName>, wie dann soelher handel
+<lb n="4" />an im selbs ist, nit not meldung davon ze tuond. Nun haben wir dem handel
+<lb n="5" />zu guett und umb früntlicher nachpurschafft willen an den <persName ref="stadtasg-actors-930">von Helmstorff</persName> der sache
+<lb n="6" />nach umb verfolg guetlich tag in unnser statt zehandeln angesynnt, der uns des
+<lb n="7" />nit verfolg getan hat, dem nach hat der gemelt <persName ref="stadtasg-actors-931">Ruodolff</persName>, der doch unns zuoversprechen
+<lb n="8" />stet, unns angeruefft, in by billichen rechten zu handt haben. Dem nach haben wir
+<lb n="9" />dem <persName ref="stadtasg-actors-930">von Helmstorff</persName> geschriben und in gebetten, unfrüntlichs mit dem <persName ref="stadtasg-actors-931">Ruodolffen</persName> nit
+<lb n="10" />fürzenemenn, und ob er anfordrung an in zehaben ye vermainte, so hat sich der unser
+<lb n="11" />egeriert rechts erbotten an die end, dahin wir in taeten wysen. Haben wir dem <persName ref="stadtasg-actors-930">von
+<lb n="12" />Helmstorff</persName> abermals geschriben und des unnsern furgeslagen rechtbott zuoerkennen
+<lb n="13" />geben, namlich des rechten zekomen uff die wolgepornen herren herrenn <persName ref="stadtasg-actors-934">Joergen</persName> und
+<lb n="14" /><persName ref="stadtasg-actors-933">Ulrichen</persName>, graven zuo <placeName ref="stadtasg-places-322">Werdemberg</placeName>, geprudere, unnser gnaedig herrenn, oder uff unnsers
+<lb n="15" />gnaedigsten herrenn von <placeName ref="stadtasg-places-91">Oesterrichs</placeName> verweser der landtvogtye in <placeName ref="stadtasg-places-108">Swaben</placeName>, den strengen
+<lb n="16" />herrn <persName ref="stadtasg-actors-466">Marquarten von Schellemberg</persName>, rittere, oder uff <orgName ref="stadtasg-actors-58">burgermaister und rate der
+<lb n="17" />stett Ravenspurg</orgName> oder <orgName ref="stadtasg-actors-535">Pfullendorff</orgName>, und dem nach siner antwurtt by unnserm botten
+<lb n="18" />begert. Hat aber der <persName ref="stadtasg-actors-930">von Helmstorff</persName> uns bißher darumm entliche antwurt nit zuoge
+<lb break="no" n="19" />schriben, sonder, als unnser bott unns zuoerkennen geben hat, hab der <persName ref="stadtasg-actors-930">von Helmstorff</persName> dem
+<lb n="20" />botten uff unnser obgemelt schriben munntlich geantwurt, er woelle der tag ains dem
+<lb n="21" /><persName ref="stadtasg-actors-931">Ruodolffen</persName> selbs antwurt geben. Wo dem also waer, künden wir nit zu früntlicher
+<lb n="22" />nachpurschafft bedencken, sonnder hetten wir wolvermaint, uns waer von dem <persName ref="stadtasg-actors-930">von
+<lb n="23" />Helmstorff</persName> uff unnser schriben der furgeslagen rechtbott nach früntlich antwurt worden
+<lb n="24" />und der rechtbott uns angenomen. Die wyle nun der <persName ref="stadtasg-actors-930">von Helmstorff</persName> uns entlich
+<lb n="25" />antwurt nit geben noch der recht bott ains nit angenommen hat, koenndten wir nit
+<lb n="26" />anders, dann unnserthalb zuverachtung achten. Die wyl aber der obgedacht <persName ref="stadtasg-actors-931">Ruodolff</persName>
+<lb n="27" />unnß ye zuoversprechen stat, und in zuo billichen rechten zuo handthaben schuldig
+<lb n="28" />syen, so ist an üwer wyshait und lieb früntschafft unnser vlyssig bitt, wo der
+<lb n="29" /><persName ref="stadtasg-actors-930">von Helmstorff</persName> der rechtbott dehains an nemen und sich understen unfrüntlichs
+<lb n="30" />mit unnserm obgedachten hindersaessen ze handeln, des wir doch nit hoffen, und
+<lb n="31" />die üwern zuo unfrüntschafft wider unnsern hindersaessen bewegen und uffpringen
+<lb n="32" />woelte so dann den üwern des nit statt zetuond, als wir des ungezwyfelt sin
+<lb n="33" />und umb üwer gutt früntschafft mit flyß früntlich gedienen woellen. Und bitten
+<lb n="34" />des üwer verschriben antwurt mit disem unnserm botten. Datum an <origDate when="1486-09-22">sant Mauricis
+<lb n="35" />tag anno etc. LXXXVIo</origDate>.
+<lb n="36" /><orgName ref="stadtasg-actors-68" role="issuer">Burgermaister und
+<lb n="37" />raut zuo Überlingen</orgName>.
+<pb facs="StadtASG_Missive_435_888.JPG" n="2" />
+<lb n="38" />Den ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raute zuo
+<lb n="39" />sant Gallen</orgName> unnsern insonnder lieben und
+<lb n="40" />guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

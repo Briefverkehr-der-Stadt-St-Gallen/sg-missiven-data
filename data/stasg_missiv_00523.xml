@@ -1,0 +1,98 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 523</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_523_1067/1068</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Lukas Falk, Werkmeister zu St. Gallen, teilt den an der Tagsatzung in Luzern versammelten St. Galler Ratsboten mit, dass er mit seiner Arbeit in Uri bald fertig ist. Er möchte wissen, wann er in St. Gallen zurück erwartet wird, da er noch etwas zu erledigen habe. Er bittet um eine schriftliche Antwort mit dem Zeiger dieses Briefes, wann sie ihn in St. Gallen brauchen würden. Ferner habe er vernommen, dass die Schwyzer eine neue Brücke bauen möchten, und er bittet die St. Galler um Fürsprache für diesen Auftrag bei den Schwyzer Ratsboten, die auch an der Tagsatzung sind.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-267">Werkmeister</term>
+                    <term ref="stadtasg-keywords-87">Empfehlung</term>
+                    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                    <term ref="stadtasg-keywords-345">Zeiger</term>
+                    <term ref="stadtasg-keywords-565">Auftrag</term>
+                    <term ref="stadtasg-keywords-364">Tagsatzung</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1072">Lukas Falk (II)</persName>                    <date>1501-07-26</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-1103">Ratsboten zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-07-14</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_523_1067.JPG" n="1"/>
+<p>
+<lb n="1"/>Min guottwillig dienst und was ich eren und guotz ver
+<lb break="no" n="2"/>mag zuovor bereit fürsichtigen wisen. Ich thuon üch ze wüssen,
+<lb n="3"/>dz ich hie zuo <placeName ref="stadtasg-places-70">Ure</placeName> bald fertig und grech bin mins wercks
+<lb n="4"/>halb, so ich vor handen hab, und darnach, so bald ich mag,
+<lb n="5"/>wil ich widerumm zuo üch kommen. Ouch lieben hern weltt
+<lb n="6"/>ich gern wüssen, wie bald ich zuo üch mueste, und wie nott
+<lb n="7"/>es tett, wann ich hett noch etwas anklein vorhanden zemachen
+<lb n="8"/>hie, wenn ich dz werch uss hett gemacht, und welt dz gern mitt
+<lb n="9"/>üwerm günst und willen verbringen, darumm land mich wüssen
+<lb n="10"/>geschrifftlich by zeiger ditz brieffs, wie bald ir mich muessen hon.
+<lb n="11"/>Ouch getrüwen günstigen herrn an üch ist min gar früntlich
+<lb n="12"/>pitt, die <orgName ref="stadtasg-actors-522">herrn von Schwitz</orgName> habent ein bruggen ze
+<lb n="13"/>machen, darvon ist wol etwz an mich gelangt, dz ir so wol
+<lb n="14"/>tuegent und mich gegen inen fürdrint und sy von minen
+<lb n="15"/>wegen bittind, mich darzuo lassen ze kommen, und ob irs moechten
+<lb n="16"/>überkommen, die selben <orgName ref="stadtasg-actors-522">herren von Schwitz</orgName>, so dann in bottschafft wiss
+<lb n="17"/>ouch mit üch sind, dz sy mir mitt der bruggen uffenthielten,
+<lb n="18"/>byß zuo usstragen, wer mir fast lieb, wann ir selbs wol
+<lb n="19"/>wüssent, dz ich yetz unnmuessig bin. Und land mich üch befolhen
+<lb n="20"/>sin, wann in üwerm willen ze leben, bin ich all weg geneigt.
+<lb n="21"/>Datum <origDate when="1501-07-26">mentag nach Jacobi im XVco Io</origDate>.
+<lb n="22"/>Üwer williger <persName ref="stadtasg-actors-1072" role="issuer">Lucas
+<lb n="23"/>Falck</persName>, werckmeister zuo
+<lb n="24"/><placeName ref="stadtasg-places-38">sannt Gallen</placeName>.
+<pb facs="StadtASG_Missive_523_1068.JPG" n="2"/>
+<lb n="25"/>Den fürsichtigen ersam wisen
+<lb n="26"/><ex>nomen nominandum</ex> <orgName ref="stadtasg-actors-1103" role="recipient">botten von Santgallen</orgName>,
+<lb n="27"/>so yetz zuo <placeName ref="stadtasg-places-69">Lutzern</placeName> uffem
+<lb n="28"/>tag sind, minen gnedigen
+<lb n="29"/>herrn.
+</p>
+        </body>
+    </text>
+</TEI>

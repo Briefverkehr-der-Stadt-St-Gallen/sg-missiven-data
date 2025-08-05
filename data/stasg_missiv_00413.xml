@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 413</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_413_841/842</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Dekan und Kapitel des Stifts zu Konstanz antworten Bürgermeister und Rat zu St. Gallen, dass sie den St. Galler Vorschlag, dass die Leute von Almensberg dort Gericht halten sollen, bis die Auseinandersetzung mit Ritter Ludwig von Helmsdorf und dem Vogt zu Arbon beigelegt ist, ablehnen, und schlagen vor, dass die Leute von Almensberg alle Gerichtssachen solange ruhen lassen. Sollten die St. Galler nicht einverstanden sein, bieten Dekan und Kapitel an, Ludwig von Helmsdorf zu fragen, ob er mit dem St. Galler Vorschlag einverstanden sei. Sie bitten um eine Antwort.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-240">Ritter</term>
+<term ref="stadtasg-keywords-263">Vogt</term>
+<term ref="stadtasg-keywords-108">Dekan</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-767">Dekan und Kapitel des Stifts zu Konstanz</orgName>                    <date>1475-02-17</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-10-22</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_413_841.JPG" n="1" />
+<p>
+<lb n="1" />Unnsern früntlichen willen zuovor allzyt ersamen wysen bsonder lieben fründ. Der irrung
+<lb n="2" />halb zuo <placeName ref="stadtasg-places-261">Albersperg</placeName>, darumb ir uff den edeln strengen herrn <persName ref="stadtasg-actors-768">Ludwigen von
+<lb n="3" />Helmstorff</persName>, rittern, ustrag und recht ufnemen doch mit beding, dz die armen
+<lb n="4" />lüt dazwüschen gen <placeName ref="stadtasg-places-261">Albersperg</placeName> zu gericht gangen bis zu ennd und ustrag
+<lb n="5" />des rechten, auch die fraevel, so unnser vogt zuo <placeName ref="stadtasg-places-5">Arben</placeName> zuo rechtvertigen
+<lb n="6" />hab, die wyl ouch anstanden, darumb ir unns dann yetzo geschriben, haben
+<lb n="7" />wir wol vernommen und mainen, dz in üwer aigen verstenntnus nit gebil
+<lb break="no" n="8" />lichet sin soelt, dz die armen lut vor entschaid oder ustrag dieselben gericht
+<lb n="9" />ze suochen oder ze halten angesonnen werden soellen, sonder das dasselb bis zuo us
+<lb break="no" n="10" />trag des rechtens billich in ruo still stand yedem tail unbedingt und da
+<lb n="11" />zuo demselben ustrag, den wir ouch nach allem vermoegen gegen herrn <persName ref="stadtasg-actors-768">Ludwi
+<lb break="no" n="12" />gen</persName> fürdern woellen. Wil aber das üwers willens nit sin, so wellen wir
+<lb n="13" />ain ansaug herrn <persName ref="stadtasg-actors-768">Ludwigen</persName> erkennen lassen, ob sollich gericht gan und übung
+<lb n="14" />untz zu demselben ustrag still stan süll oder nit. Und gewarten des üwer
+<lb n="15" />fruntlich antwurt. Datum uff <origDate when="1475-02-17">frytag vor dem sunntag Re
+<lb break="no" n="16" />minicere anno etc. LXXVto</origDate>.
+<lb n="17" /><orgName ref="stadtasg-actors-767" role="issuer">Techan und capitel
+<lb n="18" />des stiffts zu Costentz</orgName>.
+<pb facs="StadtASG_Missive_413_842.JPG" n="2" />
+<lb n="19" />Den ersamen wysen unnsern besondern guoten
+<lb n="20" />fründen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat zuo sant
+<lb n="21" />Gallen</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

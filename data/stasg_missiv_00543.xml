@@ -1,0 +1,90 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 543</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_543_1107/1108</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die in Baden versammelten Räte der Städte und Länder der Eidgenossenschaft teilen Bürgermeister und Rat zu St. Gallen mit, dass ihre Gesandten aus Mailand, die dort Geschütze für die Beschiessung Luganos erhielten, zurückgekehrt seien. Darauf hätten sie die Büchsenmeister dahin beordert, um das Schloss zu beschiessen. Nun berichten diese aber, dass sie zu wenig Pulver hätten. Die Räte der Eidgenossen wollen deshalb wissen, ob St. Gallen die nötige Menge hat oder in der Stadt herstellen kann und was das kostet; sie würden in bar zahlen. Wenn sie kein Pulver herstellen könnten, sollten die St. Galler ihr eigenes geben. Sie bitten um eine Antwort mit dem gleichen Boten.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-392">Belagerung</term>
+<term ref="stadtasg-keywords-327">Waffe</term>
+<term ref="stadtasg-keywords-326">Büchse</term>
+<term ref="stadtasg-keywords-670">Büchsenmeister</term>
+<term ref="stadtasg-keywords-597">Schiesspulver</term>
+<term ref="stadtasg-keywords-540">Schloss</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-534">Eidgenössische Räte</orgName>   <placeName ref="stadtasg-places-53">Baden</placeName>                 <date>1512-09-09</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-22</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_543_1107.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich willig dienst und was wir eren und guotz vermoegend zuo vorr frommen fürsichtigenn wisen sunders
+<lb n="2"/>guoten fründ und getrüwen lieben eitdgnosen. Als wir yetz an <placeName ref="stadtasg-places-311">Meyland</placeName> unnser bottschafft geschickt, die
+<lb n="3"/>denn wider anheimsch kumen von ettlich geschütz von <placeName ref="stadtasg-places-311">Meyland</placeName> zuo erlangen und das gen <placeName ref="stadtasg-places-383">Lowis</placeName>
+<lb n="4"/>zuo vergen, wie denn das geschehen zuo sampt anderm geschütz, so och da ist, da haben wir büchsen
+<lb n="5"/>meister da hin ver ordnet, das schloß zuo beschiesen denn das si mangel habend an pullferr und
+<lb n="6"/>so aber groser cost uff die sach gaut und mangel und presten an pfulwer ist, wellend wir das daran nit
+<lb n="7"/>lassen erwinden und sind zuo rat worden, XXIIII donnen pulfer hin in zuo schicken. Darumm ist an
+<lb n="8"/>üwer lieb unnser bger, ir wellend die, so by üch bulfer machend, erkunnen, ob si so vil bulfers habend
+<lb n="9"/>oder vermoegend zuo machen, so zuo grosen stucken dienend, oder, wo si nit so vil hettend, ir üwers
+<lb n="10"/>bulvers darzuo geben, damitt unnserm an sehen gelept werd, und och by disem botten von stund an
+<lb n="11"/>wissen lassen, ob soelichs vorhanden und was ein dunn costen werd, wellen wir das gelt also bar
+<lb n="12"/>darumm geben und soelichs lassen verfergen, duon wir üwer lieb also im aller besten zuo wissenn.
+<lb n="13"/>Datum <origDate when="1512-09-09">dunstag post nativitatis Marie anno etc. XII</origDate>.
+<lb n="14"/><orgName ref="stadtasg-actors-534" role="issuer">Von stett und lendern gemeiner unnserer Eitdgnoschafft raet</orgName>
+<lb n="15"/>der zit zuo <origPlace ref="stadtasg-places-53">Baden</origPlace> in <placeName ref="stadtasg-places-266">Ergoew</placeName> by enander versamlett.
+<pb facs="StadtASG_Missive_543_1108.JPG" n="2"/>
+<lb n="16"/>Den frommen fürsichtigen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister
+<lb n="17"/>und rat zuo sant Gallen</orgName> unnsern sunders guoten
+<lb n="18"/>fründen und getrüwen lieben eitdgnosen.
+</p>
+        </body>
+    </text>
+</TEI>

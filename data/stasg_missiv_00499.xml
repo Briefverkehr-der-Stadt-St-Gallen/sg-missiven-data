@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 499</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_499_1019/1020</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hans Kiel, Unterschreiber von Luzern, teilt dem Hans Schenkli, Stadtschreiber zu St. Gallen, mit, dass er, nachdem er die St. Galler um ein Wappenfenster gebeten und dieses trotz Zusage nicht erhalten hatte, ein solches auf eigene Kosten in Auftrag gegeben und zu denen der übrigen Eidgenossen gehängt habe. Er bittet um die Erstattung der Summe von vier Gulden und drei Kreuzer, die er dafür aufgewendet hatte.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-564">Fenster</term>
+<term ref="stadtasg-keywords-565">Auftrag</term>
+<term ref="stadtasg-keywords-211">Kosten</term>
+<term ref="stadtasg-keywords-351">Handwerk</term>
+<term ref="stadtasg-keywords-159">Stadtschreiber</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1079">Hans Kiel</persName>                    <date>1495-12-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-1012">Hans Schenkli</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-07</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_499_1019.JPG" n="1"/>
+<p>
+<lb n="1"/>Min gantz guettwillig früntlich dienste altzit zuevor fromer
+<lb n="2"/>furneamer wolgeachter günstiger wolgeliepter herre. Als
+<lb n="3"/>ich dis vergangnen sumers uch bittlich an kert hab, min
+<lb n="4"/>gnedig herrn von <placeName ref="stadtasg-places-38">Santgallen</placeName> umb ein fenster ze bitt, weiß
+<lb n="5"/>ich nit anders, ir mir demnach mit antwurt begegnet,
+<lb n="6"/>das sy mir das gnedigklich zue gesagt haben. Wo dz aber
+<lb n="7"/>nit beschechen, das noch anzebringen, dann ich hab dz
+<lb n="8"/>uff üwer wol vertruwen gemacht und dz zue andern miner
+<lb n="9"/>herrn der eidgnossen wappen gesetzt, und cost fur alles dem
+<lb n="10"/>glaser, dz ich usgericht, IIII gulden III crutzer. Darumb tuend
+<lb n="11"/>har in, als ich vertruw. Wil ich umb min gnedig herrn
+<lb n="12"/>von <placeName ref="stadtasg-places-38">Santgallen</placeName> und uch verdienen. Datum <origDate when="1495-12-12">sambstag
+<lb n="13"/>nach Nicolai anno etc. LXXXXV</origDate>.
+<lb n="14"/>Uwer williger <persName ref="stadtasg-actors-1079" role="issuer">Hans Kiel</persName>
+<lb n="15"/>underschriber zue <placeName ref="stadtasg-places-69">Lutzern</placeName>.
+<pb facs="StadtASG_Missive_499_1020.JPG" n="2"/>
+<lb n="16"/>Dem frommen furneamen wolgeachten
+<lb n="17"/>minem besonderm wolgeliepten
+<lb n="18"/>herrn und fründ dem stattschriber<note>Stadtschreiber in St. Gallen im Jahr 1495 war <persName ref="stadtasg-actors-1012" role="recipient">Hans Schenkli</persName>.</note>
+<lb n="19"/>zue Santgallen.
+</p>
+        </body>
+    </text>
+</TEI>

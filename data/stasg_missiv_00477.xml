@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 477</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_477_975/976</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Konrad Üsslinger zu Villingen und Hans Bletz von Rotenstein bitten Bürgermeister und Rat zu St. Gallen, die Zinsen, nämlich achtzig Gulden für Konrad und 20 Gulden für Hans, die am 25. Mai fällig gewesen wären, in Villingen zu bezahlen, da sie das Geld benötigen. Sie bitten um eine schriftliche Antwort mit dem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-10">Zins</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-126">Reichsstadt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1032">Konrad Üsslinger von Villingen</persName><persName ref="stadtasg-actors-1033">Hans Bletz von Rotenstein</persName><placeName ref="stadtasg-places-22">Villingen</placeName>                    <date>1491-07-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-23</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_477_975.JPG" n="1" />
+<p>
+<lb n="1" />Unser willig dienst zuo vor ersamen wisen lieben und guoten fründe. Wir laussen üch wissen
+<lb n="2" />der hundert guldin vervalles zinses halb <date when="1491-05-25">uff sant Urbans tag</date> naest vergangen, so ir uns
+<lb n="3" />schuldig sind, namlich mir <persName ref="stadtasg-actors-1032">Cuonrat Üsslinger</persName> achczig und den <persName ref="stadtasg-actors-1033">Bleczen</persName> zwainczig guldin lut der
+<lb n="4" />zins brieff, so wir von üch dar umb habend. Da ist an üwer wißhait gar unser
+<lb n="5" />früntlich bitt, ir wellent uns soellichen zinse, hundert guldin wie obstaut, gen <placeName ref="stadtasg-places-22">Vilingen</placeName>
+<lb n="6" />in die statt antwurten und die da weren und zalen, wie ir das schuldig sind,
+<lb n="7" />und wellend uns die zalung nit lenger verziehen, dann wir des der zit zuo
+<lb n="8" />unserm bruch wol bederffen und notturfftig sind, und sehend an, dz wir üch soellich
+<lb n="9" />gelt und des wert dar umb gütlich und eirberlich geben und bezalt haben,
+<lb n="10" />und wir haben gemaint, die wile das der erst gevallen zins ist, ir
+<lb n="11" />hettent uns den gesant glich nach dem zile und hetten den unß nit so
+<lb n="12" />lang verzogen. Und tuond her inn, als wir üch des und alles guotes vertruwen,
+<lb n="13" />und laussen uns nit an soellicher bezalung. Das wellen wir mit willen und
+<lb n="14" />gern umb üwer wißhait verdienen. Geben zuo <origPlace ref="stadtasg-places-22">Vilingen</origPlace> an <origDate when="1491-07-12">zinstag vor sant
+<lb n="15" />Margreten der hailgen iunckfrowen tag anno etc. im LXXXXIo</origDate>, und üwer
+<lb n="16" />geschriben antwrt mit dem botten.
+<lb n="17" /><persName ref="stadtasg-actors-1032" role="issuer">Conratt Üsslinger</persName> zuo <placeName ref="stadtasg-places-22">Vilingen</placeName>
+<lb n="18" />und <persName ref="stadtasg-actors-1033" role="issuer">Hans Blecz</persName> von <placeName ref="stadtasg-places-333">Roten
+<lb break="no" n="19" />stain</placeName>, gevettern.
+<pb facs="StadtASG_Missive_477_976.JPG" n="2" />
+<lb n="20" />Den ersamen und wysen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="21" />und raute des hailgen richs statt sant
+<lb n="22" />Gallen</orgName> unsern lieben und guten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

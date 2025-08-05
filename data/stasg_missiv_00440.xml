@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 440</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_440_897/898</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Feldkirch teilen Bürgermeister und Rat zu St. Gallen mit, dass ihrem Bürger Hans Kyber wegen eines vom Landschreiber zu Appenzell geschlichteten Konflikts befohlen wurde, dem St. Galler Bürger Rudolf Herr auf den 13. Januar drei Pfund und fünf Schilling zu bezahlen, wozu er eingewilligt hatte. Dies ist aber nicht geschehen, weshalb Rudolf Herr nun sich daran mache, das Geld einzutreiben. Ammann und Rat zu Feldkirch bitten deshalb Bürgermeister und Rat zu St. Gallen, Rudolf Herr dazu zu bringen, damit noch zu warten, da der Termin erst vor kurzer Zeit verstrichen sei.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-449">Landschreiber</term>
+<term ref="stadtasg-keywords-120">Vermittlung</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-30">Zahlung</term>
+<term ref="stadtasg-keywords-59">Frist</term>
+<term ref="stadtasg-keywords-448">Einwilligung</term>
+<term ref="stadtasg-keywords-70">Termin</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-63">Ammann und Rat zu Feldkirch</orgName>                    <date>1487-01-21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-05-20</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_440_897.JPG" n="1" />
+<p>
+<lb n="1" />Unnser frünntlich willig diennst zuovoran berayt ersammen
+<lb n="2" />und wysen besonnder lieben unnd guoten fründ. Uns haut für
+<lb break="no" n="3" />braucht unnser mittburger <persName ref="stadtasg-actors-942">Hanns Kyber</persName>, wie er der spenn halb,
+<lb n="4" />so sich zwüschen üwerm burger <persName ref="stadtasg-actors-943">Ruedin Heren</persName> und im gehalten,
+<lb n="5" />darumb wir üch dann von sinen wegen vor och geschriben haben,
+<lb n="6" />durch den lanndtschryber von <placeName ref="stadtasg-places-8">Appenzel</placeName> vertragen worden sy,
+<lb n="7" />also das er im uff <date when="1487-01-13">sant Hilaryen tag naechst verruckt</date> drüw
+<lb n="8" />pfund und fünf schilling pfening geben soelle, dozemaul er och
+<lb n="9" />sovil verschafft, das er nit zwyfel gehept hab, si sölten im uff
+<lb n="10" />die zeit von sinen wegen geantwurt worden sein. Nun so aber
+<lb n="11" />das nit beschehen sy, lanng in an, das derselb <persName ref="stadtasg-actors-943">Ruedin Her</persName> vermayn,
+<lb n="12" />schaden daruff ze tryben. Hierumb angesehen die kurtzen zeit,
+<lb n="13" />so von <date when="1487-01-13">Hilary</date> bißher verloffen ist, so bitten wir üwer ersamm
+<lb n="14" />wyßhayt gar mit früntlichem flyß, ir woellend uns unsern
+<lb n="15" />willen, den genanten üwern burger guetlich underwysen, damit
+<lb n="16" />er sich von unnserm burger solicher bezalung noch benuege on
+<lb n="17" />schaden. Das woellen wir umb üwer ersam wyßhayt in der
+<lb n="18" />glych und merern sachen mit früntlichem willen verdienen.
+<lb n="19" />Geben uff <origDate when="1487-01-21">sontag nach sant Sebastione anno domini etc.
+<lb n="20" />LXXXVII</origDate>.
+<lb n="21" /><orgName ref="stadtasg-actors-63" role="issuer">Amman und raut
+<lb n="22" />ze Veltkirch</orgName>.
+<pb facs="StadtASG_Missive_440_898.JPG" n="2" />
+<lb n="23" />Den ersammen unnd wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermayster und raut
+<lb n="24" />der statt sannt Gallen</orgName> unnsern besondern lieben
+<lb n="25" />unnd guten frünnden.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,104 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 485-01</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Entwurf.</p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_485_991</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hans Brendler und seine Ehefrau Barbara Lehmann sowie ihr Bruder Ulrich Lehmann, Bürger zu St. Gallen, verkünden, dass Barbaras und Ulrichs Bruder Heinrich Lehmann ihnen 44 Gulden, zwei Schilling und sechs Pfennige aus dem Erbe ihrer Mutter schuldet. Barbara und Ursula Lehmann, die Witwe von Ludwig Vogelweider, wiederum schulden Heinrich zehn Gulden. Heinrich bezahlte 34 Gulden, zwei Schilling und sechs Pfennige, womit die Schulden getilgt sind. Hans Brendler und Ulrich Lehmann besiegeln die Urkunde.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-5">Erbe</term>
+<term ref="stadtasg-keywords-177">Witwe</term>
+<term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-281">Entwurf</term>
+<term ref="stadtasg-keywords-56">Urkunde</term>
+<term ref="stadtasg-keywords-297">Ehefrau</term>
+<term ref="stadtasg-keywords-630">Bruder</term>
+<term ref="stadtasg-keywords-174">Rechnung</term>
+<term ref="stadtasg-keywords-265">Quittung</term>                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1067">Hans Brendler</persName><persName ref="stadtasg-actors-1068">Barbara Lehmann</persName><persName ref="stadtasg-actors-1069">Ulrich Lehmann</persName>                    <date>1493-09-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-763">Heinrich Lehmann</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-02</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_485_991.JPG" n="1"/>
+<p>
+<lb n="1"/>Wir nachbenempten <persName ref="stadtasg-actors-1067" role="issuer">Hans Prendler</persName> und <persName ref="stadtasg-actors-1068" role="issuer">Barbara Lemenin</persName>,
+<lb n="2"/>sin elich wip, och <persName ref="stadtasg-actors-1069" role="issuer">Uelrich Lemann</persName>, der selben frowen elicher
+<lb n="3"/>prueder, burgere zue sant <placeName ref="stadtasg-places-38">Gallen</placeName>, tuend kunt aller meng
+<lb break="no" n="4"/>klich mit disem brieff, als unns dann <persName ref="stadtasg-actors-763" role="recipient">Hanrich Lemann</persName>,
+<lb n="5"/>unnser schwaeger und prueder, vierzig und vier rinscher gulden
+<lb n="6"/>II <choice><abbr>ß.</abbr><expan>Schilling</expan></choice> und VI <choice><abbr>d.</abbr><expan>Denar</expan></choice> von wegen unser schwüger und muetter selgen verlassen
+<lb n="7"/>erb und guetz nach lut ainer rechnung und guetlicher
+<lb n="8"/>sprüchs von etlichen unnsern gueten fründen und
+<lb n="9"/>goennern zu<gap/>chen unns ußgangen zue bezalen
+<lb n="10"/>schuldig worden ist, dar an wir die vorgenanten
+<lb n="11"/><persName ref="stadtasg-actors-1068">Barbara</persName>, <persName ref="stadtasg-actors-1067">Hansen Prendlers</persName> elich husfrow, und <persName ref="stadtasg-actors-1070">Ursula
+<lb n="12"/>Lemenin</persName>, <persName ref="stadtasg-actors-986">Ludwig Vogelwaiders</persName> seligen nach
+<lb n="13"/>gelaßne elich witwen, zechen rinscher gulden im hin
+<lb n="14"/>wider umb zethuend pflichtig sind, das
+<lb n="15"/>unns derselb <persName ref="stadtasg-actors-763">Hainrich Lemann</persName>, unnser schwaeger
+<lb n="16"/>und prueder, uff die vormelten zechen rinscher gulden,
+<lb n="17"/>so im ustend, vierund dressig rinscher gulden
+<lb n="18"/>zwen schilling sechs pfennig also bar usgericht
+<lb n="19"/>und uns dar mit die obgemelten vier und
+<lb n="20"/>vierzüg gulden zwen schilling sechs pfennig
+<lb n="21"/>gantzlich und gar gewert und bezalt hat.
+<lb n="22"/>Hierumb so sagen und lassen wir für uns
+<lb n="23"/>und unser erben inn und sin erben der
+<lb n="24"/>ietzgemelten vier und vierzig gulden zwen
+<lb n="25"/>schilling sechs pfennig und aller vordrungen,
+<lb n="26"/>so wir des halben zue im gehaben moechten,
+<lb n="27"/>alklich und gantz quit fry ledig und los in
+<lb n="28"/>crafft dis briefs. Zue urkund so haben wir,
+<lb n="29"/>nemlich ich <persName ref="stadtasg-actors-1067" role="testis">Hans Prendler</persName> für mich,
+<lb n="30"/>die genant <persName ref="stadtasg-actors-1068" role="testis">Barbara</persName>, min wip, und unser erben
+<lb n="31"/>und ich <persName ref="stadtasg-actors-1069" role="testis">Uelrich Lemann</persName> für mich und
+<lb n="32"/>min erben, unser insigel gehenckt an disen
+<lb n="33"/>brief. Der geben ist an <origDate when="1493-09-04">mitwuch nach
+<lb n="34"/>sant Verenen tag anno LXXXXIII</origDate>.
+</p>
+        </body>
+    </text>
+</TEI>

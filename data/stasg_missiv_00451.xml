@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 451</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00454.xml">454</ref>.</p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_451_919/920</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die Ratsboten an der Tagsatzung zu Baden bitten Bürgermeister und Rat zu St. Gallen, eine Ratsbotschaft auf den 8. Juli nach Luzern zu senden, wo am folgenden Tag besprochen werden soll, wie man die Reisläuferei verhindern kann, da dadurch grosse Schäden entstehen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-526">Ratsbote</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-344">Solddienst</term>
+<term ref="stadtasg-keywords-300">Schaden</term>
+<term ref="stadtasg-keywords-254">Söldner</term> 
+<term ref="stadtasg-keywords-181">Verbot</term>
+<term ref="stadtasg-keywords-620">Herberge</term>
+<term ref="stadtasg-keywords-27">Eid</term>
+<term ref="stadtasg-keywords-305">Ehre</term>
+<term ref="stadtasg-keywords-263">Vogt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-534">Eidgenössische Räte</orgName> <placeName ref="stadtasg-places-53">Baden</placeName>                    <date>1488-06-25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-05-26</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_451_919.JPG" n="1" />
+<p>
+<lb n="1" />Unnser frünntlich willig diennst und was wir liebs und guots vermoegen allzit zuovor bereit fürsichtigenn
+<lb n="2" />wisen sunder guoten fründe und getrüwen lieben eydtgnossen. Unns begegnet soelicher gebrechen und wider
+<lb break="no" n="3" />wertickeit der louffenden knechthalb, so sich allenthalb in unnser <orgName ref="stadtasg-actors-750">Eydtgnoschafft</orgName> erheben und wider eyd
+<lb n="4" />und er, ouch unnser hoche verbott an froembd reisen ziechen, das ye not ist, wo wir unnsern stat und wesen
+<lb n="5" />ennthallten wellen, soellichs mit gemeinem und treffenlichem rat zuo verkommen, also haben wir yetz
+<lb n="6" />der und anndrer sachenhalb ein tag in die statt <placeName ref="stadtasg-places-69">Lutzerrnn</placeName> bestimpt und gesetzt, uff <date when="1488-07-08">zinstag nach
+<lb n="7" />sanntt Uolrichs tag</date> nechstkünfftig nachts an der herberg zuo sin. Daruff begeren wir an üch, mit
+<lb n="8" />ganntzem errnnst, üwer ersam bottschafft zuo dem selben tag ze vertigen und daselbs unnserrnn
+<lb n="9" />ratslag und ansechen zuo vernemen, wie wir soelich geloeiff und mercklich beswaerd abstellen mogen,
+<lb n="10" />damit ir und annder, so wir ouch beschriben haben, sich darnach wüssen zuo richten. Datum unnder
+<lb n="11" />des frommen, vesten <persName ref="stadtasg-actors-958">Ludwigen von Dyespach</persName>, diser zit unnser <orgName ref="stadtasg-actors-750">Eydgnoschafft</orgName> vogts zuo <placeName ref="stadtasg-places-53">Baden</placeName> sigel
+<lb n="12" />innamen unnser aller <origDate when="1488-06-25">mitwuchen nach Johannis baptiste anno etc. LXXXVIIIo</origDate>.
+<lb n="13" />Von stetten und laennderrnn
+<lb n="14" /><orgName ref="stadtasg-actors-534" role="issuer">gemeiner Eydtgnoschafft raet</orgName>
+<lb n="15" />yetz zuo <origPlace ref="stadtasg-places-53">Baden</origPlace> versamellt.
+<pb facs="StadtASG_Missive_451_920.JPG" n="2" />
+<lb n="16" />Den fürsichtigen wisen unnsern besunder guoten fründen
+<lb n="17" />und getrüwen lieben eydtgnossen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und
+<lb n="18" />rat der statt Sannttgallen</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

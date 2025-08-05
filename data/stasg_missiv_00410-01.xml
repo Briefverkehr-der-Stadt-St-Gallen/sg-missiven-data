@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 410-01</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Abschrift.</p></note></notesStmt> 
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_410_01/835</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen bitten Bürgermeister und Rat zu Konstanz im Namen des St. Galler Hintersässen Heinrich Grüninger, genannt Eggshus, ihm ein freies Geleit nach Konstanz zu geben, damit er seine Auseinandersetzung mit dem Konstanzer Bürger Heinrich Schüchzer beilegen kann. Zudem sei Heinrich Grüninger bereit, sich dem Konstanzer Gericht zu stellen, falls Schüchzers Forderungen berechtigt sein sollten. Die St. Galler bitten um eine Antwort mit dem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+  <term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-2">Geleit</term>
+<term ref="stadtasg-keywords-168">Abschrift</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                    <date>1472-12-02</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-04-15</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_410_835.JPG" n="1" />
+<p>
+<lb n="1" /><orgName ref="stadtasg-actors-56" role="recipient">Denen von Costentz</orgName> von <persName ref="stadtasg-actors-907">Eggshuß</persName> wegen.
+<lb n="2" />Unser früntlich willig dienst und waz wir allzit eren und guotz
+<lb n="3" />vermögen zuovoran fürsichtigen wysen sunder lieben und guoten fründ.
+<lb n="4" />Uns hant fürbracht unser bymann und hindersäss <persName ref="stadtasg-actors-907">Hainrich Grüninger, genant
+<lb n="5" />Eggshuß</persName>, wie daz im ain brief hinder üwerm burger <persName ref="stadtasg-actors-908">Cuonrat Fügen</persName>
+<lb n="6" />zum Wissen Crütz<note>Wohl Name eines Gasthauses.</note> verhefft und verlait sye, über daz und er nitt wisse,
+<lb n="7" />yeman icht daby schuldig zuo sind. Zuo dem so bring in üwer burger
+<lb n="8" /><persName ref="stadtasg-actors-909">Hainrich Schuochtzer</persName> zuo costen und schad umbillich, als er vermaint,
+<lb n="9" />desßhalb er ains gelaitz von üwer wysßhait zehaben notturfftig sye,
+<lb n="10" />und hat uns umb hilff und fürdernusß, im die an üwer wisßhait
+<lb n="11" />zegeben, angerüfft und gebetten etc. Hierumb fürsichtigen wysen sunder
+<lb n="12" />lieben und guoten fründ bitten wir üwer wisßhait und guoten fründschaft,
+<lb n="13" />dem genanten <persName ref="stadtasg-actors-907">Eggshuß</persName> ain fry sicherhait und gelait acht tag für üch
+<lb n="14" />und die üwern, so üch zuoversprechen stünd, zegeben, zuo üch zekomen,
+<lb n="15" />by üch zuo sind und wider von dannen an sin sicher gewarsame, sin sachen
+<lb n="16" />vor üch ußzetragen. Hat dan yemand icht zuo im ansprach, der
+<lb n="17" />wil er auch rechtens vor üwer wisßhait sin. Und wollen üch hierin
+<lb n="18" />also früntlich ze bewisen, als wir üch mit sunderhait vertruwen und in derglichen
+<lb n="19" />und meren sachen umb üwer wisßhait und die üwern ze beschulden und zever
+<lb break="no" n="20" />dienen haben. Wollen und begerend darumb üwer früntlich verschriben antwurt
+<lb n="21" />by dem botten. Geben uff <origDate when="1472-12-02">mittwochen nach Andree apostoli anno domini
+<lb n="22" />etc. LXXIIo</origDate>.
+<lb n="23" /><orgName ref="stadtasg-actors-148" role="issuer">Burgermaister und rat
+<lb n="24" />zuo Santgallen</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 3988</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Laut Rückvermerk wurde die Missive am 2. Januar 1650 vor dem Rat verlesen. Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_03981.xml">3981</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_3988_16109/16112</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich teilen Bürgermeister und Rat zu St. Gallen mit, dass sie Doktor Wolfgang Meyer, Domprediger in Basel, an sein geschenktes Büchlein einen Beitrag von zwölf Gulden geleistet haben. Ihr Gesandter und jene von weiteren drei beschenkten evangelischen Städten hätten an der Tagsatzung zu Baden empfohlen, dass jeder Ort zehn Gulden oder Kronen leiste.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-12">Gesandter</term>
+                    <term ref="stadtasg-keywords-370">Buch</term>
+                    <term ref="stadtasg-keywords-525">Gulden</term>
+                    <term ref="stadtasg-keywords-127">Geld</term>
+                    <term ref="stadtasg-keywords-15">Unterstützung</term>
+                    <term ref="stadtasg-keywords-382">Prediger</term>
+                    <term ref="stadtasg-keywords-547">Evangelisch</term>
+                    <term ref="stadtasg-keywords-366">Religion</term>
+                    <term ref="stadtasg-keywords-364">Tagsatzung</term>
+                    <term ref="stadtasg-keywords-548">Geschenk</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1649-12-28</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>WH</persName>
+                <date>2025-01-08</date>
+            </change>
+           <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-07-21</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_3988_16109.jpg" n="1" />
+<p>
+<lb n="1" />Unßer freüntlich willig dienst sambt waß wir
+<lb n="2" />ehren liebs und guots vermögend zuvor from
+<lb n="3" />fürsichtig ehrsam wyß insonders guot fründ
+<lb n="4" />und gethreüw lieb eidtgnosßen.
+<lb n="5" />Deß hargebrachter eidtgnösßischer wohlmeinung und
+<lb n="6" />vertrauwligkeit habend üch unser gethreüwen lieben eidtgnosßen wir
+<lb n="7" />nit umbgehen wollen, zu üwerem deß beßeren
+<lb n="8" />verhalt zeberichten, waß maßen unserer und
+<lb n="9" />übriger dreyer loblicher <orgName ref="stadtasg-actors-771">evangelischer stetten</orgName>
+<lb n="10" />ehrengsandten by anlaas der jüngsten badischen
+<lb n="11" />tagsatzung dreyen herren doctor <persName ref="stadtasg-actors-1120">Wolffgang
+<lb n="12" />Meyern</persName> von <placeName ref="stadtasg-places-133">Baßel</placeName> uns sambtlich und aller
+<lb break="no" n="13" />syts dedicierten büechlins meinung dahin
+<lb n="14" />gangen, daß demselben ein jedes ohrt zehen guldin
+<lb n="15" />oder zëhen cronen ze verehren heimbegstelt syn
+<lb n="16" />solle. Daruff wir unsers theils den mitelweg
+<lb n="17" />ergriffen und imme zwölff guldin zukomen
+<lb n="18" />lasßen. Desßen wir üch uß deß obyngführten
+<lb n="19" />motifen alsß bester wohlmeinung hiemit zever
+<lb break="no" n="20" />stendigen dise glegenheit gebrucht. Üch unseren
+<lb n="21" />gethreüwen lieben eidtgnosßen hieruff nechst wünschung eines mit
+<lb n="22" />aller erwünschten wohlfahrt und glückseligkeit
+<lb n="23" />gesegneten neüwen jahrs und vil volgender
+<lb n="24" />gottes gnedigen schutz und schirm wohl befohlen.
+<lb n="25" />Datum den <origDate when="1649-12-28">28ten decembris anno 1649</origDate>.
+<lb n="26" /><orgName ref="stadtasg-actors-503" role="issuer">Burgermeister und rath
+<lb n="27" />der stat Zürich</orgName>.
+<pb facs="StadtASG_Missive_3988_16110.jpg" n="2" />
+<pb facs="StadtASG_Missive_3988_16111.jpg" n="3" />
+<pb facs="StadtASG_Missive_3988_16112.jpg" n="4" />
+<lb n="28" />Den frommen für
+<lb break="no" n="29" />sichtigen ehrsamen
+<lb n="30" />wyßen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="31" />meister und rath der
+<lb n="32" />statt s. Gallen</orgName> uns
+<lb break="no" n="33" />ern insonders guoten
+<lb n="34" />freünden und getrewen
+<lb n="35" />lieben eidtgnosßen.
+</p>
+        </body>
+    </text>
+</TEI>

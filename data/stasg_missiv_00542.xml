@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 542</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_542_1105/1106</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ritter Hans von Landau, Reichsschatzmeister, teilt Bürgermeister und Rat zu St. Gallen mit, dass die Jubiläumsgelder, die von Papst Alexander beschlossen wurden, fällig sind. Der Kaiser habe ihn mit dem Einzug beauftragt, aber er sei wegen anderen Geschäften verhindert. Stattdessen entsendet er seinen Schwager Moritz von Altmannshofen, und er bittet die St. Galler, diesem das Geld gegen eine Quittung zu übergeben.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-372">Papst</term>
+<term ref="stadtasg-keywords-642">Kardinal</term>
+<term ref="stadtasg-keywords-609">Schwager</term>
+<term ref="stadtasg-keywords-314">Anwalt</term>
+<term ref="stadtasg-keywords-265">Quittung</term>
+<term ref="stadtasg-keywords-672">Schatzmeister</term>
+<term ref="stadtasg-keywords-240">Ritter</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1134">Hans von Landau</persName><placeName ref="stadtasg-places-135">Augsburg</placeName>                    <date>1510-04-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-21</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_542_1105.JPG" n="1"/>
+<p>
+<lb n="1"/>Fürsichtigen ersamen weysen besonnder lieben freundt mein
+<lb n="2"/>freuntlich willig dinst sein euch zuvor. Die römisch kayserliche maiestät etc.,
+<lb n="3"/>mein allergenedigister herr hat mir bevolhen, das iubileum,
+<lb n="4"/>so weillend bapst <persName ref="stadtasg-actors-1139">Allexander</persName> durch weillend den cardinal
+<lb n="5"/><persName ref="stadtasg-actors-1140">Reymundo</persName> in <orgName ref="stadtasg-actors-559">Tewtsche Landt</orgName> gelegt, zuo irer maiestät hannden zu <placeName ref="stadtasg-places-38">sand
+<lb n="6"/>Gallen</placeName> zuheben und einzunemen, wie ir dan aus irer
+<lb n="7"/>kayserlichen maiestät schreiben clerlich vernemen werdet. Und dieweil
+<lb n="8"/>ich aber irer kayserlichen maiestät merkhlichen geschefft halben selbs in
+<lb n="9"/>aigner person solch iubelgelt nit erheben kan, hab ich dess
+<lb break="no" n="10"/>halben meinem swager <persName ref="stadtasg-actors-1141">Moriczen von Altmansshofen</persName> als
+<lb n="11"/>meinem anwald bevolhen, dasselb an meiner stat gegen
+<lb n="12"/>irer kayserlichen maiestät gnugsamen quittung, so er bey hendig hat,
+<lb n="13"/>zuemphahen. Langt darauf an euch mein gar freunt
+<lb break="no" n="14"/>lich bit, ir wellet im dismals als mir selbs gelauben und
+<lb n="15"/>euch darinn kayserlicher maiestät zu unndertenigem gefallen also gehor
+<lb break="no" n="16"/>samlich bewisen, das wirdet irer kayserliche maiestät sonnders zweifls
+<lb n="17"/>mit gnaden gegen euch erkhennen und ich meiner person
+<lb n="18"/>halb freuntlichs willens umb euch haben zuverdienn.
+<lb n="19"/>Datum <origPlace ref="stadtasg-places-135">Augspurg</origPlace> <origDate when="1510-04-01">prima apprilis anno etc. decimo</origDate>.
+<lb n="20"/><persName ref="stadtasg-actors-1134" role="issuer">Hanns von Landaw</persName>, ritter,
+<lb n="21"/>schaczmaister im <orgName ref="stadtasg-actors-559">Reich</orgName>.
+<pb facs="StadtASG_Missive_542_1106.JPG" n="2"/>
+<lb n="22"/>Den fürsichtigen ersamen und weysen
+<lb n="23"/><orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rate der stat
+<lb n="24"/>zu sand Gallen</orgName> meinem besonndern
+<lb n="25"/>gueten freunden.
+</p>
+        </body>
+    </text>
+</TEI>

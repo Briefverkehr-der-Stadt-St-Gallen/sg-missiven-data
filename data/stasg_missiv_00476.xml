@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 476</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_476_973/974</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Heinrich von Hewen, Dekan, und Johannes Zwick, Domherr, beide Pfleger der Kathedrale zu Konstanz, teilen Bürgermeister und Rat zu St. Gallen mit, dass dem Gotteshaus zwei Gulden Zins von Daniel Spenglers Haus in der Spisergasse und 12 Schilling Zins von Ambrosius Spenglers Haus am Kirchhof in St. Gallen zustehen, die in den letzten beiden Jahren nicht bezahlt wurden. Sie bitten deshalb um Mitteilung, falls die Häuser vergantet werden, damit die Kathedrale diese Zinsen nicht verliert.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+  <term ref="stadtasg-keywords-16">Kirchenpfleger</term>
+<term ref="stadtasg-keywords-10">Zins</term>
+<term ref="stadtasg-keywords-272">Gant</term>
+<term ref="stadtasg-keywords-108">Dekan</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1028">Heinrich von Hewen</persName><persName ref="stadtasg-actors-1029">Johannes Zwick</persName>                    <date>1491-07-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-23</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_476_973.JPG" n="1" />
+<p>
+<lb n="1" />Unnser früntlich guotwilligkait zuovor ersammen und wysen sonnder lieben fründ. Unnser lieben frowen
+<lb n="2" />buw in dem thuomb zuo <placeName ref="stadtasg-places-7">Costenntz</placeName> hat uff <persName ref="stadtasg-actors-1030">Daniel Spenglers</persName> huss an der <placeName ref="stadtasg-places-331">Spiser Gassen</placeName> zwen guldin
+<lb n="3" />iearlichs zinß und uff <persName ref="stadtasg-actors-1031">Brosius Spenglers</persName> huß am <placeName ref="stadtasg-places-332">Kirchhoff</placeName> zwoelff schilling pfening iearlichs zinß,
+<lb n="4" />innhalt der hoptbrieve darüber begriffen, da nu zwen iarzinss unbezalt usstund. Nu
+<lb n="5" />werden wir bericht, das die mit zinsen beladen und die zinß daruff nit gericht werden, deßhalb
+<lb n="6" />unnser frowen buw soelh hüser vergeen und umb zinß nichtz werden moecht. Umb
+<lb n="7" />das dann unser frow in soelhem och fürsehen und soelh huser ir unnderpfand uns unwissent
+<lb n="8" />nit vergantet werden, so bitten wir üwer wyßhait mit sonnderm vlyss, unnser frowen
+<lb n="9" />buw in dem zuofürsehen und bevolhen zuo haben, damit sy nit umb soelh zinß kome, sonnder
+<lb n="10" />unns, wa es zuo den wegen lanngen wurde, dartzuo verkhünden nach ordnung der recht und
+<lb n="11" />üch bewysen nach unnserm vertruwen. Das woellen wir umb üwer wyßhait zuo sampt
+<lb n="12" />der belonung der kungclichen muoter Maria beschulden und verglychen. Datum uff <origDate when="1491-07-12">zinstag
+<lb n="13" />vor sannt Margrethen tag anno domini etc. LXXXXI</origDate>.
+<lb n="14" /><persName ref="stadtasg-actors-1028" role="issuer">Hainrich von Hewen</persName>, fry, techan,
+<lb n="15" />und <persName ref="stadtasg-actors-1029" role="issuer">Johanns Zwick</persName>, licenciat, thuombherr,
+<lb n="16" />pflegere unnser lieben frowen buw zuo <placeName ref="stadtasg-places-7">Costentz</placeName>.
+<pb facs="StadtASG_Missive_476_974.JPG" n="2" />
+<lb n="17" />Den ersammen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raut
+<lb n="18" />zuo sant Gallen</orgName> unnsern sonndern lieben frünnden.
+</p>
+        </body>
+    </text>
+</TEI>

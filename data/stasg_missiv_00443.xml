@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 443</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_443_903/904</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Kempten bitten Bürgermeister und Rat zu St. Gallen, der Ratsdelegation von Kempten ihren Bürgermeister zu Verfügung zu stellen, damit er diese nach Nürnberg zum Kaiser begleite, wo am 29. Juni ein Streit zwischen Stadt und Kloster Kempten beigelegt werden soll. Sie bitten um eine schriftliche Antwort mit dem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+    <term ref="stadtasg-keywords-130">Ratsdelegation</term>
+<term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-115">Kloster</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-533">Bürgermeister und Rat zu Kempten</orgName>                    <date>1487-06-19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-05-23</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_443_903.JPG" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig diennst unnd was wir ern unnd guots vermügen zuovor ersamen unnd weisen besonndern lieben
+<lb n="2" />unnd guotten fründ. In unnsern anligennden sachen gegen dem abt<note>Gemeint ist Abt <persName ref="stadtasg-actors-945">Johann von Riedheim</persName>.</note> unnd <placeName ref="stadtasg-places-324">gotzhaws</placeName> by unns sein wir für die kaiserlich
+<lb n="3" />mayestatt gen <placeName ref="stadtasg-places-21">Nürmberg</placeName> zuo recht ervordert, vnnd wirt aber die versuochung der sach hinlegung inn der gütlich
+<lb break="no" n="4" />aitt vor gen unnd fürgenomen unnd also, das wir auff <date when="1487-06-29">freyttag sannt Petters tag apostoli</date> schirst zuo <placeName ref="stadtasg-places-21">Nürmberg</placeName> sein
+<lb n="5" />soellen. Wann unns nu fil an der sach gelegen, ewer ersam weißhait wol wissenlich ist, unnd denn ewer burger
+<lb break="no" n="6" />maister<note>Gemeint ist Bürgermeister <persName ref="stadtasg-actors-946">Ulrich Varnbüler</persName>.</note> ietz zuo <placeName ref="stadtasg-places-21">Nürmberg</placeName>, des wir zuo der sach notturfftig sind, so bitten wir ewer ersame weißhait, unns den
+<lb n="7" />zuo leihen, unnsern ratzbottschafften an dem ennd inn der sach des besten nach vermügen beystenndig, hilfflich
+<lb n="8" />unnd raettlich ze sein unnd unns daran nit zuoverlassen. Das begern wir umb ewer ersame weißhait, wa
+<lb n="9" />das ymer ze schulden kompt, in der gleich unnd anndern sachen mit willen zuoverdiennen. Unnd des ewer
+<lb n="10" />geschriben annttwurt by dem botten. Geben auff <origDate when="1487-06-19">zinßtag nach Veiti anno etc. LXXXVIImo</origDate>.
+<lb n="11" /><orgName ref="stadtasg-actors-533" role="issuer">Burgermaister unnd
+<lb n="12" />ratte zuo Kemptenn</orgName>.
+<pb facs="StadtASG_Missive_443_904.JPG" n="2" />
+<lb n="13" />Den ersamen unnd weysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rate der statt
+<lb n="14" />zu sannt Gallen</orgName> unnsern besonndern lieben und guten
+<lb n="15" />frünnden.
+</p>
+        </body>
+    </text>
+</TEI>

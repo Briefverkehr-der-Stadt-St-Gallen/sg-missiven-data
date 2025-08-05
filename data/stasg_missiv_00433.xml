@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 433</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_433_883/884</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Luzern bitten Bürgermeister und Rat zu St. Gallen, Gärtler von Sursee, den Gatten von Adelheid Gärtler, in das Erbe der verstorbenen St. Galler Bürgerin Elisabeth Locher einzusetzen, da dessen Ehefrau Adelheid Elisabeths nächste Verwandte sei.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+   <term ref="stadtasg-keywords-5">Erbe</term>
+<term ref="stadtasg-keywords-297">Ehefrau</term>
+<term ref="stadtasg-keywords-325">Ehemann</term>
+<term ref="stadtasg-keywords-82">Tod</term>
+<term ref="stadtasg-keywords-519">Verwandtschaft</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-575">Schultheiss und Rat zu Luzern</orgName>                    <date>1486-04-26</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-05-08</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_433_883.JPG" n="1" />
+<p>
+<lb n="1" />Unser früntlich willig dienst und was wir eren und guotz vermoegend zuo vor fürsichtigen ersamenn wisen besundernn
+<lb n="2" />guoten fründe und getrüwen liebenn eidgnossen. Wir werdent berichtet denn abgang und tod <persName ref="stadtasg-actors-927">Elß Locherin</persName>, üwer burgerin. Da
+<lb n="3" />nu die unsernn, mit namenn <persName ref="stadtasg-actors-929">Adelheit Gertlin</persName>, <persName ref="stadtasg-actors-928">Gertlis von Sursee</persName> eeliche husfrow, zuo demm selbenn verlasnen guott alß der
+<lb n="4" />naechst fründ vermeint recht zuo habenn, harumb besundernn lieben und guotten fründ, so bitten wir üwer ersamm liebe,
+<lb n="5" />demm genantenn <persName ref="stadtasg-actors-928">Gertly</persName> soemlich verfallen erbguott früntlich und guottlich verfolgenn zelassenn und imm darinn hilfflich und
+<lb n="6" />raettlich ze sinde, dz imm soemlich ann groesserenn costenn, mueg und arbeit werde. Und wo imm soemlichs früntlich nit gelangen,
+<lb n="7" />dz imm doch ein ustraglich recht ergann laussenn woellen. Dz woellenn wir umb üch früntlich beschulden und, wo es sich
+<lb n="8" />by üns begebe, gegenn üch verdienen. Und tuond harinn, dz der genant <persName ref="stadtasg-actors-928">Gertli</persName> befinden und spürenn moege, im unser
+<lb n="9" />früntlich bitte genossen habe. Datum uff <origDate when="1486-04-26">mitwuchenn ante Vocem Jocunditatis anno domini LXXXVI</origDate>.
+<lb n="10" /><orgName ref="stadtasg-actors-575" role="issuer">Schultheiss und ratte
+<lb n="11" />zuo Luczern</orgName>.
+<pb facs="StadtASG_Missive_433_884.JPG" n="2" />
+<lb n="12" />Den fürsichtigen ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister
+<lb n="13" />und ratte zuo sant Gallen</orgName> unsernn besundernn guoten
+<lb n="14" />fründe und getrüwen lieben eydgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

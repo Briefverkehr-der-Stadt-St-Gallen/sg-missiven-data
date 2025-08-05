@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 410-02</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                    <notesStmt><note><p>Abschrift.</p></note></notesStmt> 
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_410_02/836</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen bitten Jakob, der kürzlich mit der Ehefrau des St. Galler Bürgers Heinrich Brunner gesprochen hat, diesen zu fangen und den St. Gallern zu übergeben, da er den Aufforderungen der St. Galler nicht nachgekommen sei.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-168">Abschrift</term>
+<term ref="stadtasg-keywords-46">Gefangennahme</term>
+<term ref="stadtasg-keywords-297">Ehefrau</term>                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                    <date>1472-12-03</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-906">Jakob</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-04-08</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_410_836.JPG" n="1" />
+<p>
+<lb n="1" />Unser früntlich willig dienst allzit zuovor lieber <persName ref="stadtasg-actors-906" role="recipient">Jacob</persName>. Wir vernemen von unßerm
+<lb n="2" />burger <persName ref="stadtasg-actors-905">Hainrichen Brunner</persName>, wie ir mit siner froven geredt haben sollen, was wir
+<lb n="3" />üch schribind, das ir denn den wältind wol ergriffen wöltind und uns den herbringen,
+<lb n="4" />und wann er aber unser geschworen burger ist und uns ungehorsam, och unser ge
+<lb break="no" n="5" />lait frevenlich abachtet hat. Hierumb ist unser ernstlich pitt und beger zuo üch,
+<lb n="6" />ir wöllen nach im stellen, ob er üch werden müg, und uns den herbringen, so wollen
+<lb n="7" />wir zerat werden, waz füro mit im zehandlen und fürzenemen sye. Das woellen wir hin
+<lb break="no" n="8" />für umb üch in allen gebürlichen sachen früntlich beschulden und verdienen. Geben
+<lb n="9" />uff <origDate when="1472-12-03">donstag nach Andree anno domini etc. LXXIIo</origDate>.
+<lb n="10" /><orgName ref="stadtasg-actors-148" role="issuer">Burgermaister und raut der statt
+<lb n="11" />zuo sant Gallen</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

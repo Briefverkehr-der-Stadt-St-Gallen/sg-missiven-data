@@ -1,0 +1,88 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 489</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_489_999/1000</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hans Billing von Esslingen, Bürger zu St. Gallen, berichtet Bürgermeister und Rat zu St. Gallen, dass er vernommen habe, dass er bei ihnen aufgrund übler Nachrede in Ungnade gefallen sei. Er bittet um die schriftliche und besiegelte Zusicherung des freien Geleits, damit er seine Unschuld beweisen kann.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-285">Begnadigung</term>
+<term ref="stadtasg-keywords-198">Unschuld</term>
+<term ref="stadtasg-keywords-2">Geleit</term>
+<term ref="stadtasg-keywords-63">Gerücht</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-976">Hans Billing</persName>                    <date>1494-01-03</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-02</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_489_1000.JPG" n="1"/>
+<p>
+<lb n="1"/>Fuersichtigen ersammen wysen besunderrnn günstigen lieben herren min guotwillig
+<lb n="2"/>unndertaenig unverdrossen diennst syen üwer wyßhait allezit bevor lieben herren.
+<lb n="3"/>Mich lanngt an üwer ungnad durch boeses geschwaetz uff mich gewachsen, des
+<lb n="4"/>ich warlich mercklich befroembden entpfanngen, hab ouch soelichs gegen üwer
+<lb n="5"/>wyßhait unnd den iren nyendert kainerlay sachhalb verschuldt, sunder mich
+<lb n="6"/>nit annders dann als iren burger erzoigt. Unnd ob üwer wyßhait mich
+<lb n="7"/>ainicher sachhalb ungnedenclich, des ich mich doch nit versich, zehaben vermaint,
+<lb n="8"/>so ist an die selben üwer wyßhait min gar unndertaenig bitt, mir ursach
+<lb n="9"/>der ungnaden gegen mir ze enntdecken unnd mir dar uff üwer wyßhait
+<lb n="10"/>geschriben besiglet geleit in der besten form zuo ira unnd von ira wider in
+<lb n="11"/>min gewarsami mich ze lassen ze schicken. Hoffe und getrüwe ich gott
+<lb n="12"/>und siner lieben muetter, mich nach üwerm wolgefallen unnd mir zuo guot
+<lb n="13"/>getrüwlich ze sprechen, har inne welle sich üwer wyßhait gegen mir erzoigen,
+<lb n="14"/>damit ich gnedigen willen von ira entpfinde, will umb die selben ich allezit
+<lb n="15"/>demuettenclich verdienen. Geben <origDate when="1494-01-03">frytag vor epiphanie anno etc. LXXXXIIIIo</origDate>.
+<lb n="16"/><persName ref="stadtasg-actors-976" role="issuer">Hanns Billing</persName> von <placeName ref="stadtasg-places-350" cert="medium">Eßlingen</placeName><note>Wohl <placeName ref="stadtasg-places-350">Esslingen am Neckar</placeName>.</note>
+<lb n="17"/>üwer wyßhait getruwer
+<lb n="18"/>burger.
+<pb facs="StadtASG_Missive_489_999.JPG" n="2"/>
+<lb n="19"/>Den fürsichttigen ersammen wysenn
+<lb n="20"/><orgName ref="stadtasg-actors-148" role="recipient">burgermeister unnd raute der statt
+<lb n="21"/>zuo Sannttgallen</orgName> minen gunstigen
+<lb n="22"/>lieben herren.
+</p>
+        </body>
+    </text>
+</TEI>

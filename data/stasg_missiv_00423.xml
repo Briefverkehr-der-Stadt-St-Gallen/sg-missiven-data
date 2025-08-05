@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 423</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zum Kontext: Nach jahrelangen Spannungen mit der Herrschaft Mailand endeten die Kämpfe um die Leventina 1478 mit dem Sieg der Eidgenossen (Uri) bei der Schlacht von Giornico. Einige Eidgenossen bezogen bei Pollegio (dt. veraltet Boleisch) eine Grenzsperre, um das anrückende mailändische Heer frühzeitig zu melden.</p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_423_863/864</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Uri danken Bürgermeister und Rat zu St. Gallen für ihre Unterstützung gegen die Herrschaft von Mailand und berichten, wie die in der Leventina verbliebenen Truppen am 28. Dezember bei Giornico auf über zehntausend Feinde trafen, tausend von ihnen töteten und zahlreiche Waffen erbeuteten, obwohl sie selbst nur 600 waren.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+  <term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-279">Herrschaft</term>
+<term ref="stadtasg-keywords-541">Truppe</term>
+<term ref="stadtasg-keywords-48">Feindschaft</term>
+<term ref="stadtasg-keywords-49">Totschlag</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-327">Waffe</term>
+<term ref="stadtasg-keywords-483">Kriegsbeute</term>
+<term ref="stadtasg-keywords-326">Büchse</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-849">Ammann und Rat zu Uri</orgName> <placeName ref="stadtasg-places-70">Uri</placeName>                    <date>1478-12-30</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName></persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-04-22</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_423_863.JPG" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig dienste und waß wir alle zitt eren liebe und guottes vermugent zuvor
+<lb n="2" />fürsichtigen wisen sunder guotten fründ und getrüwen lieben eidgnossen. Und als wir denn von
+<lb n="3" />wegen unnser spenn und stoeß mit der herrschafft <placeName ref="stadtasg-places-311">Meilan</placeName> mit unnser paner und macht wider die selben
+<lb n="4" />herrschafft usgezogen waren, deshalben ir unns gar früntlich und sunder trostlich zuo gezogen sind
+<lb n="5" />mit denn üweren, die sich öch by und mit unns so gepürlich gehalten in allen dingen mit ir lib
+<lb n="6" />und was sy vermochten so guottwillig gewesen, dz wir soelich umb üch und sy alle niemer beschulden
+<lb n="7" />mugen, wir woellen aber das mit ernschlichem dancken niemer vergessen, sunder wo wir konnen
+<lb n="8" />und mugend und sich iemer geschicken old an unns langen wurde, woellen wir umb üch mit
+<lb n="9" />gar geneigtem willen unvergesslich beschulden. Ffürer lieben eidgnossen, als üch denn
+<lb n="10" />wol ze wüssen, in welchen fügen wir gemeinlich uss dem feld wider heim gezogen und doch dry
+<lb n="11" />ort, namlich <placeName ref="stadtasg-places-32">Zürich</placeName>, <placeName ref="stadtasg-places-69">Lutzern</placeName> und <placeName ref="stadtasg-places-71">Schwitz</placeName>, iecklich ort XXV man by den unnseren im zuosatz
+<lb n="12" />zuo Boleisch<note>Das Dorf <placeName ref="stadtasg-places-314">Pollegio</placeName> in der Talebene der unteren Leventina.</note> gelässen hatten, unnser land <placeName ref="stadtasg-places-313">Lifinen</placeName> ze bewaren, hand unns die selben mit
+<lb n="13" />ir bottschafft und brieffen warlich bericht und kuntgethan, wie denn uff <date when="1478-12-28">mentag, was
+<lb n="14" />der kindlin tag</date>, ein merklicher grosser zug fienden bys zuo inen nach zuo dem dorff
+<lb n="15" /><placeName ref="stadtasg-places-312">Girniß</placeName> komen sigind und underwegen zwey older dry hüser verbrent, in willen dz selb
+<lb n="16" />dorff <placeName ref="stadtasg-places-312">Girnis</placeName>, da die unnser in waren, öch ze wuesten, also hand sich die unnsern nit woellen
+<lb n="17" />lässen im dorff finden und sind darumb für dz dorff usß in dz feld wider die selben macht
+<lb n="18" />desselben tags in dem namen des almaechtigen gottes und siner reinen muotter Marien gezogen
+<lb n="19" />und inen den sig und flucht angewunnen, ein guotte mil geiagt und ob tusig erschlagen,
+<lb n="20" />ein mercklich zal schlangen, haggen und hand büchsen mit anderer ir hab angewunnen
+<lb n="21" />und XVI gefangen. Die selben gefangnen für war redin, dz der selben fienden ob zechentusig
+<lb n="22" />gewesen sigind, und sind doch der unnser nüt ob sechshundert gewesen. Das haben
+<lb n="23" />wir üch nit unverkundt lässen, denn ünns nit zwifelt, ir von unnser wegen ein
+<lb n="24" />sunder froeid da durch empfachint, und was unns got glückes zuo fuegt, üch nit anders
+<lb n="25" />denn als üwer eigen sachen zuo froeiden bringe. Datum zuo <origPlace ref="stadtasg-places-70">Ure</origPlace> uff <origDate when="1478-12-30">mittwochen
+<lb n="26" />nach der kindlin tag anno etc. a nativitate domini LXXVIIIo</origDate>.
+<lb n="27" /><orgName ref="stadtasg-actors-849" role="issuer">Landamman und räte
+<lb n="28" />zuo Ure</orgName>.
+<pb facs="StadtASG_Missive_423_864.JPG" n="2" />
+<lb n="29" />Denn fürsichtigen wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rätt
+<lb n="30" />der statt sant Gallen</orgName> unnsern sunder guotten
+<lb n="31" />fründen und getrüwen lieben eidgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

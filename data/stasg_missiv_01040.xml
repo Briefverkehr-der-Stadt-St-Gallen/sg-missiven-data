@@ -1,0 +1,112 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1040</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1040_3229/3232</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Appenzell schreiben Bürgermeister und Rat zu St. Gallen und informieren darüber, dass Nachtwächter am vergangenen Dienstag um Mitternacht einen Feuerschein beobachtet hatten. Sofort wurden die Feuerschauer geweckt, damit diese Erkundigungen einholten, wo sich das Feuer befand und wie man Hilfe leisten könnte. Das Feuer betraf Appenzeller Bauern. Die Appenzeller bedanken sich bei den St. Gallern für die spontan anerbotene Hilfe.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-41">Feuer</term>
+                    <term ref="stadtasg-keywords-570">Not</term>
+                    <term ref="stadtasg-keywords-509">Schau</term>
+                    <term ref="stadtasg-keywords-473">Eile</term>
+                    <term ref="stadtasg-keywords-15">Unterstütung</term>
+                    <term ref="stadtasg-keywords-300">Schaden</term>
+                    <term ref="stadtasg-keywords-154">Ammann</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-506">Ammann und Rat zu Appenzell</orgName>                    <date>1575-01-20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW</persName>
+                <date>2024-09-16</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-07-14</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_1040_3229.jpg" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich willig diennst sampt allem vermügen erenn
+<lb n="2"/>liebs unnd guotts zuovor fromenn fürsichtigenn ersamen unnd
+<lb n="3"/>wysenn insonnders günstig guott fründ unnd gethrüwenn lieben
+<lb n="4"/>nachpurenn. Nachdem nun iezund naichst <date when="1575-01-16">verschinen zinstag</date>
+<lb n="5"/>glich um mitnacht unnsery wächter ain bronnst unnd glanz
+<lb n="6"/>ersechenn unnd sy unnsery zum für verornetty ufgweckt,
+<lb n="7"/>die selbigenn ally wil sy des fürs glanz gegenn eüch, unseren
+<lb n="8"/>gethrüwenn liebenn nachpurenn, da kum an aim ennd grösser
+<lb break="no" n="9"/>enn unnd iämerlichenn schadenn beschechen möcht, darab
+<lb n="10"/>herzlichenn erschrockenn. Daruff wir an gainz etlichenn
+<lb n="11"/>unnserenn für schower inn befelch gebenn, in il wo das
+<lb n="12"/>für unnd ob etwas im val zuo verhelfenn zeerkundigenn,
+<lb n="13"/>das selbig unns uff das aller fürderlichist zuo berichtenn,
+<lb n="14"/>welliches sy vollstreckt unnd verricht, umb unns ilennz
+<lb n="15"/>durcht bottschafft zuogsennt, das es dennacht (gott dem
+<lb n="16"/>herrenn sye lob unnd tanck gesagt) eüch unnsery gethrüw
+<lb n="17"/>lieb nachpurenn im val nütt, sonnder ain ainygenn puren
+<lb n="18"/>unnsers lannz berürtt unnd anthroffenn, an wellichem
+<lb n="19"/>ennd der schadenn liechtlich wider zuo ersezenn. Haruff
+<lb n="20"/>wir mit mer hilf das für zuo erlöschen beruebenn lassen
+<lb n="21"/>unnd gedacht (wie bilich zuo besorgenn) grösserenn onval
+<lb n="22"/>zuo verhuettenn, die unnserenn anhaimsch zuo behalltenn, dar
+<lb break="no" n="23"/>inn aber wir globwirdig bericht von den unnseren ennpfang
+<lb break="no" n="24"/>enn, wie ir unnser gethrüw lieb nachpurenn im val der nott
+<lb n="25"/>mit eüwerenn burgerenn nüt allain mit herzenn unnd gmuett,
+<pb facs="StadtASG_Missive_1040_3230.jpg" n="2"/>
+<lb n="26"/>sonnder mit dem lib unnd werckenn allen nachpürlichenn
+<lb n="27"/>wyllenn erstattennt. Dess wir eüch als unnserenn ge
+<lb break="no" n="28"/>thrüwenn liebenn nachpurenn ernnstlichenn unnd flissig
+<lb break="no" n="29"/>ennde danck sagennde mit erpiethung eüch harwider (gott
+<lb n="30"/>welly eüch unnd die eüwerenn vor allem onfal verhuetten)
+<lb n="31"/>unnserenn früntlichenn unnd nachpürlichenn wyllen zuo er
+<lb break="no" n="32"/>zögenn wol genaigt sin. Unnd thund eüch inn segenn gött
+<lb break="no" n="33"/>licher gnadenn befolchennde. Datto den <origDate when="1575-01-20">20 tag ianuary im
+<lb n="34"/>75 isten</origDate>.
+<lb n="35"/><orgName ref="stadtasg-actors-506" role="issuer">Lanndtaman und
+<lb n="36"/>rath zuo Appennzell</orgName>.
+<pb facs="StadtASG_Missive_1040_3231.jpg" n="3"/>
+<pb facs="StadtASG_Missive_1040_3232.jpg" n="4"/>
+<lb n="37"/>Den fromenn fürsichtigen ersamen
+<lb n="38"/>unnd wysenn <orgName ref="stadtasg-actors-148" role="recipient">burger maister unnd
+<lb n="39"/>rath der statt sannt Gallenn</orgName> unseren
+<lb n="40"/>insonders guotten fründen unnd gethrüw
+<lb break="no" n="41"/>enn liebenn nach purenn.
+</p>
+        </body>
+    </text>
+</TEI>

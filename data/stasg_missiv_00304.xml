@@ -9,7 +9,7 @@
                 <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
             </publicationStmt>
             <notesStmt>
-                <note><p> Wohl Abschrift.</p></note>
+                <note><p>Wohl Abschrift.</p></note>
             </notesStmt>
             <sourceDesc>
                 <msDesc type="missiv">
@@ -30,7 +30,7 @@
         <profileDesc>
             <abstract>
                 <p>Bürgermeister und Rat zu Kempten informieren Bürgermeister und Rat zu Lindau über
-                    ein Treffen zwischen Herzog Sigmund, Graf Hugo von Montfort, Marquard von
+                    ein Treffen zwischen Herzog Sigismund, Graf Hugo von Montfort, Marquard von
                     Schellenberg, Marquard von Ems, einem Landenberger und mehreren anderen, die
                     ein St. Galler namens Ulrich Ritz in einem Wirtshaus belauscht hätte. Sie hätten
                     besprochen, dass sie zusammen per Schiff einen nicht genannten Ort einnehmen
@@ -88,7 +88,7 @@
                     ref="stadtasg-places-189">Trient</placeName> in ains <lb n="5"/>wierts hus komen syg,
                 darinn sigen unser gnädiger herr <persName ref="stadtasg-actors-416">herczog
                     Sigmund</persName>, <lb n="6"/><persName ref="stadtasg-actors-438">graf Hug von
-                    Montfort</persName>, her <persName ref="stadtasg-actors-466">Marquart von
+                    Montfort</persName>, her <persName ref="stadtasg-actors-466" cert="medium">Marquart von
                     Schellemberg</persName>, ain <persName ref="stadtasg-actors-467"
                 >Slandensperger</persName>, <lb n="7"/><persName ref="stadtasg-actors-314">Märk von
                     Emptz</persName> und ander gewesen, und als er da getruncken und sin <lb n="8"

@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 497</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_497_1015/1016</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Konstanz teilen Bürgermeister und Rat zu St. Gallen mit, dass die Herren von Sonnenberg und Truchsessen von Waldburg den Vertrag mit der Stadt Ravensburg, der durch Vermittlung von Rastboten aus St. Gallen, Überlingen, Lindau, Wangen, Buchhorn und Konstanz zustande kam, ablehnten, weshalb die Konstanzer gebeten wurden, einen neuen Rechtstag anzusetzen, der am 30. Juni in Konstanz stattfinden soll. Die Konstanzer bitten die St. Galler, ihre Ratsdelegation zusammen mit jenen der anderen Städte an den Rechtstag in Konstanz zu senden. Sie bitten um eine schriftliche Antwort mit dem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-39">Vertrag</term>
+<term ref="stadtasg-keywords-120">Vermittlung</term>
+<term ref="stadtasg-keywords-526">Ratsbote</term>
+<term ref="stadtasg-keywords-149">Rechtstag</term>
+<term ref="stadtasg-keywords-70">Termin</term>
+<term ref="stadtasg-keywords-130">Ratsdelegation</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-184">Truchsess</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>                    <date>1495-06-06</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-07</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_497_1015.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser fruentlich willig diennst mit fleyß berait zuevor ersamen und weysen insonder
+<lb n="2"/>lieben unnd guetten fruend. Nach dem unnd dann vor ettwas verschines zitt durch
+<lb n="3"/>uewer fruentschafft, <placeName ref="stadtasg-places-4">Ueberlingen</placeName>, <placeName ref="stadtasg-places-24">Lindow</placeName>, <placeName ref="stadtasg-places-194">Wanngen</placeName>, <placeName ref="stadtasg-places-78">Buechorn</placeName> unnd unnser rautzbotten
+<lb n="4"/>ain giettlicher vertrag zwueschen unnsern gnaedigen unnd guenstigen <orgName ref="stadtasg-actors-1086">herren von Sonn
+<lb break="no" n="5"/>enberg unnd trucksaessen von Walpurg</orgName> ainß unnd unnsern sonndern guetten fruenden
+<lb n="6"/><orgName ref="stadtasg-actors-58">burgermaister unnd rauts von Ravenspurg</orgName> annderßtails gemacht, der unns nun
+<lb n="7"/>von den <orgName ref="stadtasg-actors-1086">von Sonnenberg unnd trucksaessen</orgName> abgeschriben ist, unnd baidtail unns schrifft
+<lb break="no" n="8"/>lich gebetten haben, widerumb an der sach rechttag zue setzen etc., dem selben nach
+<lb n="9"/>haben wir in aber ain rechttag gesetzt uff den <date when="1495-06-30">naechsten zinßtag nach sannt Petter
+<lb n="10"/>unnd sannt Pauls tag appostolorum</date> zue rechter tagzeit unnd den baiden parthyen verkuendet.
+<lb n="11"/>Unnd wann nun sollich recht uff uewer liebe den bemelten stetten unnd unns hanget, so
+<lb n="12"/>bitten wir uewer fruentschafft mit ernst flysig, sy woelle uff sollichen angesetzten rechttag
+<lb n="13"/>ir rautzbottschafft in unnser statt schicken unnd inen bevelhen, mit andern der stett rautz
+<lb n="14"/>botten hierinne das best helfen zue hanndlen mit solher bewysung, als wir uech gentzlich
+<lb n="15"/>vertruewen, das solhs von uech bescheche. Stett unns mit willen umb uech zueverdienen.
+<lb n="16"/>Datum uff <origDate when="1495-06-06">sampstag den pfingst aubet anno etc. LXXXXVto</origDate>. Unnd bitten deß
+<lb n="17"/>uewer verschriben anntwurt mit dem bottenn etc.
+<lb n="18"/><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister unnd
+<lb n="19"/>rate der statt Costentz</orgName>.
+<pb facs="StadtASG_Missive_497_1016.JPG" n="2"/>
+<lb n="20"/>Den ersamen unnd wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister unnd raute
+<lb n="21"/>zuo sannt Gallen</orgName> unnsern insonndern lieben unnd gueten fruonden.
+</p>
+        </body>
+    </text>
+</TEI>

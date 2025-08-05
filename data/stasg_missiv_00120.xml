@@ -46,8 +46,7 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="stadtasg-actors-50">Johann, Graf zu Schauenberg, Hofmeister des Heiligen Römischen
-                        Reichs</persName>
+                    <persName ref="stadtasg-actors-50">Johann, Graf zu Schauenberg</persName>
                     <placeName ref="stadtasg-places-15">Wien</placeName>
                     <date>1439-04-13</date>
                 </correspAction>

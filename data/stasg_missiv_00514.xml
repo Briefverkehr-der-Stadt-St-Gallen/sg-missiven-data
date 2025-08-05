@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 514</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_514_1049/1050</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die in Basel versammelten Ratsboten der Städte und Länder der Eidgenossenschaft teilen Bürgermeister und Rat zu St. Gallen mit, dass sie mit den königlichen Räten und Anwälten Friedensverhandlungen geführt hätten und dass ein weiterer Tag, zu welchem auf den Mittwochabend, den 4. September, in Schaffhausen in der Herberge zu erscheinen ist, angesetzt wurde. Bis dahin soll eine Waffenruhe herrschen. Die St. Galler Ratsboten werden später ausführlich von dem Tag berichten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                     
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-314">Anwalt</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-83">Frieden</term>
+<term ref="stadtasg-keywords-620">Herberge</term>
+<term ref="stadtasg-keywords-149">Rechtstag</term>
+<term ref="stadtasg-keywords-131">Versammlung</term>
+<term ref="stadtasg-keywords-300">Schaden</term>
+<term ref="stadtasg-keywords-473">Eile</term>
+<term ref="stadtasg-keywords-47">Waffenstillstand</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-534">Eidgenössiche Räte</orgName> <placeName ref="stadtasg-places-133">Basel</placeName>                    <date>1499-08-25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-07-01</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_514_1049.JPG" n="1" />
+<p>
+<lb n="1" />Unnser frünntlich willig diennst und was wir liebs eren und guots vermogen allzit zuovor bereit frommen
+<lb n="2" />fürsichtigen wisen sunder guoten fründe und getruwen lieben eydtgnossen. Wir haben im namen gottes
+<lb n="3" />mit der roemisch koeniglichen mayestat raeten und anwaelten uff disem tag ettlich artickel und mittelweg
+<lb n="4" />zuo einem bericht disß kriegs doch uff ein hinder sich bringen und darumb enndtlich anntwurt zuo
+<lb n="5" />geben abgeredt, in hoffnung das es zuo friden, ob got wil, reichen moge, und darumb einen ander
+<lb n="6" />tag gegen einanndern vervanngen, uff <date when="1499-09-04">mitwochen nach sant Vrenen tag nechstkomend nachts</date>
+<lb n="7" />zuo <placeName ref="stadtasg-places-185">Schaffhusen</placeName> an der herberg zuo sin und daby im besten gegeneinanndern angesechen, byß dar
+<lb n="8" />uff beyden parthyen still zuo stan, einannderrnn nit anzuogriffen noch zuo überziechen und
+<lb n="9" />doch in der gegenwer und den zuosaetzen zuo bliben, damit niemans darunder kein untrüw
+<lb n="10" />oder schad widerfare, wie dann üwer liebe des alles sunder der artickel und abred durch
+<lb n="11" />ir bottschafft, so sy kommen, wyter bericht wirdt. Das wolten wir üwer lieb ylends verkünden,
+<lb n="12" />sich des wüssen ze halten, sunder, ob ettwas anslags oder herzugs, als unns anlanngt, yetz
+<lb n="13" />angesechen were, soelichs anzuostellen und zuo verhalten byß uff wyter unnderred, dann
+<lb n="14" />wir soelichs den hoptlüten und zuosaetzen uff den anstoessen ouch also verkündt haben.
+<lb n="15" />Darinn wellen üch nach unnserm vertruwen erzoegen, stat unns guotwillig zuo verdienen.
+<lb n="16" />Datum unnder des frommen vesten <persName ref="stadtasg-actors-1052">Ruodolffen Eschers</persName>, burgermeisters der statt <placeName ref="stadtasg-places-32">Zürich</placeName>
+<lb n="17" />sigel, innamen unnser aller <origDate when="1499-08-25">suntag nach Bartholomei anno etc. LXXXXIXo</origDate>.
+<lb n="18" /><orgName ref="stadtasg-actors-534" role="issuer">Stetten und laennder gemeiner
+<lb n="19" />Eydtgnoschafft und ir zuo gewandten
+<lb n="20" />saendtbotten</orgName> zuo <origPlace ref="stadtasg-places-133">Basel</origPlace> versamelt.
+<pb facs="StadtASG_Missive_514_1050.JPG" n="2" />
+<lb n="21" />Den fromen fursichtigen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister
+<lb n="22" />unnd ratt der statt Sanntgallen</orgName> unnsern
+<lb n="23" />besonnder guotten frunden und getruwen lieben
+<lb n="24" />eydtgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

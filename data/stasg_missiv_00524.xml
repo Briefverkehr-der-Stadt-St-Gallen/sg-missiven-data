@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 524</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_524_1069/1070</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ritter Ludwig von Helmsdorf, Vogt zu Bischofszell, bittet Bürgermeister und Rat zu St. Gallen, die Bürgerin Dorothea Tennenberg, die Witwe des Hufschmiedes Heinrich Rietmann, und ihren Vogt, Kleinhans Schneider, welche diesen Brief vorzeigen, zu unterstützen. Der St. Galler Bürger Ulrich Betz habe ihrem verstorbenen Ehemann Heinrich Rietmann das Geld für die Lehre seines Sohnes versprochen. Die Zahlung sei aber nicht erfolgt. Dorothea habe auch das Angebot gemacht, dass der Knabe das Lehrgeld abdienen könne, er sei aber mitsamt seinen Kleidern heimlich davongelaufen. Helmsdorf bittet die St. Galler dafür zu sorgen, dass Dorothea von Ulrich Betz das ausstehende Geld für die Lehre von dessen Sohn erhalte, oder wenn Betz Einwände habe, dass der Fall behandelt werde.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-352">Lohn</term>
+                    <term ref="stadtasg-keywords-127">Geld</term>
+                    <term ref="stadtasg-keywords-67">Bekleidung</term>
+                    <term ref="stadtasg-keywords-175">Sohn</term>
+                    <term ref="stadtasg-keywords-669">Hufschmied</term>
+                    <term ref="stadtasg-keywords-177">Witwe</term>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+                    <term ref="stadtasg-keywords-351">Handwerk</term>
+                    <term ref="stadtasg-keywords-21">Rechtshilfe</term>
+                    <term ref="stadtasg-keywords-630">Bruder</term>
+                    <term ref="stadtasg-keywords-93">Mündlich</term>
+                    <term ref="stadtasg-keywords-321">Schriftlich</term>
+                    <term ref="stadtasg-keywords-240">Ritter</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-768">Ludwig von Helmsdorf</persName>                    <date>1501-07-02</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-07-14</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_524_1069.JPG" n="1"/>
+<p>
+<lb n="1"/>Fromen fürsichtigen und wisen sonnder lieben und gutten fründ min willig früntlich diennst und was ich ern und guts
+<lb n="2"/>vermag alltzit vor. Die erber frow <persName ref="stadtasg-actors-1104">Thorothea Tennenbergin</persName>, <persName ref="stadtasg-actors-1105">Hainrich Riettmans</persName> des huffschmids seligen verlaßne elich
+<lb n="3"/>wittwe, burgerin alhie, wiserin dis brieffs, gipt mir sampt <persName ref="stadtasg-actors-1106">Clainhannsen Schnider</persName>, irm erkornen vogt, zu erkennenn,
+<lb n="4"/>wie üwer burger <persName ref="stadtasg-actors-1107">Uly Betz</persName> vor ettlicher verschinen zit sinen sun das schmidhanntwerk zu leren zu irm mann seligenn
+<lb n="5"/>umb ain zimlichen lon verdingt unnd im den selben lon nach ußganng der ler iarn oder darunder mit sampt sinem
+<lb n="6"/>bruder <persName ref="stadtasg-actors-1108">Rudin Zimermann</persName>, so och daran sin wolt, zu bezaln versprochen und zu gesagt hab, das aber noch irs mans
+<lb n="7"/>och irer ervordrung von im bishar nit beschechen. Unnd sig doch der knab, über das sy inn sollichen wol
+<lb n="8"/>erarnotten lidlon zum tail gern hett laßen ab dienen, unzimlicher zit mit sinen klaidern haimlich hinweg ge
+<lb break="no" n="9"/>loffen etc, wie dann uwer fürsichtig wißhait von vermelter frowen und irm vogt muntlich witter zuver
+<lb break="no" n="10"/>nemen, und hat mich an die selben üwer lieb umb schrifftlich fürdrung zu geben an geruefft und gebettenn
+<lb n="11"/>in hoffnung, der wol zu genießen. Also ir anruffen nach bitt die selben üwer fürsichtig wißhait ich mit
+<lb n="12"/>vliß ernstig, sy güttlich zuverhoren unnd daruff mit <persName ref="stadtasg-actors-1107">Ulin Betzen</persName>, oder wer üch mer anzoigt wirt, sovil zuver
+<lb break="no" n="13"/>schaffen, darmit si zu ir notturfft umb sollichen usstenden lidlon ußgericht oder vergnugt werd, oder, ob vermelter
+<lb n="14"/><persName ref="stadtasg-actors-1107">Betz</persName> ainicherlay inred haben wurd, der sy sich nit versicht, ir doch fürderlich recht in minstem costen zuverhelffen,
+<lb n="15"/>unnd durch minen willen so früntlich erzaigen, dardurch die gutt arm frow soellicher miner fürbet by uch zege
+<lb break="no" n="16"/>nießen empfintlich werd. Das begern ich in der glichen und merern sachen mit willen zuverdiennen. Datum <origDate when="1501-07-02">frittags
+<lb n="17"/>nach sant Petters und sant Pals tag anno etc. XVc primo</origDate>.
+<lb n="18"/><persName ref="stadtasg-actors-768" role="issuer">Ludwig von Helmstorff</persName>, ritter,
+<lb n="19"/>vogt zu <placeName ref="stadtasg-places-19">Bischoffzell</placeName>.
+<pb facs="StadtASG_Missive_524_1070.JPG" n="2"/>
+<lb n="20"/>Den fromen fürsichtigen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="21"/>und rat der statt zu sant Gallen</orgName> minen sonndern
+<lb n="22"/>lieben unnd gutten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

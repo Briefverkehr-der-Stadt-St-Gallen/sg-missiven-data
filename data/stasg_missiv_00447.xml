@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 447</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Der erwähnte Zettel ist nicht vorhanden.</p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_447_911/912</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Esslingen teilen Bürgermeister und Rat zu St. Gallen mit, dass sie einen Mann namens Georg Muruss von Kempten wegen Falschmünzerei gefangen genommen haben und dieser auch Diebstähle gestand. In einem beigelegten Zettel teilen sie den St. Gallern mit, was das für Diebstähle waren, damit allfällige Verdächtige entlastet werden. Sie bitten die St. Galler, ihnen mit dem gleichen Boten schriftlich mitzuteilen, ob diese Aussagen der Wahrheit entsprechen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-36">Münze</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-496">Betrug</term>
+<term ref="stadtasg-keywords-106">Diebstahl</term>
+<term ref="stadtasg-keywords-559">Verdacht</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-170">Bestätigung</term>
+<term ref="stadtasg-keywords-19">Gefängnis</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-536">Bürgermeister und Rat zu Esslingen</orgName>                    <date>1487-12-15</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-05-23</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_447_911.JPG" n="1" />
+<p>
+<lb n="1" />Unnser freuntlich willig dienst zuvor ersamen und weisen besondern lieben und guotten
+<lb n="2" />freund. Wir haben ainen arm man, der sich nempt <persName ref="stadtasg-actors-951">Joerig Muruss</persName> von <placeName ref="stadtasg-places-40">Kempten</placeName>, von falscher
+<lb n="3" />muntz wegen, die er geschlagen und die man auch bey im funden haut, in fängknueß ge
+<lb break="no" n="4" />pracht, der haut under anderm nach lawt des ingelegten zedels gestoln zu haben bekennt.
+<lb n="5" />Das haben wir ewr lieb im besten nit woellen verhalten, darumb ob yeman anderer
+<lb n="6" />soelhs gethan zu haben in argkwon waere, den oder die selben ausser argkwon zu laussen.
+<lb n="7" />Und so wir nun ouch gruntlich wissen nit haben, ob er soelh sein bekantlich dieb
+<lb break="no" n="8" />stal getan hab oder nit, ist an ewr lieb unser gar ernstlich pitt, soelhs in ewr statt
+<lb n="9" />zu erfarn und uns das by disem unserm potten in schrifft wissen lassen. Steet uns
+<lb n="10" />in der glich mindern und meren sachen freuntlich umb ewr lieb zuverglichen. Datum
+<lb n="11" /><origDate when="1487-12-15">sampstags post Lucie anno domini etc. LXXXVII</origDate>.
+<lb n="12" /><orgName ref="stadtasg-actors-536" role="issuer">Burgermaister unnd
+<lb n="13" />raute zuo Esselingen</orgName>.
+<pb facs="StadtASG_Missive_447_912.JPG" n="2" />
+<lb n="14" />Den ersamen und weisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister unnd raute
+<lb n="15" />zu sant Gallen</orgName> unsern besondern lieben unnd
+<lb n="16" />guotten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

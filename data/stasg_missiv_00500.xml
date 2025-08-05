@@ -1,0 +1,95 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 500</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_500_1021/1022</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Rudolf Stucki von Mels teilt Bürgermeister und Rat zu St. Gallen mit, dass er gemeinsam mit dem verstorbenen Hans Schomon von Mels für ein Leibding in der Höhe von 17 Gulden bürgte, welches der Abt der Benediktinerabtei zu Pfäfers Ludwig Lehmann verkaufte. Da Lehmann nun verstorben sei, bittet Stucki die St. Galler darum, ihn bei der Einholung der entsprechenden Urkunde von den Erben Lehmanns zu unterstützen, damit er wegen der Bürgschaft nicht mehr belangt werden könne.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-115">Kloster</term>
+<term ref="stadtasg-keywords-26">Leibding</term>
+<term ref="stadtasg-keywords-82">Tod</term>
+<term ref="stadtasg-keywords-5">Erbe</term>
+<term ref="stadtasg-keywords-28">Bürge</term>
+<term ref="stadtasg-keywords-201">Abt</term>
+<term ref="stadtasg-keywords-56">Urkunde</term>
+
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1090">Rudolf Stucki</persName><placeName ref="stadtasg-places-355">Mels</placeName>                    <date>1496-06-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-09</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_500_1021.JPG" n="1"/>
+<p>
+<lb n="1"/>Min willig dienst zuvor ersamenn wysen lieben herren
+<lb n="2"/>unnd guoten fründe. Ich hab mich mitsampt <persName ref="stadtasg-actors-1088">Hannsen
+<lb n="3"/>Schomonen</persName> sealigen von <placeName ref="stadtasg-places-355">Meils</placeName> vor etlichen iaren hinder
+<lb n="4"/>minen gneadigen herren von <placeName ref="stadtasg-places-356">Pfaevers</placeName> unnd sin wirdig
+<lb n="5"/>gottshuß gegen herr <persName ref="stadtasg-actors-1089">Ludwigen Leman</persName> sealigen umb
+<lb n="6"/>sibenzechen rinisch gulden iaerlichs lybdings als mit
+<lb break="no" n="7"/>gülten unnd rechten gewaeren verpunden und verschriben
+<lb n="8"/>lut des besigelten hoptbriefs darumb gegeben etc.
+<lb n="9"/>Wil aber derselb herr <persName ref="stadtasg-actors-1089">Ludwig</persName> mit tod abgegangen
+<lb n="10"/>unnd gestorben und das lybding ledig worden,
+<lb n="11"/>so ist an uwer ersamm wyßhait min ernstlich pitt,
+<lb n="12"/>ir woellen mit des benanten heren <persName ref="stadtasg-actors-1089">Ludwigen</persName> erben
+<lb n="13"/>verschaffen und darob sin, damit mir der hoptbrief
+<lb n="14"/>unnd verschribung widerumb zuo minen hanndenn
+<lb n="15"/>geantwurt werden und ich deßhalben von niemand
+<lb n="16"/>wyter angelangt, besonnder derselben mitgültschafft
+<lb n="17"/>hinfüro unersuocht beliben mug. Soelichs begaeren ich
+<lb n="18"/>umb üwer ersamm wyßhait, wie sich gepürt, zuo ver
+<lb break="no" n="19"/>dienen. Datum <origPlace ref="stadtasg-places-355">Meils</origPlace>, <origDate when="1496-06-04">samstag nach Corporis Christi
+<lb n="20"/>anno domini etc. LXXXXVIo</origDate>.
+<lb n="21"/><persName ref="stadtasg-actors-1090" role="issuer">Ruodolff Stuckin</persName>
+<lb n="22"/>von <placeName ref="stadtasg-places-355">Meils</placeName>.
+<pb facs="StadtASG_Missive_500_1022.JPG" n="2"/>
+<lb n="23"/>Den ersamen unnd wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="24"/>unnd rat der statt sant Gallen</orgName> minen
+<lb n="25"/>lieben herren unnd guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

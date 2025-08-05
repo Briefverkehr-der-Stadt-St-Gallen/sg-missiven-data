@@ -22,7 +22,7 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Bürgermeister und Rat zu Lindau informieren Bürgermeister und Rat zu St. Gallen darüber, dass sie sich in Sachen Fischerei am 10. Januar in Lindau versammeln möchten. Da die Ordnung niemanden unterhalb des Schussenkopfs und Rihorn binde, bittet Lindau St. Gallen, eine Ratsdelegation zu diesem Verhandlungstermin zu senden.</p>            </abstract>
+                <p>Bürgermeister und Rat zu Lindau informieren Bürgermeister und Rat zu St. Gallen darüber, dass sie sich in Sachen Fischerei am 10. Januar in Lindau versammeln möchten. Da die Ordnung bis jetzt das Gebiet zwischen dem Schussenkopfs und Rheinhorn binde, unterhalb aber noch nicht, bittet Lindau St. Gallen, eine Ratsdelegation zu diesem Verhandlungstermin zu senden.</p>            </abstract>
             <langUsage>
                 <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
@@ -51,9 +51,9 @@
                 <persName>CS</persName>
                 <date>2021-08-25</date>
             </change>
-            <change type="tagging" status="open">
-                <persName>cs</persName>
-                <date/>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-03-20</date>
             </change>
         </revisionDesc>
 
@@ -67,7 +67,7 @@
 <lb n="3"/>haben wir wol vernommen. Und won nun die andern parthyen dorczuo beruefft
 <lb n="4"/>uff <date when="1457-01-10">iecz mentag</date> in unser statt deshalb komment, und wir och mainen, noch
 <lb break="no" n="5"/>dem die ordnung die iuwern noch neman binden wurd, anders denne
-<lb n="6"/>hieoben dem Schussenkopff<note>Wohl am Kopf des <placeName ref="stadtasg-places-206" cert="medium">Schussentals</placeName>.</note> und <placeName ref="stadtasg-places-203" cert="medium">Rinßhorn</placeName> und underthalb nit, so bitten
+<lb n="6"/>hieoben dem Schussenkopff<note>Wohl das Flussdelta der <placeName ref="stadtasg-places-206">Schussen</placeName>.</note> und <placeName ref="stadtasg-places-203" cert="medium">Rinßhorn</placeName> und underthalb nit, so bitten
 <lb n="7"/>wir iuwer wyßhait mit ganczem ernste, das ir iüwer erbere ratsbottschafft
 <lb n="8"/>uff den vorgenanten tag her in unser statt senden und dar inn, das soellichs
 <lb n="9"/>ain grosse notdurfft ist, ansehen woellen, so mainen wir, es wurde villicht

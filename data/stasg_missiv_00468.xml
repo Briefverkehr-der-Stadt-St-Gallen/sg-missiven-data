@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 468</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_468_955/956</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann, Gericht und Kirchhöre zu Thal bitten Bürgermeister und Rat zu St. Gallen, Ulrich Girtanner, dem Kaplan von Thal, die frei gewordene Pfründe zu verleihen, da er sich als frommer Priester erwiesen habe und aus der Stadt St. Gallen stamme.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-516">Pfrund</term>
+<term ref="stadtasg-keywords-35">Priester</term>
+<term ref="stadtasg-keywords-320">Kirche</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-126">Reichsstadt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-864">Ammann und Gericht zu Thal</orgName>                    <date>1490-06-29</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_468_955.JPG" n="1"/>
+<p>
+<lb n="1"/>Fuernemen und wysen unser fruentlich willig dienst sich üch zu vor geschriben und nachpuerlich berait
+<lb n="2"/>besundern lieben herren und guotten nachpurn. Uns bringt fuer der erber priester her <persName ref="stadtasg-actors-1003">Uolrich
+<lb n="3"/>Girttanner</persName>, unser helffer und andechtiger caplan, wie ain pfruend in ewer stat ledig worden sey,
+<lb n="4"/>die ewer weisshait zu fuersechen und zu verleyhen, dar umm er mit sampt siner erberen fruend
+<lb break="no" n="5"/>schafft gebetten hab, im gnediglich die umm die ere gottes zu verleyhen oder mit ainem andern,
+<lb n="6"/>wo das schick und fuog haben mug, zu fuersechen uss dhainer billichait denn allain uss gnaden,
+<lb n="7"/>und er in ewer loblichen statt erboren und sein hoches hoffen und vertrawen bißher zu ewer
+<lb n="8"/>weisshait gestanden und noch von uech zu fuersechen in gedingen ist. Und aber er ain zit bey
+<lb n="9"/>uns gewonet und als aim fromen priester zuo stat in der kirchen und usserhalb uns gedienet,
+<lb n="10"/>sich loblich, priesterlich und ordenlich geregiert und gehalten hat, unnd wir gemainlich
+<lb n="11"/>in guottem willen zuo im stond, so bitten wir ewer weisshait als guot nachpurn, wo das
+<lb n="12"/>fuog haben mug, dem erbern priester fuersechen und siner armen gebett geweren und in
+<lb n="13"/>unser bitt gegen uech laussen enpfinttlich werden, ist uns nit zweyfel, ir werden an im be
+<lb break="no" n="14"/>finden darab ir wolgefallen und dhain mißvallen werden nemen. Wo wir das in minnerm
+<lb n="15"/>oder mererm kuenden, mugen oder wissen beschulden und verdien, woellen wir willig erfunden
+<lb n="16"/>werden und woellen uech hier inn beweysen, als wir uech vertrawen. Geben an <origDate when="1490-06-29">sant Peter
+<lb n="17"/>und sant Pauls tag appostolorum anno domini tusat fierhundert und nwentzig iar</origDate>.
+<lb n="18"/>Ewer nachpurn und
+<lb n="19"/>besunder guotwillige
+<lb n="20"/><orgName ref="stadtasg-actors-864" role="issuer">amman, gericht und ge
+<lb break="no" n="21"/>maine kilchhoery zu Tal</orgName>.
+<pb facs="StadtASG_Missive_468_956.JPG" n="2"/>
+<lb n="22"/>Den fuernemen und wysen
+<lb n="23"/><orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raet des halgen
+<lb n="24"/>reichs stat sant Gallen</orgName> unsern
+<lb n="25"/>lieben hern und guetten nachpurn.
+</p>
+        </body>
+    </text>
+</TEI>

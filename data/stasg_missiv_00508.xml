@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 508</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zum Kontext: Johannes Schürpf war Schulmeister an der Lateinschule in der Stadt St. Gallen und studierte offenbar auf dem zweiten Weg Medizin. 1503 wurde er als Stadtarzt nach Biberach berufen. Seine beiden Söhne waren der Jurist Hieronymus Schürpf, der Martin Luther 1521 als kurfürstlicher Rechtsbeistand zum Reichstag in Worms begleitete, und der jüngere Augustin Schürpf, Professor der theoretischen Medizin, der untern anderen Luther behandelte. Vgl. dazu: Oskar Pusch, Der Biberach Stadtarzt Dr. Med. Johannes Scharff aus St. Gallen und seine Familie, in: Jahrbuch Schweizerische Gesellschaft für Familienforschung, 1974, S. 116 – 125.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_508_1037/1038</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Johannes Schürpf erinnert Bürgermeister und Rat zu St. Gallen daran, dass es eine Vereinbarung zwischen ihnen und ihm gebe, wonach er drei bis vier Jahre Zeit habe, um in Basel Doktor der Medizin zu studieren. Dabei habe er mit Meister Simon eine Übereinkunft getroffen, sodass dieser eine Anstellung in St. Gallen als Schürpfs Stellvertreter als Schulmeister erhielt, worüber dieser sehr froh war. Meister Simon hielt sich jedoch nicht an ihre Übereinkunft, anstelle der zugesagten 60 Gulden für drei Jahre habe Schürpf nur 30 erhalten, wodurch er und seine Familie in Not gerieten und er sein Studium in drei Jahren nicht abschliessen konnte. Johannes Schürpf möchte deshalb erfahren, ob sich Bürgermeister und Rat zu St. Gallen an ihre Vereinbarung halten werden und ob sie Meister Simon das nächste Jahr behalten möchten oder ob er ihnen einen anderen Schulmeister besorgen solle. Sollte Simon bleiben, verlangt Schürpf von ihm mehr als die zehn Gulden, die er bisher jedes Jahr von ihm erhalten habe. Sollten Bürgermeister und Rat zu St. Gallen die zwischen ihm und Simon getroffene Abmachung nicht stützen, verzichtet Schürpf auf die Anstellung als Schulmeister und wird das tun, was für ihn und seine Kinder am besten ist. Er bittet um eine schriftliche Antwort, die Bürgermeister und Rat zu St. Gallen seinem Vetter Jakob übergeben sollen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-8">Schulmeister</term>
+                    <term ref="stadtasg-keywords-32">Arzt</term>
+                    <term ref="stadtasg-keywords-359">Meister</term>
+                    <term ref="stadtasg-keywords-269">Kind</term>
+                    <term ref="stadtasg-keywords-386">Vetter</term>
+                    <term ref="stadtasg-keywords-435">Studium</term>
+                    <term ref="stadtasg-keywords-570">Not</term>
+                    <term ref="stadtasg-keywords-525">Gulden</term>
+                    <term ref="stadtasg-keywords-352">Lohn</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1044">Johannes Schürpf</persName><placeName ref="stadtasg-places-133">Basel</placeName>                    <date>1497-09-03</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-30</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_508_1037.JPG" n="1" />
+<p>
+<lb n="1" />Minen guotwillig dienst zevor besundren ersamen wisen heren. Üwer wishait ist wol ze wüssen, das
+<lb n="2" />nieman ain guoter richter ist deren dingen, die im unwüssent sind. Nun sind etlich miner heren,
+<lb n="3" />denen villicht unwüsset ist ünsri überkumnusß, darumm ich die selb zum tail hier inn beschrib.
+<lb n="4" />Wir habent ain soelichi überkomnuss gethan, dz ich sol III oder IIII iar ze hoher schuol sin, da selbs
+<lb n="5" />studieren und doctor werden mit hilf gottes in der artzny. Ob sach waeri, dz ich nit doctor wurdi in
+<lb n="6" />dry iaren, so sol ich vier iar haben. Item und och ich doctor wurdi in den dry iaren, so moechti ich
+<lb n="7" />aber dz viert iar us beliben, mich ze bruchen und ueben in der selben kunst. Und wz mir zuo ist gelassen
+<lb n="8" />aines verwesers halb, lass ich ietz von kürtzi wegen unbeschriben. Villicht sind etlich
+<lb n="9" />miner heren, denen soemlichs noch indenk ist. Nach soemlicher überkomnuss hab ich ain überkomnuss
+<lb n="10" />gethan mit maister <persName ref="stadtasg-actors-1046">Symon</persName>, der selben er vast fro wass, wan er wz ze hoher schuol und zart us dem
+<lb n="11" />sinen und gwan mit siner kunst nit vill. Nun hat der selb maister <persName ref="stadtasg-actors-1046">Simon</persName> der selben überkomnuss
+<lb n="12" />nit wellen geleben, da durch ich und mini kind merklich gehindrot sind in er und guot. Also vil
+<lb n="13" />hetti ich vierhundert guldin, so woelt ich sy gern und vast gern geben, dz er ünser überkomnuss
+<lb n="14" />gelebt hetti. Mir waerent von im worden setzig gulden disi dry iar, hetti er der
+<lb n="15" />überkomnuss gelebt, so sind mir nun drissig worden. Dz selb allain hat mich gehindrot, dz ich nit
+<lb n="16" />doctor bin worden, waerend mir aber setzig gulden worden, so waer ich ietz ain doctor, den
+<lb n="17" />die gelerten geruemt und gelobt hettend. So aber mir dz selb gelt nit worden ist, so bin ich in soemlichen
+<lb n="18" />eren und nutz, der mir und minen klainen kinden dar us entsprungen waeri, gehindrot. Aber dz selb
+<lb n="19" />ze erlüteren und erclaeren, ist zuo diser zit (als mich bedunckt) nit nott. Und soemlichen merklichen
+<lb n="20" />schaden, von im entpfangen, ist mir vast unlidenlich von im. Und wie wol
+<lb n="21" />mir vier iar von üwer wishait zuo gelassen sind, so hab ich doch maister <persName ref="stadtasg-actors-1046">Simon</persName> allain
+<lb n="22" />dry iar bestelt, wan ich wust nit, ob ich in dry oder in vier iaren firabent ze hoher schuol machen
+<lb n="23" />wurdi. Und dar umm wisen heren beger ich von üch ze wüssen, ob ir ünser überkomnuss
+<lb n="24" />deß vierden iar halb gleben wellent ingestalt, wie sy beschechen ist, oder nitt.
+<lb n="25" />Item zuo dem andren, ob ir soemlicher überkomnuss gleben woeltent, ob ir dann behalten woeltent maistern
+<lb n="26" /><persName ref="stadtasg-actors-1046">Symon</persName> oder ob ich ainen gelerteren man üch schicken soelti. Und ob sach waeri, dz ir inn beheben
+<lb n="27" />woeltent, so sol üwer wishait wüssen, dz ich mich deß künftigen iars nit wil benuegen der X gulden,
+<lb n="28" />sunder me ze haben, und ob ers nit woelti geben, so wil ich ainen besseren an sin statt thuon. Und
+<lb n="29" />ich bin in hoffnung, ich werdi in soemlichen durch üwer wishait nit gehindret, angesechen dz
+<lb n="30" />mir von üch zuo ist gelassen, wie ich mit minem verweser machi und überkumi umm ain sum gelt,
+<lb n="31" />dz wellent ir lassen beschechen sin, wan wo mir soemlichs nit waeri zuo gelassen, so waeri ich der sach
+<lb n="32" />muessig gangen, dar umm ich üch wol vertrüw, ir tuegent nit wider ünseri überkomnuss, wan
+<lb n="33" />billichait soemlichs aischet.
+<lb n="34" />Item zuo dem dritten, wüssent fürchtigen heren, daß min vast guoter will waeri, von üwer schuol
+<lb n="35" />ab zestan und die selben uf ze geben, wo ir soemlichs verwilgen wellent, wan ich kan in mir selb
+<lb n="36" />nit finden, dz ich soemlichs thuon mügi an üwer verwilgung, angesechen ünseri überkomnuss,
+<lb n="37" />doch mit soemlichen underschaid, dz mir dar gegen beschaechi ain guot benuegen, wan ich wil mich
+<lb n="38" />des vierden iar nit verwegen, sunder by ünser überkomnuss ze beliben, es sy dann sach, dz mir
+<lb n="39" />dar umb beschechi, dar an ich ain guot benuegen hab. Darumb lieben günstlichen heren, ob ir gern
+<lb n="40" />behalten woeltent maistern <persName ref="stadtasg-actors-1046">Simon</persName> zuo ainem schuolmaister oder ainen andren üwer statt kind
+<lb n="41" />oder ain froemden, so wil ich vast gern von üwer schuol stan, doch dz mir dargegen beschehi, wie ob stat.
+<lb n="42" />Ich hetti disi mainung üwer wishait vor vil wuchen gern geschriben, so hab ich woellen baiten aines
+<lb n="43" />guoten ustrags üwer sachen, so aber die selben nach nit (in hoffnung bald) geendent sind und dz
+<lb n="44" />künftig iar her in gat, hab ich diß schriben nit me mügen verzühen. Darumm vermerkents im besten
+<lb n="45" />und verschribent mir üwer mainung. Wan nach üwerem verschriben und mir in disen dingen begegnot,
+<lb n="46" />wird ich mini sachen schicken und ordnen, mir und minen kinden zum nutzlichostem und
+<lb n="47" />erlichostem. Und sy die goetlich gnad ze aller zit mit üch. Geben ze <origPlace ref="stadtasg-places-133">Basel</origPlace> uf <origDate when="1497-09-03">suntag nach Verene
+<lb n="48" />im LXXXXVII iar</origDate>. Den brief, den ir mir schicken werdent, gebent minem vettern, her <persName ref="stadtasg-actors-1045">Jacobo Schürpfen</persName>.
+<lb n="49" /><persName ref="stadtasg-actors-1044" role="issuer">Johannes Schürpf</persName> regierer
+<lb n="50" />der loewen burs ze <placeName ref="stadtasg-places-133">Basel</placeName> üwer
+<lb n="51" />ze aller zit gehorsamer.
+<pb facs="StadtASG_Missive_508_1038.JPG" n="2" />
+<lb n="52" />Den ersamen fürsichtigen und wisen heren <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="53" />raett der statt Santgallen</orgName> sinen insundren lieben günstlichen.
+</p>
+        </body>
+    </text>
+</TEI>

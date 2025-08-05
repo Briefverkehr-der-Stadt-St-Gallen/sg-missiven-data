@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 448</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_448_913/914</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hans Studer teilt Bürgermeister und Rat zu St. Gallen mit, dass sein Pferd, welches er bei Jakob Zili untergestellt hatte, unrechtmässig auf der Gant verkauft wurde, und bittet sie, dafür zu sorgen, dass er Schadenersatz erhalte.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+  <term ref="stadtasg-keywords-163">Pferd</term>
+<term ref="stadtasg-keywords-272">Gant</term>
+<term ref="stadtasg-keywords-167">Verkauf</term>
+<term ref="stadtasg-keywords-550">Reparationszahlung</term>
+<term ref="stadtasg-keywords-358">Schadenersatz</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-27">Eid</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-952">Hans Studer</persName>                    <date>1487-12-30</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-05-23</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_448_913.JPG" n="1" />
+<p>
+<lb n="1" />Fürsichttigen und wysen lieben heren min willig dienst
+<lb n="2" />voran. Dem nach und ich minen gewaltzbotten<note>Gewaltsbote = mit Vollmacht ausgestatteter Bote, Vertreter.</note> <persName ref="stadtasg-actors-954">Hansen
+<lb n="3" />Binder</persName> <persName ref="stadtasg-actors-953">Jacoben Zilin</persName> umb ain pfaerdt zu rechttvertigen fur
+<lb n="4" />üwer wyßhait geschickt hab, der selbig <persName ref="stadtasg-actors-953">Jacob</persName> vff ergangen
+<lb n="5" />urtail ain ayd geschworn hat, das das pferdt, der stend
+<lb n="6" />es uß sinem stall gangen, als gutt, als do es des ersten darinn
+<lb n="7" />gangen sye, und aber der glich mit fromen lütten vormals
+<lb n="8" />nit geredt hat, ist mir doch dasselbig pferdt, anderst
+<lb n="9" />denn dhainem burger noch gotzhusmann, nie recht gewesen,
+<lb n="10" />ist wider statt recht onverkündt uff der gant verkoufft,
+<lb n="11" />über das mich mengklich in land wol gewiset het, och
+<lb n="12" />das pfand der costunng wol ertragen, so sy es doch fur ain
+<lb n="13" />pfand und mir unwissent also gehalten haben, denn wo mir nach
+<lb n="14" />ordnung des rechten dartzu verkündt wer, het ich durch
+<lb n="15" />mich selbs oder min gewaltzbotten antwurt zu recht
+<lb n="16" />geben und das min also liederlich nit umb gann laussen.
+<lb n="17" />Bin och der hoffnung, das sölichs üwer befelch noch ge
+<lb break="no" n="18" />fallen nit sye, ernstlich bittende, die wil <persName ref="stadtasg-actors-953">Jacob Zili</persName> das
+<lb n="19" />pfaerdt mit dem ayd als gutt, do es von im genomen, als
+<lb n="20" />do es zu im komen sye, bekennt und mir unwissent
+<lb n="21" />unverkündt uff die gannt geschlagen und umb ainen
+<lb n="22" />spott verkoufft ist, daran zu sind, das mir umb
+<lb n="23" />soelich min pferdt mitsammpt cost und schaden abtrag
+<lb n="24" />beschech von denen, die es on rechtiklich von hand geben,
+<lb n="25" />angesprochen und verkoufft hand, damit ich mich der
+<lb n="26" />sach nit wytter erclagnen und des minen atzen komen
+<lb n="27" />erdencken müße. Wil ich mit willen verdienen. Datum
+<lb n="28" /><origDate when="1487-12-30">sontags vor der beschnidung Christi LXXXVIIIto</origDate>.
+<lb n="29" /><persName ref="stadtasg-actors-952" role="issuer">Hans Studer</persName>
+<lb n="30" />von <placeName ref="stadtasg-places-38">Santtgallen</placeName>.
+<pb facs="StadtASG_Missive_448_914.JPG" n="2" />
+<lb n="31" />Den fürsichttigen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="32" />und raut zu Santtgallen</orgName> minen
+<lb n="33" />lieben herren.
+</p>
+        </body>
+    </text>
+</TEI>

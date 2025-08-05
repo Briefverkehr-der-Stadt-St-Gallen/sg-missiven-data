@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 479</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_479_979/980</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Überlingen teilen Bürgermeister und Rat zu St. Gallen mit, dass sie, nachdem der Kornkauf wiederholt Thema ihrer Korrespondenz mit St. Gallen war, an diesem Tag erfahren haben, dass die St. Galler Kornkäufer im Überlinger Gredhaus den Verkäufern gesagt hätten, sie würden den Tageshöchstpreis für das ganze Korn zahlen, was nicht den Gepflogenheiten entspricht, weswegen die Überlinger die St. Galler Kornkäufer am liebsten in Gefangenschaft gesetzt hätten, was sie aber unterlassen haben.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-145">Kornmarkt</term>
+<term ref="stadtasg-keywords-144">Getreide</term>
+<term ref="stadtasg-keywords-440">Korn</term>
+<term ref="stadtasg-keywords-80">Gredhaus</term>
+<term ref="stadtasg-keywords-91">Handel</term>
+<term ref="stadtasg-keywords-92">Preis</term>
+<term ref="stadtasg-keywords-167">Verkauf</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-180">Kaufmann</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-68">Bürgermeister und Rat zu Überlingen</orgName>                    <date>1491-10-18</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-23</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_479_979.JPG" n="1" />
+<p>
+<lb n="1" />Unnser früntlich guotwillig dienst und was wir liebs und guots vermoegenn
+<lb n="2" />zuovor ersamenn wysen in sonndern lieben und guoten fründ. Wir setzen
+<lb n="3" />in dehain zwyfel, üwer wisheit und unnser schrifften zuo mermaln
+<lb n="4" />einander getan, den kornkouff by uns beruerende, und wie zuo ziten
+<lb n="5" />von den kornkoeuffere ein merklich beswaerde zuo ufschleg gescheen sige,
+<lb n="6" />und wir allezit durch die unnsern, dem vor ze sind allen flis ankert
+<lb n="7" />haben, alles zuo nuttz und fromenn dem gemainen mann. So aber
+<lb n="8" />uns uff <date when="1491-10-18">hüttigen tag</date> date dis brieffs von üwern kornkoeffere des
+<lb n="9" />untogenlichen, ungepürlichen fürnemens in unnser gred in dem kornkoff
+<lb n="10" />geuebt, bericht worden syen der gestalt und form, das sy anfengclich
+<lb n="11" />sich zuo den gesten, die verkoeffere, gefuegt haben, zuo ynen geredt,
+<lb n="12" />sy woellend das korn in dem bessten koff, so das uff <date when="1491-10-18">hütt</date> gen
+<lb n="13" />würde, annemenn. Dardurch die üwern den nuttz und fromenn mengclichs
+<lb n="14" />nit geachtet, sonder mer genaigt, die beswaerde in zefieren, das doch
+<lb n="15" />uns onn zwifel uns der massen bewegt hat, wa wir üwer lieb früntschaft
+<lb n="16" />nit hoeher geachtet hetten dann ir person, wir hetten sy in gestraft
+<lb n="17" />gesetzt in hoffnung, sy hetten soelichs fürter tuon vermyden, und haben
+<lb n="18" />im bessten soelichs üwrer wisheit unverkündt nit woellen lassen. Dann
+<lb n="19" />der allezit früntlichen, anmuetigen willen zuo bewysen, syen wir gantz
+<lb n="20" />unverdrossen. Datum <origDate when="1491-10-18">zinstag nach sant Gallen tag anno LXXXXI</origDate>.
+<lb n="21" /><orgName ref="stadtasg-actors-68" role="issuer">Burgermeister und rate
+<lb n="22" />zuo Überlingen</orgName>.
+<pb facs="StadtASG_Missive_479_980.JPG" n="2" />
+<lb n="23" />Den ersamenn wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermeyster und rate
+<lb n="24" />zuo sant Gallen</orgName> unsern insondern lieben und guoten
+<lb n="25" />fründen.
+</p>
+        </body>
+    </text>
+</TEI>

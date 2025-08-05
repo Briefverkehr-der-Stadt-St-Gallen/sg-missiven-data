@@ -18,12 +18,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-03-11 10:24:34 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
+        <p>Datenbankexport vom 2025-08-05 18:21:16 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2025-03-11T10:24:34+01:00">teiHeader was automatically produced from the database 2025-03-11T10:24:34+01:00</change>
+      <change when="2025-08-05T18:21:16+02:00">teiHeader was automatically produced from the database 2025-08-05T18:21:16+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -1405,6 +1405,9 @@
         <item xml:id="stadtasg-keywords-157">
           <label xml:lang="de" type="main">Hof</label>
           <label xml:lang="de" type="sort">hof</label>
+          <note type="description" xml:lang="de">
+            <p>Ort und Produktionsstätte von Landwirtschaft (umfasst Gebäude und umgebendes Gelände)</p>
+          </note>
           <listBibl>
             <bibl>
               <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-keyword.xq?id=key000139"/>
@@ -1474,6 +1477,9 @@
           <listBibl>
             <bibl>
               <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-keyword.xq?id=key003022"/>
+            </bibl>
+            <bibl>
+              <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/233961"/>
             </bibl>
           </listBibl>
         </item>
@@ -2160,11 +2166,14 @@
           </listBibl>
         </item>
         <item xml:id="stadtasg-keywords-248">
-          <label xml:lang="de" type="main">Einwohner</label>
-          <label xml:lang="de" type="sort">einwohner</label>
+          <label xml:lang="de" type="main">Einwohner/in</label>
+          <label xml:lang="de" type="sort">einwohner/in</label>
           <listBibl>
             <bibl>
               <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-keyword.xq?id=key000679"/>
+            </bibl>
+            <bibl>
+              <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/239834"/>
             </bibl>
           </listBibl>
         </item>
@@ -2908,6 +2917,15 @@
             <bibl>
               <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/lemma-db-edit/views/view-keyword.xq?id=key006522"/>
             </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Eidgenössische_Abschiede"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q110589838"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/008955"/>
+            </bibl>
           </listBibl>
         </item>
         <item xml:id="stadtasg-keywords-329">
@@ -3209,6 +3227,11 @@
         <item xml:id="stadtasg-keywords-381">
           <label xml:lang="de" type="main">Weibel</label>
           <label xml:lang="de" type="sort">weibel</label>
+          <listBibl>
+            <bibl>
+              <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/237157"/>
+            </bibl>
+          </listBibl>
         </item>
         <item xml:id="stadtasg-keywords-382">
           <label xml:lang="de" type="main">Prediger</label>
@@ -3362,7 +3385,7 @@
           <label xml:lang="de" type="main">Markgraf</label>
           <label xml:lang="de" type="sort">markgraf</label>
           <note type="description" xml:lang="de">
-            <p>Bezeichnung eines seit Karl dem Grossen bestehenden Amtes, das ursprünglich die Leitung einer in einer Grenzmark gelegenen Grafschaft (Markgrafschaft), mit Sondervollmachten gegenüber dem Grafen (Befestigungsrecht, Träger des Heerbanns, der Gerichtsbarkeit auch ohne Königsbann usw.) umfasst; später nur noch als Adelstitel</p>
+            <p>Bezeichnung eines seit Karl dem Grossen bestehenden Amtes, das ursprünglich die Leitung einer in einer Grenzmark gelegenen Grafschaft (Markgrafschaft), mit Sondervollmachten gegenüber dem Grafen (Befestigungsrecht, Träger des Heerbanns, der Gerichtsbarkeit auch ohne Königsbann usw.) umfasst, später nur noch als Adelstitel</p>
           </note>
         </item>
         <item xml:id="stadtasg-keywords-410">
@@ -4210,8 +4233,8 @@
           <label xml:lang="de" type="sort">evangelisch</label>
         </item>
         <item xml:id="stadtasg-keywords-548">
-          <label xml:lang="de" type="main">Hochzeitsgeschenk</label>
-          <label xml:lang="de" type="sort">hochzeitsgeschenk</label>
+          <label xml:lang="de" type="main">Geschenk</label>
+          <label xml:lang="de" type="sort">geschenk</label>
         </item>
         <item xml:id="stadtasg-keywords-549">
           <label xml:lang="de" type="main">Agent</label>
@@ -5253,6 +5276,102 @@
               <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Geburtsbrief"/>
             </bibl>
           </listBibl>
+        </item>
+        <item xml:id="stadtasg-keywords-663">
+          <label xml:lang="de" type="main">Scharfrichter</label>
+          <label xml:lang="de" type="sort">scharfrichter</label>
+          <listBibl>
+            <bibl>
+              <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/180644"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4179402-3"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q207651"/>
+            </bibl>
+            <bibl>
+              <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/fr/articles/016389"/>
+            </bibl>
+          </listBibl>
+        </item>
+        <item xml:id="stadtasg-keywords-664">
+          <label xml:lang="de" type="main">Werg</label>
+          <label xml:lang="de" type="sort">werg</label>
+          <listBibl>
+            <bibl>
+              <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/251863"/>
+            </bibl>
+          </listBibl>
+        </item>
+        <item xml:id="stadtasg-keywords-665">
+          <label xml:lang="de" type="main">Flachs</label>
+          <label xml:lang="de" type="sort">flachs</label>
+        </item>
+        <item xml:id="stadtasg-keywords-666">
+          <label xml:lang="de" type="main">Hanf</label>
+          <label xml:lang="de" type="sort">hanf</label>
+        </item>
+        <item xml:id="stadtasg-keywords-667">
+          <label xml:lang="de" type="main">Frauenwirt</label>
+          <label xml:lang="de" type="sort">frauenwirt</label>
+          <note type="description" xml:lang="de">
+            <p>Betreiber eines Bordells</p>
+          </note>
+          <listBibl>
+            <bibl>
+              <ptr type="idiotikon" target="https://digital.idiotikon.ch/p/lem/253608"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Zuhälterei"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q43437"/>
+            </bibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4191121-0"/>
+            </bibl>
+          </listBibl>
+        </item>
+        <item xml:id="stadtasg-keywords-668">
+          <label xml:lang="de" type="main">Überfall</label>
+          <label xml:lang="de" type="sort">ueberfall</label>
+        </item>
+        <item xml:id="stadtasg-keywords-669">
+          <label xml:lang="de" type="main">Hufschmied</label>
+          <label xml:lang="de" type="sort">hufschmied</label>
+          <listBibl>
+            <bibl>
+              <ptr type="gnd" target="https://d-nb.info/gnd/4160766-1"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q694579"/>
+            </bibl>
+            <bibl>
+              <ptr type="bnf" target="https://catalogue.bnf.fr/ark:/12148/cb12125714v"/>
+            </bibl>
+            <bibl>
+              <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/topic/farrier"/>
+            </bibl>
+            <bibl>
+              <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh85062188"/>
+            </bibl>
+            <bibl>
+              <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Hufschmied"/>
+            </bibl>
+          </listBibl>
+        </item>
+        <item xml:id="stadtasg-keywords-670">
+          <label xml:lang="de" type="main">Büchsenmeister</label>
+          <label xml:lang="de" type="sort">buechsenmeister</label>
+        </item>
+        <item xml:id="stadtasg-keywords-671">
+          <label xml:lang="de" type="main">Fälschung</label>
+          <label xml:lang="de" type="sort">faelschung</label>
+        </item>
+        <item xml:id="stadtasg-keywords-672">
+          <label xml:lang="de" type="main">Schatzmeister</label>
+          <label xml:lang="de" type="sort">schatzmeister</label>
         </item>
       </list>
       <p/>

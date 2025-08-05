@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 512</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Rechter Rand abgerissen, dadurch Textverlust auf der Rückseite.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_512_1045/1046</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Konstanz teilen Bürgermeister und Rat zu St. Gallen mit, dass sie wegen der Auseinandersetzung zwischen dem St. Galler Bürger Rudolf Schläpfer und Varnbüler wegen Zinsen und Gütern zu Sipplingen einen eigenen Boten nach Sipplingen sandten, wo Daniel Spengler, Varnbülers Anwalt, Güter Schläpfers beschlagnahmt hatte. Die Richter würden noch nicht wissen, wie in dieser Streitsache entschieden werden sollte, aber möglicherweise würde sie vor dem König oder vor dem Kammergericht ausgetragen werden. Der St. Galler Bote wartete solange in Konstanz.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-10">Zins</term>
+                    <term ref="stadtasg-keywords-551">Gut</term>
+                    <term ref="stadtasg-keywords-314">Anwalt</term>
+                    <term ref="stadtasg-keywords-66">Beschlagnahmung</term>
+                    <term ref="stadtasg-keywords-605">Hauptgut</term>
+                    <term ref="stadtasg-keywords-183">König</term>
+                    <term ref="stadtasg-keywords-347">Majestät</term>
+                    <term ref="stadtasg-keywords-426">Mandat</term>
+                    <term ref="stadtasg-keywords-204">Richter</term>
+                    <term ref="stadtasg-keywords-103">Urteil</term>
+                    <term ref="stadtasg-keywords-149">Rechtstag</term>
+                    <term ref="stadtasg-keywords-212">Reichskammergericht</term>
+                    <term ref="stadtasg-keywords-9">Bote</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>                    <date>1498-03-29</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-30</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_512_1045.JPG" n="1" />
+<p>
+<lb n="1" />Unnser früntlich dinst mit fliß berait zuovor ersammen unnd wysenn liebenn unnd
+<lb n="2" />guoten frund. Uwer schribenn unns abermals von uwers burgers <persName ref="stadtasg-actors-1050">Ruodolfen Schlaipfer</persName>
+<lb n="3" />wegenn gethan, an treffennde sin zins und gueter zuo <placeName ref="stadtasg-places-343">Sipplingen</placeName>, habenn wir
+<lb n="4" />verstanndenn unnd demselbenn nach disen ewern botten biß hüt verhaltenn
+<lb n="5" />unnd zuo stund nach uberantwurtung üwers brieffs ain aignen botten gen <placeName ref="stadtasg-places-343">Siplingen</placeName>
+<lb n="6" />gesannt und die für unns beschribenn unnd sy uff hüt vermelter sach halben verhoert
+<lb n="7" />unnd hierinn sovil erfundenn, das die sach yetzo also stannd <persName ref="stadtasg-actors-1030">Daniel Spengler</persName>,
+<lb n="8" />als des <persName ref="stadtasg-actors-1051">Varnbüllers</persName> anwalt, hab deß <persName ref="stadtasg-actors-1050">Schlaipfers</persName> gueter zuo <placeName ref="stadtasg-places-343">Siplingen</placeName> verhefft
+<lb n="9" />und kürtzlich by den viertzehen tagen widerumb rechtlich begert im hoptguet
+<lb n="10" />unnd annders, so dann üwerem burger zuogehoert hab, uff sin erlanngt recht und
+<lb n="11" />koenigelicher mayestat mandaten inzuo antwürten. Darauff sich dann die richter
+<lb n="12" />urtel zuogebenn ain verdenncken genomen und deßhalbenn uff <date when="1498-03-29">hütigenn tag</date>
+<lb n="13" />ain anndern rechtag gesetzt unnd angesehenn habenn, offnung ir urtel zugeben.
+<lb n="14" />Was nun do geurtailt werd, mügen die richter, so vor unns geweßt sigenn, ouch
+<lb n="15" />wir grüntlich noch gewißlich nit wissen, aber, als unns anlanngt von
+<lb n="16" />etlichenn den selbenn richtern, so moecht die sach von in gewißt werdenn an die
+<lb n="17" />koenigelichen mayestat oder das cammergericht. Ob aber das gescheh oder nit,
+<lb n="18" />ist unns verborgenn. Das wir nun alles üwer lieb fruntlicher nachbur
+<lb break="no" n="19" />schafft halbenn uwer haltenn nit habenn wollenn laussen, umb das sich
+<lb n="20" />uwer burger darnach wiß zurichtenn. Unnd ir unns zu uwern dinsten allweg
+<lb n="21" />genaigt unnd willg zuhabenn wissenn. Datum <origDate when="1498-03-29">dornstag vor dem
+<lb n="22" />sonntag Judica anno etc. LXXXXVIII</origDate>.
+<lb n="23" /><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister unnd
+<lb n="24" />raut der statt Costentz</orgName>.
+<pb facs="StadtASG_Missive_512_1046.JPG" n="2" />
+<lb n="25" />Den ersammen unnd wysenn <gap />
+<lb n="26" /><orgName ref="stadtasg-actors-148" role="recipient">raut zuo sannt Gallenn</orgName> <gap />
+<lb n="27" />unnd guoten <gap />.
+</p>
+        </body>
+    </text>
+</TEI>

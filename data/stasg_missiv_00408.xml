@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 408</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Rechts Loch, dadurch Textverlust. Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00406.xml">406</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_408_831/832</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bischof Hermann zu Konstanz bittet Bürgermeister und Rat zu St. Gallen, am auf den 6. April in St. Gallen angesetzten Tag vor dem Komtur zu Tobel gemeinsam mit dem Ritter Ludwig von Helmsdorf, Rudolf Giel von Glattburg und Dietrich in der Halden, Altammann zu Schwyz, die Auseinandersetzung zwischen ihm und dem Abt des Benediktinerklosters St. Gallen beizulegen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+  <term ref="stadtasg-keywords-188">Bischof</term>
+<term ref="stadtasg-keywords-240">Ritter</term>
+<term ref="stadtasg-keywords-154">Ammann</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-201">Abt</term>
+<term ref="stadtasg-keywords-115">Kloster</term>
+<term ref="stadtasg-keywords-83">Frieden</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-888">Hermann III. von Breitenlandenberg</persName><placeName ref="stadtasg-places-7">Konstanz</placeName>                    <date>1472-03-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-04-08</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_408_831.JPG" n="1" />
+<p>
+<lb n="1" /><persName ref="stadtasg-actors-888" role="issuer">Herman von gottes gnaden
+<lb n="2" />bischove zuo Costenntz</persName>.
+<lb n="3" />Unnser günstlich gruos zuvor ersamen wysen besundern lieben fründ. Sölher
+<lb n="4" />irrunghalb zwischen dem erwirdigen in gott heriwleichen <persName ref="stadtasg-actors-651">abbten des gotzhuss</persName>
+<lb n="5" />by üch, unserm lieben herren und frund, etlicher der sinenhalb gegen ettlichen von
+<lb n="6" /><placeName ref="stadtasg-places-19">Bischoffzell</placeName>, oder wer zuo allen teilen darzuo verwanndt ist, sin wir gegen siner <gap />
+<lb n="7" />schafft zuo gütlichen tagen veranlasst vor üwerm burgermaister und vieren ü<supplied>werm</supplied>
+<lb n="8" />rats, so von üch darzuo geordnet werden, vor dem <orgName ref="stadtasg-actors-900">comithur zuo Tobel</orgName>, <persName ref="stadtasg-actors-768">Lu<supplied>dwigen</supplied>
+<lb n="9" />von Helmstorff</persName>, ritter, <persName ref="stadtasg-actors-901">Rudolf Giel von Glattburg</persName> und <persName ref="stadtasg-actors-902">Dietrichen in der Halten</persName>,
+<lb n="10" />alt amman zu <placeName ref="stadtasg-places-71">Schwitz</placeName>, in üwer statt uff <date when="1472-04-06">mentag nach dem sonntag quasimodogeniti</date>
+<lb n="11" />vest zehallten, und nach dem wir nu gar üch bericht sind des getrüwen misvals,
+<lb n="12" />des spanns ouch des flyss, so ir zuo andern gehallten tagen geübt haben zuo
+<lb n="13" />abstellung sölher irrung, bitten wir, ir wöllen üch sölher inn veerer begeben, ouch
+<lb n="14" />also früntlich in den sachen hallten umb unsern willen, alles in maussen sich unser
+<lb n="15" />gemüt des und aller früntschafft zuoversichtiget. Das wöllen wir hinwiderumb och
+<lb n="16" />beschulden und erkennen. Datum <origPlace ref="stadtasg-places-7">Costenntz</origPlace> uff <origDate when="1472-03-12">donstag vor dem sonntag Judica anno
+<lb n="17" />etc. LXXsecundo</origDate>.
+<pb facs="StadtASG_Missive_408_832.JPG" n="2" />
+<lb n="18" />Den ersamen wysen unnsern besundern
+<lb n="19" />lieben fründen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rat sant
+<lb n="20" />Gallen</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

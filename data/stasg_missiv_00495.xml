@@ -1,0 +1,92 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 495</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_495_1011/1012</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Konrad Kobler von Tettnang teilt Bürgermeister und Rat zu St. Gallen mit, dass er gehört habe, dass der St. Galler Bürger Franz Hutter verbreite, dass er ihn erstechen wolle. Er bittet die St. Galler, diesen Anschuldigungen nicht zu glauben, zudem bietet er an, dass Franz Hutter vor seinem Herrn Ulrich, Graf von Montfort-Tettnang, das Recht suchen könne.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-63">Gerücht</term>
+<term ref="stadtasg-keywords-23">Mord</term>
+<term ref="stadtasg-keywords-318">Schuld</term>
+<term ref="stadtasg-keywords-198">Unschuld</term>
+<term ref="stadtasg-keywords-156">Recht</term>
+<term ref="stadtasg-keywords-278">Graf</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1077">Konrad Kobler</persName>                    <date>1495-01-20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-07</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_495_1011.JPG" n="1"/>
+<p>
+<lb n="1"/>Ersamen wysen lieben heren uewer ersam wysshait syen mein willig diennst
+<lb n="2"/>zuevor. Lieben heren, mir ist warlich fürkumen und gesagt worden, wie üwer
+<lb n="3"/>mitburger <persName ref="stadtasg-actors-1078">Frantz Huetter</persName> an üwer ersam wysshait und andern enden usgen,
+<lb n="4"/>wie er vor mir nit sicher sin soelle, sonder in erstechen woelle. Bitt ich
+<lb n="5"/>üwer ersam wysshait, wa ich von dem genanten üwerm mitburger oder
+<lb n="6"/>andern gegen üwer ersam wysshait versagt wurde, soellichs und ander
+<lb n="7"/>unbillichait von mir nit zue glouben, denn ich ungern mit den üwern nichtz
+<lb n="8"/>unbillichs fürnemen woelt, als ich in unzwyffenlichem vertrüwen gegen
+<lb n="9"/>üwer ersam wysshait bin, soellichs und anders unbillichs von mir nit zue
+<lb n="10"/>glouben. Wa aber der genant üwer mitburger der oder anderer sachen
+<lb break="no" n="11"/>halb sprich zue mir zue haben vermainte, darumb er mich rechtz nit er
+<lb break="no" n="12"/>lassen moecht oder woelt, will ich im rechtz darumb gestatten vor dem
+<lb n="13"/>wolgebornen heren <persName ref="stadtasg-actors-266">Uelrichen, grauffen zue Monttfortt</persName>, her zue <placeName ref="stadtasg-places-93">Dettnangen</placeName>,
+<lb n="14"/>meinem gnaedigen heren, in guetter hoffnung, üwer ersam wysshait
+<lb n="15"/>daran von mir benuegig syen, mit flyss bittende, mit uwerm genanten
+<lb n="16"/>mitburger zueverschaffen und in vermügen wyter, und über das sölliche
+<lb n="17"/>und andere wortt von mir zuevermyden, wyter mich nit usgebe,
+<lb n="18"/>das will ich umb die selben üwer ersam wysshait, wa ich kan, guett
+<lb break="no" n="19"/>williclich verdienen. Datumm zue <origPlace ref="stadtasg-places-93">Dettnang</origPlace> an <origDate when="1495-01-20">sant Sebastyans tag
+<lb n="20"/>anno domini etc. LXXXXV</origDate>.
+<lb n="21"/><persName ref="stadtasg-actors-1077" role="issuer">Cuenratt Kobler</persName>
+<lb n="22"/>zue <placeName ref="stadtasg-places-93">Dettnang</placeName>.
+<pb facs="StadtASG_Missive_495_1012.JPG" n="2"/>
+<lb n="23"/>Denn ersam unnd wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und
+<lb n="24"/>rat zue sant Gallen</orgName> meinen lieben heren.
+</p>
+        </body>
+    </text>
+</TEI>

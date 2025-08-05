@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 434</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_434_885/886</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Isny teilen Bürgermeister und Rat zu St. Gallen mit, dass sie auf Bitten der St. Galler mit den Kaufleuten von Isny gesprochen haben und diese das St. Galler Schauzeichen nur für St. Galler Zwilch verwenden werden.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-180">Kaufmann</term>
+<term ref="stadtasg-keywords-508">Schauzeichen</term>
+<term ref="stadtasg-keywords-507">Textilwirtschaft</term>
+<term ref="stadtasg-keywords-164">Tuch</term>
+<term ref="stadtasg-keywords-258">Leinwand</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-509">Bürgermeister und Rat zu Isny</orgName>                    <date>1486-08-28</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-05-12</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_434_885.JPG" n="1" />
+<p>
+<lb n="1" />Unser früntlich willig dinst zuovor ersammen und wisen in sunder lieben und guoten fründ.
+<lb n="2" />Als ir uns ietzo von wegen unser koufflüt geschriben hand, mit in zuo reden, dehain
+<lb n="3" />venlin mit uwer stat zaichen zuo dehainem andern zwilch denn <placeName ref="stadtasg-places-38">santgaller</placeName> zwilch uff
+<lb n="4" />zuo stossen noch kain andern zwilch daby fail zuo haben, innhalt üwer schrifft, haben
+<lb n="5" />wir verstanden und haben uff das nach unsern koufflüten geschiket, in solichs für gehalten.
+<lb n="6" />Die sagen darzuo, si haben <placeName ref="stadtasg-places-38">santgaller</placeName> zwilch fail und mainen, das si daby uwer zaichen
+<lb n="7" />wol uß steken mügen. Aber wie dem so haben wir mit in geredt, welicher nit <placeName ref="stadtasg-places-38">sant
+<lb n="8" />galler</placeName> zwilch fail hab, der süll ouch üwer zaichen nicht ußstossen. Und wa wir üwer
+<lb n="9" />wißhait lieb und dinst bewisen moechten, taetten wir mit willen gern. Geben uff
+<lb n="10" /><origDate when="1486-08-28">mentag post Bartholomei anno etc. LXXXVIto</origDate>.
+<lb n="11" /><orgName ref="stadtasg-actors-509" role="issuer">Burgermaister und
+<lb n="12" />raut zuo Ysni</orgName>.
+<pb facs="StadtASG_Missive_434_886.JPG" n="2" />
+<lb n="13" />Den ersammen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und
+<lb n="14" />raut der statt zuo Santgallen</orgName>
+<lb n="15" />unsern sundern lieben und guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

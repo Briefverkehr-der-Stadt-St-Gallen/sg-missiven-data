@@ -40,7 +40,7 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="stadtasg-actors-59">Anton Schenk von Landegg</persName>
+                    <persName ref="stadtasg-actors-87">Anton Schenk von Landegg</persName>
                     <placeName ref="stadtasg-places-19">Bischofszell</placeName>
                     <date>1445-02-04</date>
                 </correspAction>
@@ -77,7 +77,7 @@
                 keren zum besten, als ich üch dann wol truw. Geben <lb n="9"/>ze <origPlace
                     ref="stadtasg-places-19">Byschoffzell</origPlace> uff <origDate when="1445-02-04">sant
                     Agten abent anno domini etc. XLVto</origDate>. <lb n="10"/><persName
-                     ref="stadtasg-actors-59" role="issuer">Anthoni Schenk von Landegg</persName>, <lb n="11"
+                     ref="stadtasg-actors-87" role="issuer">Anthoni Schenk von Landegg</persName>, <lb n="11"
                 />vogt ze <placeName ref="stadtasg-places-19">Byschoffzelle</placeName>. <pb
                     facs="StadtASG_Missive_187_376.JPG" n="2"/>
                 <lb n="12"/>Den fürsichtigen und wisen dem <orgName ref="stadtasg-actors-148" role="recipient"

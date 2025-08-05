@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 534</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_534_1089/1090</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ambrosius Eigen in Mailand teilt Bürgermeister Johannes Schenkli zu St. Gallen mit, dass er mit Beeli wegen des Jahrgeldes gesprochen habe. Dieser sei seit drei Jahren nicht mehr am Hof gewesen, wo die Vereinbarung geschlossen worden war, sondern in der Lombardei. Eigen händigte Beeli die Quittung aus und erfuhr, dass sich die Knechte nach Genua begeben sollen und von da nach Neapel. Beeli habe dabei versprochen, sich beim König, der noch in Asti im Piemont weile, sich für die St. Galler einzusetzen, sobald dieser nach Mailand komme. Eigen werde sich bemühen, dass die St. Galler Knechte ihr Geld bekommen, und er bittet, dem Beeli einen Boten zur Verfügung zu stellen.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-265">Quittung</term>
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-124">Knecht</term>
+<term ref="stadtasg-keywords-344">Solddienst</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1112">Ambrosius Eigen</persName><placeName ref="stadtasg-places-311">Mailand</placeName>                    <date>1502-07-21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-1012">Johannes Schenkli</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-14</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_534_1089.JPG" n="1"/>
+<p>
+<lb n="1"/>Min underdenigen willigen diensst zuo vor lieber her burgenmeisster. Nach
+<lb n="2"/>dem als ir mit mir verlassen hand von minen heren wegen, als uech
+<lb n="3"/>wuol ze wuessen ist, von des iar geltz wegen, so lan ich uech wuessen, dz
+<lb n="4"/>ich mit dem <persName ref="stadtasg-actors-1113">Belly</persName> gerett han und in gefragt hab, ob er nuet wuessy dar
+<lb n="5"/>von zesegen. Do hett er mir zeantwurt geben, er sigy in true iaren nuett
+<lb n="6"/>im hoff gesin, do man den statt beschloßen hab, und sy al weg in <placeName ref="stadtasg-places-371">Lambarten</placeName>
+<lb n="7"/>gesin, aber do er zuom lesten sigy von hoff gescheiden, do sigent sy ouch in der
+<lb n="8"/>zal gesin, und in dem staet beschlossen, dz wuessy er wuoll, got geb, wie es
+<lb n="9"/>gangen sy. Aber nuet dester minder so hab ich mit dem <persName ref="stadtasg-actors-1113">Belly</persName> verlassen und han
+<lb n="10"/>im die quittantz geben, und hett mir zuo geseit, dz er dz best welly in der
+<lb n="11"/>sach bruchen und well uewer nuet vergessen, als bald der kunig gen <placeName ref="stadtasg-places-311">Meiland</placeName>
+<lb n="12"/>kaemy, wan er ist nach zuo <placeName ref="stadtasg-places-373">Ast</placeName> in <placeName ref="stadtasg-places-372">Bemund</placeName>. Und muessent die knecht all von stund
+<lb n="13"/>an gen <placeName ref="stadtasg-places-370">Gennow</placeName> und da ufs mer gen <placeName ref="stadtasg-places-341">Nappoltz</placeName>, und dar umm so dorft ich nuemen
+<lb n="14"/>beiten, untz dz der kuenig gen <placeName ref="stadtasg-places-311">Meiland</placeName> kemy ursachen halb, es wer mir
+<lb n="15"/>verwissenn xstanden, soelt ich in <placeName ref="stadtasg-places-311">Meiland</placeName> bliben gesin, und soelt nuet mit minen
+<lb n="16"/>heren knechten von <placeName ref="stadtasg-places-38">sant Gallen</placeName> und mit anderen eidtgnosen zogen xsin sin in
+<lb n="17"/><placeName ref="stadtasg-places-341">Nappoltz</placeName>. Und dar umm so segent minen heren, das sy denn minen das best duegint,
+<lb n="18"/>so wil ich denn irenn ouch das best thuon, dz soend si innen werden. Und witer
+<lb n="19"/>hett mir der <persName ref="stadtasg-actors-1113">Belly</persName> bevollen, min heren soellent im von stund an ein botten
+<lb n="20"/>schicken und im ob ligi und inn tran many, wann er wirt fil zeschaffen
+<lb n="21"/>han, als bald als der kuenig kumpt, und dar umm, so laencz nuet underwegen
+<lb n="22"/>und schickent im ein botten, so wirt sinnen gehulffen, wan er hett mir so vil
+<lb n="23"/>zuo geseit von minen heren wegen, dz ich wil guot fuer quittacz und fuer dz
+<lb n="24"/>gelt guott sin, dz ich hoff und truew, es soell innen werden, wann er hett mir so
+<lb n="25"/>fil zuo geseit, dz ich mein, er haltis nuet me, den gott sy mit uech. Geben zuo <unclear>men</unclear>
+<lb n="26"/><origPlace ref="stadtasg-places-311">Meiland</origPlace> am <origDate when="1502-07-21">donstag vor sant Jacobs dag 1502</origDate>.
+<lb n="27"/><persName ref="stadtasg-actors-1112" role="issuer">Ambrosy Eigen</persName>.
+<pb facs="StadtASG_Missive_534_1090.JPG" n="2"/>
+<lb n="28"/>Dem fursichtigen ersamen unnd
+<lb n="29"/>wisenn <persName ref="stadtasg-actors-1012" role="recipient">Johann Schennckly</persName>
+<lb n="30"/>burgermaister zuo <placeName ref="stadtasg-places-38">sant Gallen</placeName>
+<lb n="31"/>minemm gunstigen hern.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 460</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_460_937/938</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die Ratsboten an der eidgenössischen Tagsatzung zu Luzern teilen Bürgermeister und Rat zu St. Gallen mit, dass sie den Söldnern, die sich in Frankreich aufhalten, schreiben, sie sollten heimkehren und dass ihnen dann Strafmilderung oder -befreiung zugesichert werde. Denn mit den Söldnern verliere man sinnbildlich den Roggen, von dem man dann Mangel leide, und der König behandle die Söldner nur dann recht, wenn er ihrer bedarf, sonst würden sie schlechter als Hunde gehalten. Sie fordern die St. Galler auf, das ebenfalls zu tun und dieses Schreiben innert acht Tagen nach Luzern zu schicken, damit es, zusammen mit den Schreiben der anderen Orte, den Söldnern zugestellt werden könne.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-526">Ratsbote</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-254">Söldner</term>
+<term ref="stadtasg-keywords-514">Heimkehr</term>
+<term ref="stadtasg-keywords-107">Strafe</term>
+<term ref="stadtasg-keywords-285">Begnadigung</term>
+<term ref="stadtasg-keywords-512">Kornmangel</term>
+<term ref="stadtasg-keywords-513">Roggen</term>
+<term ref="stadtasg-keywords-124">Knecht</term>
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-534">Eidgenössische Räte</orgName><placeName ref="stadtasg-places-69">Luzern</placeName>                    <date>1489-05-23</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-04</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_460_937.JPG" n="1" />
+<p>
+<lb n="1" />Unnser fruntlich willig dienst und was wir eren und gutes vermoegen zuevor fursichtigen wisen besondern
+<lb n="2" />guoten frund und getrüwen lieben eidgnossen. Nach dem uwer und unnser knecht aber ein mergklich
+<lb n="3" />zal in <placeName ref="stadtasg-places-131">Franckrich</placeName> geluffen und noch da sind, das uns nit unbillich befroemdet, dann wir komen umb
+<lb n="4" />die unnsern und verlieren den rogen, der wir nachmalen mergklich manglenn muessen, zue dem ist es
+<lb n="5" />den landen vast scheadlich, mer dann wir betrachten moegen, und verlieren die an nütz und mit schaden,
+<lb n="6" />als ir selbs verstan moegen. Wann der küng<note>Gemeint ist König <persName ref="stadtasg-actors-972">Karl VIII.</persName>.</note> der knechten bedarff, so sind sy dann lieb und werd, und
+<lb n="7" />wann er ir nit bedarff, so sech man sy nit an und werden schnoeder gehalten dann die hund. Das
+<lb n="8" />haben wir zue hertzen genomen ouch der verlurst der knechten und haben dem <persName ref="stadtasg-actors-972">kung</persName> aber ge
+<lb break="no" n="9" />schriben, den knechten urloub zue geben, sy furer in sold nit uffnemen und die vereinung an uns
+<lb n="10" />halten und sin küniglich maiestät des hoch ermanet, des glich den knechten ouch geschriben und sy treffenlich
+<lb n="11" />heim ze komen ermant, und inen zue erkennen geben miltrung der straff, dz etlich ortt
+<lb n="12" />inen die gantz abgelassen hand, das sy heim komen und gehorsam syen, als ietlich ortt den
+<lb n="13" />sinen dz schribt, wie man sy halten will, welche gehorsam old ungehorsam erschinen, als sy das
+<lb n="14" />vernemen werden, dz wir uch im besten und in den fuegen, verkunden uch von uns nit
+<lb n="15" />sundren, das ir die ruven wie wir, die erheim ze komen beschriben und ermanen wellen,
+<lb n="16" />und dz nit underwegen lassen, sunder uch harinne bewisen, als wir uch getruwen. Dz wellen
+<lb n="17" />wir umb uch früntlich verdienen. Und die brieff, so ir den uwern schriben, sond ir in <date when="1489-05-31">VIII
+<lb n="18" />tagen</date> gan <placeName ref="stadtasg-places-69">Lutzern</placeName> schicken, damit sy die mit den unnsern den knechten schicken und antwurten
+<lb n="19" />moegen. Datum <origPlace ref="stadtasg-places-69">Luczern</origPlace> <origDate when="1489-05-23">sambstag vor Urbany anno etc. LXXXVIIIIto</origDate>.
+<lb n="20" />Der <orgName ref="stadtasg-actors-534" role="issuer">eidgossen botten</orgName> der zit zue
+<lb n="21" /><placeName ref="stadtasg-places-69">Lutzern</placeName> byeinandern versampnet.
+<pb facs="StadtASG_Missive_460_938.JPG" n="2" />
+<lb n="22" />Den frommen fursichtigen wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und ratte
+<lb n="23" />zue sant Gallen</orgName> unnsern besondern gueten fründen
+<lb n="24" />und getrüwen lieben eidtnossen.
+</p>
+        </body>
+    </text>
+</TEI>

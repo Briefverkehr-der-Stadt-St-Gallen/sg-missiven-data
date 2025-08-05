@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 442</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_442_901/902</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Erzherzog Sigismund von Österreich bittet Bürgermeister und Rat zu St. Gallen, ihm Büchsen, Pulver und Salpeter für seinen Krieg gegen Venedig zukommen zu lassen, wofür er sich der Stadt gegenüber erkenntlich zeigen oder dafür bezahlen werde. Er bittet um eine Antwort.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-326">Büchse</term>
+<term ref="stadtasg-keywords-597">Schiesspulver</term>
+<term ref="stadtasg-keywords-596">Salpeter</term>
+<term ref="stadtasg-keywords-327">Waffe</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-30">Zahlung</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+<term ref="stadtasg-keywords-574">Erzherzog</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-416">Sigismund von Österreich</persName><placeName ref="stadtasg-places-151">Hall in Tirol</placeName>                    <date>1487-05-22</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-05-23</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_442_901.JPG" n="1" />
+<p>
+<lb n="1" /><persName ref="stadtasg-actors-416" role="issuer">Sigmund</persName> von gotz gnadn
+<lb n="2" />ertzhertzog zu <placeName ref="stadtasg-places-91">Osterreich</placeName> etc.
+<lb n="3" />Besuondern liebn und getrewen. Als wir mit den <placeName ref="stadtasg-places-188">Venedigern</placeName> zu krieg und aufrur kumen sein, daran unns
+<lb n="4" />nit klain gelegn ist, werdn wir bericht, wie ir etwas puchsn, pulfer und salyter habn solt. Begern wir an ew
+<lb n="5" />mit gantzem vleytz dem sundern vertrawn nach, so wir zu ew habn, ir wellet uns in disen unsern geschaefftn
+<lb n="6" />damit, so mayst ir mugt, zu stattn kumen, dasselb zayger ditz briefs antwurtn, welln wir ew mit der zeyt
+<lb n="7" />anders an die stat gebn oder aber solhs betzaln und das dannoch mit gnadn, wo sich das gepurt, erkennen. Gebn
+<lb n="8" />in <origPlace ref="stadtasg-places-151">Hall</origPlace> an <origDate when="1487-05-22">eritag nach suntag Vocem Jocunditatis anno etc. LXXXVIImo</origDate> under unserm ring setzet.
+<pb facs="StadtASG_Missive_442_902.JPG" n="2" />
+<lb n="9" />Unnsern besunder liebn und getrewn
+<lb n="10" />dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat zu
+<lb n="11" />sannd Gallen</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

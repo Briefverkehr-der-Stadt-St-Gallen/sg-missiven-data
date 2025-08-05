@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 492</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_492_1005/1006</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ludwig Ammann, Stadtschreiber zu Zürich, bittet Rudolf Schlaipfer, Säckelmeister zu St. Gallen, dafür zu sorgen, dass er den jährlichen Zins von 25 Gulden erhält, der am 23. April fällig gewesen wäre. Ludwig wundert sich darüber, dass es dieses Jahr so lange dauert.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-497">Säckelmeister</term>
+<term ref="stadtasg-keywords-10">Zins</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1074">Ludwig Ammann</persName>                    <date>1494-09-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-1050">Rudolf Schlaipfer</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-07</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_492_1005.JPG" n="1"/>
+<p>
+<lb n="1"/>Lieber herr seckelmeister. Als min heren <orgName ref="stadtasg-actors-148">burgermeister und ratt
+<lb n="2"/>der statt Sannttgallen</orgName> mir XXV gulden r<ex>inisch</ex> ierlichs zinses
+<lb n="3"/>schuldig, die uff <date when="1494-04-23">sannct Joergen tag lanngest verschinnen</date>
+<lb n="4"/>gevallen sind, bitt ich üch, darob ze sin, damit ich
+<lb n="5"/>soelichs zinß an lenngern verzug enntricht und gewart
+<lb n="6"/>werde, dann mich verwundert ettwas, das es disß
+<lb n="7"/>iar so lanng uffgehalten wirdt. Das wil ich gernn
+<lb n="8"/>umb üch verschulden. Datum <origDate when="1494-09-12">fritag nach nativitatis
+<lb n="9"/>Marie anno etc. LXXXXIIIIto</origDate>.
+<lb n="10"/><persName ref="stadtasg-actors-1074" role="issuer">Ludwig Amman</persName>
+<lb n="11"/>stattschr<ex>iber</ex> <placeName ref="stadtasg-places-32">Zürich</placeName>.
+<pb facs="StadtASG_Missive_492_1006.JPG" n="2"/>
+<lb n="12"/>An min herrnn seckel
+<lb break="no" n="13"/>meister zuo Sanntgallen<note>Säckelmeister in St. Gallen im Jahr 1494 war <persName ref="stadtasg-actors-1050" role="recipient">Rudolf Schlaipfer</persName>.</note>.
+</p>
+        </body>
+    </text>
+</TEI>

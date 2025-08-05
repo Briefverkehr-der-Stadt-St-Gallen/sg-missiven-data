@@ -1,0 +1,87 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 491</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_491_1003/1004</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich teilen Bürgermeister und Rat zu St. Gallen mit, dass der König von Frankreich das Königreich Neapel erorbern wolle, weswegen er deutsche Hauptleute angeheuert habe, die in der Eidgenossenschaft Söldner anwerben sollen. Das widerstrebt den eidgenössischen Orten, weshalb die Zürcher die St. Galler bitten, diese Hauptleute, falls sie sie antreffen, gefangen zu nehmen und den Solddienst nicht zu gestatten.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-183">König</term>
+                    <term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-593">Eroberung</term>
+<term ref="stadtasg-keywords-254">Söldner</term>
+<term ref="stadtasg-keywords-46">Gefangennahme</term>
+<term ref="stadtasg-keywords-344">Solddienst</term>
+<term ref="stadtasg-keywords-474">Hauptmann</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1494-03-20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-07</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_491_1003.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich willig dienst und was wir eren liebs und guets vermoegen alle zyt zue vor bereit frommen fursichtigen
+<lb n="2"/>bsondern gueten fründ und getrüwen lieben eidgnossen. Uns ist warlich angelangt, wie der franckrichisch küng<note>Gemeint ist König <persName ref="stadtasg-actors-972">Karl VIII.</persName>.</note>
+<lb n="3"/>des willens und gemuets syge, in das küngrich von <placeName ref="stadtasg-places-341">Napels</placeName> ze zühen und mit dem schwert zue erobern und
+<lb n="4"/>also in sinen gewalt ze bringen, und das och er daruff ietz aber etlich dütsch hoptlüt bestelt und denen
+<lb n="5"/>befelch geben hab, der <orgName ref="stadtasg-actors-750">Eidgnoschaft</orgName> knecht aeben in mercklicher zal uf ze wiglen und hin weg ze fueren.
+<lb n="6"/>An sölichem wir billich nit gefallen haben und uns nit zwifelt, dann sölichs üch och nit gefellig sige,
+<lb n="7"/>dem nach so ist unser ernstlich bitt, ir wöllen uff sölich uff wigler guet acht und ufsähen haben, und wo ir
+<lb n="8"/>die beträten und ankommen mögen, die gefengcklich an nemmen zue lasen, desglich niemands der üwern zue
+<lb n="9"/>gstatten, sich in sölich oder ander krieg ze fuegenn, als das die notturft und aller unser <orgName ref="stadtasg-actors-750">Eidgnoschaft</orgName> lob, nutz und
+<lb n="10"/>er erfordert. Wellen wir alle zyt, und wa es sich begibt, zue beschulden und zue verdienen haben, zue sampt
+<lb n="11"/>dem, das ir da von von andern unsern eidgnossen och danck enpfahen und erlangen mögen. Datum <origDate when="1494-03-20">donstag
+<lb n="12"/>vor dem palmtag anno etc. LXXXXIIII</origDate>.
+<lb n="13"/><orgName ref="stadtasg-actors-503" role="issuer">Burgermeister und rat
+<lb n="14"/>der stat Zürich</orgName>.
+<pb facs="StadtASG_Missive_491_1004.JPG" n="2"/>
+<lb n="15"/>Den fürsichtigen ersamen wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rat zue
+<lb n="16"/>sant Gallen</orgName> unsern sondern gueten fründen und getrüwen
+<lb n="17"/>lieben eidgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

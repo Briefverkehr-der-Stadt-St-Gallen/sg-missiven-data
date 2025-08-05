@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 411</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Entwurf.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_411_837/838</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen bitten Johann II. von Werdenberg, Bischof zu Augsburg, seinen Kirchenpfleger von Rettenberg, Hermann von Gottsfeld anzuweisen, dem St. Galler Bürger Heinz Mayer von Egg sein beschlagnahmtes Gut wiederzugeben, wie das Bürgermeister und Rat zu Konstanz in einem Rechtsspruch festgelegt hätten, nachdem der Abt von Kempten entschieden hatte, dass diese Auseinandersetzung dort ausgetragen werden sollte. Die St. Galler bitten um eine schriftliche Antwort mit dem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+  <term ref="stadtasg-keywords-66">Beschlagnahmung</term>
+<term ref="stadtasg-keywords-495">Hab und Gut</term>
+<term ref="stadtasg-keywords-156">Recht</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-188">Bischof</term>
+<term ref="stadtasg-keywords-201">Abt</term>
+<term ref="stadtasg-keywords-16">Kirchenpfleger</term>
+<term ref="stadtasg-keywords-115">Kloster</term>
+<term ref="stadtasg-keywords-149">Rechtstag</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                    <date>1472-12-07</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-759">Johann II. von Werdenberg</persName>              </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2024-10-15</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_411_837.JPG" n="1" />
+<p>
+<lb n="1" />Minen gnaedigen herren von <placeName ref="stadtasg-places-135">Augspurg</placeName><note><persName ref="stadtasg-actors-759" role="recipient">Johann II. von Werdenberg, Bischof zu Augsburg</persName>.</note> von <persName ref="stadtasg-actors-762">Haintzen
+<lb n="2" />Mayers</persName> wegen etc.
+<lb n="3" />Hochwirdiger fürst gnaediger herr unser undertaenig willig dienst
+<lb n="4" />und waz wir eren liebs und guotz vermoegen syen üwern gnaden
+<lb n="5" />von uns zuovoran beratt. Gnaediger herr, als denn langzit her stoesß
+<lb n="6" />und spenn gewesen sind zwüschend üwer gnaden pfleger zuo <placeName ref="stadtasg-places-256">Rotem
+<lb break="no" n="7" />berg</placeName>, <persName ref="stadtasg-actors-760">Herman von Gotzfelden</persName>, und <persName ref="stadtasg-actors-762">Haintzen Mayer</persName> von Eggem<note>Wohl <placeName ref="stadtasg-places-258">Egg an der Günz</placeName>.</note>, unserm burger,
+<lb n="8" />desßhalb wir üwer gnaden zuo dicken mal geschriben und gebetten haben,
+<lb n="9" />mit im zeverschaffem, unßerm das sin, so im derselb pfleger verhefft hat, zeentschlahen
+<lb n="10" />und ledig zelassen, das allez bißher nit hat moegen dem unsern
+<lb n="11" />vollangen. Nun vernemen wir, das ain guetlicher tag zwüschend
+<lb n="12" />inen gehalten sye vor dem hochwirdigen in got, vatter und heren
+<lb n="13" />hern <persName ref="stadtasg-actors-759">Johansen</persName>, abbt des gotzhuß zuo <placeName ref="stadtasg-places-40">Kempten</placeName>, daby und mit
+<lb n="14" />üwer gnaden anvalden gewesen syen und sovil zwüschend inen
+<lb n="15" />geredt, das sy soelicher stoesß und spenn zuo recht verainbert syen uff
+<lb n="16" />die fürsichtigen und wysen <orgName ref="stadtasg-actors-56">burgermaister und clainen rat zuo Costentz</orgName>
+<lb n="17" />verdingt recht umb recht, und waz da gesprochen wurde, daby
+<lb n="18" />zebeliben an verrer verwaegren und dem unsern daz sin daruff entschlagen sin, soelichs soelten der pfleger und üwer
+<lb n="19" />gnaden anwalden in <date when="1472-12-21">vierzechen tagen</date> zuegesagt haben, das also bißher
+<lb n="20" />nitt beschechen ist, und der unser des sinen usßligt, als wir mainen
+<lb n="21" />umbillich. Hierumb hochwirdiger gnaediger herr bitten wir üwer
+<lb n="22" />fürstlich gnad mit undertaenigem und ernstlichem flizze, sovil mit
+<lb n="23" />üwerm pfleger zeverschaffen und daran zuo sind, dem unsern das sin
+<lb n="24" />uff soelich verainbarung des rechten zeentschlahen und ledig zelassen,
+<lb n="25" />und deßglich der unser auch thuon wil, und die von <placeName ref="stadtasg-places-7">Costentz</placeName> ze bitten, sich des rechten anzemen und ze beladen
+<lb n="26" />und kurtz tag daran zesetzten, damit die sach zuo entlichem ußtrag
+<lb n="27" />komme und cost und schad, so füro darüber gan moechten, vermitten belibe
+<lb n="28" />und nit ergers daruß erwachße. Denn soelte soelichs abgeschlagen würden,
+<lb n="29" />des wir nitt getruwen, wurde denn der genant <persName ref="stadtasg-actors-762">Mayer</persName> die ding in
+<lb n="30" />ander weg für sich nemen und sach uns entpfroemden, muesten wir
+<lb n="31" />laussen geschehen, daz uns doch nitt lieb, sunder vil lieber waer, daz die ding
+<lb n="32" />guetlich ab weg kaemen. Und üwer gnad woelle sich hierinn also gnaedig
+<lb n="33" />und gunstlich zebewisen, als wir üwren gnaden mit sonderhait <unclear>woellen</unclear> vertruwen. Wa
+<lb n="34" />wir das hinfür umb üwer gnad und die üwern in solichen und
+<lb n="35" />meren sachen dehains wegs verdienen moegen, darzuo woellen wir
+<lb n="36" />guotwillig und unverdrossen sin. Und begerent darumb üwer gnaedig verschriben antwurt by dem botten. Geben in <origDate when="1472-12-07">vigilia Conceptionis
+<lb n="37" />Marie anno domini etc. LXXIIo</origDate>.
+<lb n="38" /><orgName ref="stadtasg-actors-148" role="issuer">Burgermaister und raut
+<lb n="39" />der statt zuo Santgallen</orgName>.
+<pb facs="StadtASG_Missive_411_838.JPG" n="2" />
+</p>
+        </body>
+    </text>
+</TEI>

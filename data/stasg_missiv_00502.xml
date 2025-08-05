@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 502</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_502_1025/1026</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau teilen den in Luzern versammelten Ratsboten der Eidgenossenschaft mit, dass sie in der Angelegenheit zwischen denen von Appenzell und Hermann Schwendiner auf Aufforderung des königlichen Kammergerichts zwar gehandelt, aber keine Kopie eines entsprechenden Briefes erhalten hätten. Zudem möchten die Lindauer in Zukunft nicht mehr mit solchen Angelegenheiten behelligt werden.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                     
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-454">Kopie</term>
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-212">Reichskammergericht</term>
+<term ref="stadtasg-keywords-21">Rechtshilfe</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>                    <date>1496-08-30</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-534">Eidgenössische Räte</orgName>   <placeName ref="stadtasg-places-69">Luzern</placeName>             </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-24</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_502_1025.JPG" n="1" />
+<p>
+<lb n="1" />Fromen ersamen und wysen besonder lieben und guotten fründ unser willig und fründtlich dinst
+<lb n="2" />sein euch allezit berait voran. Eüwer schriben uns yetzo gethan, beruerend unser guot
+<lb n="3" />fründ von <placeName ref="stadtasg-places-8">Appenzell</placeName> und <persName ref="stadtasg-actors-1036">Herman Swendiner</persName>, wir vernomen, dar inne dehain copi
+<lb n="4" />der koeniglichen maiestät briefe funden, und was wir dar inn uß gehorsam der koeniglichen maiestät, des wir
+<lb n="5" />doch vast lieber vertragen gewesen waern, gehandelt, haben wir nach bevelh der
+<lb n="6" />koeniglichen commission in siner koeniglichen gnaden kamergericht abgevertigt und mit hoechstem flyß
+<lb n="7" />gebetten, uns soellicher ding hinfür zuovertragen, woellen wir in andern der koeniglichen maiestät
+<lb n="8" />sachen alle zitt dester williger sein. Dabi lassen wir das bestan, woelten vil lieber
+<lb n="9" />muessig gon denn soellich arbait haben. Das verkünden wir eüwer ersamen
+<lb n="10" />wyßhait, üch darnach wissen zuorichten. Wan wa wir gethuon moechten,
+<lb n="11" />das üwer fürsichtigkait dinstlich und lieb waer, taetten wir mit gantzem
+<lb n="12" />willen gearn. Datum <origDate when="1496-08-30">3a post Bartholomei anno etc. LXXXXVIto</origDate>.
+<lb n="13" /><orgName ref="stadtasg-actors-511" role="issuer">Burgermaister und
+<lb n="14" />rat zuo Lindow</orgName>.
+<pb facs="StadtASG_Missive_502_1026.JPG" n="2" />
+<lb n="15" />Den frommen ersammen wysen gemainer <orgName ref="stadtasg-actors-750">Eidgnoss
+<lb break="no" n="16" />schafft</orgName> von <orgName ref="stadtasg-actors-534" role="recipient">stetten und leandern raeten</orgName> ietz
+<lb n="17" />zuo <placeName ref="stadtasg-places-69">Lucern</placeName> versampnet unsern insonder lieben
+<lb n="18" />und guotten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

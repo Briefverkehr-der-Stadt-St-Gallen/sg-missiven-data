@@ -1,0 +1,80 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 529</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_529_1079/1080</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Küster und Kapitel des Stifts zu Markdorf bitten Bürgermeister und Rat zu St. Gallen, Michael Altherr von St. Gallen, der sich als Inhaber einer Chorherrenpfründe vorbildlich verhalten habe, für die frei gewordene Stelle als Kaplan in St. Gallen zu berücksichtigen. Die Anfrage an die St. Galler geschieht auf Bitte Altherrs an den Küster und das Kapitel des Stifts.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-517">Lehenherr</term>
+<term ref="stadtasg-keywords-115">Kloster</term>
+<term ref="stadtasg-keywords-516">Pfrund</term>
+<term ref="stadtasg-keywords-35">Priester</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-1109">Küster und Kapitel des Stifts zu Markdorf</orgName>                    <date>1501-01-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-14</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_529_1079.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser gepet hie in zyt gegen got unnd willige dinste zuvor fursichtigen ersamm wysen lieben herren. Wir
+<lb n="2"/>werden von herr <persName ref="stadtasg-actors-1091">Michel Altherren</persName>, üwer stattkind, bericht daz ain caplan zuo <placeName ref="stadtasg-places-38">sannt Gallen</placeName>, der üwer wyss
+<lb break="no" n="3"/>hait lehenherren, diser zyt ledig sige, mit pit an unns, imm deshalben gegen üwer wyshait fürderlich zu sin, also
+<lb n="4"/>unnd dwil sich derselbe herr <persName ref="stadtasg-actors-1091">Michel</persName> die iar unnd zyt, so er ain chorherren pfründe bi unns versehen, so
+<lb n="5"/>priesterlich, togenlich unnd geschickt gehalten hat, so sin wir imm zufurdrung gannz genaigt. Darumm
+<lb n="6"/>so ist unnser ernstlich pit an uwer wyshait, die wole imm geruerter ursachen unnd voran umm
+<lb n="7"/>gotz willen sölh pfründe für annder verlyhen. Zwyflet unns nit, er werde sich dermasen halten,
+<lb n="8"/>darab die menschen besrung von imm annemmen und got durch in gelopt werd. Daz
+<lb n="9"/>wollen wir umm üwer wyshait zuverdien willig sin. Datum <origDate when="1501-01-12">zinstag vor Hilarye anno domini
+<lb n="10"/>etc. XVc unnd ain iar</origDate>.
+<lb n="11"/><orgName ref="stadtasg-actors-1109" role="issuer">Custer unnd cappittel
+<lb n="12"/>der stifft zuo Marcktdorff</orgName>.
+<pb facs="StadtASG_Missive_529_1080.JPG" n="2"/>
+<lb n="13"/>Den fursichtigen ersamm wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister unnd
+<lb n="14"/>rate der statt sannt Gallen</orgName> unnsern lieben herren.
+</p>
+        </body>
+    </text>
+</TEI>

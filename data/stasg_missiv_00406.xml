@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 406</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00408.xml">408</ref>. Die erwähnte <ref target="stasg_missiv_00406-suppl-01.xml">Beilage</ref> ist vorhanden.</p></note></notesStmt> 
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_406_827/828</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_406_827/828</idno><altIdentifier type="filename"><idno>stasg_missiv_00406-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc>  
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bischof Hermann Breitenlandenberg von Konstanz teilt Bürgermeister und Rat zu St. Gallen mit, dass er an einem vom Abt des Benediktinerklosters St. Gallen auf den 29. Februar angesetzten Tag wegen der Auseinandersetzung zwischen dem Bischof und dem Abt nach dem vorhergehenden erfolglosen Treffen in Wil nicht teilnehmen werde und dem Abt mit dem beiliegenden Schreiben mitgeteilt habe. Er dankt den St. Gallern für ihre Unterstützung bei der Beilegung der Auseinandersetzung.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+  <term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-131">Versammlung</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-201">Abt</term>
+<term ref="stadtasg-keywords-188">Bischof</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-888">Hermann III. von Breitenlandenberg</persName> <placeName ref="stadtasg-places-7">Konstanz</placeName>                   <date>1472-02-27</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-04-08</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_406_827.JPG" n="1" />
+<p>
+<lb n="1" /><persName ref="stadtasg-actors-888" role="issuer">Herman von gottes gnaden
+<lb n="2" />byschove zuo Costenntz</persName>.
+<lb n="3" />Unnsern früntlichen grus ersammen wysen besundern lieben fründ. Wir syen ungezwyfelt,
+<lb n="4" />wie und was der irrung halb, der sich unnser herr und fründ von <placeName ref="stadtasg-places-38">sannt Gallen</placeName> wider
+<lb n="5" />unns und die unnsern an nimpt, yetzo zuo <placeName ref="stadtasg-places-102">Wyl</placeName> gehanndelt, und wes sich die unsern
+<lb n="6" />erbotten haben, ir von üwern dagehapten ratzfrunden wol vernommen, und dwyle sölich
+<lb n="7" />sin meynung der masß pfenndtlich und unmuglich sin abschlahen unnsers herbietens
+<lb n="8" />so unbillich gewesen ist, haben wir gemaint, das wir unns und den unsern nit schul
+<lb break="no" n="9" />dig sin allain nach sinem aigenn willen ze hanndeln, sonder haben wir sölhen tag,
+<lb n="10" />der uff <date when="1472-02-29">yetzo sambstag</date> in dem sin, unnder den sin und zum teil vor den sinen angesetzt
+<lb n="11" />gewesen ist, dem bemelten unnserm herren und fründ ab und im dagegen geschriben,
+<lb n="12" />wie ir das an diser byliggenden coppy vernemen, und sagen dennoch üch früntlichen
+<lb n="13" />dannck üwers flysses, so ir uff dem nechstgehallten tag dargelegt und verrer zetuon er
+<lb break="no" n="14" />botten haben, nit zwyflend, ob und wie unnser haltung in annder wyse an üch lanngen
+<lb n="15" />wurde, ir dennoch unns und unnsers erbietens zuoverantwürten wissen und des
+<lb n="16" />zethuon willen haben wurden, das wöllen wir hinwiderumb ouch beschulden.
+<lb n="17" />Datum <origPlace ref="stadtasg-places-7">Costenntz</origPlace> uff <origDate when="1472-02-27">donstag vor Oculi anno etc. LXXsecundo</origDate>.
+<pb facs="StadtASG_Missive_406_828.JPG" n="2" />
+<lb n="18" />Den ersamen wysen unnsern besundern lieben
+<lb n="19" />fründen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rat zuo Santgallen</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

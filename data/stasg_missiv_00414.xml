@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 414</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_414_843/844</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Dekan und Kapitel des Stifts zu Konstanz bitten Bürgermeister und Rat zu St. Gallen darum, ihnen für eine kurze Zeit vier oder fünf Hakenbüchsen auszuleihen, da das Schloss Arbon gefährdet sei. Sie bitten um eine schriftliche Antwort.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+   <term ref="stadtasg-keywords-108">Dekan</term>
+<term ref="stadtasg-keywords-326">Büchse</term>
+<term ref="stadtasg-keywords-69">Leihe</term>
+<term ref="stadtasg-keywords-540">Schloss</term>
+<term ref="stadtasg-keywords-225">Kriegsgefahr</term>
+<term ref="stadtasg-keywords-95">Warnung</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-767">Dekan und Kapitel des Stifts zu Konstanz</orgName>                    <date>1475-04-02</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-03-31</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_414_843.JPG" n="1" />
+<p>
+<lb n="1" />Unnsern fruntlichen willen und als guot zuvoran ersamen wysen besonnder lieben und guoten frund.
+<lb n="2" />Unns lanngt in unsern irrungen allerlay warnung an, also das wir billich dester furo mer sorg
+<lb n="3" />uff unnser schloß<note>Gemeint ist <placeName ref="stadtasg-places-30">Schloss Arbon</placeName>.</note> haben. Bitten wir uch gar fruntlich, ir woellen uns unserm vogt gen <placeName ref="stadtasg-places-5">Arbon</placeName>
+<lb n="4" />vier oder fünf haggen büchsen lychen, die etlich kurtz zyt daselbs zuo gebruchen, und uns das
+<lb n="5" />unverzigen halten, so woellten wir si üwer früntschafft nit lanng vorhalten, sonder gar kurtz
+<lb n="6" />wider werden lassen on alle uwer engeltnus. Bitten des uwer fruntlich beschriben antwurt. Datum
+<lb n="7" />uff den <origDate when="1475-04-02">sonntag Quasimodo LXXVo</origDate>.
+<lb n="8" /><orgName ref="stadtasg-actors-767" role="issuer">Techan und capitel
+<lb n="9" />des stiffts zuo Costenntz</orgName>.
+<pb facs="StadtASG_Missive_414_844.JPG" n="2" />
+<lb n="10" />Den ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat der statt
+<lb n="11" />zuo Santgallen</orgName> unsern besonnder guoten frunden.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,101 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 538</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_538_1097/1098</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Wil berichten in Eile Bürgermeister und Rat zu St. Gallen, dass sie vom Vogt von Schwarzenbach erfahren hätten, dass ein Mann mit roten Hosen und einem schwarzen Rock, der nach dem Weg fragte, von einem Brand in St. Gallen berichtete. Die Wiler hätten daraufhin den Mann befragt, der zwei Missiven bei sich trug, die ihm von Paul Brennler aufgegeben worden waren. Die Wiler senden die Missiven und bitten um eine schriftliche oder mündliche Mitteilung mit diesem Boten, wie sie sich verhalten sollen, da sie misstrauisch wurden und den Mann verhört und gefangen genommen hätten.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-263">Vogt</term>
+<term ref="stadtasg-keywords-623">Dorf</term>
+<term ref="stadtasg-keywords-41">Feuer</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-473">Eile</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
+<term ref="stadtasg-keywords-46">Gefangennahme</term>
+<term ref="stadtasg-keywords-321">Schriftlich</term>
+<term ref="stadtasg-keywords-93">Mündlich</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-517">Schultheiss und Rat zu Wil</orgName>                    <date>1507-10-18</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-16</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_538_1097.JPG" n="1"/>
+<p>
+<lb n="1"/>Ünser früntlich willig dienst und was wir alzit eren liebs und guotz vermoegen zuovor fürsichtigen
+<lb n="2"/>ersamen wisen lieben und guoten fründ. Wir sind durch den vogt von <placeName ref="stadtasg-places-374">Schwarzenbach</placeName> und
+<lb n="3"/>ander uff hinecht ernstlich bericht, wie inn ainer in roten hosen und mit aim schwarzen
+<lb n="4"/>rock nemlich dem vogt von <placeName ref="stadtasg-places-374">Schwarzenbach</placeName> uff <date when="1507-10-14">donrstag nechst</date> bekomen gefraugt
+<lb n="5"/>gen <placeName ref="stadtasg-places-38">sant Gallen</placeName>, ob er noch daher moechte komen, er hette nit zerung, ob er under
+<lb break="no" n="6"/>wegen doerffer moechte finden. Redti der vogt, es sind wol underwegen biderblüt,
+<lb n="7"/>die üch beherbergent, und zeugte im den weg. Demnach uff hinnecht ist der
+<lb n="8"/>selbig aim andren enkomen und kain rechten weg gangen, sonder uberzweichs
+<lb n="9"/>und gefraugt, wie es by üch zuo <placeName ref="stadtasg-places-38">sant Gallen</placeName> umb die brunst gangen sig,
+<lb n="10"/>er hab verstanden, wer es nit zewissen weri, es weri übel gangen. Und
+<lb n="11"/>dwil nun wir die sach arkwoenig an uns gelangt und üns üwer schad
+<lb n="12"/>und was üch darzuo dienen moecht in trüwen laid und üch das alzit
+<lb n="13"/>ünsers moegens ungespart nach zimlichem gepür wenden welten, haben
+<lb n="14"/>wir den selbigen für üns beschickt, inn verhoert und demnach fenklich
+<lb n="15"/>annemen laussen haben, nit minder er uns zwo missifen erschaint, die wir
+<lb n="16"/>üch hiermit senden, und daby geredt, <persName ref="stadtasg-actors-1116">Pauli Brennler</persName> hab im die uffgeben,
+<lb n="17"/>pittende, dwil wir verstand, das ir vermainend, das für sig bi üch inglait,
+<lb n="18"/>üns schrifftlich oder bi aim potten zuo berichten, wie wir üns fürter darinn
+<lb n="19"/>halten, dwil er sich erpüt, im sigint soelich brieff von uwern burger uffgeben,
+<lb n="20"/>und doch soelich argwon an üns gelangt ist, bi disem potten berichten oder
+<lb n="21"/>zuo schicken wellint. Dann sonder zwifels warmit wir üch annem dienst
+<lb n="22"/>und wolgefallen bewisen kuenndint, sind wir sonder zwifels alzit trostlich
+<lb n="23"/>genaigt zethuond. Datum ylentz <origDate when="1507-10-18">mentags umb die ainlfften stund
+<lb n="24"/>nach mittag post Galli anno etc. septimo</origDate>.
+<lb n="25"/><orgName ref="stadtasg-actors-517" role="issuer">Schulthais und rat
+<lb n="26"/>zuo Wil</orgName> im <placeName ref="stadtasg-places-103">Thurgoew</placeName>.
+<pb facs="StadtASG_Missive_538_1098.JPG" n="2"/>
+<lb n="27"/>Den fürsichtigen ersamen und wysen
+<lb n="28"/><orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat der stat
+<lb n="29"/>sant Gallen</orgName> unsern besondern
+<lb n="30"/>lieben und guoten frunden.
+</p>
+        </body>
+    </text>
+</TEI>

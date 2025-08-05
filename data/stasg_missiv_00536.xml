@@ -1,0 +1,97 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 536</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_536_1093/1094</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Gallus Bils, Schulmeister zu Wangen, teilt Bürgermeister und Rat zu St. Gallen mit, dass er erfahren habe, dass ihre Schule keinen Schulmeister habe. Er bittet die St. Galler, ihn für diese Stelle zu berücksichtigen. Sollten die St. Galler ihn nicht wollen, bittet er sie, sein Schreiben geheim zu halten, damit es ihm auf seiner jetzigen Stelle nicht schadet.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-8">Schulmeister</term>
+<term ref="stadtasg-keywords-6">Schule</term>
+<term ref="stadtasg-keywords-247">Bewerbung</term>
+<term ref="stadtasg-keywords-269">Kind</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1114">Gallus Bils</persName><placeName ref="stadtasg-places-194">Wangen</placeName>                    <date>1506-06-21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-16</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_536_1093.JPG" n="1"/>
+<p>
+<lb n="1"/>Den fürsichtigen ersamen und wysen hern <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und ratte der
+<lb n="2"/>loblichen statt sant Gallen</orgName> mynen besundren guotten herren enbütt ich
+<lb n="3"/>myn wyllig undertaenig dinst. Ersamen günstigen herrenn, mir kündtt
+<lb n="4"/>für von ettlichen üwer statt kind, wye ietz zuo mal üwer schul ledig sy,
+<lb n="5"/>dem nach, als dann ich vermain, wye das ain erbrer ratte genaigt sy,
+<lb n="6"/>üwer kind wytter hinfüro zuo versechind mit ainem verstandnen, trüwen
+<lb n="7"/>und zichtigen lermaister, dar inn dann ain gmaine statt gefurdertt
+<lb n="8"/>und geuffnett wird. Und wa ain erbrer ratte üwer loblicher statt ver
+<lb break="no" n="9"/>maintte, das es innen toglichs waer, an zuo nemind ainen baccalauren,
+<lb n="10"/>so thuoe ich, <persName ref="stadtasg-actors-1114" role="issuer">Gallus Bils</persName>, ietz schuolmaister zue <placeName ref="stadtasg-places-194">Wangen</placeName>, myn ernstlichs,
+<lb n="11"/>fruntlichs bitt an üwer wyßhaitt, das ir so demüettig welttend sin,
+<lb n="12"/>ain kundtschafft von mir zuo vernemind, was min weßen sy, und ob
+<lb n="13"/>ir welttind ain gebott von mir zuo verhoerind, personlich als von ainem
+<lb n="14"/>baccalaureo, ob ich üch vyllicht togenlich und geschickt duchte sin, das ir
+<lb n="15"/>mich des gewerttind als ainen guotten frund und nachburen. Ich
+<lb n="16"/>wyls dar für han, wann ir mich ain zitt erkanttind, das ich vast gunstig
+<lb n="17"/>herren an üch wurd haben, des ich beschulden weltt an üwren kinden
+<lb n="18"/>mitt miner trulicher underwysung. Darby bitt ich üwer fursichtigkaitt
+<lb n="19"/>flyßklich, das dises schriben blib under dem roßen, wa es kainen fürgang
+<lb n="20"/>soelt haben, das ich mir hie nit ungenaedig herren wurd stüfften.
+<lb n="21"/>Da mitt befilch ich mich ainem erbren ratte, und hand von myner
+<lb n="22"/>unordenlicher satzung der geschrifft kainen verdruß, dan in sellichem
+<lb n="23"/>bin ich ungebrucht. Geben zuo <origPlace ref="stadtasg-places-194">Wangen</origPlace> an <origDate when="1506-06-21">sontag vor Joannis
+<lb n="24"/>anno 6</origDate>.
+<lb n="25"/>Von mir <persName ref="stadtasg-actors-1114" role="issuer">Gallo Bils</persName> von <placeName ref="stadtasg-places-194">Wangen</placeName>, ietz schuolmaister
+<lb n="26"/>da selbs, üwer undertaeniger diner und nachbür.
+<pb facs="StadtASG_Missive_536_1094.JPG" n="2"/>
+<lb n="27"/>Den ersamen fürsichtigen
+<lb n="28"/>und wyßen herren herr <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="29"/>und ratte der loblichen statt
+<lb n="30"/>sant Gallen</orgName> sinen besundren
+<lb n="31"/>günstigen lieben herren.
+</p>
+        </body>
+    </text>
+</TEI>

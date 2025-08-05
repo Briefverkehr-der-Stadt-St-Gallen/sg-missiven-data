@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 445</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Abschrift.</p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_445_907/908</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen schreiben an Georg Schröttel, Prokurator am kaiserlichen Hof, und bitten ihn, ihnen mit demselben Boten schriftlich mitzuteilen, was Doktor Hux, der vom Abt von St. Gallen 1000 Gulden angefordert hat, am kaiserlichen Hof verhandelt und was er in Herbergen und an anderen Orten erzählt habe. Desweiteren teilen sie ihm mit, dass er das Geld, das er noch von ihnen hat, behalten könne, und bitten ihn, ihnen mitzuteilen, ob es sonst Neuigkeiten gebe, da die St. Galler dem Kaiser viel Geld gegeben haben.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+  <term ref="stadtasg-keywords-314">Anwalt</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-157">Hof</term>
+<term ref="stadtasg-keywords-201">Abt</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-37">Verhandlung</term>
+<term ref="stadtasg-keywords-168">Abschrift</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-620">Herberge</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                    <date>1487-10-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-947">Georg Schröttel</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-05-23</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_445_907.JPG" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig dienst und was wir eren und guotts vermögen zuovor ersamer hochgelerter lieber
+<lb n="2" />herr unnd fründ. Durch üwer schriben uns getan und die schrifft ietz kürtzlich unserm burgermaister<note>Gemeint ist Bürgermeister <persName ref="stadtasg-actors-946">Ulrich Varnbüler</persName>.</note> sinem
+<lb n="3" />abschaid nach geantwurt, befindent wir an uch mercklichen und guotten vliß unser statt anligenden
+<lb n="4" />hendel, die uns zuo sundern fröden und dancknemer gevallnuss komen mit erbietung sölichs zuo siner
+<lb n="5" />zitt zuo sampt üwerm solde unvergessen zuo verglichen und, als ir under anderm melden, doctor <persName ref="stadtasg-actors-948">Huxen</persName>
+<lb n="6" />werbung wider unser fryhait verwundert uns, was er an dem kaiserlichen hofe gehandelt, geworben
+<lb n="7" />oder geschafft hab, ald wie er von <placeName ref="stadtasg-places-21">Nürnberg</placeName> geschaiden sig, dann er ist komen und haut tusent guldin
+<lb n="8" />ylents von dem abbt<note>Gemeint ist Abt <persName ref="stadtasg-actors-651">Ulrich Rösch</persName>.</note> von <placeName ref="stadtasg-places-38">Santgallen</placeName> haben müssen, warzuo nun die gebrucht oder was darmit erlangt
+<lb n="9" />werde, mögen wir nit wissen. Darumb so ist an üch unser ernstlich bitt und beger in hochem
+<lb n="10" />vertruwen, in still und gehaym üwer getrüw uff sechen und erkennung zuo haben, was der man
+<lb n="11" />am kayserlichen hoff geschafft, geworben oder unserthalb anpracht ald für geben hab, und ouch,
+<lb n="12" />ob er wider hinab komen sig und was er fürbas handle, des glich was worten oder reden er
+<lb n="13" />in herbergen oder andern enden unsserthalb gepruch, und uns des allen ouch ander dingen
+<lb break="no" n="14" />halb by disem botten gruntlich in geschrifft verschlossen zuo berichten, dann uns nit zwyfelt,
+<lb n="15" />das doctor <persName ref="stadtasg-actors-948">Hux</persName> unser iendert in guottem gedenck. So dann der sechs guldin halb, die ir schriben
+<lb n="16" />noch haben, ist unser will und mainung, üch die zuo behalten, wenn denn die zitt kumpt,
+<lb n="17" />das wir üch schuldig werden wellen von uns darinn gepürlich halten. So dann der an
+<lb break="no" n="18" />legung halb, ob ir da unserthalben vernemen wurden, das ichtz uff der ban sin welt, so wellen
+<lb n="19" />uns mit dem, das wir ietz der kayßerlichen mayenstät vil gelts geben haben und sunst in andere
+<lb n="20" />weg nach dem besten verantwurten, als uns des und alles guotten nicht zwyfelt. Das
+<lb n="21" />wellen wir allzit unvergessen zuoverdienen willig sin. Datum <origDate when="1487-10-04">dornstag nach sant
+<lb n="22" />Michels tag anno domini etc. LXXXVIImo</origDate>.
+<lb n="23" /><orgName ref="stadtasg-actors-148" role="issuer">Burgermaister und raut
+<lb n="24" />der statt zuo Santgallen</orgName>.
+<pb facs="StadtASG_Missive_445_908.JPG" n="2" />
+<lb n="25" />Dem ersamen hochgelerten maister <persName ref="stadtasg-actors-947" role="recipient">Jörgen Schröttel</persName>, licenciatus,
+<lb n="26" />procurator des kayßerlichen hofs unserm lieben heren und fründ.
+</p>
+        </body>
+    </text>
+</TEI>

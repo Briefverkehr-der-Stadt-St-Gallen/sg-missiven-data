@@ -1,0 +1,99 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 540</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_540_1101/1102</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Bern teilen Bürgermeister und Rat zu St. Gallen mit, dass sie dankbar dafür seien, dass die St. Galler vor gefälschten Rollbatzen, die von St. Gallen, Solothurn und Bern ausgehen, warnen wollen. Sie teilen den St. Gallern mit, dass sie Briefe empfangen haben, die Johann Darrax Pernet und seine Frau Johanna aus Gex bei Genf beschuldigen und gefangen genommen seien. Dieser sagte aus, dass die Münzen von einem Grand Sandrin aus Brabant und Hennegau, der in der Nähe von Strassburg wohnt, geschlagen und ihm übergeben wurden. Die Berner bitten die St. Galler, sich bei den Herrschenden in Maastricht und an anderen Orten wegen des Urhebers der Münzfälschung zu erkundigen, der ihnen angezeigt worden war, und den Gefangenen zu befragen.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-95">Warnung</term>
+<term ref="stadtasg-keywords-46">Gefangennahme</term>
+<term ref="stadtasg-keywords-141">Befragung</term>
+<term ref="stadtasg-keywords-36">Münze</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
+<term ref="stadtasg-keywords-671">Fälschung</term>
+<term ref="stadtasg-keywords-297">Ehefrau</term>
+<term ref="stadtasg-keywords-107">Strafe</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-514">Schultheiss und Rat zu Bern</orgName>                    <date>1508-09-25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>NSch</persName>
+                <date>2025-07-21</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_540_1101.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich willig dienst unnd was wir erenn unnd guotts vermogenn
+<lb n="2"/>zuovor fromm fürsichtig wyß sunders guotten fründ unnd getruwen lieben
+<lb n="3"/>eidtgnossen. Wir habenn gesechen üwer schriben unnd dar inn vermerckt üwer
+<lb n="4"/>guote neygung, unns der gefelschten rallibatzen under üwer unnd unnser liebenn
+<lb n="5"/>eidtgnossen von <placeName ref="stadtasg-places-49">Soloturn</placeName>, och unnserm schlag usßgangen, zuo warnen, desß wir üch
+<lb n="6"/>sunders grossen danck sagen unnd wüssenn mit erbietten, solichs gegen üch in
+<lb n="7"/>guotem niemer zuo vergessenn. Wir habenn ouch diser tagen schrifften empfangen,
+<lb n="8"/>so anzoeugen einen, genannt <persName ref="stadtasg-actors-1137">Pernet Johann Darrax</persName> unnd <persName ref="stadtasg-actors-1138">Johanna</persName>, sin hußfrowen,
+<lb n="9"/>zuo <placeName ref="stadtasg-places-381">Ge</placeName> by <placeName ref="stadtasg-places-169">Jenff</placeName> gelegen, umb gliche beschuldigung vaencklichen angenomenn sin,
+<lb n="10"/>welicher under anderm veriechenn hatt, wie dann soelich falsch rallibatzen durch
+<lb n="11"/>einen, genannt <persName ref="stadtasg-actors-1136">Grand Sandrein</persName> usß <placeName ref="stadtasg-places-380">Braband</placeName> unnd von <placeName ref="stadtasg-places-387">Hennow</placeName>, ietz nit verr
+<lb n="12"/>von <placeName ref="stadtasg-places-112">Strasßburg</placeName> gesaessen, anfaengklichen gemacht unnd im überantwurt sin. Unnd
+<lb n="13"/>diewil nu soliche faelschung der müntz unns schmaechlich unnd dem gantzen land
+<lb n="14"/>mer dann schaedlich, harumb ist an üch unnser früntlich bitt, ir wellenn üch an den
+<lb n="15"/>regieren zuo <placeName ref="stadtasg-places-379">Mastrick</placeName> von des anfaengers waegen, in üwerm brieff angezoeugt, ouch an andern
+<lb n="16"/>orten nach üwerm guoten beduncken, desßglichen an den gefangnen by üch vlyssigklich
+<lb n="17"/>erkunden, damit solicher mergklicher schad verkommen unnd die uebeltaetter by üch
+<lb n="18"/>unnd an andern ortten werden irem verdienen nach also gestrafft, damit ander
+<lb n="19"/>hinfür ursach gewünnen, sich derglichenn haendlen zuo mussigen, welichs ouch zuover
+<lb break="no" n="20"/>kommen an unnserm guotenn vlysß unnd ernst nützit sol erwinden, dann wir ouch gliche
+<lb n="21"/>meynung herrn marschalck in <placeName ref="stadtasg-places-281">Burgun</placeName> unnd denen von <placeName ref="stadtasg-places-379">Mastrick</placeName> haben zuogeschri
+<lb break="no" n="22"/>benn, sich darnach wüssenn zuo halten. Damit syen gott allzyt wol bevolchenn.
+<lb n="23"/>Datum <origDate when="1508-09-25">mentag vor Michaelis anno VIIIo</origDate>.
+<lb n="24"/><orgName ref="stadtasg-actors-514" role="issuer">Schulthes unnd ratt
+<lb n="25"/>der statt Bernn</orgName>.
+<pb facs="StadtASG_Missive_540_1102.JPG" n="2"/>
+<lb n="26"/>Den fromen fürsichtigen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermei
+<lb break="no" n="27"/>stern unnd ratt der statt zuo Santgallen</orgName>
+<lb n="28"/>unnsern sunders guoten fründen unnd ge
+<lb break="no" n="29"/>truwen lieben eidtgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

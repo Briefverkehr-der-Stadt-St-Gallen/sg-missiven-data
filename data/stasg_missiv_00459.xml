@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 459</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00471.xml">471</ref> und das Appenzeller Urkundenbuch I,1253.</p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_459_935/936</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Appenzell teilen Bürgermeister und Rat zu St. Gallen mit, dass Gallus Kapfmann, Hänsli Oppertshofer und weitere, Bürger zu St. Gallen, der Witwe von Hans Oppertshofer ihr Erbe in der Stadt St. Gallen vorenthalten. Da die Witwe und ihr verstorbener Mann Bürger zu Rheineck waren, sei dort das zuständige Gericht, was die Appenzeller den St. Gallern durch Ammann Zidler, Angehöriger des Rates zu Appenzell, bereits mitgeteilt haben. Die Appenzeller bitten die St. Galler dafür zu sorgen, dass die Beschlagnahmung des Erbes aufgehoben werde. Falls die genannten St. Galler Bürger der Witwe Oppertshofers ihr Erbe nicht überlassen wollen, solle sie die Angelegenheit vor dem Gericht in Rheineck verhandeln lassen. Die Appenzeller bitten um eine schriftliche Antwort mit dem gleichen Boten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-5">Erbe</term>
+<term ref="stadtasg-keywords-66">Beschlagnahmung</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-177">Witwe</term>
+<term ref="stadtasg-keywords-154">Ammann</term>
+<term ref="stadtasg-keywords-263">Vogt</term>
+<term ref="stadtasg-keywords-270">Vormundschaft</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-506">Ammann und Rat zu Appenzell</orgName>                    <date>1489-05-11</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-04</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_459_935.JPG" n="1" />
+<p>
+<lb n="1" />Unser willig früntlich dienst und wz wir guotz vermoegent voran fürsichtigen wisen besunder guoten fründ. Wir werdent bericht durch <persName ref="stadtasg-actors-968">Hansen
+<lb n="2" />Oppentzhofers</persName> saeligen frowen<note><persName ref="stadtasg-actors-973">Magdalena Oppertshofer</persName>.</note>, ire voegt und die von <placeName ref="stadtasg-places-88">Rinegg</placeName>, wie sich <persName ref="stadtasg-actors-969">Galluß Kapfman</persName>, <persName ref="stadtasg-actors-970">Haensly Oppentzhofer</persName> und ander ir mithaften, üwer mitburger,
+<lb n="3" />sich understandint, der guoten <persName ref="stadtasg-actors-973">frowen</persName> dz ir in üwer statt ze heften, über dz si inen rechtens an dem end, da si gesessen sye, nie vor gewesen,
+<lb n="4" />och dz erb, darumb der span sye, zuo <placeName ref="stadtasg-places-88">Rinegg</placeName>, da er burger gewesen, gevallen sye und nit zuo <placeName ref="stadtasg-places-38">Santgallen</placeName>, als dann die von <placeName ref="stadtasg-places-88">Rinegg</placeName> mainent, dz si
+<lb n="5" />also herkomen syent, dz man soeliche erbschaften, by inen gevallen, niena anderswo berechtigen soelle dann in irm gericht, da es och gevallen
+<lb n="6" />sye. Als üns nit tzwiflot, ir das noch wol ingedenk syent, wie amman <persName ref="stadtasg-actors-971">Zidler</persName>, ünser ratzfründ, üch dz vor och zuo erkennen geben hat,
+<lb n="7" />darumb üns noch von üch dhain antwurt worden ist. Aber wann der guoten <persName ref="stadtasg-actors-973">frowen</persName> notturft dz haischt, so bitten wir üwer wißhait
+<lb n="8" />noch mals als früntlich, als wir mugent, mit den üwern guetlich zuverschaffen, soelichen haft abzestellen, und si und die von <placeName ref="stadtasg-places-88">Rinegg</placeName>
+<lb n="9" />by dem, als si hoffen, recht ze haben, bliben ze laussen, als üns bedunken will, nit unbillich bescheche. Dz wellen wir fruentlich zuosampt
+<lb n="10" />aller billichait umb üwer lieben zu verdienen haben. Ob aber die üwern die gemelten <persName ref="stadtasg-actors-973">frowen</persName> ansprach an dem end nit erlaussen moechtint,
+<lb n="11" />so sol sy inen gnuogsam rechtens gestatten an dem end, da si gesessen ist und ze gericht hin gehoert. Und darumb so bewisent üch harinn
+<lb n="12" />nach ünserm vertruwen, und wie wol wir üns nit anders dann dz zu geschechen versechen wellent, begeren wir dannocht üwer früntlichen
+<lb n="13" />verschriben antwurt by disem botten. Datum an <origDate when="1489-05-11">mentag vor mitten mayen anno etc. LXXXVIIII</origDate>.
+<lb n="14" /><orgName ref="stadtasg-actors-506" role="issuer">Landtamman und rat
+<lb n="15" />ze Appenzell</orgName>.
+<pb facs="StadtASG_Missive_459_936.JPG" n="2" />
+<lb n="16" />Den fürsichtigen wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat zuo Santgallen</orgName>
+<lb n="17" />ünsern besundern lieben und guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

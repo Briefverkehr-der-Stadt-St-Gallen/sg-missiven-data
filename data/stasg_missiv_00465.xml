@@ -1,0 +1,94 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 465</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Unsichere Datierung. Aufgrund des Kontextes erste Hälfte 16. Jahrhunderts. Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00466.xml">466</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_465_947/948</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Benedikt von Watt bittet Altbürgermeister und Rat zu St. Gallen, ihm zu seinem, ihm zustehenden Gut zu verhelfen, worum sie bereits sein Bruder Konrad in einem Brief gebeten hat. Er leide grosse Not, und es bestehe die Gefahr, dass seine Ehefrau und Kinder den Hungertod erleiden würden.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+   <term ref="stadtasg-keywords-568">Hungertod</term>
+<term ref="stadtasg-keywords-570">Not</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-208">Familie</term>
+<term ref="stadtasg-keywords-269">Kind</term>
+<term ref="stadtasg-keywords-630">Bruder</term>
+<term ref="stadtasg-keywords-165">Altbürgermeister</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-995">Benedikt von Watt</persName>                    <date cert="medium">1550</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>  <placeName ref="stadtasg-places-38">St. Gallen</placeName>              </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_465_947.JPG" n="1"/>
+<p>
+<lb n="1"/>Herr alt buorgermaister fromm fürsichtig wyß gepietennd gnaedig günstig lieb herenn.
+<lb n="2"/>Diewil üwer ersamen wyßhait wol in gedechtnus hat, das ich grossen mangel hab
+<lb n="3"/>nemlich mit wyb unnd kinder unnd in acht tagen nie kain brot hain ghain und
+<lb n="4"/>noch denn ich mags nit überkon, bit üwer ersame wyshait, ir wellend das pest
+<lb n="5"/>thuon, denn ich kain wol erkennen, das ich ain guot sach hete ghain, wenn ich hus
+<lb n="6"/>hete ghain, wie ich ietz hain. Ich mag och zuo dem mynen nit komen on üwer
+<lb n="7"/>ersam hilff, denn ich wais wol, das brieff vonn minem bruoder <persName ref="stadtasg-actors-996">Conraten</persName> her gschri
+<lb break="no" n="8"/>benn sind worden inhaltende, mich zuo dem minen laußen komen, wiewol si mir
+<lb n="9"/>nit zaigt werden, man wil mich villicht bas erkuollen lon, und gschicht mir alles
+<lb n="10"/>vonn üwer ersam wyßhait in vaeterlicher guoter wolmainung. Hülf mir
+<lb n="11"/>got durch üch zuo dem mynen, ich weli huß hain und das myn mit eeren
+<lb n="12"/>und fromkait meeren und zsamen halten, das ich noch mine nachkomen nit
+<lb n="13"/>meer wetind oder gwartend sin ain die ort zegennd, do man mich im besten hin
+<lb n="14"/>gwyßen hat. Dann es ain elend ding ist, nünt hain, bit üwer ersam wyssh
+<lb break="no" n="15"/>ait, ir wellentz dis myn schryben im besten und alls von üwrem gehorsamen
+<lb n="16"/>dienner vernemen, wyb unnd kind wil mir alls verdaerben unnd hunger sterben.
+<lb n="17"/>Ich kain inen och nit zehilff komen, dann ich hain ietz zemal wenig zege
+<lb break="no" n="18"/>winen. Wo ich eüwer ersam wyßhait kain dienen, wil ich alzit gernn thuon.
+<lb n="19"/>Eüwer ersam wyßhait
+<lb n="20"/>williger dienner
+<lb n="21"/><persName ref="stadtasg-actors-995" role="issuer">Benedict vonn Wat</persName>.
+<pb facs="StadtASG_Missive_465_948.JPG" n="2"/>
+<lb n="22"/>Den ersamen fromen fürsichtigen und
+<lb n="23"/>wysenn herr allt <orgName ref="stadtasg-actors-148" role="recipient">buorgenmaister
+<lb n="24"/>unnd ain ganntzen ganntzen radt</orgName> alls
+<lb n="25"/>minen gnedigenn herrenn zehanden.
+</p>
+        </body>
+    </text>
+</TEI>

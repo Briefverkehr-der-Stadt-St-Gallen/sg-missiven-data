@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 409</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Ausgestelltes aber nicht versandtes Original.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_409_833/834</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen teilen Bürgermeister und Rat zu Nördlingen mit, dass sie den gelehrten Ambrosius von Eberstein, der sich mit Arznei beschäftigt, in ihre Dienste nehmen wollen, und bitten, ihm bei der Nachsteuer und beim Abzug entgegen zu kommen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-32">Arzt</term>
+<term ref="stadtasg-keywords-219">Wegzug</term>
+<term ref="stadtasg-keywords-98">Steuer</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                    <date>1472-05-23</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-903">Bürgermeister und Rat zu Nördlingen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-04-08</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_409_833.JPG" n="1" />
+<p>
+<lb n="1" />Unser früntlich willig dienst zuovoran fürsichtigen wysen sunder lieben und guoten fründ. Wir laussen
+<lb n="2" />üwer wysßhait wissen, daz sich der hochgelert her <persName ref="stadtasg-actors-904">Ambrosius von Ebrstain</persName> der artzeny ettwa ain zit by uns ent
+<lb break="no" n="3" />halten haut soelicher masß, das wir ain gevallen an sinen taetten und wandel gehebt und durch nottdurfft willen
+<lb n="4" />unser gemaind ain früntlich überkomnusß mit im getan und in bestelt haben, der nun zuo uns komen und
+<lb n="5" />hußlich und hablich by uns wonen wirdet etc. Hierumb fürsichtigen wysen lieben und guoten fründ
+<lb n="6" />ist unser ernstlich bitt und beger an üwer ersamen wysßhait und guoten fründschafft, an sölichem
+<lb n="7" />unserm fürnemen dehain misßvallen ze haben, sunder in gütlich von üch komen zelaussen, in och in
+<lb n="8" />der nachstür des abzugs früntlich und beschaidenlich ze halten sölicher masß, das er unser gebett
+<lb n="9" />gegen üch befinden mög genossen haben, und üch hierinn also gunstlich und früntlich zebewisen, als
+<lb n="10" />wir üwer wisßhait mit sunderhait wol vertruwen. Das wöllen wir hinfür in sölichen und merern
+<lb n="11" />sachen, wa die an uns langen wurden, umb üwer wisßhait und die üwern mit guotem willen beschul
+<lb break="no" n="12" />den und früntlich verdienen. Geben uff <origDate when="1472-05-23">zinstag vor corporis Cristi anno domini etc. LXXIIo</origDate>.
+<lb n="13" /><orgName ref="stadtasg-actors-148" role="issuer">Burgermaister und raut der
+<lb n="14" />statt zuo sant Gallen</orgName>.
+<pb facs="StadtASG_Missive_409_834.JPG" n="2" />
+<lb n="15" />Den fürsichtigen und wysen
+<lb n="16" /><orgName ref="stadtasg-actors-903" role="recipient">burgermaister und rat der statt zuo
+<lb n="17" />Nördlingen</orgName> unsern besundern lieben und guoten
+<lb n="18" />fründen.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 513</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Rechter Rand abgeschnitten, dadurch Textverlust auf der Rückseite. Wohl Abschrift.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_513_1047/1048</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen teilen Bürgermeister und Rat zu Zürich mit, dass ihnen ihr Stadtschreiber von einem Tagsatzungsabschied in Luzern und einem neuen, auf den kommenden Mittwoch angesetzten Tag in Zürich berichtete. Wegen schwerer Unruhen an mehreren Orten haben sie über die bei Rheineck stationierten Truppen hinaus weitere Knechte unter einem Fähnlein ausgerüstet und sich mit zusätzlichem Aufgebot gerüstet. Die St. Galler senden ihren Boten und bitten die Zürcher, sie über die am Tag in Zürich gefassten Beschlüsse zu informieren.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                     
+<term ref="stadtasg-keywords-159">Stadtschreiber</term>
+<term ref="stadtasg-keywords-328">Eidgenössischer Abschied</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-600">Aufruhr</term>
+<term ref="stadtasg-keywords-476">Fähnlein</term>
+<term ref="stadtasg-keywords-124">Knecht</term>
+<term ref="stadtasg-keywords-541">Truppe</term>
+<term ref="stadtasg-keywords-473">Eile</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                    <date>1499-02-11</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-30</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_513_1047.JPG" n="1" />
+<p>
+<lb n="1" />Strenngen fürsichtigen ersammen unnd wysen besonder gutten fründ unnd getruwen lieben aidgnossen unnser
+<lb n="2" />willig früntlich diennst und was wir eren unnd guts vermogen allzit zuvor. Wir sind durch unnsern stattschriber
+<lb n="3" />ains berichts unnd abschaidz von gehaltnem tag zu <placeName ref="stadtasg-places-69">Lucern</placeName> unnd darby ains tags von uwer strenng unnd
+<lb n="4" />fürnem wyshait uff <date when="1499-02-13">nechst mitwuch</date> in üwer statt fürgenommen bericht. Und findent aber daruff sollich schwar
+<lb n="5" />uffrur und zu ziechung mer dann an aim ortt, das wir zu dem zusatz, so wir vor an dem <placeName ref="stadtasg-places-92">Rin</placeName> by <placeName ref="stadtasg-places-88">Rinegg</placeName> gehept,
+<lb n="6" />noch mer knecht mit ainem vennly verfertiget, unnd unns darby mit witter vennly, knechten unnd dem hoptpanner
+<lb n="7" />der maßen gerüst haben, war wir aller notturfftigost sin, das wir darinne, als fromen lüten und getrüwen aid
+<lb break="no" n="8" />gnossen zu stat, alle stund ilentz hanndeln wollen. Sennden darumm disen unnsern bottenn zu üwer streng und für
+<lb break="no" n="9" />nem wyßhait, unns by dem, was uff disenn angesetzten tag beschloßen oder sich in ander weg begeben werd, schriftlich
+<lb n="10" />wyßen zu laßen, unns als getrüw aidgnossen darnach haben zu richten. Dann zu dero und gemainer <orgName ref="stadtasg-actors-750">Eid
+<lb break="no" n="11" />gnosschafft</orgName> unnser lib und gut zu setzen, sind wir gerüst. Datum <origDate when="1499-02-11">menttag vor Valentini anno domini etc.
+<lb n="12" />LXXXXVIIIIno</origDate>.
+<lb n="13" /><orgName ref="stadtasg-actors-148" role="issuer">Burgermaister und rat
+<lb n="14" />der statt zu sant Gallenn</orgName>.
+<pb facs="StadtASG_Missive_513_1048.JPG" n="2" />
+<lb n="15" />Den strenngen fürsichtigen ersamen und wysen <orgName ref="stadtasg-actors-503" role="recipient">b<supplied>urgermaister</supplied>
+<lb n="16" />und ratt zu Zürch</orgName> unnsern besonndern gutten fründ <supplied>und</supplied>
+<lb n="17" />getrüwen lieben aidg<supplied>nossen.</supplied>
+</p>
+        </body>
+    </text>
+</TEI>

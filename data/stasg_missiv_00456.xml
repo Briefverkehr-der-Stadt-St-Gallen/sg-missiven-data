@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 456</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_456_929/930</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Abt Ulrich Rösch des Benediktinerklosters zu St. Gallen teilt Bürgermeister und Rat zu St. Gallen mit, dass er eine Nachricht von seiner wegen der Zwietracht nach Zürich delegierten Gesandtschaft erhalten habe, die er nun auf Bitten des Altbürgermeisters Varnbüler, der ebenfalls in Zürich weilt, an sie weiterleitet.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+  <term ref="stadtasg-keywords-201">Abt</term>
+<term ref="stadtasg-keywords-115">Kloster</term>
+<term ref="stadtasg-keywords-231">Gesandtschaft</term>
+<term ref="stadtasg-keywords-165">Altbürgermeister</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-473">Eile</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-651">Ulrich Rösch</persName>                    <date>1489-03-09</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>tb</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>am</persName>
+                <date>2025-06-04</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_456_929.JPG" n="1" />
+<p>
+<lb n="1" /><persName ref="stadtasg-actors-651" role="issuer">Uolrich</persName> von gottes gnaden abt
+<lb n="2" />des <orgName ref="stadtasg-actors-541">gotzhus Sanntgallen</orgName>.
+<lb n="3" />Unnser gunstlich gruos und was wir allzit eren liebs und guots vermügent zuovor fürsichtigen
+<lb n="4" />ersamen und wysen besonnder lieben und getrüwen. In diser stund sind unns von unnser bottschafft,
+<lb n="5" />die wir der zwytrechigkait halb hin ab gen <placeName ref="stadtasg-places-32">Zürich</placeName> geschickt hannd, ware maer, als ir das an disem
+<lb n="6" />zedel, den wir üch hierinn verschlossen zuosennden, wol sehen werden, zuogeantwürt, unnd
+<lb n="7" />uff ernnstlich bitt und beger üwers alten burgermaisters <persName ref="stadtasg-actors-946">Varnbuelers</persName> und andrer mit im in üwerm
+<lb n="8" />namen och dahin geordnet, habent wir üch den hanndel, wie die ding nuo zemal stand, nit
+<lb n="9" />wellen verhalten in guoter zuoversicht, ob wir des fürter erfaren, uch das och fürderlichen
+<lb n="10" />zuo berichten. Dann wa wir üch in dem und anderm nach gepürlichait guot fründtschafft erzaigen
+<lb n="11" />konnden, taeten wir mit guotem willen gern. Datum ylennd uff <origDate when="1489-03-09">montag nach dem sonntag
+<lb n="12" />Invocavit anno etc. LXXXIX</origDate>.
+<pb facs="StadtASG_Missive_456_930.JPG" n="2" />
+<lb n="13" />Den fürsichtigen ersamen unnd wysen
+<lb n="14" /><orgName ref="stadtasg-actors-148" role="recipient">burgermaister unnd raut der
+<lb n="15" />statt Sanntgallen</orgName> unnsern be
+<lb break="no" n="16" />sonndern lieben und getrüwen.
+</p>
+        </body>
+    </text>
+</TEI>
