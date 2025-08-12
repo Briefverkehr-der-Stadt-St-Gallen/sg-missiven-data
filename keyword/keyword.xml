@@ -18,12 +18,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-08-05 18:21:16 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
+        <p>Datenbankexport vom 2025-08-12 09:32:14 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2025-08-05T18:21:16+02:00">teiHeader was automatically produced from the database 2025-08-05T18:21:16+02:00</change>
+      <change when="2025-08-12T09:32:14+02:00">teiHeader was automatically produced from the database 2025-08-12T09:32:14+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -1406,7 +1406,7 @@
           <label xml:lang="de" type="main">Hof</label>
           <label xml:lang="de" type="sort">hof</label>
           <note type="description" xml:lang="de">
-            <p>Ort und Produktionsstätte von Landwirtschaft (umfasst Gebäude und umgebendes Gelände)</p>
+            <p>Ort und Produktionsstätte von Landwirtschaft <note type="editorial">umfasst Gebäude und umgebendes Gelände</note></p>
           </note>
           <listBibl>
             <bibl>
@@ -3385,7 +3385,7 @@
           <label xml:lang="de" type="main">Markgraf</label>
           <label xml:lang="de" type="sort">markgraf</label>
           <note type="description" xml:lang="de">
-            <p>Bezeichnung eines seit Karl dem Grossen bestehenden Amtes, das ursprünglich die Leitung einer in einer Grenzmark gelegenen Grafschaft (Markgrafschaft), mit Sondervollmachten gegenüber dem Grafen (Befestigungsrecht, Träger des Heerbanns, der Gerichtsbarkeit auch ohne Königsbann usw.) umfasst, später nur noch als Adelstitel</p>
+            <p>Bezeichnung eines seit Karl dem Grossen bestehenden Amtes, das ursprünglich die Leitung einer in einer Grenzmark gelegenen Grafschaft <note type="editorial">Markgrafschaft</note>, mit Sondervollmachten gegenüber dem Grafen <note type="editorial">Befestigungsrecht, Träger des Heerbanns, der Gerichtsbarkeit auch ohne Königsbann usw.</note> umfasst, später nur noch als Adelstitel</p>
           </note>
         </item>
         <item xml:id="stadtasg-keywords-410">
@@ -3407,7 +3407,7 @@
           <label xml:lang="de" type="main">Nuntius</label>
           <label xml:lang="de" type="sort">nuntius</label>
           <note type="description" xml:lang="de">
-            <p>Botschafter des Heiligen Stuhls (ab 1586 ständige Gesandtschaft in Luzern)</p>
+            <p>Botschafter des Heiligen Stuhls <note type="editorial">ab 1586 ständige Gesandtschaft in Luzern</note></p>
           </note>
         </item>
         <item xml:id="stadtasg-keywords-415">
@@ -3425,7 +3425,7 @@
           <label xml:lang="de" type="main">Klageschrift</label>
           <label xml:lang="de" type="sort">klageschrift</label>
           <note type="description" xml:lang="de">
-            <p>Klagerodel, Beschwerdeschrift, Schrift mit Beschwerden (gegen die Herrschaft oder allgemein gegen eine Streitpartei)</p>
+            <p>Klagerodel, Beschwerdeschrift, Schrift mit Beschwerden <note type="editorial">gegen die Herrschaft oder allgemein gegen eine Streitpartei</note></p>
           </note>
         </item>
         <item xml:id="stadtasg-keywords-418">
@@ -3439,7 +3439,7 @@
           <label xml:lang="de" type="main">Landgraf</label>
           <label xml:lang="de" type="sort">landgraf</label>
           <note type="description" xml:lang="de">
-            <p>Der Titel bezeichnet bei seinem ersten Auftreten im 12. Jh. den Inhaber eines reichslehnbaren Amtes, dessen besondere Aufgabe in der Verwaltung von Königsgut und in der Sicherung der königlichen Rechte innerhalb eines bestimmten Gebietes bestand. Im Spätmittelalter charakterisiert der Titel von jeder fürstlichen Gewalt freie, nur vom Königtum abhängige Territorialherren, jedoch ohne besondere Amtsbindung an den König.</p>
+            <p>Der Titel bezeichnet bei seinem ersten Auftreten im 12. Jh. den Inhaber eines reichslehnbaren Amtes, dessen besondere Aufgabe in der Verwaltung von Königsgut und in der Sicherung der königlichen Rechte innerhalb eines bestimmten Gebietes bestand. Im Spätmittelalter charakterisiert der Titel von jeder fürstlichen Gewalt freie, nur vom Königtum abhängige Territorialherren, jedoch ohne besondere Amtsbindung an den König.</p>
           </note>
         </item>
         <item xml:id="stadtasg-keywords-420">
@@ -4190,7 +4190,7 @@
           <label xml:lang="de" type="main">Schloss</label>
           <label xml:lang="de" type="sort">schloss</label>
           <note type="description" xml:lang="de">
-            <p>Prunkvolles und repräsentatives Wohngebäude (meistens von Adelsfamilien)</p>
+            <p>Prunkvolles und repräsentatives Wohngebäude <note type="editorial">meistens von Adelsfamilien</note></p>
           </note>
         </item>
         <item xml:id="stadtasg-keywords-541">

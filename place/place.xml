@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-08-05 18:21:16 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
+        <p>Datenbankexport vom 2025-08-12 09:32:13 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -3214,7 +3214,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Gemeindeteil,  im Spätmittelalter Teil des Hofs Kriessern oberhalb der Kirche Kriessern, heute Gemeindeteil und Ortsgemeinde</p>
+              <p>Gemeindeteil, im Spätmittelalter Teil des Hofs Kriessern oberhalb der Kirche Kriessern, heute Gemeindeteil und Ortsgemeinde</p>
             </note>
           </place>
           <place type="S" xml:id="stadtasg-places-125">
@@ -5169,7 +5169,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>veraltet dt. Stallen (bis 1903 offiziell ital. Stalla)</p>
+              <p>veraltet dt. Stallen <note type="editorial">bis 1903 offiziell ital. Stalla</note></p>
             </note>
           </place>
           <place type="S" xml:id="stadtasg-places-210">
@@ -7440,7 +7440,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Sitz der Adelsfamilie <ref target="/actors/836">Waldburg-Zeil</ref></p>
+              <p>Sitz der Adelsfamilie <div type="a">Waldburg-Zeil</div></p>
             </note>
           </place>
           <place type="A" xml:id="stadtasg-places-290">
@@ -7458,7 +7458,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>historisches Territorium, Sitz der Adelsfamilie <ref target="/actors/836">Waldburg-Zeil</ref> auf <ref target="/places/289">Schloss Zeil</ref></p>
+              <p>historisches Territorium, Sitz der Adelsfamilie <div type="a">Waldburg-Zeil</div> auf <div type="a">Schloss Zeil</div></p>
             </note>
           </place>
           <place type="P" xml:id="stadtasg-places-291">
@@ -8659,7 +8659,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Ab dem frühen 16. Jahrhundert Namensänderung zu Herrschaft Gaster</p>
+              <p>Ab dem frühen 16. Jahrhundert Namensänderung zu Herrschaft Gaster</p>
             </note>
           </place>
           <place type="P" xml:id="stadtasg-places-335">
@@ -9502,7 +9502,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>historischer Vorgängerbau, heute Karl-Theodor-Brücke (Alte Brücke)</p>
+              <p>historischer Vorgängerbau, heute Karl-Theodor-Brücke <note type="editorial">Alte Brücke</note></p>
             </note>
           </place>
           <place type="P" xml:id="stadtasg-places-361">
@@ -10411,7 +10411,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2025-08-05T18:21:16+02:00">teiHeader was automatically produced from the database 2025-08-05T18:21:16+02:00</change>
+      <change when="2025-08-12T09:32:14+02:00">teiHeader was automatically produced from the database 2025-08-12T09:32:14+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

@@ -74,15 +74,15 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_5_10.JPG" n="1"/>
+            <pb facs="StadtASG_Missive_5_09.JPG" n="1"/>
             <p>
                 <lb n="1"/>Unser früntlich willig dienst vor besundern guoten fründ. Es ist ain
                 buochschriber <lb n="2"/>ettwa langzit in unser statt gewesen und hat unser
                 pharrkirchen <lb n="3"/>ain messbuoch geschriben, daz er nu mit im genomen hat gen
                     <placeName ref="stadtasg-places-38">sant Gallen</placeName>
-                <lb n="4"/>und mainet villicht, dasselb buoch unserm herren von <placeName ref="stadtasg-places-38">sant
-                    Gallen</placeName><note><persName ref="stadtasg-actors-21">Heinrich von
-                        Mansdorf</persName>.</note>
+                <lb n="4"/>und mainet villicht, dasselb buoch unserm herren<note><persName ref="stadtasg-actors-21">Heinrich von
+                        Mansdorf</persName>.</note> von <placeName ref="stadtasg-places-38">sant
+                    Gallen</placeName>
                 <lb n="5"/>ze zoegen, wan er willen hat, als uns fürkomen ist, daselbs zu sant <lb
                     n="6"/>Gallen ouch ettwas buochs ze schriben etc. Wan nu unser pfarrkirch <lb
                     n="7"/>des buochs zumal notdurfftig ist und des füro nit geraten mag, <lb n="8"
@@ -95,7 +95,7 @@
                     <origDate when="1421-02-08">samstag vor Jnvocavit <lb n="15"/>anno
                     XXImo</origDate>. <lb n="16"/><orgName ref="stadtasg-actors-28" role="issuer"
                     >Burgermaister und rat zu <lb n="17"/>Schauffhusen</orgName>. </p>
-                <pb facs="StadtASG_Missive_5_9.JPG" n="2"/>
+                <pb facs="StadtASG_Missive_5_10.JPG" n="2"/>
             <p>
                 <lb n="18"/>Den ersamen wisen unsern bsundern guoten <lb n="19"/>fründen <orgName
                     ref="stadtasg-actors-148" role="recipient">burgermeister und rat zu sant Gallen</orgName>.</p>            
