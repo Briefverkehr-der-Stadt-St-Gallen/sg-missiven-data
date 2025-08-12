@@ -18,12 +18,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-08-12 11:06:19 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
+        <p>Datenbankexport vom 2025-08-12 16:06:45 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2025-08-12T11:06:19+02:00">teiHeader was automatically produced from the database 2025-08-12T11:06:19+02:00</change>
+      <change when="2025-08-12T16:06:45+02:00">teiHeader was automatically produced from the database 2025-08-12T16:06:45+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -1406,7 +1406,7 @@
           <label xml:lang="de" type="main">Hof</label>
           <label xml:lang="de" type="sort">hof</label>
           <note type="description" xml:lang="de">
-            <p>Ort und Produktionsstätte von Landwirtschaft <note type="editorial">umfasst Gebäude und umgebendes Gelände</note></p>
+            <p>Ort und Produktionsstätte von Landwirtschaft (umfasst Gebäude und umgebendes Gelände)</p>
           </note>
           <listBibl>
             <bibl>
@@ -3385,7 +3385,7 @@
           <label xml:lang="de" type="main">Markgraf</label>
           <label xml:lang="de" type="sort">markgraf</label>
           <note type="description" xml:lang="de">
-            <p>Bezeichnung eines seit Karl dem Grossen bestehenden Amtes, das ursprünglich die Leitung einer in einer Grenzmark gelegenen Grafschaft <note type="editorial">Markgrafschaft</note>, mit Sondervollmachten gegenüber dem Grafen <note type="editorial">Befestigungsrecht, Träger des Heerbanns, der Gerichtsbarkeit auch ohne Königsbann usw.</note> umfasst, später nur noch als Adelstitel</p>
+            <p>Bezeichnung eines seit Karl dem Grossen bestehenden Amtes, das ursprünglich die Leitung einer in einer Grenzmark gelegenen Grafschaft (Markgrafschaft), mit Sondervollmachten gegenüber dem Grafen (Befestigungsrecht, Träger des Heerbanns, der Gerichtsbarkeit auch ohne Königsbann usw.) umfasst, später nur noch als Adelstitel</p>
           </note>
         </item>
         <item xml:id="stadtasg-keywords-410">
@@ -3407,7 +3407,7 @@
           <label xml:lang="de" type="main">Nuntius</label>
           <label xml:lang="de" type="sort">nuntius</label>
           <note type="description" xml:lang="de">
-            <p>Botschafter des Heiligen Stuhls <note type="editorial">ab 1586 ständige Gesandtschaft in Luzern</note></p>
+            <p>Botschafter des Heiligen Stuhls (ab 1586 ständige Gesandtschaft in Luzern)</p>
           </note>
         </item>
         <item xml:id="stadtasg-keywords-415">
@@ -3425,7 +3425,7 @@
           <label xml:lang="de" type="main">Klageschrift</label>
           <label xml:lang="de" type="sort">klageschrift</label>
           <note type="description" xml:lang="de">
-            <p>Klagerodel, Beschwerdeschrift, Schrift mit Beschwerden <note type="editorial">gegen die Herrschaft oder allgemein gegen eine Streitpartei</note></p>
+            <p>Klagerodel, Beschwerdeschrift, Schrift mit Beschwerden (gegen die Herrschaft oder allgemein gegen eine Streitpartei)</p>
           </note>
         </item>
         <item xml:id="stadtasg-keywords-418">
@@ -4190,7 +4190,7 @@
           <label xml:lang="de" type="main">Schloss</label>
           <label xml:lang="de" type="sort">schloss</label>
           <note type="description" xml:lang="de">
-            <p>Prunkvolles und repräsentatives Wohngebäude <note type="editorial">meistens von Adelsfamilien</note></p>
+            <p>Prunkvolles und repräsentatives Wohngebäude (meistens von Adelsfamilien)</p>
           </note>
         </item>
         <item xml:id="stadtasg-keywords-541">

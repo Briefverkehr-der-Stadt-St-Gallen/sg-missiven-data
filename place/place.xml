@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-08-12 11:06:18 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
+        <p>Datenbankexport vom 2025-08-12 16:06:45 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -5166,7 +5166,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>veraltet dt. Stallen <note type="editorial">bis 1903 offiziell ital. Stalla</note></p>
+              <p>veraltet dt. Stallen (bis 1903 offiziell ital. Stalla)</p>
             </note>
           </place>
           <place type="S" xml:id="stadtasg-places-210">
@@ -7437,7 +7437,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>Sitz der Adelsfamilie <div type="a">Waldburg-Zeil</div></p>
+              <p>Sitz der Adelsfamilie <ref target="/actors/836">Waldburg-Zeil</ref></p>
             </note>
           </place>
           <place type="A" xml:id="stadtasg-places-290">
@@ -7455,7 +7455,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>historisches Territorium, Sitz der Adelsfamilie <div type="a">Waldburg-Zeil</div> auf <div type="a">Schloss Zeil</div></p>
+              <p>historisches Territorium, Sitz der Adelsfamilie <ref target="/actors/836">Waldburg-Zeil</ref> auf <ref target="/places/289">Schloss Zeil</ref></p>
             </note>
           </place>
           <place type="P" xml:id="stadtasg-places-291">
@@ -9499,7 +9499,7 @@
               </bibl>
             </listBibl>
             <note type="description" xml:lang="de">
-              <p>historischer Vorgängerbau, heute Karl-Theodor-Brücke <note type="editorial">Alte Brücke</note></p>
+              <p>historischer Vorgängerbau, heute Karl-Theodor-Brücke (Alte Brücke)</p>
             </note>
           </place>
           <place type="P" xml:id="stadtasg-places-361">
@@ -10341,7 +10341,9 @@
             <placeName type="main" xml:lang="de">Hennegau</placeName>
             <placeName type="full" xml:lang="de">Hennegau</placeName>
             <placeName type="sort" xml:lang="de">hennegau</placeName>
-            <location/>
+            <location>
+              <geo>50.5 3.83333</geo>
+            </location>
             <idno type="stadtasg-places-id">387</idno>
             <listBibl>
               <bibl>
@@ -10408,7 +10410,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2025-08-12T11:06:19+02:00">teiHeader was automatically produced from the database 2025-08-12T11:06:19+02:00</change>
+      <change when="2025-08-12T16:06:45+02:00">teiHeader was automatically produced from the database 2025-08-12T16:06:45+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>

@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2025-08-12 11:06:18 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
+        <p>Datenbankexport vom 2025-08-12 16:06:44 aus Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</p>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -81,7 +81,7 @@
             <persName type="alternative" xml:lang="de">Ulrich Zeph</persName>
             <birth when="1421-02-22"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Zeph, Heinrich</div> und <div type="a">Zeph, Hans</div></p>
+              <p>Bruder von <ref target="/actors/116">Zeph, Heinrich</ref> und <ref target="/actors/20">Zeph, Hans</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -163,7 +163,7 @@
             <persName type="alternative" xml:lang="de">Cuenrat in der Bünd (1421-04-17)</persName>
             <birth when="1421-04-17"/>
             <note type="description" xml:lang="de">
-              <p>genannt Rüll, von Konstanz</p>
+              <p>genannt Rüll, Wohn/Herkunftsort: Konstanz</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-12">
@@ -176,7 +176,7 @@
             <persName type="alternative" xml:lang="de">Ulrich Gnäpser</persName>
             <birth when="1421-10-06"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Gnäpser, Estrich</div></p>
+              <p>Bruder von <ref target="/actors/123">Gnäpser, Estrich</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -313,7 +313,7 @@
             <persName type="alternative" xml:lang="de">Polikarpus</persName>
             <birth when="1423-02-06"/>
             <note type="description" xml:lang="de">
-              <p>Leutpriester in Marbach Kirche <note type="editorial">1423</note></p>
+              <p>Leutpriester in Marbach Kirche (1423)</p>
             </note>
             <listBibl>
               <bibl>
@@ -333,7 +333,7 @@
             <persName type="alternative" xml:lang="de">Konrad Utz</persName>
             <birth when="1423-01-25"/>
             <note type="description" xml:lang="de">
-              <p>Läufer in St. Gallen <note type="editorial">1437</note></p>
+              <p>Läufer in St. Gallen (1437)</p>
             </note>
             <listBibl>
               <bibl>
@@ -353,7 +353,7 @@
             <persName type="alternative" xml:lang="de">Hans Zeph</persName>
             <birth when="1425-07-08"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Zeph, Ulrich</div> und <div type="a">Zeph, Heinrich</div></p>
+              <p>Bruder von <ref target="/actors/6">Zeph, Ulrich</ref> und <ref target="/actors/116">Zeph, Heinrich</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -463,6 +463,9 @@
             <persName type="alternative" xml:lang="de">Hans Schad genant Goegel (1427-04-24)</persName>
             <persName type="alternative" xml:lang="de">Hans Schad</persName>
             <birth when="1427-04-24"/>
+            <note type="description" xml:lang="de">
+              <p>genannt Goegel</p>
+            </note>
             <listBibl>
               <bibl>
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per010344"/>
@@ -498,7 +501,7 @@
             <persName type="alternative" xml:lang="de">Elisabeth Estrich</persName>
             <birth when="1427-05-27"/>
             <note type="description" xml:lang="de">
-              <p>Unklar, welcher Nachname <note type="editorial">Lind und Estrich</note> zu ledigem Stand bzw. verheiratetem Stand gehört.</p>
+              <p>Unklar, welcher Nachname (Lind und Estrich) zu ledigem Stand bzw. verheiratetem Stand gehört.</p>
             </note>
             <listBibl>
               <bibl>
@@ -705,7 +708,7 @@
             <persName type="alternative" xml:lang="de">Lewo Locher</persName>
             <birth when="1435-09-28"/>
             <note type="description" xml:lang="de">
-              <p>Arbeitnehmer von <div type="a">Holz, Ulrich im</div></p>
+              <p>Arbeitnehmer von <ref target="/actors/196">Holz, Ulrich im</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -757,7 +760,7 @@
             <persName type="alternative" xml:lang="de">Hans Tumb (I)</persName>
             <birth when="1436-08-07"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: Der Ältere, Bruder von <div type="a">Tumb <note type="editorial">von Neuburg</note>, Hans <note type="editorial">II</note></div> und und <div type="a">Tumb <note type="editorial">von Neuburg</note>, Konrad</div></p>
+              <p>Zuname: Der Ältere, Bruder von <ref target="/actors/43">Tumb (von Neuburg), Hans (II)</ref> und <ref target="/actors/730">Tumb (von Neuburg), Konrad</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -787,7 +790,7 @@
             <persName type="alternative" xml:lang="de">Hans Tumb (II)</persName>
             <birth when="1436-08-07"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: Der Jüngere, Bruder von <div type="a">Tumb <note type="editorial">von Neuburg</note>, Hans <note type="editorial">I</note></div> und <div type="a">Tumb <note type="editorial">von Neuburg</note>, Konrad</div> sowie Ehemann von <div type="a">Altstätten, Kunigunde von</div></p>
+              <p>Zuname: Der Jüngere, Bruder von <ref target="/actors/42">Tumb (von Neuburg), Hans (I)</ref> und <ref target="/actors/730">Tumb (von Neuburg), Konrad</ref> sowie Ehemann von <ref target="/actors/328">Altstätten, Kunigunde von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -873,7 +876,7 @@
             <persName type="alternative" xml:lang="de">Ulrich von Eisenhofen, Vogt zu Feldkirch</persName>
             <birth when="1438-08-29"/>
             <note type="description" xml:lang="de">
-              <p>Vogt zu Feldkirch <note type="editorial">1438</note></p>
+              <p>Vogt in Feldkirch (1438)</p>
             </note>
             <listBibl>
               <bibl>
@@ -894,6 +897,9 @@
             <persName type="alternative" xml:lang="de">Wolfhart der Ältere von Brandis, Freiherr, Vogt zu Feldkirch (1442-03-02)</persName>
             <persName type="alternative" xml:lang="de">Wolfh</persName>
             <birth when="1438-12-28"/>
+            <note type="description" xml:lang="de">
+              <p>Vogt in Feldkirch (1440)</p>
+            </note>
             <listBibl>
               <bibl>
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per001002"/>
@@ -925,7 +931,7 @@
             <persName type="alternative" xml:lang="de">Friedrich, Römischer König und Her</persName>
             <birth when="1439-03-11"/>
             <note type="description" xml:lang="de">
-              <p>Habsburg-Österreich, Friedrich V. <note type="editorial">Herzog</note> III. <note type="editorial">Kaiser</note> IV. <note type="editorial">König</note> von, Vater von <div type="a">Habsburg-Österreich, Maximilian I. von</div></p>
+              <p>Habsburg-Österreich, Friedrich V. (Herzog) III. (Kaiser) IV. (König) von, Vater von <ref target="/actors/914">Habsburg-Österreich, Maximilian I. von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -1029,7 +1035,7 @@
             <persName type="alternative" xml:lang="de">Wolfhart der Jüngere von Brandis, Statthalter der Vogtei zu Feldkirch</persName>
             <birth when="1441-01-13"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: der Jüngere, Statthalter der Vogtei zu Feldkirch, Bruder von <div type="a">Brandis, Sigmund I. von</div></p>
+              <p>Zuname: der Jüngere, Statthalter der Vogtei in Feldkirch (1441), Bruder von <ref target="/actors/704">Brandis, Sigmund I. von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -1128,7 +1134,7 @@
             <persName type="alternative" xml:lang="de">Jacoben Tr</persName>
             <birth when="1444-09-15"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: Truchsess</p>
+              <p>Truchsess in Waldburg (1444)</p>
             </note>
             <listBibl>
               <bibl>
@@ -1149,6 +1155,9 @@
             <persName type="alternative" xml:lang="de">Hans Wilhelm von Fridingen (1444-11-08)</persName>
             <persName type="alternative" xml:lang="de">Hans Wilhelm von Friedingen, Vogt zu Bregenz</persName>
             <birth when="1444-11-08"/>
+            <note type="description" xml:lang="de">
+              <p>Vogt in Bregenz (1444)</p>
+            </note>
             <listBibl>
               <bibl>
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per011784"/>
@@ -1238,7 +1247,7 @@
             <persName type="alternative" xml:lang="de">Hans von Gänserndorf</persName>
             <birth when="1446-09-10"/>
             <note type="description" xml:lang="de">
-              <p>Schreiber von Habsburg-Österreich und Schwiegersohn von <div type="a">Schönenbühl, Walter von</div></p>
+              <p>Schreiber von Habsburg-Österreich und Schwiegersohn von <ref target="/actors/336">Schönenbühl, Walter von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -1273,7 +1282,7 @@
             <persName type="alternative" xml:lang="de">Heinrich Zwick</persName>
             <birth when="1448-10-01"/>
             <note type="description" xml:lang="de">
-              <p>Vater von <div type="a">Zwick, Michael</div></p>
+              <p>Vater von <ref target="/actors/618">Zwick, Michael</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -1449,7 +1458,7 @@
             <persName type="alternative" xml:lang="de">Liebhard Ledergerber</persName>
             <birth when="1450-09-23"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Ledergerber, Diepolt</div></p>
+              <p>Bruder von <ref target="/actors/367">Ledergerber, Diepolt</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -1506,7 +1515,7 @@
             <persName type="alternative" xml:lang="de">Caspar (1451-02-20)</persName>
             <birth when="1451-02-20"/>
             <note type="description" xml:lang="de">
-              <p>Abt des Benediktinerklosters St. Gallen <note type="editorial">1442-1463</note>, in den Missiven wird er meist Herr von St. Gallen genannt.</p>
+              <p>Abt des Benediktinerklosters St. Gallen (1442-1463), meist genannt Herr von St. Gallen</p>
             </note>
             <listBibl>
               <bibl>
@@ -1572,7 +1581,7 @@
             <persName type="alternative" xml:lang="de">Anton Schenk von Landegg</persName>
             <birth when="1444-05-09"/>
             <note type="description" xml:lang="de">
-              <p>Vogt in Bischofszell <note type="editorial">1444-1452</note></p>
+              <p>Vogt in Bischofszell (1444-1452)</p>
             </note>
             <listBibl>
               <bibl>
@@ -1622,7 +1631,7 @@
             <persName type="alternative" xml:lang="de">Ul</persName>
             <birth when="1437-03-12"/>
             <note type="description" xml:lang="de">
-              <p>Alt Bürgermeister in St. Gallen <note type="editorial">1437</note>, Verwandter von <div type="a">Dietz, Nesa</div></p>
+              <p>Alt Bürgermeister in St. Gallen (1437), Verwandter von <ref target="/actors/216">Dietz, Nesa</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -1641,7 +1650,7 @@
             <persName type="alternative" xml:lang="de">Johannes Henseler, Stadtschreiber zu Aarau</persName>
             <birth when="1452-11-05"/>
             <note type="description" xml:lang="de">
-              <p>Stadtschreiber zu Aarau <note type="editorial">1452</note></p>
+              <p>Stadtschreiber zu Aarau (1452)</p>
             </note>
             <listBibl>
               <bibl>
@@ -1657,7 +1666,7 @@
             <persName type="alternative" xml:lang="de">Bruder Wilhelm Rosslauf, Kaplan, Mönch im Predigerkloster zu Konstanz</persName>
             <birth when="1453-12-28"/>
             <note type="description" xml:lang="de">
-              <p>Kaplan, Mönch im Predigerkloster zu Konstanz <note type="editorial">1453</note></p>
+              <p>Kaplan, Mönch im Predigerkloster zu Konstanz (1453)</p>
             </note>
             <listBibl>
               <bibl>
@@ -1673,7 +1682,7 @@
             <persName type="alternative" xml:lang="de">Nikolaus Gundelfinger, Anwalt des Bischofs von Konstanz</persName>
             <birth when="1453-02-16"/>
             <note type="description" xml:lang="de">
-              <p>Generalvikar von Konstanz <note type="editorial">1438</note>, Anwalt des Bischofs von Konstanz <note type="editorial">1453</note></p>
+              <p>Generalvikar von Konstanz (1438), Anwalt des Bischofs von Konstanz (1453)</p>
             </note>
             <listBibl>
               <bibl>
@@ -1689,7 +1698,7 @@
             <persName type="alternative" xml:lang="de">Johannes Lidrunger, Vikar des Bischofs von Konstanz</persName>
             <birth when="1453-02-16"/>
             <note type="description" xml:lang="de">
-              <p>Vikar von Konstanz <note type="editorial">1453</note>, Siegler von Konstanz <note type="editorial">1453</note></p>
+              <p>Vikar von Konstanz (1453), Siegler von Konstanz (1453)</p>
             </note>
             <listBibl>
               <bibl>
@@ -1719,7 +1728,7 @@
             <persName type="alternative" xml:lang="de">Hans von Klingenberg, Ritter, Landvogt im Thurgau</persName>
             <birth when="1453-07-16"/>
             <note type="description" xml:lang="de">
-              <p>Ritter, Landvogt im Thurgau <note type="editorial">1453</note></p>
+              <p>Ritter, Landvogt im Thurgau (1453)</p>
             </note>
             <listBibl>
               <bibl>
@@ -1735,7 +1744,7 @@
             <persName type="alternative" xml:lang="de">Hans Brändli, Vogt zu Arbon</persName>
             <birth when="1453-07-25"/>
             <note type="description" xml:lang="de">
-              <p>Vogt zu Arbon <note type="editorial">1453</note></p>
+              <p>Vogt in Arbon (1453)</p>
             </note>
             <listBibl>
               <bibl>
@@ -1793,7 +1802,7 @@
             <persName type="alternative" xml:lang="de">Hans Fechter</persName>
             <birth when="1454-01-08"/>
             <note type="description" xml:lang="de">
-              <p>Stadtknecht in Ulm <note type="editorial">1454</note></p>
+              <p>Stadtknecht in Ulm (1454)</p>
             </note>
             <listBibl>
               <bibl>
@@ -1839,8 +1848,12 @@
             <persName type="main" xml:lang="de">Tettikofen, Brun von</persName>
             <persName type="sort" xml:lang="de">tettikofen, brun von</persName>
             <persName type="alternative" xml:lang="de">Brün von Tetikoven (1455-12-01)</persName>
-            <persName type="alternative" xml:lang="de">Brun von Dettikofen, genannt Bindrich von Konstanz</persName>
+            <persName type="alternative" xml:lang="de">Brun von Dettikofen</persName>
+            <persName type="alternative" xml:lang="de">Bindrich von Konstanz</persName>
             <birth when="1455-12-01"/>
+            <note type="description" xml:lang="de">
+              <p>genannt Bindrich, Wohn/Herkunftsort: Konstanz</p>
+            </note>
             <listBibl>
               <bibl>
                 <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per036061"/>
@@ -1935,7 +1948,7 @@
             <persName type="alternative" xml:lang="de">Prunberger</persName>
             <birth when="1418-10-15"/>
             <note type="description" xml:lang="de">
-              <p>männlich, Junker <note type="editorial">1418</note></p>
+              <p>männlich, Junker (1418)</p>
             </note>
             <listBibl>
               <bibl>
@@ -1953,7 +1966,7 @@
             <persName type="alternative" xml:lang="de">Hans</persName>
             <birth when="1418-10-15"/>
             <note type="description" xml:lang="de">
-              <p>männlich, Schulmeister in Konstanz <note type="editorial">vor 1418</note></p>
+              <p>männlich, Schulmeister in Konstanz (vor 1418)</p>
             </note>
             <listBibl>
               <bibl>
@@ -2010,7 +2023,7 @@
             <persName type="alternative" xml:lang="de">Frik Stüdlin</persName>
             <birth when="1421-02-22"/>
             <note type="description" xml:lang="de">
-              <p>Arbeitgeber von <div type="a">Lingg, Kaspar</div></p>
+              <p>Arbeitgeber von <ref target="/actors/199">Lingg, Kaspar</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -2031,7 +2044,7 @@
             <persName type="alternative" xml:lang="de">Hainrich</persName>
             <birth when="1421-02-22"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Zeph, Ulrich</div> und <div type="a">Zeph, Hans</div></p>
+              <p>Bruder von <ref target="/actors/6">Zeph, Ulrich</ref> und <ref target="/actors/20">Zeph, Hans</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -2146,7 +2159,7 @@
             <persName type="alternative" xml:lang="de">Estrichen</persName>
             <birth when="1421-10-06"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Gnäpser, Ulrich</div></p>
+              <p>Bruder von <ref target="/actors/12">Gnäpser, Ulrich</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -2179,7 +2192,7 @@
             <persName type="alternative" xml:lang="de">Person</persName>
             <birth when="1422-09-10"/>
             <note type="description" xml:lang="de">
-              <p>männlich, Ehemann von <div type="a">Spiser, NN <note type="editorial">I</note></div></p>
+              <p>männlich, Ehemann von <ref target="/actors/126">Spiser, NN (I)</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -2197,7 +2210,7 @@
             <persName type="alternative" xml:lang="de">nicht namentlich bekannte Ehefrau</persName>
             <birth when="1422-09-10"/>
             <note type="description" xml:lang="de">
-              <p>weiblich, Ehefrau von <div type="a">Spiser, NN <note type="editorial">II</note></div></p>
+              <p>weiblich, Ehefrau von <ref target="/actors/125">Spiser, NN (II)</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -2315,13 +2328,13 @@
             </listBibl>
           </person>
           <person xml:id="stadtasg-actors-132">
-            <persName type="full" xml:lang="de">NN, Johannes (1424–)</persName>
-            <persName type="main" xml:lang="de">NN, Johannes</persName>
-            <persName type="sort" xml:lang="de">nn, johannes</persName>
+            <persName type="full" xml:lang="de">Melonensibus, Johannes von (1424–)</persName>
+            <persName type="main" xml:lang="de">Melonensibus, Johannes von</persName>
+            <persName type="sort" xml:lang="de">melonensibus, johannes von</persName>
             <persName type="alternative" xml:lang="de">Iohannem</persName>
             <birth when="1424-08-16"/>
             <note type="description" xml:lang="de">
-              <p>Lehrer in geistlichem Recht <note type="editorial">1424</note>, Arbeitnehmer von <div type="a">Luxemburg, Sigismund von</div>, Wohn/Herkunftsort: Prata di Pordenone, Zuname: von Melonensibus</p>
+              <p>Lehrer in geistlichem Recht (1424), Arbeitnehmer von <ref target="/actors/16">Luxemburg, Sigismund von</ref>, Wohn/Herkunftsort: Prata di Pordenone</p>
             </note>
             <listBibl>
               <bibl>
@@ -2354,7 +2367,7 @@
             <persName type="alternative" xml:lang="de">Michel</persName>
             <birth when="1424-08-16"/>
             <note type="description" xml:lang="de">
-              <p>Propst in Bunzlau <note type="editorial">1424</note>, Arbeitnehmer von <div type="a">Luxemburg, Sigismund von</div></p>
+              <p>Propst in Bunzlau (1424), Arbeitnehmer von <ref target="/actors/16">Luxemburg, Sigismund von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -2373,7 +2386,7 @@
             <persName type="alternative" xml:lang="de">Hans der Kesler</persName>
             <birth when="1424-07-04"/>
             <note type="description" xml:lang="de">
-              <p>Priester <note type="editorial">1424</note>, Leutpriester in Glarus St. Fridolin und Hilarius <note type="editorial">1427</note>, Vetter von <div type="a">Kupferschmid, Johannes</div></p>
+              <p>Priester (1424), Leutpriester in Glarus St. Fridolin und Hilarius (1427), Vetter von <ref target="/actors/155">Kupferschmid, Johannes</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -2470,7 +2483,7 @@
             <persName type="alternative" xml:lang="de">Cuonrat</persName>
             <birth when="1425-04-21"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Brotbeck, Ulrich</div> und <div type="a">Brotbeck, Rudolf</div></p>
+              <p>Bruder von <ref target="/actors/143">Brotbeck, Ulrich</ref> und <ref target="/actors/142">Brotbeck, Rudolf</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -2488,7 +2501,7 @@
             <persName type="alternative" xml:lang="de">Ruedin</persName>
             <birth when="1425-04-21"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Brotbeck, Ulrich</div> und <div type="a">Brotbeck, Konrad</div></p>
+              <p>Bruder von <ref target="/actors/143">Brotbeck, Ulrich</ref> und <ref target="/actors/141">Brotbeck, Konrad</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -2506,7 +2519,7 @@
             <persName type="alternative" xml:lang="de">Uelin</persName>
             <birth when="1425-04-21"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Brotbeck, Konrad</div> und <div type="a">Brotbeck, Rudolf</div></p>
+              <p>Bruder von <ref target="/actors/141">Brotbeck, Konrad</ref> und <ref target="/actors/142">Brotbeck, Rudolf</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -2560,7 +2573,7 @@
             <persName type="alternative" xml:lang="de">Ruedi Gelter</persName>
             <birth when="1426-02-06"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Gelter, Stüdli</div>, Bürger von St. Gallen</p>
+              <p>Bruder von <ref target="/actors/248">Gelter, Stüdli</ref>, Bürger von St. Gallen</p>
             </note>
             <listBibl>
               <bibl>
@@ -2704,7 +2717,7 @@
             <persName type="alternative" xml:lang="de">Iohannes Kupfferschmid</persName>
             <birth when="1427-05-21"/>
             <note type="description" xml:lang="de">
-              <p>Vetter von <div type="a">Kessler, Hans</div></p>
+              <p>Vetter von <ref target="/actors/135">Kessler, Hans</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -2723,7 +2736,7 @@
             <persName type="alternative" xml:lang="de">Hansen Pfisters</persName>
             <birth when="1427-05-27"/>
             <note type="description" xml:lang="de">
-              <p>Vater von <div type="a">Pfister, NN</div></p>
+              <p>Vater von <ref target="/actors/157">Pfister, NN</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -2742,7 +2755,7 @@
             <persName type="alternative" xml:lang="de">Hanns Pfisters tochtren</persName>
             <birth when="1427-05-27"/>
             <note type="description" xml:lang="de">
-              <p>weiblich, Tochter von <div type="a">Pfister, Hans</div></p>
+              <p>weiblich, Tochter von <ref target="/actors/156">Pfister, Hans</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -2816,7 +2829,7 @@
             <persName type="alternative" xml:lang="de">Cuenrat Parter</persName>
             <birth when="1429-08-12"/>
             <note type="description" xml:lang="de">
-              <p>Vater von <div type="a">Barter, Hans</div> und <div type="a">Barter, Verena</div></p>
+              <p>Vater von <ref target="/actors/200">Barter, Hans</ref> und <ref target="/actors/219">Barter, Verena</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -2867,7 +2880,7 @@
             <persName type="alternative" xml:lang="de">Ruedolffen</persName>
             <birth when="1430-03-18"/>
             <note type="description" xml:lang="de">
-              <p>Gesandter <note type="editorial">1430</note>, Meister</p>
+              <p>Gesandter (1430), Meister</p>
             </note>
             <listBibl>
               <bibl>
@@ -3011,7 +3024,7 @@
             <persName type="alternative" xml:lang="de">Niclaus</persName>
             <birth when="1431-07-21"/>
             <note type="description" xml:lang="de">
-              <p>Steinmetz in Salem <note type="editorial">1431</note>, Architekt in Sankt Nikolaus <note type="editorial">1431</note>, Meister</p>
+              <p>Steinmetz in Salem (1431), Architekt in Sankt Nikolaus (1431), Meister</p>
             </note>
             <listBibl>
               <bibl>
@@ -3169,7 +3182,7 @@
             <persName type="alternative" xml:lang="de">Hans Maiger</persName>
             <birth when="1433-01-18"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: Schärrer, Landmann von Appenzell</p>
+              <p>genannt Schärrer, Landmann von Appenzell</p>
             </note>
             <listBibl>
               <bibl>
@@ -3217,7 +3230,7 @@
             <persName type="alternative" xml:lang="de">Estrich</persName>
             <birth when="1433-08-30"/>
             <note type="description" xml:lang="de">
-              <p>männlich, Junker, Landmann von Appenzell <note type="editorial">1433</note></p>
+              <p>männlich, Junker, Landmann von Appenzell (1433)</p>
             </note>
             <listBibl>
               <bibl>
@@ -3377,7 +3390,7 @@
             <persName type="alternative" xml:lang="de">Yntal Redigs</persName>
             <birth when="1435-07-07"/>
             <note type="description" xml:lang="de">
-              <p>Ammann von Schwyz</p>
+              <p>Ammann in Schwyz (1435)</p>
             </note>
             <listBibl>
               <bibl>
@@ -3441,7 +3454,7 @@
             <persName type="alternative" xml:lang="de">Uolrichen im Holtz</persName>
             <birth when="1435-09-28"/>
             <note type="description" xml:lang="de">
-              <p>Arbeitgeber von <div type="a">Locher, Lewo</div></p>
+              <p>Arbeitgeber von <ref target="/actors/39">Locher, Lewo</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -3459,7 +3472,7 @@
             <persName type="alternative" xml:lang="de">Mathias</persName>
             <birth when="1435-12-21"/>
             <note type="description" xml:lang="de">
-              <p>Arbeitgeber von <div type="a">Lingg, Kaspar</div></p>
+              <p>Arbeitgeber von <ref target="/actors/199">Lingg, Kaspar</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -3498,7 +3511,7 @@
             <persName type="alternative" xml:lang="de">Caspar Lingen</persName>
             <birth when="1435-12-21"/>
             <note type="description" xml:lang="de">
-              <p>Prokurator, Arbeitnehmer von <div type="a">Stüdeli, Matthias</div> und <div type="a">Stüdeli, Friedrich</div></p>
+              <p>Prokurator, Arbeitnehmer von <ref target="/actors/197">Stüdeli, Matthias</ref> und <ref target="/actors/115">Stüdeli, Friedrich</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -3517,7 +3530,7 @@
             <persName type="alternative" xml:lang="de">Henslin</persName>
             <birth when="1436-02-04"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Barter, Verena</div> und Sohn von <div type="a">Barter, Konrad</div></p>
+              <p>Bruder von <ref target="/actors/219">Barter, Verena</ref> und Sohn von <ref target="/actors/161">Barter, Konrad</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -3573,7 +3586,7 @@
             <persName type="alternative" xml:lang="de">Marti Dorn</persName>
             <birth when="1436-07-14"/>
             <note type="description" xml:lang="de">
-              <p>Ratsherr in Lindau</p>
+              <p>Ratsherr in Lindau (1436)</p>
             </note>
             <listBibl>
               <bibl>
@@ -3628,7 +3641,7 @@
             <persName type="alternative" xml:lang="de">Cuonraten Hoeren</persName>
             <birth when="1436-08-07"/>
             <note type="description" xml:lang="de">
-              <p>Bürgermeister von St. Gallen</p>
+              <p>Bürgermeister in St. Gallen (1436)</p>
             </note>
             <listBibl>
               <bibl>
@@ -3649,7 +3662,7 @@
             <persName type="alternative" xml:lang="de">Micheln von Emptz</persName>
             <birth when="1436-09-01"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Hohenems, Marquard IV. von</div> und Sohn von <div type="a">Hohenems, Marquard III. von</div></p>
+              <p>Bruder von <ref target="/actors/314">Hohenems, Marquard IV. von</ref> und Sohn von <ref target="/actors/729">Hohenems, Marquard III. von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -3671,7 +3684,7 @@
             <persName type="alternative" xml:lang="de">Diettegen von Gruenenstain</persName>
             <birth when="1436-09-01"/>
             <note type="description" xml:lang="de">
-              <p>Vogt zu Balgach</p>
+              <p>Vogt in Balgach (1443)</p>
             </note>
             <listBibl>
               <bibl>
@@ -3704,7 +3717,7 @@
             <persName type="alternative" xml:lang="de">Hans Varnbüler</persName>
             <birth when="1436-12-02"/>
             <note type="description" xml:lang="de">
-              <p>Kleinrat in St. Gallen, Vater von <div type="a">Varnbüler, Ulrich</div></p>
+              <p>Kleinrat in St. Gallen, Vater von <ref target="/actors/946">Varnbüler, Ulrich</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -3722,7 +3735,7 @@
             <persName type="alternative" xml:lang="de">Konrad Kurer</persName>
             <birth when="1436-12-02"/>
             <note type="description" xml:lang="de">
-              <p>Reichsvogt in St. Gallen</p>
+              <p>Reichsvogt in St. Gallen (1436)</p>
             </note>
             <listBibl>
               <bibl>
@@ -3803,7 +3816,7 @@
             <persName type="alternative" xml:lang="de">Nesa Dietzin</persName>
             <birth when="1437-03-12"/>
             <note type="description" xml:lang="de">
-              <p>verwandt mit <div type="a">Särri, Ulrich</div></p>
+              <p>verwandt mit <ref target="/actors/91">Särri, Ulrich</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -3838,7 +3851,7 @@
             <persName type="alternative" xml:lang="de">Hug von Watt</persName>
             <birth when="1437-03-19"/>
             <note type="description" xml:lang="de">
-              <p>Vater von <div type="a">Watt, Hektor von</div></p>
+              <p>Vater von <ref target="/actors/705">Watt, Hektor von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -3859,7 +3872,7 @@
             <persName type="alternative" xml:lang="de">Verenen</persName>
             <birth when="1437-04-06"/>
             <note type="description" xml:lang="de">
-              <p>Schwester von <div type="a">Barter, Hans</div> und Tochter von <div type="a">Barter, Konrad</div></p>
+              <p>Schwester von <ref target="/actors/200">Barter, Hans</ref> und Tochter von <ref target="/actors/161">Barter, Konrad</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -3941,7 +3954,7 @@
             <persName type="alternative" xml:lang="de">Eberhar</persName>
             <birth when="1437-06-14"/>
             <note type="description" xml:lang="de">
-              <p>Ehemann von <div type="a">Ramschwag, NN von </div></p>
+              <p>Ehemann von <ref target="/actors/231">Ramschwag, NN von </ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -4036,7 +4049,7 @@
             <persName type="alternative" xml:lang="de">Uolrichen Sch(nabelburg)</persName>
             <birth when="1437-08-17"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Schnabelburg, Hans</div></p>
+              <p>Bruder von <ref target="/actors/229">Schnabelburg, Hans</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -4054,7 +4067,7 @@
             <persName type="alternative" xml:lang="de">Hannsen Schnabelbur(g)</persName>
             <birth when="1437-08-17"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Schnabelburg, Ulrich</div></p>
+              <p>Bruder von <ref target="/actors/228">Schnabelburg, Ulrich</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -4074,7 +4087,7 @@
             <persName type="alternative" xml:lang="de">Uolrichs saeligen von Emptz</persName>
             <birth when="1438-03-07"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: Der Ältere, Vater von <div type="a">Ramschwag, NN von</div></p>
+              <p>Zuname: Der Ältere, Vater von <ref target="/actors/231">Ramschwag, NN von</ref>, verstorben (1438)</p>
             </note>
             <listBibl>
               <bibl>
@@ -4094,7 +4107,7 @@
             <persName type="alternative" xml:lang="de">Uolrichs tochter</persName>
             <birth when="1438-03-07"/>
             <note type="description" xml:lang="de">
-              <p>Ehefrau von <div type="a">Ramschwag, Eberhard von</div> und Tochter von <div type="a">Hohenems, Ulrich II. von </div></p>
+              <p>Ehefrau von <ref target="/actors/223">Ramschwag, Eberhard von</ref> und Tochter von <ref target="/actors/230">Hohenems, Ulrich II. von </ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -4256,7 +4269,7 @@
             <persName type="alternative" xml:lang="de">Fridrichen von Brandenburg</persName>
             <birth when="1438-09-17"/>
             <note type="description" xml:lang="de">
-              <p>Vater von <div type="a">Brandenburg, Albrecht Achilles III. von</div></p>
+              <p>Vater von <ref target="/actors/409">Brandenburg, Albrecht Achilles III. von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -4280,7 +4293,7 @@
             <persName type="alternative" xml:lang="de">Wilhelmen von Hochenrechperg</persName>
             <birth when="1438-09-17"/>
             <note type="description" xml:lang="de">
-              <p>Landrichter, Zuname: von Hohenrechberg, Familie <div type="a">von Rechberg</div></p>
+              <p>Landrichter, Zuname: von Hohenrechberg, Familie <ref target="/actors/727">von Rechberg</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-242">
@@ -4341,7 +4354,7 @@
             <persName type="alternative" xml:lang="de">Wilhelm von Stainach</persName>
             <birth when="1438-11-21"/>
             <note type="description" xml:lang="de">
-              <p>Bürger von St. Gallen <note type="editorial">1438</note>, Vogt in Fussach</p>
+              <p>Bürger von St. Gallen, Vogt in Fussach (1438)</p>
             </note>
             <listBibl>
               <bibl>
@@ -4392,7 +4405,7 @@
             <persName type="alternative" xml:lang="de">Stüdlin</persName>
             <birth when="1438-12-28"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Gelter, Ruedi</div></p>
+              <p>Bruder von <ref target="/actors/146">Gelter, Ruedi</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -4410,7 +4423,7 @@
             <persName type="alternative" xml:lang="de">Bairrer Uolrichen</persName>
             <birth when="1438-12-28"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Payer, Konrad</div></p>
+              <p>Bruder von <ref target="/actors/250">Payer, Konrad</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -4428,7 +4441,7 @@
             <persName type="alternative" xml:lang="de">Cuonraten</persName>
             <birth when="1438-12-28"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Payer, Ulrich</div></p>
+              <p>Bruder von <ref target="/actors/249">Payer, Ulrich</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -4447,7 +4460,7 @@
             <persName type="alternative" xml:lang="de">Jacob von Langenhart</persName>
             <birth when="1438-12-28"/>
             <note type="description" xml:lang="de">
-              <p>Vater von <div type="a">Langenhart, Hans von</div> und <div type="a">Langenhart, Bertschin von</div></p>
+              <p>Vater von <ref target="/actors/352">Langenhart, Hans von</ref> und <ref target="/actors/351">Langenhart, Bertschin von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -4515,7 +4528,7 @@
             <persName type="alternative" xml:lang="de">Uelin Tümpffler</persName>
             <birth when="1439-07-17"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: Tümpfler</p>
+              <p>genannt Tümpfler</p>
             </note>
             <listBibl>
               <bibl>
@@ -4581,7 +4594,7 @@
             <persName type="alternative" xml:lang="de">Hanns</persName>
             <birth when="1440-08-04"/>
             <note type="description" xml:lang="de">
-              <p>Wundarzt <note type="editorial">1440</note>, Meister</p>
+              <p>Wundarzt (1440), Meister</p>
             </note>
             <listBibl>
               <bibl>
@@ -4619,7 +4632,7 @@
             <persName type="alternative" xml:lang="de">Ulrich Knopf</persName>
             <birth when="1440-10-01"/>
             <note type="description" xml:lang="de">
-              <p>Sohn von <div type="a">Knopf, Benz</div> und <div type="a">Heisterkirch, Greta von</div></p>
+              <p>Sohn von <ref target="/actors/263">Knopf, Benz</ref> und <ref target="/actors/264">Heisterkirch, Greta von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -4637,7 +4650,7 @@
             <persName type="alternative" xml:lang="de">Bentzen Knopfs</persName>
             <birth when="1440-10-01"/>
             <note type="description" xml:lang="de">
-              <p>Vater von <div type="a">Knopf, Ulrich</div></p>
+              <p>Vater von <ref target="/actors/262">Knopf, Ulrich</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -4655,7 +4668,7 @@
             <persName type="alternative" xml:lang="de">Greten von Haysterkirch</persName>
             <birth when="1440-10-01"/>
             <note type="description" xml:lang="de">
-              <p>Mutter von <div type="a">Knopf, Ulrich</div></p>
+              <p>Mutter von <ref target="/actors/262">Knopf, Ulrich</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -4766,7 +4779,7 @@
             <persName type="alternative" xml:lang="de">Kaysper Wirt</persName>
             <birth when="1440"/>
             <note type="description" xml:lang="de">
-              <p>1449-1455 Ratsherr in St. Gallen, Leiter der Diesbach-Watt-Gesellschaft</p>
+              <p>Ratsherr in St. Gallen (1449-1455), Leiter der Diesbach-Watt-Gesellschaft</p>
             </note>
             <listBibl>
               <bibl>
@@ -4805,7 +4818,7 @@
             <persName type="alternative" xml:lang="de">Ruodolfen Seiller</persName>
             <birth when="1441-03-18"/>
             <note type="description" xml:lang="de">
-              <p>Amtmann und Busseneinzieher des Abtes <note type="editorial">1441</note>, Bürger von St. Gallen</p>
+              <p>Amtmann und Busseneinzieher des Abtes (1441), Bürger von St. Gallen</p>
             </note>
             <listBibl>
               <bibl>
@@ -4860,7 +4873,7 @@
             <persName type="variant" xml:lang="de">Glockengiesser, Ulrich</persName>
             <birth when="1441-08-12"/>
             <note type="description" xml:lang="de">
-              <p>Glockengiesser <note type="editorial">1441</note>, Meister, Bürger von St. Gallen</p>
+              <p>Glockengiesser (1441), Meister, Bürger von St. Gallen</p>
             </note>
             <listBibl>
               <bibl>
@@ -4945,7 +4958,7 @@
             <persName type="alternative" xml:lang="de">Hainrich Klob</persName>
             <birth when="1442-05-24"/>
             <note type="description" xml:lang="de">
-              <p>Stiefvater von <div type="a">Nünangster, Peter</div> und <div type="a">Klinger, Hans</div></p>
+              <p>Stiefvater von <ref target="/actors/281">Nünangster, Peter</ref> und <ref target="/actors/282">Klinger, Hans</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -4963,7 +4976,7 @@
             <persName type="alternative" xml:lang="de">Peter Nünangsters</persName>
             <birth when="1442-05-24"/>
             <note type="description" xml:lang="de">
-              <p>Stiefsohn von <div type="a">Klob, Heinrich</div></p>
+              <p>Stiefsohn von <ref target="/actors/280">Klob, Heinrich</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -4983,7 +4996,7 @@
             <persName type="alternative" xml:lang="de">Hannsen Clingers</persName>
             <birth when="1442-05-24"/>
             <note type="description" xml:lang="de">
-              <p>Stiefsohn von <div type="a">Klob, Heinrich</div></p>
+              <p>Stiefsohn von <ref target="/actors/280">Klob, Heinrich</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -5056,7 +5069,7 @@
             <persName type="alternative" xml:lang="de">Hainis Nückum</persName>
             <birth when="1442-12-15"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Neukomm, Ulrich</div></p>
+              <p>Bruder von <ref target="/actors/287">Neukomm, Ulrich</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -5076,7 +5089,7 @@
             <persName type="alternative" xml:lang="de">Ulrichen Nückum</persName>
             <birth when="1442-12-15"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Neukomm, Hans</div></p>
+              <p>Bruder von <ref target="/actors/286">Neukomm, Hans</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -5117,7 +5130,7 @@
             <persName type="alternative" xml:lang="de">Hanns Melli</persName>
             <birth when="1442-12-29"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: Ätti von Buchen</p>
+              <p>genannt Ätti von Buchen</p>
             </note>
             <listBibl>
               <bibl>
@@ -5304,7 +5317,7 @@
             <persName type="alternative" xml:lang="de">frowen aepptyssenn, gnedigen frowen</persName>
             <birth when="1443-08-02"/>
             <note type="description" xml:lang="de">
-              <p>Fürstäbtissin des <div type="a">Kanonissenstift Lindau</div> <note type="editorial">1432-1476</note> Vögtin in Sommeri <note type="editorial">1476</note></p>
+              <p>Fürstäbtissin des <ref target="/places/319">Kanonissenstift Lindau</ref> (1432-1476) Vögtin in Sommeri (1476)</p>
             </note>
             <listBibl>
               <bibl>
@@ -5439,7 +5452,7 @@
             <persName type="alternative" xml:lang="de">Walther von Ainwill</persName>
             <birth when="1444-05-09"/>
             <note type="description" xml:lang="de">
-              <p>Vogt in Bischofszell <note type="editorial">1430-1439</note></p>
+              <p>Vogt in Bischofszell (1430-1439)</p>
             </note>
             <listBibl>
               <bibl>
@@ -5509,7 +5522,7 @@
             <persName type="alternative" xml:lang="de">Maerk von Emptz</persName>
             <birth when="1444-06-17"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Hohenems, Michael I. von</div> und Sohn von <div type="a">Hohenems, Marquard III. von</div>, Todesdatum 1489</p>
+              <p>Bruder von <ref target="/actors/207">Hohenems, Michael I. von</ref> und Sohn von <ref target="/actors/729">Hohenems, Marquard III. von</ref>, Todesdatum 1489</p>
             </note>
             <listBibl>
               <bibl>
@@ -5576,7 +5589,7 @@
             <persName type="alternative" xml:lang="de">Ludwig von Vyan</persName>
             <birth when="1444-09-27"/>
             <note type="description" xml:lang="de">
-              <p>König von Frankreich <note type="editorial">1461–1483</note></p>
+              <p>König von Frankreich (1461–1483)</p>
             </note>
             <listBibl>
               <bibl>
@@ -5693,7 +5706,7 @@
             <persName type="alternative" xml:lang="de">Annen Gersterin</persName>
             <birth when="1445-01-20"/>
             <note type="description" xml:lang="de">
-              <p>Ehefrau von <div type="a">Gerster, Hans</div></p>
+              <p>Ehefrau von <ref target="/actors/325">Gerster, Hans</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -5713,7 +5726,7 @@
             <persName type="alternative" xml:lang="de">Hannsen Gersters</persName>
             <birth when="1445-01-20"/>
             <note type="description" xml:lang="de">
-              <p>Ehemann von <div type="a">Gerster, Anna</div></p>
+              <p>Ehemann von <ref target="/actors/324">Gerster, Anna</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -5746,7 +5759,7 @@
             <persName type="alternative" xml:lang="de">Mathyassen Schnebergs</persName>
             <birth when="1445-05-08"/>
             <note type="description" xml:lang="de">
-              <p>Stadtammann von Lindau <note type="editorial">1445</note></p>
+              <p>Stadtammann von Lindau (1445)</p>
             </note>
             <listBibl>
               <bibl>
@@ -5767,7 +5780,7 @@
             <persName type="alternative" xml:lang="de">Kuengünd Thuemin</persName>
             <birth when="1445-11-11"/>
             <note type="description" xml:lang="de">
-              <p>auch Tumb <note type="editorial">von Neuburg</note>, Kunigunde genannt und Ehefrau von <div type="a">Tumb <note type="editorial">von Neuburg</note>, Hans <note type="editorial">II</note></div></p>
+              <p>genannt Küngolt Thoumin, Ehefrau von <ref target="/actors/43">Tumb (von Neuburg), Hans (II)</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -5913,7 +5926,7 @@
             <persName type="alternative" xml:lang="de">Walthern von Schonenbuehl</persName>
             <birth when="1446-09-10"/>
             <note type="description" xml:lang="de">
-              <p>Schwiegervater von <div type="a">Gänserndorf, Hans von</div></p>
+              <p>Schwiegervater von <ref target="/actors/69">Gänserndorf, Hans von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -6007,16 +6020,16 @@
               </bibl>
             </listBibl>
           </person>
-          <person xml:id="stadtasg-actors-342">
-            <persName type="full" xml:lang="de">Strub, NN (I) (1447–)</persName>
-            <persName type="main" xml:lang="de">Strub, NN (I)</persName>
-            <persName type="sort" xml:lang="de">strub, nn (i)</persName>
+          <personGrp role="family" xml:id="stadtasg-actors-342">
+            <persName type="full" xml:lang="de">Strub (1447–)</persName>
+            <persName type="main" xml:lang="de">Strub</persName>
+            <persName type="sort" xml:lang="de">strub</persName>
             <persName type="alternative" xml:lang="de">Struben (1447-07-12)</persName>
             <persName type="alternative" xml:lang="de">Struben (1447-07-12)</persName>
-            <persName type="alternative" xml:lang="de">Struben von Ziberwangen</persName>
+            <persName type="alternative" xml:lang="de">Struben von Ziberwangen, Straub</persName>
             <birth when="1447-07-12"/>
             <note type="description" xml:lang="de">
-              <p>männlich, Zuname: von Züberwangen <note type="editorial">St. Gallen</note></p>
+              <p>Zuname: von Züberwangen (St. Gallen)</p>
             </note>
             <listBibl>
               <bibl>
@@ -6026,7 +6039,7 @@
                 <ptr type="histhub" target="https://data.histhub.ch/person/11596749"/>
               </bibl>
             </listBibl>
-          </person>
+          </personGrp>
           <person xml:id="stadtasg-actors-343">
             <persName type="full" xml:lang="de">Töber, Burkhard (1447–)</persName>
             <persName type="main" xml:lang="de">Töber, Burkhard</persName>
@@ -6068,7 +6081,7 @@
             <persName type="alternative" xml:lang="de">Schmid von Golda</persName>
             <birth when="1448-09-15"/>
             <note type="description" xml:lang="de">
-              <p>männlich, Zuname: von Goldach <note type="editorial">Appenzell</note></p>
+              <p>männlich, Wohn/Herkunftsort: Goldach (Appenzell)</p>
             </note>
             <listBibl>
               <bibl>
@@ -6159,7 +6172,7 @@
             <persName type="alternative" xml:lang="de">Bertschin Langenhart</persName>
             <birth when="1448-09-22"/>
             <note type="description" xml:lang="de">
-              <p>Sohn von <div type="a">Langenhart, Jakob von</div> und Bruder von <div type="a">Langenhart, Hans von</div></p>
+              <p>Sohn von <ref target="/actors/251">Langenhart, Jakob von</ref> und Bruder von <ref target="/actors/352">Langenhart, Hans von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -6177,7 +6190,7 @@
             <persName type="alternative" xml:lang="de">Hans Langenhart</persName>
             <birth when="1448-09-24"/>
             <note type="description" xml:lang="de">
-              <p>Sohn von <div type="a">Langenhart, Jakob von</div> und Bruder von <div type="a">Langenhart, Bertschin von</div></p>
+              <p>Sohn von <ref target="/actors/251">Langenhart, Jakob von</ref> und Bruder von <ref target="/actors/351">Langenhart, Bertschin von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -6231,7 +6244,7 @@
             <persName type="alternative" xml:lang="de">Uolrichen von Pürß</persName>
             <birth when="1448-12-09"/>
             <note type="description" xml:lang="de">
-              <p>Hofammann von St. Gallen <note type="editorial">1432</note> Ratsherr von St. Gallen <note type="editorial">1444</note> Alt Hofammann von St. Gallen <note type="editorial">1444</note></p>
+              <p>Hofammann von St. Gallen (1432) Ratsherr von St. Gallen (1444) Alt Hofammann von St. Gallen (1444)</p>
             </note>
             <listBibl>
               <bibl>
@@ -6447,7 +6460,7 @@
             <persName type="alternative" xml:lang="de">Diepolt Ledergaerw</persName>
             <birth when="1450-09-23"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Ledergerber, Liebhard</div>, Ratsherr in St. Gallen</p>
+              <p>Bruder von <ref target="/actors/80">Ledergerber, Liebhard</ref>, Ratsherr in St. Gallen (1450)</p>
             </note>
             <listBibl>
               <bibl>
@@ -6562,7 +6575,7 @@
             <persName type="alternative" xml:lang="de">Ulrich Schmitter</persName>
             <birth when="1451-02-19"/>
             <note type="description" xml:lang="de">
-              <p>Ehemann von <div type="a">Schmitter, NN</div></p>
+              <p>Ehemann von <ref target="/actors/377">Schmitter, NN</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -6586,7 +6599,7 @@
             <persName type="alternative" xml:lang="de">Margret von Kilchen</persName>
             <birth when="1451-02-19"/>
             <note type="description" xml:lang="de">
-              <p>Ehefrau von <div type="a">Kilchen, Wernlin von</div></p>
+              <p>Ehefrau von <ref target="/actors/376">Kilchen, Wernlin von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -6604,7 +6617,7 @@
             <persName type="alternative" xml:lang="de">Werlins von Kilchen</persName>
             <birth when="1451-02-19"/>
             <note type="description" xml:lang="de">
-              <p>Ehemann von <div type="a">Kilchen, Margret von</div>, Vorsteher der Halbisen-Gesellschaft</p>
+              <p>Ehemann von <ref target="/actors/375">Kilchen, Margret von</ref>, Vorsteher der Halbisen-Gesellschaft</p>
             </note>
             <listBibl>
               <bibl>
@@ -6626,7 +6639,7 @@
             <persName type="alternative" xml:lang="de">Schmitterin</persName>
             <birth when="1451-02-19"/>
             <note type="description" xml:lang="de">
-              <p>weiblich, Bürgerin von Basel, Ehefrau von <div type="a">Schmitter, Ulrich</div></p>
+              <p>weiblich, Bürgerin von Basel, Ehefrau von <ref target="/actors/374">Schmitter, Ulrich</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -6720,7 +6733,7 @@
             <persName type="alternative" xml:lang="de">Clauß Herer</persName>
             <birth when="1451-06-22"/>
             <note type="description" xml:lang="de">
-              <p>Landsmann von Appenzell <note type="editorial">1451</note></p>
+              <p>Landsmann von Appenzell (1451)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-383">
@@ -6823,7 +6836,7 @@
             <persName type="alternative" xml:lang="de">Woelffli</persName>
             <birth when="1451-07-15"/>
             <note type="description" xml:lang="de">
-              <p>männlich, Wohn/Herkunftsort: Bregenzerwald, Ehemann von <div type="a">Schnell, Älli</div></p>
+              <p>männlich, Wohn/Herkunftsort: Bregenzerwald, Ehemann von <ref target="/actors/390">Schnell, Älli</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -6838,7 +6851,7 @@
             <persName type="alternative" xml:lang="de">Aellen</persName>
             <birth when="1451-07-15"/>
             <note type="description" xml:lang="de">
-              <p>Ehefrau von <div type="a">Wölfli, NN</div>, Tochter von <div type="a">Schnell, Heinz</div></p>
+              <p>Ehefrau von <ref target="/actors/389">Wölfli, NN</ref>, Tochter von <ref target="/actors/391">Schnell, Heinz</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -6853,7 +6866,7 @@
             <persName type="alternative" xml:lang="de">Haintzen Schnellen</persName>
             <birth when="1451-07-15"/>
             <note type="description" xml:lang="de">
-              <p>Vater von <div type="a">Schnell, Älli</div></p>
+              <p>Vater von <ref target="/actors/390">Schnell, Älli</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -7091,7 +7104,7 @@
             <persName type="alternative" xml:lang="de">hern Albrechten</persName>
             <birth when="1451-11-09"/>
             <note type="description" xml:lang="de">
-              <p>Sohn von <div type="a">Brandenburg, Friedrich I. von</div></p>
+              <p>Sohn von <ref target="/actors/240">Brandenburg, Friedrich I. von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -7151,7 +7164,7 @@
             <persName type="alternative" xml:lang="de">Ytal Dietrich Vogt</persName>
             <birth when="1451-12-02"/>
             <note type="description" xml:lang="de">
-              <p>Alt Bürgermeister in St. Gallen <note type="editorial">1451</note>, Kommissär in Habsburg-Österreich <note type="editorial">1451</note></p>
+              <p>Alt Bürgermeister in St. Gallen (1451), Kommissär in Habsburg-Österreich (1451)</p>
             </note>
             <listBibl>
               <bibl>
@@ -7179,7 +7192,7 @@
             <persName type="alternative" xml:lang="de">Thoman Switzers</persName>
             <birth when="1452-01-09"/>
             <note type="description" xml:lang="de">
-              <p>Ehemann von <div type="a">Schweizer, NN</div></p>
+              <p>Ehemann von <ref target="/actors/415">Schweizer, NN</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -7195,7 +7208,7 @@
             <persName type="alternative" xml:lang="de">Frau Schweizer</persName>
             <birth when="1452-01-09"/>
             <note type="description" xml:lang="de">
-              <p>weiblich, Ehefrau von <div type="a">Schweizer, Thomas</div></p>
+              <p>weiblich, Ehefrau von <ref target="/actors/414">Schweizer, Thomas</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -7302,7 +7315,7 @@
             <persName type="alternative" xml:lang="de">Burkartz Schenken</persName>
             <birth when="1452-02-25"/>
             <note type="description" xml:lang="de">
-              <p>Vogt in Arbon <note type="editorial">1493</note></p>
+              <p>Vogt in Arbon (1493)</p>
             </note>
             <listBibl>
               <bibl>
@@ -7338,9 +7351,9 @@
             </listBibl>
           </person>
           <person xml:id="stadtasg-actors-423">
-            <persName type="full" xml:lang="de">Strub, NN (II) (1452–)</persName>
-            <persName type="main" xml:lang="de">Strub, NN (II)</persName>
-            <persName type="sort" xml:lang="de">strub, nn (ii)</persName>
+            <persName type="full" xml:lang="de">Strub, NN (1452–)</persName>
+            <persName type="main" xml:lang="de">Strub, NN</persName>
+            <persName type="sort" xml:lang="de">strub, nn</persName>
             <persName type="alternative" xml:lang="de">Struben</persName>
             <birth when="1452-07-09"/>
             <note type="description" xml:lang="de">
@@ -7392,7 +7405,7 @@
             <persName type="alternative" xml:lang="de">Gaudentzen von Rechberg von Hochenrechberg</persName>
             <birth when="1452-11-03"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: von Hohenrechberg, Familie <div type="a">von Rechberg</div></p>
+              <p>Zuname: von Hohenrechberg, Familie <ref target="/actors/727">von Rechberg</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -7763,7 +7776,7 @@
             <persName type="alternative" xml:lang="de">Friedrich von Wartenberg (1454-10-21)</persName>
             <birth when="1453-08-11"/>
             <note type="description" xml:lang="de">
-              <p>Abt von Reichenau <note type="editorial">1428-1454</note></p>
+              <p>Abt von Reichenau (1428-1454)</p>
             </note>
             <listBibl>
               <bibl>
@@ -7884,7 +7897,7 @@
             <persName type="alternative" xml:lang="de">Hanß von Rechberg</persName>
             <birth when="1451-11-09"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: von Hohenrechberg, Familie <div type="a">von Rechberg</div></p>
+              <p>Zuname: von Hohenrechberg, Familie <ref target="/actors/727">von Rechberg</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -7945,7 +7958,7 @@
             <persName type="alternative" xml:lang="de">Burckart</persName>
             <birth when="1454-02-13"/>
             <note type="description" xml:lang="de">
-              <p>männlich, Vogt von Vaduz <note type="editorial">1454</note></p>
+              <p>männlich, Vogt in Vaduz (1454)</p>
             </note>
             <listBibl>
               <bibl>
@@ -7990,7 +8003,7 @@
             <persName type="alternative" xml:lang="de">Marquart von Schellemberg</persName>
             <birth when="1454-07-16"/>
             <note type="description" xml:lang="de">
-              <p>Landvogt von Oberschwaben, Ritter</p>
+              <p>Landvogt in Oberschwaben, Ritter (1486)</p>
             </note>
             <listBibl>
               <bibl>
@@ -8157,7 +8170,7 @@
             <persName type="sort" xml:lang="de">brennwald, niklaus</persName>
             <birth when="1454-11-28"/>
             <note type="description" xml:lang="de">
-              <p>Säckelmeister in Zürich <note type="editorial">1454</note></p>
+              <p>Säckelmeister in Zürich (1454)</p>
             </note>
             <listBibl>
               <bibl>
@@ -8866,7 +8879,7 @@
             <persName type="alternative" xml:lang="de">Straiffen (1431-07-21)</persName>
             <birth when="1431-07-21"/>
             <note type="description" xml:lang="de">
-              <p>männlich, Schwager von <div type="a">Linsin, Johann</div></p>
+              <p>männlich, Schwager von <ref target="/actors/589">Linsin, Johann</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-591">
@@ -8932,7 +8945,7 @@
             <persName type="sort" xml:lang="de">friedbolt, rudolf</persName>
             <birth when="1456-02-02"/>
             <note type="description" xml:lang="de">
-              <p>Ratsherr <note type="editorial">1456</note>, Wohn/Herkunftsort: St. Gallen</p>
+              <p>Ratsherr (1456), Wohn/Herkunftsort: St. Gallen</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-598">
@@ -8957,7 +8970,7 @@
             <persName type="sort" xml:lang="de">lutzer, heinz</persName>
             <birth when="1436-05-30"/>
             <note type="description" xml:lang="de">
-              <p>Bürger von St. Gallen, Kürschner <note type="editorial">1436</note></p>
+              <p>Bürger von St. Gallen, Kürschner (1436)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-603">
@@ -9002,7 +9015,7 @@
             <persName type="sort" xml:lang="de">nn, grete</persName>
             <birth when="1456-11-08"/>
             <note type="description" xml:lang="de">
-              <p>Ehefrau von <div type="a">NN, Ulrich</div></p>
+              <p>Ehefrau von <ref target="/actors/275">NN, Ulrich</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-608">
@@ -9017,7 +9030,7 @@
             <persName type="sort" xml:lang="de">keller, hans</persName>
             <birth when="1457-08-22"/>
             <note type="description" xml:lang="de">
-              <p>Meister</p>
+              <p>Meister (1457)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-611">
@@ -9078,7 +9091,7 @@
             <persName type="sort" xml:lang="de">goessler, jos</persName>
             <birth when="1459-01-22"/>
             <note type="description" xml:lang="de">
-              <p>Schwager von <div type="a">Herren, Peter</div></p>
+              <p>Schwager von <ref target="/actors/617">Herren, Peter</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-617">
@@ -9087,7 +9100,7 @@
             <persName type="sort" xml:lang="de">herren, peter</persName>
             <birth when="1459-01-22"/>
             <note type="description" xml:lang="de">
-              <p>Schwager von <div type="a">Gössler, Jos</div></p>
+              <p>Schwager von <ref target="/actors/616">Gössler, Jos</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-618">
@@ -9096,7 +9109,7 @@
             <persName type="sort" xml:lang="de">zwick, michael (i)</persName>
             <birth when="1459-01-22"/>
             <note type="description" xml:lang="de">
-              <p>Sohn von <div type="a">Zwick, Heinrich <note type="editorial">II</note></div></p>
+              <p>Sohn von <ref target="/actors/71">Zwick, Heinrich (II)</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-619">
@@ -9105,7 +9118,7 @@
             <persName type="sort" xml:lang="de">senn, nn (ii)</persName>
             <birth when="1459-01-22"/>
             <note type="description" xml:lang="de">
-              <p>männlich, Säckelmeister in St. Gallen <note type="editorial">1459</note></p>
+              <p>männlich, Säckelmeister in St. Gallen (1459)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-620">
@@ -9132,7 +9145,7 @@
             <persName type="sort" xml:lang="de">zerahoch, hans</persName>
             <birth when="1456-07-14"/>
             <note type="description" xml:lang="de">
-              <p>Stiefvater von <div type="a">Bertschi, Egli</div> und <div type="a">Bertschi, Rudolf</div></p>
+              <p>Stiefvater von <ref target="/actors/649">Bertschi, Egli</ref> und <ref target="/actors/648">Bertschi, Rudolf</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-625">
@@ -9194,7 +9207,7 @@
             <persName type="alternative" xml:lang="de">Wittenbach, Johann von</persName>
             <birth when="1450-04-25"/>
             <note type="description" xml:lang="de">
-              <p>Stadtschreiber von St. Gallen, Bürgermeister von St. Gallen <note type="editorial">1454-1456</note>, Vater von <div type="a">Widenbach, Urban von</div></p>
+              <p>Stadtschreiber von St. Gallen, Bürgermeister von St. Gallen (1454-1456), Vater von <ref target="/actors/637">Widenbach, Urban von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -9272,7 +9285,7 @@
             <persName type="alternative" xml:lang="de">Wittenbach, Urban von</persName>
             <birth when="1456"/>
             <note type="description" xml:lang="de">
-              <p>Sohn von <div type="a">Widenbach, Johannes von</div></p>
+              <p>Sohn von <ref target="/actors/631">Widenbach, Johannes von</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-638">
@@ -9300,7 +9313,7 @@
             <persName type="alternative" xml:lang="de">Eberharz graven zuo Kirchberg</persName>
             <birth when="1462-11-11"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: der Ältere, Vater von <div type="a">Kirchberg, Eberhard von <note type="editorial">II</note></div></p>
+              <p>Zuname: der Ältere, Vater von <ref target="/actors/641">Kirchberg, Eberhard von (II)</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -9318,7 +9331,7 @@
             <persName type="alternative" xml:lang="de">Eberhart grafe zuo Kirchberg</persName>
             <birth when="1462-11-11"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: der Jüngere, Sohn von <div type="a">Kirchberg, Eberhard von <note type="editorial">I</note></div></p>
+              <p>Zuname: der Jüngere, Sohn von <ref target="/actors/640">Kirchberg, Eberhard von (I)</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -9340,7 +9353,7 @@
             <persName type="alternative" xml:lang="de">Beren von Rechberg, Bern von Rechberg von Hohenrechberg</persName>
             <birth when="1462-11-11"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Rechberg, Georg von</div>, Familie <div type="a">von Rechberg</div></p>
+              <p>Bruder von <ref target="/actors/682">Rechberg, Georg von</ref>, Familie <ref target="/actors/727">von Rechberg</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -9375,7 +9388,7 @@
             <persName type="alternative" xml:lang="de">Ruedin Bertschin</persName>
             <birth when="1463-04-12"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Bertschi, Egli</div>, Stiefsohn von <div type="a">Zerahoch, Hans</div></p>
+              <p>Bruder von <ref target="/actors/649">Bertschi, Egli</ref>, Stiefsohn von <ref target="/actors/624">Zerahoch, Hans</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-649">
@@ -9385,7 +9398,7 @@
             <persName type="alternative" xml:lang="de">Eglin Bertschin</persName>
             <birth when="1463-04-12"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Bertschi, Rudolf</div>, Stiefsohn von <div type="a">Zerahoch, Hans</div></p>
+              <p>Bruder von <ref target="/actors/648">Bertschi, Rudolf</ref>, Stiefsohn von <ref target="/actors/624">Zerahoch, Hans</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-650">
@@ -9499,7 +9512,7 @@
             <persName type="sort" xml:lang="de">trapp, jakob</persName>
             <birth when="1464-07-24"/>
             <note type="description" xml:lang="de">
-              <p>Vogt und Hofmeister zu Bregenz, Ehemann von <div type="a">Matsch, Barbara von</div></p>
+              <p>Vogt und Hofmeister in Bregenz (1464), Ehemann von <ref target="/actors/659">Matsch, Barbara von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -9516,7 +9529,7 @@
             <persName type="sort" xml:lang="de">matsch, barbara von</persName>
             <birth when="1464-07-24"/>
             <note type="description" xml:lang="de">
-              <p>Ehefrau von <div type="a">Trapp, Jakob</div></p>
+              <p>Ehefrau von <ref target="/actors/658">Trapp, Jakob</ref></p>
             </note>
           </person>
           <personGrp role="family" xml:id="stadtasg-actors-661">
@@ -9597,7 +9610,7 @@
             <persName type="alternative" xml:lang="de">Hansen Ritzis</persName>
             <birth when="1465-09-06"/>
             <note type="description" xml:lang="de">
-              <p>Schultheiss zu Luzern <note type="editorial">1464, 1466, 1470 und 1472</note></p>
+              <p>Schultheiss zu Luzern (1464, 1466, 1470 und 1472)</p>
             </note>
             <listBibl>
               <bibl>
@@ -9626,7 +9639,7 @@
             <persName type="alternative" xml:lang="de">Lienhart Mertz, Mertzen</persName>
             <birth when="1464-11-01"/>
             <note type="description" xml:lang="de">
-              <p>Altbürgermeister in St. Gallen <note type="editorial">1491</note>, Bürgermeister in St. Gallen <note type="editorial">1497</note>, Reichsvogt <note type="editorial">1502</note></p>
+              <p>Altbürgermeister in St. Gallen (1491), Bürgermeister in St. Gallen (1497), Reichsvogt (1502)</p>
             </note>
             <listBibl>
               <bibl>
@@ -9662,7 +9675,7 @@
             <persName type="sort" xml:lang="de">bayern-landshut, ludwig ix. von</persName>
             <birth when="1464-11-01"/>
             <note type="description" xml:lang="de">
-              <p>Herzog von Bayern-Landshut <note type="editorial">1450-1479</note>, Zuname: der Reiche</p>
+              <p>Herzog von Bayern-Landshut (1450-1479), Zuname: der Reiche</p>
             </note>
             <listBibl>
               <bibl>
@@ -9724,7 +9737,7 @@
             <persName type="alternative" xml:lang="de">Syferlin</persName>
             <birth when="1465-09-12"/>
             <note type="description" xml:lang="de">
-              <p>Bote <note type="editorial">1465</note></p>
+              <p>Bote (1465)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-678">
@@ -9754,7 +9767,7 @@
             <persName type="alternative" xml:lang="de">Hans Wilhelm von Fridingen zuo Hohen Kraeyen</persName>
             <birth when="1465-09-12"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: zu Hohenkrähen, Familie <div type="a">von Friedingen</div>, Vater von <div type="a">Friedingen, Hans Thüring</div></p>
+              <p>Zuname: zu Hohenkrähen, Familie <ref target="/actors/728">von Friedingen</ref>, Vater von <ref target="/actors/887">Friedingen, Hans Thüring</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-682">
@@ -9764,7 +9777,7 @@
             <persName type="alternative" xml:lang="de">Joerg von Rechberg</persName>
             <birth when="1465-07-26"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Rechberg, Bero von</div>, Familie <div type="a">von Rechberg</div></p>
+              <p>Bruder von <ref target="/actors/643">Rechberg, Bero von</ref>, Familie <ref target="/actors/727">von Rechberg</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-683">
@@ -9790,7 +9803,7 @@
             <persName type="sort" xml:lang="de">schaumberg, petrus i. von</persName>
             <birth when="1465-07-26"/>
             <note type="description" xml:lang="de">
-              <p>Bischof zu Augsburg <note type="editorial">1424-1469</note>, Kardinal <note type="editorial">seit 1450</note></p>
+              <p>Bischof zu Augsburg (1424-1469), Kardinal (seit 1450)</p>
             </note>
             <listBibl>
               <bibl>
@@ -9843,7 +9856,7 @@
             <persName type="sort" xml:lang="de">paul ii.</persName>
             <birth when="1465-07-26"/>
             <note type="description" xml:lang="de">
-              <p>Papst <note type="editorial">1464-1471</note></p>
+              <p>Papst (1464-1471)</p>
             </note>
             <listBibl>
               <bibl>
@@ -9876,7 +9889,7 @@
             <persName type="alternative" xml:lang="de">Hansen Schürpfen</persName>
             <birth when="1465-03-06"/>
             <note type="description" xml:lang="de">
-              <p>Bürgermeister in St. Gallen</p>
+              <p>Bürgermeister in St. Gallen (1465)</p>
             </note>
             <listBibl>
               <bibl>
@@ -9945,7 +9958,7 @@
             <persName type="alternative" xml:lang="de">Ruodolffen Heintzlis</persName>
             <birth when="1465-06-14"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: von Unterwalden</p>
+              <p>Wohn/Herkunftsort: Unterwalden</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-696">
@@ -9962,7 +9975,7 @@
             <persName type="alternative" xml:lang="de">Fren</persName>
             <birth when="1465-03-09"/>
             <note type="description" xml:lang="de">
-              <p>Magd, Mutter von <div type="a">NN, Hans</div>, Wohn/Herkunftsort: St. Gallen</p>
+              <p>Magd, Mutter von <ref target="/actors/698">NN, Hans</ref>, Wohn/Herkunftsort: St. Gallen</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-698">
@@ -9972,7 +9985,7 @@
             <persName type="alternative" xml:lang="de">Hensly</persName>
             <birth when="1465-03-09"/>
             <note type="description" xml:lang="de">
-              <p>Sohn von <div type="a">NN, Verena</div></p>
+              <p>Sohn von <ref target="/actors/697">NN, Verena</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-700">
@@ -9981,7 +9994,7 @@
             <persName type="sort" xml:lang="de">landenberg, hugo von</persName>
             <birth when="1465-03-26"/>
             <note type="description" xml:lang="de">
-              <p>Ritter, Familie <div type="a">von Landenberg</div></p>
+              <p>Ritter, Familie <ref target="/actors/726">von Landenberg</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-701">
@@ -10023,7 +10036,7 @@
             <persName type="sort" xml:lang="de">brandis, sigmund i. von</persName>
             <birth when="1467-03-04"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Brandis, Wolfhart VI. von</div></p>
+              <p>Bruder von <ref target="/actors/54">Brandis, Wolfhart VI. von</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-705">
@@ -10032,7 +10045,7 @@
             <persName type="sort" xml:lang="de">watt, hektor von</persName>
             <birth when="1467-03-04"/>
             <note type="description" xml:lang="de">
-              <p>Sohn von <div type="a">Watt, Hug von</div></p>
+              <p>Sohn von <ref target="/actors/218">Watt, Hug von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -10076,7 +10089,7 @@
             <persName type="sort" xml:lang="de">krum, jodokus</persName>
             <birth when="1468-04-23"/>
             <note type="description" xml:lang="de">
-              <p>Abt zu <div type="a">Kloster St. Georgen</div> in Stein am Rhein <note type="editorial">1460-1490</note></p>
+              <p>Abt zu <ref target="/places/236">Kloster St. Georgen</ref> in Stein am Rhein (1460-1490)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-710">
@@ -10091,7 +10104,7 @@
             <persName type="sort" xml:lang="de">huwin, elisabeth</persName>
             <birth when="1468-04-23"/>
             <note type="description" xml:lang="de">
-              <p>Ehefrau von <div type="a">Wettler, Konrad</div></p>
+              <p>Ehefrau von <ref target="/actors/712">Wettler, Konrad</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-712">
@@ -10100,7 +10113,7 @@
             <persName type="sort" xml:lang="de">wettler, konrad</persName>
             <birth when="1468-04-23"/>
             <note type="description" xml:lang="de">
-              <p>Ehemann von <div type="a">Huwin, Elisabeth</div></p>
+              <p>Ehemann von <ref target="/actors/711">Huwin, Elisabeth</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-713">
@@ -10125,7 +10138,7 @@
             <persName type="sort" xml:lang="de">sprotz, hans</persName>
             <birth when="1468-06-18"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: von Luzern</p>
+              <p>Wohn/Herkunftsort: Luzern</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-716">
@@ -10144,7 +10157,7 @@
             <persName type="alternative" xml:lang="de">Chuonratt</persName>
             <birth when="1468-10-17"/>
             <note type="description" xml:lang="de">
-              <p>Wohn/Herkunftsort: Konstanz, Stadtammann in Konstanz <note type="editorial">1492</note></p>
+              <p>Wohn/Herkunftsort: Konstanz, Stadtammann in Konstanz (1492)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-720">
@@ -10163,7 +10176,7 @@
             <persName type="sort" xml:lang="de">nussdorf, ulrich von</persName>
             <birth when="1467-08-14"/>
             <note type="description" xml:lang="de">
-              <p>Fürstbischof Ulrich III. von Passau <note type="editorial">1451-1479</note></p>
+              <p>Fürstbischof Ulrich III. von Passau (1451-1479)</p>
             </note>
             <listBibl>
               <bibl>
@@ -10215,9 +10228,9 @@
             <birth when="1468-12-15"/>
           </person>
           <personGrp role="family" xml:id="stadtasg-actors-726">
-            <persName type="full" xml:lang="de">von Landenberg</persName>
-            <persName type="main" xml:lang="de">von Landenberg</persName>
-            <persName type="sort" xml:lang="de">von landenberg</persName>
+            <persName type="full" xml:lang="de">Landenberg, von</persName>
+            <persName type="main" xml:lang="de">Landenberg, von</persName>
+            <persName type="sort" xml:lang="de">landenberg, von</persName>
             <listBibl>
               <bibl>
                 <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1802003"/>
@@ -10228,9 +10241,9 @@
             </listBibl>
           </personGrp>
           <personGrp role="family" xml:id="stadtasg-actors-727">
-            <persName type="full" xml:lang="de">von Rechberg</persName>
-            <persName type="main" xml:lang="de">von Rechberg</persName>
-            <persName type="sort" xml:lang="de">von rechberg</persName>
+            <persName type="full" xml:lang="de">Rechberg, von</persName>
+            <persName type="main" xml:lang="de">Rechberg, von</persName>
+            <persName type="sort" xml:lang="de">rechberg, von</persName>
             <listBibl>
               <bibl>
                 <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Rechberg_(Adelsgeschlecht)"/>
@@ -10256,9 +10269,9 @@
             </listBibl>
           </personGrp>
           <personGrp role="family" xml:id="stadtasg-actors-728">
-            <persName type="full" xml:lang="de">von Friedingen</persName>
-            <persName type="main" xml:lang="de">von Friedingen</persName>
-            <persName type="sort" xml:lang="de">von friedingen</persName>
+            <persName type="full" xml:lang="de">Friedingen, von</persName>
+            <persName type="main" xml:lang="de">Friedingen, von</persName>
+            <persName type="sort" xml:lang="de">friedingen, von</persName>
             <listBibl>
               <bibl>
                 <ptr type="wikipedia" target="https://de.wikipedia.org/wiki/Herren_von_Friedingen"/>
@@ -10283,7 +10296,7 @@
             <persName type="sort" xml:lang="de">hohenems, marquard iii. von</persName>
             <birth when="1469-08-08"/>
             <note type="description" xml:lang="de">
-              <p>Vater von <div type="a">Hohenems, Marquard IV. von</div> und <div type="a">Hohenems, Michael I. von</div>, verstorben <note type="editorial">1414</note></p>
+              <p>Vater von <ref target="/actors/314">Hohenems, Marquard IV. von</ref> und <ref target="/actors/207">Hohenems, Michael I. von</ref>, verstorben (1414)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-730">
@@ -10292,7 +10305,7 @@
             <persName type="sort" xml:lang="de">tumb (von neuburg), konrad</persName>
             <birth when="1470-01-20"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Tumb <note type="editorial">von Neuburg</note>, Hans <note type="editorial">I</note></div> und <div type="a">Tumb <note type="editorial">von Neuburg</note>, Hans <note type="editorial">II</note></div></p>
+              <p>Bruder von <ref target="/actors/42">Tumb (von Neuburg), Hans (I)</ref> und <ref target="/actors/43">Tumb (von Neuburg), Hans (II)</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-731">
@@ -10328,7 +10341,7 @@
             <persName type="alternative" xml:lang="de">Symon Cuontzen</persName>
             <birth when="1470-02-03"/>
             <note type="description" xml:lang="de">
-              <p>Sohn von <div type="a">Kunz, Hans</div></p>
+              <p>Sohn von <ref target="/actors/894">Kunz, Hans</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-733">
@@ -10349,7 +10362,7 @@
             <persName type="sort" xml:lang="de">nn, heinrich</persName>
             <birth when="1467-08-14"/>
             <note type="description" xml:lang="de">
-              <p>Meister <note type="editorial">1467</note></p>
+              <p>Meister (1467)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-736">
@@ -10358,7 +10371,7 @@
             <persName type="sort" xml:lang="de">schobinger, sebastian</persName>
             <birth when="1650-03-08"/>
             <note type="description" xml:lang="de">
-              <p>Doktor der Medizin, Bürgermeister in St. Gallen <note type="editorial">1650</note></p>
+              <p>Doktor der Medizin, Bürgermeister in St. Gallen (1650)</p>
             </note>
             <listBibl>
               <bibl>
@@ -10384,7 +10397,7 @@
             <persName type="sort" xml:lang="de">hegner, diethlem</persName>
             <birth when="1650-07-28"/>
             <note type="description" xml:lang="de">
-              <p>Schwager von <div type="a">Schobinger, Sebastian</div></p>
+              <p>Schwager von <ref target="/actors/736">Schobinger, Sebastian</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-738">
@@ -10493,7 +10506,7 @@
             <persName type="sort" xml:lang="de">valois, heinrich ii.</persName>
             <birth when="1551-09-26"/>
             <note type="description" xml:lang="de">
-              <p>König von Frankreich <note type="editorial">1547–1559</note></p>
+              <p>König von Frankreich (1547–1559)</p>
             </note>
             <listBibl>
               <bibl>
@@ -10546,7 +10559,7 @@
             <persName type="sort" xml:lang="de">tschudi, georg</persName>
             <birth when="1555-08-19"/>
             <note type="description" xml:lang="de">
-              <p>Abt des <div type="a">Augustiner-Chorherrenstift Kreuzlingen</div> <note type="editorial">1545-1566</note></p>
+              <p>Abt des <ref target="/actors/791">Augustiner-Chorherrenstift Kreuzlingen</ref> (1545-1566)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-756">
@@ -10555,7 +10568,7 @@
             <persName type="sort" xml:lang="de">horber, magdalena</persName>
             <birth when="1557-03-11"/>
             <note type="description" xml:lang="de">
-              <p>Tochter von <div type="a">Horber, Hans</div></p>
+              <p>Tochter von <ref target="/actors/757">Horber, Hans</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-757">
@@ -10564,7 +10577,7 @@
             <persName type="sort" xml:lang="de">horber, hans</persName>
             <birth when="1573-07-17"/>
             <note type="description" xml:lang="de">
-              <p>Vater von <div type="a">Horber, Magdalena</div></p>
+              <p>Vater von <ref target="/actors/756">Horber, Magdalena</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-758">
@@ -10596,7 +10609,7 @@
             <persName type="sort" xml:lang="de">werdenberg, johann ii. von</persName>
             <birth when="1472-12-07"/>
             <note type="description" xml:lang="de">
-              <p>Bischof zu Augsburg <note type="editorial">1469 bis 1486</note></p>
+              <p>Bischof zu Augsburg (1469 bis 1486)</p>
             </note>
             <listBibl>
               <bibl>
@@ -10623,17 +10636,17 @@
             <persName type="alternative" xml:lang="de">Herman von Gotzfelden</persName>
             <birth when="1472-12-07"/>
             <note type="description" xml:lang="de">
-              <p>Familie <div type="a">von Gottsfeld</div></p>
+              <p>Familie <ref target="/actors/761">von Gottsfeld</ref></p>
             </note>
           </person>
           <personGrp role="family" xml:id="stadtasg-actors-761">
-            <persName type="full" xml:lang="de">von Gottsfeld (1472–)</persName>
-            <persName type="main" xml:lang="de">von Gottsfeld</persName>
-            <persName type="sort" xml:lang="de">von gottsfeld</persName>
+            <persName type="full" xml:lang="de">Gottsfeld, von (1472–)</persName>
+            <persName type="main" xml:lang="de">Gottsfeld, von</persName>
+            <persName type="sort" xml:lang="de">gottsfeld, von</persName>
             <persName type="alternative" xml:lang="de">Gotzfelden</persName>
             <birth when="1472-12-07"/>
             <note type="description" xml:lang="de">
-              <p>fränkisches Ortsadelsgeschlecht, Ursprung im gleichnamigen <div type="a">Gottsfeld</div></p>
+              <p>fränkisches Ortsadelsgeschlecht, Ursprung im gleichnamigen <ref target="/places/257">Gottsfeld</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -10658,7 +10671,7 @@
             <persName type="alternative" xml:lang="de">Hainrich Lenmans</persName>
             <birth when="1473-06-25"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: Vogelwaider</p>
+              <p>genannt Vogelwaider</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-764">
@@ -10668,9 +10681,9 @@
             <birth when="1473-06-25"/>
           </person>
           <personGrp role="family" xml:id="stadtasg-actors-765">
-            <persName type="full" xml:lang="de">von Schomburg (1473–)</persName>
-            <persName type="main" xml:lang="de">von Schomburg</persName>
-            <persName type="sort" xml:lang="de">von schomburg</persName>
+            <persName type="full" xml:lang="de">Schomburg, von (1473–)</persName>
+            <persName type="main" xml:lang="de">Schomburg, von</persName>
+            <persName type="sort" xml:lang="de">schomburg, von</persName>
             <birth when="1473-06-25"/>
             <listBibl>
               <bibl>
@@ -10684,7 +10697,7 @@
             <persName type="sort" xml:lang="de">schomburg, wolfgang von</persName>
             <birth when="1473-06-25"/>
             <note type="description" xml:lang="de">
-              <p>Familie <div type="a">von Schomburg</div></p>
+              <p>Familie <ref target="/actors/765">von Schomburg</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-768">
@@ -10693,7 +10706,7 @@
             <persName type="sort" xml:lang="de">helmsdorf, ludwig von</persName>
             <birth when="1472-03-12"/>
             <note type="description" xml:lang="de">
-              <p>Ritter <note type="editorial">1472</note>, Vogt in Bischofszell <note type="editorial">1497</note></p>
+              <p>Ritter (1472), Vogt in Bischofszell (1497)</p>
             </note>
             <listBibl>
               <bibl>
@@ -10719,7 +10732,7 @@
             <persName type="sort" xml:lang="de">dupuy, jacques</persName>
             <birth when="1650-09-12"/>
             <note type="description" xml:lang="de">
-              <p>1621 erster Konsul von <div type="a">Montauban</div> und Anführer derer calvinistischen Protestanten <note type="editorial"><div type="a">Hugenotten</div></note> im Widerstands gegen die Belagerung von <div type="a">Montauban</div> von August bis September 1621.</p>
+              <p>1621 erster Konsul von <ref target="/places/262">Montauban</ref> und Anführer derer calvinistischen Protestanten (<ref target="/keywords/653">Hugenotten</ref>) im Widerstands gegen die Belagerung von <ref target="/places/262">Montauban</ref> von August bis September 1621.</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-770">
@@ -10761,7 +10774,7 @@
             <persName type="sort" xml:lang="de">faget, ambroise</persName>
             <birth when="1627-09-12"/>
             <note type="description" xml:lang="de">
-              <p>Pfarrer von Orléans <note type="editorial">1557</note> und von La Rochelle <note type="editorial">ab 1559</note></p>
+              <p>Pfarrer von Orléans (1557) und von La Rochelle (ab 1559)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-774">
@@ -10771,7 +10784,7 @@
             <persName type="alternative" xml:lang="de">Cunradt Bäntzinger</persName>
             <birth when="1650-09-11"/>
             <note type="description" xml:lang="de">
-              <p>Bänziger Geschlecht vom <div type="a">Kurzenberg AR</div></p>
+              <p>Bänziger Geschlecht vom <ref target="/places/264">Kurzenberg AR</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-776">
@@ -10780,7 +10793,7 @@
             <persName type="sort" xml:lang="de">valois, heinrich iii.</persName>
             <birth when="1574-09-27"/>
             <note type="description" xml:lang="de">
-              <p>König von Frankreich <note type="editorial">1574-1589</note></p>
+              <p>König von Frankreich (1574-1589)</p>
             </note>
             <listBibl>
               <bibl>
@@ -10813,7 +10826,7 @@
             <persName type="alternative" xml:lang="de">Christophel Schüpfer</persName>
             <birth when="1650-09-09"/>
             <note type="description" xml:lang="de">
-              <p>Meister Bruchschneider <note type="editorial">mittelalterlicher Wundarzt, der Eingeweidebrüche operativ behandelte</note>, Bruder von <div type="a">Schüpfer, Daniel</div></p>
+              <p>Meister Bruchschneider (mittelalterlicher Wundarzt, der Eingeweidebrüche operativ behandelte), Bruder von <ref target="/actors/779">Schüpfer, Daniel</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-779">
@@ -10822,7 +10835,7 @@
             <persName type="sort" xml:lang="de">schuepfer, daniel</persName>
             <birth when="1650-09-09"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Schüpfer, Christoph</div>, Ehemann von <div type="a">Gonzenbach, Anna</div></p>
+              <p>Bruder von <ref target="/actors/778">Schüpfer, Christoph</ref>, Ehemann von <ref target="/actors/780">Gonzenbach, Anna</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-780">
@@ -10832,7 +10845,7 @@
             <persName type="alternative" xml:lang="de">Anna Gunzenbachin</persName>
             <birth when="1650-09-09"/>
             <note type="description" xml:lang="de">
-              <p>Ehefrau von <div type="a">Schüpfer, Daniel</div>, Schwester von <div type="a">Gonzenbach, Heinrich</div></p>
+              <p>Ehefrau von <ref target="/actors/779">Schüpfer, Daniel</ref>, Schwester von <ref target="/actors/781">Gonzenbach, Heinrich</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-781">
@@ -10842,7 +10855,7 @@
             <persName type="alternative" xml:lang="de">Heinrich Gunzenbach</persName>
             <birth when="1650-09-09"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Gonzenbach, Anna</div></p>
+              <p>Bruder von <ref target="/actors/780">Gonzenbach, Anna</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -10879,7 +10892,7 @@
             <persName type="sort" xml:lang="de">schorno, michael</persName>
             <birth when="1650-08-29"/>
             <note type="description" xml:lang="de">
-              <p>Bleichermeister, Ratsherr zu Schwyz und Landvogt im Thurgau</p>
+              <p>Bleichermeister, Ratsherr in Schwyz und Landvogt im Thurgau (1650)</p>
             </note>
             <listBibl>
               <bibl>
@@ -10918,7 +10931,7 @@
             <persName type="alternative" xml:lang="de">Haug zu Königsegg</persName>
             <birth when="1650-04-28"/>
             <note type="description" xml:lang="de">
-              <p>Vetter von <div type="a">Königsegg, Johann Wilhelm von</div></p>
+              <p>Vetter von <ref target="/actors/806">Königsegg, Johann Wilhelm von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -10945,7 +10958,7 @@
             <persName type="alternative" xml:lang="de">Carl-Ludwig zu Heidelberg</persName>
             <birth when="1650-01-26"/>
             <note type="description" xml:lang="de">
-              <p>Pfalzgraf bei Rhein, Erztruchsess und Kurfürst, Herzog in Bayern <note type="editorial">1650</note>, Ehemann von <div type="a">Pfalz, Charlotte von der</div>, Bruder von <div type="a">Philipp von der Pfalz</div></p>
+              <p>Pfalzgraf bei Rhein, Erztruchsess und Kurfürst, Herzog in Bayern (1650), Ehemann von <ref target="/actors/790">Pfalz, Charlotte von der</ref>, Bruder von <ref target="/actors/1117">Philipp von der Pfalz</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -10980,7 +10993,7 @@
             <persName type="sort" xml:lang="de">meigen, karl</persName>
             <birth when="1650-04-24"/>
             <note type="description" xml:lang="de">
-              <p>Agent, Beauftragter, Vertreter in politischen Angelegenheiten für <div type="a">Pfalz, Karl I. Ludwig von der</div></p>
+              <p>Agent, Beauftragter, Vertreter in politischen Angelegenheiten für <ref target="/actors/788">Pfalz, Karl I. Ludwig von der</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-790">
@@ -10990,7 +11003,7 @@
             <persName type="alternative" xml:lang="de">Charlotte von Hessen-Kassel (lediger Name)</persName>
             <birth when="1650-01-26"/>
             <note type="description" xml:lang="de">
-              <p>Ehefrau von <div type="a">Pfalz, Karl I. Ludwig von der</div></p>
+              <p>Ehefrau von <ref target="/actors/788">Pfalz, Karl I. Ludwig von der</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -11013,7 +11026,7 @@
             <persName type="sort" xml:lang="de">grimmel, felix</persName>
             <birth when="1554-05-06"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Grimmel, Jakob</div></p>
+              <p>Bruder von <ref target="/actors/793">Grimmel, Jakob</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -11027,7 +11040,7 @@
             <persName type="sort" xml:lang="de">grimmel, jakob</persName>
             <birth when="1554-05-06"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Grimmel, Felix</div></p>
+              <p>Bruder von <ref target="/actors/792">Grimmel, Felix</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -11068,7 +11081,7 @@
             <persName type="alternative" xml:lang="de">Zwickher</persName>
             <birth when="1650-04-04"/>
             <note type="description" xml:lang="de">
-              <p>Säckelmeister zu St. Gallen</p>
+              <p>Säckelmeister zu St. Gallen (1650)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-800">
@@ -11086,7 +11099,7 @@
             <persName type="sort" xml:lang="de">hurter, franziskus</persName>
             <birth when="1650-03-26"/>
             <note type="description" xml:lang="de">
-              <p>Sohn von <div type="a">Hurter, Werner</div></p>
+              <p>Sohn von <ref target="/actors/802">Hurter, Werner</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-802">
@@ -11095,7 +11108,7 @@
             <persName type="sort" xml:lang="de">hurter, werner</persName>
             <birth when="1650-03-26"/>
             <note type="description" xml:lang="de">
-              <p>Altschultheiss von Frauenfeld, Vater von <div type="a">Hurter, Franziskus</div></p>
+              <p>Altschultheiss von Frauenfeld, Vater von <ref target="/actors/801">Hurter, Franziskus</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-803">
@@ -11133,7 +11146,7 @@
             <persName type="sort" xml:lang="de">koenigsegg, johann wilhelm von</persName>
             <birth when="1650-03-18"/>
             <note type="description" xml:lang="de">
-              <p>Vetter von <div type="a">Königsegg, Hugo von</div></p>
+              <p>Vetter von <ref target="/actors/787">Königsegg, Hugo von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -11156,7 +11169,7 @@
             <persName type="sort" xml:lang="de">bosch, sebastian</persName>
             <birth when="1650-03-18"/>
             <note type="description" xml:lang="de">
-              <p>von <div type="a">Hoßkirch</div>, Stabhalter und Gerichtsammann in der <div type="a">Grafschaft Königsegg</div></p>
+              <p>Wohn/Herkunftsort: <ref target="/places/279">Hoßkirch</ref>, Stabhalter und Gerichtsammann in der <ref target="/places/278">Grafschaft Königsegg</ref> (1650)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-808">
@@ -11171,7 +11184,7 @@
             <persName type="sort" xml:lang="de">tscharner, johann</persName>
             <birth when="1650-02-11"/>
             <note type="description" xml:lang="de">
-              <p>Bürgermeister in Chur <note type="editorial">1650</note>, Schwager von <div type="a">Cleric, Martin</div> und Verwandter von <div type="a">Cleric, Emerita</div></p>
+              <p>Bürgermeister in Chur (1650), Schwager von <ref target="/actors/810">Cleric, Martin</ref> und Verwandter von <ref target="/actors/811">Cleric, Emerita</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -11189,7 +11202,7 @@
             <persName type="alternative" xml:lang="de">Martin Clerig</persName>
             <birth when="1650-02-11"/>
             <note type="description" xml:lang="de">
-              <p>Stadtrichter von Chur <note type="editorial">1650</note>, Bruder von <div type="a">Cleric, Emerita</div>, Schwager von <div type="a">Tscharner, Johann</div></p>
+              <p>Stadtrichter von Chur (1650), Bruder von <ref target="/actors/811">Cleric, Emerita</ref>, Schwager von <ref target="/actors/809">Tscharner, Johann</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-811">
@@ -11199,7 +11212,7 @@
             <persName type="alternative" xml:lang="de">Emerita Clerickin</persName>
             <birth when="1650-02-11"/>
             <note type="description" xml:lang="de">
-              <p>Ehefrau von <div type="a">Spindler, Georg</div>, Schwester von <div type="a">Cleric, Martin</div> und Verwandte von <div type="a">Tscharner, Johann</div></p>
+              <p>Ehefrau von <ref target="/actors/812">Spindler, Georg</ref>, Schwester von <ref target="/actors/810">Cleric, Martin</ref> und Verwandte von <ref target="/actors/809">Tscharner, Johann</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-812">
@@ -11209,7 +11222,7 @@
             <persName type="alternative" xml:lang="de">Jörg Spyndler</persName>
             <birth when="1649-05-09"/>
             <note type="description" xml:lang="de">
-              <p>Säckelmeister und Bürger von St. Gallen, Ehemann von <div type="a">Cleric, Emerita</div></p>
+              <p>Säckelmeister (1649) und Bürger von St. Gallen, Ehemann von <ref target="/actors/811">Cleric, Emerita</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-813">
@@ -11227,7 +11240,7 @@
             <persName type="sort" xml:lang="de">zollikofer, bartholome</persName>
             <birth when="1650-03-04"/>
             <note type="description" xml:lang="de">
-              <p>Stadthauptmann <note type="editorial">1650</note>, Bürger von St. Gallen</p>
+              <p>Stadthauptmann (1650), Bürger von St. Gallen</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-815">
@@ -11236,7 +11249,7 @@
             <persName type="sort" xml:lang="de">peyer, hieronymus</persName>
             <birth when="1650-03-04"/>
             <note type="description" xml:lang="de">
-              <p>Sohn von <div type="a">Peyer-Zollikofer, Elisabeth</div>, Bürger von Schaffhausen</p>
+              <p>Sohn von <ref target="/actors/817">Peyer-Zollikofer, Elisabeth</ref>, Bürger von Schaffhausen</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-816">
@@ -11255,7 +11268,7 @@
             <persName type="alternative" xml:lang="de">Zollickoferin, Elisabetha</persName>
             <birth when="1650-03-04"/>
             <note type="description" xml:lang="de">
-              <p>Mutter von <div type="a">Peyer, Hieronymus</div></p>
+              <p>Mutter von <ref target="/actors/815">Peyer, Hieronymus</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-818">
@@ -11264,7 +11277,7 @@
             <persName type="sort" xml:lang="de">oesterreich-tirol, ferdinand karl von</persName>
             <birth when="1650-02-22"/>
             <note type="description" xml:lang="de">
-              <p>Erzherzog von Österreich, Herzog zu Burgund, Graf zu Tirol, Landgraf im Elsass</p>
+              <p>Erzherzog von Österreich, Herzog zu Burgund, Graf zu Tirol, Landgraf im Elsass (1650)</p>
             </note>
             <listBibl>
               <bibl>
@@ -11294,7 +11307,7 @@
             <persName type="alternative" xml:lang="de">Zollikofer, Jakob</persName>
             <birth when="1650-03-04"/>
             <note type="description" xml:lang="de">
-              <p>Ehemann von <div type="a">Peyer, Barbara</div>, Vater von <div type="a">Peyer, Georg</div></p>
+              <p>Ehemann von <ref target="/actors/820">Peyer, Barbara</ref>, Vater von <ref target="/actors/821">Peyer, Georg</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-820">
@@ -11303,7 +11316,7 @@
             <persName type="sort" xml:lang="de">peyer, barbara</persName>
             <birth when="1650-03-04"/>
             <note type="description" xml:lang="de">
-              <p>Ehefrau von <div type="a">Zollikofer, Jacob</div>, Mutter von <div type="a">Peyer, Georg</div></p>
+              <p>Ehefrau von <ref target="/actors/819">Zollikofer, Jacob</ref>, Mutter von <ref target="/actors/821">Peyer, Georg</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-821">
@@ -11312,7 +11325,7 @@
             <persName type="sort" xml:lang="de">peyer, georg</persName>
             <birth when="1650-03-04"/>
             <note type="description" xml:lang="de">
-              <p>Sohn von <div type="a">Peyer, Barbara</div></p>
+              <p>Sohn von <ref target="/actors/820">Peyer, Barbara</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-822">
@@ -11321,7 +11334,7 @@
             <persName type="sort" xml:lang="de">mieg, karl</persName>
             <birth when="1650-01-26"/>
             <note type="description" xml:lang="de">
-              <p>Unterhändler des Kurfürsten und Pfalzgrafen <div type="a">Pfalz, Karl I. Ludwig von der</div></p>
+              <p>Unterhändler des Kurfürsten und Pfalzgrafen <ref target="/actors/788">Pfalz, Karl I. Ludwig von der</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-823">
@@ -11365,7 +11378,7 @@
             <persName type="sort" xml:lang="de">reding, georg dietrich</persName>
             <birth when="1650-10-03"/>
             <note type="description" xml:lang="de">
-              <p>Landvogt im Toggenburg</p>
+              <p>Landvogt im Toggenburg (1650)</p>
             </note>
             <listBibl>
               <bibl>
@@ -11407,7 +11420,7 @@
             <persName type="sort" xml:lang="de">spengler, joachim</persName>
             <birth when="1650-05-16"/>
             <note type="description" xml:lang="de">
-              <p>Glasergeselle in Konstanz, Wohn/Herkunftsort: Konstanz, Schwager von <div type="a">Pfeil, Johannes</div></p>
+              <p>Glasergeselle in Konstanz, Wohn/Herkunftsort: Konstanz, Schwager von <ref target="/actors/832">Pfeil, Johannes</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-832">
@@ -11416,7 +11429,7 @@
             <persName type="sort" xml:lang="de">pfeil, johann</persName>
             <birth when="1650-05-16"/>
             <note type="description" xml:lang="de">
-              <p>Raiteschreiber, Wohn/Herkunftsort: Konstanz, Schwager von <div type="a">Spengler, Joachim</div></p>
+              <p>Raiteschreiber, Wohn/Herkunftsort: Konstanz, Schwager von <ref target="/actors/831">Spengler, Joachim</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-834">
@@ -11501,7 +11514,7 @@
             <persName type="sort" xml:lang="de">escher, johann peter</persName>
             <birth when="1650-10-28"/>
             <note type="description" xml:lang="de">
-              <p>Obrist der Herrschaft Venedig, Zeugmeister in Zürich</p>
+              <p>Obrist der Herrschaft Venedig, Zeugmeister in Zürich (1650)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-838">
@@ -11543,7 +11556,7 @@
             <persName type="sort" xml:lang="de">oswald, nn</persName>
             <birth when="1650-05-02"/>
             <note type="description" xml:lang="de">
-              <p>männlich, Sekretär <note type="editorial">1650</note></p>
+              <p>männlich, Sekretär (1650)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-842">
@@ -11617,7 +11630,7 @@
             <persName type="sort" xml:lang="de">kunz, cornelius</persName>
             <birth when="1650-06-23"/>
             <note type="description" xml:lang="de">
-              <p>Bürger von St. Gallen, Schwiegersohn von <div type="a">Krütli, Hans Heinrich</div></p>
+              <p>Bürger von St. Gallen, Schwiegersohn von <ref target="/actors/851">Krütli, Hans Heinrich</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-851">
@@ -11626,7 +11639,7 @@
             <persName type="sort" xml:lang="de">kruetli, hans heinrich</persName>
             <birth when="1650-06-23"/>
             <note type="description" xml:lang="de">
-              <p>Pfarrer, Wohn/Herkunftsort: Winterthur, Schwiegervater von <div type="a">Kunz, Corneluis</div></p>
+              <p>Pfarrer, Wohn/Herkunftsort: Winterthur, Schwiegervater von <ref target="/actors/850">Kunz, Corneluis</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-852">
@@ -11663,7 +11676,7 @@
             <persName type="alternative" xml:lang="de">Reding, Johann Rudolf von Schwyz</persName>
             <birth when="1650-06-27"/>
             <note type="description" xml:lang="de">
-              <p>Fürstäbtischer St. Galler Rat, Landvogt der Grafschaft Toggenburg</p>
+              <p>Fürstäbtischer St. Galler Rat, Landvogt der Grafschaft Toggenburg (1650)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-854">
@@ -11673,7 +11686,7 @@
             <persName type="alternative" xml:lang="de">Schlapparitz</persName>
             <birth when="1649-07-26"/>
             <note type="description" xml:lang="de">
-              <p>Bürger von Ravensburg, Schwager von <div type="a">Högger, Johannes</div></p>
+              <p>Bürger von Ravensburg, Schwager von <ref target="/actors/855">Högger, Johannes</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-855">
@@ -11682,7 +11695,7 @@
             <persName type="sort" xml:lang="de">hoegger, johannes</persName>
             <birth when="1650-12-16"/>
             <note type="description" xml:lang="de">
-              <p>Bürger von St. Gallen, Krämer in St. Gallen <note type="editorial">1650</note>, Schwager von <div type="a">Schlappritzi, Johannes</div></p>
+              <p>Bürger von St. Gallen, Krämer in St. Gallen (1650), Schwager von <ref target="/actors/854">Schlappritzi, Johannes</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-856">
@@ -11691,7 +11704,7 @@
             <persName type="sort" xml:lang="de">stroebel, hans bernhard</persName>
             <birth when="1649-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Bürger von Nürnberg, Gastwirt zu den <div type="a">Drei Kronen</div> in Nürnberg <note type="editorial">1649</note></p>
+              <p>Bürger von Nürnberg, Gastwirt zu den <ref target="/places/293">Drei Kronen</ref> in Nürnberg (1649)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-857">
@@ -11701,7 +11714,7 @@
             <persName type="alternative" xml:lang="de">Bastardt, Basthardt</persName>
             <birth when="1649-11-13"/>
             <note type="description" xml:lang="de">
-              <p>Buchbinder in St. Gallen <note type="editorial">1649</note></p>
+              <p>Buchbinder in St. Gallen (1649)</p>
             </note>
             <listBibl>
               <bibl>
@@ -11736,7 +11749,7 @@
             <persName type="sort" xml:lang="de">haltmeyer, kaspar</persName>
             <birth when="1650-12-28"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: Güggi, Bürger von St. Gallen</p>
+              <p>genannt Güggi, Bürger von St. Gallen</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-861">
@@ -11763,7 +11776,7 @@
             <persName type="sort" xml:lang="de">wacher, christoph</persName>
             <birth when="1650-12-28"/>
             <note type="description" xml:lang="de">
-              <p>Gastwirt <note type="editorial">1650</note></p>
+              <p>Gastwirt (1650)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-865">
@@ -11772,7 +11785,7 @@
             <persName type="sort" xml:lang="de">berung, johannes</persName>
             <birth when="1651-01-08"/>
             <note type="description" xml:lang="de">
-              <p>Bürger von Thal SG, Ehemann von <div type="a">Kuon, Barbara</div></p>
+              <p>Bürger von Thal SG, Ehemann von <ref target="/actors/866">Kuon, Barbara</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-866">
@@ -11781,7 +11794,7 @@
             <persName type="sort" xml:lang="de">kuon, barbara</persName>
             <birth when="1651-01-08"/>
             <note type="description" xml:lang="de">
-              <p>Ehefrau von <div type="a">Berung, Johannes</div></p>
+              <p>Ehefrau von <ref target="/actors/865">Berung, Johannes</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-867">
@@ -11805,7 +11818,7 @@
             <persName type="sort" xml:lang="de">schmidt, niklaus</persName>
             <birth when="1650-07-12"/>
             <note type="description" xml:lang="de">
-              <p>Gerichtsschreiber <note type="editorial">1650</note>, Bürger von Konstanz</p>
+              <p>Gerichtsschreiber (1650), Bürger von Konstanz</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-870">
@@ -11860,7 +11873,7 @@
             <persName type="alternative" xml:lang="de">Erbach, Johannette von</persName>
             <birth when="1650-02-27"/>
             <note type="description" xml:lang="de">
-              <p>Gräfin, Witwe von Ludwig I., ab 1606 Graf von Erbach zu Erbach und Freienstein, ab 1623 zu Michelstedt und König, ab 1627 auch zu Wildenstein</p>
+              <p>Gräfin, genannt Johannette von Erbach, Witwe von Ludwig I., jener ab 1606 Graf zu Erbach und Freienstein, ab 1623 zu Michelstedt und König, ab 1627 auch zu Wildenstein</p>
             </note>
             <listBibl>
               <bibl>
@@ -11883,7 +11896,7 @@
             <persName type="sort" xml:lang="de">trueeb, ulrich</persName>
             <birth when="1650-03-05"/>
             <note type="description" xml:lang="de">
-              <p>Stadtammann in Arbon</p>
+              <p>Stadtammann in Arbon (1650)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-880">
@@ -11968,7 +11981,7 @@
             <persName type="sort" xml:lang="de">freiberg, ludwig von</persName>
             <birth when="1476-03-26"/>
             <note type="description" xml:lang="de">
-              <p><note type="editorial">Gegen</note>Bischof von Konstanz</p>
+              <p>(Gegen)Bischof von Konstanz</p>
             </note>
             <listBibl>
               <bibl>
@@ -12063,7 +12076,7 @@
             <persName type="sort" xml:lang="de">friedingen, hans thuering von</persName>
             <birth when="1476-04-30"/>
             <note type="description" xml:lang="de">
-              <p>Sohn von <div type="a">Hans Wilhelm von Friedingen</div>, Familie <div type="a">von Friedingen</div>, Sitz auf <div type="a">Burg Hohenkrähen</div>, Zuname: zu Krähen</p>
+              <p>Sohn von <ref target="/actors/681">Hans Wilhelm von Friedingen</ref>, Familie <ref target="/actors/728">von Friedingen</ref>, Sitz auf <ref target="/places/233">Burg Hohenkrähen</ref>, Zuname: zu Krähen</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-888">
@@ -12111,7 +12124,7 @@
             <persName type="sort" xml:lang="de">franz, joerg</persName>
             <birth when="1476-05-13"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: von München</p>
+              <p>Wohn/Herkunftsort: München</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-891">
@@ -12120,7 +12133,7 @@
             <persName type="sort" xml:lang="de">alexander iii.</persName>
             <birth when="1476-05-13"/>
             <note type="description" xml:lang="de">
-              <p>Papst <note type="editorial">1476</note>, verstorben <note type="editorial">1181</note></p>
+              <p>Papst (1476), verstorben (1181)</p>
             </note>
             <listBibl>
               <bibl>
@@ -12173,7 +12186,7 @@
             <persName type="alternative" xml:lang="de">Hansen Cuontzen</persName>
             <birth when="1470-02-09"/>
             <note type="description" xml:lang="de">
-              <p>Vater von <div type="a">Kunz, Simon</div></p>
+              <p>Vater von <ref target="/actors/732">Kunz, Simon</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-895">
@@ -12320,7 +12333,7 @@
             <persName type="alternative" xml:lang="de">Hainrich Grüninger</persName>
             <birth when="1472-02-12"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: Eggshus</p>
+              <p>genannt Eggshus</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-908">
@@ -12403,7 +12416,7 @@
             <persName type="sort" xml:lang="de">habsburg-oesterreich, maximilian i. von</persName>
             <birth when="1481"/>
             <note type="description" xml:lang="de">
-              <p>Sohn von <div type="a">Habsburg-Österreich, Friedrich III. von</div>, Kaiser <note type="editorial">seit 1508</note></p>
+              <p>Sohn von <ref target="/actors/49">Habsburg-Österreich, Friedrich III. von</ref>, Kaiser (seit 1508)</p>
             </note>
             <listBibl>
               <bibl>
@@ -12445,7 +12458,7 @@
             <persName type="sort" xml:lang="de">toggenburg, johann von</persName>
             <birth when="1482-09-07"/>
             <note type="description" xml:lang="de">
-              <p>Landmann von Schwyz, Ehemann von <div type="a">Ratzenhausen, Maria von</div></p>
+              <p>Landmann von Schwyz, Ehemann von <ref target="/actors/917">Ratzenhausen, Maria von</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-917">
@@ -12454,7 +12467,7 @@
             <persName type="sort" xml:lang="de">ratzenhausen, maria von</persName>
             <birth when="1482-09-07"/>
             <note type="description" xml:lang="de">
-              <p>Ehefrau von <div type="a">Toggenburg, Hans von</div></p>
+              <p>Ehefrau von <ref target="/actors/916">Toggenburg, Hans von</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-918">
@@ -12471,7 +12484,7 @@
             <persName type="alternative" xml:lang="de">maistrin</persName>
             <birth when="1483-05-15"/>
             <note type="description" xml:lang="de">
-              <p>Meisterin <note type="editorial">1451-1483</note> des <div type="a">Münsterlingen Augustinerinnenkloster</div>, aus einer Konstanzer Bürgerfamilie und ab 1467 als Bürgerin von Konstanz belegt</p>
+              <p>Meisterin (1451-1483) des <ref target="/places/318">Münsterlingen Augustinerinnenkloster</ref>, aus einer Konstanzer Bürgerfamilie und ab 1467 als Bürgerin von Konstanz belegt</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-920">
@@ -12481,7 +12494,7 @@
             <persName type="alternative" xml:lang="de">pryorin</persName>
             <birth when="1468-10-17"/>
             <note type="description" xml:lang="de">
-              <p>Priorin des <div type="a">Dominikanerinnenkloster Töss</div></p>
+              <p>Priorin des <ref target="/places/238">Dominikanerinnenkloster Töss</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-921">
@@ -12534,7 +12547,7 @@
             <persName type="alternative" xml:lang="de">Ruodolff Fridbold</persName>
             <birth when="1485-09-30"/>
             <note type="description" xml:lang="de">
-              <p>Kaplan in St. Gallen, Vater von <div type="a">Friedebold, Rudolf <note type="editorial">II</note></div></p>
+              <p>Kaplan in St. Gallen, Vater von <ref target="/actors/926">Friedebold, Rudolf (II)</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-926">
@@ -12544,7 +12557,7 @@
             <persName type="alternative" xml:lang="de">Ruodolff Fridbold</persName>
             <birth when="1485-09-30"/>
             <note type="description" xml:lang="de">
-              <p>Sohn von <div type="a">Friedebold, Rudolf <note type="editorial">I</note></div></p>
+              <p>Sohn von <ref target="/actors/925">Friedebold, Rudolf (I)</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-927">
@@ -12564,7 +12577,7 @@
             <persName type="alternative" xml:lang="de">Gertlis von Sursee, Gertly</persName>
             <birth when="1486-04-26"/>
             <note type="description" xml:lang="de">
-              <p>männlich, Zuname: von Sursee, Ehemann von <div type="a">Gärtler, Adelheid</div></p>
+              <p>männlich, Wohn/Herkunftsort: Sursee, Ehemann von <ref target="/actors/929">Gärtler, Adelheid</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-929">
@@ -12574,7 +12587,7 @@
             <persName type="alternative" xml:lang="de">Adelheit Gertlin</persName>
             <birth when="1486-04-26"/>
             <note type="description" xml:lang="de">
-              <p>Ehefrau von <div type="a">Gärtler, NN</div></p>
+              <p>Ehefrau von <ref target="/actors/928">Gärtler, NN</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-930">
@@ -12589,7 +12602,7 @@
             <persName type="sort" xml:lang="de">hersberg, jos rudolf von</persName>
             <birth when="1486-09-22"/>
             <note type="description" xml:lang="de">
-              <p>Bürger von Überlingen, Vater von <div type="a">Hersberg, Konrad von</div></p>
+              <p>Bürger von Überlingen, Vater von <ref target="/actors/932">Hersberg, Konrad von</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-932">
@@ -12598,7 +12611,7 @@
             <persName type="sort" xml:lang="de">hersberg, konrad von</persName>
             <birth when="1486-09-22"/>
             <note type="description" xml:lang="de">
-              <p>Bürger von Überlingen, Sohn von <div type="a">Hersberg, Jos Rudolf von</div></p>
+              <p>Bürger von Überlingen, Sohn von <ref target="/actors/931">Hersberg, Jos Rudolf von</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-933">
@@ -12607,7 +12620,7 @@
             <persName type="sort" xml:lang="de">werdenberg, ulrich von</persName>
             <birth when="1486-09-22"/>
             <note type="description" xml:lang="de">
-              <p>Graf zu Werdenberg, Bruder von <div type="a">Werdenberg, Georg von</div></p>
+              <p>Graf zu Werdenberg, Bruder von <ref target="/actors/934">Werdenberg, Georg von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -12622,7 +12635,7 @@
             <persName type="alternative" xml:lang="de">Jörg</persName>
             <birth when="1486-09-22"/>
             <note type="description" xml:lang="de">
-              <p>Graf zu Werdenberg, Bruder von <div type="a">Werdenberg, Ulrich von</div></p>
+              <p>Graf zu Werdenberg, Bruder von <ref target="/actors/933">Werdenberg, Ulrich von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -12757,7 +12770,7 @@
             <persName type="sort" xml:lang="de">varnbueler, ulrich</persName>
             <birth when="1487-06-19"/>
             <note type="description" xml:lang="de">
-              <p>Bürgermeister in St. Gallen <note type="editorial">1487</note>, Sohn von <div type="a">Varnbüler, Hans</div></p>
+              <p>Bürgermeister in St. Gallen (1487), Sohn von <ref target="/actors/210">Varnbüler, Hans</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -12833,7 +12846,7 @@
             <persName type="alternative" xml:lang="de">Ulrich Klainen</persName>
             <birth when="1487-10-25"/>
             <note type="description" xml:lang="de">
-              <p>Bürgermeister in Kempten <note type="editorial">1487</note></p>
+              <p>Bürgermeister in Kempten (1487)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-951">
@@ -13042,7 +13055,7 @@
             <persName type="alternative" xml:lang="de">Linhart Ebner</persName>
             <birth when="1489-04-27"/>
             <note type="description" xml:lang="de">
-              <p>verheiratet, Schwager von <div type="a">Märk, Hans</div></p>
+              <p>verheiratet, Schwager von <ref target="/actors/967">Märk, Hans</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-967">
@@ -13052,7 +13065,7 @@
             <persName type="alternative" xml:lang="de">Hannsen Maerk</persName>
             <birth when="1489-04-27"/>
             <note type="description" xml:lang="de">
-              <p>Schwager von <div type="a">Ebner, Lienhard</div></p>
+              <p>Schwager von <ref target="/actors/966">Ebner, Lienhard</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-968">
@@ -13062,7 +13075,7 @@
             <persName type="alternative" xml:lang="de">Hansen Oppentzhofer</persName>
             <birth when="1489-05-11"/>
             <note type="description" xml:lang="de">
-              <p>Bürger von Rheineck, Ehemann von <div type="a">Oppertshofer, Magdalena</div></p>
+              <p>Bürger von Rheineck, Ehemann von <ref target="/actors/973">Oppertshofer, Magdalena</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-969">
@@ -13090,7 +13103,7 @@
             <persName type="sort" xml:lang="de">zidler, hermann</persName>
             <birth when="1489-05-11"/>
             <note type="description" xml:lang="de">
-              <p>Ammann von Appenzell</p>
+              <p>Ammann von Appenzell (1489)</p>
             </note>
             <listBibl>
               <bibl>
@@ -13114,7 +13127,7 @@
             <persName type="alternative" xml:lang="de">franckrichisch küng</persName>
             <birth when="1489-05-23"/>
             <note type="description" xml:lang="de">
-              <p>König von Frankreich <note type="editorial">1483-1498</note></p>
+              <p>König von Frankreich (1483-1498)</p>
             </note>
             <listBibl>
               <bibl>
@@ -13153,7 +13166,7 @@
             <persName type="alternative" xml:lang="de">Magdalen Opentzhoverin</persName>
             <birth when="1489-05-11"/>
             <note type="description" xml:lang="de">
-              <p>Bürgerin von Rheineck, Ehefrau von <div type="a">Oppertshofer, Hans</div></p>
+              <p>Bürgerin von Rheineck, Ehefrau von <ref target="/actors/968">Oppertshofer, Hans</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-974">
@@ -13162,7 +13175,7 @@
             <persName type="sort" xml:lang="de">frauenfeld, dominikus</persName>
             <birth when="1490-07-06"/>
             <note type="description" xml:lang="de">
-              <p>Vogt zu Rheineck</p>
+              <p>Vogt in Rheineck (1490)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-975">
@@ -13207,7 +13220,7 @@
             <persName type="alternative" xml:lang="de">Walther Vabeuler</persName>
             <birth when="1489-06-05"/>
             <note type="description" xml:lang="de">
-              <p>Graf, Flammer <note type="editorial">Schmied</note></p>
+              <p>Graf, Flammer (Schmied) (1489)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-980">
@@ -13242,7 +13255,7 @@
             <persName type="alternative" xml:lang="de">Ransperg</persName>
             <birth when="1489-06-05"/>
             <note type="description" xml:lang="de">
-              <p>männlich, Zuname: der Jung</p>
+              <p>männlich, Zuname: der Jüngere</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-984">
@@ -13268,7 +13281,7 @@
             <persName type="alternative" xml:lang="de">Vogelwaider</persName>
             <birth when="1489-06-05"/>
             <note type="description" xml:lang="de">
-              <p>Bürgermeister von St. Gallen <note type="editorial">1489</note>, Ehemann von <div type="a">Lehmann, Ursula</div></p>
+              <p>Bürgermeister in St. Gallen (1489), Ehemann von <ref target="/actors/1070">Lehmann, Ursula</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -13307,7 +13320,7 @@
             <persName type="alternative" xml:lang="de">Uolrichen Häckel</persName>
             <birth when="1489-06-05"/>
             <note type="description" xml:lang="de">
-              <p>Zunftmeister</p>
+              <p>Zunftmeister (1489)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-990">
@@ -13351,7 +13364,7 @@
             <persName type="sort" xml:lang="de">watt, benedikt von</persName>
             <birth when="1500"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Watt, Konrad von</div> und <div type="a">Watt, David von</div></p>
+              <p>Bruder von <ref target="/actors/996">Watt, Konrad von</ref> und <ref target="/actors/997">Watt, David von</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-996">
@@ -13361,7 +13374,7 @@
             <persName type="alternative" xml:lang="de">Conraten</persName>
             <birth when="1500"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Watt, Benedikt von</div> und <div type="a">Watt, David von</div></p>
+              <p>Bruder von <ref target="/actors/995">Watt, Benedikt von</ref> und <ref target="/actors/997">Watt, David von</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-997">
@@ -13370,7 +13383,7 @@
             <persName type="sort" xml:lang="de">watt, david von</persName>
             <birth when="1500"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Watt, Konrad von</div> und <div type="a">Watt, Benedikt von</div></p>
+              <p>Bruder von <ref target="/actors/996">Watt, Konrad von</ref> und <ref target="/actors/995">Watt, Benedikt von</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-998">
@@ -13380,7 +13393,7 @@
             <persName type="alternative" xml:lang="de">Ambrosi Schlumpff</persName>
             <birth when="1500"/>
             <note type="description" xml:lang="de">
-              <p>Bürgermeister in St. Gallen <note type="editorial">1500</note></p>
+              <p>Bürgermeister in St. Gallen (1500)</p>
             </note>
             <listBibl>
               <bibl>
@@ -13413,7 +13426,7 @@
             <persName type="sort" xml:lang="de">rot, klaus</persName>
             <birth when="1491-01-25"/>
             <note type="description" xml:lang="de">
-              <p>Vetter von <div type="a">Rot, Johann</div>, Unterbürgermeister in St. Gallen <note type="editorial">1491</note></p>
+              <p>Vetter von <ref target="/actors/1001">Rot, Johann</ref>, Unterbürgermeister in St. Gallen (1491)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1001">
@@ -13422,7 +13435,7 @@
             <persName type="sort" xml:lang="de">rot, johann</persName>
             <birth when="1500"/>
             <note type="description" xml:lang="de">
-              <p>Lesemeister in Zürich, Vetter von <div type="a">Rot, Klaus</div></p>
+              <p>Lesemeister in Zürich (1500), Vetter von <ref target="/actors/1000">Rot, Klaus</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1002">
@@ -13458,7 +13471,7 @@
             <persName type="sort" xml:lang="de">wirtemberg, michael</persName>
             <birth when="1491-04-08"/>
             <note type="description" xml:lang="de">
-              <p>Werkmeister in Ulm</p>
+              <p>Werkmeister in Ulm (1491)</p>
             </note>
           </person>
           <personGrp role="family" xml:id="stadtasg-actors-1006">
@@ -13483,7 +13496,7 @@
             <persName type="sort" xml:lang="de">nn, philipp</persName>
             <birth when="1492-10-30"/>
             <note type="description" xml:lang="de">
-              <p>Apotheker in Konstanz <note type="editorial">1492</note></p>
+              <p>Apotheker in Konstanz (1492)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1009">
@@ -13499,7 +13512,7 @@
             <persName type="sort" xml:lang="de">hohenlandenberg, hans von</persName>
             <birth when="1491-01-10"/>
             <note type="description" xml:lang="de">
-              <p>Vetter von <div type="a">Jakob von Schönau</div>, Wohn/Herkunftsort: Rapperswil</p>
+              <p>Vetter von <ref target="/actors/1011">Jakob von Schönau</ref>, Wohn/Herkunftsort: Rapperswil</p>
             </note>
             <listBibl>
               <bibl>
@@ -13516,7 +13529,7 @@
             <persName type="sort" xml:lang="de">schoenau, jakob von</persName>
             <birth when="1491-01-10"/>
             <note type="description" xml:lang="de">
-              <p>Vetter von <div type="a">Hans von Hohenlandenberg</div>, Sohn von Osanna von Hohenlandenberg</p>
+              <p>Vetter von <ref target="/actors/1010">Hans von Hohenlandenberg</ref>, Sohn von Osanna von Hohenlandenberg</p>
             </note>
             <listBibl>
               <bibl>
@@ -13531,7 +13544,7 @@
             <persName type="alternative" xml:lang="de">Schenkli, Hans</persName>
             <birth when="1491-01-25"/>
             <note type="description" xml:lang="de">
-              <p>Stadtschreiber in St. Gallen <note type="editorial">1491</note>, vgl. Historisch Biographisches Lexikon der Schweiz, Bd. 6, S. 160 <note type="editorial">Schenkli Nr. 4</note>, Bürgermeister in St. Gallen <note type="editorial">1502</note></p>
+              <p>Stadtschreiber in St. Gallen (1491), vgl. Historisch Biographisches Lexikon der Schweiz, Bd. 6, S. 160 (Schenkli Nr. 4), Bürgermeister in St. Gallen (1502)</p>
             </note>
             <listBibl>
               <bibl>
@@ -13558,7 +13571,7 @@
             <persName type="alternative" xml:lang="de">Hanrichen Hochrütiner</persName>
             <birth when="1491-01-25"/>
             <note type="description" xml:lang="de">
-              <p>Ratsmitglied <note type="editorial">1491</note></p>
+              <p>Ratsmitglied (1491)</p>
             </note>
             <listBibl>
               <bibl>
@@ -13589,7 +13602,7 @@
             <persName type="alternative" xml:lang="de">Krumen Ulrichen</persName>
             <birth when="1491-01-25"/>
             <note type="description" xml:lang="de">
-              <p>Ratsherr in St. Gallen <note type="editorial">1491</note></p>
+              <p>Ratsherr in St. Gallen (1491)</p>
             </note>
             <listBibl>
               <bibl>
@@ -13610,7 +13623,7 @@
             <persName type="alternative" xml:lang="de">Bastion Zollikoffer</persName>
             <birth when="1491-01-25"/>
             <note type="description" xml:lang="de">
-              <p>Ratsherr in St. Gallen <note type="editorial">1491</note></p>
+              <p>Ratsherr in St. Gallen (1491)</p>
             </note>
             <listBibl>
               <bibl>
@@ -13638,7 +13651,7 @@
             <persName type="alternative" xml:lang="de">Frantzis Zilin</persName>
             <birth when="1491-01-25"/>
             <note type="description" xml:lang="de">
-              <p>Altbürgermeister in St. Gallen <note type="editorial">1491</note></p>
+              <p>Altbürgermeister in St. Gallen (1491)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1020">
@@ -13647,7 +13660,7 @@
             <persName type="sort" xml:lang="de">gruebel, stefan</persName>
             <birth when="1491-01-20"/>
             <note type="description" xml:lang="de">
-              <p>Ratsherr in St. Gallen <note type="editorial">1491</note></p>
+              <p>Ratsherr in St. Gallen (1491)</p>
             </note>
             <listBibl>
               <bibl>
@@ -13668,7 +13681,7 @@
             <persName type="alternative" xml:lang="de">Lucas</persName>
             <birth when="1491-01-25"/>
             <note type="description" xml:lang="de">
-              <p>Ratsherr in St. Gallen <note type="editorial">1491</note></p>
+              <p>Ratsherr in St. Gallen (1491)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1022">
@@ -13738,7 +13751,7 @@
             <persName type="alternative" xml:lang="de">Myles</persName>
             <birth when="1491-06-01"/>
             <note type="description" xml:lang="de">
-              <p>Landvogt der Grafschaft Toggenburg <note type="editorial">1491</note>, Wohn/Herkunftsort: Lichtensteig, Schwager von <div type="a">Hug von Watt</div></p>
+              <p>Landvogt der Grafschaft Toggenburg (1491), Wohn/Herkunftsort: Lichtensteig, Schwager von <ref target="/actors/1027">Hug von Watt</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -13756,7 +13769,7 @@
             <persName type="alternative" xml:lang="de">Hug, Hugen</persName>
             <birth when="1491-06-01"/>
             <note type="description" xml:lang="de">
-              <p>Schwager von <div type="a">Albrecht Miles</div></p>
+              <p>Schwager von <ref target="/actors/1026">Albrecht Miles</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1028">
@@ -13765,7 +13778,7 @@
             <persName type="sort" xml:lang="de">hewen, heinrich von</persName>
             <birth when="1491-07-12"/>
             <note type="description" xml:lang="de">
-              <p>Freiherr und Domdekan in Konstanz <note type="editorial">1491</note>, Neffe von <div type="a">Hewen, Heinrich IV. von</div></p>
+              <p>Freiherr und Domdekan in Konstanz (1491), Neffe von <ref target="/actors/55">Hewen, Heinrich IV. von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -13791,7 +13804,7 @@
             <persName type="sort" xml:lang="de">zwick, johannes</persName>
             <birth when="1491-07-12"/>
             <note type="description" xml:lang="de">
-              <p>Licenciatus und Domherr, Pfleger der Kathedrale in Konstanz <note type="editorial">1491</note></p>
+              <p>Licenciatus und Domherr, Pfleger der Kathedrale in Konstanz (1491)</p>
             </note>
             <listBibl>
               <bibl>
@@ -13837,7 +13850,7 @@
             <persName type="sort" xml:lang="de">uesslinger, konrad</persName>
             <persName type="alternative" xml:lang="de">Conratt</persName>
             <note type="description" xml:lang="de">
-              <p>Zuname: von Villingen, Vetter von <div type="a">Hans Bletz</div></p>
+              <p>Wohn/Herkunftsort: Villingen, Vetter von <ref target="/actors/1033">Hans Bletz</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1033">
@@ -13846,7 +13859,7 @@
             <persName type="sort" xml:lang="de">bletz, hans</persName>
             <birth when="1491-07-12"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: von Rotenstein, Vetter von <div type="a">Konrad Üsslinger</div></p>
+              <p>Zuname: von Rotenstein, Vetter von <ref target="/actors/1032">Konrad Üsslinger</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1034">
@@ -13856,7 +13869,7 @@
             <persName type="alternative" xml:lang="de">Ruedi Egkel</persName>
             <birth when="1491-08-22"/>
             <note type="description" xml:lang="de">
-              <p>Bürger von St. Gallen <note type="editorial">1491</note>, ehemals Landmann von Glarus</p>
+              <p>Bürger von St. Gallen (1491), ehemals Landmann von Glarus</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1035">
@@ -13883,7 +13896,7 @@
             <persName type="alternative" xml:lang="de">Hanns Lutzman von Schwitz</persName>
             <birth when="1496-09-30"/>
             <note type="description" xml:lang="de">
-              <p>Vogt in Windegg <note type="editorial">1496</note>, Wohn/Herkunftsort: Schwyz</p>
+              <p>Vogt in Windegg (1496), Wohn/Herkunftsort: Schwyz</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1038">
@@ -13902,7 +13915,7 @@
             <persName type="sort" xml:lang="de">hohenlandenberg, hugo von</persName>
             <birth when="1497-04-05"/>
             <note type="description" xml:lang="de">
-              <p>Bischof in Konstanz <note type="editorial">1497</note></p>
+              <p>Bischof in Konstanz (1497)</p>
             </note>
             <listBibl>
               <bibl>
@@ -13949,7 +13962,7 @@
             <persName type="sort" xml:lang="de">hallwyl, walter von</persName>
             <birth when="1497-05-15"/>
             <note type="description" xml:lang="de">
-              <p>Hofmeister des Bischofs in Konstanz <div type="a">Hugo von Hohenlandenberg</div> <note type="editorial">1497</note></p>
+              <p>Hofmeister des Bischofs in Konstanz <ref target="/actors/1039">Hugo von Hohenlandenberg</ref> (1497)</p>
             </note>
             <listBibl>
               <bibl>
@@ -13969,7 +13982,7 @@
             <persName type="sort" xml:lang="de">dietz, hans</persName>
             <birth when="1497-08-01"/>
             <note type="description" xml:lang="de">
-              <p>Dachdecker <note type="editorial">1497</note>, Bürger von St. Gallen</p>
+              <p>Dachdecker (1497), Bürger von St. Gallen</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1042">
@@ -13997,7 +14010,7 @@
             <persName type="sort" xml:lang="de">schuerpf, johannes</persName>
             <birth when="1497-09-03"/>
             <note type="description" xml:lang="de">
-              <p>Schulmeister in St. Gallen <note type="editorial">vor 1497</note>, Vetter von <div type="a">Jacob Schürpf</div></p>
+              <p>Schulmeister in St. Gallen (vor 1497), Vetter von <ref target="/actors/1045">Jacob Schürpf</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -14020,7 +14033,7 @@
             <persName type="sort" xml:lang="de">schuerpf, jacob</persName>
             <birth when="1497-09-03"/>
             <note type="description" xml:lang="de">
-              <p>Vetter von <div type="a">Johannes Schürpf</div></p>
+              <p>Vetter von <ref target="/actors/1044">Johannes Schürpf</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1046">
@@ -14030,7 +14043,7 @@
             <persName type="alternative" xml:lang="de">Symon</persName>
             <birth when="1497-09-03"/>
             <note type="description" xml:lang="de">
-              <p>Schulmeister in St. Gallen <note type="editorial">1497</note> als Vertretung von <div type="a">Johannes Schürpf</div></p>
+              <p>Schulmeister in St. Gallen (1497) als Vertretung von <ref target="/actors/1044">Johannes Schürpf</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1047">
@@ -14040,7 +14053,7 @@
             <persName type="alternative" xml:lang="de">Hannsen Oderboltz</persName>
             <birth when="1498-02-14"/>
             <note type="description" xml:lang="de">
-              <p>Meister in Freiburg DE</p>
+              <p>Meister in Freiburg DE (1498)</p>
             </note>
             <listBibl>
               <bibl>
@@ -14078,7 +14091,7 @@
             <persName type="alternative" xml:lang="de">Rudolf Schlaipfer</persName>
             <birth when="1498-03-29"/>
             <note type="description" xml:lang="de">
-              <p>Bürger von St. Gallen, Säckelmeister in St. Gallen <note type="editorial">1494</note>, genannt Sailer</p>
+              <p>Bürger von St. Gallen, Säckelmeister in St. Gallen (1494), genannt Sailer</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1051">
@@ -14097,7 +14110,7 @@
             <persName type="sort" xml:lang="de">escher, rudolf</persName>
             <birth when="1499-08-25"/>
             <note type="description" xml:lang="de">
-              <p>Bürgermeister von Zürich <note type="editorial">1499</note></p>
+              <p>Bürgermeister in Zürich (1499)</p>
             </note>
             <listBibl>
               <bibl>
@@ -14135,7 +14148,7 @@
             <persName type="sort" xml:lang="de">gurtanner, ulrich</persName>
             <birth when="1535-03-19"/>
             <note type="description" xml:lang="de">
-              <p>verstorben <note type="editorial">1535</note>, Schwager von <div type="a">Hans Vorster</div></p>
+              <p>verstorben (1535), Schwager von <ref target="/actors/1055">Hans Vorster</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1055">
@@ -14144,7 +14157,7 @@
             <persName type="sort" xml:lang="de">vorster, hans</persName>
             <birth when="1535-03-19"/>
             <note type="description" xml:lang="de">
-              <p>verstorben <note type="editorial">mind. seit 1530</note>, Schwager von <div type="a">Ulrich Gurtanner</div>, Ehemann von <div type="a">Anna Armbruster</div></p>
+              <p>verstorben (mind. seit 1530), Schwager von <ref target="/actors/1054">Ulrich Gurtanner</ref>, Ehemann von <ref target="/actors/1056">Anna Armbruster</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1056">
@@ -14153,7 +14166,7 @@
             <persName type="sort" xml:lang="de">armbruster, anna</persName>
             <birth when="1535-03-19"/>
             <note type="description" xml:lang="de">
-              <p>Ehefrau von <div type="a">Hans Vorster</div></p>
+              <p>Ehefrau von <ref target="/actors/1055">Hans Vorster</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1057">
@@ -14162,7 +14175,7 @@
             <persName type="sort" xml:lang="de">roesch, konrad</persName>
             <birth when="1493-11-23"/>
             <note type="description" xml:lang="de">
-              <p>Leutpriester in Wil <note type="editorial">1493</note>, Bruder von <div type="a">Rösch, Wibrat</div></p>
+              <p>Leutpriester in Wil (1493), Bruder von <ref target="/actors/1058">Rösch, Wibrat</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1058">
@@ -14171,7 +14184,7 @@
             <persName type="sort" xml:lang="de">roesch, wibrat</persName>
             <birth when="1493-11-23"/>
             <note type="description" xml:lang="de">
-              <p>Witwe von <div type="a">Seiler, Konrad</div>, Schwester von <div type="a">Rösch, Konrad</div></p>
+              <p>Witwe von <ref target="/actors/1059/">Seiler, Konrad</ref>, Schwester von <ref target="/actors/1057">Rösch, Konrad</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1059">
@@ -14181,7 +14194,7 @@
             <persName type="alternative" xml:lang="de">Sailer, Conrat</persName>
             <birth when="1493-11-23"/>
             <note type="description" xml:lang="de">
-              <p>Bürger von St. Gallen, Ehemann von <div type="a">Rösch, Wibrat</div></p>
+              <p>Bürger von St. Gallen, Ehemann von <ref target="/actors/1058">Rösch, Wibrat</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1060">
@@ -14191,7 +14204,7 @@
             <persName type="alternative" xml:lang="de">Kuchimaister, Walter</persName>
             <birth when="1493-11-27"/>
             <note type="description" xml:lang="de">
-              <p>Vogt in St. Gallen <note type="editorial">1493</note></p>
+              <p>Vogt in St. Gallen (1493)</p>
             </note>
           </person>
           <personGrp role="family" xml:id="stadtasg-actors-1061">
@@ -14246,7 +14259,7 @@
             <persName type="sort" xml:lang="de">rainsperg, hans</persName>
             <birth when="1494-03-06"/>
             <note type="description" xml:lang="de">
-              <p>Bürgermeister in St. Gallen <note type="editorial">1494</note></p>
+              <p>Bürgermeister in St. Gallen (1494)</p>
             </note>
             <listBibl>
               <bibl>
@@ -14272,7 +14285,7 @@
             <persName type="sort" xml:lang="de">nn, sebastian</persName>
             <birth when="1494-03-06"/>
             <note type="description" xml:lang="de">
-              <p>männlich, Kämmerer der Herren von Wessobrunn <note type="editorial">1494</note></p>
+              <p>männlich, Kämmerer der Herren von Wessobrunn (1494)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1066">
@@ -14281,7 +14294,7 @@
             <persName type="sort" xml:lang="de">nn, augustinus</persName>
             <birth when="1494-03-06"/>
             <note type="description" xml:lang="de">
-              <p>männlich, Meister, Orgelbauer in Landsberg <note type="editorial">1494</note></p>
+              <p>männlich, Meister, Orgelbauer in Landsberg (1494)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1067">
@@ -14290,7 +14303,7 @@
             <persName type="sort" xml:lang="de">brendler, hans</persName>
             <birth when="1493-09-04"/>
             <note type="description" xml:lang="de">
-              <p>Ehemann von <div type="a">Lehmann, Barbara</div>, Bürger von St. Gallen</p>
+              <p>Ehemann von <ref target="/actors/1068">Lehmann, Barbara</ref>, Bürger von St. Gallen</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1068">
@@ -14299,7 +14312,7 @@
             <persName type="sort" xml:lang="de">lehmann, barbara</persName>
             <birth when="1493-09-04"/>
             <note type="description" xml:lang="de">
-              <p>Ehefrau von <div type="a">Brendler, Hans</div>, Schwester von <div type="a">Lehmann, Ulrich</div>, Bürgerin von St. Gallen</p>
+              <p>Ehefrau von <ref target="/actors/1067">Brendler, Hans</ref>, Schwester von <ref target="/actors/1069">Lehmann, Ulrich</ref>, Bürgerin von St. Gallen</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1069">
@@ -14308,7 +14321,7 @@
             <persName type="sort" xml:lang="de">lehmann, ulrich</persName>
             <birth when="1493-09-04"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Lehmann, Barbara</div>, Bürger von St. Gallen</p>
+              <p>Bruder von <ref target="/actors/1068">Lehmann, Barbara</ref>, Bürger von St. Gallen</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1070">
@@ -14317,7 +14330,7 @@
             <persName type="sort" xml:lang="de">lehmann, ursula</persName>
             <birth when="1493-09-04"/>
             <note type="description" xml:lang="de">
-              <p>Witwe von <div type="a">Vogelweider, Ludwig</div></p>
+              <p>Witwe von <ref target="/actors/986">Vogelweider, Ludwig</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1071">
@@ -14326,7 +14339,7 @@
             <persName type="sort" xml:lang="de">falk, lukas (i)</persName>
             <birth when="1493-09-13"/>
             <note type="description" xml:lang="de">
-              <p>Zimmermann <note type="editorial">1493</note>, Vater von <div type="a">Falk, Lukas <note type="editorial">II</note></div>, Bürger von St. Gallen</p>
+              <p>Zimmermann (1493), Vater von <ref target="/actors/1072">Falk, Lukas (II)</ref>, Bürger von St. Gallen</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1072">
@@ -14335,7 +14348,7 @@
             <persName type="sort" xml:lang="de">falk, lukas (ii)</persName>
             <birth when="1493-09-13"/>
             <note type="description" xml:lang="de">
-              <p>Werkmeister in St. Gallen <note type="editorial">1501</note>, Sohn von <div type="a">Falk, Lukas <note type="editorial">I</note></div>, Vetter von <div type="a">Falk, Matthias</div></p>
+              <p>Werkmeister in St. Gallen (1501), Sohn von <ref target="/actors/1071">Falk, Lukas (I)</ref>, Vetter von <ref target="/actors/1073">Falk, Matthias</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1073">
@@ -14344,7 +14357,7 @@
             <persName type="sort" xml:lang="de">falk, matthias</persName>
             <birth when="1493-09-13"/>
             <note type="description" xml:lang="de">
-              <p>Vetter von <div type="a">Falk, Lukas <note type="editorial">II</note></div>, Werkmeister</p>
+              <p>Vetter von <ref target="/actors/1072">Falk, Lukas (II)</ref>, Werkmeister (1493)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1074">
@@ -14353,7 +14366,7 @@
             <persName type="sort" xml:lang="de">ammann, ludwig</persName>
             <birth when="1494-09-12"/>
             <note type="description" xml:lang="de">
-              <p>Stadtschreiber in Zürich <note type="editorial">1494</note></p>
+              <p>Stadtschreiber in Zürich (1494)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1075">
@@ -14362,7 +14375,7 @@
             <persName type="sort" xml:lang="de">nn (ii)</persName>
             <birth when="1494-09-12"/>
             <note type="description" xml:lang="de">
-              <p>männlich, Säckelmeister in St. Gallen <note type="editorial">1494</note></p>
+              <p>männlich, Säckelmeister in St. Gallen (1494)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1076">
@@ -14371,7 +14384,7 @@
             <persName type="sort" xml:lang="de">eberli, josef</persName>
             <birth when="1494-12-24"/>
             <note type="description" xml:lang="de">
-              <p>Werkmeister in Memmingen <note type="editorial">1494</note></p>
+              <p>Werkmeister in Memmingen (1494)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1077">
@@ -14399,7 +14412,7 @@
             <persName type="sort" xml:lang="de">kiel, hans</persName>
             <birth when="1495-12-12"/>
             <note type="description" xml:lang="de">
-              <p>Unterschreiber in Luzern <note type="editorial">1495</note></p>
+              <p>Unterschreiber in Luzern (1495)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1080">
@@ -14408,7 +14421,7 @@
             <persName type="sort" xml:lang="de">homburg, wolfdietrich von</persName>
             <birth when="1501-04-28"/>
             <note type="description" xml:lang="de">
-              <p>Familie <div type="a">Homburg, von</div></p>
+              <p>Familie <ref target="/actors/680">Homburg, von</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1081">
@@ -14417,7 +14430,7 @@
             <persName type="sort" xml:lang="de">homburg, heinrich sigmund</persName>
             <birth when="1501-04-28"/>
             <note type="description" xml:lang="de">
-              <p>Familie <div type="a">Homburg, von</div></p>
+              <p>Familie <ref target="/actors/680">Homburg, von</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1082">
@@ -14426,7 +14439,7 @@
             <persName type="sort" xml:lang="de">homburg, adam</persName>
             <birth when="1501-04-28"/>
             <note type="description" xml:lang="de">
-              <p>Familie <div type="a">Homburg, von</div></p>
+              <p>Familie <ref target="/actors/680">Homburg, von</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1083">
@@ -14435,7 +14448,7 @@
             <persName type="sort" xml:lang="de">homburg, wolf</persName>
             <birth when="1501-04-28"/>
             <note type="description" xml:lang="de">
-              <p>Familie <div type="a">Homburg, von</div></p>
+              <p>Familie <ref target="/actors/680">Homburg, von</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1084">
@@ -14445,7 +14458,7 @@
             <persName type="alternative" xml:lang="de">Blidegg, Welter von</persName>
             <birth when="1501-03-02"/>
             <note type="description" xml:lang="de">
-              <p>Vetter von <div type="a">Welter, Ludwig</div></p>
+              <p>Vetter von <ref target="/actors/1126/">Welter, Ludwig</ref>, genannt Welter von Blidegg</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1085">
@@ -14454,7 +14467,7 @@
             <persName type="sort" xml:lang="de">stocker, hieronymus</persName>
             <birth when="1501-03-02"/>
             <note type="description" xml:lang="de">
-              <p>Landvogt im Thurgau <note type="editorial">1501</note>, Wohn/Herkunftsort: Zug</p>
+              <p>Landvogt im Thurgau (1501), Wohn/Herkunftsort: Zug</p>
             </note>
           </person>
           <personGrp role="family" xml:id="stadtasg-actors-1086">
@@ -14463,7 +14476,7 @@
             <persName type="sort" xml:lang="de">sonnenberg, von</persName>
             <birth when="1495-06-06"/>
             <note type="description" xml:lang="de">
-              <p>Truchsessen von <div type="a">Waldburg</div></p>
+              <p>Truchsessen von <ref target="/places/107">Waldburg</ref></p>
             </note>
           </personGrp>
           <personGrp role="family" xml:id="stadtasg-actors-1087">
@@ -14473,7 +14486,7 @@
             <persName type="alternative" xml:lang="de">Cronberg, von</persName>
             <birth when="1495"/>
             <note type="description" xml:lang="de">
-              <p>Grafen von Kronberg <note type="editorial">1495</note></p>
+              <p>Grafen von Kronberg (1495)</p>
             </note>
           </personGrp>
           <person xml:id="stadtasg-actors-1088">
@@ -14527,7 +14540,7 @@
             <persName type="alternative" xml:lang="de">Galliatz</persName>
             <birth when="1500-03-09"/>
             <note type="description" xml:lang="de">
-              <p>männlich, herzoglicher Vizegraf in Novara <note type="editorial">1500</note></p>
+              <p>männlich, herzoglicher Vizegraf in Novara (1500)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1093">
@@ -14567,7 +14580,7 @@
             <persName type="sort" xml:lang="de">sailer, hans</persName>
             <birth when="1501-12-02"/>
             <note type="description" xml:lang="de">
-              <p>Ratsherr in Wil <note type="editorial">1501</note></p>
+              <p>Ratsherr in Wil (1501)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1098">
@@ -14576,7 +14589,7 @@
             <persName type="sort" xml:lang="de">grossmann, hans</persName>
             <birth when="1501-12-02"/>
             <note type="description" xml:lang="de">
-              <p>Ratsknecht in Wil <note type="editorial">1501</note></p>
+              <p>Ratsknecht in Wil (1501)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1099">
@@ -14596,7 +14609,7 @@
             <persName type="alternative" xml:lang="de">küng von Franckrich</persName>
             <birth when="1501-09-08"/>
             <note type="description" xml:lang="de">
-              <p>König von Frankreich <note type="editorial">1498–1515</note></p>
+              <p>König von Frankreich (1498–1515)</p>
             </note>
             <listBibl>
               <bibl>
@@ -14654,7 +14667,7 @@
             <persName type="alternative" xml:lang="de">Thorothea Tennenbergin</persName>
             <birth when="1501-07-02"/>
             <note type="description" xml:lang="de">
-              <p>Ehefrau von <div type="a">Heinrich Rietmann</div>, Bürgerin von Bischofszell</p>
+              <p>Ehefrau von <ref target="/actors/1105">Heinrich Rietmann</ref>, Bürgerin von Bischofszell</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1105">
@@ -14663,7 +14676,7 @@
             <persName type="sort" xml:lang="de">rietmann, heinrich</persName>
             <birth when="1501-07-02"/>
             <note type="description" xml:lang="de">
-              <p>Hufschmied, Ehemann von <div type="a">Dorothea Tennenberg</div></p>
+              <p>Hufschmied, Ehemann von <ref target="/actors/1104">Dorothea Tennenberg</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1106">
@@ -14673,7 +14686,7 @@
             <persName type="alternative" xml:lang="de">Clainhannsen Schnider</persName>
             <birth when="1501-07-02"/>
             <note type="description" xml:lang="de">
-              <p>Vogt von <div type="a">Dorothea Tennenberg</div></p>
+              <p>Vogt von <ref target="/actors/1104">Dorothea Tennenberg</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1107">
@@ -14708,7 +14721,7 @@
             <persName type="sort" xml:lang="de">kuhl, ulrich</persName>
             <birth when="1502-05-21"/>
             <note type="description" xml:lang="de">
-              <p>Wekmeister in Bischofszell <note type="editorial">1502</note>, Bürger von St. Gallen</p>
+              <p>Wekmeister in Bischofszell (1502), Bürger von St. Gallen</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1112">
@@ -14733,7 +14746,7 @@
             <persName type="sort" xml:lang="de">bils, gallus</persName>
             <birth when="1506-06-21"/>
             <note type="description" xml:lang="de">
-              <p>Schulmeister in Wangen <note type="editorial">1506</note></p>
+              <p>Schulmeister in Wangen (1506)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1115">
@@ -14742,7 +14755,7 @@
             <persName type="sort" xml:lang="de">meggen, werner</persName>
             <birth when="1507-06-18"/>
             <note type="description" xml:lang="de">
-              <p>Landvogt in Baden <note type="editorial">1507</note>, Wohn/Herkunftsort: Luzern</p>
+              <p>Landvogt in Baden (1507), Wohn/Herkunftsort: Luzern</p>
             </note>
             <listBibl>
               <bibl>
@@ -14778,7 +14791,7 @@
             <persName type="alternative" xml:lang="de">fürst Philip</persName>
             <birth when="1649-10-10"/>
             <note type="description" xml:lang="de">
-              <p>Bruder von <div type="a">Karl I. Ludwig</div></p>
+              <p>Bruder von <ref target="/actors/788">Karl I. Ludwig</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -14808,7 +14821,7 @@
             <persName type="alternative" xml:lang="de">Christoph-Wilhelm Heimio von Hanauw</persName>
             <birth when="1649-10-10"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: Heimio, Pfarrer der Kirche in Heidelberg <note type="editorial">1649</note></p>
+              <p>Zuname: Heimio, Pfarrer der Kirche in Heidelberg (1649)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1119">
@@ -14824,7 +14837,7 @@
             <persName type="alternative" xml:lang="de">Wolgang Mayer</persName>
             <birth when="1649-12-01"/>
             <note type="description" xml:lang="de">
-              <p>Domprediger in Basel <note type="editorial">1649</note></p>
+              <p>Domprediger in Basel (1649)</p>
             </note>
             <listBibl>
               <bibl>
@@ -14866,7 +14879,7 @@
             <persName type="alternative" xml:lang="de">Henrico der achte</persName>
             <birth when="1649-12-01"/>
             <note type="description" xml:lang="de">
-              <p>König von England <note type="editorial">1509-1547</note></p>
+              <p>König von England (1509-1547)</p>
             </note>
             <listBibl>
               <bibl>
@@ -14913,7 +14926,7 @@
             <persName type="sort" xml:lang="de">karl i. (england)</persName>
             <birth when="1649-12-01"/>
             <note type="description" xml:lang="de">
-              <p>König von England <note type="editorial">1625-1649</note></p>
+              <p>König von England (1625-1649)</p>
             </note>
             <listBibl>
               <bibl>
@@ -14972,7 +14985,7 @@
             <persName type="sort" xml:lang="de">mangolt, nn (ii)</persName>
             <birth when="1508-03-05"/>
             <note type="description" xml:lang="de">
-              <p>männlich, Doktor <note type="editorial">1508</note></p>
+              <p>männlich, Doktor (1508)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1126">
@@ -14981,16 +14994,16 @@
             <persName type="sort" xml:lang="de">welter, ludwig</persName>
             <birth when="1508-03-05"/>
             <note type="description" xml:lang="de">
-              <p>Vogt in <div type="a">Güttingen</div> <note type="editorial">1508</note>, Vetter von <div type="a">Riff, Erasmus</div>, Schwager von <div type="a">Wiler, Hans</div></p>
+              <p>Vogt in <ref target="/places/377/">Güttingen</ref> (1508), Vetter von <ref target="/actors/1084/">Riff, Erasmus</ref>, Schwager von <ref target="/actors/1127/">Wiler, Hans</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1127">
-            <persName type="full" xml:lang="de">Wiler, Hans (1508–)</persName>
-            <persName type="main" xml:lang="de">Wiler, Hans</persName>
-            <persName type="sort" xml:lang="de">wiler, hans</persName>
+            <persName type="full" xml:lang="de">Wiler, Hans von (1508–)</persName>
+            <persName type="main" xml:lang="de">Wiler, Hans von</persName>
+            <persName type="sort" xml:lang="de">wiler, hans von</persName>
             <birth when="1508-03-05"/>
             <note type="description" xml:lang="de">
-              <p>Schwager von <div type="a">Welter, Ludwig</div>, Zuname: zu Wiler</p>
+              <p>Schwager von <ref target="/actors/1126/">Welter, Ludwig</ref>, Zuname: zu Wiler</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1128">
@@ -15000,7 +15013,7 @@
             <persName type="alternative" xml:lang="de">Sebastian vom Stein</persName>
             <birth when="1520-09-05"/>
             <note type="description" xml:lang="de">
-              <p>Landvogt in Baden, Ritter</p>
+              <p>Landvogt in Baden, Ritter (1520)</p>
             </note>
             <listBibl>
               <bibl>
@@ -15066,7 +15079,7 @@
             <persName type="alternative" xml:lang="de">her apts von sannt Gallen</persName>
             <birth when="1520-07-17"/>
             <note type="description" xml:lang="de">
-              <p>Abt des Kloster St. Gallens <note type="editorial">1504-1529</note></p>
+              <p>Abt des Kloster St. Gallens (1504-1529)</p>
             </note>
             <listBibl>
               <bibl>
@@ -15117,7 +15130,7 @@
             <persName type="sort" xml:lang="de">flachsner, bernhard</persName>
             <birth when="1518-05-23"/>
             <note type="description" xml:lang="de">
-              <p>Zuname: Ani, Bürger von St. Gallen</p>
+              <p>genannt Ani, Bürger von St. Gallen</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1134">
@@ -15126,7 +15139,7 @@
             <persName type="sort" xml:lang="de">landau, hans von</persName>
             <birth when="1510-04-01"/>
             <note type="description" xml:lang="de">
-              <p>Ritter <note type="editorial">1510</note>, Reichsschatzmeister <note type="editorial">1510</note>, Schwager von <div type="a">Altmannshofen, Moritz von</div></p>
+              <p>Ritter (1510), Reichsschatzmeister (1510), Schwager von <ref target="/actors/1141/">Altmannshofen, Moritz von</ref></p>
             </note>
             <listBibl>
               <bibl>
@@ -15155,7 +15168,7 @@
             <persName type="sort" xml:lang="de">pfalz, philipp</persName>
             <birth when="1508-03-05"/>
             <note type="description" xml:lang="de">
-              <p>Pfalzgraf bei Rhein <note type="editorial">1508</note>, Herzog in Bayern <note type="editorial">1508</note>, verstorben <note type="editorial">1508</note></p>
+              <p>Pfalzgraf bei Rhein (1508), Herzog in Bayern (1508), verstorben (1508)</p>
             </note>
             <listBibl>
               <bibl>
@@ -15193,7 +15206,7 @@
             <persName type="sort" xml:lang="de">grand sandrin</persName>
             <birth when="1508-09-25"/>
             <note type="description" xml:lang="de">
-              <p>männlich, Grand Sandrin ist wohl ein Übername, Münzer <note type="editorial">1508</note>, Wohn/Herkunftsort: <div type="a">Brabant</div>, <div type="a">Hennegau</div>, <div type="a">Strassburg</div></p>
+              <p>männlich, Grand Sandrin ist wohl ein Übername, Münzer (1508), Wohn/Herkunftsort: <ref target="/places/380/">Brabant</ref>, <ref target="/places/387/">Hennegau</ref>, <ref target="/places/112/">Strassburg</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1137">
@@ -15202,7 +15215,7 @@
             <persName type="sort" xml:lang="de">pernet, johann darrax</persName>
             <birth when="1508-09-25"/>
             <note type="description" xml:lang="de">
-              <p>Wohn/Herkunftsort: <div type="a">Gex</div>, Ehemann von <div type="a">Pernet, Johanna</div></p>
+              <p>Wohn/Herkunftsort: <ref target="/places/381/">Gex</ref>, Ehemann von <ref target="/actors/1138/">Pernet, Johanna</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1138">
@@ -15211,7 +15224,7 @@
             <persName type="sort" xml:lang="de">pernet, johanna</persName>
             <birth when="1508-09-25"/>
             <note type="description" xml:lang="de">
-              <p>Wohn/Herkunftsort: <div type="a">Gex</div>, Ehefrau von <div type="a">Pernet, Johann Darrax</div></p>
+              <p>Wohn/Herkunftsort: <ref target="/places/381/">Gex</ref>, Ehefrau von <ref target="/actors/1137/">Pernet, Johann Darrax</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1139">
@@ -15220,7 +15233,7 @@
             <persName type="sort" xml:lang="de">alexander vi.</persName>
             <birth when="1510-04-01"/>
             <note type="description" xml:lang="de">
-              <p>Papst, verstorben <note type="editorial">1503</note></p>
+              <p>Papst, verstorben (1503)</p>
             </note>
             <listBibl>
               <bibl>
@@ -15270,7 +15283,7 @@
             <persName type="sort" xml:lang="de">peraudi, raimund</persName>
             <birth when="1510-04-01"/>
             <note type="description" xml:lang="de">
-              <p>Kardinal, verstorben <note type="editorial">1505</note></p>
+              <p>Kardinal, verstorben (1505)</p>
             </note>
             <listBibl>
               <bibl>
@@ -15332,7 +15345,7 @@
             <persName type="sort" xml:lang="de">altmannshofen, moritz von</persName>
             <birth when="1510-04-01"/>
             <note type="description" xml:lang="de">
-              <p>Schwager von <div type="a">Landau, Hans von</div></p>
+              <p>Schwager von <ref target="/actors/1134/">Landau, Hans von</ref></p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1142">
@@ -15341,7 +15354,7 @@
             <persName type="sort" xml:lang="de">hegenwald, urban</persName>
             <birth when="1513-04-26"/>
             <note type="description" xml:lang="de">
-              <p>Münzer <note type="editorial">1513</note></p>
+              <p>Münzer (1513)</p>
             </note>
           </person>
           <person xml:id="stadtasg-actors-1143">
@@ -15351,7 +15364,7 @@
             <persName type="alternative" xml:lang="de">bapst</persName>
             <birth when="1509-06-01"/>
             <note type="description" xml:lang="de">
-              <p>Papst <note type="editorial">1503-1513</note></p>
+              <p>Papst (1503-1513)</p>
             </note>
             <listBibl>
               <bibl>
@@ -15550,8 +15563,6 @@
             <orgName type="alternative" xml:lang="de">Burgermaister und rate zuo Wanngen (1453-03-11)</orgName>
             <orgName type="alternative" xml:lang="de">Burgermaister und raete zuo Wanngen (1453-07-30)</orgName>
             <orgName type="alternative" xml:lang="de">Burgermaister und rate zuo Wanngen. (1453-08-28)</orgName>
-            <orgName type="alternative" xml:lang="de">Burgermai</orgName>
-            <orgName type="abbreviation"/>
             <event type="start" when="1452-05-12">
               <p/>
             </event>
@@ -15597,8 +15608,6 @@
             <orgName type="alternative" xml:lang="de">Bürgermeister und Rat zu St. Gallen (1418-10-15)</orgName>
             <orgName type="alternative" xml:lang="de">Bürgermeister und Rat zu St. Gallen (1418-11-24)</orgName>
             <orgName type="alternative" xml:lang="de">Bürgermeister und Rat zu St. Gallen (1421-02-08)</orgName>
-            <orgName type="alternative" xml:lang="de">Bürge</orgName>
-            <orgName type="abbreviation"/>
             <event type="start" when="1426-07-03">
               <p/>
             </event>
@@ -16151,7 +16160,7 @@
               <p/>
             </event>
             <note type="description" xml:lang="de">
-              <p>Organisationstyp: Rat <note type="editorial">allgemein</note></p>
+              <p>Organisationstyp: Rat (allgemein)</p>
             </note>
             <listBibl>
               <bibl>
@@ -16225,7 +16234,7 @@
               <p/>
             </event>
             <note type="description" xml:lang="de">
-              <p>Organisationstyp: Rat <note type="editorial">allgemein</note></p>
+              <p>Organisationstyp: Rat (allgemein)</p>
             </note>
             <listBibl>
               <bibl>
@@ -16302,7 +16311,7 @@
               <p/>
             </event>
             <note type="description" xml:lang="de">
-              <p>Organisationstyp: Bund <note type="editorial">CH</note></p>
+              <p>Organisationstyp: Bund (CH)</p>
             </note>
             <listBibl>
               <bibl>
@@ -16417,7 +16426,7 @@
               <p/>
             </event>
             <note type="description" xml:lang="de">
-              <p>Organisationstyp: Rat <note type="editorial">allgemein</note></p>
+              <p>Organisationstyp: Rat (allgemein)</p>
             </note>
             <listBibl>
               <bibl>
@@ -16517,7 +16526,7 @@
               <p/>
             </event>
             <note type="description" xml:lang="de">
-              <p>Organisationstyp: Rat <note type="editorial">allgemein</note></p>
+              <p>Organisationstyp: Rat (allgemein)</p>
             </note>
             <listBibl>
               <bibl>
@@ -16651,7 +16660,7 @@
               <p/>
             </event>
             <note type="description" xml:lang="de">
-              <p>Organisationstyp: Bund <note type="editorial">CH</note></p>
+              <p>Organisationstyp: Bund (CH)</p>
             </note>
             <listBibl>
               <bibl>
@@ -16824,7 +16833,7 @@
               <p/>
             </event>
             <note type="description" xml:lang="de">
-              <p>Organisationstyp: Bund <note type="editorial">CH</note></p>
+              <p>Organisationstyp: Bund (CH)</p>
             </note>
             <listBibl>
               <bibl>
@@ -17109,7 +17118,7 @@
               <p/>
             </event>
             <note type="description" xml:lang="de">
-              <p>Organisationstyp: Bund <note type="editorial">CH</note></p>
+              <p>Organisationstyp: Bund (CH)</p>
             </note>
           </org>
           <org xml:id="stadtasg-actors-1124">
@@ -17120,7 +17129,7 @@
               <p/>
             </event>
             <note type="description" xml:lang="de">
-              <p>Organisationstyp: Bund <note type="editorial">CH</note></p>
+              <p>Organisationstyp: Bund (CH)</p>
             </note>
           </org>
           <org xml:id="stadtasg-actors-1130">
@@ -17131,14 +17140,14 @@
               <p/>
             </event>
             <note type="description" xml:lang="de">
-              <p>Organisationstyp: Bund <note type="editorial">CH</note></p>
+              <p>Organisationstyp: Bund (CH)</p>
             </note>
           </org>
         </listOrg>
       </particDesc>
     </profileDesc>
     <revisionDesc>
-      <change when="2025-08-12T11:06:18+02:00">teiHeader was automatically produced from the database 2025-08-12T11:06:18+02:00</change>
+      <change when="2025-08-12T16:06:45+02:00">teiHeader was automatically produced from the database 2025-08-12T16:06:45+02:00</change>
     </revisionDesc>
   </teiHeader>
   <text>
