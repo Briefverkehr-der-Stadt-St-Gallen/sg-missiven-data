@@ -18,7 +18,7 @@ Juni: Seekrieg auf dem Bodensee.
 [[Missive Nr. 3850](https://missiven.stadtarchiv.ch/data/stasg_missiv_03850.xml)]
 
 Mai: Reglementierung und Zölle oder freie Hand der Wirtschaft.
-[[PDF](resources/pdfs/Sonderegger_Reglementierung_und_Zölle_02-05-2025.pdf)]
+[[PDF](resources/pdfs/Sonderegger_Reglementierung_und_Zoelle_02-05-2025.pdf)]
 [[Missive Nr. 96](https://missiven.stadtarchiv.ch/data/stasg_missiv_00096.xml)]
 
 April: Steigende Schulden als Phänomen der bargeldlosen Moderne?
