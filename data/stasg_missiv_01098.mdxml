@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1098</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1098_3497/3500</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Landammann und heimlicher Rat zu Appenzell erkundigen sich bei Bürgermeister und Rat zu St. Gallen, ob sie Kenntnis hätten von einer Hochzeit zweier Personen, die angegeben haben, aus Speicher zu stammen und in St. Gallen zur Kirche gegangen seien. Es bestehen Zweifel daran, dass die Angaben stimmen. Sie könnten auch von einer anderen Rode stammen. Sie bitten die St. Galler, bei ihren Prädikanten Erkundigungen anzustellen, welche Personen aus dem Land Appenzell sich in den letzten drei bis vier Wochen in St. Gallen vermählt hätten. Sie bitten um schriftliche Antwort.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Hochzeit</term>
+<term ref="stadtasg-keywords-320">Kirche</term>
+<term ref="stadtasg-keywords-602">Predikant</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+<term ref="stadtasg-keywords-321">Schriftlich</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Landammann und Rat zu Appenzell</persName>                    <date>1578-02-21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1098
+<lb n="2" />signatur: StadtASG Missive_1098_3497/3500
+<lb n="3" />absender: ["Landammann und Rat zu Appenzell"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1578-02-21
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Hochzeit", "Kirche", "Predikant", "Antwort", "Schriftlich"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Landammann und heimlicher Rat zu Appenzell erkundigen sich bei Bürgermeister und Rat zu St. Gallen, ob sie Kenntnis hätten von einer Hochzeit zweier Personen, die angegeben haben, aus Speicher zu stammen und in St. Gallen zur Kirche gegangen seien. Es bestehen Zweifel daran, dass die Angaben stimmen. Sie könnten auch von einer anderen Rode stammen. Sie bitten die St. Galler, bei ihren Prädikanten Erkundigungen anzustellen, welche Personen aus dem Land Appenzell sich in den letzten drei bis vier Wochen in St. Gallen vermählt hätten. Sie bitten um schriftliche Antwort.
+<lb n="11" />kommentar: >
+<lb n="12" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

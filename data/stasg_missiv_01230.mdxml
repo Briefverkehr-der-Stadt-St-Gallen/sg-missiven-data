@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1230</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1230_4085/4088</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Landammann und Rat zu Appenzell informieren Bürgermeister und Rat zu St. Gallen über die schändlich, lasterhaften Reden von Melchior Glinz und Paly Jakob, Bürger zu St. Gallen, in Urnäsch und bitten die St. Galler, in dieser Sache zu handeln, bevor sie selbst dagegen vorgehen werden.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-327">Waffe</term>
+<term ref="stadtasg-keywords-366">Religion</term>
+<term ref="stadtasg-keywords-115">Kloster</term>
+<term>Glaube</term>
+<term ref="stadtasg-keywords-320">Kirche</term>
+<term ref="stadtasg-keywords-104">Landmann</term>
+<term ref="stadtasg-keywords-646">Katholisch</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-213">Unruhe</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Landammann und Rat zu Appenzell</persName>                    <date>1588-05-25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>am/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1230
+<lb n="2" />signatur: StadtASG Missive_1230_4085/4088
+<lb n="3" />absender: ["Landammann und Rat zu Appenzell"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1588-05-25
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Waffe", "Religion", "Kloster", "Glaube", "Kirche",  "Landmann", "Katholisch", "Konflikt", "Unruhe"]
+<lb n="9" />kopfregest: |
+<lb n="10" />  Landammann und Rat zu Appenzell informieren Bürgermeister und Rat zu St. Gallen über die schändlich, lasterhaften Reden von Melchior Glinz und Paly Jakob, Bürger zu St. Gallen, in Urnäsch und bitten die St. Galler, in dieser Sache zu handeln, bevor sie selbst dagegen vorgehen werden.
+<lb n="11" />kommentar: >
+<lb n="12" />approved_by: am/so
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1419-suppl-01</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. [1419](/data/stasg_missiv_01419.xml). Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_1419_5037/5040</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die Gerber Johannes Aisslinger und Wolfgang Vischer, Bürger zu Nördlingen, schreiben Bürgermeister und Rat zu Nördlingen und bitten darum, dass sie sie in ihren Schuldforderungen an die St. Galler Bürger und Kaufleute Jakob und Daniel Reuscher mit einem Schreiben an Bürgermeister und Rat zu St. Gallen unterstützen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-603">Supplikation</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-222">Darlehen</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-351">Handwerk</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Johannes Aisslinger und Wolfgang Vischer</persName>                    <date>1602-11-24</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-903">Bürgermeister und Rat zu Nördlingen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1419-suppl-01
+<lb n="2" />signatur: StadtASG Missive_1419_5037/5040
+<lb n="3" />absender: ["Johannes Aisslinger und Wolfgang Vischer"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1602-11-24
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu Nördlingen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Schulden", "Schuldforderung", "Supplikation", "Unterstützung", "Darlehen", "Beilage", "Handwerk"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Die Gerber Johannes Aisslinger und Wolfgang Vischer, Bürger zu Nördlingen, schreiben Bürgermeister und Rat zu Nördlingen und bitten darum, dass sie sie in ihren Schuldforderungen an die St. Galler Bürger und Kaufleute Jakob und Daniel Reuscher mit einem Schreiben an Bürgermeister und Rat zu St. Gallen unterstützen.  
+<lb n="11" />kommentar: > 
+<lb n="12" />    Beilage zur Missive Nr. <ref target="/data/stasg_missiv_01419.xml">1419</ref>. Die Transkription wurde zurückgestellt.
+<lb n="13" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

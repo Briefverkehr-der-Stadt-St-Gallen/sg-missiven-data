@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1234</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zu Jakob Leutpold siehe den Eintrag vom 22. Juli 1588 im Malefizprotokoll im Stadtarchiv St. Gallen.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1234_4107/4110</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Verwalter und Amtleute der Landvogtei Schwaben informieren Bürgermeister und Rat zu St. Gallen, dass in der Verwaltung der Landvogtei Schwaben in Altdorf Georg Frei, genannt Schepperlin, von Waldsee, aber von Ziegelbach gebürtig, gefangen genommen wurde. Frei habe gestanden, dass er letzten Frühling zusammen mit Jakob und Hans N., die sich von Bern nannten, unweit des Dorfes Wollmatingen eine Frau, die im benachbarten Allensbach Fleisch einkaufen wollte, erschlagen und 20 Batzen und einen Silberbecher gestohlen. Den Becher hätten sie für drei Gulden einem Juden in Emmishofen bei Konstanz verkauft und den Gewinn untereinander geteilt. Da Frei angab, dass einer seiner Mitgesellen in St. Gallen gefangen genommen und mit dem Rad hingerichtet worden sei, bitten sie um die Zustellung seines Geständnisses mit dem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-23">Mord</term>
+<term ref="stadtasg-keywords-106">Diebstahl</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-171">Silber</term>
+<term ref="stadtasg-keywords-167">Verkauf</term>
+<term ref="stadtasg-keywords-623">Dorf</term>
+<term ref="stadtasg-keywords-319">Landvogt</term>
+<term ref="stadtasg-keywords-46">Gefangennahme</term>
+<term ref="stadtasg-keywords-622">Fleischkauf</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Verwalter und Landleute zu Schwaben</persName><placeName>Altdorf <!-- Landvogtei, nördlich Ravensburg --></placeName>                    <date>1588-09-26</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>am/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1234
+<lb n="2" />signatur: StadtASG Missive_1234_4107/4110
+<lb n="3" />absender: ["Verwalter und Landleute zu Schwaben"]
+<lb n="4" />ausstellungsort: ["Altdorf <!-- Landvogtei, nördlich Ravensburg -->"]
+<lb n="5" />ausstellungsdatum: 1588-09-26
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Gericht", "Mord", "Diebstahl", "Bote", "Silber", "Verkauf", "Dorf", "Landvogt", "Gefangennahme", "Fleischkauf"]
+<lb n="9" />kopfregest: |
+<lb n="10" />  Verwalter und Amtleute der Landvogtei Schwaben informieren Bürgermeister und Rat zu St. Gallen, dass in der Verwaltung der Landvogtei Schwaben in Altdorf Georg Frei, genannt Schepperlin, von Waldsee, aber von Ziegelbach gebürtig, gefangen genommen wurde. Frei habe gestanden, dass er letzten Frühling zusammen mit Jakob und Hans N., die sich von Bern nannten, unweit des Dorfes Wollmatingen eine Frau, die im benachbarten Allensbach Fleisch einkaufen wollte, erschlagen und 20 Batzen und einen Silberbecher gestohlen. Den Becher hätten sie für drei Gulden einem Juden in Emmishofen bei Konstanz verkauft und den Gewinn untereinander geteilt. Da Frei angab, dass einer seiner Mitgesellen in St. Gallen gefangen genommen und mit dem Rad hingerichtet worden sei, bitten sie um die Zustellung seines Geständnisses mit dem Boten. 
+<lb n="11" />kommentar: >
+<lb n="12" />  Zu Jakob Leutpold siehe den Eintrag vom 22. Juli 1588 im Malefizprotokoll im Stadtarchiv St. Gallen.
+<lb n="13" />approved_by: am/so
+</p>
+        </body>
+    </text>
+</TEI>

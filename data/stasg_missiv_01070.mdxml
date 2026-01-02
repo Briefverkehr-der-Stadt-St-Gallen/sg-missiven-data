@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1070</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1070_3359/3362</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Jean de Bellièvre, französischer Gesandter in Solothurn, informiert die Dreizehn Orte der Eidgenossenschaft über den kürzlich erfolgten Friedensschluss im fünften Religionskrieg mit dem Edikt von Beaulieu vom 6. Mai 1576. Dieses Edikt wurde am 8. Mai durch das Pariser Parlament, dem höchsten königlichen Gericht, registriert und einen Tag später öffentlich publiziert.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language><language ident='fra'>Französisch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term>Friede</term>
+<term ref="stadtasg-keywords-470">Religionskrieg</term>
+<term ref="stadtasg-keywords-653">Hugenotten</term>
+<term ref="stadtasg-keywords-323">Junker</term>
+<term ref="stadtasg-keywords-290">Verkündigung</term>
+<term>Eidgenossenschaft</term>
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-277">Herzog</term>
+<term ref="stadtasg-keywords-630">Bruder</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Jean de Bellièvre, sieur de Hautefort</persName><placeName ref="stadtasg-places-49">Solothurn</placeName>                    <date>1676-05-19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName>Dreizehn Orte der Eidgenossenschaft</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1070
+<lb n="2" />signatur: StadtASG Missive_1070_3359/3362
+<lb n="3" />absender: ["Jean de Bellièvre, sieur de Hautefort"]
+<lb n="4" />ausstellungsort: ["Solothurn"]
+<lb n="5" />ausstellungsdatum: 1676-05-19
+<lb n="6" />empfaenger: ["Dreizehn Orte der Eidgenossenschaft"]
+<lb n="7" />sprachen: ["Deutsch", "Französisch"]
+<lb n="8" />schlagworte: ["Friede", "Religionskrieg", "Hugenotten", "Junker", "Verkündigung", "Eidgenossenschaft", "König", "Majestät", "Herzog", "Bruder"]
+<lb n="9" />kopfregest: |
+<lb n="10" />  Jean de Bellièvre, französischer Gesandter in Solothurn, informiert die Dreizehn Orte der Eidgenossenschaft über den kürzlich erfolgten Friedensschluss im fünften Religionskrieg mit dem Edikt von Beaulieu vom 6. Mai 1576. Dieses Edikt wurde am 8. Mai durch das Pariser Parlament, dem höchsten königlichen Gericht, registriert und einen Tag später öffentlich publiziert.
+<lb n="11" />kommentar: >
+<lb n="12" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

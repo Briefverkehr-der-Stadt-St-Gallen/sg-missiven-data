@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1243</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnte Beilage ist vorhanden.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1243_4149/4156</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_1243_4149/4156</idno><altIdentifier type="filename"><idno>stasg_missiv_01243-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc>            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich schreiben an Bürgermeister und Rat zu St. Gallen, dass sie ja von ihren Gesandten informiert seien, was an der letzten Tagsatzung betreffend die kriegerischen Auseinandersetzungen mit dem Herzog von Savoyen beratschlagt und diesem mitgeteilt wurde. Nun sei eine Antwort vom Herzog eingetroffen, von der sie den St. Gallern eine deutsche Übersetzung als Beilage zukommen lassen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-275">Fürst</term>
+<term ref="stadtasg-keywords-277">Herzog</term>
+<term ref="stadtasg-keywords-12">Gesandter</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+<term>Eidgenossenschaft</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1589-02-19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>am/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1243
+<lb n="2" />signatur: StadtASG Missive_1243_4149/4156
+<lb n="3" />absender: ["Bürgermeister und Rat zu Zürich"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1589-02-19
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Tagsatzung", "Beilage", "Fürst", "Herzog", "Gesandter", "Antwort", "Eidgenossenschaft"]
+<lb n="9" />kopfregest: |
+<lb n="10" />  Bürgermeister und Rat zu Zürich schreiben an Bürgermeister und Rat zu St. Gallen, dass sie ja von ihren Gesandten informiert seien, was an der letzten Tagsatzung betreffend die kriegerischen Auseinandersetzungen mit dem Herzog von Savoyen beratschlagt und diesem mitgeteilt wurde. Nun sei eine Antwort vom Herzog eingetroffen, von der sie den St. Gallern eine deutsche Übersetzung als Beilage zukommen lassen.
+<lb n="11" />kommentar: >
+<lb n="12" />  Die erwähnte Beilage ist vorhanden.
+<lb n="13" />approved_by: am/so
+</p>
+        </body>
+    </text>
+</TEI>

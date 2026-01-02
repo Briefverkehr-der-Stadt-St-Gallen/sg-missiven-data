@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1088-suppl-01</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. [1088](/data/stasg_missiv_01088.xml). Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_1088_3453/3456</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Konrad Unger schreibt Bürgermeister und Rat zu Nürnberg und erklärt seine Position im Rechtsstreit zwischen der Witwe des Barthlome Steck und ihm. Die Schuldforderung aus St. Gallen ist ihm bekannt gewesen, da er von Georg Kinsecker, dem Anwalt der Witwe Steck, kontaktiert worden ist. Daraufhin habe er um einen Aufschub seiner Antwort gebeten, bis er von seiner Reise zurückgekehrt sei. Nun haben Bürgermeister und Rat zu St. Gallen während seiner Abwesenheit und entgegen der Abmachung die Initiative ergriffen und Bürgermeister und Rat zu Nürnberg geschrieben. Dadurch sei ihm, Konrad Unger, ein Reputationsschaden entstanden. Ausserdem gibt er an, dass er einen Teil der Schulden der Witwe Steck bei Konrad Göswein bezahlt hat. Dies wurde ihm aber nicht angerechnet.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-487">Bericht</term>
+<term ref="stadtasg-keywords-337">Zeugenaussage</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-156">Recht</term>
+<term ref="stadtasg-keywords-296">Stadtgericht</term>
+<term ref="stadtasg-keywords-314">Anwalt</term>
+<term ref="stadtasg-keywords-300">Schaden</term>
+<term ref="stadtasg-keywords-442">Leumund</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-177">Witwe</term>
+<term ref="stadtasg-keywords-24">Klage</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-222">Darlehen</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Konrad Unger</persName>                    <date>1577-10-16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-571">Bürgermeister und Rat zu Nürnberg</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1088-suppl-01
+<lb n="2" />signatur: StadtASG Missive_1088_3453/3456
+<lb n="3" />absender: ["Konrad Unger"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1577-10-16
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu Nürnberg"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Bericht", "Zeugenaussage", "Beilage", "Recht", "Stadtgericht", "Anwalt", "Schaden", "Leumund", "Konflikt", "Witwe", "Klage", "Schuldforderung", "Darlehen"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Konrad Unger schreibt Bürgermeister und Rat zu Nürnberg und erklärt seine Position im Rechtsstreit zwischen der Witwe des Barthlome Steck und ihm. Die Schuldforderung aus St. Gallen ist ihm bekannt gewesen, da er von Georg Kinsecker, dem Anwalt der Witwe Steck, kontaktiert worden ist. Daraufhin habe er um einen Aufschub seiner Antwort gebeten, bis er von seiner Reise zurückgekehrt sei. Nun haben Bürgermeister und Rat zu St. Gallen während seiner Abwesenheit und entgegen der Abmachung die Initiative ergriffen und Bürgermeister und Rat zu Nürnberg geschrieben. Dadurch sei ihm, Konrad Unger, ein Reputationsschaden entstanden. Ausserdem gibt er an, dass er einen Teil der Schulden der Witwe Steck bei Konrad Göswein bezahlt hat. Dies wurde ihm aber nicht angerechnet.
+<lb n="11" />kommentar: >
+<lb n="12" />    Beilage zur Missive Nr. <ref target="/data/stasg_missiv_01088.xml">1088</ref>. Die Transkription wurde zurückgestellt.
+<lb n="13" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

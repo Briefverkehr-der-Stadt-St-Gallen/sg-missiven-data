@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1057</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1057_3305/3308</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau informieren Bürgermeister und Rat zu St. Gallen über das Testament der Magdalena Varnbühler, die am 15. November in Lindau verstorben ist. Das Testament sei von Nikolaus Varnbühler, fürstlich württembergischer Rat und Ordinarius an der Universität Tübingen, und seiner Schwester Amalia Schirger eröffnet worden. Nikolaus Varnbühler habe der Obrigkeit erlaubt, die im Testament Bedachten zu informieren. Laut diesem werden auch die Kinder der verstorbenen St. Galler Bürgerin Agatha Reutlinger, Joachim, Johannes und Rachel Reutlinger, bedacht. Da sie nicht wissen, wer die Vormundschaft inne hat, bitten die Lindauer die St. Galler Obrigkeit, die Begünstigten darüber zu informieren und deren Einverständnis oder Einwände schriftlich mitzuteilen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-411">Testament</term>
+<term>Erbschaft</term>
+<term ref="stadtasg-keywords-263">Vogt</term>
+<term ref="stadtasg-keywords-270">Vormundschaft</term>
+<term ref="stadtasg-keywords-269">Kind</term>
+<term ref="stadtasg-keywords-436">Universität</term>
+<term ref="stadtasg-keywords-316">Obrigkeit</term>
+<term ref="stadtasg-keywords-168">Abschrift</term>
+<term ref="stadtasg-keywords-321">Schriftlich</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>                    <date>1575-11-28</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1057
+<lb n="2" />signatur: StadtASG Missive_1057_3305/3308
+<lb n="3" />absender: ["Bürgermeister und Rat zu Lindau"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1575-11-28
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Testament", "Erbschaft", "Vogt", "Vormundschaft", "Kind", "Universität", "Obrigkeit", "Abschrift", "Schriftlich", "Unterstützung"]
+<lb n="9" />kopfregest: |
+<lb n="10" />  Bürgermeister und Rat zu Lindau informieren Bürgermeister und Rat zu St. Gallen über das Testament der Magdalena Varnbühler, die am 15. November in Lindau verstorben ist. Das Testament sei von Nikolaus Varnbühler, fürstlich württembergischer Rat und Ordinarius an der Universität Tübingen, und seiner Schwester Amalia Schirger eröffnet worden. Nikolaus Varnbühler habe der Obrigkeit erlaubt, die im Testament Bedachten zu informieren. Laut diesem werden auch die Kinder der verstorbenen St. Galler Bürgerin Agatha Reutlinger, Joachim, Johannes und Rachel Reutlinger, bedacht. Da sie nicht wissen, wer die Vormundschaft inne hat, bitten die Lindauer die St. Galler Obrigkeit, die Begünstigten darüber zu informieren und deren Einverständnis oder Einwände schriftlich mitzuteilen.
+<lb n="11" />kommentar: >
+<lb n="12" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

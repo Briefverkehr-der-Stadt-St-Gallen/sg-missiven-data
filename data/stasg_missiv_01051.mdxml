@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1051</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. [1052](/data/stasg_missiv_01052.xml).</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1051_3281/3284</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Landammann und Rat zu Appenzell informieren Bürgermeister und Rat zu St. Gallen, dass an sie das Gerücht gelangt sei, dass einige ihrer Landsleute Fürkauf mit Butter treiben würden, was gegen die vereinbarten Satzungen und Ordnungen sei und allen schade. Die Appenzeller bitten die St. Galler, bei ihrem Waagmeister nachzufragen, welche ihrer Landsleute bei ihm grosse Mengen an Butter wägen lassen, und ihnen das schriftlich mitzuteilen. Damit sollen die Spekulation mit Butter unterbunden und die gültigen Ordnungen und Satzungen durchgesetzt werden.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-613">Fürkauf</term>
+<term ref="stadtasg-keywords-632">Butter</term>
+<term ref="stadtasg-keywords-142">Ordnung</term>
+<term ref="stadtasg-keywords-403">Wucher</term>
+<term ref="stadtasg-keywords-143">Markt</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-359">Meister</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-63">Gerücht</term>
+<term ref="stadtasg-keywords-91">Handel</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Landammann und Rat zu Appenzell</persName>                    <date>1575-07-21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1051
+<lb n="2" />signatur: StadtASG Missive_1051_3281/3284
+<lb n="3" />absender: ["Landammann und Rat zu Appenzell"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1575-07-21
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Fürkauf", "Butter", "Ordnung", "Wucher", "Markt", "Schriftliche Antwort", "Meister", "Unterstützung", "Gerücht", "Handel"]
+<lb n="9" />kopfregest: |
+<lb n="10" />  Landammann und Rat zu Appenzell informieren Bürgermeister und Rat zu St. Gallen, dass an sie das Gerücht gelangt sei, dass einige ihrer Landsleute Fürkauf mit Butter treiben würden, was gegen die vereinbarten Satzungen und Ordnungen sei und allen schade. Die Appenzeller bitten die St. Galler, bei ihrem Waagmeister nachzufragen, welche ihrer Landsleute bei ihm grosse Mengen an Butter wägen lassen, und ihnen das schriftlich mitzuteilen. Damit sollen die Spekulation mit Butter unterbunden und die gültigen Ordnungen und Satzungen durchgesetzt werden. 
+<lb n="11" />kommentar: >
+<lb n="12" />  Zur Sache siehe auch die Missive Nr. <ref target="/data/stasg_missiv_01052.xml">1052</ref>.
+<lb n="13" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

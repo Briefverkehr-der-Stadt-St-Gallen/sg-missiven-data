@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1286</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnte Kopie ist vorhanden.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1286_4363/4374</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_1286_4363/4374</idno><altIdentifier type="filename"><idno>stasg_missiv_01286-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc>            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich informieren Bürgermeister und Rat zu St. Gallen über unerlaubten Korn- und Getreidehandel, über die Konflikte Basels mit Untertanen, und über Konflikte in der Bürgerschaft Freiburgs wegen jüngst nach Frankreich gezogenen Hauptleuten. Es sei notwendig, eine Besprechung abzuhalten. Sie laden zu einer Tagsatzung in Baden ein, und bitten, am Sonntagabend, den 31. Oktober, in der Herberge einzutreffen. Der Missive ist eine Kopie der Berichterstattung des Glarner Hauptmanns Michael Bäldi aus Frankreich beigelegt.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-440">Korn</term>
+<term ref="stadtasg-keywords-144">Getreide</term>
+<term ref="stadtasg-keywords-474">Hauptmann</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term></term>
+<term ref="stadtasg-keywords-159">Stadtschreiber</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term>Eidgenossenschaft</term>
+<term ref="stadtasg-keywords-613">Fürkauf</term>
+<term ref="stadtasg-keywords-123">Untertan</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-620">Herberge</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1591-10-18</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>am/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1286
+<lb n="2" />signatur: StadtASG Missive_1286_4363/4374
+<lb n="3" />absender: ["Bürgermeister und Rat zu Zürich"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1591-10-18
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Korn", "Getreide", "Hauptmann", "Tagsatzung", "", "Stadtschreiber", "Beilage", "Eidgenossenschaft", "Fürkauf", "Untertan", "Konflikt", "Herberge", "Tagsatzung"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Bürgermeister und Rat zu Zürich informieren Bürgermeister und Rat zu St. Gallen über unerlaubten Korn- und Getreidehandel, über die Konflikte Basels mit Untertanen, und über Konflikte in der Bürgerschaft Freiburgs wegen jüngst nach Frankreich gezogenen Hauptleuten. Es sei notwendig, eine Besprechung abzuhalten. Sie laden zu einer Tagsatzung in Baden ein, und bitten, am Sonntagabend, den 31. Oktober, in der Herberge einzutreffen. Der Missive ist eine Kopie der Berichterstattung des Glarner Hauptmanns Michael Bäldi aus Frankreich beigelegt.
+<lb n="11" />kommentar: >
+<lb n="12" />    Die erwähnte Kopie ist vorhanden.
+<lb n="13" />approved_by: am/so
+</p>
+        </body>
+    </text>
+</TEI>

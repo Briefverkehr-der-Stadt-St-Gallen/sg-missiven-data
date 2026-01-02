@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1405</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Wohl Entwurf.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1405_4973/4976</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu St. Gallen schreiben Georg von Hallwyl, Bischof zu Konstanz, und gratulieren ihm zu seiner Wahl. Gleichzeitig bitten sie darum, dass sich der neuernannte Bischof für die Freilassung des St. Gallers Ludwig Kunz, Schwiegersohn des Altbürgermeisters Othmar Reiner, beim Nuntius in Luzern einsetzt. Kunz sitzt auf Anordnung der Inquisition in Mailand im Gefängnis.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-281">Entwurf</term>
+<term ref="stadtasg-keywords-414">Nuntius</term>
+<term ref="stadtasg-keywords-188">Bischof</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-19">Gefängnis</term>
+<term ref="stadtasg-keywords-233">Wahl</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                    <date>1601-02-26</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName>Johann Georg von Hallwyl, Bischof zu Konstanz</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1405
+<lb n="2" />signatur: StadtASG Missive_1405_4973/4976
+<lb n="3" />absender: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1601-02-26
+<lb n="6" />empfaenger: ["Johann Georg von Hallwyl, Bischof zu Konstanz"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Entwurf", "Nuntius", "Bischof", "Unterstützung", "Gefängnis", "Wahl"]
+<lb n="9" />kopfregest: |
+<lb n="10" />  Bürgermeister und Rat zu St. Gallen schreiben Georg von Hallwyl, Bischof zu Konstanz, und gratulieren ihm zu seiner Wahl. Gleichzeitig bitten sie darum, dass sich der neuernannte Bischof für die Freilassung des St. Gallers Ludwig Kunz, Schwiegersohn des Altbürgermeisters Othmar Reiner, beim Nuntius in Luzern einsetzt. Kunz sitzt auf Anordnung der Inquisition in Mailand im Gefängnis. 
+<lb n="11" />kommentar: >
+<lb n="12" />  Wohl Entwurf.
+<lb n="13" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

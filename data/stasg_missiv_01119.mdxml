@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1119</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. [1104](/data/stasg_missiv_01104.xml), [1113](/data/stasg_missiv_01113.xml), [1127](/data/stasg_missiv_01127.xml) und [1132](/data/stasg_missiv_01132.xml).</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1119_3601/3604</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich antworten Bürgermeister und Rat zu St. Gallen, dass sie ihre mitgeteilte Sorge in Bezug auf die kursierenden niederländischen Taler empfangen hätten. Im gleichen Schreiben nehmen sie Bezug auf die Schuldforderungen von Jakob Vogel von Altnau wegen einer Lehenmühle. Sie raten den St. Gallern, den Konflikt nicht weiter schriftlich auszutragen, sondern persönlich mit dem Landvogt im Thurgau Kontakt aufzunehmen, weil es dieses Hoheitsgebiet angehe und Konflikte traditionsgemäss im zuständigen Gebiet auszutragen seien. Die Zürcher sind zudem bei Bedarf bereit, ein Unterstützungsschreiben zu verfassen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-36">Münze</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-374">Mühle</term>
+<term ref="stadtasg-keywords-136">Lehen</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-418">Landgrafschaft</term>
+<term ref="stadtasg-keywords-319">Landvogt</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1579-09-28</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>NSch/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1119
+<lb n="2" />signatur: StadtASG Missive_1119_3601/3604
+<lb n="3" />absender: ["Bürgermeister und Rat zu Zürich"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1579-09-28
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Münze", "Schuldforderung", "Mühle", "Lehen", "Geld", "Landgrafschaft", "Landvogt", "Antwort", "Konflikt", "Unterstützung"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Bürgermeister und Rat zu Zürich antworten Bürgermeister und Rat zu St. Gallen, dass sie ihre mitgeteilte Sorge in Bezug auf die kursierenden niederländischen Taler empfangen hätten. Im gleichen Schreiben nehmen sie Bezug auf die Schuldforderungen von Jakob Vogel von Altnau wegen einer Lehenmühle. Sie raten den St. Gallern, den Konflikt nicht weiter schriftlich auszutragen, sondern persönlich mit dem Landvogt im Thurgau Kontakt aufzunehmen, weil es dieses Hoheitsgebiet angehe und Konflikte traditionsgemäss im zuständigen Gebiet auszutragen seien. Die Zürcher sind zudem bei Bedarf bereit, ein Unterstützungsschreiben zu verfassen.
+<lb n="11" />kommentar: >
+<lb n="12" />    Zur Sache siehe auch die Missiven Nrn. <ref target="/data/stasg_missiv_01104.xml">1104</ref>, <ref target="/data/stasg_missiv_01113.xml">1113</ref>, <ref target="/data/stasg_missiv_01127.xml">1127</ref> und <ref target="/data/stasg_missiv_01132.xml">1132</ref>.
+<lb n="13" />approved_by: NSch/so
+</p>
+        </body>
+    </text>
+</TEI>

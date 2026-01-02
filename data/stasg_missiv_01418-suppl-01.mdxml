@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1418-suppl-01</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. [1418](/data/stasg_missiv_01418.xml). Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_1418_5029/5032</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Jakob Mayer schreibt Bürgermeister und Rat zu Nürnberg und bittet darum, dass sie ihn in seinen Schuldforderungen an Ulrich Bader, Kaufmann in Hamburg, mit einem Schreiben an Bürgermeister und Rat zu St. Gallen unterstützen.</p>            </abstract>
+            <langUsage>
+                <language ident=''></language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-603">Supplikation</term>
+<term ref="stadtasg-keywords-222">Darlehen</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Jakob Mayer</persName>                    <date>1602-11-22</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-571">Bürgermeister und Rat zu Nürnberg</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1418-suppl-01
+<lb n="2" />signatur: StadtASG Missive_1418_5029/5032
+<lb n="3" />absender: ["Jakob Mayer"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1602-11-22
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu Nürnberg"]
+<lb n="7" />sprachen: [""]
+<lb n="8" />schlagworte: ["Schulden", "Schuldforderung", "Supplikation", "Darlehen", "Unterstützung"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Jakob Mayer schreibt Bürgermeister und Rat zu Nürnberg und bittet darum, dass sie ihn in seinen Schuldforderungen an Ulrich Bader, Kaufmann in Hamburg, mit einem Schreiben an Bürgermeister und Rat zu St. Gallen unterstützen.  
+<lb n="11" />kommentar: >
+<lb n="12" />   Beilage zur Missive Nr. <ref target="/data/stasg_missiv_01418.xml">1418</ref>. Die Transkription wurde zurückgestellt.
+<lb n="13" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

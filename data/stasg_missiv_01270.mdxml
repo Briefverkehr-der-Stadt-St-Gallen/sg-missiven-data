@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1270</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnte Beilage ist vorhanden. Zur Sache siehe auch die Missiven Nr. [1269](/data/stasg_missiv_01269.xml).</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1270_4281/4286</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_1270_4281/4286</idno><altIdentifier type="filename"><idno>stasg_missiv_01270-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc>            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich informieren Bürgermeister und Rat zu St. Gallen, dass die auf der Bleiche zu St. Gallen vom hingerichteten Jakob Balbierer aus dem Aostatalent entwendete Leinwand sowie die bereits daraus gefertigten Hemden bereits zurück gesandt worden seien. Beigelegt ist eine Aufzählung der Straftaten von Jakob Balbierer, die er gestanden hatte.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-258">Leinwand</term>
+<term ref="stadtasg-keywords-106">Diebstahl</term>
+<term ref="stadtasg-keywords-253">Todesstrafe</term>
+<term ref="stadtasg-keywords-367">Bleiche</term>
+<term>Bleichmeister</term>
+<term ref="stadtasg-keywords-351">Handwerk</term>
+<term ref="stadtasg-keywords-345">Zeiger</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1590-08-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>am/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1270
+<lb n="2" />signatur: StadtASG Missive_1270_4281/4286
+<lb n="3" />absender: ["Bürgermeister und Rat zu Zürich"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1590-08-01
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Leinwand", "Diebstahl", "Todesstrafe", "Bleiche", "Bleichmeister", "Handwerk", "Zeiger"]
+<lb n="9" />kopfregest: |
+<lb n="10" />  Bürgermeister und Rat zu Zürich informieren Bürgermeister und Rat zu St. Gallen, dass die auf der Bleiche zu St. Gallen vom hingerichteten Jakob Balbierer aus dem Aostatalent entwendete Leinwand sowie die bereits daraus gefertigten Hemden bereits zurück gesandt worden seien. Beigelegt ist eine Aufzählung der Straftaten von Jakob Balbierer, die er gestanden hatte.
+<lb n="11" />kommentar: > 
+<lb n="12" />  Die erwähnte Beilage ist vorhanden. Zur Sache siehe auch die Missiven Nr. <ref target="/data/stasg_missiv_01269.xml">1269</ref>.
+<lb n="13" />approved_by: am/so
+</p>
+        </body>
+    </text>
+</TEI>

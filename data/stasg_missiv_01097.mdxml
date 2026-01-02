@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1097</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1097_3493/3496</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Memmingen schreiben Bürgermeister und Rat zu St.Gallen im Namen von Memminger Bürgern aufgrund des verpassten Rechtstags betreffend die Schuldforderungen an Hug von Watt. Der Memminger Bote, der wöchentlich die Strecke Lindau Memmingen bedient, hat die schriftliche Einladung für den Rechtstag am selben Tag, wie der Gerichtstermin angesetzt war, gegen Mittag nach Memmingen gebracht. Nachdem sie diesen öffentlich verkündet haben, hat sich der Memminger Bürger Hans Walder mit Schuldforderungen an Hug von Watt gemeldet. Sie bitten nun um die frühzeitige Ansetzung und Mitteilung eines neuen Rechtstages, damit Walder oder sein Anwalt die Schuldforderungen vertreten kann. Im selben Brief wird auch der Memminger Bürger Britius Schwarz genannt, der gegenüber dem St. Galler Bürger Niklaus Metrisat Schuldforderungen hat. Auch in diesem Fall bitten sie um die frühzeitige Ansetzung und Mitteilung eines Rechtstages.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-149">Rechtstag</term>
+<term ref="stadtasg-keywords-486">Vorladung</term>
+<term ref="stadtasg-keywords-490">Gläubiger</term>
+<term>Schuldner</term>
+<term ref="stadtasg-keywords-406">Konkurs</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-314">Anwalt</term>
+<term>Unterstützung"</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-175">Sohn</term>
+<term ref="stadtasg-keywords-290">Verkündigung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-604">Bürgermeister und Rat zu Memmingen</orgName>                    <date>1578-01-30</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1097
+<lb n="2" />signatur: StadtASG Missive_1097_3493/3496
+<lb n="3" />absender: ["Bürgermeister und Rat zu Memmingen"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1578-01-30
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Rechtstag", "Vorladung", "Gläubiger", "Schuldner", "Konkurs", "Bote", "Anwalt", Unterstützung", "Schuldforderung", "Sohn", "Verkündigung"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Bürgermeister und Rat zu Memmingen schreiben Bürgermeister und Rat zu St.Gallen im Namen von Memminger Bürgern aufgrund des verpassten Rechtstags betreffend die Schuldforderungen an Hug von Watt. Der Memminger Bote, der wöchentlich die Strecke Lindau Memmingen bedient, hat die schriftliche Einladung für den Rechtstag am selben Tag, wie der Gerichtstermin angesetzt war, gegen Mittag nach Memmingen gebracht. Nachdem sie diesen öffentlich verkündet haben, hat sich der Memminger Bürger Hans Walder mit Schuldforderungen an Hug von Watt gemeldet. Sie bitten nun um die frühzeitige Ansetzung und Mitteilung eines neuen Rechtstages, damit Walder oder sein Anwalt die Schuldforderungen vertreten kann. Im selben Brief wird auch der Memminger Bürger Britius Schwarz genannt, der gegenüber dem St. Galler Bürger Niklaus Metrisat Schuldforderungen hat. Auch in diesem Fall bitten sie um die frühzeitige Ansetzung und Mitteilung eines Rechtstages.
+<lb n="11" />kommentar: >
+<lb n="12" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

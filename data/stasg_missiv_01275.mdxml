@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1275</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1275_4303/4306</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich informieren Bürgermeister und Rat zu St. Gallen über eine Einladung zur Tagsatzung nach Baden am 10. Januar 1591, bei der die Streitigkeiten zwischen Schwyz und Glarus über die gemeinsam regierte Vogtei Gaster sowie auch die Kriegsunruhen in der Nähe von Genf verhandelt werden sollen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-620">Herberge</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term>Unruhen</term>
+<term ref="stadtasg-keywords-627">Vogtei</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1590-12-17</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>am/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1275
+<lb n="2" />signatur: StadtASG Missive_1275_4303/4306
+<lb n="3" />absender: ["Bürgermeister und Rat zu Zürich"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1590-12-17
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Herberge", "Tagsatzung", "Krieg", "Unruhen", "Vogtei"]
+<lb n="9" />kopfregest: |
+<lb n="10" />  Bürgermeister und Rat zu Zürich informieren Bürgermeister und Rat zu St. Gallen über eine Einladung zur Tagsatzung nach Baden am 10. Januar 1591, bei der die Streitigkeiten zwischen Schwyz und Glarus über die gemeinsam regierte Vogtei Gaster sowie auch die Kriegsunruhen in der Nähe von Genf verhandelt werden sollen.
+<lb n="11" />kommentar: > 
+<lb n="12" />approved_by: am/so
+</p>
+        </body>
+    </text>
+</TEI>

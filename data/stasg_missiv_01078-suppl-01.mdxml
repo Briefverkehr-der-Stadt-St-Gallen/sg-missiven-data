@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1078-suppl-01</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. [1078](/data/stasg_missiv_01078.xml). Die Transkription wurde zurückgestellt. Zur Sache siehe auch die Missiven Nrn. [1078](/data/stasg_missiv_01078.xml), [1081](/data/stasg_missiv_01081.xml) und [1081–suppl–01](/data/stasg_missiv_01081-suppl-01.xml).</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_1078_3403/3406</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Martin Heckel, Goldschmied und Bürger zu Augsburg, schreibt an Bürgermeister und Rat zu Augsburg mit der Bitte um Unterstützung bei der Durchsetzung seiner Schuldforderung in St. Gallen. Dort hat Heckel 1575 dem St. Galler Bürger Melchior Huber ein Pferd zu 20 Gulden verkauft, die Huber im Folgejahr bezahlen wollte. Es wurden jedoch nur vier Gulden zurückerstattet und die übrigen 16 Gulden Schulden auf das Folgejahr erstreckt. Nun steht die Zahlung immer noch aus.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-603">Supplikation</term>
+<term ref="stadtasg-keywords-21">Rechtshilfe</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-163">Pferd</term>
+<term ref="stadtasg-keywords-545">Goldschmied</term>
+<term ref="stadtasg-keywords-351">Handwerk</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Martin Heckel, Goldschmied zu Augsburg</persName>                    <date>1577-02-05</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName>Bürgermeister und Rat zu Augsburg</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1078-suppl-01
+<lb n="2" />signatur: StadtASG Missive_1078_3403/3406
+<lb n="3" />absender: ["Martin Heckel, Goldschmied zu Augsburg"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1577-02-05
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu Augsburg"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Schulden", "Supplikation", "Rechtshilfe", "Schuldforderung", "Pferd", "Goldschmied", "Handwerk", "Unterstützung" ]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Martin Heckel, Goldschmied und Bürger zu Augsburg, schreibt an Bürgermeister und Rat zu Augsburg mit der Bitte um Unterstützung bei der Durchsetzung seiner Schuldforderung in St. Gallen. Dort hat Heckel 1575 dem St. Galler Bürger Melchior Huber ein Pferd zu 20 Gulden verkauft, die Huber im Folgejahr bezahlen wollte. Es wurden jedoch nur vier Gulden zurückerstattet und die übrigen 16 Gulden Schulden auf das Folgejahr erstreckt. Nun steht die Zahlung immer noch aus. 
+<lb n="11" />kommentar: >
+<lb n="12" />    Beilage zur Missive Nr. <ref target="/data/stasg_missiv_01078.xml">1078</ref>. Die Transkription wurde zurückgestellt. Zur Sache siehe auch die Missiven Nrn. <ref target="/data/stasg_missiv_01078.xml">1078</ref>, <ref target="/data/stasg_missiv_01081.xml">1081</ref> und <ref target="/data/stasg_missiv_01081-suppl-01.xml">1081–suppl–01</ref>.
+<lb n="13" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

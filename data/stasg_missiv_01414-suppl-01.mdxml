@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1414-suppl-01</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. [1414](/data/stasg_missiv_01414.xml). Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_1414_5009/5012</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Heinrich Tobler und Jakob Rietmann, Metzger zu St. Gallen, erklären sich vor Bürgermeister und Rat zu St. Gallen bezüglich des missglückten Verkaufs von Därmen an Hans Dilger aus Ulm.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-24">Klage</term>
+<term ref="stadtasg-keywords-146">Metzger</term>
+<term ref="stadtasg-keywords-318">Schuld</term>
+<term ref="stadtasg-keywords-284">Kauf</term>
+<term ref="stadtasg-keywords-337">Zeugenaussage</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Heinrich Tobler und Jakob Rietmann</persName>                    <date>1602-09-11</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1414-suppl-01
+<lb n="2" />signatur: StadtASG Missive_1414_5009/5012
+<lb n="3" />absender: ["Heinrich Tobler und Jakob Rietmann"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1602-09-11
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Klage", "Metzger", "Schuld", "Kauf", "Zeugenaussage", "Beilage"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Heinrich Tobler und Jakob Rietmann, Metzger zu St. Gallen, erklären sich vor Bürgermeister und Rat zu St. Gallen bezüglich des missglückten Verkaufs von Därmen an Hans Dilger aus Ulm. 
+<lb n="11" />    
+<lb n="12" />kommentar: >
+<lb n="13" />    Beilage zur Missive Nr. <ref target="/data/stasg_missiv_01414.xml">1414</ref>. Die Transkription wurde zurückgestellt.
+<lb n="14" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

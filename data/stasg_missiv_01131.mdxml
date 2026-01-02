@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1131</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1131_3653/3656</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Landammann und Rat zu Appenzell drücken Bürgermeister und Rat zu St. Gallen ihre Sorge darüber aus, dass nicht übliche Münzsorten im Umlauf seien. Dies richte grossen Schaden an und führe zu Armut. Sie bitten die St. Galler, bei ihren Bürgern darauf zu achten, dass nur landesübliche Münzen im Umflauf seien.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-36">Münze</term>
+<term ref="stadtasg-keywords-258">Leinwand</term>
+<term ref="stadtasg-keywords-317">Garn</term>
+<term ref="stadtasg-keywords-104">Landmann</term>
+<term ref="stadtasg-keywords-164">Tuch</term>
+<term ref="stadtasg-keywords-461">Armut</term>
+<term ref="stadtasg-keywords-189">Vieh</term>
+<term ref="stadtasg-keywords-91">Handel</term>
+<term ref="stadtasg-keywords-167">Verkauf</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Landammann und Rat zu Appenzell</persName>                    <date>1580-12-23</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>NSch/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1131
+<lb n="2" />signatur: StadtASG Missive_1131_3653/3656
+<lb n="3" />absender: ["Landammann und Rat zu Appenzell"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1580-12-23
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Münze", "Leinwand", "Garn", "Landmann", "Tuch", "Armut", "Vieh", "Handel", "Verkauf"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Landammann und Rat zu Appenzell drücken Bürgermeister und Rat zu St. Gallen ihre Sorge darüber aus, dass nicht übliche Münzsorten im Umlauf seien. Dies richte grossen Schaden an und führe zu Armut. Sie bitten die St. Galler, bei ihren Bürgern darauf zu achten, dass nur landesübliche Münzen im Umflauf seien.
+<lb n="11" />kommentar: >
+<lb n="12" />approved_by: NSch/so
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1088</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Pergament. Die Stellungnahmen von Konrad Unger und von Georg Kinsecker sind vorhanden.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1088_3461/3462</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_1088_3461/3462</idno><altIdentifier type="filename"><idno>stasg_missiv_01088-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc><msDesc n="2" type="supplement"><msIdentifier><idno>StadtASG Missive_1088_3461/3462</idno><altIdentifier type="filename"><idno>stasg_missiv_01088-suppl-02.xml</idno></altIdentifier></msIdentifier></msDesc>            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Nürnberg antworten Bürgermeister und Rat zu St. Gallen im Rechtsstreit um ein Darlehen von 2600 Gulden zwischen ihrem Bürger Konrad Unger und der Witwe des Barthlome Steck, Bürgerin von St. Gallen. Sie hätten das Schreiben aus St. Gallen erhalten und sowohl ihrem beklagten Bürger als auch Georg Kinsecker, Anwalt der Witwe Stecks, zur Stellungnahme vorgelegt. Sie hätten die unterschiedlichen Berichte erhalten. Sollte keine gütliche Einigung erzielt werden, sollen die Parteien vor das Stadtgericht zu Nürnberg geladen werden.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-487">Bericht</term>
+<term ref="stadtasg-keywords-337">Zeugenaussage</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-156">Recht</term>
+<term ref="stadtasg-keywords-296">Stadtgericht</term>
+<term ref="stadtasg-keywords-314">Anwalt</term>
+<term ref="stadtasg-keywords-21">Rechtshilfe</term>
+<term ref="stadtasg-keywords-177">Witwe</term>
+<term ref="stadtasg-keywords-24">Klage</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-222">Darlehen</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-571">Bürgermeister und Rat zu Nürnberg</orgName>                    <date>1577-10-16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1088
+<lb n="2" />signatur: StadtASG Missive_1088_3461/3462
+<lb n="3" />absender: ["Bürgermeister und Rat zu Nürnberg"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1577-10-16
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Bericht", "Zeugenaussage", "Beilage", "Recht", "Stadtgericht", "Anwalt", "Rechtshilfe", "Witwe", "Klage", "Konflikt", "Antwort", "Schuldforderung", "Darlehen"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Bürgermeister und Rat zu Nürnberg antworten Bürgermeister und Rat zu St. Gallen im Rechtsstreit um ein Darlehen von 2600 Gulden zwischen ihrem Bürger Konrad Unger und der Witwe des Barthlome Steck, Bürgerin von St. Gallen. Sie hätten das Schreiben aus St. Gallen erhalten und sowohl ihrem beklagten Bürger als auch Georg Kinsecker, Anwalt der Witwe Stecks, zur Stellungnahme vorgelegt. Sie hätten die unterschiedlichen Berichte erhalten. Sollte keine gütliche Einigung erzielt werden, sollen die Parteien vor das Stadtgericht zu Nürnberg geladen werden. 
+<lb n="11" />kommentar: >
+<lb n="12" />    Pergament. Die Stellungnahmen von Konrad Unger und von Georg Kinsecker sind vorhanden.
+<lb n="13" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

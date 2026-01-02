@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1401</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnte Beilage ist vorhanden.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1401_4951/4956</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_1401_4951/4956</idno><altIdentifier type="filename"><idno>stasg_missiv_01401-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc>            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich informieren Bürgermeister und Rat zu St. Gallen über die gegenreformatorischen Massnahmen in Mailand, die zu mancherlei Diskussionen an der Tagsatzung in Baden, aber auch zu Klagen der eidgenössischen Kauf- und Handelsleuten geführt haben. Mittels Intervention beim päpstlichen Nuntius in Luzern hat eine Delegation aus Zürich, Luzern und St. Gallen erreicht, dass dieser sich dafür einsetzt, die Massnahmen der sogenannten Inquisition in Mailand für die Eidgenossen abzuschwächen. So sollen evangelische Schweizer nicht mehr verpflichtet sein, sich beim Betreten von  Mailand bei der Inquisition anzumelden, noch sollen sie einen Passierschein benötigen. Es genügt, dass sie sich in ihrer Unterkunft bei ihrem Wirt korrekt anmelden. Beigelegt ist ein Notizzettel, auf dem die Namen der eidgenössischen Gesandten beim Nuntius aufgelistet sind.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-328">Eidgenössischer Abschied</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-91">Handel</term>
+<term ref="stadtasg-keywords-12">Gesandter</term>
+<term ref="stadtasg-keywords-74">Beschwerde</term>
+<term ref="stadtasg-keywords-180">Kaufmann</term>
+<term ref="stadtasg-keywords-414">Nuntius</term>
+<term ref="stadtasg-keywords-372">Papst</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term>Eidgenossenschaft</term>
+<term ref="stadtasg-keywords-547">Evangelisch</term>
+<term ref="stadtasg-keywords-123">Untertan</term>
+<term ref="stadtasg-keywords-366">Religion</term>
+<term ref="stadtasg-keywords-620">Herberge</term>
+<term ref="stadtasg-keywords-582">Wirt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1601-10-14</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1401
+<lb n="2" />signatur: StadtASG Missive_1401_4951/4956
+<lb n="3" />absender: ["Bürgermeister und Rat zu Zürich"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1601-10-14
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Eidgenössischer Abschied", "Tagsatzung", "Handel", "Gesandter", "Beschwerde", "Kaufmann", "Nuntius", "Papst", "Beilage", "Eidgenossenschaft", "Evangelisch", "Untertan", "Religion", "Herberge", "Wirt"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Bürgermeister und Rat zu Zürich informieren Bürgermeister und Rat zu St. Gallen über die gegenreformatorischen Massnahmen in Mailand, die zu mancherlei Diskussionen an der Tagsatzung in Baden, aber auch zu Klagen der eidgenössischen Kauf- und Handelsleuten geführt haben. Mittels Intervention beim päpstlichen Nuntius in Luzern hat eine Delegation aus Zürich, Luzern und St. Gallen erreicht, dass dieser sich dafür einsetzt, die Massnahmen der sogenannten Inquisition in Mailand für die Eidgenossen abzuschwächen. So sollen evangelische Schweizer nicht mehr verpflichtet sein, sich beim Betreten von  Mailand bei der Inquisition anzumelden, noch sollen sie einen Passierschein benötigen. Es genügt, dass sie sich in ihrer Unterkunft bei ihrem Wirt korrekt anmelden. Beigelegt ist ein Notizzettel, auf dem die Namen der eidgenössischen Gesandten beim Nuntius aufgelistet sind.
+<lb n="11" />kommentar: >
+<lb n="12" />    Die erwähnte Beilage ist vorhanden.
+<lb n="13" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

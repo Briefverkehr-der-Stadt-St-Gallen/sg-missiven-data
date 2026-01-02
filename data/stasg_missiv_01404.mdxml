@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1404</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Reformierte Gottesdienste wurden in der katholischen Kirche in Linthal von Fridolin Brunner, reformierter Pfarrer in Betschwanden, von 1543 bis 1556 gehalten. Da die katholischen Linthaler keinen Priester für ihre Gemeinde mehr finden konnten, hatten sie beschlossen, Pfarrer Brunner zu bitten, auch ihre Gemeinde zu betreuen. Brunners Nachfolger in Betschwanden, Matthias Bodmer, war weniger geschickt in seiner Äusserungen als sein Vorgänger und griff das katholische Glaubensbekenntnis an. Seine Bemerkungen lösten einen Protest aus, der zum Ende der friedlichen Benutzung der Kirche durch beide Konfessionsangehörige führte. Ab 1556 mussten die Reformierten wieder nach Betschwanden in die Predigt. Darum fragte die grössere reformierte Dorfgemeinschaft in Linthal 1595 bei der Tagsatzung an, ob man nicht auf dem Gebiet ihres Dorfes eine eigene Kirche bauen dürfe. Da Linthal durch den Landesvertrag vom 21. November 1532 dem katholischen Ritus zugewiesen worden war, wurde der Antrag abgewiesen. Um die eigene Kirche in der Nähe des Dorfes schliesslich doch noch bauen zu können, wurde im Jahr 1600 am anderen Linthufer, im Ennetlinth, auf dem Gebiet des Nachbardorfes Rüti eine reformierte Kirche errichtet. Zur Sache siehe auch die Missive Nr. [1415](/data/stasg_missiv_01415.xml).</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1404_4969/4972</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Landammann und Rat zu Glarus danken Bürgermeister und Rat zu St. Gallen für die finanzielle Unterstützung von zweihundert Silberkronen für den Bau der reformierten Kirche in Linthal.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-320">Kirche</term>
+<term ref="stadtasg-keywords-331">Bau</term>
+<term ref="stadtasg-keywords-602">Predikant</term>
+<term ref="stadtasg-keywords-366">Religion</term>
+<term ref="stadtasg-keywords-547">Evangelisch</term>
+<term ref="stadtasg-keywords-323">Junker</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Landammann und Rat zu Glarus</persName>                    <date>1601-12-10</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1404
+<lb n="2" />signatur: StadtASG Missive_1404_4969/4972
+<lb n="3" />absender: ["Landammann und Rat zu Glarus"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1601-12-10
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Kirche", "Bau", "Predikant", "Religion", "Evangelisch", "Junker"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Landammann und Rat zu Glarus danken Bürgermeister und Rat zu St. Gallen für die finanzielle Unterstützung von zweihundert Silberkronen für den Bau der reformierten Kirche in Linthal.  
+<lb n="11" />    
+<lb n="12" />kommentar: >
+<lb n="13" />    Reformierte Gottesdienste wurden in der katholischen Kirche in Linthal von Fridolin Brunner, reformierter Pfarrer in Betschwanden, von 1543 bis 1556 gehalten. Da die katholischen Linthaler keinen Priester für ihre Gemeinde mehr finden konnten, hatten sie beschlossen, Pfarrer Brunner zu bitten, auch ihre Gemeinde zu betreuen. Brunners Nachfolger in Betschwanden, Matthias Bodmer, war weniger geschickt in seiner Äusserungen als sein Vorgänger und griff das katholische Glaubensbekenntnis an. Seine Bemerkungen lösten einen Protest aus, der zum Ende der friedlichen Benutzung der Kirche durch beide Konfessionsangehörige führte. Ab 1556 mussten die Reformierten wieder nach Betschwanden in die Predigt. Darum fragte die grössere reformierte Dorfgemeinschaft in Linthal 1595 bei der Tagsatzung an, ob man nicht auf dem Gebiet ihres Dorfes eine eigene Kirche bauen dürfe. Da Linthal durch den Landesvertrag vom 21. November 1532 dem katholischen Ritus zugewiesen worden war, wurde der Antrag abgewiesen. Um die eigene Kirche in der Nähe des Dorfes schliesslich doch noch bauen zu können, wurde im Jahr 1600 am anderen Linthufer, im Ennetlinth, auf dem Gebiet des Nachbardorfes Rüti eine reformierte Kirche errichtet. Zur Sache siehe auch die Missive Nr. <ref target="/data/stasg_missiv_01415.xml">1415</ref>.
+<lb n="14" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

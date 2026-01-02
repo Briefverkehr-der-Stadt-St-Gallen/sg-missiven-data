@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1251</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1251_4189/4192</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Bern informieren Bürgermeister und Rat zu St. Gallen über die kriegerischen Unruhen. Die königlichen Truppen hätten ihren erklärten Feind, den Herzog von Savoyen, angegriffen und einige Ortschaften und Festen erobert, seien aber wieder nach Frankreich abgezogen. Der Herzog sei gestärkt zurückgekehrt, habe einiges zurückerobert, darunter das schlecht befestigte Schloss Ternier. 50 Soldaten hatten sich tapfer gewehrt, mussten aber schliesslich kapitulieren. Entgegen seinem Versprechen, ihr Leben zu schonen, liess der Herzog von Savoyen Todesstrafen vollziehen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-277">Herzog</term>
+<term>Soldat</term>
+<term ref="stadtasg-keywords-540">Schloss</term>
+<term ref="stadtasg-keywords-327">Waffe</term>
+<term ref="stadtasg-keywords-392">Belagerung</term>
+<term>Eidgenossenschaft</term>
+<term>Feind</term>
+<term ref="stadtasg-keywords-253">Todesstrafe</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-623">Dorf</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Bürgermeister und Rat zu Bern</persName>                    <date>1589-06-15</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>am/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1251
+<lb n="2" />signatur: StadtASG Missive_1251_4189/4192
+<lb n="3" />absender: ["Bürgermeister und Rat zu Bern"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1589-06-15
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Krieg", "Herzog", "Soldat", "Schloss", "Waffe", "Belagerung", "Eidgenossenschaft", "Feind", "Todesstrafe", "Majestät", "König", "Dorf", "Schultheiss"]
+<lb n="9" />kopfregest: |
+<lb n="10" />  Schultheiss und Rat zu Bern informieren Bürgermeister und Rat zu St. Gallen über die kriegerischen Unruhen. Die königlichen Truppen hätten ihren erklärten Feind, den Herzog von Savoyen, angegriffen und einige Ortschaften und Festen erobert, seien aber wieder nach Frankreich abgezogen. Der Herzog sei gestärkt zurückgekehrt, habe einiges zurückerobert, darunter das schlecht befestigte Schloss Ternier. 50 Soldaten hatten sich tapfer gewehrt, mussten aber schliesslich kapitulieren. Entgegen seinem Versprechen, ihr Leben zu schonen, liess der Herzog von Savoyen Todesstrafen vollziehen.
+<lb n="11" />kommentar: >
+<lb n="12" />approved_by: am/so
+</p>
+        </body>
+    </text>
+</TEI>

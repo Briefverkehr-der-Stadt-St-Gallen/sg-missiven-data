@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1052</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. [1051](/data/stasg_missiv_01051.xml).</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1052_3285/3288</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Landamann und Rat zu Appenzell schreiben Bürgermeister und Rat zu St. Gallen erneut wegen des spekulativen und allen schädlichen Butterhandels einiger ihrer Landsleute. Ihr Altlandammann Hans Bodmer habe zudem berichtet, dass Händler grosse Mengen über den Bodensee ausführten. Um das Übel abzuschaffen, sei es am besten, wenn die St. Galler eine Ordnung für den Waagmeister erstellten. Zudem bitten die Appenzeller die St. Galler, ihnen jeweils schriftlich mitzuteilen, welche ihrer Landsleute sich strafbar machten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-143">Markt</term>
+<term ref="stadtasg-keywords-613">Fürkauf</term>
+<term ref="stadtasg-keywords-632">Butter</term>
+<term ref="stadtasg-keywords-91">Handel</term>
+<term ref="stadtasg-keywords-403">Wucher</term>
+<term ref="stadtasg-keywords-142">Ordnung</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-63">Gerücht</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-24">Klage</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Landamman und Rat zu Appenzell</persName>                    <date>1575-07-22</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1052
+<lb n="2" />signatur: StadtASG Missive_1052_3285/3288
+<lb n="3" />absender: ["Landamman und Rat zu Appenzell"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1575-07-22
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Markt", "Fürkauf", "Butter", "Handel", "Wucher", "Ordnung", "Schriftliche Antwort", "Gerücht", "Unterstützung", "Klage"]
+<lb n="9" />kopfregest: |
+<lb n="10" />  Landamann und Rat zu Appenzell schreiben Bürgermeister und Rat zu St. Gallen erneut wegen des spekulativen und allen schädlichen Butterhandels einiger ihrer Landsleute. Ihr Altlandammann Hans Bodmer habe zudem berichtet, dass Händler grosse Mengen über den Bodensee ausführten. Um das Übel abzuschaffen, sei es am besten, wenn die St. Galler eine Ordnung für den Waagmeister erstellten. Zudem bitten die Appenzeller die St. Galler, ihnen jeweils schriftlich mitzuteilen, welche ihrer Landsleute sich strafbar machten. 
+<lb n="11" />kommentar: >
+<lb n="12" />  Zur Sache siehe auch die Missive Nr. <ref target="/data/stasg_missiv_01051.xml">1051</ref>.
+<lb n="13" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

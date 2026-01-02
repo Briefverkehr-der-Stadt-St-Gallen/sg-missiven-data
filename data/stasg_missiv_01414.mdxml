@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1414</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnte Klageschrift und beglaubigte Erklärung sind vorhanden.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1414_5007/5018</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_1414_5007/5018</idno><altIdentifier type="filename"><idno>stasg_missiv_01414-suppl-02.xml</idno></altIdentifier></msIdentifier></msDesc><msDesc n="2" type="supplement"><msIdentifier><idno>StadtASG Missive_1414_5007/5018</idno><altIdentifier type="filename"><idno>stasg_missiv_01414-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc>            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Ulm schreiben Bürgermeister und Rat zu St. Gallen einen Begleitbrief zur Klageschrift ihres Bürgers, des Goldschlägers Hans Dilger, für vorausbezahlte und nicht gelieferte Därme. Diese waren bei den beiden St. Galler Metzgern Heinrich Tobler und Jakob Rietmann bestellt, jedoch vor der Auslieferung durch den St. Galler Gabriel Rauner kurzentschlossen gekauft worden. Die Ulmer bitten die St. Galler um Unterstützung ihres Bürgers.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-24">Klage</term>
+<term ref="stadtasg-keywords-146">Metzger</term>
+<term ref="stadtasg-keywords-318">Schuld</term>
+<term ref="stadtasg-keywords-284">Kauf</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-603">Supplikation</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-510">Bürgermeister und Rat zu Ulm</orgName><placeName ref="stadtasg-places-28">Ulm</placeName>                    <date>1602-09-17</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1414
+<lb n="2" />signatur: StadtASG Missive_1414_5007/5018
+<lb n="3" />absender: ["Bürgermeister und Rat zu Ulm"]
+<lb n="4" />ausstellungsort: ["Ulm"]
+<lb n="5" />ausstellungsdatum: 1602-09-17
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Klage", "Metzger", "Schuld", "Kauf", "Unterstützung", "Beilage", "Supplikation"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Bürgermeister und Rat zu Ulm schreiben Bürgermeister und Rat zu St. Gallen einen Begleitbrief zur Klageschrift ihres Bürgers, des Goldschlägers Hans Dilger, für vorausbezahlte und nicht gelieferte Därme. Diese waren bei den beiden St. Galler Metzgern Heinrich Tobler und Jakob Rietmann bestellt, jedoch vor der Auslieferung durch den St. Galler Gabriel Rauner kurzentschlossen gekauft worden. Die Ulmer bitten die St. Galler um Unterstützung ihres Bürgers.  
+<lb n="11" />    
+<lb n="12" />kommentar: >
+<lb n="13" />    Die erwähnte Klageschrift und beglaubigte Erklärung sind vorhanden.
+<lb n="14" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

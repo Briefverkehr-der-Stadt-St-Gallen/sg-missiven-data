@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1076</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1076_3389/3392</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>August, Kurfürst zu Sachsen, schreibt Bürgermeister und Rat zu St. Gallen im Namen seines Zeugwarts Erhard Ammann. Dieser war zwei Jahre lang am Hof von Emanuel Philibert, Herzog von Savoyen, und erhielt zum Abschied 500 Kronen, wobei ein Teil davon für seinen Vetter, den Hauszeugmeister Paul Buchner bestimmt war. Da Ammann nicht mit soviel Bargeld herumreisen wollte, übergab er den Betrag als Wechsel dem St. Galler Kaufmann Niklas Medersath und dessen Sohn, die in Turin waren. Sie sollten den Betrag Leonhard Tanner in Nürnberg überbringen, was jedoch nie geschah. Denn mittlerweile war Medersath Konkurs gegangen und geflohen. Nun bittet der Kurfürst darum, allfälliges Hab und Gut von Medersath und dessen Sohn in St. Gallen sicherzustellen und beim Schuldprozess Erhard Ammann zu unterstützen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-406">Konkurs</term>
+<term ref="stadtasg-keywords-495">Hab und Gut</term>
+<term ref="stadtasg-keywords-603">Supplikation</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-275">Fürst</term>
+<term ref="stadtasg-keywords-277">Herzog</term>
+<term ref="stadtasg-keywords-21">Rechtshilfe</term>
+<term ref="stadtasg-keywords-348">Kurfürst</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Augustus Kurfürst zu Sachsen</persName><placeName>Dresden</placeName>                    <date>1576-12-20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1076
+<lb n="2" />signatur: StadtASG Missive_1076_3389/3392
+<lb n="3" />absender: ["Augustus Kurfürst zu Sachsen"]
+<lb n="4" />ausstellungsort: ["Dresden"]
+<lb n="5" />ausstellungsdatum: 1576-12-20
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Schulden", "Schuldforderung", "Konkurs", "Hab und Gut", "Supplikation", "Unterstützung", "Fürst", "Herzog",  "Rechtshilfe", "Kurfürst", "Schultheiss", "Beilage"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    August, Kurfürst zu Sachsen, schreibt Bürgermeister und Rat zu St. Gallen im Namen seines Zeugwarts Erhard Ammann. Dieser war zwei Jahre lang am Hof von Emanuel Philibert, Herzog von Savoyen, und erhielt zum Abschied 500 Kronen, wobei ein Teil davon für seinen Vetter, den Hauszeugmeister Paul Buchner bestimmt war. Da Ammann nicht mit soviel Bargeld herumreisen wollte, übergab er den Betrag als Wechsel dem St. Galler Kaufmann Niklas Medersath und dessen Sohn, die in Turin waren. Sie sollten den Betrag Leonhard Tanner in Nürnberg überbringen, was jedoch nie geschah. Denn mittlerweile war Medersath Konkurs gegangen und geflohen. Nun bittet der Kurfürst darum, allfälliges Hab und Gut von Medersath und dessen Sohn in St. Gallen sicherzustellen und beim Schuldprozess Erhard Ammann zu unterstützen.
+<lb n="11" />kommentar: >
+<lb n="12" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1295-suppl-01</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. [1295](/data/stasg_missiv_01295.xml). Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_1295_4421/4432</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Hauptmann, Bürgermeister und Rat zu Konstanz informieren Bürgermeister und Rat zu St. Gallen über das Geständnis des hingerichteten Hilarius Mock von Colmar.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-253">Todesstrafe</term>
+<term ref="stadtasg-keywords-197">Geständnis</term>
+<term ref="stadtasg-keywords-64">Gefangener</term>
+<term ref="stadtasg-keywords-103">Urteil</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Hauptman, Bürgermeister und Rat zu Konstanz</persName>                    <date>1593-05-22</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>am/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1295-suppl-01
+<lb n="2" />signatur: StadtASG Missive_1295_4421/4432
+<lb n="3" />absender: ["Hauptman, Bürgermeister und Rat zu Konstanz"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1593-05-22
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Todesstrafe", "Geständnis", "Gefangener", "Urteil", "Beilage"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Hauptmann, Bürgermeister und Rat zu Konstanz informieren Bürgermeister und Rat zu St. Gallen über das Geständnis des hingerichteten Hilarius Mock von Colmar.
+<lb n="11" />kommentar: >
+<lb n="12" />    Beilage zur Missive Nr. <ref target="/data/stasg_missiv_01295.xml">1295</ref>. Die Transkription wurde zurückgestellt.
+<lb n="13" />approved_by: am/so
+</p>
+        </body>
+    </text>
+</TEI>

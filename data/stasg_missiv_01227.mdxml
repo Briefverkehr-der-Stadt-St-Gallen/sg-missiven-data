@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1227</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1227_4069/4072</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Biel drücken Bürgermeister und Rat zu St. Gallen Rat ihre Besorgnis über die Uneinigkeit in der Eidgenossenschaft aus und vergleichen die Situation mit dem jugurthinischen Krieg, ausgelöst durch den Erbstreit nach dem Tod des Numidienkönig Micipsa, erzählt nach Sallust. Sie bitten die St. Galler, die Situation im Rat zu besprechen und ihnen eine Antwort zukommen zu lassen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-217">Antwort</term>
+<term>Eidgenossenschaft</term>
+<term ref="stadtasg-keywords-399">Läufer</term>
+<term ref="stadtasg-keywords-12">Gesandter</term>
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Bürgermeister und Rat zu Biel</persName>                    <date>1588-04-09</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>am/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1227
+<lb n="2" />signatur: StadtASG Missive_1227_4069/4072
+<lb n="3" />absender: ["Bürgermeister und Rat zu Biel"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1588-04-09
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Antwort", "Eidgenossenschaft", "Läufer", "Gesandter", "König", "Konflikt", "Majestät", "Krieg"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Bürgermeister und Rat zu Biel drücken Bürgermeister und Rat zu St. Gallen Rat ihre Besorgnis über die Uneinigkeit in der Eidgenossenschaft aus und vergleichen die Situation mit dem jugurthinischen Krieg, ausgelöst durch den Erbstreit nach dem Tod des Numidienkönig Micipsa, erzählt nach Sallust. Sie bitten die St. Galler, die Situation im Rat zu besprechen und ihnen eine Antwort zukommen zu lassen.
+<lb n="11" />kommentar: >
+<lb n="12" />approved_by: am/so
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1096</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch Missive Nr. [1094](/data/stasg_missiv_01094.xml).</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1096_3489/3492</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Leutkirch schreiben Bürgermeister und Rat zu St. Gallen aufgrund des verpassten Rechtstages betreffend die Schuldforderungen der Gläubiger von Hug von Watt, namentlich Matthias Stör und Bernhard Hartmann als Vormund von Barbara Bolster, der Witwe von Lukas Unterhauser. Die Einladung für den Rechtstag kam aus unerfindlichen Gründen erst am Vortag an und damit zu kurzfristig, so dass die Gläubiger daran nicht teilnehmen konnten. Sie hoffen aber, dass ihnen daraus kein Nachteil erwächst, und fragen gleichzeitig an, ob für ihre Gläubiger ein separater Rechtstag durchgeführt wird oder ihre Forderungen auf schriftlichem Weg erfüllt werden. Die Antwort auf ihre Frage kann dem Überbringer und Zeiger dieses Briefes mitgegeben werden.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-149">Rechtstag</term>
+<term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-270">Vormundschaft</term>
+<term ref="stadtasg-keywords-406">Konkurs</term>
+<term ref="stadtasg-keywords-177">Witwe</term>
+<term ref="stadtasg-keywords-495">Hab und Gut</term>
+<term ref="stadtasg-keywords-345">Zeiger</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-263">Vogt</term>
+<term ref="stadtasg-keywords-490">Gläubiger</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-798">Bürgermeister und Rat zu Leutkirch</orgName>                    <date>1578-01-27</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1096
+<lb n="2" />signatur: StadtASG Missive_1096_3489/3492
+<lb n="3" />absender: ["Bürgermeister und Rat zu Leutkirch"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1578-01-27
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Rechtstag", "Schulden", "Schuldforderung", "Vormundschaft", "Konkurs", "Witwe", "Hab und Gut", "Zeiger", "Bote", "Unterstützung", "Vogt", "Gläubiger"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Bürgermeister und Rat zu Leutkirch schreiben Bürgermeister und Rat zu St. Gallen aufgrund des verpassten Rechtstages betreffend die Schuldforderungen der Gläubiger von Hug von Watt, namentlich Matthias Stör und Bernhard Hartmann als Vormund von Barbara Bolster, der Witwe von Lukas Unterhauser. Die Einladung für den Rechtstag kam aus unerfindlichen Gründen erst am Vortag an und damit zu kurzfristig, so dass die Gläubiger daran nicht teilnehmen konnten. Sie hoffen aber, dass ihnen daraus kein Nachteil erwächst, und fragen gleichzeitig an, ob für ihre Gläubiger ein separater Rechtstag durchgeführt wird oder ihre Forderungen auf schriftlichem Weg erfüllt werden. Die Antwort auf ihre Frage kann dem Überbringer und Zeiger dieses Briefes mitgegeben werden.
+<lb n="11" />kommentar: >
+<lb n="12" />    Zur Sache siehe auch Missive Nr. <ref target="/data/stasg_missiv_01094.xml">1094</ref>.
+<lb n="13" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

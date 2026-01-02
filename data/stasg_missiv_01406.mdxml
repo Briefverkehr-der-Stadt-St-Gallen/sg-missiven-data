@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1406</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1406_4977/4980</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister Jakob Oberried <!--1523-1608--> und Rat zu Basel bitten Bürgermeister und Rat zu St. Gallen im Namen ihres Bürgers, des Leinenwebers Jochum Külchrodtum um Unterstützung bezüglich seiner Erbansprüche am Hab und Gut der in St. Gallen verstorbenen Margreth Reiner, seiner Tante.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-5">Erbe</term>
+<term ref="stadtasg-keywords-495">Hab und Gut</term>
+<term ref="stadtasg-keywords-98">Steuer</term>
+<term ref="stadtasg-keywords-345">Zeiger</term>
+<term ref="stadtasg-keywords-71">Ehe</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-258">Leinwand</term>
+<term ref="stadtasg-keywords-456">Weber</term>
+<term ref="stadtasg-keywords-351">Handwerk</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Bürgermeister Jakob Oberried und Rat zu Basel</persName>                    <date>1602-03-15</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1406
+<lb n="2" />signatur: StadtASG Missive_1406_4977/4980
+<lb n="3" />absender: ["Bürgermeister Jakob Oberried und Rat zu Basel"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1602-03-15
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Erbe", "Hab und Gut", "Steuer", "Zeiger", "Ehe", "Unterstützung", "Leinwand", "Weber", "Handwerk"]
+<lb n="9" />kopfregest: |
+<lb n="10" />  Bürgermeister Jakob Oberried <!--1523-1608--> und Rat zu Basel bitten Bürgermeister und Rat zu St. Gallen im Namen ihres Bürgers, des Leinenwebers Jochum Külchrodtum um Unterstützung bezüglich seiner Erbansprüche am Hab und Gut der in St. Gallen verstorbenen Margreth Reiner, seiner Tante.
+<lb n="11" />kommentar: >
+<lb n="12" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

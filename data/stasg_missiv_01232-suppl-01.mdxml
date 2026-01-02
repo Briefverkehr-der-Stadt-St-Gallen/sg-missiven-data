@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1232-suppl-01</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. [1232](/data/stasg_missiv_01232.xml). Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_1232_4099/4100</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich schreiben Bürgermeister und Rat zu St. Gallen betreffend den Abschied von 1567. Die Prädikanten im oberen Thurgau und Rheintal sollen zur Synode nach St. Gallen und diejenigen vom unteren Thurgau zur Synode von Zürich zur Züchtigung und Besserung gebracht werden. Die Bestrafung wird jedoch den Landtvögten überlassen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-328">Eidgenössischer Abschied</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-168">Abschrift</term>
+<term ref="stadtasg-keywords-602">Predikant</term>
+<term>Synode</term>
+<term ref="stadtasg-keywords-319">Landvogt</term>
+<term ref="stadtasg-keywords-107">Strafe</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1588-08-05</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>am/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1232-suppl-01
+<lb n="2" />signatur: StadtASG Missive_1232_4099/4100
+<lb n="3" />absender: ["Bürgermeister und Rat zu Zürich"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1588-08-05
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Eidgenössischer Abschied", "Beilage", "Abschrift", "Predikant", "Synode", "Landvogt", "Strafe"]
+<lb n="9" />kopfregest: |
+<lb n="10" />  Bürgermeister und Rat zu Zürich schreiben Bürgermeister und Rat zu St. Gallen betreffend den Abschied von 1567. Die Prädikanten im oberen Thurgau und Rheintal sollen zur Synode nach St. Gallen und diejenigen vom unteren Thurgau zur Synode von Zürich zur Züchtigung und Besserung gebracht werden. Die Bestrafung wird jedoch den Landtvögten überlassen.
+<lb n="11" />kommentar: >
+<lb n="12" />  Beilage zur Missive Nr. <ref target="/data/stasg_missiv_01232.xml">1232</ref>. Die Transkription wurde zurückgestellt.
+<lb n="13" />approved_by: am/so
+</p>
+        </body>
+    </text>
+</TEI>

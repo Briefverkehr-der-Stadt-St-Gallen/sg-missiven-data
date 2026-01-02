@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1077-suppl-01</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. [1077](/data/stasg_missiv_01077.xml). Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_1077_3395/3397</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Wilhelm I. von Oranien berichtet Bürgermeister und Rat zu Zürich über die Belagerung von Antwerpen am 4. November, die in einem dreitägigen Massaker endete und als Spanische Furie bezeichnet wird. Am 8. November wurde in Gent ein Vertrag zur Bildung einer politischen Union aller niederländischen Provinzen unterzeichnet, die sogenannte Pazifikation von Gent. Seit der Schlacht von Heiligerlee am 23. Mai 1568 befanden sich die aufständischen niederländischen Provinzen im offenen Konflikt mit der spanischen Krone. Die Auseinandersetzungen waren von einer Reihe von Initiativen begleitet, einen Religionsfrieden in den Niederlanden zustande zu bringen, nicht zuletzt als Voraussetzung dafür, eine politische Union zwischen den Provinzen gegen die spanische Krone zu erreichen. Alle siebzehn Provinzen schlossen sich 1576 in der Pazifikation von Gent zusammen, die am 30. Oktober vereinbart und am 8. November unterzeichnet wurde. Hierin wurde die vorläufige Wahrung des religiösen Status quo beschlossen: Holland und Seeland sollten ebenso wie die altgläubigen Provinzen in ihrer Religion, bis eine Entscheidung über die Religionsfrage auf der zeitnah anzuberaumenden Versammlung der Generalstaaten getroffen worden war, unbehelligt bleiben. Verfolgungen, Verleumdungen und sonstige Übergriffe wegen der Religion wurden verboten und die Häresieverfahren suspendiert. Die Pazifikation war vor allem ein pragmatisches Zugeständnis, um den als grösseres Übel betrachteten Bürgerkrieg beizulegen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-275">Fürst</term>
+<term>Friede</term>
+<term ref="stadtasg-keywords-454">Kopie</term>
+<term ref="stadtasg-keywords-470">Religionskrieg</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Wilhelm I. von Oranien</persName><placeName>Middelburg</placeName>                    <date>1576-11-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1077-suppl-01
+<lb n="2" />signatur: StadtASG Missive_1077_3395/3397
+<lb n="3" />absender: ["Wilhelm I. von Oranien"]
+<lb n="4" />ausstellungsort: ["Middelburg"]
+<lb n="5" />ausstellungsdatum: 1576-11-04
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu Zürich"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Fürst", "Friede", "Kopie", "Religionskrieg", "Beilage"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Wilhelm I. von Oranien berichtet Bürgermeister und Rat zu Zürich über die Belagerung von Antwerpen am 4. November, die in einem dreitägigen Massaker endete und als Spanische Furie bezeichnet wird. Am 8. November wurde in Gent ein Vertrag zur Bildung einer politischen Union aller niederländischen Provinzen unterzeichnet, die sogenannte Pazifikation von Gent. Seit der Schlacht von Heiligerlee am 23. Mai 1568 befanden sich die aufständischen niederländischen Provinzen im offenen Konflikt mit der spanischen Krone. Die Auseinandersetzungen waren von einer Reihe von Initiativen begleitet, einen Religionsfrieden in den Niederlanden zustande zu bringen, nicht zuletzt als Voraussetzung dafür, eine politische Union zwischen den Provinzen gegen die spanische Krone zu erreichen. Alle siebzehn Provinzen schlossen sich 1576 in der Pazifikation von Gent zusammen, die am 30. Oktober vereinbart und am 8. November unterzeichnet wurde. Hierin wurde die vorläufige Wahrung des religiösen Status quo beschlossen: Holland und Seeland sollten ebenso wie die altgläubigen Provinzen in ihrer Religion, bis eine Entscheidung über die Religionsfrage auf der zeitnah anzuberaumenden Versammlung der Generalstaaten getroffen worden war, unbehelligt bleiben. Verfolgungen, Verleumdungen und sonstige Übergriffe wegen der Religion wurden verboten und die Häresieverfahren suspendiert. Die Pazifikation war vor allem ein pragmatisches Zugeständnis, um den als grösseres Übel betrachteten Bürgerkrieg beizulegen.
+<lb n="11" />kommentar: >
+<lb n="12" />     Beilage zur Missive Nr. <ref target="/data/stasg_missiv_01077.xml">1077</ref>. Die Transkription wurde zurückgestellt.
+<lb n="13" />approved_by: AW
+</p>
+        </body>
+    </text>
+</TEI>

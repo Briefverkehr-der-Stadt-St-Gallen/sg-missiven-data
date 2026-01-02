@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1094</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Loch am Rand, dadurch Textverlust. Zur Sache siehe auch die Missive Nr. [1096](/data/stasg_missiv_01096.xml).</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1094_3481/3484</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Leutkirch schreiben Bürgermeister und Rat zu St. Gallen aufgrund des Konkurses des St. Gallers Hug von Watt und bitten um Unterstützung. Die Leutkircher Gläubiger sind Bürgermeister Mathias Stör und der Stadtrat Bernhard Hartmann als Vormund von Barbara Bolster, der Witwe des verstorbenen Stadtrats Lukas Unterhauser. Sie haben Hug von Watt einen Kredit gewährt, damit er rohe Leinwand einkaufen kann. Nun sei aber Hug von Watt Konkurs gegangen und auf der Flucht. Die Leutkircher bitten nun darum, ihre Ansprüche auf Hab und Gut der Konkursmasse am kommenden Rechtstag am 12. Januar zu berücksichtigen. Zudem bitten sie um zusätzlich Informationen zum Vorgehen in der gerichtlichen Behandlung und um eine Antwort mit dem Zeiger des Briefes.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-495">Hab und Gut</term>
+<term ref="stadtasg-keywords-270">Vormundschaft</term>
+<term ref="stadtasg-keywords-258">Leinwand</term>
+<term ref="stadtasg-keywords-335">Flucht</term>
+<term ref="stadtasg-keywords-177">Witwe</term>
+<term ref="stadtasg-keywords-450">Waise</term>
+<term ref="stadtasg-keywords-406">Konkurs</term>
+<term ref="stadtasg-keywords-149">Rechtstag</term>
+<term ref="stadtasg-keywords-251">Stadtrecht</term>
+<term ref="stadtasg-keywords-345">Zeiger</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+<term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-490">Gläubiger</term>
+<term ref="stadtasg-keywords-174">Rechnung</term>
+<term ref="stadtasg-keywords-263">Vogt</term>
+<term ref="stadtasg-keywords-164">Tuch</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-798">Bürgermeister und Rat zu Leutkirch</orgName>                    <date>1578-01-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1094
+<lb n="2" />signatur: StadtASG Missive_1094_3481/3484
+<lb n="3" />absender: ["Bürgermeister und Rat zu Leutkirch"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1578-01-04
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Schulden", "Schuldforderung", "Geld", "Hab und Gut", "Vormundschaft", "Leinwand", "Flucht", "Witwe", "Waise", "Konkurs", "Rechtstag", "Stadtrecht", "Zeiger", "Antwort", "Kaiser", "Gläubiger", "Rechnung", "Vogt", "Tuch", "Unterstützung"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Bürgermeister und Rat zu Leutkirch schreiben Bürgermeister und Rat zu St. Gallen aufgrund des Konkurses des St. Gallers Hug von Watt und bitten um Unterstützung. Die Leutkircher Gläubiger sind Bürgermeister Mathias Stör und der Stadtrat Bernhard Hartmann als Vormund von Barbara Bolster, der Witwe des verstorbenen Stadtrats Lukas Unterhauser. Sie haben Hug von Watt einen Kredit gewährt, damit er rohe Leinwand einkaufen kann. Nun sei aber Hug von Watt Konkurs gegangen und auf der Flucht. Die Leutkircher bitten nun darum, ihre Ansprüche auf Hab und Gut der Konkursmasse am kommenden Rechtstag am 12. Januar zu berücksichtigen. Zudem bitten sie um zusätzlich Informationen zum Vorgehen in der gerichtlichen Behandlung und um eine Antwort mit dem Zeiger des Briefes.
+<lb n="11" />kommentar: >
+<lb n="12" />    Loch am Rand, dadurch Textverlust. Zur Sache siehe auch die Missive Nr. <ref target="/data/stasg_missiv_01096.xml">1096</ref>. 
+<lb n="13" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

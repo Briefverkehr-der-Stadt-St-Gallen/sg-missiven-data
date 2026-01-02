@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1215</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. [1214](/data/stasg_missiv_01214.xml).</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1215_4019/4022</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Landammann und Rat zu Appenzell fordern Bürgermeister und Rat zu St. Gallen wiederholt zur Beilegung des Münzstreites auf. Dabei erwähnen sie, dass die St. Galler Appenzeller Landleute mit dem Garnkauf geplagt hätten. Zudem sei der Vorwurf des Fürkaufs von Luggmilch lächerlich und spöttisch. Sie bitten um schriftliche Antwort mit diesem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-36">Münze</term>
+<term ref="stadtasg-keywords-399">Läufer</term>
+<term ref="stadtasg-keywords-83">Frieden</term>
+<term ref="stadtasg-keywords-321">Schriftlich</term>
+<term ref="stadtasg-keywords-93">Mündlich</term>
+<term ref="stadtasg-keywords-492">Spott</term>
+<term ref="stadtasg-keywords-317">Garn</term>
+<term ref="stadtasg-keywords-91">Handel</term>
+<term ref="stadtasg-keywords-284">Kauf</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Landammann und Rat zu Appenzell</persName>                    <date>1587-09-06</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>am/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1215
+<lb n="2" />signatur: StadtASG Missive_1215_4019/4022
+<lb n="3" />absender: ["Landammann und Rat zu Appenzell"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1587-09-06
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Münze", "Läufer", "Frieden", "Schriftlich", "Mündlich", "Spott", "Garn", "Handel", "Kauf"]
+<lb n="9" />kopfregest: |
+<lb n="10" />  Landammann und Rat zu Appenzell fordern Bürgermeister und Rat zu St. Gallen wiederholt zur Beilegung des Münzstreites auf. Dabei erwähnen sie, dass die St. Galler Appenzeller Landleute mit dem Garnkauf geplagt hätten. Zudem sei der Vorwurf des Fürkaufs von Luggmilch lächerlich und spöttisch. Sie bitten um schriftliche Antwort mit diesem Boten. 
+<lb n="11" />kommentar: >
+<lb n="12" />  Zur Sache siehe auch die Missive Nr. <ref target="/data/stasg_missiv_01214.xml">1214</ref>.
+<lb n="13" />approved_by: am/so
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1273</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Wohl Übersetzung und Beilage. Schloss Anet ist ein französisches Schloss im Stil der Renaissance in Anet in der Nähe von Dreux im Département Eure-et-Loir, 65 Kilometer westlich von Paris, von Heinrich II. erbaut.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1273_4295/4298</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Heinrich IV., König von Frankreich und Navarra schreibt an die Eidgenossenschaft, und bittet um Unterstützung für die Sicherheit der Angehörigen der in seinem Solddienst Stehenden. Sein Ambassador Nicolas Brûlart de Sillery wird die Sache persönlich erklären. Er bittet darum, ihm wie ihm selbst Glauben zu schenken.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-102">Sicherheit</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-254">Söldner</term>
+<term ref="stadtasg-keywords-344">Solddienst</term>
+<term ref="stadtasg-keywords-297">Ehefrau</term>
+<term ref="stadtasg-keywords-269">Kind</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Heinrich IV., König zu Frankreich und Navarra</persName><placeName>Schloss Anet</placeName>                    <date>1590-11-15</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-750">Eidgenossenschaft</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>am</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1273
+<lb n="2" />signatur: StadtASG Missive_1273_4295/4298
+<lb n="3" />absender: ["Heinrich IV., König zu Frankreich und Navarra"]
+<lb n="4" />ausstellungsort: ["Schloss Anet"]
+<lb n="5" />ausstellungsdatum: 1590-11-15
+<lb n="6" />empfaenger: ["Eidgenossenschaft"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["König", "Krieg", "Unterstützung", "Sicherheit", "Beilage", "Söldner", "Solddienst", "Ehefrau", "Kind"]
+<lb n="9" />kopfregest: |
+<lb n="10" />  Heinrich IV., König von Frankreich und Navarra schreibt an die Eidgenossenschaft, und bittet um Unterstützung für die Sicherheit der Angehörigen der in seinem Solddienst Stehenden. Sein Ambassador Nicolas Brûlart de Sillery wird die Sache persönlich erklären. Er bittet darum, ihm wie ihm selbst Glauben zu schenken.
+<lb n="11" />kommentar: > 
+<lb n="12" />  Wohl Übersetzung und Beilage. Schloss Anet ist ein französisches Schloss im Stil der Renaissance in Anet in der Nähe von Dreux im Département Eure-et-Loir, 65 Kilometer westlich von Paris, von Heinrich II. erbaut.
+<lb n="13" />approved_by: am
+</p>
+        </body>
+    </text>
+</TEI>

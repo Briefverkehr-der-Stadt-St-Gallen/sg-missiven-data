@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1082</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1082_3425/3428</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Stadtammann und Rat zu Markdorf schreiben Bürgermeister und Rat zu St. Gallen auf Ersuchen ihres Bürgers Christian Othmar, des Stiefvaters von Magdalena Spranger, der Tochter des verstorbenen Batholome Spranger. Magdalena Spranger hat etliche Jahre bei ihrem Vetter, dem St. Galler Messerschmied Hans Vogler, und dessen verstorbenen Ehefrau, die ebenfalls Magdalena Spranger hiess, gedient. Zum Dank für ihre guten Dienste wurden ihr vom Ehepaar Vogler vor mehreren Zeugen 50 Gulden versprochen. Nun will aber Hans Vogler davon nichts mehr wissen. Deshalb haben Stadtamman und Rat zu Markdorf vier Zeugen befragt und ihre Aussagen zusammengefasst. Nun bitten sie die St. Galler Obrigkeit, dafür zu sorgen, dass die versprochene Summe Magdalena Spranger übergeben werde.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-316">Obrigkeit</term>
+<term ref="stadtasg-keywords-352">Lohn</term>
+<term ref="stadtasg-keywords-298">Tochter</term>
+<term ref="stadtasg-keywords-587">Haushalt</term>
+<term ref="stadtasg-keywords-398">Diener</term>
+<term ref="stadtasg-keywords-337">Zeugenaussage</term>
+<term ref="stadtasg-keywords-237">Rechtsanspruch</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-297">Ehefrau</term>
+<term ref="stadtasg-keywords-187">Kundschaft</term>
+<term ref="stadtasg-keywords-351">Handwerk</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Stadtammann, Bürgermeister und Rat zu Markdorf</persName>                    <date>1577-07-26</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1082
+<lb n="2" />signatur: StadtASG Missive_1082_3425/3428
+<lb n="3" />absender: ["Stadtammann, Bürgermeister und Rat zu Markdorf"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1577-07-26
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Obrigkeit", "Lohn", "Tochter", "Haushalt", "Diener", "Zeugenaussage", "Rechtsanspruch", "Unterstützung", "Ehefrau", "Kundschaft", "Handwerk"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Stadtammann und Rat zu Markdorf schreiben Bürgermeister und Rat zu St. Gallen auf Ersuchen ihres Bürgers Christian Othmar, des Stiefvaters von Magdalena Spranger, der Tochter des verstorbenen Batholome Spranger. Magdalena Spranger hat etliche Jahre bei ihrem Vetter, dem St. Galler Messerschmied Hans Vogler, und dessen verstorbenen Ehefrau, die ebenfalls Magdalena Spranger hiess, gedient. Zum Dank für ihre guten Dienste wurden ihr vom Ehepaar Vogler vor mehreren Zeugen 50 Gulden versprochen. Nun will aber Hans Vogler davon nichts mehr wissen. Deshalb haben Stadtamman und Rat zu Markdorf vier Zeugen befragt und ihre Aussagen zusammengefasst. Nun bitten sie die St. Galler Obrigkeit, dafür zu sorgen, dass die versprochene Summe Magdalena Spranger übergeben werde. 
+<lb n="11" />kommentar: >
+<lb n="12" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

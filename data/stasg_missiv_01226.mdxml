@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1226</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1226_4065/4068</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich informieren Bürgermeister und Rat zu St. Gallen über das Testament von Lienhard Zollikofer, Ratsmitglied und Seckelmeister von St. Gallen, da dessen Bruder Jost Zollikofer von Sonnenberg das Testament anfechtet. Die St. Galler sollen die Sache schnellstmöglich erledigen, mit unparteiischen Schiedsrichtern, damit nicht ein Streit, wie damals in Müllhausen, entsteht.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-411">Testament</term>
+<term>Seckelmeister</term>
+<term ref="stadtasg-keywords-307">Erbstreit</term>
+<term>Schiedsrichter</term>
+<term ref="stadtasg-keywords-120">Vermittlung</term>
+<term ref="stadtasg-keywords-120">Vermittlung</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-418">Landgrafschaft</term>
+<term ref="stadtasg-keywords-103">Urteil</term>
+<term ref="stadtasg-keywords-112">Bürgerrecht</term>
+<term ref="stadtasg-keywords-12">Gesandter</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1588-04-02</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>am/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1226
+<lb n="2" />signatur: StadtASG Missive_1226_4065/4068
+<lb n="3" />absender: ["Bürgermeister und Rat zu Zürich"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1588-04-02
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Testament", "Seckelmeister", "Erbstreit", "Schiedsrichter", "Vermittlung", "Vermittlung", "Konflikt", "Tagsatzung", "Landgrafschaft", "Urteil", "Bürgerrecht", "Gesandter"]
+<lb n="9" />kopfregest: |
+<lb n="10" />  Bürgermeister und Rat zu Zürich informieren Bürgermeister und Rat zu St. Gallen über das Testament von Lienhard Zollikofer, Ratsmitglied und Seckelmeister von St. Gallen, da dessen Bruder Jost Zollikofer von Sonnenberg das Testament anfechtet. Die St. Galler sollen die Sache schnellstmöglich erledigen, mit unparteiischen Schiedsrichtern, damit nicht ein Streit, wie damals in Müllhausen, entsteht.
+<lb n="11" />kommentar: >
+<lb n="12" />approved_by: am/so
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1012</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zweisprachige Abschrift einer ursprünglich französischen Missive mit deutscher Übersetzung. Unsichere Lesungen in französischen Teil. Nachdem Heinrich, Herzog von Anjou, seit 1573 als Henryk Walezy gewählter König von Polen, bereits die Freundschaft zwischen Frankreich und der Eidgenossenschaft beschworen hatte, sieht sich nun auch Karl IX. dazu genötigt, dasselbe zu tun. Dies ist vor dem Hintergrund der Thronfolgefrage in Frankreich zu sehen. Nach einer Tuberkuloseerkrankung verschlechterte sich der Gesundheitszustand von Karl IX. zusehends, so dass sich sein jüngerer Bruder Heinrich von Polen aus in Stellung bringt, alte Bündnisse zu erneuern und ihn zu beerben.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1012_3103/3106</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Karl IX., König von Frankreich schreibt den eidgenössischen Ständen und beschwört das langjährige Bündnis zwischen Frankreich und der Eidgenossenschaft, aber auch seine persönliche Zuneigung und diejenige seiner königlichen Vorgänger. Gleichzeitig informiert Karl IX. auch darüber, dass Jean de Bellièvre, sieur de Hautefort, königlicher Rat und französischer Gesandter, von seiner Reise in Polen zurückkehrt und seinen Posten in Solothurn erneut einnehmen werde, um die Kontinuiät zu wahren. Er bittet darum, seinem Gesandten wie ihm selbst Gehör zu schenken.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch und Französisch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-520">Bündnis</term>
+<term ref="stadtasg-keywords-243">Dienst</term>
+<term ref="stadtasg-keywords-12">Gesandter</term>
+<term>Eidgenossenschaft</term>
+<term ref="stadtasg-keywords-254">Söldner</term>
+<term ref="stadtasg-keywords-454">Kopie</term>
+<term ref="stadtasg-keywords-183">König</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Charles IX., König von Frankreich</persName><placeName>Châlons-en-Champagne</placeName>                    <date>1573-11-30</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName>Orte der Eidgenossenschaft</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1012
+<lb n="2" />signatur: StadtASG Missive_1012_3103/3106
+<lb n="3" />absender: ["Charles IX., König von Frankreich"]
+<lb n="4" />ausstellungsort: ["Châlons-en-Champagne"]
+<lb n="5" />ausstellungsdatum: 1573-11-30
+<lb n="6" />empfaenger: ["Orte der Eidgenossenschaft"]
+<lb n="7" />sprachen: ["Deutsch und Französisch"]
+<lb n="8" />schlagworte: ["Bündnis", "Dienst", "Gesandter", "Eidgenossenschaft", "Söldner", "Kopie", "König"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Karl IX., König von Frankreich schreibt den eidgenössischen Ständen und beschwört das langjährige Bündnis zwischen Frankreich und der Eidgenossenschaft, aber auch seine persönliche Zuneigung und diejenige seiner königlichen Vorgänger. Gleichzeitig informiert Karl IX. auch darüber, dass Jean de Bellièvre, sieur de Hautefort, königlicher Rat und französischer Gesandter, von seiner Reise in Polen zurückkehrt und seinen Posten in Solothurn erneut einnehmen werde, um die Kontinuiät zu wahren. Er bittet darum, seinem Gesandten wie ihm selbst Gehör zu schenken. 
+<lb n="11" />kommentar: >
+<lb n="12" />    Zweisprachige Abschrift einer ursprünglich französischen Missive mit deutscher Übersetzung. Unsichere Lesungen in französischen Teil. Nachdem Heinrich, Herzog von Anjou, seit 1573 als Henryk Walezy gewählter König von Polen, bereits die Freundschaft zwischen Frankreich und der Eidgenossenschaft beschworen hatte, sieht sich nun auch Karl IX. dazu genötigt, dasselbe zu tun. Dies ist vor dem Hintergrund der Thronfolgefrage in Frankreich zu sehen. Nach einer Tuberkuloseerkrankung verschlechterte sich der Gesundheitszustand von Karl IX. zusehends, so dass sich sein jüngerer Bruder Heinrich von Polen aus in Stellung bringt, alte Bündnisse zu erneuern und ihn zu beerben.  
+<lb n="13" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1067</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Abschrift. Die erwähnte Beilage ist vorhanden. Der französische König ist mitten in den Friedensverhandlungen mit den aufständischen Hugenotten in Etigny, welche schliesslich in den Vertrag von Beaulieu  am 6. Mai 1576 münden und den fünften Religionskrieg beenden. In dieser Situation soll der französische Botschafter in Solothurn Jean de Bellièvre, sieur de Hautefort, die Eidgenossen daran hindern, ein separates Bündnis mit Emanuel Philibert von Savoyen, dem Herzog von Savoyen, einzugehen.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1067_3343/3346</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_1067_3343/3346</idno><altIdentifier type="filename"><idno>stasg_missiv_01067-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc>            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Heinrich III., König von Frankreich und Polen, schreibt an die Dreizehnörtige Eidgenossenschaft zur Bestätigung und Bekräftigung des gemeinsamen Bündnisses, dies weil zahlreiche Landesherren versuchten, separate Verträge mit der Eidgenossenschaft abzuschliessen und dadurch den labilen Frieden in Frankreich gefährden könnten. Der Brief dient als Beglaubigungsschreiben des Botschafters und zur Erklärung der Zielsetzung der diplomatischen Intervention. Beigelegt ist die Abschrift des Vortrags von Jean de Bellièvre.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-168">Abschrift</term>
+<term ref="stadtasg-keywords-520">Bündnis</term>
+<term ref="stadtasg-keywords-653">Hugenotten</term>
+<term ref="stadtasg-keywords-470">Religionskrieg</term>
+<term ref="stadtasg-keywords-87">Empfehlung</term>
+<term ref="stadtasg-keywords-12">Gesandter</term>
+<term ref="stadtasg-keywords-277">Herzog</term>
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-275">Fürst</term>
+<term>Friede</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term>Eidgenossenschaft</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Heinrich III., König von Frankreich und Nicolas Brûlart de Sillery</persName><placeName>Paris</placeName>                    <date>1576-04-25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName>Dreizehn Orte der Eidgenossenschaft</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1067
+<lb n="2" />signatur: StadtASG Missive_1067_3343/3346
+<lb n="3" />absender: ["Heinrich III., König von Frankreich und Nicolas Brûlart de Sillery"]
+<lb n="4" />ausstellungsort: ["Paris"]
+<lb n="5" />ausstellungsdatum: 1576-04-25
+<lb n="6" />empfaenger: ["Dreizehn Orte der Eidgenossenschaft"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Abschrift", "Bündnis", "Hugenotten", "Religionskrieg", "Empfehlung", "Gesandter", "Herzog", "König", "Fürst", "Friede", "Majestät", "Eidgenossenschaft"]
+<lb n="9" />kopfregest: |
+<lb n="10" />  Heinrich III., König von Frankreich und Polen, schreibt an die Dreizehnörtige Eidgenossenschaft zur Bestätigung und Bekräftigung des gemeinsamen Bündnisses, dies weil zahlreiche Landesherren versuchten, separate Verträge mit der Eidgenossenschaft abzuschliessen und dadurch den labilen Frieden in Frankreich gefährden könnten. Der Brief dient als Beglaubigungsschreiben des Botschafters und zur Erklärung der Zielsetzung der diplomatischen Intervention. Beigelegt ist die Abschrift des Vortrags von Jean de Bellièvre. 
+<lb n="11" />kommentar: >
+<lb n="12" />  Abschrift. Die erwähnte Beilage ist vorhanden. Der französische König ist mitten in den Friedensverhandlungen mit den aufständischen Hugenotten in Etigny, welche schliesslich in den Vertrag von Beaulieu  am 6. Mai 1576 münden und den fünften Religionskrieg beenden. In dieser Situation soll der französische Botschafter in Solothurn Jean de Bellièvre, sieur de Hautefort, die Eidgenossen daran hindern, ein separates Bündnis mit Emanuel Philibert von Savoyen, dem Herzog von Savoyen, einzugehen.
+<lb n="13" />  
+<lb n="14" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

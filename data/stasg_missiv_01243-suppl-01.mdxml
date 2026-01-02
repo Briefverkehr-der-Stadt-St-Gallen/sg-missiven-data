@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1243-suppl-01</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. [1243](/data/stasg_missiv_01243.xml). Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_1243_4151/4154</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Auf deutsch übersetzte Antwort von Karl Emanuel, Herzog zu Savoyen, an die zwölf Orte der Eidgenossenschaft betreffend die kriegerischen Auseinandersetzungen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-275">Fürst</term>
+<term>Eidgenossenschaft</term>
+<term ref="stadtasg-keywords-454">Kopie</term>
+<term ref="stadtasg-keywords-277">Herzog</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Karl Emanuel, Herzog zu Savoyen</persName>                    <date>1589-02-18</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName>Zwölf Orte der Eidgenossenschaft</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>am</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1243-suppl-01
+<lb n="2" />signatur: StadtASG Missive_1243_4151/4154
+<lb n="3" />absender: ["Karl Emanuel, Herzog zu Savoyen"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1589-02-18
+<lb n="6" />empfaenger: ["Zwölf Orte der Eidgenossenschaft"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Tagsatzung", "Beilage", "Fürst", "Eidgenossenschaft", "Kopie", "Herzog", "Antwort"]
+<lb n="9" />kopfregest: |
+<lb n="10" />  Auf deutsch übersetzte Antwort von Karl Emanuel, Herzog zu Savoyen, an die zwölf Orte der Eidgenossenschaft betreffend die kriegerischen Auseinandersetzungen.
+<lb n="11" />kommentar: > 
+<lb n="12" />  Beilage zur Missive Nr. <ref target="/data/stasg_missiv_01243.xml">1243</ref>. Die Transkription wurde zurückgestellt.
+<lb n="13" />approved_by: am
+</p>
+        </body>
+    </text>
+</TEI>

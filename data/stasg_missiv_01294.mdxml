@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1294</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1294_4417/4420</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich bestätigen Bürgermeister und Rat zu St. Gallen dass sie ihr Schreiben bezüglich die beschwerlichen Zollbestimmungen für den Handel in Frankreich erhalten haben. Da auch Zürcher Kaufleute dieselben Strassen benützten, sei Zürich bereit, sich für ein von den dreizehn eidgenössischen Orten an den Herzog von Savoyen adressiertes Schreiben einzusetzen. Das setze aber eine Tagsatzung voraus. Sie bitten, ihrem Boten schriftlich mitzuteilen, ob jemand aus der Kaufmannschaft daran teilnehmen und am Abend des 6. Mai in der Herberge zu Baden erscheinen werde.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-129">Zoll</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-12">Gesandter</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-180">Kaufmann</term>
+<term ref="stadtasg-keywords-17">schriftliche Antwort</term>
+<term ref="stadtasg-keywords-399">Läufer</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-12">Gesandter</term>
+<term ref="stadtasg-keywords-277">Herzog</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1593-04-23</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>am</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1294
+<lb n="2" />signatur: StadtASG Missive_1294_4417/4420
+<lb n="3" />absender: ["Bürgermeister und Rat zu Zürich"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1593-04-23
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Zoll", "Tagsatzung", "Gesandter", "Unterstützung", "Kaufmann", "schriftliche Antwort", "Läufer", "Bote", "Gesandter", "Herzog"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Bürgermeister und Rat zu Zürich bestätigen Bürgermeister und Rat zu St. Gallen dass sie ihr Schreiben bezüglich die beschwerlichen Zollbestimmungen für den Handel in Frankreich erhalten haben. Da auch Zürcher Kaufleute dieselben Strassen benützten, sei Zürich bereit, sich für ein von den dreizehn eidgenössischen Orten an den Herzog von Savoyen adressiertes Schreiben einzusetzen. Das setze aber eine Tagsatzung voraus. Sie bitten, ihrem Boten schriftlich mitzuteilen, ob jemand aus der Kaufmannschaft daran teilnehmen und am Abend des 6. Mai in der Herberge zu Baden erscheinen werde.
+<lb n="11" />kommentar: >
+<lb n="12" />approved_by: am
+</p>
+        </body>
+    </text>
+</TEI>

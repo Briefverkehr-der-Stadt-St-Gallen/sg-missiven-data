@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1074</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Unsichere Auflösung von Abkürzungen.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1074_3377/3380</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Waldshut schreiben Bürgermeister und Rat zu St. Gallen und bitten um die Überprüfung des Geständnisses von Jakob Manns. Dieser ehemalige Fuhrmann aus Weingarten fristet sein Leben nach einem Berufsunfall mit Betteleien und Diebstählen. Nachdem er in Waldshut erwischt und unter Folter verhört wurde, gestand er mehrere Diebstähle, unter anderem auch in St. Gallen. Nun möchten die Behörden in Waldshut wissen, ob das Geständnis den Tatsachen entspricht, und sie bitten die St. Galler, ihre Bürger Jakob Zilli und Kaspar Schlumpf zu vernehmen und ihnen mit dem Boten und Zeiger dieses Briefes das schriftliche Verhörprotokoll zuzustellen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-539">Bettel</term>
+<term ref="stadtasg-keywords-461">Armut</term>
+<term ref="stadtasg-keywords-389">Fuhrmann</term>
+<term ref="stadtasg-keywords-365">Transport</term>
+<term ref="stadtasg-keywords-106">Diebstahl</term>
+<term ref="stadtasg-keywords-19">Gefängnis</term>
+<term ref="stadtasg-keywords-141">Befragung</term>
+<term ref="stadtasg-keywords-336">Zeuge</term>
+<term ref="stadtasg-keywords-337">Zeugenaussage</term>
+<term ref="stadtasg-keywords-323">Junker</term>
+<term ref="stadtasg-keywords-345">Zeiger</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
+<term ref="stadtasg-keywords-321">Schriftlich</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Schultheiss und Rat zu Waldshut</persName>                    <date>1576-08-13</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1074
+<lb n="2" />signatur: StadtASG Missive_1074_3377/3380
+<lb n="3" />absender: ["Schultheiss und Rat zu Waldshut"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1576-08-13
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu St. Gallen"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Bettel", "Armut", "Fuhrmann", "Transport", "Diebstahl", "Gefängnis", "Befragung", "Zeuge", "Zeugenaussage", "Junker", "Zeiger", "Bote", "Schultheiss", "Schriftlich", "Unterstützung"]
+<lb n="9" />kopfregest: |
+<lb n="10" />  Schultheiss und Rat zu Waldshut schreiben Bürgermeister und Rat zu St. Gallen und bitten um die Überprüfung des Geständnisses von Jakob Manns. Dieser ehemalige Fuhrmann aus Weingarten fristet sein Leben nach einem Berufsunfall mit Betteleien und Diebstählen. Nachdem er in Waldshut erwischt und unter Folter verhört wurde, gestand er mehrere Diebstähle, unter anderem auch in St. Gallen. Nun möchten die Behörden in Waldshut wissen, ob das Geständnis den Tatsachen entspricht, und sie bitten die St. Galler, ihre Bürger Jakob Zilli und Kaspar Schlumpf zu vernehmen und ihnen mit dem Boten und Zeiger dieses Briefes das schriftliche Verhörprotokoll zuzustellen. 
+<lb n="11" />kommentar: >
+<lb n="12" />  Unsichere Auflösung von Abkürzungen.
+<lb n="13" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>

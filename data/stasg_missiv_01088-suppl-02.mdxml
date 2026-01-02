@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1088-suppl-02</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. [1088](/data/stasg_missiv_01088.xml). Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_1088_3457/3460</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Georg Kinsecker, Anwalt der Witwe des Barthlome Steck, Bürgerin zu St. Gallen, schreibt Bürgermeister und Rat zu Nürnberg und erklärt die Position im Rechtsstreit mit dem Nürnberger Bürger Konrad Unger um ein Darlehen von 2600 Gulden. Kinsecker gibt an, dass Unger auf seine Initiative hin letzten Monat einen Teil seiner Schulden sampt Zinsen zurückbezahlt hat. Es bleiben aber weiterhin 556 Gulden offen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-487">Bericht</term>
+<term ref="stadtasg-keywords-337">Zeugenaussage</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-156">Recht</term>
+<term ref="stadtasg-keywords-314">Anwalt</term>
+<term ref="stadtasg-keywords-222">Darlehen</term>
+<term ref="stadtasg-keywords-21">Rechtshilfe</term>
+<term ref="stadtasg-keywords-177">Witwe</term>
+<term ref="stadtasg-keywords-148">Schuldforderung</term>
+<term ref="stadtasg-keywords-10">Zins</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName>Georg Kinsecker</persName>                    <date>1577-10-16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-571">Bürgermeister und Rat zu Nürnberg</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>AW/so</persName>
+                <date>2026-01-02</date>
+            </change>
+            <!--<change type="tagging" status="open">
+                <persName></persName>
+                <date/>
+            </change>-->
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <lb n="1" />missiv_nr: 1088-suppl-02
+<lb n="2" />signatur: StadtASG Missive_1088_3457/3460
+<lb n="3" />absender: ["Georg Kinsecker"]
+<lb n="4" />ausstellungsort: [""]
+<lb n="5" />ausstellungsdatum: 1577-10-16
+<lb n="6" />empfaenger: ["Bürgermeister und Rat zu Nürnberg"]
+<lb n="7" />sprachen: ["Deutsch"]
+<lb n="8" />schlagworte: ["Bericht", "Zeugenaussage", "Beilage", "Recht", "Anwalt", "Darlehen", "Rechtshilfe", "Witwe", "Schuldforderung", "Zins"]
+<lb n="9" />kopfregest: |
+<lb n="10" />    Georg Kinsecker, Anwalt der Witwe des Barthlome Steck, Bürgerin zu St. Gallen, schreibt Bürgermeister und Rat zu Nürnberg und erklärt die Position im Rechtsstreit mit dem Nürnberger Bürger Konrad Unger um ein Darlehen von 2600 Gulden. Kinsecker gibt an, dass Unger auf seine Initiative hin letzten Monat einen Teil seiner Schulden sampt Zinsen zurückbezahlt hat. Es bleiben aber weiterhin 556 Gulden offen. 
+<lb n="11" />kommentar: >
+<lb n="12" />    Beilage zur Missive Nr. <ref target="/data/stasg_missiv_01088.xml">1088</ref>. Die Transkription wurde zurückgestellt.
+<lb n="13" />approved_by: AW/so
+</p>
+        </body>
+    </text>
+</TEI>
