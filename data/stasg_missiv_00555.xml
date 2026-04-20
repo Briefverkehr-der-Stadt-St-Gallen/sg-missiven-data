@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 555</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_555_1131/1132</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die in Baden versammelten Ratsboten der Eidgenossenschaft schreiben an Bürgermeister und Rat zu St. Gallen, dass ein Ketzer namens Krüsi, den die St. Galler wegen ketzerischen Predigens gefangen genommen und gegen Urfehde wieder frei gelassen hatten, in St. Georgen weiter predige. Sie bitten die St. Galler, den Mann zu beobachten und wegen Meineids und unchristlichen Handelns zu bestrafen.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-383">Gottesdienst</term>
+<term ref="stadtasg-keywords-366">Religion</term>
+<term ref="stadtasg-keywords-469">Religionskonflikt</term>
+<term ref="stadtasg-keywords-533">Altar</term>
+<term ref="stadtasg-keywords-362">Taufe</term>
+<term ref="stadtasg-keywords-361">Meineid</term>
+<term ref="stadtasg-keywords-19">Gefängnis</term>
+<term ref="stadtasg-keywords-526">Ratsbote</term> 
+<term ref="stadtasg-keywords-269">Kind</term>
+<term ref="stadtasg-keywords-319">Landvogt</term>               </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-534">Eidgenössische Räte</orgName>                    <date>1525-07-06</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Noëmi Schöb</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Noëmi Schöb</persName>
+                <date>2025-10-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_555_1131.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich willig dienst und was wir eren liebs und guots vermogenn allezit
+<lb n="2"/>beriet zuovor fromm fürsichtig wyß sunders guott fründ und getruwen lieben eydgnossen.
+<lb n="3"/>Unns lanngt an, wie das ir vor etlichen tagenn einen, genant der <persName ref="stadtasg-actors-1147">Krüß</persName>, in üwer
+<lb n="4"/>gefenncknus gehept von des wegen, das er so katzerisch ding geprediget, das ir
+<lb n="5"/>inn sölicher gefenngknusss erlassenn, doch habe er ein urfech geschworenn, sich
+<lb n="6"/>sölicher dingen nit mer zuo beladen, sunder dero rüwig zesinde. Dem selben
+<lb n="7"/>er aber nit gelebe, sunder so predige er ietz zuo <placeName ref="stadtasg-places-388">santt Jörgen</placeName> nit verr von
+<lb n="8"/>üwer statt gelegen kätzerisch und uncristanlich sachen, das nützit davon ze
+<lb break="no" n="9"/>sagen sye, unnd rede offennlich, wer etwas uff die mess darzuo das sacrament des
+<lb n="10"/>altars halte oder uff den touff, so die iungen kind empfanngen, der sye ein kätzer
+<lb n="11"/>und des tüffels, und suß vil ketzerischer dingenn. Deshalb so ist an üch unnser
+<lb n="12"/>früntlich pitt und beger, ir wellent uff den genanten <persName ref="stadtasg-actors-1147">Krüsen</persName> guot acht habenn
+<lb n="13"/>unnd wo ir inn mogent betreffen, das ir inn gefenncklich annemenn unnd
+<lb n="14"/>umb sinen meineyd unnd sölich uncristanlich predigenn nach sinem ver
+<lb break="no" n="15"/>dienenn straffenn. Das wellent wir umb üch unnser getrüw eydgnossen ver
+<lb break="no" n="16"/>dienenn. Datum unnd mit des frommen wysen <persName ref="stadtasg-actors-1148">Uolrich Dürlers</persName>, des rats zuo <placeName ref="stadtasg-places-70">Ury</placeName>
+<lb n="17"/>unnser lanndtvogt zuo <placeName ref="stadtasg-places-53">Baden</placeName> insigel in unnser aller namenn besiglet <origDate when="1525-07-06">dornstag
+<lb n="18"/>nach Uolrici anno etc. XXVo</origDate>.
+<lb n="19"/><orgName ref="stadtasg-actors-534" role="issuer">Von stett und landen gemeiner
+<lb n="20"/>unnser Eydgnoschafft rats botten</orgName>
+<lb n="21"/>ietz zuo <origPlace ref="stadtasg-places-53">Baden</origPlace> in <placeName ref="stadtasg-places-266">Ergöw</placeName> versampt.
+<pb facs="StadtASG_Missive_555_1132.JPG" n="2"/>
+<lb n="22"/>Den fromen fürsichtigen wysen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="23"/>meister und rat zuo sanct Gallenn</orgName> unnsern
+<lb n="24"/>insunders guotten fründen und getruvenn
+<lb n="25"/>lieben eydnossen.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -52,11 +52,11 @@
         <revisionDesc>
             <change type="transcription" status="approved">
                 <p/>
-                <persName>SO</persName>
+                <persName>Stefan Sonderegger</persName>
                 <date>2018-06-29</date>
             </change>
             <change type="tagging" status="done">
-                <persName>CS/dg</persName>
+                <persName>Claudia Sutter</persName> <persName>Dorothee Guggenheimer</persName>
                 <date>2019-05-20</date>
             </change>
         </revisionDesc>
@@ -64,8 +64,7 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_1_1.JPG" n="1"/>
-            <p>
+            <p> <pb facs="StadtASG_Missive_1_1.JPG" n="1"/>
                 <lb n="1"/>Min undertaenig willig dienst voran gnaedigen lieben herren. Alz iuver
                 wißhait wol 
                 <lb n="2"/>wissenlich ist, wie ich von iuver wißhait gestrafft und von
@@ -82,10 +81,8 @@
                 umb iuver gemain statt und alle die iuvern ze gedienen. Geben an <lb n="10" /><origDate when="1417-01-19">zinstag nauch Hilary anno etc. XVIIo</origDate>.
                 <lb n="11"/><persName ref="stadtasg-actors-3" role="issuer">Cuni am Wasen</persName>
                 iuver 
-                <lb n="12"/>undertaeniger. </p>
-
-            <pb facs="StadtASG_Missive_1_2.JPG" n="2"/>
-            <p>
+                <lb n="12"/>undertaeniger.
+                <pb facs="StadtASG_Missive_1_2.JPG" n="2"/>
                 <lb n="13"/>Den ersamen wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
                     >burgermaister und <lb n="14"/>rat ze sant Gallen</orgName> minen gnaedigen 
                 <lb n="15"/>herren. </p>

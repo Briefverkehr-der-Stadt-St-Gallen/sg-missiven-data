@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 551</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_551_1123/1124</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ratsboten von Zürich, Luzern, Zug und Glarus wenden sich an Bürgermeister und Rat zu St. Gallen. Sie berichten von einem die Hochgerichtsbarkeit in Oberneunforn betreffenden Konflikt zwischen den neun Orten, die Teil haben an der Landgrafschaft im Thurgau, einerseits und Zürich andererseits und davon, dass sie zur Vermittlung einen Obmann, nämlich den St. Galler Säckelmeister Keller, gewählt haben.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-156">Recht</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-497">Säckelmeister</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-526">Ratsbote</term>
+<term ref="stadtasg-keywords-418">Landgrafschaft</term>
+<term ref="stadtasg-keywords-103">Urteil</term>
+<term ref="stadtasg-keywords-319">Landvogt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Möchten wir dieses Organisation je einzeln so aufnehmen? -->
+                    <orgName ref="stadtasg-actors-534">Eidgenössische Räte</orgName>                    <date>1522-10-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Noëmi Schöb</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Noëmi Schöb</persName>
+                <date>2025-08-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_551_1123.JPG" n="1"/>
+<p>
+<lb n="1"/>Unser früntlich willig dienst und alles guotz altzit zuo vor fürsichtigen ersamen und wysen lieben
+<lb n="2"/>und guoten fründ. Sich haltet etwz spans zwischen unsern gnedigen lieben herren und obern den
+<lb n="3"/>nün orten der aidtgnossen, so an der landtgrafschaft <placeName ref="stadtasg-places-103">Thurgoew</placeName> mitsampt unsern herren und getrüwen
+<lb n="4"/>lieben aidtgnossen von <placeName ref="stadtasg-places-32">Zürich</placeName> tail und gemain haben, ainer und den selben unsern herren von <placeName ref="stadtasg-places-32">Zürich</placeName>
+<lb n="5"/>der andern sydt beruerende etlich oberkait der hochen gerichten halb zuo <placeName ref="stadtasg-places-458">Obernüforen</placeName> etc., darumb kunt
+<lb break="no" n="6"/>schaft, darnach clag, antwurt, red und widerred gehoerdt ist etc. Nun uf den anlaß von unsern herren
+<lb n="7"/>und obern zuo baiden parthyen als sätzen uns angehengkt, dwil wir den span guetlich nit haben moegen
+<lb n="8"/>hinlegen, das wir recht darinn sprechen soellen, und ob wir in den urtailn zerfielen, dz wir ain
+<lb n="9"/>gemainen obman erwellen soellen in der gestalt, welhe urtail er meren und der volg geben sige, das dann
+<lb n="10"/>die selb die mer und besser sin soll etc. So syen wir in dem rechtspruch nit ainig worden und
+<lb n="11"/>haben daruf ainhellig zuo ainem gemainen obman erwelt üwern ratzfründ und seckelmaister
+<lb n="12"/>den <persName ref="stadtasg-actors-1311">Keller</persName>, das den aintwedre urtail meren soelle etc., wie wir im dann hiermit clag, antwurt, red,
+<lb n="13"/>widerred, die kuntschaft und handel zuo senden und inn darbi von unser herren und obern wegen pitten
+<lb n="14"/>syen, sich des handels zu beladen und aintwedrer urtail volg zuo geben etc. Darumb bitten üwer
+<lb n="15"/>wyßhait wir von unser herren und obern wegen mit allem ernst und flis früntlich, so
+<lb n="16"/>ver und vorgemelter üwer ratzfründ sich des handels muessigen und den nit annemen welte, dz
+<lb n="17"/>ir inn darzuo so vil halten, das er unsern herren in soelhem zuo willen und gefallen stande und tuege das,
+<lb n="18"/>so inn dann sin er und gewißne dem rechten zuo fürdrung wysen sige, dz stat unsern herren umb üwer
+<lb n="19"/>wyßhait, wa sich dz in der gelich merem ald minderm haischen wurde, früntlich zuo verdienen und ze ver
+<lb break="no" n="20"/>glichnen, und so ver inn bedungkte, im notturftig sin, den stoß ouch zuo besichtigen, dz denn semlichs
+<lb n="21"/>von im in kurtzem bescheche, ee und der winter mit schnee infiele. Datum und beschloßen mit
+<lb n="22"/>unsers getruwen lieben landtvogts von <placeName ref="stadtasg-places-70">Uri</placeName>, <persName ref="stadtasg-actors-1150" role="testis">Niclausen Muchhenus</persName> insigel in unser aller namen
+<lb n="23"/>an <origDate when="1522-10-01">mitwuch nach sant Michels tag anno etc. XXII</origDate>.
+<lb n="24"/>Von <placeName ref="stadtasg-places-32">Zürich</placeName>, <placeName ref="stadtasg-places-69">Lucern</placeName>, <placeName ref="stadtasg-places-10">Zug</placeName> und <placeName ref="stadtasg-places-73">Glarus</placeName>
+<lb n="25"/><orgName ref="stadtasg-actors-534" role="issuer">ratzbottenn</orgName> der zit zuo <origPlace ref="stadtasg-places-29">Frowenfeld</origPlace> im
+<lb n="26"/><placeName ref="stadtasg-places-103">Thurgoew</placeName> bienandern versamelt.
+<pb facs="StadtASG_Missive_551_1124.JPG" n="2"/>
+<lb n="27"/>Den fürsichtign ersamen und wysen
+<lb n="28"/><orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat der statt
+<lb n="29"/>sant Gallen</orgName> unsern günstigen
+<lb n="30"/>lieben und guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

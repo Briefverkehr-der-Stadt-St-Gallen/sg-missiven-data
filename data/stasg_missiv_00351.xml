@@ -48,7 +48,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <!-- absender kann natuerlich auch mit orgName getaggt sein -->
-                    <persName>Bürgermeister und Rat zu Biberach</persName>                    <date>1462-11-11</date>
+                    <orgName ref="stadtasg-actors-645">Bürgermeister und Rat zu Biberach</orgName>                    <date>1462-11-11</date>
                 </correspAction>
                 <correspAction type="received">
                     <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName> <placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
@@ -57,11 +57,11 @@
         <revisionDesc>
             <!-- eg. open, done, approved -->
             <change type="transcription" status="approved">
-                <persName>CS</persName>
+                <persName>Claudia Sutter</persName>
                 <date>2021-08-25</date>
             </change>
             <change type="tagging" status="done">
-                <persName>am</persName>
+                <persName>Alina Mächler</persName>
                 <date>2024-05-27</date>
             </change>
         </revisionDesc>

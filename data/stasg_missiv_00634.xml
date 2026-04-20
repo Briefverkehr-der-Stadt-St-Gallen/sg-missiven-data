@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 634</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnte <ref target="stasg_missiv_00634-suppl-01.xml">Beilage</ref> ist vorhanden. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00627.xml">627</ref>, <ref target="stasg_missiv_00628.xml">628</ref>, <ref target="stasg_missiv_00629.xml">629</ref>, <ref target="stasg_missiv_00631.xml">631</ref>, <ref target="stasg_missiv_00632.xml">632</ref>, <ref target="stasg_missiv_00636.xml">636</ref>, <ref target="stasg_missiv_00637.xml">637</ref> und <ref target="stasg_missiv_00638.xml">638</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_634_1447/1454</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                    <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_634_1447/1454</idno><altIdentifier type="filename"><idno>stasg_missiv_00634-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich informieren Bürgermeister und Rat zu St. Gallen über die Friedensverhandlungen bezüglich der Grafschaft und dem Herzogtum Burgund zwischen dem französischen König und dem Kaiser. Eine beigelegte Kopie eines Schreibens des Herrn von Blancfosse enthalte zudem einen Bericht über die Einnahme des Städtchens Saint-Dizier durch kaiserliche Truppen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-528">Friedensverhandlung</term>
+<term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-384">Grafschaft</term>
+<term ref="stadtasg-keywords-430">Herzogtum</term>
+<term ref="stadtasg-keywords-604">Beilage</term>              </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName><placeName ref="stadtasg-places-32">Zürich</placeName>                    <date>1544-09-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Nicole Stadelmann</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-03-30</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_634_1447.JPG" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig dienst sampt was wir eeren
+<lb n="2" />liebs unnd guots vermögen zuovor frommen fürsichtigen
+<lb n="3" />wyßen innsonders guoten fründ unnd getrüwen lieben
+<lb n="4" />eydtgnosßen. Wie wir üch verruckter zyten berichtet,
+<lb n="5" />das der römische keyßer<note>Gemeint ist <persName ref="stadtasg-actors-1229">Karl V.</persName></note>, deßglychen der künig<note>Gemeint ist <persName ref="stadtasg-actors-490">Franz I.</persName></note> von <placeName ref="stadtasg-places-131">Franck
+<lb break="no" n="6" />rych</placeName> die neütralitet oder den fridstand zwüschen dem
+<lb n="7" />hertzogthuom unnd der graffschafft <placeName ref="stadtasg-places-281">Burgundi</placeName> hiezwischen
+<lb n="8" /><date when="1544-09-01">hüttigem tag</date> bestäten unnd ir ratification verbriefft
+<lb n="9" />unns zuostellen sölten etc., hatt der <persName ref="stadtasg-actors-490">künig</persName> von
+<lb n="10" /><placeName ref="stadtasg-places-131">Franckrych</placeName> nächtigs abends sin ratiffication hie gehept
+<lb n="11" />unnd unns die überantwurten wellen. Diewyl
+<lb n="12" />wir aber von <persName ref="stadtasg-actors-1229">keyserlicher maiestät</persName> der ratiffication halb noch nüt
+<lb break="no" n="13" />zit empfangen noch gesechen, werdent wir gemeyn
+<lb n="14" />unnser eydtgnosßen<note>Gemeint ist die gemeine <orgName ref="stadtasg-actors-750">Eidgenossenschaft</orgName>.</note> der sach zuo tagen, wenn die
+<lb n="15" />angesetzt werdent, wyter walten lasßen. Unnd
+<lb n="16" />als wir üch nechermaln der uffgebung halb der statt
+<lb n="17" /><placeName ref="stadtasg-places-441">sanct Desier</placeName> keyn eygentschafft können zuoschryben,
+<lb n="18" />da habent ir uß deß <persName ref="stadtasg-actors-1264">herren Blancfosßa</persName> unns gethanem,
+<lb n="19" />hiebygelegtem schryben, wie die sach stannde, wyter zuo
+<lb break="no" n="20" />erlernnen. Was unns wyter zuokompt, soll üch
+<lb n="21" />mit erpietung unnserer guotwilligkeyt yederzyt unver
+<lb break="no" n="22" />halten plyben. Uß <origPlace ref="stadtasg-places-32">Zürich</origPlace> uff <origDate when="1544-09-01">sanct
+<lb n="23" />Verenentag 1544</origDate>.
+<lb n="24" /><orgName ref="stadtasg-actors-503" role="issuer">Burgermeyster unnd
+<lb n="25" />rath der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_634_1448.JPG" n="2" />
+<pb facs="StadtASG_Missive_634_1453.JPG" n="3" />
+<pb facs="StadtASG_Missive_634_1454.JPG" n="4" />
+<lb n="26" />Den frommen fürsichtigen wyßen
+<lb n="27" /><orgName ref="stadtasg-actors-148" role="recipient">burgermeyster unnd rath der statt
+<lb n="28" />sanct Gallen</orgName> unnsern innsonders
+<lb n="29" />guoten fründen unnd getrüwen
+<lb n="30" />lieben eydtgnosßen.
+</p>
+        </body>
+    </text>
+</TEI>

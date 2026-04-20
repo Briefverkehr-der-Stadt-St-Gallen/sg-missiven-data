@@ -12,6 +12,8 @@ Mächler, Alina / Glaser, Elvira, Amtliche Kommunikation im Bodenseeraum. Frühn
 
 Regionaljournal Ostschweiz, Historisches digitalisieren, 15. April 2024, abrufbar unter: [[Regionaljournal](https://www.srf.ch/audio/regionaljournal-ostschweiz/vogelgrippe-auf-dem-bauernhof-im-ernstfall-parat?id=12574394)]
 
+Regionaljournal Ostschweiz, Das Stadtarchiv St. Gallen zeigt Erkenntnisse aus mittelalterlichen Briefen, 2. November 2025, abrufbar unter: [[Regionaljournal](https://www.srf.ch/audio/regionaljournal-ostschweiz/100-tage-vor-olympia?id=AUDI20251102_NR_0016#autoplay)]
+
 Sonderegger, Stefan, Politik, Kommunikation und Wirtschaft über den See. Zu den Beziehungen im Bodenseegebiet im Spätmittelalter, in: Heimatkundliche Blätter für den Kreis Biberach 31/2008, S. 34–45. [[PDF](resources/pdfs/Sonderegger_Politik_Kommunikation_und_Wirtschaft_ueber_den_See_2008.pdf)]
 
 Sonderegger, Stefan, Steinach – Stadtsanktgaller Satellit im fürstäbtischen Territorium, in: Mayer Marcel / Hassler Gitta (Hg.), Die Steinach. Natur, Geschichte, Kunst und Gewässerschutz vom Birt zum Bodensee, St. Gallen 2012, S. 96–104. [[PDF](resources/pdfs/Sonderegger_Steinach_Stadtsanktgaller_Satellit_im_fuerstaebtischen_Territorium_2012.pdf)]

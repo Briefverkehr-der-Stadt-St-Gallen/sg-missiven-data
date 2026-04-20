@@ -61,11 +61,11 @@
         </profileDesc>
         <revisionDesc>
             <change type="transcription" status="approved">
-                <persName>tb</persName>
+                <persName>Thomas Bruggmann</persName>
                 <date>2018-12-07</date>
             </change>
             <change type="tagging" status="done">
-                <persName>dg</persName>
+                <persName>Dorothee Guggenheimer</persName>
                 <date>2019-07-08</date>
                 <note>Ausgegliederte Beilage aus Nr. 177.</note>
             </change>
@@ -76,12 +76,9 @@
         <body>
             <pb facs="StadtASG_Missive_177_355.JPG" n="1"/>
             <p>
-                <lb n="1"/>Den ersammen wysen <orgName ref="stadtasg-actors-148" role="recipient"
-                    >burgermaister und raetten zu <lb n="2"/>Santgallen</orgName> unsern sondern
-                lieben und guoten fründen. 
-                <lb n="3"/>Lieben fründe. Alz denn die francoesisen und waelschen lüt im <lb n="18"
+                <lb n="1"/>Lieben fründe. Alz denn die francoesisen und waelschen lüt im <lb n="2"
                     /><placeName ref="stadtasg-places-130">Cleggoew</placeName> und anderswa maechticlich in
-                dz land komen sint und sich <lb n="19"/>taeglichs, alz wir vernemen, sterkent, und
+                dz land komen sint und sich <lb n="3"/>taeglichs, alz wir vernemen, sterkent, und
                 och unser guot fründe <lb n="4"/>die aidgnosen
                 laider swarlich nider geleit haben, bittent wir <lb n="5"/>üwer guoten früntschafft
                 mit ernst vlißig, ob ir ihtz gewisses <lb n="6"/>davon vernomen haben ald noch

@@ -47,11 +47,11 @@
         <revisionDesc>
             <!-- eg. open, done, approved -->
             <change type="transcription" status="approved">
-                <persName>AW</persName>
+                <persName>Arman Weidenmann</persName>
                 <date>2021-08-25</date>
             </change>
             <change type="tagging" status="done">
-                <persName>am</persName>
+                <persName>Alina Mächler</persName>
                 <date>2024-09-10</date>
             </change>
         </revisionDesc>
@@ -75,7 +75,7 @@
 <lb n="12"/>das wöllen wir umb üwer gut früntschaft willigtlich
 <lb n="13"/>zuverdienen haben. Datum <origDate when="1468-01-23">sabato post Agnetis anno etc. LXVIIIno</origDate>.
 <lb n="14"/><orgName ref="stadtasg-actors-511" role="issuer">Burgermaister und
-<lb n="15"/>rat zu Lindaw</orgName>.
+<lb n="15"/>rat zu Lindow</orgName>.
 <pb facs="StadtASG_Missive_391_798.JPG" n="2"/>
 <lb n="16"/>Den ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burger
 <lb break="no" n="17"/>maister und rat zu Sanntgallen</orgName>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 592</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+              <notesStmt><note><p>Die erwähnte Beilage ist vorhanden: StadtASG/1/5/Tr.Q.1b 40, die sich im Urkundenbestand befindet. Kontext: In der Beilage teilen der Kurfürst Friedrich von Sachsen und Landgraf Philipp von Hessen den eidgenössischen protestantische Orten mit, dass sie ihre Missive vom 4. Mai am 24. Juli auf dem Bundestag zu Eisenach vorlegen werden. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00580.xml">580</ref>, <ref target="stasg_missiv_00581.xml">581</ref>, <ref target="stasg_missiv_00584.xml">584</ref>, <ref target="stasg_missiv_00585.xml">585</ref>, <ref target="stasg_missiv_00588.xml">588</ref> und <ref target="stasg_missiv_00594.xml">594</ref>.</p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_592_1255/1258</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich senden an Bürgermeister und Rat zu St. Gallen eine Kopie der Antworten der Fürsten von Sachsen und Hessen sowie Martin Luthers auf den von den Zürchern und St. Gallern an diese gesandten Brief.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-407">Reformator</term>
+<term ref="stadtasg-keywords-275">Fürst</term>
+<term ref="stadtasg-keywords-454">Kopie</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName><placeName ref="stadtasg-places-32">Zürich</placeName>                    <date>1538-07-24</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Noëmi Schöb</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-02-17</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_592_1255.JPG" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig diennst sampt was wir eeren
+<lb n="2" />liebs unnd guots vermögent zuovor frommen fürsichtigen
+<lb n="3" />wyßen besonnders guoten fründ unnd gethrüwen lieben
+<lb n="4" />eydgnosßen. <date when="1538-07-23">Gesterigs abennts</date> ist unnser diener mit der
+<lb n="5" />fürsten von <placeName ref="stadtasg-places-399">Sachsßen</placeName><note>Gemeint ist <persName ref="stadtasg-actors-1162">Johann Friedrich</persName>.</note> unnd <placeName ref="stadtasg-places-398">Hesßen</placeName><note>Gemeint ist <persName ref="stadtasg-actors-1163">Philipp</persName>.</note>, desglychen doctor
+<lb n="6" /><persName ref="stadtasg-actors-1206">Marthin Luthers</persName> anntwurten uff üwer unnd unnser
+<lb n="7" />iüngst an sy gethan schriben, wie ir die uß hieby gelegten
+<lb n="8" />copyen wyter habennt zuoerlernnen widerumb hieby
+<lb n="9" />unns ankommen, die haben wir üch alß unnser
+<lb n="10" />aller gemeyne sach nit lennger wellen unanzeygt
+<lb n="11" />lasßen, damit ir alß die frylich hierumb ouch
+<lb n="12" />verlanngen thragend dero unverzogenlich bericht
+<lb n="13" />werden, unnd alß vyl als wir wisßenns darumb
+<lb n="14" />haben möchten unns darneben aller früntligkeyt
+<lb n="15" />gegen üch erpyettennd. Uß <origPlace ref="stadtasg-places-32">Zürich</origPlace> uff <origDate when="1538-07-24">sannct
+<lb n="16" />Jacobs abennt anno etc. 1538</origDate>.
+<lb n="17" /><orgName ref="stadtasg-actors-503" role="issuer">Burgermeyster unnd
+<lb n="18" />rath der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_592_1256.JPG" n="2" />
+<pb facs="StadtASG_Missive_592_1257.JPG" n="3" />
+<pb facs="StadtASG_Missive_592_1258.JPG" n="4" />
+<lb n="19" />Den frommen fürsichtigen wysen
+<lb n="20" /><orgName ref="stadtasg-actors-148" role="recipient">burgermeyster unnd rath der statt
+<lb n="21" />sannct Gallen</orgName> unnsern be
+<lb break="no" n="22" />sonders guoten fründen unnd ge
+<lb break="no" n="23" />thrüwen lieben eydgnosßen.
+</p>
+        </body>
+    </text>
+</TEI>

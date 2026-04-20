@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -38,7 +39,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <!-- absender kann natuerlich auch mit orgName getaggt sein -->
-                    <persName ref="stadtasg-actors-1112">Ambrosius Eigen</persName><placeName ref="stadtasg-places-311">Mailand</placeName>                    <date>1502-07-21</date>
+                    <persName ref="stadtasg-actors-1112">Ambrosius Eigen (I)</persName><placeName ref="stadtasg-places-311">Mailand</placeName>                    <date>1502-07-21</date>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="stadtasg-actors-1012">Johannes Schenkli</persName>                </correspAction>
@@ -47,11 +48,11 @@
         <revisionDesc>
             <!-- eg. open, done, approved -->
             <change type="transcription" status="approved">
-                <persName>tb</persName>
+                <persName>Thomas Bruggmann</persName>
                 <date>2023-07-27</date>
             </change>
             <change type="tagging" status="done">
-                <persName>NSch</persName>
+                <persName>Noëmi Schöb</persName>
                 <date>2025-07-14</date>
             </change>
         </revisionDesc>

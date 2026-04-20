@@ -44,6 +44,7 @@
 <term ref="stadtasg-keywords-604">Beilage</term>
 <term ref="stadtasg-keywords-93">Mündlich</term>
 <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-524">Reichstaler</term>
                 </keywords>
             </textClass>
             <correspDesc>
@@ -58,11 +59,11 @@
         <revisionDesc>
             <!-- eg. open, done, approved -->
             <change type="transcription" status="approved">
-                <persName>ns</persName>
+                <persName>Nicole Stadelmann</persName>
                 <date>2021-08-25</date>
             </change>
             <change type="tagging" status="done">
-                <persName>am</persName>
+                <persName>Alina Mächler</persName>
                 <date>2025-01-27</date>
             </change>
         </revisionDesc>

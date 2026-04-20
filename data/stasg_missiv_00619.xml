@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 619</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_619_1361/1364</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau bitten Bürgermeister und Rat zu St. Gallen um Unterstützung in einer Erbschaftsangelegenheit. Ihr Bürger Konrad Wernz von Oberreitnau ist geordneter Vogt von Agatha Müller und Elisabeth Mösch, beide eheliche Töchter der verstorbenen Katharina Grublin aus Humbertsweiler. Agatha Müller, Tochter aus Katharinas erster Ehe mit Bartholomäus Müller, ist in St. Gallen verstorben und hat keine näheren Erben hinterlassen als ihre Halbschwester Elisabeth Mösch, Tochter aus Katharinas zweiter Ehe mit Martin Mösch. Elisabeth ist somit die einzige rechtmässige Erbin von Agatha. Lindau bittet St. Gallen, dem Vogt behilflich zu sein, damit die arme Waise zu ihrem rechtmässigen Erbe gelangen kann, und zwar mit möglichst geringen Kosten und auf dem schnellsten Weg.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-270">Vormundschaft</term>
+<term ref="stadtasg-keywords-5">Erbe</term>
+<term ref="stadtasg-keywords-82">Tod</term>
+<term ref="stadtasg-keywords-208">Familie</term>
+<term ref="stadtasg-keywords-325">Ehemann</term>
+ <term ref="stadtasg-keywords-263">Vogt</term>
+ <term ref="stadtasg-keywords-612">Schwester</term>
+ <term ref="stadtasg-keywords-82">Tod</term>
+ <term ref="stadtasg-keywords-450">Waise</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>                    <date>1542-07-24</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Nicole Stadelmann</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-02-23</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_619_1361.JPG" n="1" />
+<p>
+<lb n="1" />Unnser freundtlich willig diennst zuvor ersamen
+<lb n="2" />unnd weysen besonnder lieben unnd guten frunnd.
+<lb n="3" />Unnser burger <persName ref="stadtasg-actors-1231">Connrat Wernz</persName> von <placeName ref="stadtasg-places-416">Oberraytnow</placeName>
+<lb n="4" />hat unns furgepracht, wie das er weilennd <persName ref="stadtasg-actors-1232">Ka
+<lb break="no" n="5" />tharina Grublinen</persName> seligen zu <placeName ref="stadtasg-places-417">Humeratzschwyler</placeName> gesessen
+<lb n="6" />zwayer eelichen döchtern, namlich <persName ref="stadtasg-actors-1233">Agatha Mullerin</persName>,
+<lb n="7" />so sy bey irem ersten eewurt sälig, <persName ref="stadtasg-actors-1235">Bartholme
+<lb n="8" />Müller</persName> genannt, und <persName ref="stadtasg-actors-1234">Elspethen</persName>, die sy bey irem
+<lb n="9" />anndern eewurt <persName ref="stadtasg-actors-1236">Martin Mäschen</persName> sälig geporn
+<lb n="10" />hette, geordneter vogt wäre. Dieweil dann die
+<lb n="11" />ain, sein vogtdochter <persName ref="stadtasg-actors-1233">Agatha Mullerin</persName>, in euer ersam weisheit
+<lb n="12" />statt mit tod abganngen unnd dhainen nächern
+<lb n="13" />erben, dann die annder sein vogtdochter,
+<lb n="14" /><persName ref="stadtasg-actors-1234">Elspethen Möschin</persName>, alls ir eeleipliche schwoster
+<lb n="15" />verlassen hette, hat er unns zuverfolgung
+<lb n="16" />seiner vogtdochter erbsgerechtigkait an euer ersam weisheit
+<lb n="17" />umb furschrifft gepetten. So nun wir achten,
+<lb n="18" />das angezaigt verwanndtnus kundtpar, auch
+<lb n="19" />das es ain armer wayß ist und vil vergebens
+<lb n="20" />costens nit ertragen mag, so lanngt an euer ersame weisheit
+<lb n="21" />unnser freundtlich pitt, sy wöllen genanntem
+<lb n="22" />des waysen vogt beholffen sein, darmit er
+<lb n="23" />zu dem, das dem armen waysen von rechts
+<lb n="24" />wegen gepurt, zuerfürderlichsten unnd mit weinigstem
+<pb facs="StadtASG_Missive_619_1362.JPG" n="2" />
+<lb n="25" />costen komen unnd diser unnser furschrifft
+<lb n="26" />fruchtbarlich genossen zehaben spuren muge.
+<lb n="27" />Das wöllen wir umb euch fründtlich haben
+<lb n="28" />zubeschulden. Datum den <origDate when="1542-07-24">XXIIII tag iuly
+<lb n="29" />anno etc. XXXXII</origDate>.
+<lb n="30" /><orgName ref="stadtasg-actors-511" role="issuer">Burgermayster und rathe
+<lb n="31" />der statt Lynndaw</orgName>.
+<pb facs="StadtASG_Missive_619_1363.JPG" n="3" />
+<pb facs="StadtASG_Missive_619_1364.JPG" n="4" />
+<lb n="32" />Den ersamen unnd weysen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="33" />mayster unnd rathe der statt sant
+<lb n="34" />Gallen</orgName> unnsern besonndern lieben
+<lb n="35" />unnd guten freunden.
+</p>
+        </body>
+    </text>
+</TEI>

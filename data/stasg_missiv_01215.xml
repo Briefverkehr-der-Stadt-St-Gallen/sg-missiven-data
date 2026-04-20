@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1215</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_01214.xml">1214</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1215_4019/4022</idno>
+                                            </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Appenzell fordern Bürgermeister und Rat zu St. Gallen wiederholt zur Beilegung des Münzstreites auf. Dabei erwähnen sie, dass die St. Galler Appenzeller Landleute früher schon mit dem Garnkauf geplagt hätten. Zudem sei der Vorwurf des Fürkaufs von Luggmilch lächerlich und spöttisch. Sie bitten um schriftliche Antwort mit diesem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-36">Münze</term>
+<term ref="stadtasg-keywords-399">Läufer</term>
+<term ref="stadtasg-keywords-83">Frieden</term>
+<term ref="stadtasg-keywords-321">Schriftlich</term>
+<term ref="stadtasg-keywords-93">Mündlich</term>
+<term ref="stadtasg-keywords-492">Spott</term>
+<term ref="stadtasg-keywords-317">Garn</term>
+<term ref="stadtasg-keywords-91">Handel</term>
+<term ref="stadtasg-keywords-284">Kauf</term>
+<term ref="stadtasg-keywords-613">Fürkauf</term>
+<term ref="stadtasg-keywords-403">Wucher</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-506">Ammann und Rat zu Appenzell</orgName>                    <date>1587-09-06</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Alina Mächler</persName> <persName>Stefan Sonderegger</persName>
+                <date>2026-01-19</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-02-24</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_1215_4019.jpg" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig dienst sampt allem vermögen eeren
+<lb n="2" />liebs unnd guotts zuovor fromen fürsichtigen ersamen und wisen
+<lb n="3" />insonders guotten fründ unnd getrüwen lieben nachpuren. Es
+<lb n="4" />ist nonthallme allerlay möntz sortten gschrifflich
+<lb n="5" />unnd montlich gnuog gredt unnd ghanndlet, weliches doch
+<lb n="6" />allän der tick pfennigen halb nüt gang haben wil, wie dann
+<lb n="7" />gesteren sich vil onwillen zuogetragen etc. So habennd ir
+<lb n="8" />üch wol zuo erinneren, wie ir die unseren mit dem ernstlichen
+<lb n="9" />garn khouff geblagt unnd umb zogen etc. Zum anderen
+<lb n="10" />do man nüt hatt gwist, sind ir mit dem spöttlichern
+<lb n="11" />unnd lächerigen fürkhouff der luggmilch khomen etc.
+<lb n="12" />Zum dritten, wie ir unns iezund am schnuorli umbfüren
+<lb n="13" />mit den ticken pfennigen etc. Gott bittende, er welle
+<lb n="14" />üwer gmütter unnd herzen erwaichen, zuo betrachten den
+<lb n="15" />nachpürlichen friden, ruow unnd ainigkait, dem frommen
+<lb n="16" />vatterland das selbig mher ansechen dann ettlich personen
+<lb n="17" />der schinderen unnd schaber deß grossen wuochers etc., mit ernstlichem
+<lb n="18" />begerren, ir wellind uns by disem unserm loüffers potten
+<lb n="19" />gschrifftlich berichten, was wir uns gegen üch zuo versechen
+<lb n="20" />habend, damit gott dem allmaichtigen disen
+<lb n="21" />handel in sinen göttlichen schutz unnd schirm, was zuo
+<lb n="22" />frid, ruow unnd ainigkaitt dienen mag, befolchende.
+<lb n="23" />Datum <origDate when="1587-09-06">sontag den 6 tag septembri anno 87</origDate>.
+<lb n="24" /><orgName ref="stadtasg-actors-506" role="issuer">Lanndtaman und rath
+<lb n="25" />zuo Appennzell</orgName>.
+<pb facs="StadtASG_Missive_1215_4020.jpg" n="2" />
+<pb facs="StadtASG_Missive_1215_4021.jpg" n="3" />
+<pb facs="StadtASG_Missive_1215_4022.jpg" n="4" />
+<lb n="26" />Den frommen fürsichtigen ersamen und wisen heren
+<lb n="27" /><orgName ref="stadtasg-actors-148" role="recipient">burgermaister unnd rath der statt sant Gallen</orgName>
+<lb n="28" />unnsern besonders guotten fründen und getrüwenn
+<lb n="29" />lieben nachpuren.
+</p>
+        </body>
+    </text>
+</TEI>

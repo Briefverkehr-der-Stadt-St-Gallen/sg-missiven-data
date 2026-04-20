@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 628 Beilage 1</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. <ref target="stasg_missiv_00628.xml">628</ref>. Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_628_1399/1408</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die Tagsatzung nimmt in einem gemeinsamen Schreiben Stellung zu den Vorwürfen des Kaisers und der Reichsstände, sie unterstützten durch fremde Dienste den König von Frankreich, der in einem Bündnis mit den Osmanen stehe. So würden die Eidgenossen die ganze Christenheit gefährden.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+  <term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-344">Solddienst</term>
+<term ref="stadtasg-keywords-458">Türkenkrieg</term>
+<term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-520">Bündnis</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName><placeName ref="stadtasg-places-32">Zürich</placeName>                    <date>1544-05-03</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="open">
+                <persName>Nicole Stadelmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="open">
+                <persName>Alina Mächler</persName>
+                <date>2026-03-24</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_628_1399.JPG" n="1" />
+<p>
+<pb facs="StadtASG_Missive_628_1400.JPG" n="2" />
+<pb facs="StadtASG_Missive_628_1401.JPG" n="3" />
+<pb facs="StadtASG_Missive_628_1402.JPG" n="4" />
+<pb facs="StadtASG_Missive_628_1403.JPG" n="5" />
+<pb facs="StadtASG_Missive_628_1404.JPG" n="6" />
+<pb facs="StadtASG_Missive_628_1405.JPG" n="7" />
+<pb facs="StadtASG_Missive_628_1406.JPG" n="8" />
+</p>
+        </body>
+    </text>
+</TEI>

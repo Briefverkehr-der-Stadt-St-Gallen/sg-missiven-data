@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 607</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_607_1323/1324</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Rasi Appenzeller bittet Bürgermeister und Rat zu St. Gallen, ihn wieder in der Stadt aufzunehmen. Er verspricht, seine Schulden zu zahlen und nicht mehr zu spielen, und unterwirft sich im Übertretungsfall der städtischen Strafgewalt. Zur Begründung seines Gesuchs verweist er auf erlittene Schäden und Verletzungen bei Arbeiten und Hilfeleistungen, unter anderem am Albasberg sowie bei der Walke am Schorenweg, und erklärt, offene Forderungen vor Gericht einziehen und zur Schuldentilgung verwenden zu wollen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+   <term ref="stadtasg-keywords-566">Aufnahme</term>
+<term ref="stadtasg-keywords-514">Heimkehr</term>
+<term ref="stadtasg-keywords-13">Schulden</term>
+<term ref="stadtasg-keywords-24">Klage</term>
+<term ref="stadtasg-keywords-300">Schaden</term>
+<term ref="stadtasg-keywords-97">Walke</term>
+<term ref="stadtasg-keywords-258">Leinwand</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1188">Rasi Appenzeller</persName>                    <date>1541-04-27</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Nicole Stadelmann</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-01-14</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_607_1323.JPG" n="1" />
+<p>
+<lb n="1" />Ersamen fürsichtigenn wisenn günstigen liebenn herrenn. Ich bitt euch,
+<lb n="2" />das ir mich wider umb herin lassind, unnd hann ich üch erzirnt, so bitt ich üch
+<lb n="3" />umb gotts willenn, ir wellend mir verzeichen, ich wills fürhin nimer mer thon.
+<lb n="4" />So will ich wercken wie einem frumen biderman und mit bürger zuo statt, das
+<lb n="5" />ich die schulden zallen, und will numenn spillen. Wo ich aber füro hin mer
+<lb n="6" />wurde spilen, so wisend mich für die statt und numen mer darin. Unnd
+<lb n="7" />bin deß willens, fürohin kein schuld nimermer ze machen, das clag ab mir
+<lb n="8" />meg komen, noch nüth ze koffen, ich habs den ze zallen mit der hilff gottes,
+<lb n="9" />wo ich das nit thet, so sond ir mine herren mich straffen nach euwer erkantnuß.
+<lb n="10" />Sehend ouch an, das ich uff den Albasberg<note>Nicht indentifizerbar.</note> guotwillig bin zogen und da
+<lb n="11" />ein grossen schaden empfangen, namlich das ich lam bin gehouwen und ouch
+<lb n="12" />forder iars, do das groß wasser die linwat wolt hinweg fueren, do niemant ins
+<lb n="13" />wasser wolt, sprang ich hin ein und waget lib und leben, und zway mal
+<lb n="14" />by der walcke an Schorrenweg<note>Nicht indentifizerbar.</note> ouch im waser lib und min leben gewaget, das
+<lb n="15" />sind in gutem eingedenck, und lond mich sölichs heut geniessen, und
+<lb n="16" />ist man mir ouch schuldig in der statt gericht, das kan ich ietz nit einziechen,
+<lb n="17" />das welte ich einziechen und an mine schulden keren und iederman zefriden
+<lb n="18" />stellen, wo ir mine herren ietz mir gnedig sind. Ietz mal nit me, dann gott
+<lb n="19" />sye mit uns allen. Datum am <origDate when="1541-04-27">27 tag aprilis 1541 iar</origDate>.
+<lb n="20" />Von mir <persName ref="stadtasg-actors-1188" role="issuer">Rasin Appozeller</persName>.
+<pb facs="StadtASG_Missive_607_1324.JPG" n="2" />
+<lb n="21" />Der brieff gehert dem für
+<lb break="no" n="22" />sichten wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="23" />und radt der statt sankt Gal
+<lb break="no" n="24" />len</orgName> zuo handenn.
+</p>
+        </body>
+    </text>
+</TEI>

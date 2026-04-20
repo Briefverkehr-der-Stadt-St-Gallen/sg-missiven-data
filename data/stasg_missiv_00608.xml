@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 608</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+             <notesStmt><note><p>Zur Sache siehe wohl auch die Missive Nr. <ref target="stasg_missiv_00615.xml">615</ref>, in der sich Christian Appenzeller bei Bürgermeister und Rat zu St. Gallen für ihre wohlwollende Antwort bedankt.</p></note></notesStmt> 
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_608_1325/1326</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Gemeinde zu Uttwil empfehlen Bürgermeister und Rat zu St. Gallen Christian Appenzeller, Bürger von St. Gallen und Prädikant in Uttwil, in einer ihnen unbekannten Sache anzuhören.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-602">Prädikant</term>
+<term ref="stadtasg-keywords-383">Gottesdienst</term>
+<term ref="stadtasg-keywords-87">Empfehlung</term>
+<term ref="stadtasg-keywords-320">Kirche</term>
+<term ref="stadtasg-keywords-366">Religion</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-1189">Amann und Gemeinde zu Uttwil</orgName><placeName ref="stadtasg-places-159">Uttwil</placeName>                    <date>1541-07-22</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Nicole Stadelmann</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-02-04</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_608_1325.JPG" n="1" />
+<p>
+<lb n="1" />Unser gantz früntlich willig dienst darzuo was
+<lb n="2" />wir eren liebs und guotz vermogen sig üch alzitt
+<lb n="3" />zuovor fromm fursichtig wis günstig ir min heren und trüwen
+<lb n="4" />guoten fründ und nachpuren. Als dan <persName ref="stadtasg-actors-1190">Crista Appenzeller</persName>,
+<lb n="5" />üwer burger und ietz unser predicant, us üwer verwilgung
+<lb n="6" />uns zuogestelt, des wir üch lob, er und danck sagen, und
+<lb n="7" />ietz an zit lang bi uns gsin, sich mit siner ler und
+<lb n="8" />underwisung och das hailig gotzwort trülich und wol
+<lb n="9" />verkünt, daran wir ouch ander unser nachpuren an guot
+<lb n="10" />gnuegen und wol gfallen haben, och sich mit sinem wesen
+<lb n="11" />und wandel bishar bi uns fromclich, erlich und wolgehalten,
+<lb n="12" />darumb ist unser gar underthenig früntlich pit und beger
+<lb n="13" />an üwer wishait, ir wellen im dz best thon erlicher
+<lb n="14" />pit halb, so er an üch min heren thon werde (das wir dan nit
+<lb n="15" />mogen wissen), als wir uns dan wol versehen, dz ir gegen
+<lb n="16" />mengclichem und insonders gegen üweren burgren thuegen,
+<lb n="17" />alles das billichait vermoege. Stait uns, ainem amann und
+<lb n="18" />gantzen gmaind, in allem dem wir üch fromen vesten bur
+<lb break="no" n="19" />germaister und ratt, darzuo ainer gantzen statt, dienen
+<lb n="20" />und thon kunden, darzuo wellen wir alweg mit under
+<lb break="no" n="21" />thenigem willig und gnaigt sin als trüw guot
+<lb n="22" />fründ und nachpuren, nit mer, dan got sig mit
+<lb n="23" />uns allen. Datum zuo <origPlace ref="stadtasg-places-159">Utwil</origPlace> uff <origDate when="1541-07-22">sant Maria Magda
+<lb break="no" n="24" />lene im XXXXI iare</origDate>.
+<lb n="25" /><orgName ref="stadtasg-actors-1189" role="issuer">Aman und gantze gmaind
+<lb n="26" />zuo Utwil</orgName>.
+<pb facs="StadtASG_Missive_608_1326.JPG" n="2" />
+<lb n="27" />Den fromenn vesten fürsich
+<lb break="no" n="28" />tigen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="29" />und ratt zuo sannt Gallen</orgName>
+<lb n="30" />unsern insonders günstigen
+<lb n="31" />und lieben herren.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -47,11 +48,11 @@
         <revisionDesc>
             <!-- eg. open, done, approved -->
             <change type="transcription" status="approved">
-                <persName>tb</persName>
+                <persName>Thomas Bruggmann</persName>
                 <date>2023-07-27</date>
             </change>
             <change type="tagging" status="done">
-                <persName>NSch</persName>
+                <persName>Noëmi Schöb</persName>
                 <date>2025-07-14</date>
             </change>
         </revisionDesc>

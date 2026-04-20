@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1247</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1247_4173/4176</idno>
+                                            </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Landammann Johannes Tanner und Rat zu Appenzell bitten Bürgermeister und Rat zu St. Gallen dafür zu sorgen, dass künftig keine St. Galler mehr an der Appenzeller Landsgemeinde teilnehmen. Es seien nämlich viele Leute aus der Nachbarschaft in der Landsgemeinde gestanden und hätten an der Wahl von Amtsleuten teilgenommen und dies nicht nur mit dem Erheben einer, sondern von zwei Händen. Die St. Galler sollen dafür sorgen, dass am Landsgemeindetermin die ihrigen bei ihnen bleiben, wie auch sie dafür sorgten, dass am Wahltag der St. Galler Räte ihre Landsleute bei ihnen bleiben.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+   <term ref="stadtasg-keywords-213">Unruhe</term>
+<term ref="stadtasg-keywords-233">Wahl</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-496">Betrug</term>
+<term ref="stadtasg-keywords-131">Versammlung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1254">Johannes Tanner</persName>    <orgName ref="stadtasg-actors-506">Bürgermeister und Rat zu Appenzell</orgName>                 <date>1589-04-24</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Alina Mächler</persName> <persName>Stefan Sonderegger</persName>
+                <date>2026-01-19</date>
+            </change>
+           <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-02-26</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_1247_4173.jpg" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig dienst sampt aller eeren
+<lb n="2" />liebs unnd guotts zuovor fromen fürsichtigen ersamen
+<lb n="3" />unnd wysen insonders guotten fründ unnd gethrüwen lieben
+<lb n="4" />nachpuren. Ir habend üch wol zuoerinneren, was ufruor
+<lb n="5" />unnd zwytracht vern in unnserm lannd gsin etc. Wir
+<lb n="6" />habend ouch mit schmerzen empfanngen, was laids die
+<lb n="7" />nachpürtten daran gehept habend, dann offennbarlich
+<lb n="8" />das vil lüth uß der nachpurschafft allenthalben
+<lb n="9" />in der gmaind gstannden unnd die amptlütt
+<lb n="10" />hellffen sezen, nit allein ein hand, sonder baide hennd
+<lb n="11" />uff gehept habend. Die eidtgnossen habend ouch gesechen,
+<lb n="12" />wie es zuo ist ganngen etc. Unnd damit fürohin byn üch
+<lb n="13" />unnd anderen nachpürtten dester mher fründtliche nachpur
+<lb break="no" n="14" />schafft pflannzet werdi unnd vilen argwon zuo ver
+<lb break="no" n="15" />miden, so langt unnser früntlichs nachpürlichs pitt
+<lb n="16" />unnd begeren, ir wellind uf die ietzigen lanndsgmaind
+<lb n="17" />die üweren anheimsch (wie wir ouch, wan üweri
+<lb n="18" />räth unnd gmainden sind) behallten, dann es gwüss
+<lb break="no" n="19" />lich mehr fründtschafft dann unfründtschafft geberren
+<lb n="20" />wirtt, ir mögend ouch nit wissen, wan die üweren uß
+<lb n="21" />khomend, was sy thuond. Wo dann wir, söllichs umb üch
+<lb n="22" />nachpürlicher wiß khönnen verdienen, sind wir gannz
+<lb n="23" />gneigt unnd guott willig. Darmit gott dem herren
+<lb n="24" />trülich befelchende. Datum den <origDate when="1589-04-24">24 aprilis anno 89</origDate>.
+<lb n="25" />Lanndtaman <persName ref="stadtasg-actors-1254" role="issuer">Johanes Thanner</persName> und
+<lb n="26" /><orgName ref="stadtasg-actors-506" role="issuer">rath zuo Appenzell</orgName>.
+<pb facs="StadtASG_Missive_1247_4174.jpg" n="2" />
+<pb facs="StadtASG_Missive_1247_4175.jpg" n="3" />
+<pb facs="StadtASG_Missive_1247_4176.jpg" n="4" />
+<lb n="27" />Den fromen fürsichtigen ersamen unnd
+<lb n="28" />wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister unnd rath zuo sanct
+<lb n="29" />Gallen</orgName> unnsern insonders guotten fründen
+<lb n="30" />unnd getrüwen lieben nachpuren.
+</p>
+        </body>
+    </text>
+</TEI>

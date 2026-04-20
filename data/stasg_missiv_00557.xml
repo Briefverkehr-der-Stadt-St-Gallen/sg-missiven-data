@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 557</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_557_1135/1136</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Thun wenden sich wegen Kriegshandlungen mit dem Herzog von Mailand namens der Drei Bünde an Bürgermeister und Rat zu St. Gallen. Sie haben ihren Mitbürger Michel Burgauer mit dem Auftrag der Beschaffung von Büchsenpulver nach St. Gallen gesandt und bitten um Unterstützung.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-484">Kriegshilfe</term>
+<term ref="stadtasg-keywords-326">Büchse</term>
+<term ref="stadtasg-keywords-277">Herzog</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-327">Waffe</term>
+<term ref="stadtasg-keywords-345">Zeiger</term>
+               </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-1144">Bürgermeister und Rat zu Thun</orgName>                    <date>1525-10-30</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Noëmi Schöb</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Noëmi Schöb</persName>
+                <date>2025-10-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_557_1135.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich willig diennst unnd was wir eren liebs und guots vermögend zuovor fürsichtigen
+<lb n="2"/>ersamen wysen sonnders lieben guotten fründ und getrüwen pundtzgnossen. Als dann wir
+<lb n="3"/>und gemain dry pündt in kriegs übungen gegen dem hetzog von <placeName ref="stadtasg-places-311">Maylandt</placeName> komen sind,
+<lb n="4"/>als ir unns ungezwifflet in guottem wüssen tragend unnd aber unns villicht an büchsen
+<lb n="5"/>pulver ettwas mangels sin wil, hieruff so habend wir <persName ref="stadtasg-actors-1149">Micheln Burgöwer</persName>, unsern
+<lb n="6"/>mit burger, zuo üch als zuo denen, da wir ain sonnder guot vertruwen habend,
+<lb n="7"/>abgefertigot. Unnd ist unnser früntlich pitt und beger an üch, ir wellend unns
+<lb n="8"/>in namen und an statt gemainer dry pünthen biß uff die acht som büchsen bulver,
+<lb n="9"/>es sy von üch oder sondern ain litzigen personen, dero ir mechtig sind, fürsetzen
+<lb n="10"/>und zuo schicken lut zöger diß brieffs, dann es uns ietzmals an der nott gelegen
+<lb n="11"/>sin wil, da wellen wir in namen und anstatt gemainer dry pünthen fürstand
+<lb n="12"/>thuon unnd darumb zuo bezalen versprechen und verhaissen, damit üch und
+<lb n="13"/>andern söllichs in mitler zytt redlich und wol bezalt were. Bitten üch
+<lb n="14"/>ouch hierby, ir wellend uns, wo söllichs by üch nit erfunden werden möchte,
+<lb n="15"/>gegen andern fürstand thuon und unns khains wegs verlassen, sonders damit
+<lb n="16"/>zehilff komen. Des wir unns gentzlich als zuo unnsern sonnders lieben und
+<lb n="17"/>getrüwen pundtsgnossen versechend, wellen ouch sömlichs allzytt in sonder
+<lb break="no" n="18"/>hait zuo verdienen haben. Datum <origDate when="1525-10-30">mentags nechst nach Simonis und Iude
+<lb n="19"/>anno etc. XXVo</origDate>.
+<lb n="20"/><orgName ref="stadtasg-actors-1144" role="issuer">Burgermaister unnd ratt
+<lb n="21"/>der statt Thun</orgName>.
+<pb facs="StadtASG_Missive_557_1136.JPG" n="2"/>
+<lb n="22"/>Den fürsichtigen ersamen und wysen
+<lb n="23"/><orgName ref="stadtasg-actors-148" role="recipient">burgermaister unnd ratt dr statt
+<lb n="24"/>sant Gallen</orgName> unnsern besonndern
+<lb n="25"/>guotten fründen und getrüwen puntz
+<lb break="no" n="26"/>gnossen.
+</p>
+        </body>
+    </text>
+</TEI>

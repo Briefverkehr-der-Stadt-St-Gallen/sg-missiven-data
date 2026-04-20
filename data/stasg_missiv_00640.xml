@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 640</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnte <ref target="stasg_missiv_00640-suppl-01.xml">Beilage</ref> ist vorhanden.</p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_640_1481/1482</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                                    <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_640_1481/1482</idno><altIdentifier type="filename"><idno>stasg_missiv_00640-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Nördlingen bitten Bürgermeister und Rat zu St. Gallen, die der Missive beigelegte Supplikation ihres Bürgers Paul Gall, Binder, zu unterstützen. Im Namen seiner Mutter, Bürgerin zu Nördlingen, bittet Gall um ein Verhör des St. Galler Bürgers Martin Hux. Dessen Aussage soll in einer versiegelten Urkunde festgehalten und Paul Gall überreicht werden. Dieser komme für die Unkosten auf.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+       <term ref="stadtasg-keywords-603">Supplikation</term>
+        <term ref="stadtasg-keywords-604">Beilage</term>   
+<term ref="stadtasg-keywords-21">Rechtshilfe</term>
+<term ref="stadtasg-keywords-141">Befragung</term>
+<term ref="stadtasg-keywords-56">Urkunde</term> 
+<term ref="stadtasg-keywords-211">Kosten</term>    
+<term ref="stadtasg-keywords-336">Zeuge</term>      
+<term ref="stadtasg-keywords-337">Zeugenaussage</term> 
+<term ref="stadtasg-keywords-585">Mutter</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>    </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-903">Bürgermeister und Rat zu Nördlingen</orgName>                    <date>1544-11-28</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Nicole Stadelmann</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-03-10</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_640_1481.JPG" n="1" />
+<p>
+<lb n="1" />Unnser freuntlich willig diennst zuvor ersamen weisen lieben unnd guten
+<lb n="2" />freund. Wolchermassenn auff <date when="1544-11-28">heut dato</date> unnser burger <persName ref="stadtasg-actors-1258">Paul Gall</persName>, der binder<note>Wohl Beruf des Fassbinders.</note>, an
+<lb n="3" />unns supplicirt, unnd umb diß unnser fürschrifft oder compaß an ewer fromme weisheit gepeten,
+<lb n="4" />habenn dieselbenn ab innligennder seiner, unns uberraichter supplication zuver
+<lb break="no" n="5" />nemenn. Dieweil wir dann die unnsern inn zimlichen unnd billichenn sachenn
+<lb n="6" />unnd sonnderlich disen unnsern burger an statt unnd vonn wegenn seiner mutter,
+<lb n="7" />unnserer burgerin, zefürdern schulldig unnd gnaigt sein unnd dann menigklich die
+<lb n="8" />warhait steurn unnd dero fürderung beweisen soll, so gelanngt an ewer ehrsame weisheit unser
+<lb n="9" />freuntlich bith, sy wöllen gedachten <persName ref="stadtasg-actors-1259">Martin Huchssen</persName>, ewer ehrsame weisheit burger, auff gemellts
+<lb n="10" /><persName ref="stadtasg-actors-1258">Gallenn</persName> hierinverwarte supplication, der warhait zesteur, gonnstigklich verhören unnd
+<lb n="11" />allßdann vonn desselbenn sag gemelltem unnserm burger glaubwirdige, versigellte urkhund,
+<lb n="12" />auff sein cosstenn, gonnstigelich mitthaylen, sich dero zur notturfft habenn zugeprauchen.
+<lb n="13" />Unnd beweisenn sich ewer ehrsame weisheit demnach in dem gegenn unnserm burger dermassen
+<lb n="14" />unnd so guttwillig, wie zu derselbenn unnser guts vertrawenn steet, damit die war
+<lb break="no" n="15" />hait gefürdert unnd der unnser diser unnserer fürschrifft fruchtbarlichenn genossen
+<lb n="16" />habenn befundenn müge. Das umb ewer ehrsame weisheit begern wir inn dergleichen unnd
+<lb n="17" />mehrerm mit willenn zuverdiennen. Datum <origDate when="1544-11-28">28 novembris anno etc. 44</origDate>.
+<lb n="18" /><orgName ref="stadtasg-actors-903" role="issuer">Burgermaister unnd rath
+<lb n="19" />zu Nordlingenn</orgName>.
+<pb facs="StadtASG_Missive_640_1482.JPG" n="2" />
+<lb n="20" />Den ersamen unnd weisen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="21" />maister unnd rath der statt zu sannt
+<lb n="22" />Gallen</orgName> unnsern lieben unnd gut
+<lb break="no" n="23" />tenn freunden.
+</p>
+        </body>
+    </text>
+</TEI>

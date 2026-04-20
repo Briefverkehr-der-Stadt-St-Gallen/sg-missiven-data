@@ -8,7 +8,7 @@
                 <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
             </publicationStmt>
             <notesStmt>
-                <note><p> Die erwähnte Abschrift ist nicht vorhanden.</p></note>
+                <note><p>Die erwähnte Abschrift ist nicht vorhanden.</p></note>
             </notesStmt>
                         <sourceDesc>
                 <msDesc type="missiv">                    <msIdentifier>
@@ -53,11 +53,11 @@
         <revisionDesc>
             <!-- eg. open, done, approved -->
             <change type="transcription" status="approved">
-                <persName>CS</persName>
+                <persName>Claudia Sutter</persName>
                 <date>2021-08-25</date>
             </change>
             <change type="tagging" status="done">
-                <persName>NSch</persName>
+                <persName>Noëmi Schöb</persName>
                 <date>2022-11-16</date>
             </change>
         </revisionDesc>

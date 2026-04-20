@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1245</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1245_4161/4164</idno>
+                                            </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss, Landammann und Räte der fünf katholischen Orte in Luzern bitten Bürgermeister und Rat zu St. Gallen, sich in die Unruhen rund um Jost Jakob im Land Appenzell nicht einzumischen. Sie bitten um eine schriftliche Antwort mit dem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-213">Unruhe</term>
+<term ref="stadtasg-keywords-12">Gesandter</term>
+<term ref="stadtasg-keywords-646">Katholisch</term>
+<term ref="stadtasg-keywords-95">Warnung</term>
+<term ref="stadtasg-keywords-29">Mahnung</term>
+<term ref="stadtasg-keywords-345">Zeiger</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-399">Läufer</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-777">Katholische Orte der Eidgenossenschaft (UR, SZ, UW, LU, ZG)</orgName><placeName ref="stadtasg-places-69">Luzern</placeName>                    <date>1589-03-28</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Alina Mächler</persName> <persName>Stefan Sonderegger</persName>
+                <date>2026-01-19</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-02-26</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_1245_4161.jpg" n="1" />
+<p>
+<lb n="1" />Unnser frünndtlich willig dienst sampt was wir eeren
+<lb n="2" />liebs unnd guotts vermögent zuovor from fürsichtig
+<lb n="3" />eersam wyss innsonders guott frünndt unnd gethrüw
+<lb n="4" />lieb eydtgnossen. Wir habent üch zuovor meermalen
+<lb n="5" />so wol durch mittel uwerer abgesannten zuo tagen unnd
+<lb n="6" />sonst durch anndere gelegenheit auch durch unnsere schryben
+<lb n="7" />frundtlich unnd eydtgnossisch ermanen unnd ersuochen lassen,
+<lb n="8" />das ir hannd obhallten unnd verschaffen wöllen, das
+<lb n="9" />so wol die üweren allss anndere, so uss dem landt
+<lb n="10" /><placeName ref="stadtasg-places-8">Appenzell</placeName> kürzlich hinder üch gezogen, sich der appen
+<lb break="no" n="11" />zellerischen sachen auch verganngner unbefridigeter
+<lb n="12" />unruwen nüzit beladen, sonnder still unnd ruwig hallten
+<lb n="13" />sollen, da wir unns versehent, söllich unnser vil
+<lb break="no" n="14" />falltig vermanen unnd verwarnen sollte nach üwerem
+<lb n="15" />starcken anerbieten sovil fruchtbar gewäsen unnd
+<lb n="16" />erschossen, das weder wir noch diesellbigen unnser
+<lb n="17" />gethruw lieb <orgName ref="stadtasg-actors-506">eydtgnossen von Appenzell</orgName> wytter damit sollten ze
+<lb break="no" n="18" />schaffen haben noch bemuyet werden. Diewyl
+<lb n="19" />aber die werck das widerspil erzeigennt (wie unns
+<lb n="20" />begegnet) könnent wir nit fürkommen, unns dessen
+<lb n="21" />hiemit gegen üch unnd sonderlich ab <persName ref="stadtasg-actors-1253">Jost Jacoben</persName>,
+<lb n="22" />welchen ir inn üweren schirm genommen unnd synes
+<lb n="23" />unruwigen practicierens daselbsthin gan <placeName ref="stadtasg-places-8">Appenzell</placeName>
+<lb n="24" />zuerklagen (wie dann hiemit beschicht). Begärend
+<lb n="25" />hiemit von üch ernstlich ein lutter wüssen zehalten,
+<lb n="26" />ob ir nachmalen gesinnet, sölche lütt zestraffen
+<lb n="27" />unnd vor solchem übel zesyndt oder sollches fer
+<lb break="no" n="28" />ner zuogestatten, unnd wir möchten die sachen,
+<lb n="29" />allso beschaffen finden, wir liessent es an unnsre
+<lb n="30" />höchste gwallt kommen, harumb was von nötten
+<lb n="31" />sich zuobrhaatschlagen, wir haben aber
+<lb n="32" />üch dessen zuovor bester wolmeinung verwarnen
+<lb n="33" />unnd uwer schrifftlichen anntwort by zeigern
+<pb facs="StadtASG_Missive_1245_4162.jpg" n="2" />
+<lb n="34" />diss allein darumb abgesannten löuffers botten
+<lb n="35" />erwarten wöllen, den gnaden gottes damit
+<lb n="36" />bevolhen. Datum unnd inn unns aller
+<lb n="37" />namen mit unnser gethrüw lieb allt eydt
+<lb break="no" n="38" />gnoss wolverthruwien mittburger und bruoder
+<lb n="39" />der statt <origPlace ref="stadtasg-places-69">Lucern</origPlace> secret ynsigel verschlossen
+<lb n="40" />den <origDate when="1589-03-28">28 merzen anno etc. 1589</origDate>.
+<lb n="41" /><orgName ref="stadtasg-actors-777" role="issuer">Schulldtheissen, lanndtamman unnd
+<lb n="42" />rhaat der 5 catholischen ortten
+<lb n="43" />der Eydtgnosschafft</orgName> <placeName ref="stadtasg-places-69">Lucern</placeName>,
+<lb n="44" /><placeName ref="stadtasg-places-70">Ury</placeName>, <placeName ref="stadtasg-places-71">Schwyz</placeName>, <placeName ref="stadtasg-places-72">Unnderwallden</placeName>
+<lb n="45" />unnd <placeName ref="stadtasg-places-10">Zug</placeName>.
+<pb facs="StadtASG_Missive_1245_4163.jpg" n="3" />
+<pb facs="StadtASG_Missive_1245_4164.jpg" n="4" />
+<lb n="46" />Den frommen fürsichtigen eersam
+<lb break="no" n="47" />men wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister
+<lb n="48" />unnd rhaat der statt s. Gallen</orgName>
+<lb n="49" />unnsern besonders guotten fründen
+<lb n="50" />unnd gethrüwen lieben eydt
+<lb break="no" n="51" />gnossen.
+</p>
+        </body>
+    </text>
+</TEI>

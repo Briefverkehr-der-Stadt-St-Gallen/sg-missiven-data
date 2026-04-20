@@ -56,11 +56,11 @@
         <revisionDesc>
             <!-- eg. open, done, approved -->
             <change type="transcription" status="approved">
-                <persName>WH</persName>
+                <persName>Werner Hagmann</persName>
                 <date>2025-01-13</date>
             </change>
            <change type="tagging" status="done">
-                <persName>am</persName>
+                <persName>Alina Mächler</persName>
                 <date>2025-02-11</date>
             </change>
         </revisionDesc>
@@ -71,7 +71,7 @@
             <pb facs="StadtASG_Missive_4065_16425.jpg" n="1" />
 <p>
 <lb n="1" />Wür <persName ref="stadtasg-actors-835" role="issuer">Johan Jacob</persName> etc. urkhunden hiemit, demnach der woledel
-<lb n="2" />gestreng herr <persName ref="stadtasg-actors-837" role="recipient">Johan Peter Escher</persName> der wolloblichen herrschaft <placeName>Venedig</placeName>
+<lb n="2" />gestreng herr <persName ref="stadtasg-actors-837" role="recipient">Johan Peter Escher</persName> der wolloblichen herrschaft <placeName ref="stadtasg-places-188">Venedig</placeName>
 <lb n="3" />wolbestellter obrister etc. unß uff unser beschehenes ersuchen, in
 <lb n="4" />unsern vorgestandnen nöthen zue verschiednen mahlen lauth jederzeith
 <lb n="5" />derentwegen von unß abgebnen urkhundts guetwillig vorgelichen

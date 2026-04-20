@@ -59,11 +59,11 @@
         </profileDesc>
         <revisionDesc>
             <change type="transcription" status="approved">
-                <persName>tb</persName>
+                <persName>Thomas Bruggmann</persName>
                 <date>2018-12-07</date>
             </change>
             <change type="tagging" status="done">
-                <persName>dg</persName>
+                <persName>Dorothee Guggenheimer</persName>
                 <date>2019-05-27</date>
             </change>
         </revisionDesc>
@@ -91,7 +91,7 @@
                 boten unverczogenleich sendet uns zue sunderm wolgefallen. <lb n="8"/>Geben zuo
                 <origPlace ref="stadtasg-places-15">Wienn</origPlace>
                 <origDate when="1440-06-23">nach Cristi gepuert vierczehenhundert iar und darnach in dem vierczigistem iare, am <lb n="9"/>donerstag vor sand Johans tag, unsers Reichs im ersten iare</origDate>. <lb n="10"/>Ad mandatum domini regis <lb n="11"
-                    />Conradus prepositus Wyennensis cancellarius. <pb
+                    /><persName ref="stadtasg-actors-1160">Conradus</persName> prepositus <placeName ref="stadtasg-places-15">Wyennensis</placeName> cancellarius. <pb
                     facs="StadtASG_Missive_127_254.JPG" n="2"/>
                 <lb n="12"/></p>
         </body>

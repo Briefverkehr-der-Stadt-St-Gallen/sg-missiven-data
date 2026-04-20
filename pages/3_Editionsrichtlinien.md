@@ -6,7 +6,7 @@
 
 Das Kopfregest beinhaltet in kurzer Form alle relevanten Informationen. Für Personen-, Orts- und Flurnamen wird die heutige Orthographie verwendet. Erschlossene Angaben stehen nicht in Klammern (z.B. Der Nachname *Rösch* ist ergänzt, wenn von *Abt Ulrich* die Rede ist und nachvollziehbar *Abt Ulrich Rösch* gemeint ist).
 
-Die Stückbeschreibung erfolgt mit Signatur, Datierung und Sprache. 
+Die Stückbeschreibung erfolgt mit Signatur, Datierung und Sprache.
 
 ### Kommentar
 
@@ -27,7 +27,7 @@ Ist eine Person nicht namentlich genannt, aber einfach zu identifizieren, wird s
 
 #### Orte
 
-Die Identifizierung von Orten erfolgt über Siedlungsnamen (Städte, Dörfer etc.), einzelne Gebäudenamen (Gredhaus etc.) sowie Flurnamen (Äcker, Wälder, Weiden ect.) und andere geographische Namen (Flüsse, Berge etc.).
+Die Identifizierung von Orten erfolgt über Siedlungsnamen (Städte, Dörfer etc.), einzelne Gebäudenamen (Gredhaus etc.) sowie Flurnamen (Äcker, Wälder, Weiden etc.) und andere geographische Namen (Flüsse, Berge etc.).
 
 #### Schlagworte
 
@@ -62,3 +62,256 @@ Es gilt das Prinzip der Kleinschreibung. Personen-, Orts- und Flurnamen sowie Sa
 - Gebräuchliche Abkürzungen und Verschleifungen werden kommentarlos aufgelöst, sei es nach den allgemeingültigen Regeln, sei es nach der Gewohnheit der Schreiberin oder des Schreibers.
 - Münz- und Massangaben werden originalgetreu mit Kürzungspunkt wiedergegeben und in einem Pop-up-Fenster aufgelöst.
 - Herausgeberergänzungen, unsichere Lesungen oder Auflösungen sowie Textlücken sind markiert und Hinzufügungen in eckige Klammern gesetzt.
+
+#### Auflösung der gebräuchlichen Abkürzungen
+
+Die Liste wird laufend ergänzt.
+
+<style>
+  .abkuerzungen-tabelle {
+    border-collapse: collapse;
+    width: 100%;
+  }
+
+  .abkuerzungen-tabelle th, 
+  .abkuerzungen-tabelle td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+
+  .abkuerzungen-tabelle th {
+    background-color: #add931;
+    text-align: center;
+  }
+
+  .abkuerzungen-tabelle td {
+    text-align: left;
+  }
+</style>
+
+<table class="abkuerzungen-tabelle">
+  <thead>
+    <tr>
+      <th>Abkürzung</th>
+      <th>Auflösung</th>
+      <th>Kommentar</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>a.c.</td>
+      <td>anni currentis</td>
+      <td>des laufenden Jahres</td>
+    </tr>
+    <tr>
+      <td>allergn.</td>
+      <td>allergnädigst</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>b.n.</td>
+      <td>bei nummer</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>bapt.</td>
+      <td>baptizatus/a</td>
+      <td>getauft</td>
+    </tr>
+    <tr>
+      <td>d.d.</td>
+      <td>de dato</td>
+      <td>vom Tage der Ausfertigung an</td>
+    </tr>
+    <tr>
+      <td>d.i.</td>
+      <td>das ist</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>e.fht.</td>
+      <td>euer fürsichtigkeit</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>e.e.w.</td>
+      <td>euer ehrsamen weisheit</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>e.f.w.</td>
+      <td>euer frommen/fürsichtig weisheit</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>f.</td>
+      <td>fromm/fürsichtig/fründlich</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>f(e).g(e).</td>
+      <td>fürstlich gnaden</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>fl.dht. / f.dht.</td>
+      <td>fürstlich durchlaucht</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>gn.</td>
+      <td>gnaden</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>gshr.</td>
+      <td>gerichtsherr</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>h.</td>
+      <td>heilig(e/er/en)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>hchg. / hge.</td>
+      <td>hochgeach(te)te</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>hherrn</td>
+      <td>hochgeach(te)te herren</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>hochl.</td>
+      <td>hochlo(e)blich</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>hochw.</td>
+      <td>hochwürdig(e/er/en)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>i.d.</td>
+      <td>idem</td>
+      <td>der-, dasselbe</td>
+    </tr>
+    <tr>
+      <td>i.e.</td>
+      <td>id est</td>
+      <td>das heisst, das ist</td>
+    </tr>
+    <tr>
+      <td>j. / jkr.</td>
+      <td>Junker</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>jgr.</td>
+      <td>jünger</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>l. / lbl.</td>
+      <td>löblich(e/er/en)</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>lit.</td>
+      <td>litera</td>
+      <td>Buchstabe</td>
+    </tr>
+    <tr>
+      <td>mhherr / mhgh.</td>
+      <td>mein hochgeach(te)ter Herr</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>mstr. / mr.</td>
+      <td>meister</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>n.n. / n.</td>
+      <td>nomen nominandum / nomen nescio</td>
+      <td>der Name ist (noch) zu benennen / ich weiss den Namen nicht</td>
+    </tr>
+    <tr>
+      <td>(ro.)kay.mt.</td>
+      <td>römisch, kayserliche majestät</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>(ro.)ko.mt.</td>
+      <td>römisch königliche majestät</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>s.h.</td>
+      <td>salvo honore</td>
+      <td>mit Verlaub zu sagen</td>
+    </tr>
+    <tr>
+      <td>s.ld.</td>
+      <td>seine liebden</td>
+      <td>Kontextanrede Kurialsprache</td>
+    </tr>
+    <tr>
+      <td>s.v.</td>
+      <td>salva venia</td>
+      <td>mit Verlaub</td>
+    </tr>
+    <tr>
+      <td>sa</td>
+      <td>summa</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>st.no.</td>
+      <td>stilus novus</td>
+      <td>neuer Stil = neuer Kalender</td>
+    </tr>
+    <tr>
+      <td>tit. / t. (deb.)</td>
+      <td>titulo (debito)</td>
+      <td>mit gebührendem Titel</td>
+    </tr>
+    <tr>
+      <td>tit.pl. / t.pl.</td>
+      <td>titulo pleno</td>
+      <td>mit vollem Titel</td>
+    </tr>
+    <tr>
+      <td>u.g.l.e.</td>
+      <td>unsere getreuen lieben eidgenossen</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>u.l.a.e.</td>
+      <td>unsere lieben anderen eidgenossen</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>u.w. / ü.w.</td>
+      <td>üwer weisheit</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>v.d.m.</td>
+      <td>verbi divini minister</td>
+      <td>Diener des göttlichen Worts, Geistlicher</td>
+    </tr>
+    <tr>
+      <td>v.l.n.</td>
+      <td>vertraute liebe nachbaren</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>wohlehrw.</td>
+      <td>wohlerwürdig</td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>

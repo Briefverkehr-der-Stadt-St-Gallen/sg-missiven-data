@@ -50,11 +50,11 @@
         <revisionDesc>
             <!-- eg. open, done, approved -->
             <change type="transcription" status="approved">
-                <persName>ns</persName>
+                <persName>Nicole Stadelmann</persName>
                 <date>2023-07-27</date>
             </change>
             <change type="tagging" status="done">
-                <persName>am</persName>
+                <persName>Alina Mächler</persName>
                 <date>2025-01-14</date>
             </change>
         </revisionDesc>
@@ -71,7 +71,7 @@
 <lb n="5" />Nachdemme abr letst zu <placeName ref="stadtasg-places-53">Baden</placeName> gehaltener gemeinen eidt
 <lb break="no" n="6" />gnössischen tagleistung von beschwerrlicher zolßerhöhung
 <lb n="7" />wegen inn <placeName ref="stadtasg-places-91">Östereychischen Landen</placeName> an ire fürstliche durchlaucht<note>Gemeint ist Erzherzog <persName ref="stadtasg-actors-818">Ferdinand Karl von Österreich-Tirol</persName>.</note>
-<lb n="8" />zu <placeName>Inßbrugg</placeName> die gebühr schrifftlich gelangt, ist unß dahar
+<lb n="8" />zu <placeName ref="stadtasg-places-14">Inßbrugg</placeName> die gebühr schrifftlich gelangt, ist unß dahar
 <lb n="9" />allererst wider antwortlich ingelangt, wie ihr, unser getrüw
 <lb n="10" />lieb eidtgnossen, uß copyglichem inschluss zu ersehen. Wyle nun
 <lb n="11" />von hochgedacht irer <persName ref="stadtasg-actors-818">fürstlichen durchlaucht</persName> der yngewenndten bschwerd

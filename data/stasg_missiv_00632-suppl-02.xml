@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 632 Beilage 2</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage 2 zur Missive Nr. <ref rend="stasg_missiv_00632.xml">632</ref>. Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_632_1437/1440</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bericht über die Belagerung von Saint-Dizier.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+      <term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-392">Belagerung</term>
+<term ref="stadtasg-keywords-487">Bericht</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                     <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                 <date>1544-07-26</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>               </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="open">
+                <persName>Nicole Stadelmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="open">
+                <persName>Alina Mächler</persName>
+                <date>2026-03-30</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_632_1437.JPG" n="1" />
+<p>
+<pb facs="StadtASG_Missive_632_1438.JPG" n="2" />
+<pb facs="StadtASG_Missive_632_1439.JPG" n="3" />
+<pb facs="StadtASG_Missive_632_1440.JPG" n="4" />
+</p>
+        </body>
+    </text>
+</TEI>

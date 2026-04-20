@@ -46,12 +46,12 @@
         </profileDesc>
         <revisionDesc>
             <!-- eg. open, done, approved -->
-            <change type="transcription" status="approved">
-                <persName>ns</persName>
+            <change type="transcription" status="open">
+                <persName>Nicole Stadelmann</persName>
                 <date>2024-09-16</date>
             </change>
-            <change type="tagging" status="done">
-                <persName>NSch</persName>
+            <change type="tagging" status="open">
+                <persName>Noëmi Schöb</persName>
                 <date>2025-02-18</date>
             </change>
         </revisionDesc>

@@ -58,11 +58,11 @@
         </profileDesc>
         <revisionDesc>
             <change type="transcription" status="approved">
-                <persName>CS</persName>
+                <persName>Claudia Sutter</persName>
                 <date>2018-10-24</date>
             </change>
             <change type="tagging" status="done">
-                <persName>CS/dg</persName>
+                <persName>Claudia Sutter</persName> <persName>Dorothee Guggenheimer</persName>
                 <date>2019-05-06</date>
             </change>
         </revisionDesc>
@@ -84,7 +84,7 @@
                 tuont fürderlich <lb n="8"/>in diser sach, als wir üwer guoten früntschafft mit
                 sunderhait wol getrüwen, und lassent uns <lb n="9"/>harumb üwer früntlich
                 verschriben antwurt wissen by disem botten. Versigelt mit des ersammen <lb n="10"
-                />wisen, <persName ref="stadtasg-actors-194">Yntal Redigs</persName>, amman ze <placeName
+                />wisen, <persName ref="stadtasg-actors-194" role="testis">Yntal Redigs</persName>, amman ze <placeName
                     ref="stadtasg-places-71">Schwitz</placeName>, insigel von unser aller bette wegen. Geben ze
                     <origPlace ref="stadtasg-places-8">Appenzell</origPlace>
                 <lb n="11"/>am <origDate when="1435-07-07">donstag nach sant Uolrichs tag anno

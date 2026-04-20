@@ -48,11 +48,11 @@
         <revisionDesc>
             <!-- eg. open, done, approved -->
             <change type="transcription" status="approved">
-                <persName>CS</persName>
+                <persName>Claudia Sutter</persName>
                 <date>2021-08-25</date>
             </change>
             <change type="tagging" status="done">
-                <persName>am</persName>
+                <persName>Alina Mächler</persName>
                 <date>2025-03-20</date>
             </change>
         </revisionDesc>
@@ -75,7 +75,7 @@
 <lb n="11"/>soellich ordnung selb notdurfftig bedunken und wol gefallen wurde.
 <lb n="12"/>Das begern wir mit willen umb iuch zu verdienen. Datum <origDate when="1457-01-07">6ta post Epiphanie
 <lb n="13"/>domini anno eiusdem etc. LVIImo</origDate>.
-<lb n="14"/><orgName ref="stadtasg-actors-511" role="issuer">Burgermeister und
+<lb n="14"/><orgName ref="stadtasg-actors-511" role="issuer">Burgermaister und
 <lb n="15"/>rat zu Lindow</orgName>.
 <pb facs="StadtASG_Missive_334_674.JPG" n="2"/>
 <lb n="16"/>Den ersammen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat zu sant

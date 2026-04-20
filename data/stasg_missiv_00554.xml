@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 554</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_554_1129/1130</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Bern fordern Bürgermeister und Rat zu St. Gallen dazu auf, am 20. März eine bevollmächtigte Ratsdelegation nach Luzern an eine eidgenössische Beratschlagung zu entsenden. Es soll die Bitte des französischen Königs um mehr Söldner behandelt werden.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-183">König</term>
+                    <term ref="stadtasg-keywords-347">Majestät</term>
+                    <term ref="stadtasg-keywords-130">Ratsdelegation</term>
+                    <term ref="stadtasg-keywords-364">Tagsatzung</term>
+                    <term ref="stadtasg-keywords-368">Schultheiss</term>
+                    <term ref="stadtasg-keywords-314">Anwalt</term>
+                    <term ref="stadtasg-keywords-474">Hauptmann</term>
+                    <term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-344">Solddienst</term>
+<term ref="stadtasg-keywords-473">Eile</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-514">Schultheiss und Rat zu Bern</orgName>                    <date>1524-03-13</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Noëmi Schöb</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Noëmi Schöb</persName>
+                <date>2025-10-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_554_1129.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser fruntlich willig dienst und was wir eren und guots vermogen zuovor
+<lb n="2"/>fromm fürsichttig wyss sunders guotten fründ und getruwen lieben eidtgnossenn.
+<lb n="3"/>Uns sind diser stund von unsern houptlüten, ouch den frantzösischen anwällten
+<lb n="4"/>ietz in dem lager vor <placeName ref="stadtasg-places-311">Meyland</placeName> schrifften zuokomen, durch wellich si begären, einen
+<lb n="5"/>nüwen uffbruch ze thuond und inen mit demselben zuozeziechen, dem krieg ennd
+<lb n="6"/>und usstrag zuogäben, alls ir an bygeleggtter schrifft, so üch von den üwernn
+<lb n="7"/>zuokumpt wärden, sichen, und so nu die notdurfft wil erhöischen, die so vonn
+<lb n="8"/>unser gemeiner <orgName ref="stadtasg-actors-750">Eidtgnoschafft</orgName> und in dero namen zuo dienst dem kung von <placeName ref="stadtasg-places-131">Franckenrych</placeName>
+<lb n="9"/>abgeverttiget sind, nit zuo verlassen, beide des kungs und unser aller lob und er zuoenthallten,
+<lb n="10"/>sind wir des furgesatzdten willens, zuo söllicher der unsern ouch des kungs bitt unnd
+<lb n="11"/>begär zuo willfaren und die zal lüt, so uff die acht tusend, ervordert wirdt, sovil
+<lb n="12"/>uns dero zuo unserm teil zücht, den üwern und unsern ouch andern unser <orgName ref="stadtasg-actors-750">Eidtgnoschafft</orgName>
+<lb n="13"/>zuogehörigen zuo hillff und trost hinzuo verttigen, und wiewol die besolldung nit
+<lb n="14"/>allso bar vorhanden und aber des kungs erbietten ist, die hienach zuo zimlichen zilen
+<lb n="15"/>und tagen dartzuo gäben, wärden wir uns des benügen und von mangel wägen
+<lb n="16"/>des gellts an uns nützit erwinden lassen. Und diewyl nu die beid zug äbenn
+<lb n="17"/>starck und nach gegen einandern ligen und die notdurfft wil erhöischenn,
+<lb n="18"/>all verzug abzuostellen und harinn nüt yl zuohandlen, haben wir üch des so uns
+<lb n="19"/>obberürtter gestallt angelanget ist, wellen berichtten und daby einen tag in üwer
+<lb n="20"/>und unser lieben eidtgnossen von <placeName ref="stadtasg-places-69">Lucern</placeName> statt, namlichen uff dem <date when="1524-03-20">ballmtag</date> ietzt
+<lb n="21"/>komend nachtz daselbs an der herberg zuo erschynen gesatzdt mit ernstiger bitt
+<lb n="22"/>und begär, den handel und was gemeiner unser <orgName ref="stadtasg-actors-750">Eidtgnoschafft</orgName> daran gelägen sin wil,
+<lb n="23"/>zuoerwägen und üwer bottschafft mitt vollmächttigem gewallt uff ietz bestimpten
+<lb n="24"/>tag verttigen, daselbs an verrer hindersich bringen, zuo ratschlagen und zuo beschliessen,
+<lb n="25"/>das so die notdurfft uff anbringen beide unser <orgName ref="stadtasg-actors-750">Eidtgnoschafft</orgName> houpt lüt ouch ettlicher
+<lb n="26"/>frantzösischer anwällt, so uff söllichen tag komen und zuom teil hievor angezöigt
+<lb n="27"/>ist, wirdt erhöischen. Das vermercken von uns im besten, stat uns umb uch alltzit
+<lb n="28"/>zuo verschullden. Datum <origDate when="1524-03-13">suntag iudica anno etc. XXIIII</origDate>.
+<lb n="29"/><orgName ref="stadtasg-actors-514" role="issuer">Schullthes und rat
+<lb n="30"/>zuo Bernn</orgName>.
+<pb facs="StadtASG_Missive_554_1130.JPG" n="2"/>
+<lb n="31"/>Den frommen fürsichtigenn wysenn <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb n="32"/>meister unnd rat zuo sannt Gallen</orgName>
+<lb n="33"/>unnsernn sundern guotten fründenn
+<lb n="34"/>unnd getruwen lieben eidtgnossenn.
+</p>
+        </body>
+    </text>
+</TEI>

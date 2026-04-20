@@ -52,7 +52,7 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sent">
-                    <orgName ref="stadtasg-actors-523">Vogt, Ammann und Rat zu Bregenz</orgName>
+                    <orgName ref="stadtasg-actors-521">Ammann und Rat zu Bregenz</orgName>
                     
                     <date>1445-02-06</date>
                 </correspAction>
@@ -63,11 +63,11 @@
         </profileDesc>
         <revisionDesc>
             <change type="transcription" status="approved">
-                <persName>tb</persName>
+                <persName>Thomas Bruggmann</persName>
                 <date>2018-12-07</date>
             </change>
             <change type="tagging" status="done">
-                <persName>dg</persName>
+                <persName>Dorothee Guggenheimer</persName>
                 <date>2019-09-09</date>
             </change>
         </revisionDesc>
@@ -93,7 +93,7 @@
                 />zue antwurten oder ain sume geltz zue rechts ußgeben. Denn <lb n="14"/>war inn wir
                 iüwer ersamkait geschonen, lieb und dienst bewisen <lb n="15"/>moechten, tatten wir
                 allzit mit willen gern. Datum <origDate when="1445-02-06">sabato post <lb n="16"
-                />Agathe virginis anno etc. XLo quinto</origDate>. <lb n="17"/><orgName ref="stadtasg-actors-523"
+                />Agathe virginis anno etc. XLo quinto</origDate>. <lb n="17"/><orgName ref="stadtasg-actors-521"
                     role="issuer">Vogt, amman und <lb n="18"/>raett zuo Pregentz</orgName>. <pb
                     facs="StadtASG_Missive_188_378.JPG" n="2"/>
                 <lb n="19"/>Den ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient"

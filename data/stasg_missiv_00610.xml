@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 610</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00611.xml">611</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_610_1329/1332</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und geheime Räte zu Ulm bitten Bürgermeister und geheime Räte zu St. Gallen um die Lieferung von bis zu 50 Zentnern Salpeter für den Kampf gegen die Türken/Osmanen. Sie begründen dies mit einem bevorstehenden Reichstag in Speyer am 14. Januar 1542, bei dem über Hilfe gegen die Osmanen beraten werden soll, sowie mit ihrer Erschöpfung an Schiesspulver nach jahrelangen Kriegen in Ungarn. Sie bitten um schriftliche Mitteilung über Preis, Zahlungsmodalitäten und Lieferung durch ihren Boten und bieten bare Bezahlung an.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-596">Salpeter</term>
+<term ref="stadtasg-keywords-597">Schiesspulver</term>
+<term ref="stadtasg-keywords-284">Kauf</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-91">Handel</term>
+<term ref="stadtasg-keywords-30">Zahlung</term>
+<term ref="stadtasg-keywords-458">Türkenkrieg</term>
+<term ref="stadtasg-keywords-274">Reichstag</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-510">Bürgermeister und Rat zu Ulm</orgName>                    <date>1541-12-09</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>    <placeName ref="stadtasg-places-38">St. Gallen</placeName>            </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Nicole Stadelmann</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-02-04</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_610_1329.JPG" n="1" />
+<p>
+<lb n="1" />Unnser freuntlich willig diennst zuvor ersamen und
+<lb n="2" />weisen besonnder lieben fründ. Wir steen nit in zweifel,
+<lb n="3" />eurer weisheit sey unverporgen, welcher massen gemaine reichs
+<lb n="4" />stennd in christenlichem vorhaben steen, wie es auch die
+<lb n="5" />hoch onvermeidlich notturfft ernstlich ervordert, sich
+<lb n="6" />uf den schirist komenden <date when="1542-01-14">14ten tag ianuarii</date> zu <placeName ref="stadtasg-places-111">Speir</placeName>
+<lb n="7" />ainer beharrlichen hülffe wider gemainer christenhait
+<lb n="8" />graussamen und turannischen erbfeind den türcken
+<lb n="9" />zuvergleichen und dieselb fürderlichen in das werckh
+<lb n="10" />zupringen etc.
+<lb n="11" />Nachdem wir unns nun uß demselben für gewiß zuver
+<lb break="no" n="12" />sehen haben, das wir als die dem <placeName ref="stadtasg-places-173">Thonaw</placeName> straum, und
+<lb n="13" />also der sachen vor anndern gesessen, und etliche kriegs
+<lb break="no" n="14" />beraitschafft unnd sonderlich umb pulffer zu sollichem
+<lb n="15" />christenlichen notwendigen wercke nit onangesprochen
+<lb n="16" />pleiben werden, unnd wir aber durch die kriege,
+<lb n="17" />so nun mehr etliche iar her auf ainannder inn <placeName ref="stadtasg-places-41">Hungern</placeName>
+<lb n="18" />wider ermelten erbfeinde gefüert, an bulffer zimblich
+<lb n="19" />und dermassen erschöpfft worden, das wir mit dem
+<lb n="20" />ubrigen thail gemainen reichsstennden schlechtenn
+<lb n="21" />fürstand zuverzaigen wissen, derhalben wir uns
+<lb n="22" />uff sollichen falh und zu sollichem fürtreffenlichen
+<lb n="23" />guten werckh gern bey zeit sovil möglich mit ainer
+<lb n="24" />großen anzal bulffers berait unnd gefaßt machen
+<lb n="25" />wolten.
+<lb n="26" />Dieweil wir dann euer weisheit der gelegenhait achten, das
+<pb facs="StadtASG_Missive_610_1330.JPG" n="2" />
+<lb n="27" />sie vor anndern zu salpeter füegelichen und wol komen
+<lb n="28" />mögen, auch on zweifel iezt damit wihlichen unnd
+<lb n="29" />stattlichen fürsehen sein, so piten und ersuchenn
+<lb n="30" />wir dem allem nach eure weisheit ganntz freuntlich, sie
+<lb n="31" />wölle unns uß gehörten notwenndigen ursachen biß
+<lb n="32" />in die funfftzig cenntner guts salpetters in zimlichen
+<lb n="33" />gepürlichen kauff und gegen barer bezalung uß
+<lb n="34" />besonnderer freuntschafft gutwilligelichen zusteen unnd
+<lb n="35" />widerfarn lassen, unnd sich aines sollichen in christen
+<lb break="no" n="36" />licher bedenckung, das sie damit gemainer christenhait
+<lb n="37" />unnd zuvorderst <orgName ref="stadtasg-actors-559">Teutscher Nation</orgName> wolfart unnd nutzen
+<lb n="38" />größlich fürdern, nit beschwern. Unns auch, da sie
+<lb n="39" />unns also hierinnen nach unnserm anzweiffenlichen
+<lb n="40" />vertrawen zu freuntlicher wilfarung gewegenn, bey
+<lb n="41" />disem unnserm boten ires gemüets hierüber aigentlich
+<lb n="42" />und namblich der gestalt verstenndigen, welchermassenn
+<lb n="43" />und in was gelt sie unns den cenntner salpetters ver
+<lb break="no" n="44" />volgen lassen wölln, auch wie unns der selb ufs ehest
+<lb n="45" />mit pester gelegenhait zu gevärtigt werden müge, dann
+<lb n="46" />so die notturfft ervordern solt, iemant von uns zu er
+<lb break="no" n="47" />hebung sollichs salpetters zu euer weisheit zuverordnenn,
+<lb n="48" />wöllen wir an demselben und der baren gutwilligenn
+<lb n="49" />bezalung kain mangel erscheinen lassen. Solliche freunt
+<lb break="no" n="50" />schafft und gutwilligkait auch umb euer weisheit unnser besonder
+<lb n="51" />lieb und gut freund in annder weg unnsers bössterm
+<lb n="52" />vermögens mit vleis freuntlich und danckbarlich verdienen.
+<lb n="53" />Datum <origDate when="1541-12-09">freitags den VIIIIten decembris anno 41</origDate>.
+<lb n="54" /><orgName ref="stadtasg-actors-510" role="issuer">Burgermaister und die gehaimen
+<lb n="55" />räth zu Ulm</orgName>.
+<pb facs="StadtASG_Missive_610_1331.JPG" n="3" />
+<pb facs="StadtASG_Missive_610_1332.JPG" n="4" />
+<lb n="56" />Den ersamen und weisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="57" />und den gehaimen räthen der stat sannt
+<lb n="58" />Gallen</orgName> unnsern besondern gutten
+<lb n="59" />freunden.
+</p>
+        </body>
+    </text>
+</TEI>

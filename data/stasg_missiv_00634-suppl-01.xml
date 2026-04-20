@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 634 Beilage 1</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. <ref target="stasg_missiv_00634.xml">634</ref>. Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_634_1449/1452</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Kopie eines Berichts über ein Schreiben des Herrn von Blancfosse an Bürgermeister und Rat zu Zürich vom 30. August 1544, das über die Einnahme des Städtchens Saint-Dizier durch kaiserliche Truppen und über den Zustand des französischen Heers berichtet.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+     <term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-487">Bericht</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-242">Heer</term>
+<term ref="stadtasg-keywords-147">Kaiser</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1264">Herr von Blancfosse</persName><placeName ref="stadtasg-places-49">Solothurn</placeName>                    <date>1544-08-30</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>   <placeName ref="stadtasg-places-32">Zürich</placeName>             </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="open">
+                <persName>Nicole Stadelmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="open">
+                <persName>Alina Mächler</persName>
+                <date>2026-03-30</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_634_1449.JPG" n="1" />
+<p>
+<pb facs="StadtASG_Missive_634_1450.JPG" n="2" />
+<pb facs="StadtASG_Missive_634_1451.JPG" n="3" />
+<pb facs="StadtASG_Missive_634_1452.JPG" n="4" />
+</p>
+        </body>
+    </text>
+</TEI>

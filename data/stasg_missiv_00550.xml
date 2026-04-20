@@ -23,7 +23,7 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Der Herzog von Württemberg und die elf eidgenössischen Orte befürchten einen Aufruhr und bitten Bürgermeister und Rat zu St. Gallen um Mithilfe, diesen zu verhindern.</p>            </abstract>
+                <p>Der Herzog von Württemberg und die 11 eidgenössischen Orte befürchten einen Aufruhr und bitten Bürgermeister und Rat zu St. Gallen um Mithilfe, diesen zu verhindern.</p>            </abstract>
             <langUsage>
                 <language ident='deu'>Deutsch</language>            </langUsage>
             <textClass>
@@ -38,7 +38,7 @@
             <correspDesc>
                 <correspAction type="sent">
                     <!-- absender kann natuerlich auch mit orgName getaggt sein -->
-                    <orgName ref="stadtasg-actors-1123">Elf Orte der Eidgenossenschaft (ZH, BE, UR, SZ, UW/OW, ZG, GL, BS, FR, SH, AP)</orgName><placeName ref="stadtasg-places-53">Baden</placeName>                    <date>1520-09-05</date>
+                    <orgName ref="stadtasg-actors-1123">11 Orte der Eidgenossenschaft (ZH, BE, UR, SZ, UW/OW, ZG, GL, BS, FR, SH, AP)</orgName><placeName ref="stadtasg-places-53">Baden</placeName>                    <date>1520-09-05</date>
                 </correspAction>
                 <correspAction type="received">
                     <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
@@ -47,11 +47,11 @@
         <revisionDesc>
             <!-- eg. open, done, approved -->
             <change type="transcription" status="approved">
-                <persName>NSch</persName>
+                <persName>Noëmi Schöb</persName>
                 <date>2020-08-24</date>
             </change>
             <change type="tagging" status="done">
-                <persName>am</persName>
+                <persName>Alina Mächler</persName>
                 <date>2025-07-21</date>
             </change>
         </revisionDesc>

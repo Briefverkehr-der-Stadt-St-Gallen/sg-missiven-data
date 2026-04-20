@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 626</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_626_1387/1388</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Bern informieren Bürgermeister und Rat zu St. Gallen über den Erhalt des ihnen zugesandten Hilfegesuchs im Namen des St. Galler Bürgers und Fuhrmanns Matthias Ziegler. Matthias Ziegler wurde im Berner Territorium Leinwand ab seinem Fuhrwerk gestohlen, als er in der Nacht seinen Wagen auf dem Feld alleine liess, um in das nächste Dorf zu gehen, weshalb ihn auch eine Mitschuld treffe. Man habe bereits Verdächtige verhört, aber keinen Erfolg erzielt. Bern bedauert den Vorfall und verspricht, dem Verbrechen weiterhin nachzugehen und Ziegler seine Ware zuzustellen, sobald sie wieder auftaucht.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-106">Diebstahl</term>
+<term ref="stadtasg-keywords-258">Leinwand</term>
+<term ref="stadtasg-keywords-389">Fuhrmann</term>
+<term ref="stadtasg-keywords-46">Gefangennahme</term>     
+<term ref="stadtasg-keywords-510">Leinwanddiebstahl</term>  
+<term ref="stadtasg-keywords-300">Schaden</term>
+<term ref="stadtasg-keywords-365">Transport</term>   
+<term ref="stadtasg-keywords-15">Unterstützung</term> 
+<term ref="stadtasg-keywords-623">Dorf</term>
+ <term ref="stadtasg-keywords-163">Pferd</term>
+  <term ref="stadtasg-keywords-368">Schultheiss</term>  
+   </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-514">Schultheiss und Rat zu Bern</orgName>                    <date>1544-04-22</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Nicole Stadelmann</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-03-10</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_626_1387.JPG" n="1" />
+<p>
+<lb n="1" />Unnser fründlich willig diennst sampt was wir eeren liebs unnd
+<lb n="2" />guots vermögennd zuvor from fürsichtig ersam wyß insonnders guot fründ
+<lb n="3" />unnd getrüw lieb eydgnossenn. Die fürschrifft, so ir dem üwern <persName ref="stadtasg-actors-1257">Mathias
+<lb n="4" />Ziegler</persName> dem furman ann unns gebenn, habenn wir empfanngen unnd inhallts
+<lb n="5" />verstanndenn. Daruff wir üch ganntz fründlicher meynung ze wüssen thünd,
+<lb n="6" />das nit alls bald wir durch gemeldten furman des verlursts, so im in ent
+<lb break="no" n="7" />frömbdung der ballen linwats begegnet, bericht, habenn wir unnserm
+<lb n="8" />amptman, inn des verwaltung söllichs beschächenn, ernstlichen geschrybenn,
+<lb n="9" />die so des verar gwonet, vencklich anzenemmen unnd darzu erkundigung deßhalb
+<lb n="10" />zethund. Das nun alles erstatet unnd die gfangnen äben stränng gefragt, aber
+<lb n="11" />nützit veriächenn. Unnd werden fürer daran sin unnd unnsern amptlütenn
+<lb n="12" />bevelchenn, nachfrag ze habenn. Wann dann sach, das die verwenndte ballenn
+<lb n="13" />unnd das, so darinn gsin, gfundenn, werdenn wir verschaffenn, das im das alles
+<lb n="14" />widerkert, dann unns von hertzen leyd ist, das im söllichs in unnserm land begegnet.
+<lb n="15" />Des wellenn wir üch aber nit bergenn, das gemeldter furman sins schadens
+<lb n="16" />zum teyll schuld tregt, in dem das er den wagen uff dem väld hat lassen stann,
+<lb n="17" />die roß uß gsetzt unnd inn das dorff verr von dannenn gfürt unnd das nächtlicher
+<lb n="18" />zyt. Da im nun söllichs widerfarenn, das nitt beschächenn wäre, wann er denn
+<lb n="19" />wagen ins dorff gfürt hete. Das verstand vonn unns bester meynung.
+<lb n="20" />Datum <origDate when="1544-04-22">XXIIten aprillis 1544</origDate>.
+<lb n="21" /><orgName ref="stadtasg-actors-514" role="issuer">Schultheis unnd
+<lb n="22" />rhatt der statt
+<lb n="23" />Bernn</orgName>.
+<pb facs="StadtASG_Missive_626_1388.JPG" n="2" />
+<lb n="24" />Denn frommenn fürsichtigen wysen
+<lb n="25" /><orgName ref="stadtasg-actors-148" role="recipient">burgermeyster unnd rhat der
+<lb n="26" />stat sannt Gallenn</orgName> unnsern insonders
+<lb n="27" />guoten fründenn unnd getrwüwen lieben
+<lb n="28" />eydgnossenn.
+</p>
+        </body>
+    </text>
+</TEI>

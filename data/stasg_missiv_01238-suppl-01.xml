@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1238 Beilage 1</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. <ref target="stasg_missiv_01238.xml">1238</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_1238_4125/4126</idno>
+                                            </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Kundschaft übler Reden und Aufhetzungen des St. Galler Bürgers Kaspar Brisig in Gais gegen die Obrigkeit und Landleute zu Appenzell.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-187">Kundschaft</term>
+<term ref="stadtasg-keywords-63">Gerücht</term>
+<term ref="stadtasg-keywords-454">Kopie</term>
+<term ref="stadtasg-keywords-316">Obrigkeit</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1252">Kaspar Brisig</persName>                    <date>1588-11-25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-506">Ammann und Rat zu Appenzell</orgName>              </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Alina Mächler</persName> <persName>Stefan Sonderegger</persName>
+                <date>2026-01-19</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-02-26</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_1238_4125.jpg" n="1" />
+<p>
+ <lb n="1" />Copy.
+<lb n="2" />Kundtschafft ettlicher reden so <persName ref="stadtasg-actors-1252">Caspar
+<lb n="3" />Brissig</persName> von <placeName ref="stadtasg-places-38">st. Gallen</placeName> im lannd <placeName ref="stadtasg-places-8">Appennzell</placeName>
+<lb n="4" />gegen den lanndlütten ußgossen, die alda
+<lb n="5" />nach form rechtens ingenomen worden luttet
+<lb n="6" />wie volgt
+<lb n="7" />Als namlich so hab er, <persName ref="stadtasg-actors-1252">Caspar Brissig</persName> uf <placeName ref="stadtasg-places-420">Gäß</placeName>
+<lb n="8" />by einer eerlichen gesellschafft, als man under ain
+<lb n="9" />anderen zereden komen, unnder anderem gredt, warumb
+<lb n="10" />hand ir, deren dinnen in der kilchöry die aimpter
+<lb n="11" />nüt gar gnomen. Daruf ain eerlicher man obb
+<lb n="12" /><placeName ref="stadtasg-places-420">Gäß</placeName> im geantwurtt, ho nein es ist wäger nit,
+<lb n="13" />man muß mit ain anderen handlen und daz best thun.
+<lb n="14" />Daruff er, <persName ref="stadtasg-actors-1252">Bryssig</persName> wider gredt, ir nennds inen
+<lb n="15" />ob gottwil ufs iar unnd hab dan ettlichen haimlich
+<lb n="16" />in die orren grunet unnd also mit sölichem gar vil
+<lb n="17" />hin und wider triben und sich brahtlich gstellt etc.
+
+<pb facs="StadtASG_Missive_1238_4126.jpg" n="2" />
+</p>
+        </body>
+    </text>
+</TEI>

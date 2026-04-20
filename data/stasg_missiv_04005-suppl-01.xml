@@ -42,6 +42,7 @@
 <term ref="stadtasg-keywords-547">Evangelisch</term>
 <term ref="stadtasg-keywords-470">Religionskrieg</term>
 <term ref="stadtasg-keywords-540">Schloss</term>
+<term ref="stadtasg-keywords-524">Reichstaler</term>
                 </keywords>
             </textClass>
             <correspDesc>
@@ -56,11 +57,11 @@
         <revisionDesc>
             <!-- eg. open, done, approved -->
             <change type="transcription" status="approved">
-                <persName>WH</persName>
+                <persName>Werner Hagmann</persName>
                 <date>2024-09-16</date>
             </change>
             <change type="tagging" status="done">
-                <persName>am</persName>
+                <persName>Alina Mächler</persName>
                 <date>2025-01-27</date>
                 <note>Ehemals Nr. 3995, neu Beilage zu Nr. 4005.</note>
             </change>

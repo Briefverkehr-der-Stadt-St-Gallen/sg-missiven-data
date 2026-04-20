@@ -6,7 +6,7 @@
             <publicationStmt>
                 <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
             </publicationStmt>
-            <notesStmt><note><p>Pergament.</p></note></notesStmt>            <sourceDesc>
+            <notesStmt><note><p>Pergament. Zur Sache siehe auch die Missiven Nrn. 754 und 760 etc.</p></note></notesStmt>            <sourceDesc>
                 <msDesc type="missiv">                    <msIdentifier>
                         <idno>StadtASG Missive_755_1963/1964</idno>
                     </msIdentifier>
@@ -55,11 +55,11 @@
         <revisionDesc>
             <!-- eg. open, done, approved -->
             <change type="transcription" status="approved">
-                <persName>AW</persName>
+                <persName>Arman Weidenmann</persName>
                 <date>2021-04-12</date>
             </change>
             <change type="tagging" status="done">
-                <persName>am</persName>
+                <persName>Alina Mächler</persName>
                 <date>2024-01-26</date>
             </change>
         </revisionDesc>

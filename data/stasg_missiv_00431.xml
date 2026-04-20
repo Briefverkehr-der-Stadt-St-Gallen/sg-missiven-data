@@ -23,7 +23,7 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Schultheiss und Rat zu Luzern bitten Bürgermeister und Rat zu St. Gallen, mit Kaplan Rudolf Friedebold Kontakt aufzunehmen, da dessen gleichnamiger Sohn Rudolf im Luzerner Spital sei und an Tobsucht leide, was für den Spitalmeister nicht mehr länger zu bewältigen sei. Friedebold solle seinen Sohn zu sich nehmen oder den Spital finanziell entlasten.</p>            </abstract>
+                <p>Schultheiss und Rat zu Luzern bitten Bürgermeister und Rat zu St. Gallen, mit Kaplan Rudolf Friedbolt Kontakt aufzunehmen, da dessen gleichnamiger Sohn Rudolf im Luzerner Spital sei und an Tobsucht leide, was für den Spitalmeister nicht mehr länger zu bewältigen sei. Friedbolt solle seinen Sohn zu sich nehmen oder den Spital finanziell entlasten.</p>            </abstract>
             <langUsage>
                 <language ident='deu'>Deutsch</language>            </langUsage>
             <textClass>
@@ -49,11 +49,11 @@
         <revisionDesc>
             <!-- eg. open, done, approved -->
             <change type="transcription" status="approved">
-                <persName>tb</persName>
+                <persName>Thomas Bruggmann</persName>
                 <date>2021-08-25</date>
             </change>
             <change type="tagging" status="done">
-                <persName>am</persName>
+                <persName>Alina Mächler</persName>
                 <date>2025-05-08</date>
             </change>
         </revisionDesc>

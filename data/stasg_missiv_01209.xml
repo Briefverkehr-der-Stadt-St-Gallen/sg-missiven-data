@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1209</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1209_3995/3998</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ammann und Rat zu Appenzell informieren Bürgermeister und Rat zu St. Gallen, dass sie ihr Schreiben, wonach sich die St. Galler über den Verkauf von Luggmilch am Freitag durch Appenzeller beschweren, erhalten haben. Die Appenzeller werden nun das Verbot am nächsten Sonntag in einem Mandat in den dem St. Galler Markt nahe gelegenen Kirchen verlesen lassen. Zudem bitten die Appenzeller die St. Galler, dafür zu sorgen, dass die Annahme der französischen Pfennige in St. Gallen nicht verweigert werde.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+
+<term ref="stadtasg-keywords-36">Münze</term>
+<term ref="stadtasg-keywords-426">Mandat</term>
+<term ref="stadtasg-keywords-181">Verbot</term>
+<term ref="stadtasg-keywords-167">Verkauf</term>
+<term ref="stadtasg-keywords-143">Markt</term>
+<term ref="stadtasg-keywords-171">Silber</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-506">Ammann und Rat zu Appenzell</orgName>                    <date>1587-07-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Alina Mächler</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-02-24</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_1209_3995.jpg" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig diennst sampt waß wir eren liebs
+<lb n="2" />unnd guotts vermögend zuovor frommenn fürsichtigen ersamen unnd wisen
+<lb n="3" />insonnders guotten fründen unnd gethrüwen lieben nachpuren. Nach
+<lb n="4" />dem ir unnß verschiner tagen unnß zuo geschriben von wegen der unßeren
+<lb n="5" />lanndlüten ettlichen, wie sy über ewerer verbott, am frytag lugmilch
+<lb n="6" />in ewerer statt <placeName ref="stadtasg-places-38">st. Gallen</placeName> fäl habennd, inhalts der lennge nach
+<lb n="7" />abgehört, verstannden unnd enntpfanngen etc., thuond üch hierüber zuo
+<lb break="no" n="8" />vernemen, das wir an gesechen, dz uff ietz <date when="1587-07-12">nächst künfftigen sonntag</date>
+<lb n="9" />in allen kilchen (die ewerem mart am nächsten gelegen) ewers
+<lb n="10" />verbotts halben menngklichen gwarnet unnd ain manndatt verlesen wirt,
+<lb n="11" />dass sich menngklicher vor schaden wisse zuo huetten etc. Uff das ist üch, unnseren
+<lb n="12" />gethrüwen lieben nachpuren, auch menngklichem wol in wissen
+<lb n="13" />von wegen müntzwende unnd der gar grossen beschwärt dem armen
+<lb n="14" />gemeinen mann, wie dann der eweren burger ettlich sich verwägerend,
+<lb n="15" />von denn unßeren die francken unnd franckrichschen pfennig zuo nemen,
+<lb n="16" />wie sy dann guott unnd prob am sylber habend etc. Dero
+<lb break="no" n="17" />halben so lanngt unnser früntlich nachpürlich pitt unnd begeren
+<lb n="18" />an üch, das ir mit denn eweren burggeren, die in diser sach schuld
+<lb n="19" />tragend, verschaffen wellend (so doch ernempt gelt der mertheil
+<lb n="20" />von denn eweren uß geben wirtt), das sy von denn armen wegen
+<lb n="21" />die francken in irem werth unnd ain ieden franckrichschen tick pfennig
+<lb n="22" />umb 23 crützer widerumb in genomen werde, zuo dz ez ain
+<lb n="23" />ieder schuldig sin soll, die ie ainer von dem anderen schuldig sin zuo
+<lb n="24" />nemmen, darmit der arm man nit so gar beschwärt unnd söllichs
+<lb n="25" />ernempts gelt nit so gar in andre lannd verferget werde etc. Sölichs
+<lb n="26" />schriben ir bester nachpürlich wolmeinung von unnß enntpfachennd
+<lb n="27" />wie es beschicht, dann wo wir üch zuo diennen wissen, sind wir diß
+<lb n="28" />erbietig. Hiemit unnß samptlich in denn schirm göttlicher
+<lb n="29" />gnaden wol befelhennde. Datum den <origDate when="1587-07-08">8ten
+<lb n="30" />iuly anno etc. 1587</origDate>.
+<lb n="31" /><orgName ref="stadtasg-actors-506" role="issuer">Lanndtamman unnd rath
+<lb n="32" />zuo Appenzell</orgName>.
+<pb facs="StadtASG_Missive_1209_3996.jpg" n="2" />
+<pb facs="StadtASG_Missive_1209_3997.jpg" n="3" />
+<pb facs="StadtASG_Missive_1209_3998.jpg" n="4" />
+<lb n="33" />Denn fromen fürsichtigen ersamen unnd wisen
+<lb n="34" /><orgName ref="stadtasg-actors-148" role="recipient">burggermaister unnd rath und der statt st.
+<lb n="35" />Gallen</orgName> unnßren besonnders
+<lb n="36" />guotten fründen unnd gethrüwen lieben
+<lb n="37" />nachpuren.
+</p>
+        </body>
+    </text>
+</TEI>

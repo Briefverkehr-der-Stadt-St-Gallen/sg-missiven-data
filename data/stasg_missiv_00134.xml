@@ -50,8 +50,7 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sent">
-                    <persName ref="stadtasg-actors-54">Wolfhart der Jüngere von Brandis, Statthalter der
-                        Vogtei zu Feldkirch</persName>
+                    <persName ref="stadtasg-actors-54">Wolfhart der Jüngere von Brandis</persName>
                     
                     <date>1441-01-13</date>
                 </correspAction>
@@ -66,7 +65,7 @@
                 <date>2018-12-07</date>
             </change>
             <change type="tagging" status="done">
-                <persName>dg</persName>
+                <persName>Dorothee Guggenheimer</persName>
                 <date>2019-06-03</date>
             </change>
         </revisionDesc>

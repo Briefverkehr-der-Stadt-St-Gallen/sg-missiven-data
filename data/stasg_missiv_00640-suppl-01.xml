@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 640 Beilage 1</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. <ref target="stasg_missiv_00640.xml">640</ref>. Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_639_1477/1480</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Paul Gall, Binder und Bürger von Nördlingen, bittet Bürgermeister und Rat zu Nördlingen im Namen seiner Mutter um Unterstützung. Seine Mutter benötigt einen schriftlichen Beleg, dass sie unberechtigt des vergangenen Diebstahls eines Stücks Leinwands von einem St. Galler Bürger namens Martin Hux bezichtigt wird. Martin Hux selbst hatte die Mutter von Paul Gall bereits verhört und ist von ihrer Unschuld überzeugt. Paul Gall bittet Bürgermeister und Rat zu Nördlingen deshalb um einen Begleit- oder Kompassbrief, damit er selbst nach St. Gallen gehen könne, um dort eine von der St. Galler Obrigkeit besiegelte Aussage von Hux zu erhalten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+   <term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-603">Supplikation</term>
+<term ref="stadtasg-keywords-510">Leinwanddiebstahl</term>
+<term ref="stadtasg-keywords-337">Zeugenaussage</term>
+<term ref="stadtasg-keywords-252">Prozess</term>
+<term ref="stadtasg-keywords-198">Unschuld</term>
+<term ref="stadtasg-keywords-164">Tuch</term>
+<term ref="stadtasg-keywords-141">Befragung</term>
+<term ref="stadtasg-keywords-21">Rechtshilfe</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1258">Paul Gall</persName>                    <date>1544-11-28</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-903">Bürgermeister und Rat zu Nördlingen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="open">
+                <persName>Nicole Stadelmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="open">
+                <persName>Alina Mächler</persName>
+                <date>2026-03-10</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_639_1477.JPG" n="1" />
+<p>
+<pb facs="StadtASG_Missive_639_1478.JPG" n="2" />
+<pb facs="StadtASG_Missive_639_1479.JPG" n="3" />
+<pb facs="StadtASG_Missive_639_1480.JPG" n="4" />
+</p>
+        </body>
+    </text>
+</TEI>

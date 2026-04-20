@@ -47,7 +47,7 @@
             </textClass>
             <correspDesc>
                 <correspAction type="sent">
-                    <orgName ref="stadtasg-actors-523">Vogt, Ammann und Rat zu Bregenz</orgName>
+                    <orgName ref="stadtasg-actors-521">Ammann und Rat zu Bregenz</orgName>
                     
                     <date>1445-02-12</date>
                 </correspAction>
@@ -58,11 +58,11 @@
         </profileDesc>
         <revisionDesc>
             <change type="transcription" status="approved">
-                <persName>tb</persName>
+                <persName>Thomas Bruggmann</persName>
                 <date>2018-12-07</date>
             </change>
             <change type="tagging" status="done">
-                <persName>dg</persName>
+                <persName>Dorothee Guggenheimer</persName>
                 <date>2019-09-09</date>
             </change>
         </revisionDesc>
@@ -92,7 +92,7 @@
                 zuefueren. Denn in welhen <lb n="16"/>sachen wir iuwer ersamkait zuo willen werden
                 moechten, taetten wir mit willen <lb n="17"/>gern. Datum <origDate when="1445-02-12"
                     >sexta ante invocavit anno etc. XLquinto</origDate>. <lb n="18"/><orgName
-                    ref="stadtasg-actors-523" role="issuer">Vogt, amman und <lb n="19"/>ratt zue
+                    ref="stadtasg-actors-521" role="issuer">Vogt, amman und <lb n="19"/>ratt zue
                     Pregentz</orgName>.
                 <pb facs="StadtASG_Missive_189_380.JPG" n="2"/>
                 <lb n="20"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient"

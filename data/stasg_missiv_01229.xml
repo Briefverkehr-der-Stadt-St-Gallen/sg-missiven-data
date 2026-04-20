@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1229</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1229_4081/4084</idno>
+                                            </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Landammann und Rat zu Appenzell bitten Bürgermeister und Rat zu St. Gallen, ihren wegen des Glaubens weggezogenen Landleuten, die in St. Gallen neue Bürger geworden sind, mitzuteilen, dass sie nicht mehr an der Appenzeller Landsgemeinde teilnehmen sollen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-131">Versammlung</term>
+<term ref="stadtasg-keywords-366">Religion</term>
+<term ref="stadtasg-keywords-468">Glaubensgenosse</term>
+<term ref="stadtasg-keywords-112">Bürgerrecht</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-506">Ammann und Rat zu Appenzell</orgName>                    <date>1588-04-23</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Alina Mächler</persName> <persName>Stefan Sonderegger</persName>
+                <date>2026-01-19</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-02-25</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_1229_4081.jpg" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig dienst sampt aller eren liebs
+<lb n="2" />unnd guots zuovor fromen fürsichtig ersamen und wisen
+<lb n="3" />insonders guotten fründ unnd getrüwen lieben nachpuren.
+<lb n="4" />Als sich nun ettwas zwytracht unnd widerwillen by uns
+<lb n="5" />zuo getragen in religion unnd gloubens sachen und uns
+<lb n="6" />globwirdig fürkompt, wie bin üch die nüwen burger,
+<lb n="7" />so von unns zogen, sich mercken lassen, iez uf unnser lands
+<lb break="no" n="8" />gmaind ouch harzuokhomen und sachen underston,
+<lb n="9" />daruß dann (nit einigkaitt), sonder gross widerwertigs
+<lb n="10" />unnd unainigkaitt volgen wurde etc., derhalben wellind
+<lb n="11" />ir inen dz anzaigen, vermanen unnd warnen, das sy
+<lb n="12" />über unnser lanndsgmaind dussnen plibent, dann
+<lb n="13" />woveer sy dz nit thätten unnd annemend und also
+<lb n="14" />alhar khaimend, wellind wir inen haim gsetzt han,
+<lb n="15" />was inen daruß erfolgen unnd widerfaren möchte,
+<lb n="16" />dz wir inen hiemit zuo wissen und entschuldiget haben
+<lb n="17" />wellind etc. Dis ir früntlich nachpürlicher wollmeinung
+<lb n="18" />(wie wir zwifelsone von unns verston wellen), dann
+<lb n="19" />wo wir alle früntschafft, liebe unnd guotten nachpürlichen
+<lb n="20" />willen wissen zuoerzeigen, sind wir diß urbiettig.
+<lb n="21" />Hiemit gott befelhende. Datum den <origDate when="1588-04-23">23 tag aprilis
+<lb n="22" />anno 1588</origDate>.
+<lb n="23" /><orgName ref="stadtasg-actors-506" role="issuer">Lanndtamman unnd rath
+<lb n="24" />zuo Appennzell</orgName>.
+<pb facs="StadtASG_Missive_1229_4082.jpg" n="2" />
+<pb facs="StadtASG_Missive_1229_4083.jpg" n="3" />
+<pb facs="StadtASG_Missive_1229_4084.jpg" n="4" />
+<lb n="25" />Den fromen fürsichtigen ersamen und
+<lb n="26" />wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister unnd rath der
+<lb n="27" />statt sannt Gallen</orgName> unseren besonders
+<lb n="28" />guotten fründen und getrüwen lieben nachpuren.
+</p>
+        </body>
+    </text>
+</TEI>

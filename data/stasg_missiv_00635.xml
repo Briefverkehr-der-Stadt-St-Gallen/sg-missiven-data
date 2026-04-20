@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 635</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_635_1455/1456</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Theodor Brand, Bürgermeister zu Basel, und die geheimen Räte zu Basel warnen Bürgermeister und Rat zu St. Gallen vor auswärtigen Kundschaftern, welche in der Eidgenossenschaft aufhaltende Franzosen oder deren Waren aus der Eidgenossenschaft drängen möchten. Besonders Basel, Solothurn, Schaffhausen, St. Gallen und andere eidgenössische Orte, die viele französische Personen, Waren oder Niederlassungen beherbergen, seien von den Praktiken dieser Kundschafter betroffen. Bürgermeister und geheimer Rat zu Basel bitten Bürgermeister und Rat zu St. Gallen deshalb, Franzosen, die sich in St. Gallen aufhalten, zu warnen und auf Fremde ein Augenmerk zu haben.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-491">Geheimer Rat</term>
+                    <term ref="stadtasg-keywords-416">Adel</term>
+                    <term ref="stadtasg-keywords-95">Warnung</term>
+                    <term ref="stadtasg-keywords-492">Spott</term>
+                    <term ref="stadtasg-keywords-300">Schaden</term>
+                    <term ref="stadtasg-keywords-393">Niederlassung</term>
+                    <term ref="stadtasg-keywords-91">Handel</term>                
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1263">Theodor Brand</persName>    <orgName ref="stadtasg-actors-530">Bürgermeister und Rat zu Basel</orgName>                <date>1544-09-09</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Nicole Stadelmann</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="open">
+                <persName>Alina Mächler</persName>
+                <date>2026-03-31</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_635_1455.JPG" n="1" />
+<p>
+<lb n="1" />Unnser fruntlich willig dienst sambt was wir eerenn liebs unnd guts vermogenn zuvor from
+<lb break="no" n="2" />men ersamen wysen innsonders gut fründth und getrüw lieb eidgnossenn. Wir
+<lb n="3" />werdend inn hochster geheimber durch eeren lüt berichtet, wie etliche der kron <placeName ref="stadtasg-places-131">Franckrich</placeName>
+<lb n="4" />widerwertige adels und andere personenn ir practick unnd spech uff der frantzosen lyb
+<lb n="5" />und gutere, dieselbigen niderzulegen und hinzufüren, zumachen. Und solche spech und kunt
+<lb break="no" n="6" />schafften fürnemblich by unns, <placeName ref="stadtasg-places-49">Solothurn</placeName>, <placeName ref="stadtasg-places-185">Schaffhusen</placeName> unnd <placeName ref="stadtasg-places-38">sanct Gallenn</placeName>, als an den
+<lb n="7" />orten, da die frantzosen vil wonung, handels unnd niderlag habenn, an die hand zunemmen
+<lb n="8" />understandenn etc. Diewyl uns nun die handel, so hievor by unns mit dem <persName ref="stadtasg-actors-1274">herren
+<lb n="9" />von Rochenfort</persName> seligenn und dan yetzt ein iar mit dem <persName ref="stadtasg-actors-1273">herrn von Dallani</persName>, den der <unclear>kaeth</unclear>
+<lb n="10" />im <placeName ref="stadtasg-places-170">Ellsas</placeName> nidergeworffen unnd gen <placeName ref="stadtasg-places-448">Brysach</placeName> gefurt, verloffenn, sollichen uffsatz nit inn
+<lb n="11" />verachtung zustellen, ursach gebenn, haben wir uch unsern besonders guten frunden
+<lb n="12" />und getruwen lieben eidgnossenn das nit bergen wollenn. Ob ir vilicht frantzosische
+<lb n="13" />lüt oder güter by uch hettenn, damit ir die selben, das sy sich uff des keysers erdtrich
+<lb n="14" />nit funden liessennd, sonder inn unser <orgName ref="stadtasg-actors-750">Eidgnoschafft</orgName> unnd gewarsame enthiellten,
+<lb n="15" />warnen und also uch, sy unnd uns alle vor spott unnd schadenn verhuten, ouch
+<lb n="16" />uff die zuwanndlendenn dester besser sorg unnd achtung habenn mochtenn. Unnd
+<lb n="17" />sind uch hiemit lieb und dienst zebewisen wol geneigt. Datum <origDate when="1544-09-09">zinstag den
+<lb n="18" />IX. tag septembris anno etc. XLIIIIo</origDate>.
+<lb n="19" /><persName ref="stadtasg-actors-1263" role="issuer">Theoder Brannd</persName> <orgName ref="stadtasg-actors-530" role="issuer">burgermeister unnd die geheimen
+<lb n="20" />rath so man nempt die dritzechen der statt
+<lb n="21" />Basell</orgName>.
+<pb facs="StadtASG_Missive_635_1456.JPG" n="2" />
+<lb n="22" />Den frommen ersamen wysenn <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="23" />meistern und rath der statt zu sanct
+<lb n="24" />Gallenn</orgName> unsern insonders guten frün
+<lb break="no" n="25" />denn unnd getruwenn lieben eidgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

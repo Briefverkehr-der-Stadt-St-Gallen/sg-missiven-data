@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 621</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Als Absenderin zeichnet Elsbeth Bruder, die Quittung wurde aber laut Text von Anton Zili ausgestellt. Die Handschrift von Absenderin und Ausstellerin ist identisch.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_621_1369/1370</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Der Stockmeister Anton Zili quittiert den Erhalt von 120 Gulden durch Junker Jakob Kunz. Die 120 Gulden wurden von Elsbeth Bruder für die armen Leute des Stockamtes in St. Gallen gespendet.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+   <term ref="stadtasg-keywords-537">Stockmeister</term>
+<term ref="stadtasg-keywords-536">Stockamt</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-461">Armut</term>
+<term ref="stadtasg-keywords-534">Almosen</term>
+<term ref="stadtasg-keywords-323">Junker</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1237">Elsbeth Bruder</persName>                    <date>1542-12-30</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-1238">Anton Zili</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Nicole Stadelmann</persName>
+                <date>2021-08-25</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-02-23</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_621_1369.JPG" n="1" />
+<p>
+<lb n="1" />Ich <persName ref="stadtasg-actors-1238" role="recipient">Anthoni Zily</persName>, uf die zit stockmaister,
+<lb n="2" />bekenen mit diser miner aigen hand geschrift,
+<lb n="3" />dz ich von dem ersamen iuncker <persName ref="stadtasg-actors-1239">Jacob Cuontzen</persName>
+<lb n="4" />enpfangen und ingnomen hab 120 <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> in namen
+<lb n="5" />und von wegen der ersamen frowen <persName ref="stadtasg-actors-1237">Elsbet
+<lb n="6" />Bruoderin</persName>, welche 120 <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> sy die gedach <persName ref="stadtasg-actors-1237">Elsbeth
+<lb n="7" />Bruoderin</persName>, armen luiten umb gottes wilen
+<lb n="8" />in den stock veroredent und geben hat uf
+<lb n="9" />den <origDate when="1542-12-30">30 tag decembers im 1542 iar</origDate>.
+<pb facs="StadtASG_Missive_621_1370.JPG" n="2" />
+<lb n="10" />Von mir <persName ref="stadtasg-actors-1237" role="issuer">Elsbet
+<lb n="11" />Bruoderin</persName> din
+<lb n="12" />dienerin al zit.
+</p>
+        </body>
+    </text>
+</TEI>

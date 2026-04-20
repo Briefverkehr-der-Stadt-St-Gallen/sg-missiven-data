@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 631</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnte <ref target="stasg_missiv_00631-suppl-01.xml">Beilage</ref> ist vorhanden. Kontext: Die Vicomté d'Auxonne lag an der Saône an der Grenze zwischen dem Herzogtum und der Freigrafschaft Burgund. Sie wurde in den Neutralitätsverträgen zwischen den beiden Burgunden seit 1522 als eigenständige Einheit aufgeführt. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00627.xml">627</ref>, <ref target="stasg_missiv_00628.xml">628</ref>, <ref target="stasg_missiv_00629.xml">629</ref>, <ref target="stasg_missiv_00632.xml">632</ref>, <ref target="stasg_missiv_00634.xml">634</ref>, <ref target="stasg_missiv_00636.xml">636</ref>, <ref target="stasg_missiv_00637.xml">637</ref> und <ref target="stasg_missiv_00638.xml">638</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_631_1421/1432</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_631_1421/1432</idno><altIdentifier type="filename"><idno>stasg_missiv_00631-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich informieren Bürgermeister und Rat zu St. Gallen über die Friedensverhandlungen zwischen Kaiser Karl V. und dem französischen König Franz I. Zudem wird von einem kaiserlichen Mandat berichtet, das zu Zahlungen verpflichte und zu welchem man sich beim Kaiser für die Aufhebung bemühe. In einer Beilage werden zudem weitere Neuigkeiten mitgeteilt.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+   <term ref="stadtasg-keywords-528">Friedensverhandlung</term>
+<term ref="stadtasg-keywords-384">Grafschaft</term>
+<term ref="stadtasg-keywords-430">Herzogtum</term>
+<term ref="stadtasg-keywords-123">Untertan</term>
+<term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-426">Mandat</term>
+<term ref="stadtasg-keywords-489">Zeitung</term>
+<term ref="stadtasg-keywords-604">Beilage</term>    
+<term ref="stadtasg-keywords-314">Anwalt</term>
+<term ref="stadtasg-keywords-454">Kopie</term>            </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName><placeName ref="stadtasg-places-32">Zürich</placeName>                    <date>1544-07-16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Nicole Stadelmann</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-03-30</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_631_1421.JPG" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig dienst sampt was wir eeren liebs unnd
+<lb n="2" />fründschafft vermögen zuovor frommen fürsichtigen wyßen
+<lb n="3" />innsonders guoten fründ unnd getrüwen lieben eydtgnosßen.
+<lb n="4" />Betreffennd den fridstand zwüschend dem hertzogthumb unnd
+<lb n="5" />der graffschafft <placeName ref="stadtasg-places-281">Burgund</placeName> habend unnser lieb eydtgnosßen
+<lb n="6" />unnd wir nach vylgehepter müg unnd arbeyt die sach dahyn pracht,
+<lb n="7" />das die frantzößischen anwelt sich der <placeName ref="stadtasg-places-439">Tschampenien</placeName> begeben,
+<lb n="8" />die fallen unnd daruff beschliesßen lasßen hand, das alleyn
+<lb n="9" />das hertzogthumb unnd die graffschafft <placeName ref="stadtasg-places-281">Burgund</placeName>, deßglychen
+<lb n="10" />das <placeName ref="stadtasg-places-440">Viscanto zuo Assone</placeName> unnd was von alterhar zuo dißen landen
+<lb n="11" />gehört hatt, inn disem fridstand vier iar lang die nechsten
+<lb n="12" />begriffen sin, also das die innwoner unnd unnderthanen
+<lb n="13" />derselben lannden gegen unnd miteynannder inn guoten ruowen
+<lb n="14" />unnd friden sin unnd plyben, zuo unnd unndereynannder
+<lb n="15" />hanndlen unnd wanndlen wie eyniche sorg unnd entgeltnuß
+<lb n="16" />unnd eynannder durch sölche lannd unnd herschafften nit be
+<lb break="no" n="17" />kymbern, angryffen, schedigen noch bekriegen, sonnder dißen
+<lb n="18" />fridstannd unnd gemeyne nachpurschafft styff halten. Unnd
+<lb n="19" />beyd hern, der keyßer<note>Gemeint ist Kaiser <persName ref="stadtasg-actors-1229">Karl V.</persName></note> und frantzößisch künge<note>Gemeint ist König <persName ref="stadtasg-actors-490">Franz I.</persName></note>, söllichs
+<lb n="20" />zwüschen dem <date when="1544-09-01">ersten tag septembris allernechstkünfftig</date>
+<lb n="21" />durch besonnderbare brieff ratifficieren, unnd nach
+<lb n="22" />söllicher ratiffication, wann die inns werch kompt,
+<lb n="23" />diser fridstand inn allen vorgeschribnen landen offentlich
+<lb n="24" />ußgerüfft unnd verkhündt werden sölle.
+<lb n="25" />Unnd als inn hangendem tag unnsern lieben <orgName ref="stadtasg-actors-530">eydtgnosßen von
+<lb n="26" />Basel</orgName> eyn manndat umb VI M V C und X <choice><abbr>gl.</abbr><expan>Gulden</expan></choice> anlag zuo
+<lb n="27" />erhaltung gegenwürtigs zugs von <persName ref="stadtasg-actors-1229">keyserlicher maiestät</persName> zuokomen,
+<lb n="28" />unnd unnser eydtgnosßen sich deß gegen den burgundischen
+<lb n="29" />botten, das söllichs der nechsten absolution unnd uffhebung
+<lb n="30" />der camergerichtischen procesßen gentzlich zewider beschwärt,
+<lb n="31" />habend sy sich begeben unnd zuogeseyt, allen müglichen flyß
+<pb facs="StadtASG_Missive_631_1422.JPG" n="2" />
+<lb n="32" />by <persName ref="stadtasg-actors-1121">keyserlicher maiestät</persName> fürzewenden, das diß manndat ouch uffgehept
+<lb n="33" />würde. Dann wo sy desß ee bericht worden, werint
+<lb n="34" />sy inn hoffnung, yetz deßhalb keyn spann wyter ge
+<lb break="no" n="35" />weßen sin sölte.
+<lb n="36" />So denne sind nüw zytungen uff disen tag der iarrechnung
+<lb n="37" />komen, wie ir die uß hieby verwarten copyen habend
+<lb n="38" />zuerlernen. Disßes alles haben wir üch früntlicher
+<lb n="39" />meynung unbericht nit wellen lasßen etc., das ir nit
+<lb n="40" />mynnder dann wyr dißer yetzigen löuffen halb wüßens
+<lb n="41" />haben möchten. Was unns wyter fürkompt,
+<lb n="42" />wellend wir uch yeder zyt gern berichten unnd unns
+<lb n="43" />darmit zu üwerm gfallen guotwillig begeben haben etc.
+<lb n="44" />Uß <origPlace ref="stadtasg-places-32">Zürich</origPlace> <origDate when="1544-07-16">mittwuchs nach Margarethe 1544</origDate>.
+<lb n="45" /><orgName ref="stadtasg-actors-503" role="issuer">Burgermeyster unnd
+<lb n="46" />rath der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_631_1431.JPG" n="3" />
+<pb facs="StadtASG_Missive_631_1432.JPG" n="4" />
+<lb n="47" />Den frommen fürsichtigen wyßen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="48" />meyster unnd rath der statt sanct
+<lb n="49" />Gallen</orgName> unnsern innsunders guotenn
+<lb n="50" />fründen und getrüwen liebenn
+<lb n="51" />eydtgnosßen.
+</p>
+        </body>
+    </text>
+</TEI>

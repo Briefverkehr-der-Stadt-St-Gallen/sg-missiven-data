@@ -58,11 +58,11 @@
         <revisionDesc>
             <!-- eg. open, done, approved -->
             <change type="transcription" status="approved">
-                <persName>AW</persName>
+                <persName>Arman Weidenmann</persName>
                 <date>2023-07-27</date>
             </change>
             <change type="tagging" status="done">
-                <persName>NSch</persName>
+                <persName>Noëmi Schöb</persName>
                 <date>2024-02-05</date>
             </change>
         </revisionDesc>

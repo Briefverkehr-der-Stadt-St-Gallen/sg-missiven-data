@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 1225</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_1225_4061/4064</idno>
+                                            </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Landammann und Rat zu Appenzell beklagen gegenüber Bürgermeister und Rat zu St. Gallen erneut das übergriffige Verhalten von St. Galler Bürgern und neu aufgenommenen Bürgern gegenüber Appenzeller Landleuten. Diese würden durch die St. Galler gegen die geistliche und weltliche Obrigkeit Appenzells aufgewiegelt, zum Ungehorsam angestiftet und gar zum Blutvergiessen verleitet. Appenzell verwahre sich ausdrücklich dagegen, dass sich St. Galler Prädikanten oder weltliche Personen in ihr Regiment einmischten. Die Appenzeller fordern die St. Galler auf, den freien Marktzugang zu gewähren und künftig auf Frieden, Ruhe und Einigkeit zum Wohl des Vaterlandes hinzuwirken. Sollte dem nicht entsprochen werden, behalte man sich vor, anderweitig Rat zu suchen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+  <term ref="stadtasg-keywords-83">Frieden</term>
+<term ref="stadtasg-keywords-316">Obrigkeit</term>
+<term ref="stadtasg-keywords-143">Markt</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-104">Landmann</term>
+<term ref="stadtasg-keywords-213">Unruhe</term>
+<term ref="stadtasg-keywords-602">Prädikant</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- Absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-506">Ammann und Rat zu Appenzell</orgName>                    <date>1588-03-30</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Alina Mächler</persName>
+                <date>2026-01-19</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-02-25</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_1225_4061.jpg" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig dienst sampt aller
+<lb n="2" />eeren liebs unnd guotts zuvor fromen fürsichtigen
+<lb n="3" />ersamen unnd wisen insonders guott fründ und getrüwen
+<lb n="4" />lieben nachpuren. Wir habend abermal ein guotte zitt mit
+<lb n="5" />gedullt (wie mehr beschechen) zuo gesechen unnd in gwüssne
+<lb n="6" />erfarnung khomen, wie üwery burger, wib unnd man,
+<lb n="7" />ouch die nüwen angenomnen burger sich mit söllichem übermuoth
+<lb n="8" />(daran wir aber nit zwiflen, üch als die ordenlich oberkhaitt
+<lb n="9" />kein wol gefallen gscheche) gegen unseren lanndlütten handlend,
+<lb n="10" />wie sy sich söllend hallten wider unser gästlich und weltlich
+<lb n="11" />oberkhaitt mit rechtverttigung, mit stumpfieren, wie die
+<lb n="12" />üweren den unseren rathen durch nid und hass, wie sy
+<lb n="13" />söllend der oberkhaitt nüt ghorsamm sin, söllen ee ir bluott
+<lb n="14" />vergiessen, da wir wol vermainten, üweri burger sölltend
+<lb n="15" />hindersich sinnen, was uß bluottvergiessen merr dann
+<lb n="16" />ain mal geschehen, betrachten etc. Dann wir nüt gsinet,
+<lb n="17" />den unseren gstatten, das sich üweren predicanten noch
+<lb n="18" />üweren welltlichen regiments an nemmend, dann wir by dem
+<lb n="19" />wenigisten üwere burger gegen üch, wie dann üweri
+<lb n="20" />burger gegen den unseren thound verhetzen, lanngt derhalb
+<lb n="21" />nachmal unser ernstlichs ansinnenlichs vermanen, pitten
+<lb n="22" />unnd begerren, ir wellind uns mit frid und ruowen
+<lb n="23" />unnd one anstifftung der üweren (so ir wennd gern nachfrag
+<lb n="24" />bin üch han, wol erfarren werdent) den fryen marth
+<lb n="25" />wie andere nachpürtty bruchen lassen und vil mher uff
+<lb n="26" />frid und ruow unnd ainigkaitt zuo guott dem vatterlannd
+<lb n="27" />fürohin stellen weder bisshar beschechen ist. Und so ir dz ab
+<lb break="no" n="28" />stellen, thound ir uns ain besonders und ain angenaims
+<lb n="29" />wolgefallen. Söllty es aber nit beschechen, so muestend wir uss
+<lb n="30" />houschender nothuorfft ettwan rath suochen, darmit es
+<pb facs="StadtASG_Missive_1225_4062.jpg" n="2" />
+<lb n="31" />nachmals guottlich abgstellt möchte werden. Stadt uns
+<lb n="32" />nachpürlich zuoverdiennen, darmit gott dem herren (der
+<lb n="33" />frid unnd nit unfrid begert) thrüwlich befolchende.
+<lb n="34" />Datum den <origDate when="1588-03-30">30. tag merzens anno 1588</origDate>.
+<lb n="35" /><orgName ref="stadtasg-actors-506" role="issuer">Lanndtamman und zwenfachten
+<lb n="36" />lanndtsrath zu Appennzell</orgName>.
+<pb facs="StadtASG_Missive_1225_4063.jpg" n="3" />
+<pb facs="StadtASG_Missive_1225_4064.jpg" n="4" />
+<lb n="37" />Den fromen fürsichtigen ersamen unnd
+<lb n="38" />wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister unnd rath der
+<lb n="39" />statt sant Gallen</orgName> unseren besonnders
+<lb n="40" />guotten fründen und gethrüwen lieben
+<lb n="41" />nachpurenn.
+</p>
+        </body>
+    </text>
+</TEI>

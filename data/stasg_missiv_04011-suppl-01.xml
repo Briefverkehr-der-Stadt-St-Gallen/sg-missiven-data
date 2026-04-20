@@ -48,17 +48,17 @@
                     <persName ref="stadtasg-actors-818">Ferdinand Karl von Österreich-Tirol</persName><placeName ref="stadtasg-places-14">Innsbruck</placeName>                    <date>1650-02-22</date>
                 </correspAction>
                 <correspAction type="received">
-                    <orgName ref="stadtasg-actors-750">13 Orte der Eidgenossenschaft</orgName>                </correspAction>
+                    <orgName ref="stadtasg-actors-1255">13 Orte der Eidgenossenschaft</orgName>                </correspAction>
             </correspDesc>
         </profileDesc>
         <revisionDesc>
             <!-- eg. open, done, approved -->
             <change type="transcription" status="approved">
-                <persName>ns</persName>
+                <persName>Nicole Stadelmann</persName>
                 <date>2021-08-25</date>
             </change>
             <change type="tagging" status="done">
-                <persName>am</persName>
+                <persName>Alina Mächler</persName>
                 <date>2024-01-14</date>
                 <note>Ehemals Nr. 4004, neu Beilage zu Nr. 4011.</note>
             </change>
@@ -98,7 +98,7 @@
 <lb n="27" />darneben mit gnedigist nachbarlichem willen wolbygethann.
 <lb n="28" />Geben in unserer statt <origPlace ref="stadtasg-places-14">Ynßbrugg</origPlace> den <origDate when="1650-02-22">22. february
 <lb n="29" />anno 1650</origDate>.
-<lb n="30" />An die <orgName ref="stadtasg-actors-750" role="recipient">13 orth der eidtgnoschafft</orgName>.
+<lb n="30" />An die <orgName ref="stadtasg-actors-1255" role="recipient">13 orth der eidtgnoschafft</orgName>.
 <pb facs="StadtASG_Missive_4004_16178.jpg" n="2" />
 </p>
         </body>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 601</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnte <ref target="stasg_missiv_00601-suppl-1.xml">Beilage</ref> ist vorhanden. Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00598.xml">598</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_601_1297/1298</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Pergament</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_601_1297/1298</idno><altIdentifier type="filename"><idno>stasg_missiv_00601-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die von der Stadt Augsburg an den Münztag vom 24. August abgeordneten Ratsboten senden als Beilage an Bürgermeister und Rat zu St. Gallen eine Kopie des besiegelten Abschieds vom Münztag und berichten, dass sie die Stadt St. Gallen wie schriftlich verlangt dort vertreten und ihre Abwesenheit entschuldigt hatten.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+    <term ref="stadtasg-keywords-36">Münze</term>
+<term ref="stadtasg-keywords-454">Kopie</term>
+<term ref="stadtasg-keywords-604">Beilage</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-329">Reichsabschied</term>                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-1187">Räte zu Augsburg</orgName>                    <date>1539-09-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Nicole Stadelmann</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-01-14</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_601_1297.JPG" n="1" />
+<p>
+<lb n="1" />Den ersamen unnd weisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister unnd rathe der stat zuo sannd Galln</orgName> unnsern lieben unnd gueten fründten
+<lb n="2" />empieten wir die <orgName ref="stadtasg-actors-1187" role="issuer">ratgeben der stat Augspurg</orgName> unnser fründtlich willig diennst zuvor. Ersamen unnd wisen
+<lb n="3" />lieben unnd guetten fründe, uff eur weishait schrifftlich anlanngen haben wir dieselben zu iüngstem müntztag
+<lb n="4" /><date when="1539-08-24">Bartholomei</date> alhie vertretten unnd im bessten entschuldigen lassen. Waß nun dazemal gehanndlet unnd verabschiedt
+<lb n="5" />worden, werden eur weishait uß der beiligen copei des besigelten abschieds vernemen, das wir eur weishait bey disem aigen botten nit wellen verhalten. Datum <origDate when="1539-09-04">donnerstag 4 septembris anno 1539</origDate>.
+<pb facs="StadtASG_Missive_601_1298.JPG" n="2" />
+<lb n="6" />Den ersamen unnd weisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaistr
+<lb n="7" />unnd rathe der statt zu sannd Galln</orgName> uns
+<lb break="no" n="8" />ern lieben unnd gutten frainden.
+</p>
+        </body>
+    </text>
+</TEI>

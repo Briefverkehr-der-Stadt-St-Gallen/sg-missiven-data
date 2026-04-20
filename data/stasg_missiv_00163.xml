@@ -42,6 +42,7 @@
                     <term ref="stadtasg-keywords-319">Landvogt</term>
                     <term ref="stadtasg-keywords-70">Termin</term>
                     <term ref="stadtasg-keywords-184">Truchsess</term>
+                    <term ref="stadtasg-keywords-637">Stift</term>
                 </keywords>
             </textClass>
             <correspDesc>
@@ -57,11 +58,11 @@
         </profileDesc>
         <revisionDesc>
             <change type="transcription" status="approved">
-                <persName>tb</persName>
+                <persName>Thomas Bruggmann</persName>
                 <date>2018-12-07</date>
             </change>
             <change type="tagging" status="done">
-                <persName>dg</persName>
+                <persName>Dorothee Guggenheimer</persName>
                 <date>2019-06-24</date>
             </change>
         </revisionDesc>

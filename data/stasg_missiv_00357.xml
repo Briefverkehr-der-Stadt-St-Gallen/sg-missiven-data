@@ -49,11 +49,11 @@
         <revisionDesc>
             <!-- eg. open, done, approved -->
             <change type="transcription" status="approved">
-                <persName>CS</persName>
+                <persName>Claudia Sutter</persName>
                 <date>2021-08-25</date>
             </change>
             <change type="tagging" status="done">
-                <persName>am</persName>
+                <persName>Alina Mächler</persName>
                     <date>2024-05-28</date>
             </change>
         </revisionDesc>

@@ -56,11 +56,11 @@
         </profileDesc>
         <revisionDesc>
             <change type="transcription" status="approved">
-                <persName>SO</persName>
+                <persName>Stefan Sonderegger</persName>
                 <date>2018-10-24</date>
             </change>
             <change type="tagging" status="done">
-                <persName>CS/dg</persName>
+                <persName>Claudia Sutter</persName> <persName>Dorothee Guggenheimer</persName>
                 <date>2019-05-16</date>
             </change>
         </revisionDesc>
@@ -79,7 +79,7 @@
                     >Bern</placeName> und zu <placeName ref="stadtasg-places-43">Vinzenz</placeName> gemeinen
                 vicary, und <persName ref="stadtasg-actors-131">Gwilhelminum</persName>, grave zu <placeName
                     ref="stadtasg-places-44">Prata</placeName>, <lb n="5"/>und den ersamen <persName
-                    ref="stadtasg-actors-132">Johannem</persName>, genant von Melonensibus von
+                    ref="stadtasg-actors-132">Johannem, genant von Melonensibus</persName> von
                 <placeName ref="stadtasg-places-44">Prato</placeName>, lerer in geistlichen rechten, <lb n="6"/>unsere
                 rete und lieben getruen von der handlung wegen, die <persName ref="stadtasg-actors-133">Caspar
                     Torner</persName>, unser dienner <lb n="7"/>und lieber getreuer, von unsern
@@ -93,7 +93,7 @@
                 />XXXVIII, des <orgName ref="stadtasg-actors-559">Romischen</orgName> in dem XIIII und des <placeName ref="stadtasg-places-42">Behemischen</placeName> in den funften iaren. <lb
                     n="13"/>Ad mandatum domini regis <lb n="14"/><persName ref="stadtasg-actors-134"
                     >Michel</persName>, prepositus <placeName ref="stadtasg-places-45"
-                    >Baleslaviensis</placeName>. <pb facs="StadtASG_Missive_13_26.JPG" n="2"/>
+                    >Boleslaviensis</placeName>. <pb facs="StadtASG_Missive_13_26.JPG" n="2"/>
                 <lb n="15"/>Dem <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rate der
                     statt zu sannd <lb n="16"/>Gallen</orgName> unsern und des <orgName ref="stadtasg-actors-559">Richs</orgName> lieben getruen.
             </p>

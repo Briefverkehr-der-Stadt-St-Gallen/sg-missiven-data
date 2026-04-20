@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 625 Beilage 1</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Beilage zur Missive Nr. <ref target="stasg_missiv_00625.xml">625</ref>. Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_624_1379/1382</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die Stände und Fürsten des Reichs bitten die eidgenössischen Orte, das Soldbündnis mit dem französischen König, Franz I., zu beenden und keine Söldner mehr in seine Dienste zu schicken. Reisläufer, die sich in Diensten des französischen Königs befinden, sollen zurückbeordert werden. Der französische König hat nicht nur Gebiete des Kaisers Karl V. angegriffen und erobert, sondern sich auch mit den Osmanen verbündet. Er wird deshalb als Feind der Christenheit und des Reichs betrachtet. Die Eidgenossen sollen sich von ihm fern halten und das Reich und den Kaiser unterstützen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+    <term ref="stadtasg-keywords-168">Abschrift</term>
+<term ref="stadtasg-keywords-344">Solddienst</term>
+<term ref="stadtasg-keywords-254">Söldner</term>
+<term ref="stadtasg-keywords-458">Türkenkrieg</term>
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-405">Reich</term>
+<term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-275">Fürst</term>
+<term ref="stadtasg-keywords-348">Kurfürst</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-559">Heiliges Römisches Reich</orgName> <placeName ref="stadtasg-places-111">Speyer</placeName>                    <date>1544-04-02</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-750">Eidgenossenschaft</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="open">
+                <persName>Nicole Stadelmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="open">
+                <persName>Alina Mächler</persName>
+                <date>2026-03-09</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_624_1379.JPG" n="1" />
+<p>
+<pb facs="StadtASG_Missive_624_1380.JPG" n="2" />
+<pb facs="StadtASG_Missive_624_1381.JPG" n="3" />
+<pb facs="StadtASG_Missive_624_1382.JPG" n="4" />
+</p>
+        </body>
+    </text>
+</TEI>

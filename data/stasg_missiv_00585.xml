@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 585</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnte Beilage ist nicht vorhanden. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00580.xml">580</ref>, <ref target="stasg_missiv_00581.xml">581</ref>, <ref target="stasg_missiv_00584.xml">584</ref>, <ref target="stasg_missiv_00588.xml">588</ref>, <ref target="stasg_missiv_00592.xml">592</ref> und <ref target="stasg_missiv_00594.xml">594</ref> .</p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_585_1215/1218</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich senden Bürgermeister und Rat zu St. Gallen ein von Johann Friedrich, Herzog und Kurfürst zu Sachsen, und Philipp, Landgraf zu Hessen, sowie anderen Fürsten und Ständen gedrucktes, an Papst Paul III. gerichtetes Schreiben zur Kenntnisnahme zu.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-363">Reformation</term>
+<term ref="stadtasg-keywords-366">Religion</term>
+<term ref="stadtasg-keywords-372">Papst</term>
+<term ref="stadtasg-keywords-275">Fürst</term>
+<term ref="stadtasg-keywords-419">Landgraf</term>
+<term ref="stadtasg-keywords-9">Bote</term> 
+<term ref="stadtasg-keywords-277">Herzog</term>
+<term ref="stadtasg-keywords-348">Kurfürst</term>               </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName><placeName ref="stadtasg-places-32">Zürich</placeName>                    <date>1537-07-21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Noëmi Schöb</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-01-06</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_585_1215.JPG" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig diennst sammpt was wir eeren unnd
+<lb n="2" />liebs vermögent zuovor frommen fürsichtigen wysen besond
+<lb break="no" n="3" />ers guoten fründ unnd gethrüwen lieben eydgnosßenn. Üwern
+<lb n="4" />unnd unnsern lieben eydgnossen ist von den durchlüchtigen
+<lb n="5" />fürsten unnd herrenn herren <persName ref="stadtasg-actors-1162">Johanns Friderrichen</persName>, herzogen zuo
+<lb n="6" /><placeName ref="stadtasg-places-399">Sachssen</placeName>, churfürsten, unnd <persName ref="stadtasg-actors-1163">Philips</persName>, lanndgraffen zuo <placeName ref="stadtasg-places-398">Hesßenn</placeName> etc.
+<lb n="7" />von ir selbs unnd der anndern fürsten unnd stennden wegen der
+<lb n="8" />cristennlichen religion verwaanten eyn thruck irer begründten
+<lb n="9" />cristenlichen enntschuldigung bapst <persName ref="stadtasg-actors-1164">Pauli</persName> usgeschribenen concilii
+<lb n="10" />halb (wye ir den hiebygelegt fynndent) uff yetzgehaltenem thag
+<lb n="11" />der meynung zuogeschickt, das sy den unnder alle ort deßglychen
+<lb n="12" />ire verwanten theylen vorab ouch üch des verstenndigen söllenn.
+<lb n="13" />Unnd diewyl ir dann keynen botten yetz zuo thagen gehept, haben
+<lb n="14" />wir üch alß unnsern gelyepten eydgnossen sollichen thruck unver
+<lb break="no" n="15" />zogenlich behanndigen wellen, uns darnebent aller fründ
+<lb break="no" n="16" />schafft gegen uch erpyettennde. Uß <origPlace ref="stadtasg-places-32">Zürich</origPlace> <origDate when="1537-07-21">sambstags nach
+<lb n="17" />Margrethe anno etc. 1537</origDate>.
+<lb n="18" /><orgName ref="stadtasg-actors-503" role="issuer">Burgermeyster unnd
+<lb n="19" />rath der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_585_1216.JPG" n="2" />
+<pb facs="StadtASG_Missive_585_1217.JPG" n="3" />
+<pb facs="StadtASG_Missive_585_1218.JPG" n="4" />
+<lb n="20" />Den frommen fürsichtigen wysenn
+<lb n="21" /><orgName ref="stadtasg-actors-148" role="recipient">burgermeyster unnd rath der statt
+<lb n="22" />sannct Gallenn</orgName> unnsern besonnders
+<lb n="23" />guoten fründen unnd gethrüwen liebn
+<lb n="24" />eydgnosßen.
+</p>
+        </body>
+    </text>
+</TEI>

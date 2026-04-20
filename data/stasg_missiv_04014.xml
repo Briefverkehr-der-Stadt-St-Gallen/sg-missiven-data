@@ -48,11 +48,11 @@
         <revisionDesc>
             <!-- eg. open, done, approved -->
             <change type="transcription" status="approved">
-                <persName>ns</persName>
+                <persName>Nicole Stadelmann</persName>
                 <date>2023-07-27</date>
             </change>
             <change type="tagging" status="done">
-                <persName>NSch</persName>
+                <persName>Noëmi Schöb</persName>
                 <date>2025-02-26</date>
             </change>
         </revisionDesc>
@@ -108,8 +108,8 @@
 <lb n="43" />secret insigel beschließen laßen. Anno <origDate when="1650-03-05">1650</origDate>.
 <lb n="44" /><orgName ref="stadtasg-actors-877" role="issuer">Landtamman houbtleüth unnd
 <lb n="45" />räth der kilchöri Herisauw</orgName> in den
-<lb n="46" />usseren roden deß landts Appen
-<lb break="no" n="47" />zell.
+<lb n="46" />usseren roden deß landts <placeName ref="stadtasg-places-8">Appen
+<lb break="no" n="47" />zell</placeName>.
 <pb facs="StadtASG_Missive_4014_16213.jpg" n="3" />
 <pb facs="StadtASG_Missive_4014_16214.jpg" n="4" />
 <lb n="48" />Den frommen fürsichtigen

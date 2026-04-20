@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 638</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00627.xml">627</ref>, <ref target="stasg_missiv_00628.xml">628</ref>, <ref target="stasg_missiv_00629.xml">629</ref>, <ref target="stasg_missiv_00631.xml">631</ref>, <ref target="stasg_missiv_00632.xml">632</ref>, <ref target="stasg_missiv_00634.xml">634</ref>, <ref target="stasg_missiv_00636.xml">636</ref> und <ref target="stasg_missiv_00637.xml">637</ref>.</p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_638_1473/1476</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich bestätigen in Eile Bürgermeister und Rat zu St. Gallen den bereits in einem früheren Schreiben des Herrn von Blancfosse angekündigten Friedensschluss zwischen dem Kaiser und dem französischen König. Ein Gesandter des französischen Königs habe in Zürich persönlich über den Friedensschluss informiert. Teil dieses Friedens sei die geplante Heirat zwischen der Tochter des Kaisers und dem Sohn des französischen Königs, dem Herzog von Orléans. Als Mitgift würden die kaiserlichen Niederlande sowie das Herzogtum Mailand und die Grafschaft Burgund nach dem Tod des Kaisers in den Besitz des Herzogs von Orléans übergehen. Von der Nutzung des Herzogtums Mailand soll der Kaiser dem Herzog jährlich eine Tonne Gold geben. Der französische König soll auf das Herzogtum Savoyen verzichten. Eidgenössische Truppen seien noch für den französischen König gegen den König von England im Einsatz, um diesen zum Frieden zu bewegen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+    <term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-430">Herzogtum</term>
+<term ref="stadtasg-keywords-384">Grafschaft</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-529">Friedensschluss</term>
+<term ref="stadtasg-keywords-473">Eile</term>
+<term ref="stadtasg-keywords-349">Heirat</term>
+<term ref="stadtasg-keywords-298">Tochter</term>
+            </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName><placeName ref="stadtasg-places-32">Zürich</placeName>                    <date>1544-10-05</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Nicole Stadelmann</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-03-30</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_638_1473.JPG" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig dienst sampt was wir eeren
+<lb n="2" />liebs unnd guots vermögend zuovor frommen fürsichtigen
+<lb n="3" />wyßen innsonders guoten fründ unnd getrüwen lieben
+<lb n="4" />eydtgnossen. Wie wir üch iüngst uß deß <persName ref="stadtasg-actors-1264">herrn
+<lb n="5" />Blancfossa</persName> schryben anzeygt, das der krieg zwüschen
+<lb n="6" /><persName ref="stadtasg-actors-1229">römisch keyserlicher maiestät</persName> unnd der kron <placeName ref="stadtasg-places-131">Franckrych</placeName> gerichtet
+<lb n="7" />unnd betragen unnd aber sydhar allerley wider
+<lb break="no" n="8" />wärtiger reden gangen, als ob derselb frid zerschlagen
+<lb n="9" />syge, damit ir dann zwyfels gelediget unnd der
+<lb n="10" />warheyt versichert werind, so ist inn diser stund
+<lb n="11" />der <persName ref="stadtasg-actors-1267">herr de Castion</persName>, <persName ref="stadtasg-actors-490">königlicher maiestät</persName> inn <placeName ref="stadtasg-places-131">Franckrych</placeName> sonderlich
+<lb n="12" />hierumb gesandter orator, postswyß zu unns ankomen,
+<lb n="13" />unnd unns von mund mitsampt eyner schrifft von
+<lb n="14" />obgemeltem <persName ref="stadtasg-actors-1264">herren Blancfossa</persName> anzeygt, das der
+<lb n="15" />krieg gericht unnd eyn guoter, stäter, eewiger frid uß
+<lb n="16" />gnaden deß allmechtigen zwüschen obgemelten beyden
+<lb n="17" />maiestäten uffgericht, beschlossen, angenomen unnd wir
+<lb n="18" />eydtgnossen inn demselben friden heyter bedingt
+<lb n="19" />unnd vergriffen sygen, als wol, als deß <persName ref="stadtasg-actors-490">küngs</persName> selbs
+<lb n="20" />eygne person, daruff der herr <persName ref="stadtasg-actors-1229">keyßer</persName> abgezogen.
+<lb n="21" />Aber diewyl der <persName ref="stadtasg-actors-1121">könig</persName> von <placeName ref="stadtasg-places-376">Engelland</placeName> sich keyner
+<lb n="22" />angepottenen billigkeyt im friden habe wellen laßen
+<lb n="23" />settigen, zieche der herr <persName ref="stadtasg-actors-490">könig</persName> inn <placeName ref="stadtasg-places-131">Franckrych</placeName>
+<lb n="24" />mit den eydtgnossen unnd aller syner macht uff
+<lb n="25" />denselben könig, der meynung, in ouch zefriden
+<lb n="26" />zuovermögen. Unnd als wir von
+<lb n="27" />gedachtem <persName ref="stadtasg-actors-1267">herrn von Castion</persName>, mit was conditionen
+<lb n="28" />gefridet syge, begert zuovernemmen, hatt er unns
+<lb n="29" />anzeygt, das noch nit alle capittel geoffnet, doch
+<lb n="30" />dises die fürneamisten, die yetz offennbar sygen,
+<pb facs="StadtASG_Missive_638_1474.JPG" n="2" />
+<lb n="31" />das nemlich deß herrn <persName ref="stadtasg-actors-490">künigs</persName> inn <placeName ref="stadtasg-places-131">Franckrych</placeName> iüng
+<lb break="no" n="32" />erer sun, der <persName ref="stadtasg-actors-1268">hertzog von Orlians</persName>, deß herrn
+<lb n="33" />keysers dochter<note>Gemeint ist <persName ref="stadtasg-actors-1269">Maria von Spanien</persName>.</note> eelichen, als er yetz schon uff
+<lb n="34" />dem weg sin soll, die ee mit iren zuobeziechen.
+<lb n="35" />Zuo derselben <persName ref="stadtasg-actors-1269">dochter</persName> gypt die <persName ref="stadtasg-actors-1229">keyserliche maiestät</persName> dem
+<lb break="no" n="36" />selben <persName ref="stadtasg-actors-1268">hertzogen von Orlians</persName> yetz angeends
+<lb n="37" />zuo heymstür alle syne <placeName ref="stadtasg-places-446">Niderland</placeName> unntz an
+<lb n="38" />den <placeName ref="stadtasg-places-92">Rhyn</placeName> mit allen irn rechten unnd nutzungen,
+<lb n="39" />darzuo das hertzogthuom <placeName ref="stadtasg-places-311">Meyland</placeName> mitsampt der
+<lb n="40" />graffschafft <placeName ref="stadtasg-places-281">Burgund</placeName>, doch dergstalt das
+<lb n="41" />der herr <persName ref="stadtasg-actors-1229">keyßer</persName> die beyde herrschafften <placeName ref="stadtasg-places-311">Mey
+<lb break="no" n="42" />land</placeName> und <placeName ref="stadtasg-places-281">Burgund</placeName> sölle innhaben unnd ver
+<lb break="no" n="43" />walten sin lebenlang. Als bald er aber todes
+<lb n="44" />vergangen, sollend sollich herrschafften dem <persName ref="stadtasg-actors-1268">hertz
+<lb break="no" n="45" />ogen von Orlians</persName> heymfallen. Unnd von der
+<lb n="46" />nutzung deß hertzogthuombs <placeName ref="stadtasg-places-311">Meyland</placeName> soll <persName ref="stadtasg-actors-1229">keyserliche
+<lb n="47" />maiestät</persName> gedachtem <persName ref="stadtasg-actors-1268">hertzogen</persName> iärlich geben eyn thonen
+<lb n="48" />golds, das überig sy selbs zu irem nutz be
+<lb break="no" n="49" />halten. Darneben solle der herr
+<lb n="50" /><persName ref="stadtasg-actors-490">küng</persName> inn <placeName ref="stadtasg-places-131">Franckrych</placeName> dem hertzogen<note>Gemeint ist Herzog <persName ref="stadtasg-actors-1270">Karl III. von Savoyen</persName>.</note> von
+<lb n="51" /><placeName ref="stadtasg-places-437">Saphoy</placeName> abtretten unnd im syne land mit
+<lb break="no" n="52" />sampt aller nutzung widerumb zuostellen und
+<lb n="53" />inn antwurten.
+<lb n="54" />Das haben lieben eydtgnossen wir üch zu meerer
+<lb break="no" n="55" />em bericht früntlicher meynung nit wellen ver
+<lb break="no" n="56" />halten. Was wir wyter erfarend, soll üch
+<lb n="57" />nit verborgen belyben. Unns damit allweg
+<lb n="58" />aller frundtschafft gegen uch erbietend. Uß
+<lb n="59" /><origPlace ref="stadtasg-places-32">Zürich</origPlace> inn yl <origDate when="1544-10-05">sontags nach Francisci 5 octobris
+<lb n="60" />anno etc. 1544</origDate>.
+<lb n="61" /><orgName ref="stadtasg-actors-503" role="issuer">Burgermeyster unnd
+<lb n="62" />rath der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_638_1475.JPG" n="3" />
+<pb facs="StadtASG_Missive_638_1476.JPG" n="4" />
+<lb n="63" />Den frommen fürsichtigen wyßen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="64" />meyster unnd rath der statt sanct Gallen</orgName>
+<lb n="65" />unnsern innsonders guoten fründen unnd
+<lb n="66" />getrüwen lieben eydtgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 623</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Kontext: 1539 gliederte Wilhelm das benachbarte Herzogtum Geldern als Erbe seiner entfernten Verwandten seinen Ländereien an. Kaiser Karl V. beanspruchte gleichzeitig auch seine Rechte am Herzogtum und Wilhelm musste Massnahmen ergreifen, um die Besitzungen unter seiner Herrschaft zu halten. Er schloss einen Vertrag mit dem König von Frankreich, Franz I. und heiratete dessen Nichte Jeanne d’Albret. Die erwartete Unterstützung aus diesem Bündnis blieb jedoch aus, weshalb 1543 der Kampf um das Herzogtum Geldern mit dem Sieg Karls V. beendet wurde.</p></note></notesStmt>
+               <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_623_1375/1378</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die in Baden versammelten Ratsboten der 13 Orte der Eidgenossenschaft bitten Bürgermeister und Rat zu St. Gallen, Aufkauf und Ausfuhr von Schiesspulver und Salpeter zu verhindern, weil dies den Interessen der eidgenössischen Orte zuwiderlaufen könnte. Der Kaiser versucht, Schiesspulver und Salpeter in der ganzen Eidgenossenschaft unter dem Vorwand, es gegen den Herzog von Geldern und Kleve zu verwenden, aufzukaufen.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-597">Schiesspulver</term>
+<term ref="stadtasg-keywords-596">Salpeter</term>
+<term ref="stadtasg-keywords-277">Herzog</term>
+<term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-284">Kauf</term>   
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-526">Ratsbote</term>
+<term ref="stadtasg-keywords-326">Büchse</term>
+<term ref="stadtasg-keywords-485">Kriegsvorbereitung</term>
+<term ref="stadtasg-keywords-319">Landvogt</term>
+</keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-1255">13 Orte der Eidgenossenschaft</orgName> <placeName ref="stadtasg-places-53">Baden</placeName>                    <date>1543-06-10</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Nicole Stadelmann</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-03-09</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_623_1375.JPG" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig dienst und was wir eeren
+<lb n="2" />liebs und guts vermogent alletzyt bevor from für
+<lb break="no" n="3" />sichtig ersam und wys insunders guot fründ unnd
+<lb n="4" />getrüwen lieben eidtgnossen. Unns lanngt glouplich
+<lb n="5" />an, wie das römische keyserliche maiestät<note>Gemeint ist Kaiser <persName ref="stadtasg-actors-1229">Karl V.</persName>.</note> durch ir verordnot
+<lb n="6" />rät und secretary ettlichen personen befelch
+<lb n="7" />und gelt geben, büchsen bulffer und salpeter inn
+<lb n="8" />unnser <orgName ref="stadtasg-actors-750">Eidtgnoschafft</orgName> uff zuo kouffen, und inn
+<lb n="9" />dem schyne, alls wöltte <persName ref="stadtasg-actors-1229">keyserliche maiestät</persName> dasselbig wider
+<lb n="10" />den hertzog<note>Gemeint ist Herzog <persName ref="stadtasg-actors-1256">Wilhelm V.</persName>.</note> von <placeName ref="stadtasg-places-422">Gelleren</placeName> und <placeName ref="stadtasg-places-423">Cleff</placeName> bruchen, uß
+<lb n="11" />unnseren lannden füren lassen. Diewyl dann
+<lb n="12" />gredt würt, das <persName ref="stadtasg-actors-1229">keyserliche maiestät</persName> söllich bulffer und
+<lb n="13" />salpeter gegen ettlichen bruchen möchte, so unns ver
+<lb break="no" n="14" />wanndt, oder wyr desselben mit der zyt zuo unnser
+<lb n="15" />notturfft zuo bruchen manngelbar sin wurden,
+<lb n="16" />diewyl dann die löuff seltzam, gschwind und
+<lb n="17" />ganntz untrüw sind, so ist an üch unnser gantz
+<lb n="18" />früntlich pitt und begär, ir wöllent by üch selbs
+<lb n="19" />und annderen den üweren fürderlich und unvertzog
+<lb break="no" n="20" />enlich mit ernste verschaffen und darob sin, ob
+<lb n="21" />ettlich personen zuo üch und inen käment, die also
+<lb n="22" />büchsenpulffer und salpeter uffkouffen und
+<lb n="23" />uß üweren und unnseren lannden füren wöltten,
+<lb n="24" />das ir söllichs inen nit gestatten noch bewillgten,
+<lb n="25" />damit nit mit der zyt üch und unns ettwas
+<lb n="26" />schadens und nachteyls darus folgen unnd er
+<lb break="no" n="27" />wachsen möchte. Das wöllent guotter meinung
+<pb facs="StadtASG_Missive_623_1376.JPG" n="2" />
+<lb n="28" />(darinn es ouch beschicht) von unns vernemen
+<lb n="29" />und üch harinne unnserm vertruwen nach be
+<lb break="no" n="30" />wysen. Das begärent wyr umb üch alletzyt
+<lb n="31" />ganntz willig zuo verdienen. Datum und mit deß
+<lb n="32" />fromen wysen unnsers getrüwen lieben landt
+<lb break="no" n="33" />vogts zuo <placeName ref="stadtasg-places-53">Baden in Ergöw</placeName> <persName ref="stadtasg-actors-1158" role="testis">Jacoben an der Rüty</persName> des
+<lb n="34" /><orgName ref="stadtasg-actors-522">rats zu Schwytz</orgName> insigel innamen unnser aller
+<lb n="35" />verschlossen uff den <origDate when="1543-06-10">X tag iuny anno etc. XLIII</origDate>.
+<lb n="36" />Von stett und lannden der <orgName ref="stadtasg-actors-1255" role="issuer">dryzechen
+<lb n="37" />ordten gemeiner unnser Eidtgnoschafft
+<lb n="38" />ratsbotten</orgName> diser zyt zuo <origPlace ref="stadtasg-places-53">Baden in Ergöw</origPlace>
+<lb n="39" />versampt.
+<pb facs="StadtASG_Missive_623_1377.JPG" n="3" />
+<pb facs="StadtASG_Missive_623_1378.JPG" n="4" />
+<lb n="40" />Den fromen fürsichtigen ersamen und wysen
+<lb n="41" /><orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rat der statt sanct Gallen</orgName>
+<lb n="42" />unnsern besunders guotten fründen und getrüwen
+<lb n="43" />lieben eidtgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

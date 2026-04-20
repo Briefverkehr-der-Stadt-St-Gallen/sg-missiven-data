@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 633</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Fehlende Adresse, der Stadtschreiber Thomas Fechter von St. Gallen als Empfänger ergibt sich aber aus der Anrede im Brieftext und der Nachprüfung in den Ratsprotokollen.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_633_1445/1446</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Elisabeth, Äbtissin des Zisterzienserinnenklosters Magdenau, schreibt dem Stadtschreiber zu St. Gallen betreffend die Übertragung des Hofes bei Gebertschwil in Oberbüren. Das Kloster sei Eigentümer des Hofes, der in der Landschaft des Klosters St. Gallen liege. Gerichtsherr sei der Vogt zu Oberdorf. Die Äbtissin bittet den Stadtschreiber, die Urkunde in ihrem und des Konvents Namen zu verfassen. Sie, der Konvent und der Abt würden dann die Urkunde mit ihrem Siegel beglaubigen, aber es sei nicht zwingend notwendig, dass die Äbtissin siegle.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+  <term ref="stadtasg-keywords-136">Lehen</term>
+<term ref="stadtasg-keywords-157">Hof</term>
+<term ref="stadtasg-keywords-206">Äbtissin</term>
+<term ref="stadtasg-keywords-380">Konvent</term>
+<term ref="stadtasg-keywords-201">Abt</term>
+<term ref="stadtasg-keywords-159">Stadtschreiber</term>
+<term ref="stadtasg-keywords-263">Vogt</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-420">Priorin</term>
+<term ref="stadtasg-keywords-421">Hagel</term>
+<term ref="stadtasg-keywords-191">Salz</term>
+<term ref="stadtasg-keywords-518">Leder</term>
+<term ref="stadtasg-keywords-78">Eisen</term>  
+<term ref="stadtasg-keywords-115">Kloster</term>              </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1261">Elisabeth Geilinger</persName>                    <date>1544-08-19</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-1260">Thomas Fechter</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Nicole Stadelmann</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-03-18</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_633_1445.JPG" n="1" />
+<p>
+<lb n="1" />Min fruintlicher gruos lieber her statschriber<note>Gemeint ist wohl <persName ref="stadtasg-actors-1260" cert="medium" role="recipient">Thomas Fechter</persName>.</note>. Ich las uyer wirden
+<lb n="2" />wissen, uf das ir mir geschriben hand von des hoft wegen, den ich
+<lb n="3" />minen heren wil in setzen von des <placeName ref="stadtasg-places-424">gotzhus Magnow</placeName> wegen, der
+<lb n="4" />lit zuo <placeName ref="stadtasg-places-425">Geberschwil</placeName> und ist des gotzhus eigen und sus niemen, den er
+<lb n="5" />lit in mines gnedigen heren von <placeName ref="stadtasg-places-38">sant Gallen</placeName> lanthschaf und in sinen
+<lb n="6" />grichen. Der fot von <placeName ref="stadtasg-places-161">Oberdorft</placeName> ist grichher dar uiber. Sus got der
+<lb n="7" />hof nienman gantz und gar nuit an. Und ir werden den brief
+<lb n="8" />machen in der abtissen namen und in des gotzhus der koffent
+<lb n="9" />namen. Der koffent und ich werden des gotzhus sigel und der
+<lb n="10" />abt dü sigel dar an hencken, so ist es genuog. Wir sind nit be
+<lb break="no" n="11" />fotet von land noch von niemen. Das gotzhus nimpt selb ein
+<lb n="12" />fot, der im füglichen ist, us der ursach, das ein gotzhus zwing
+<lb n="13" />und grich hat. Ob aber mine heren nit weten ein genuogen
+<lb n="14" />han an dem koffend und an der abtissen, so lit uis nuit dar
+<lb n="15" />an, so muos der fot das gelt an fachen und siglen. Ich han
+<lb n="16" />aber im das sigel nach gelasen us der ursach von des grich
+<lb n="17" />wegen, das dick brief im grich werden uf gerich, das nit
+<lb n="18" />al wegen ain abtissen muos siglen. Wir wend minen heren
+<lb n="19" />nit verfüeren, es wirt mir dis wuochen das lehenbuoch
+<lb n="20" />koman, dar nach wirt frow priorin selb mit des gotzhus sigel
+<lb n="21" />komen und I tag oder II da sein. So wend wir bed mit ein
+<lb n="22" />anderen komen. Darumb so verstand es im besten und tund
+<lb n="23" />das best, den wo der hagel al uisser <placeName ref="stadtasg-places-426">Büren</placeName> nit also uibel het
+<lb n="24" />trofen an allen orten, so weten wir es nit annemen.
+<lb n="25" />Wend wir den armen nur das best weten tuon und inen
+<lb n="26" />warten und vir seizen, wir weten kein gelt annemen.
+<lb n="27" />Dar hin so nemen wir bim bürgeren zu <placeName ref="stadtasg-places-38">sant Gallen</placeName>
+<lb n="28" />alle ding, salz, isen und leder und seil, und was den ein gotzhus
+<lb n="29" />tarf, das wir die bürger wend abzallen mit dem gelt,
+<lb n="30" />das wir mogen den armen man, wibten und weisen
+<lb n="31" />erhalten diser hof dar mit tuen. Und uf <origDate when="1544-08-19">huit zistag geschriben
+<lb n="32" />nach uisser frowen tag im XLIIII iar</origDate>.
+<lb n="33" />Von mir <persName ref="stadtasg-actors-1261" role="issuer">Elsbet</persName> abtissen zuo
+<lb n="34" /><placeName ref="stadtasg-places-424">Magnow</placeName>.
+<pb facs="StadtASG_Missive_633_1446.JPG" n="2" />
+</p>
+        </body>
+    </text>
+</TEI>

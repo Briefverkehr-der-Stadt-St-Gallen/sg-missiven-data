@@ -22,7 +22,7 @@
         </fileDesc>
         <profileDesc>
             <abstract>
-                <p>Bürgermeister und Rat zu Konstanz berichten Bürgermeister und Rat zu St. Gallen, dass am vergangenen 8. September ein Knecht des Burkhard Schenk von Kastell in ihre Stadt eingelassen werden wollte, ihm dies aber wegen seines ungebührlichen Verhaltens nicht gestattet wurde. Er hatte sein Messer den Torwarten nicht abgeben wollen und gedroht, er würde mit Feuer wieder kommen. Konstanz habe danach Burkhard Schenk mehrfach zu einer Gerichtsverhandlung vorgeladen, darauf habe er jedoch nie reagiert. Die Konstanzer bitten die St. Galler, mit Burkhard Schenk zu sprechen und sie in dieser Angelegenheit zu unterstützen. Zudem bitten sie um eine schriftliche Antwort mit dem gleichen Boten.</p>            </abstract>
+                <p>Bürgermeister und Rat zu Konstanz berichten Bürgermeister und Rat zu St. Gallen, dass am vergangenen 9. September ein Knecht des Burkhard Schenk von Kastell in ihre Stadt eingelassen werden wollte, ihm dies aber wegen seines ungebührlichen Verhaltens nicht gestattet wurde. Er hatte sein Messer den Torwarten nicht abgeben wollen und gedroht, er würde mit Feuer wieder kommen. Konstanz habe danach Burkhard Schenk mehrfach zu einer Gerichtsverhandlung vorgeladen, darauf habe er jedoch nie reagiert. Die Konstanzer bitten die St. Galler, mit Burkhard Schenk zu sprechen und sie in dieser Angelegenheit zu unterstützen. Zudem bitten sie um eine schriftliche Antwort mit dem gleichen Boten.</p>            </abstract>
             <langUsage>
                 <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
@@ -50,11 +50,11 @@
         <revisionDesc>
             <!-- eg. open, done, approved -->
             <change type="transcription" status="approved">
-                <persName>CS</persName>
+                <persName>Claudia Sutter</persName>
                 <date>2021-08-25</date>
             </change>
             <change type="tagging" status="done">
-                <persName>NSch</persName>
+                <persName>Noëmi Schöb</persName>
                 <date>2024-01-10</date>
             </change>
         </revisionDesc>
@@ -65,7 +65,7 @@
             <pb facs="StadtASG_Missive_333_671.JPG" n="1"/>
 <p>
 <lb n="1"/>Unser willig fruntlich dienst zuo vor ersamen und wisen besundern lieben und guoten
-<lb n="2"/>frund. Wir fuegen uch zuo wissen, wie sich uff unser kirchwichi, namlich unser <date when="1456-09-08">frowen
+<lb n="2"/>frund. Wir fuegen uch zuo wissen, wie sich uff unser kirchwichi, namlich unser <date when="1456-09-09">frowen
 <lb n="3"/>tag zuo herbst naechstvergangen</date>, hat gemacht, das ainer, <persName ref="stadtasg-actors-420">Burckharts Schencken
 <lb n="4"/>von Casteln</persName> knecht, mit sampt andern an unser statt thor komen ist. Als er nu in
 <lb n="5"/>die statt gangen sin woelt, haben unser thorwarten, als sy sprechen, guetlich mit im

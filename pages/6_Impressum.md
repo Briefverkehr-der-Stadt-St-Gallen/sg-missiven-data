@@ -47,4 +47,4 @@ Arman Weidenmann <br>
 Version 01.03.2025
 
 ## Bildnachweis der Startseite
-Warenverkehr auf dem Bodensee, Kalenderbild des St. Galler Buchdruckers Leonhard Straub von 1579. Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen, Tr. XXVI, 47,5.
+Warenverkehr auf dem Bodensee, Kalenderbild des St. Galler Buchdruckers Leonhard Straub von 1579. StadtASG/1/5/XXVI.47.5.

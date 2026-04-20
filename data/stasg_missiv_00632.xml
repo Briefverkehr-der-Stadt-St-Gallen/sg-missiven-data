@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 632</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnten Beilagen <ref target="stasg_missiv_00632-suppl-01.xml">1</ref> und <ref target="stasg_missiv_00632-suppl-02.xml">2</ref> sind vorhanden. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00627.xml">627</ref>, <ref target="stasg_missiv_00628.xml">628</ref>, <ref target="stasg_missiv_00629.xml">629</ref>, <ref target="stasg_missiv_00631.xml">631</ref>, <ref target="stasg_missiv_00634.xml">634</ref>, <ref target="stasg_missiv_00636.xml">636</ref>, <ref target="stasg_missiv_00637.xml">637</ref> und <ref target="stasg_missiv_00638.xml">638</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_632_1433/1444</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_632_1433/1444</idno><altIdentifier type="filename"><idno>stasg_missiv_00632-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc>
+                <msDesc n="2" type="supplement"><msIdentifier><idno>StadtASG Missive_632_1433/1444</idno><altIdentifier type="filename"><idno>stasg_missiv_00632-suppl-02.xml</idno></altIdentifier></msIdentifier></msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bezug nehmend auf ein früheres Schreiben (Missive 631) informieren Bürgermeister und Rat zu Zürich Bürgermeister und Rat zu St. Gallen über das Verhalten der eidgenössischen Orte im Umgang mit der vom Kaiser eingeforderten Steuer im Krieg gegen die Türken, zu deren Begleichung zu Handen Augsburgs auch die Stadt St. Gallen in der Höhe von 1700 Gulden durch Speyer aufgefordert worden war. Zur Information über den eidgenössischen Umgang mit diesen Forderungen werden zwei Beilagen mitgeschickt.</p>            </abstract>
+            <langUsage>
+                <language ident='deu'>Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+   <term ref="stadtasg-keywords-426">Mandat</term>
+<term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-459">Türkensteuer</term>
+<term ref="stadtasg-keywords-328">Eidgenössischer Abschied</term>  
+<term ref="stadtasg-keywords-604">Beilage</term>  
+<term ref="stadtasg-keywords-489">Zeitung</term>  
+<term ref="stadtasg-keywords-347">Majestät</term>          </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName><placeName ref="stadtasg-places-32">Zürich</placeName>                    <date>1544-07-28</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Nicole Stadelmann</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-03-30</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_632_1433.JPG" n="1" />
+<p>
+<lb n="1" />Unnser früntlich willig dienst sampt was wir eeren
+<lb n="2" />liebe unnd fründschafft vermögent zuovor frommen
+<lb n="3" />fürsichtigen wyßen innsonders guoten fründ unnd ge
+<lb break="no" n="4" />trüwen lieben eydtgnosßen. Uwer schryben, als ir
+<lb n="5" />unns der zuogschickten zytungen halb danckend, mit be
+<lb break="no" n="6" />schwärung deß manndats, üch uff den <date when="1544-07-20">20 tag iuly</date> der
+<lb n="7" />anlaag halb wider den türcken uff 1700 <choice><abbr>gl.</abbr><expan>Gulden</expan></choice> gan
+<lb n="8" /><placeName ref="stadtasg-places-135">Augspurg</placeName> zuoerleggen von <placeName ref="stadtasg-places-111">Spyr</placeName> zuokomen etc. verstanden,
+<lb n="9" />unnd wie wol wir üch <date when="1544-07-16">mittwuchs nach Margarethe</date> nechst
+<lb break="no" n="10" />verschinen uffs kürtzist, was zuo <placeName ref="stadtasg-places-53">Baden</placeName> söllicher anlaag
+<lb n="11" />halb gehandlet syge, bericht, schickennd wir üch doch yetz
+<lb n="12" />zuo völligerem bericht unnd damit ir dest rüwiger sin mögint,
+<lb n="13" />eyn ußzug uß dem abscheyd <placeName ref="stadtasg-places-53">Baden</placeName>, darinn ir der eydt
+<lb break="no" n="14" />gnosßen gmueth unnd erkanthnuß wol habend zuoerlernen,
+<lb n="15" />wesß sy söllicher anlaagen halb gesinnet sygint, könnend
+<lb n="16" />wir üch dann inn dem unnd annderm zuo enthebung
+<lb n="17" />wyterer beschwärden, nutz unnd guot sin. Achten wir, ir
+<lb n="18" />zwyflint an unnserm getrüwenn flyß gar nützit, dann
+<lb n="19" />das wir üwer eer unnd nutz nit mynder dann die
+<lb n="20" />unnsere ze fürderen willig sygint. So aber die <persName ref="stadtasg-actors-1229">keyserliche
+<lb n="21" />maiestät</persName> nit felliger kriegen soll, dann ir noch bißhar uß vorigen
+<lb n="22" />unnd dißen yetzhiebygelegten zytungen verstaan, mögend
+<lb n="23" />ir wol erachten, das wir irenthalb mit der hilf gottes noch
+<lb n="24" />vyl zyts wol rüwig belyben wellend. Was unns
+<lb n="25" />fürer zuokompt, soll üch allweg früntlichs willens unver
+<lb break="no" n="26" />borgen sin. Der allmechtig gott welle eyn frome
+<lb n="27" /><orgName ref="stadtasg-actors-750">Eydtgnosßschafft</orgName> uß synen gnaden inn würden und weßen
+<lb n="28" />glücklich unnd fridlich erhalten. Zuo üwerm gfallen habent
+<lb n="29" />ir unns allzyt willig. Uß <origPlace ref="stadtasg-places-32">Zürich</origPlace> <origDate when="1544-07-28">mentags den 28 iuly 1544</origDate>.
+<lb n="30" /><orgName ref="stadtasg-actors-503" role="issuer">Burgermeyster unnd
+<lb n="31" />rath der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_632_1434.JPG" n="2" />
+<pb facs="StadtASG_Missive_632_1443.JPG" n="3" />
+<pb facs="StadtASG_Missive_632_1444.JPG" n="4" />
+<lb n="32" />Den frommen fürsichtigen wyßen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="33" />meyster unnd rath der statt sanct
+<lb n="34" />Gallen</orgName> unnsern innsonders guoten fründen
+<lb n="35" />unnd getrüwen lieben eydtgnosßen.
+</p>
+        </body>
+    </text>
+</TEI>

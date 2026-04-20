@@ -35,6 +35,7 @@
 <term ref="stadtasg-keywords-225">Kriegsgefahr</term>
 <term ref="stadtasg-keywords-95">Warnung</term>
 <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-637">Stift</term>
                 </keywords>
             </textClass>
             <correspDesc>
@@ -49,11 +50,11 @@
         <revisionDesc>
             <!-- eg. open, done, approved -->
             <change type="transcription" status="approved">
-                <persName>tb</persName>
+                <persName>Thomas Bruggmann</persName>
                 <date>2021-08-25</date>
             </change>
             <change type="tagging" status="done">
-                <persName>am</persName>
+                <persName>Alina Mächler</persName>
                 <date>2025-03-31</date>
             </change>
         </revisionDesc>
