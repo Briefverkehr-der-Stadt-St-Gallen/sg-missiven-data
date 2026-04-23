@@ -34,6 +34,7 @@
                 <field name="name-full" expression="tei:persName[@type='full'][@xml:lang='de']"/>
                 <field name="description" expression="tei:note"/>
                 <field name="type" expression="'Person'"/>
+                <field name="subtype" expression="'person'"/>
                 <facet dimension="type" expression="'Person'"/>
             </text>    
             <text qname="tei:personGrp" index="no">
@@ -41,6 +42,7 @@
                 <field name="name-full" expression="tei:persName[@type='full'][@xml:lang='de']"/>
                 <field name="description" expression="tei:note"/>
                 <field name="type" expression="'Person'"/>
+                <field name="subtype" expression="'family'"/>
                 <facet dimension="type" expression="'Person'"/>
             </text>    
             <text qname="tei:org" index="no">
@@ -48,6 +50,7 @@
                 <field name="name-full" expression="tei:orgName[@type='full'][@xml:lang='de']"/>
                 <field name="description" expression="tei:note"/>
                 <field name="type" expression="'Person'"/>
+                <field name="subtype" expression="'organisation'"/>
                 <facet dimension="type" expression="'Person'"/>
             </text>   
             <text qname="tei:place" index="no">
