@@ -30,35 +30,38 @@
             </text>
             
             <text qname="tei:person" index="no">
-                <field name="name" expression="tei:persName[@type='main'][@xml:lang='de']"/>
+                <field name="name" expression="tei:persName"/>
                 <field name="name-full" expression="tei:persName[@type='full'][@xml:lang='de']"/>
-                <field name="person-note" expression="tei:note"/>
+                <field name="description" expression="tei:note"/>
                 <field name="type" expression="'Person'"/>
                 <facet dimension="type" expression="'Person'"/>
             </text>    
             <text qname="tei:personGrp" index="no">
-                <field name="name" expression="tei:persName[@type='main'][@xml:lang='de']"/>
+                <field name="name" expression="tei:persName"/>
                 <field name="name-full" expression="tei:persName[@type='full'][@xml:lang='de']"/>
-                <field name="person-note" expression="tei:note"/>
+                <field name="description" expression="tei:note"/>
                 <field name="type" expression="'Person'"/>
                 <facet dimension="type" expression="'Person'"/>
             </text>    
             <text qname="tei:org" index="no">
-                <field name="name" expression="tei:orgName[@type='main'][@xml:lang='de']"/>
+                <field name="name" expression="tei:orgName"/>
                 <field name="name-full" expression="tei:orgName[@type='full'][@xml:lang='de']"/>
+                <field name="description" expression="tei:note"/>
                 <field name="type" expression="'Person'"/>
                 <facet dimension="type" expression="'Person'"/>
             </text>   
             <text qname="tei:place" index="no">
-                <field name="name" expression="tei:placeName[@type='main'][@xml:lang='de']"/>
+                <field name="name" expression="tei:placeName"/>
                 <field name="name-full" expression="tei:placeName[@type='full'][@xml:lang='de']"/>
                 <field name="place-n" expression="@n"/>
+                <field name="description" expression="tei:note"/>
                 <field name="type" expression="'Place'"/>
                 <facet dimension="type" expression="'Place'"/>
             </text> 
             <text qname="tei:item" index="no">
-                <field name="name" expression="tei:label[@type='main'][@xml:lang='de']"/>
+                <field name="name" expression="tei:label"/>
                 <field name="name-full" expression="tei:label[@type='main'][@xml:lang='de']"/>
+                <field name="description" expression="tei:note"/>
                 <field name="type" expression="'Keyword'"/>
                 <facet dimension="type" expression="'Keyword'"/>
             </text>
