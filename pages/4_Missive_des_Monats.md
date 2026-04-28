@@ -5,6 +5,10 @@ Jeden Monat zeigen wir ein Highlight aus unserer Edition und vermitteln einen ku
 
 2026
 
+Mai: Der ertrunkene Nürnberger Bote
+[[PDF](resources/pdfs/Stadelmann_01-05-2026.pdf)]
+[[Missive Nr. 4041](https://missiven.stadtarchiv.ch/missiven/stasg_missiv_04041)]
+
 April: Vom Wirtschafts- zum Glaubenskrieg, Kleinkrieg zwischen St. Gallen und dem Appenzellerland Teil 3
 [[PDF](resources/pdfs/Maechler_Vom_Wirtschafts-_zum_Glaubenskrieg_03-04-2026.pdf)]
 [[Missive Nr. 1229](https://missiven.stadtarchiv.ch/missiven/stasg_missiv_01229)]
