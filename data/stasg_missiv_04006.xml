@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_04006">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Bürgermeister und Rat zu St. Gallen bitten mit dem vorliegenden Empfehlungsschreiben Obrist, Stadthauptmann, Bürgermeister und Rat zu Konstanz, dem Metzgerknecht Hans Christoph Buff von Gammertingen ab der Schwäbischen Alb, der momentan beim St. Galler Bürger, Metzger und Zunftmeister Ulrich Alther arbeitet, in seinem angestrebten Prozess gegen Heinrich Hüetli aus Konstanz wegen Ehrverletzung zu unterstützen. Auf Gesuch von Buff bezeugten zwei seiner Arbeitgeber in St. Gallen vor der St. Galler Obrigkeit das bisherige Wohlverhalten und den guten Ruf Buffs.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
    <term ref="stadtasg-keywords-281">Entwurf</term>
@@ -64,11 +63,11 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_4006_16183.jpg" n="1" />
+            <pb facs="StadtASG_Missive_4006_16183.jpg" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_4006_16184.jpg" n="2" />
-<pb facs="StadtASG_Missive_4006_16185.jpg" n="3" />
-<pb facs="StadtASG_Missive_4006_16186.jpg" n="4" />
+<pb facs="StadtASG_Missive_4006_16184.jpg" n="2"/>
+<pb facs="StadtASG_Missive_4006_16185.jpg" n="3"/>
+<pb facs="StadtASG_Missive_4006_16186.jpg" n="4"/>
 </p>
         </body>
     </text>

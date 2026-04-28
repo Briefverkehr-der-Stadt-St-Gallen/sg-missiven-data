@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00054">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -80,15 +79,10 @@
                 früntschafft mit ernst flizzklich, die vorgenant <lb n="8"/>frowen gütlich zu
                 vernemend, ir in denselben sachen gegen sölichen lüten <lb n="9"/>bystendig und
                 hilfflich syent, üwern früntlichen rat ir darinne mittailent, <lb n="10"/>nachdem
-                und ir denne notdurfft wirdet sin. Da erzöigent ir uns sunder <lb n="11"
-                />früntschafft und liebi an, die wir gegen üch und den uwern in semlichen <lb
-                    n="12"/>und meren sachen ingedengk sin wellent und nit vergessen. Datum <lb
-                    n="13"/><origDate when="1432-04-10">quinta ante dominicam palmarum anno domini
+                und ir denne notdurfft wirdet sin. Da erzöigent ir uns sunder <lb n="11"/>früntschafft und liebi an, die wir gegen üch und den uwern in semlichen <lb n="12"/>und meren sachen ingedengk sin wellent und nit vergessen. Datum <lb n="13"/><origDate when="1432-04-10">quinta ante dominicam palmarum anno domini
                         etc. XXX secundo</origDate>. <lb n="14"/><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister
-                    und <lb n="15"/>raut zu Costentz</orgName>. <pb
-                    facs="StadtASG_Missive_54_108.JPG" n="2"/>
-                <lb n="16"/>Den ersamen unsern sundern lieben und guoten fründen <lb n="17"
-                /><orgName ref="stadtasg-actors-148" role="recipient">burgermaister und reten zuo sant Gallen</orgName>.
+                    und <lb n="15"/>raut zu Costentz</orgName>. <pb facs="StadtASG_Missive_54_108.JPG" n="2"/>
+                <lb n="16"/>Den ersamen unsern sundern lieben und guoten fründen <lb n="17"/><orgName ref="stadtasg-actors-148" role="recipient">burgermaister und reten zuo sant Gallen</orgName>.
             </p>
         </body>
     </text>

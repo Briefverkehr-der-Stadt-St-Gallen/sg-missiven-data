@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00656">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 656</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_656_1525/1526</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Bern bedanken sich bei Bürgermeister und Rat zu St. Gallen für die an ihren Geheimen Rat gesandte Schreiben. Die Berner informieren, dass eine Tagsatzung zu Baden abgehalten werden soll, um darüber zu beratschlagen, was den Eidgenossen und den Konstanzer Nachbarn zum besten Nutzen gereichen könnte. Die Ankunft ist auf den Sonntagabend, 27. Februar, in der Herberge, angesetzt. Die Berner bitten die St. Galler, Zürich, Glarus, Schaffhausen und Appenzell gleich wie sie zu informieren sowie Luzern und die vier Orte Uri, Schwyz, Unterwalden und Zug sowie Freiburg und Solothurn anzuschreiben.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+    <term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-487">Bericht</term>
+<term ref="stadtasg-keywords-491">Geheimer Rat</term>
+<term ref="stadtasg-keywords-620">Herberge</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
+<term ref="stadtasg-keywords-217">Antwort</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-514">Schultheiss und Rat zu Bern</orgName>                    <date>1547-02-15</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Arman Weidenmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-04-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_656_1525.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich willig diennst sampt was wyr eerenn liebs unnd guots vermögend zuovor
+<lb n="2"/>fromm fürsichtig ersam wyß innsonders guot fründt und getrüw lieb eydtgnossenn. Üwer
+<lb n="3"/>schrybenn sampt inverschlossnenn schrifftenn <date when="1547-02-08">achten tag diß manodts</date> ann unser geheym
+<lb n="4"/>räth ußgangenn, ist inen <date when="1547-02-13">verschinenn sontags</date> überlyfertt wordenn, welliches sy <date when="1547-02-15">hütt</date> unns
+<lb n="5"/>fürpracht und wyr alles inhallts verstanndenn habenn und sagen üch desselbigenn
+<lb n="6"/>grossenn danck. So nun uns von üwern und unsern getrüwen lieben eydtgnossenn
+<lb n="7"/>vonn <placeName ref="stadtasg-places-133">Bassell</placeName>, ouch von andern orttenn hievor, ouch vonn unnsern kundtschafftenn,
+<lb n="8"/>die wyr zuo gefarung der dingen ussgeschickt habenn, waß glyche meynung ietz zuokommen,
+<lb n="9"/>habenn wyr vor ettwas tagen obgedachtenn unsern getrüwenn lieben eydtgnossenn
+<lb n="10"/>vonn <placeName ref="stadtasg-places-133">Basell</placeName> zuogeschrybenn, das uns von höchstenn nödtenn (diewyh söllich löuff
+<lb n="11"/>gmeine lobliche <orgName ref="stadtasg-actors-750">Eydtgnoschafft</orgName> berüren wöltend) bedüchte, das sy es an die ortt,
+<lb n="12"/>dahin die ding gehörenn, kommenn lassenn unnd verkündenn unnd darob ein
+<lb n="13"/>gmeiner eydtgnossischer tag söllte beschribenn und gehallten werdenn. Darüber
+<lb n="14"/>wir noch diser stund kein anntwurtt empfangenn, deßhalb wir bedachtt
+<lb n="15"/>habenn, sy üwers obberürttenn schrybens zuverstenndigenn und darnäbenn
+<lb n="16"/>anzezöugenn, wann sy uff obangerecktt unnser schryben nit hettend einen tag an
+<lb break="no" n="17"/>gesezt unnd ußgeschrybenn, das wirs thuon wölltend und namlich den
+<lb n="18"/>gan <placeName ref="stadtasg-places-53">Badenn</placeName> uff <date when="1547-02-27">sontag den XXVIIten diß manodts</date> nachts daselbst ann der herbrig
+<lb n="19"/>zesin bestimptt, uff wöllichem wyr unsern pottenn, so wir dahin sennden, inn bevelch
+<lb n="20"/>gebenn werdenn, alles das fürzetragenn, berathschlagen, zehandlen und fürdern,
+<lb n="21"/>darzuo wolstand gemeyner loblicher <orgName ref="stadtasg-actors-750">Eydtgnoschafft</orgName> ouch unsern nachpurenn
+<lb n="22"/>von <placeName ref="stadtasg-places-7">Costenntz</placeName> zuo nutz und guottem dienenn mag. Unns wyl aber hieby für füglich
+<lb n="23"/>ansächenn, das ir andere unnsere eydtgnossenn, namlich von <placeName ref="stadtasg-places-32">Zürich</placeName>,
+<lb n="24"/><placeName ref="stadtasg-places-73">Glarys</placeName>, <placeName ref="stadtasg-places-185">Schaffhusen</placeName> und <placeName ref="stadtasg-places-8">Appenzell</placeName> glych wie uns des berichtind deßglychenn
+<lb n="25"/>unsern eydtgnossenn vonn <placeName ref="stadtasg-places-69">Lucern</placeName> ouch zum geschicktestenn und glimpfflichstenn,
+<lb n="26"/>wie ir woll thuon könnend, mit meldung der stuckenn, so sy und die vier ortt
+<lb n="27"/><placeName ref="stadtasg-places-70">Ury</placeName>, <placeName ref="stadtasg-places-71">Schwytz</placeName>, <placeName ref="stadtasg-places-72">Underwaldenn</placeName> und <placeName ref="stadtasg-places-10">Zug</placeName> berürend, one anzug deß gloubens zuoschrybind
+<lb n="28"/>und darnäbenn sy pittind, söllichs erstgemeldt vier ortt zeberichtenn glycher gestallt
+<lb n="29"/>ouch unnsern getrüwen lieben eydtgnossen von <placeName ref="stadtasg-places-197">Fryburg</placeName> und <placeName ref="stadtasg-places-49">Soloturn</placeName> zeverkhünden.
+<lb n="30"/>Datum <origDate when="1547-02-15">XV. februarii anno 1547</origDate>.
+<lb n="31"/><orgName ref="stadtasg-actors-514" role="issuer">Schultheys und rath
+<lb n="32"/>zuo Bern</orgName>.
+<pb facs="StadtASG_Missive_656_1526.JPG" n="2"/>
+<lb n="33"/>Den frommenn fürsichtigenn ersamenn
+<lb n="34"/>wysenn <orgName ref="stadtasg-actors-148" role="recipient">bürgermeyster unnd rath zuo
+<lb n="35"/>sant Gallenn</orgName> unnsern insonnders
+<lb n="36"/>guottenn fründen unnd getrüwenn
+<lb n="37"/>lieben eydtgnossenn.
+</p>
+        </body>
+    </text>
+</TEI>

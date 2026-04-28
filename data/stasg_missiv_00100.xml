@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00100">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -70,8 +69,7 @@
         <body>
             <pb facs="StadtASG_Missive_100_199.JPG" n="1"/>
             <p>
-                <lb n="1"/>Unser früntlich willig dienst zuvor ersammen wysen sonder lieben <lb
-                    n="2"/>und guoten fründe. Wir tuond üwer guoten früntschafft ze wissende, dz
+                <lb n="1"/>Unser früntlich willig dienst zuvor ersammen wysen sonder lieben <lb n="2"/>und guoten fründe. Wir tuond üwer guoten früntschafft ze wissende, dz
                     <lb n="3"/>uns üwer und unser <orgName ref="stadtasg-actors-510">guot fründe von
                     Ulm</orgName> geschriben haut, wie dz unser <lb n="4"/>gnedigister herre der
                 römisch kayßer<note><persName ref="stadtasg-actors-16">Sigismund von
@@ -85,13 +83,9 @@
                 und üwer statt antreffende <lb n="11"/>ze sind. Und hierumb so wöllen dz im besten
                 von uns vermerggen, <lb n="12"/>denn in welhen sachen wir getuon künden, dz üwer
                 ersamme früntlich <lb n="13"/>lieb und dienst were, darzuo wölten wir gantz willig
-                genaigt und <lb n="14"/>unbedrossen sin sonder zwifels. Geben am <origDate
-                    when="1437-12-29">nechsten sonntag vor dem <lb n="15"/>ingenden iars tag anno
-                    domini etc. XXXVIIIto</origDate>. <lb n="16"/><orgName ref="stadtasg-actors-511" role="issuer">Burgermaister und <lb
-                        n="17"/>raute zu Lindow</orgName>. <pb facs="StadtASG_Missive_100_200.JPG"
-                    n="2"/>
-                <lb n="18"/>Den ersammen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raute zu <lb n="19"
-                    />sant Gallen</orgName> unsern sondern lieben und guoten fründen. </p>
+                genaigt und <lb n="14"/>unbedrossen sin sonder zwifels. Geben am <origDate when="1437-12-29">nechsten sonntag vor dem <lb n="15"/>ingenden iars tag anno
+                    domini etc. XXXVIIIto</origDate>. <lb n="16"/><orgName ref="stadtasg-actors-511" role="issuer">Burgermaister und <lb n="17"/>raute zu Lindow</orgName>. <pb facs="StadtASG_Missive_100_200.JPG" n="2"/>
+                <lb n="18"/>Den ersammen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raute zu <lb n="19"/>sant Gallen</orgName> unsern sondern lieben und guoten fründen. </p>
         </body>
     </text>
 </TEI>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00670">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 670</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00669.xml">669</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_670_1585/1588</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau antworten an Bürgermeister und Rat zu St. Gallen auf ihr Auskunftsschreiben betreffend Brandstifter. Ihnen ist bekannt, dass in Stockach jemand hingerichtet worden sei, der gestanden habe, für Geld in Dörfern und Städten Brände zu legen. Es soll auch in Kattenhorn gebrannt haben. Sollten sie mehr erfahren, würden sie wieder berichten.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+   <term ref="stadtasg-keywords-217">Antwort</term>
+<term ref="stadtasg-keywords-487">Bericht</term>
+<term ref="stadtasg-keywords-62">Brandstiftung</term>
+<term ref="stadtasg-keywords-250">Anfrage</term>
+<term ref="stadtasg-keywords-197">Geständnis</term>
+<term ref="stadtasg-keywords-103">Urteil</term>
+<term ref="stadtasg-keywords-41">Feuer</term>
+<term ref="stadtasg-keywords-623">Dorf</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>                    <date>1548-05-11</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Arman Weidenmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-04-14</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_670_1585.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser freundtlich willig dienst zuvor ersamen
+<lb n="2"/>unnd weisen sonders lieben unnd gutten freundt. Wir
+<lb n="3"/>haben ewer weisheit schreiben, uns der brenner halben getahn,
+<lb n="4"/>empfangen unnd vernomen unnd geben ewer weisheit darauff
+<lb n="5"/>zu erkennen, daß nit ohn es haben ettliche unserer raths
+<lb n="6"/>freund uns angezaigt, daß zu <placeName ref="stadtasg-places-165">Stockhen</placeName> ainer gericht
+<lb n="7"/>worden sein, der bekennt haben solle, daß ettliche gellt
+<lb n="8"/>empfangen, stett unnd dörffer zuverbrennen. Man
+<lb n="9"/>soll auch zu <placeName ref="stadtasg-places-465">Kattenhorn</placeName> eingelegt feur funden haben.
+<lb n="10"/>Daß wolten wir ewer weisheit zur anthwurt nit bergen, unnd
+<lb n="11"/>wo ewer weisheit weytter ettwas davon erfaren würden, wöllen
+<lb n="12"/>sie uns pitten, wir desselbigen berichten, das wöllen wir
+<lb n="13"/>hinwiderumb gleicher gestalt gegen ewer weisheit auch thun
+<lb n="14"/>unnd seind ewer weisheit zu dienen gutthwillig. Datum den
+<lb n="15"/><origDate when="1548-05-11">XI. may anno etc. XLVIII</origDate>.
+<lb n="16"/><orgName ref="stadtasg-actors-511" role="issuer">Burgermaister unnd rathe
+<lb n="17"/>der statt Lindaw</orgName>.
+<pb facs="StadtASG_Missive_670_1586.JPG" n="2"/>
+<pb facs="StadtASG_Missive_670_1587.JPG" n="3"/>
+<pb facs="StadtASG_Missive_670_1588.JPG" n="4"/>
+<lb n="18"/>Den ersamen unnd weisenn <orgName ref="stadtasg-actors-148" role="recipient">bur
+<lb break="no" n="19"/>germaister unnd rathe der statt zu
+<lb n="20"/>sannt Gallen</orgName> unnsern besonndern
+<lb n="21"/>lieben unnd guthenn freunden.
+</p>
+        </body>
+    </text>
+</TEI>

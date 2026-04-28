@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00567">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 567</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_567_1163/1164</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister, Rat und Bürger zu Zürich berichten in Eile dem Bürgermeister und Rat zu St. Gallen von ihrem Aufbruch nach Bremgarten. Sie hätten den Rheintalern gestattet, zuhause zu bleiben, bitten nun aber die St. Galler, ihnen etliche Haken auszuleihen.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-69">Leihe</term>
+<term ref="stadtasg-keywords-327">Waffe</term>
+<term ref="stadtasg-keywords-48">Feindschaft</term>   
+<term ref="stadtasg-keywords-473">Eile</term>              </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>
+                    <placeName ref="stadtasg-places-32">Zürich</placeName>                    <date>1531-10-14</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Noëmi Schöb</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Noëmi Schöb</persName>
+                <date>2026-03-30</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_567_1163.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser frundtlich willig dienst sampt was wir eeren liebs unnd
+<lb n="2"/>guots vermögend allzyt fründtlichs gemüts zuobevor frommen
+<lb n="3"/>fürsichtgen wysen innsunders guoten fründ getrüwen lieben
+<lb n="4"/>eydtgnossenn unnd cristenlichen mittburger. Wir sagen üch zum
+<lb n="5"/>höchsten unnsers vermögens üwers trostlichen zuozugs fründt
+<lb break="no" n="6"/>lichen dangk mit gar williger erbyettung soellichs fründtlichen
+<lb n="7"/>unnd inn hohen trüwen umb uech zubeschulden. Wir sind
+<lb n="8"/>ouch inn diser stund uffbrochhen den naechsten uff <placeName ref="stadtasg-places-463">Brämgarten</placeName><note>Kontext: Zweiter Kappelerkrieg spricht für Bremgarten AG.</note>
+<lb n="9"/>zuo unnsern fygend zuobesuochen unnd zestraaffen. Got welle
+<lb n="10"/>unns sin syg unnd glugk verlyhen, sy für unnser füss ze
+<lb break="no" n="11"/>leggen. Unnd diewyl wir dann allerlei praticken der keyn
+<lb n="12"/>halb gewarnet werden, deshalb wir den biderwen ryntalern<note>biderwen = rechtschaffenen, tüchtigen vom <placeName ref="stadtasg-places-64">Rheintal</placeName>.</note>
+<lb n="13"/>für diß mal by huß zubelyben vergoenndt, ist unnser gar
+<lb n="14"/>fründtlich bitt an uch, ob ir ettlicher hagken empaeren moechten,
+<lb n="15"/>das ir inen die frundtlich fürsetzen wellen. Daran bewy
+<lb break="no" n="16"/>send ir unns sunders fryndtschafft. Wir wellent es ouch
+<lb n="17"/>allzyt fründtlich haben umb uch zuobeschulden. Unnd hand guott
+<lb n="18"/>sorg, sind wir inn hoffnung, all unnser unfaal sich bald zuo
+<lb n="19"/>fröud unnd glügk verwaenden werde. Ilends uß <origPlace ref="stadtasg-places-32">Zürich</origPlace>
+<lb n="20"/><origDate when="1531-10-14">sambßtags vor sanct Gallen tag anno etc. XVo. XXXIo</origDate>.
+<lb n="21"/><orgName ref="stadtasg-actors-503" role="issuer">Burgermeyster, raeth unnd
+<lb n="22"/>burger der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_567_1164.JPG" n="2"/>
+<lb n="23"/>Dem frommen fürsichtigenn wysenn <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="24"/>meyster unnd rath der statt sanct Gallenn</orgName>
+<lb n="25"/>unnsern innsunders guotten fründen getrüwen
+<lb n="26"/>lieben eydtgnossen und cristennlichen mitt
+<lb break="no" n="27"/>burgern.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00114">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -75,12 +74,9 @@
         <body>
             <pb facs="StadtASG_Missive_114_227.JPG" n="1"/>
             <p>
-                <lb n="1"/>Unser früntlich willig dienst zu vor ersammen wysen sonder lieben und <lb
-                    n="2"/>guoten fründe. Alz denn nun nechst üwer burger <persName ref="stadtasg-actors-245"
-                    >Wilhelm von Stainach</persName>
+                <lb n="1"/>Unser früntlich willig dienst zu vor ersammen wysen sonder lieben und <lb n="2"/>guoten fründe. Alz denn nun nechst üwer burger <persName ref="stadtasg-actors-245">Wilhelm von Stainach</persName>
                 <lb n="3"/>und unser burger <persName ref="stadtasg-actors-246">Hanns Seckler</persName> ainen
-                guetlichen tag zu <placeName ref="stadtasg-places-88">Rinegg</placeName> mitenander <lb n="4"
-                />gelaist hant von der zuosprüch wegen, so denn der unser zu dem üwern <lb n="5"/>ze
+                guetlichen tag zu <placeName ref="stadtasg-places-88">Rinegg</placeName> mitenander <lb n="4"/>gelaist hant von der zuosprüch wegen, so denn der unser zu dem üwern <lb n="5"/>ze
                 sprechende hat, daselbz sy do mitenander nit ainig werden mochten, <lb n="6"/>alz ir
                 villicht dz von üwer rauts potschafft, so daby gewesen ist, wol <lb n="7"/>vernomen
                 mügen haben. Nun lofft uns der unser taeglichs nach und ruefft <lb n="8"/>uns an, dz
@@ -105,11 +101,9 @@
                 wir in der glich mindern und meren sachen, wa sich <lb n="26"/>dz gepüret, mit
                 gantzem willen umb üwer lieb ze beschulden und zu verdienen. <lb n="27"/>Und wir
                 begern hierumb üwer guetlich verschriben antwurt mit dem potten. <lb n="28"/>Datum
-                <origDate when="1438-11-21">sexta post Othmari anno domini etc. XXXVIIIto</origDate>. <lb n="29"
-                    /><orgName ref="stadtasg-actors-511" role="issuer">Burgermaister und <lb n="30"/>raute zu
+                <origDate when="1438-11-21">sexta post Othmari anno domini etc. XXXVIIIto</origDate>. <lb n="29"/><orgName ref="stadtasg-actors-511" role="issuer">Burgermaister und <lb n="30"/>raute zu
                     Lindow</orgName>. <pb facs="StadtASG_Missive_114_228.JPG" n="2"/>
-                <lb n="31"/>Den ersammen und wysen <orgName ref="stadtasg-actors-148" role="recipient"
-                    >burgermaister und raute zu <lb n="32"/>Santgallen</orgName> unsern sondern
+                <lb n="31"/>Den ersammen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raute zu <lb n="32"/>Santgallen</orgName> unsern sondern
                 lieben und guoten fründen. </p>
         </body>
     </text>

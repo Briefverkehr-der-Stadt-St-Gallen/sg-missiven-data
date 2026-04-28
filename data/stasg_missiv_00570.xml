@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00570">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 570</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnte Beilage ist nicht vorhanden.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_570_1173/1174</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Ulm bitten Bürgermeister und Rat zu St. Gallen, zur Bekämpfung des grossen Schadens aus der Vielfalt des Münzens und zur Förderung des Gemeinnutzens die beigelegte Münzordnung zu befolgen.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-376">Münzordnung</term>
+                    <term ref="stadtasg-keywords-36">Münze</term>
+                    <term ref="stadtasg-keywords-427">Gemeinnutzen</term>
+                    <term ref="stadtasg-keywords-183">König</term> 
+                    <term ref="stadtasg-keywords-347">Majestät</term>
+                    <term ref="stadtasg-keywords-604">Beilage</term>       
+                            <term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-275">Fürst</term>
+<term ref="stadtasg-keywords-188">Bischof</term>
+<term ref="stadtasg-keywords-464">Pfalzgraf</term>
+<term ref="stadtasg-keywords-277">Herzog</term>
+<term ref="stadtasg-keywords-168">Abschrift</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-510">Bürgermeister und Rat zu Ulm</orgName>                    <date>1534-02-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Noëmi Schöb</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Noëmi Schöb</persName>
+                <date>2026-03-30</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_570_1173.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser freuntlich willig diennst zuvor ersamen und weisen lieben freund. Wir
+<lb n="2"/>geben euch freuntlicher mainung zuerkennen, das wir vor langst dess mercklichen
+<lb n="3"/>und verderplichen nachtails und schadens, so uss dem vilvaltigen münzen uns und allen
+<lb n="4"/>andern teutschen fürsten stennden und stätten erwachsen ist, gleichwol erinnert worden,
+<lb n="5"/>aber dieweil wir neben dem inn hoffnung gestannden sind, die sach soll sich
+<lb n="6"/>sonnderlich inn betrachtung der <persName ref="stadtasg-actors-1229">römisch kayserlichen maiestät</persName> etc. und dess <placeName ref="stadtasg-places-559">Reichs</placeName> vleissigen
+<lb n="7"/>handlungen und ordnungen nach zu bösserung geschickt, haben wir unsern unnd
+<lb n="8"/>unsers samnus, dieweil wir nit allain kain bösserung, sonder das widerspil
+<lb n="9"/>befunden, nach grössern schaden zu fürkomen, uns neben den hochwierdigen hoch
+<lb break="no" n="10"/>gebornen fürsten und herrn herrn <persName ref="stadtasg-actors-1319">Gabrieln</persName> zu <placeName ref="stadtasg-places-466">Aystät</placeName> und herrn <persName ref="stadtasg-actors-1320">Christoffen</persName>
+<lb n="11"/>zu <placeName ref="stadtasg-places-135">Augspurg</placeName>, bischoven, herrn <persName ref="stadtasg-actors-1321">Fridrichen</persName>, <persName ref="stadtasg-actors-1324">Willhelmen</persName> und <persName ref="stadtasg-actors-1325">Ludwigen</persName>, <persName ref="stadtasg-actors-1322">Ottheinrichen</persName> und <persName ref="stadtasg-actors-1323">Philippsen</persName>, vättern
+<lb n="12"/>und gepruedern, pfalzgraven bei <placeName ref="stadtasg-places-143">Rein</placeName>, herzogen inn <placeName ref="stadtasg-places-132">Bairn</placeName> etc., unnsern
+<lb n="13"/>gnedigen herrn und unsern besondern lieben und guten freunden <orgName ref="stadtasg-actors-1187">burger
+<lb break="no" n="14"/>maistern und rathgeben etc. statt Augspurg</orgName> ainer ordnung, wie es füro
+<lb break="no" n="15"/>hin der münz halben inn unser statt und herrschafften gehallten und welcher
+<lb n="16"/>gestallt ain iede münz genomen werden söll, verglichen. Wie euer weisheit ab in
+<lb break="no" n="17"/>ligender abschrifft vernemen werden, freuntlichs vleiss pittend, ir wöllent
+<lb n="18"/>mit euer bissher geschlagnen münz inn bedacht gemains nutzen zu münzen
+<lb n="19"/>gutwilligclich beruwen, oder wo euer weisheit iezu münzen vorhabens sein
+<lb n="20"/>werden, uff den schrat und gehallt in gemelter ordnung begriffen und
+<lb n="21"/>anderst nit münzen das gold und münz prechen verpietten, und was solche
+<lb n="22"/>ordnung mit pringt, fürnemen lassen und hier innen den gemainen
+<lb n="23"/>nuzen, so euer weisheit vor gott one das zu fürdern, wie wir nit zwiffeln,
+<lb n="24"/>genaigt sei bedenncken. Das wöllen wir umb dieselb unnser besonder gut
+<lb n="25"/>freund alzeit freuntlich und mit willen. Datum <origDate when="1534-02-04">mittwochs nach purificationis
+<lb n="26"/>marie anno etc. 34</origDate>.
+<lb n="27"/><orgName ref="stadtasg-actors-510" role="issuer">Burgermaister und rathe
+<lb n="28"/>zu Ulm</orgName>.
+<pb facs="StadtASG_Missive_570_1174.JPG" n="2"/>
+<lb n="29"/>Den ersamen unnd weysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und
+<lb n="30"/>rath der statt sannt Gallen</orgName> unnsern besondern
+<lb n="31"/>guten freunden.
+</p>
+        </body>
+    </text>
+</TEI>

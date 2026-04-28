@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00116">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -73,9 +72,7 @@
                 wol erhelen kan. Do tuentt <lb n="4"/>als wol und rottent und helffent, daz wir
                 semlichs entladen werden, und <lb n="5"/>mich doch duenckt, man zu uns daz zu daz
                 unbillich sy. Kan ich daz umb <lb n="6"/>uch gedinen, daz wil ich willig sin. Geben
-                ze <origPlace ref="stadtasg-places-11">Altstetten</origPlace> in dem <origDate when="1438">XXXVIII iar</origDate>. <lb
-                    n="7"/><persName ref="stadtasg-actors-44" role="issuer">Dorothe von Altstetten</persName>. <pb
-                    facs="StadtASG_Missive_116_232.JPG" n="2"/>
+                ze <origPlace ref="stadtasg-places-11">Altstetten</origPlace> in dem <origDate when="1438">XXXVIII iar</origDate>. <lb n="7"/><persName ref="stadtasg-actors-44" role="issuer">Dorothe von Altstetten</persName>. <pb facs="StadtASG_Missive_116_232.JPG" n="2"/>
                 <lb n="8"/>Den ersammen und wisen dem <lb n="9"/><orgName ref="stadtasg-actors-148" role="recipient">buergermaister und dem rad
                         <lb n="10"/>ze sant Gallen</orgName> mynen guetten <lb n="11"/>fruenden.
             </p>

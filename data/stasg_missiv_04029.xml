@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_04029">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Bürgermeister und Rat zu St. Gallen gewähren Graf Hugo von Königsegg und Rothenfels, Herr zu Aulendorf und Staufen, Rat der römisch kaiserlichen Majestät, auf dessen Bitte einen Aufschub zur Rückzahlung des Darlehens und seiner ausstehenden Zinsen beim Spital, obwohl das Spital selbst aufgrund allgemeinen Geldmangels und eines Güterkaufs im Rheintal auf das Geld angewiesen wäre.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
 <term ref="stadtasg-keywords-281">Entwurf</term>
@@ -63,9 +62,9 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_4029_16267.jpg" n="1" />
+            <pb facs="StadtASG_Missive_4029_16267.jpg" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_4029_16268.jpg" n="2" />
+<pb facs="StadtASG_Missive_4029_16268.jpg" n="2"/>
 </p>
         </body>
     </text>

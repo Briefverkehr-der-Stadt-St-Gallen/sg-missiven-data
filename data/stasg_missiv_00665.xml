@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00665">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 665</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Kontext: Dabei handelte es sich wohl um die Intrigen der Brüder Benedetto und Pietro Martire Ghiringhelli, Kaufleute und Zollpächter in Bellinzona. Sie wurden verdächtigt, im Dienste des Vizegouverneurs von Mailand, des Grafen Fernando Gonzaga, zu stehen und diesem das Kastell von Bellinzona übergeben zu wollen. Deshalb beschäftigte sich die Tagsatzung in den Jahren 1547-1550 mehrmals mit den Ereignissen in Bellinzona. Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00666.xml">666</ref>.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_665_1565/1568</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich bitten Bürgermeister und Rat zu St. Gallen, auf den 20. November am Abend in Baden in der Herberge zu erscheinen. In einer eidgenössischen Tagsatzung am nächsten Tag, Montag 21. November, sollen die Vorfälle in Bellinzona und anderen Gemeinen Herrschaften sowie die damit verbundenen Gefahren verhandelt werden.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-300">Schaden</term>
+<term ref="stadtasg-keywords-487">Bericht</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-225">Kriegsgefahr</term>
+<term ref="stadtasg-keywords-620">Herberge</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1547-11-02</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Arman Weidenmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-04-14</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_665_1565.JPG" n="1"/>
+<p>
+<lb n="1"/>Unser früntlich willig dientst sambt was wir eeren liebs
+<lb n="2"/>unnd guots vermögent zuovor fromm fürsichtig und wyß in
+<lb break="no" n="3"/>sonders guot fründt und getrüw lieb eydtgnossen. Wir
+<lb n="4"/>haben iez uff unserer lieben eydtgnossen von den fünff orten<note>Gemeint sind wohl die fünf <orgName ref="stadtasg-actors-777">Katholischen Orte der Eidgenossenschaft (UR, SZ, UW, LU, ZG)</orgName>.</note>
+<lb n="5"/>schryben und berichten, was geschwinder practicen und anschlegen
+<lb n="6"/><placeName ref="stadtasg-places-462">Belletz</placeName> und anderer gmeyner herrschafften halb eneth dem
+<lb n="7"/>gebirg, wie die veruntrüwet und in anderheand komen möchten,
+<lb n="8"/>vorhanden sygen, unnd das man sich anderer gefaren und
+<lb n="9"/>schaden verhuoten möchte, einen gmeynen eidtgnosischen tag
+<lb n="10"/>angesezt, namlich uff <date when="1547-11-21">montag nach Othmari nechst künfftig</date>,
+<lb n="11"/>wirt der <date when="1547-11-20">zwentzigist tag diß manots novembris</date> zuo
+<lb n="12"/><placeName ref="stadtasg-places-53">Baden</placeName> inn <placeName ref="stadtasg-places-266">Ergow</placeName> abends in der herberg zuo erschinenn,
+<lb n="13"/>wellichen tag wir allen orten unserer <orgName ref="stadtasg-actors-750">Eydtgnoschafft</orgName> zuo
+<lb n="14"/>geschryben. Der achten sy werdint den gewüßlich besuochen,
+<lb n="15"/>wolten wir uch unangezeigt nit laßen, damit ob ir uff
+<lb n="16"/>sollichen tag uwerer sachen und geschefften halb etwas an
+<lb break="no" n="17"/>zuobringen ald handlen hetten, ir dasselb volstreken unnd
+<lb n="18"/>ußrichten mochtind. Datum etc. <origDate when="1547-11-02">mitwuchen den II tag
+<lb n="19"/>novembris anno etc. XLVII</origDate>.
+<lb n="20"/><orgName ref="stadtasg-actors-503" role="issuer">Burgermeister unnd rath
+<lb n="21"/>der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_665_1566.JPG" n="2"/>
+<pb facs="StadtASG_Missive_665_1567.JPG" n="3"/>
+<pb facs="StadtASG_Missive_665_1568.JPG" n="4"/>
+<lb n="22"/>Den frommen fürsichtigen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="23"/>meister unnd rath der statt sant Gallen</orgName>
+<lb n="24"/>unnsern insonnders guoten fründen und getrü
+<lb break="no" n="25"/>wen lieben eydtgnossenn.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00226">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -74,8 +73,7 @@
                 benuegen gehept hand. Darumb biten wir euch fruent <lb break="no" n="5"/>lich, ir
                 wellen in euch nun unsern willen bevolhen lassen sin, auch gunst <lb n="6"/>und
                 fruntschafft beweisen. Daz wellen wir mit willen umb uwer ersami <lb n="7"/>lieb
-                gedienen. Geben <origDate when="1450-07-13">Margarethe anno Lmo</origDate>. <lb n="8"
-                /><orgName ref="stadtasg-actors-529" role="issuer">Burgermaister und rat <lb n="9"/>der stat zue Boppfingen</orgName>.
+                gedienen. Geben <origDate when="1450-07-13">Margarethe anno Lmo</origDate>. <lb n="8"/><orgName ref="stadtasg-actors-529" role="issuer">Burgermaister und rat <lb n="9"/>der stat zue Boppfingen</orgName>.
                     <pb facs="StadtASG_Missive_226_454.JPG" n="2"/>
                 <lb n="10"/>Den erbern und weisen <orgName ref="stadtasg-actors-148" role="recipient">buergermaister und <lb n="11"/>rate zue
                     sant Gallen</orgName> unsern lieben und guoten <lb n="12"/>fruenden. </p>

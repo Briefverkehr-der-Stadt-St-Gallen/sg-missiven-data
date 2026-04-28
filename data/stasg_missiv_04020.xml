@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_04020">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Bürgermeister und Rat zu St. Gallen bestätigen Johann Wilhelm, Graf zu Königsegg und Rothenfels, den Erhalt seines Schreibens sowie das Vernehmen weiterer mündlicher Informationen durch den Gesandten des Grafen betreffend das Gesuch um einen Kredit zur Bezahlung der schwedischen Satisfaktionsgelder. Das Gesuch wird von den St. Gallern mit dem Hinweis auf die eigene prekäre finanzielle Situation abgewiesen. Die schwierige Situation St. Gallens habe mit Konkursen, dem Niedergang des Handels, vielen ausserordentlichen Ausgaben des städtischen Haushalts sowie einem kürzlichen Brand in der Vorstadt zu tun. Zudem seien bereits viele weitere gleichlautende und ebenfalls abgewiesene Darlehensgesuche von befreundeten Städten und Ständen eingegangen, welche St. Gallen ebenfalls ablehnen musste.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
     <term ref="stadtasg-keywords-281">Entwurf</term>
@@ -62,9 +61,9 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_4020_16235.jpg" n="1" />
+            <pb facs="StadtASG_Missive_4020_16235.jpg" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_4020_16236.jpg" n="2" />
+<pb facs="StadtASG_Missive_4020_16236.jpg" n="2"/>
 </p>
         </body>
     </text>

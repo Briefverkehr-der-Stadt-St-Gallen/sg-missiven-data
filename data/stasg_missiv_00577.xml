@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00577">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 577</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnte <ref target="stasg_missiv_00577-suppl-01.xml">Beilage</ref> ist vorhanden.</p></note></notesStmt>   
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_577_1193/1196</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                 <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_577_1193/1196</idno><altIdentifier type="filename"><idno>stasg_missiv_00577-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>König Ferdinand I. sendet an Bürgermeister und Rat zu St. Gallen eine Abschrift eines ihm von Friedrich Pfalzgraf bei Rhein, dem Bamberger Bischof Weigand von Redwitz, dem Markgraf Georg dem Frommen von Brandenburg-Ansbach, dem Landgrafen Georg von Leuchtenberg und von Bürgermeister und Rat zu Nürnberg zugestellten Schreibens, in welchem sie dem König ihre Meinung zur neuen, in Ingolstadt vereinbarten Münzordnung mitteilen. Der König bietet auf den 26. März zu einer Beratschlagung in Augsburg auf und fordert die St. Galler dazu auf, eine Gesandtschaft zu entsenden.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-36">Münze</term>
+<term ref="stadtasg-keywords-376">Münzordnung</term>
+<term ref="stadtasg-keywords-70">Termin</term>
+<term ref="stadtasg-keywords-12">Gesandter</term>
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-419">Landgraf</term>
+<term ref="stadtasg-keywords-168">Abschrift</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>   
+<term ref="stadtasg-keywords-275">Fürst</term>
+<term ref="stadtasg-keywords-464">Pfalzgraf</term>
+<term ref="stadtasg-keywords-277">Herzog</term>
+<term ref="stadtasg-keywords-188">Bischof</term>             </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1185">Ferdinand I. (HRR)</persName><placeName ref="stadtasg-places-14">Innsbruck</placeName>                    <date>1536-02-20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Noëmi Schöb</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Noëmi Schöb</persName>
+                <date>2026-04-20</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_577_1193.JPG" n="1"/>
+<p>
+<lb n="1"/><persName ref="stadtasg-actors-1185" role="issuer">Ferdinannd</persName> von gottes genaden romischer
+<lb n="2"/>kunig zu allen zeiten merer des reichs etc.
+<lb n="3"/>Lieben getrewen, wir ubersennden euch hierinn beslossen
+<lb n="4"/>abschrifft aines schreiben, so unns von den erwirdigen
+<lb n="5"/>hochgebornnen unsern lieben swager, ohaimen fürsten
+<lb n="6"/>und lieben getrewen <persName ref="stadtasg-actors-1321">Fridrichen</persName> phaltzgraven bey <placeName ref="stadtasg-places-143">Rein</placeName>
+<lb n="7"/>hertzogen in <placeName ref="stadtasg-places-132">Bairn</placeName>, <persName ref="stadtasg-actors-1338">Weyganndten</persName> bischoven zu <placeName ref="stadtasg-places-471">Bamberg</placeName>,
+<lb n="8"/><persName ref="stadtasg-actors-1339">Georgen</persName> marggraven zu <placeName ref="stadtasg-places-147">Brandenburg</placeName> etc., <persName ref="stadtasg-actors-1340">Georgen
+<lb n="9"/>lanndtgrafen zu Leuchtenburg</persName> und <orgName ref="stadtasg-actors-571">burgermaister und
+<lb n="10"/>rate unnserer und des hailigen reichs stat Nüremberg</orgName>
+<lb n="11"/>zuekomen unnd überanntwort worden. Darinnen ir
+<lb n="12"/>liebden und sy nach lannger entschuldigung, aus was
+<lb n="13"/>ursachen ir liebden unnd sy auf das beschehen ansuechen
+<lb n="14"/>in unnser und der anndern fürsten, graven und stet
+<lb n="15"/>zu <placeName ref="stadtasg-places-472">Ingoldstat</placeName> new auffgerichten müntz ordnung mit
+<lb n="16"/>iren müntzen sich nit einlassen mügen, unnd darauf
+<lb n="17"/>erbieten, mit iren müntzen still zusteen biss auf ain
+<lb n="18"/>gemaine vergleichnus im <orgName ref="stadtasg-actors-559">Heiligen Reich</orgName>, oder aber wo
+<lb n="19"/>dasselb wie bisheer vertzogen, alsdann mit solchen
+<lb n="20"/>iren müntzen berürter unserer und anderer mitver
+<lb break="no" n="21"/>verwanten aufgerichten müntzordnung gemess zu
+<lb break="no" n="22"/>halten und also an unns gesynnen, die müntz, wie die
+<lb break="no" n="23"/>selb bisheer durch sy geslagen, in irem ganng on absatz
+<lb n="24"/>beleiben zulassen etc., alsdann ir solcher irer entschuldigung
+<lb n="25"/>erbieten unnd begern aus berürter inligennder abschrifft
+<lb n="26"/>ires schreibens aigentlicher verstenndigt werden
+<lb n="27"/>mügen. Dieweil nun die sach und hand
+<lb break="no" n="28"/>lung die ausrichtung der newen müntzordnung
+<lb n="29"/>belangend nit allain durch unns, sonnder auch durch
+<pb facs="StadtASG_Missive_577_1194.JPG" n="2"/>
+<lb n="30"/>euch unnd annder diser müntz verwont also gehandlt
+<lb n="31"/>und beschlossen, haben wir unns auf gemelter fürsten
+<lb n="32"/>unnd stat ansuechen für unns selbs kaines andern
+<lb n="33"/>beschaids auf das mal enntschliessen, sonnder ober
+<lb break="no" n="34"/>nenten fürsten unnd der stat <placeName ref="stadtasg-places-21">Nürenberg</placeName> dise schrifft
+<lb break="no" n="35"/>liche antwurt gegeben, das wir auf solch ir begern
+<lb n="36"/>unnd erbieten unnsere mitverwonten in der newen
+<lb n="37"/>müntzordnung begriffen auf ainen tag als nemblich
+<lb n="38"/>den <date when="1536-03-26">sontag letare</date> schierist durch ire bevelch haber zu
+<lb n="39"/><placeName ref="stadtasg-places-135">Augspurg</placeName> zuerscheinen beschreiben, alda wir auch un
+<lb break="no" n="40"/>sere gesanndten haben werden, auf welhen tag sy durch
+<lb n="41"/>ire gesanndten erscheinen und vor angezaigt ir erbieten
+<lb n="42"/>unnd begern denselben potschafften oder gesanndten für
+<lb break="no" n="43"/>bringen lassen und ferers beschaids nach entsluss der
+<lb n="44"/>sachen gewarten sollen unnd mügen. Demnach
+<lb n="45"/>wöllen wir euch solhen tag hiemit auch verkonndt haben,
+<lb n="46"/>genedigclich begerend, ir wöllen zu obangetzaigtem tag
+<lb n="47"/>eure gesanndten auch also mit bevelch abfertigen, vor
+<lb break="no" n="48"/>gemelter fürsten unnd stat erbieten unnd begern
+<lb n="49"/>nachmals zuhörn und vernemen, darauf neben und
+<lb n="50"/>sambt den anndern in diser müntzordnung ver
+<lb break="no" n="51"/>wanndten fürsten, graven unnd stetten gesandten,
+<lb n="52"/>die wir gleichermassen beschriben, sich enntschliessen
+<lb n="53"/>unnd nach gelegenhait darüber beschaid unnd annt
+<lb break="no" n="54"/>wurt geben, als ir solhe abferttigung zuthun werden
+<lb n="55"/>wissen. Das wolten wir euch genediger mayn
+<lb break="no" n="56"/>unng nit verhalten. Geben in unnser stat
+<pb facs="StadtASG_Missive_577_1195.JPG" n="3"/>
+<lb n="57"/><origPlace ref="stadtasg-places-14">Innsprugg</origPlace> am <origDate when="1536-02-20">zwaintzigisten tag february anno etc.
+<lb n="58"/>im sechsunddreissigisten, unnserer reiche des
+<lb n="59"/>römischen im sechsten unnd der anndern im zehendten</origDate>.
+<lb n="60"/><persName ref="stadtasg-actors-1185" role="issuer">Ferdinand</persName>.
+<lb n="61"/>Ad mandatum domini
+<lb n="62"/>regis proprium.
+<pb facs="StadtASG_Missive_577_1196.JPG" n="4"/>
+<lb n="63"/>Unnseren und des reichs lieben getrewen etc.
+<lb n="64"/><orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat der stat sand Gallen</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

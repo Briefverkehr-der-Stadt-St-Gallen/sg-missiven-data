@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00131">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -74,9 +73,7 @@
             <p>
                 <lb n="1"/>Wisen lieben und guetten fründ unser gar früntlich willig dienst zuo vor.
                 Und tuegen üwer wisshait ze wissen, das
-                <lb n="2"/>wir mit den wolgeboren unsern gnedigen lieben herren grave <persName
-                    ref="stadtasg-actors-265">Hainrichen</persName> und grave <persName ref="stadtasg-actors-266"
-                    >Uelrichen</persName>, gebruedern,
+                <lb n="2"/>wir mit den wolgeboren unsern gnedigen lieben herren grave <persName ref="stadtasg-actors-265">Hainrichen</persName> und grave <persName ref="stadtasg-actors-266">Uelrichen</persName>, gebruedern,
                 <lb n="3"/>graven von <placeName ref="stadtasg-places-100">Montfort</placeName>, herren zue
                     <placeName ref="stadtasg-places-93">Tettnang</placeName>, umb soellich spenn und irrung,
                 so dann bisher zwüschen iren gnaden
@@ -92,8 +89,7 @@
                 beschulden und erwidern, wellen
                 <lb n="9"/>wir sunder zwyfel mit guettem willen gern thuen. Und tuend darinne, als
                 wir üch getrüwen, damit wir
-                <lb n="10"/>armen lüt ze ruew und gemach komind. Geben an <origDate
-                    when="1440-10-31">aller hailigen aubent anno domini etc. XLmo</origDate>.
+                <lb n="10"/>armen lüt ze ruew und gemach komind. Geben an <origDate when="1440-10-31">aller hailigen aubent anno domini etc. XLmo</origDate>.
                 <lb n="11"/><orgName ref="stadtasg-actors-515" role="issuer">Amman geswuorn und gemain landlüt der beyder
                         <lb n="12"/>gericht in Brettengoeuw
                     ze Sewys</orgName> und <orgName ref="stadtasg-actors-516" role="issuer">zem

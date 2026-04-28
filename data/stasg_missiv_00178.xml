@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00178">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -73,9 +72,7 @@
             <p>
                 <lb n="1"/>Edler gnaediger herre, unser willig dienste syen üwern gnaden zuovoran
                     <lb n="2"/>mit unverdroßem vlyß von uns beraittet. Gnaediger herre, als ir uns
-                von anbringens <lb n="3"/>und bette wegen unser guoten fründe von <placeName
-                    ref="stadtasg-places-38">Sanntgallen</placeName> iren burger <persName ref="stadtasg-actors-316"
-                    >Hannsen <lb n="4"/>Gerster</persName>, so wir in vangknus, under annderm
+                von anbringens <lb n="3"/>und bette wegen unser guoten fründe von <placeName ref="stadtasg-places-38">Sanntgallen</placeName> iren burger <persName ref="stadtasg-actors-316">Hannsen <lb n="4"/>Gerster</persName>, so wir in vangknus, under annderm
                 geschriben, dhaine gaehy mit im <lb n="5"/>zuo pflegen, sonder die sach anston zuo
                 lausen, untz ir mit uns davon reden lausen <lb n="6"/>mügen, gebetten hand etc.,
                 haben wir vernomen. Und wie woll wir im vormalz <lb n="7"/>wider gerechtikait von
@@ -83,16 +80,12 @@
                 haben und wening verfangen haut, ye doch üwern <lb n="9"/>gnaden zuo lieb, der wir
                 in allen sachen zuogevallen werden, genaigt syen, <lb n="10"/>woellen wir die ding
                 sinthalb untz uff <date when="1444-09-29">sannt Michels tag naechst künftig</date>
-                <lb n="11"/>ungevarlich guetlichen anston lausen. Denn wamit wir üwern gnaden <lb
-                    n="12"/>dienstlichait zuo bewysen wystind, waeren wir willig. Geben uff
+                <lb n="11"/>ungevarlich guetlichen anston lausen. Denn wamit wir üwern gnaden <lb n="12"/>dienstlichait zuo bewysen wystind, waeren wir willig. Geben uff
                     <origDate when="1444-09-15">zinstag <lb n="13"/>nach des hailgen crütztag
-                    exaltationis anno domini etc. XLquarto</origDate>. <lb n="14"/><orgName
-                    ref="stadtasg-actors-68" role="issuer">Burgermaister und <lb n="15"/>raute zuo
+                    exaltationis anno domini etc. XLquarto</origDate>. <lb n="14"/><orgName ref="stadtasg-actors-68" role="issuer">Burgermaister und <lb n="15"/>raute zuo
                     Überlingen</orgName>. <pb facs="StadtASG_Missive_178_358.JPG" n="2"/>
-                <lb n="16"/>Dem edlen herrn <persName ref="stadtasg-actors-61" role="recipient"
-                    >Jacoben</persName> truochsaeßen, rittere, des <lb n="17"/><orgName ref="stadtasg-actors-559">Hailgen Richs</orgName>
-                lantvogt in <placeName ref="stadtasg-places-108">Swaben</placeName> etc. unserm <lb n="18"
-                />gnaedigen herren. </p>
+                <lb n="16"/>Dem edlen herrn <persName ref="stadtasg-actors-61" role="recipient">Jacoben</persName> truochsaeßen, rittere, des <lb n="17"/><orgName ref="stadtasg-actors-559">Hailgen Richs</orgName>
+                lantvogt in <placeName ref="stadtasg-places-108">Swaben</placeName> etc. unserm <lb n="18"/>gnaedigen herren. </p>
         </body>
     </text>
 </TEI>

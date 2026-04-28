@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00027">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -82,24 +81,19 @@
                 gelediget und erloest haben nach innhalt des widerbriefs, so wir von im versigelt
                 innehaben, <lb n="5"/>und wir denselben zehenden <persName ref="stadtasg-actors-17">Wernher
                     Ehinger</persName> von <placeName ref="stadtasg-places-7">Costentz</placeName> verpfendt
-                und zuo handen braht haben, do hat uns derselb <lb n="6"/><persName ref="stadtasg-actors-17"
-                    >Ehinger</persName> fürbraht, wie daz im der <persName ref="stadtasg-actors-147"
-                    >Estrich</persName> intrag tuegi und in daran sume, daz uns unbillichen dunkt,
+                und zuo handen braht haben, do hat uns derselb <lb n="6"/><persName ref="stadtasg-actors-17">Ehinger</persName> fürbraht, wie daz im der <persName ref="stadtasg-actors-147">Estrich</persName> intrag tuegi und in daran sume, daz uns unbillichen dunkt,
                 won wir <lb n="7"/>truwen, daz wir mit unsern pfendern tuon und schaffen mugent, waz
                 darinne unsers gotzhus nutz ist, und weder <lb n="8"/>disem noch enem gebunden sint,
                 die ze lassend unser vorfarn, oder wir hettint uns denn ains soelichen verschriben.
                     <lb n="9"/>Hierummb so schiken wir uch ain abgeschrift des reverß, so wir von
-                dem <persName ref="stadtasg-actors-147">Estrich</persName> haben, und bittent üch, daz in <lb
-                    n="10"/>uwirm rate zuo verhoeren, und daz ir daruff den <persName
-                    ref="stadtasg-actors-147">Estrich</persName> beschiken und in wisen wellent, daz er den
+                dem <persName ref="stadtasg-actors-147">Estrich</persName> haben, und bittent üch, daz in <lb n="10"/>uwirm rate zuo verhoeren, und daz ir daruff den <persName ref="stadtasg-actors-147">Estrich</persName> beschiken und in wisen wellent, daz er den
                 obgenanten <lb n="11"/><persName ref="stadtasg-actors-17">Ehinger</persName> an dem
                 vorgenanten pfande ungesumt und ungeirret lasse und uns und unserm gotzhus kainen
                 kumber <lb n="12"/>nach irrsal daran tuegi, won er kain reht darzuo hat. Won waer,
                 daz der <persName ref="stadtasg-actors-147">Estrich</persName> darvon niht lassen woelti, so
                     <lb n="13"/>moehten wir niht gelassen, wir muesten in darummb bekümbren und
                 ufftriben mit dem rechten, daz wir doch <lb n="14"/>ungerne wider uch taetint,
-                darummb so tuont hierinne uwir bestez und wisent in früntlichen darvon, daz wir <lb
-                    n="15"/>ain soelichs niht suochen muessint. Wo wir das ummb uch bischulden
+                darummb so tuont hierinne uwir bestez und wisent in früntlichen darvon, daz wir <lb n="15"/>ain soelichs niht suochen muessint. Wo wir das ummb uch bischulden
                 kunnent, do soellent ir uns willig vinden. <lb n="16"/>Uwer verschriben antwurt lant
                 uns wissen bi disem botten. Geben an <origDate when="1426-07-03">sant Uolrichs abend
                     anno etc. XXVIo</origDate>. <pb facs="StadtASG_Missive_27_54.JPG" n="2"/>

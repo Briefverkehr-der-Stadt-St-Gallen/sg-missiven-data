@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00176">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -80,10 +79,7 @@
                 bringen <lb n="6"/>und gevertigen mog, als uwer fürsichtigkeit das wol und
                 mergklicher kund und uns ouch <lb n="7"/>zu disem mal notdürfftig ist und als wir
                 uns des zuo uwer liebe mit allem wolgetrüwen <lb n="8"/>versehen ouch umb uch mit
-                aller früntlicher willikeit ze verdienen haben. Datum <origDate when="1444-09-02">crastina <lb n="9"
-                    />Verene virginis anno domini Mo CCCCo XLIIIIto</origDate>. <lb n="10"
-                    /><orgName ref="stadtasg-actors-522" role="issuer">Lanndtamman und <lb n="11"/>der rate zu Swytz</orgName>. <pb
-                    facs="StadtASG_Missive_176_352.JPG" n="2"/>
+                aller früntlicher willikeit ze verdienen haben. Datum <origDate when="1444-09-02">crastina <lb n="9"/>Verene virginis anno domini Mo CCCCo XLIIIIto</origDate>. <lb n="10"/><orgName ref="stadtasg-actors-522" role="issuer">Lanndtamman und <lb n="11"/>der rate zu Swytz</orgName>. <pb facs="StadtASG_Missive_176_352.JPG" n="2"/>
                 <lb n="12"/>Den gar fürnaemen und wysen unsern sundern <lb n="13"/>lieben guotten
                 und getrüwen fründen <orgName ref="stadtasg-actors-148" role="recipient">burgermeyster <lb n="14"/>und dem rate ze sandt
                     Gallen</orgName>. </p>

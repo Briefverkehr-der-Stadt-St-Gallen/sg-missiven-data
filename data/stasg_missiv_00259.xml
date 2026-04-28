@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00259">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -95,26 +94,19 @@
                 <persName ref="stadtasg-actors-232">Hanns Moetteli</persName> weder von uns <lb n="11"/>noch nieman brieff
                 noch sigel hab, die da luten, das er mit uns oder sust <lb n="12"/>ieman anderm
                 soelich groß übel und mißtat fürnemen oder pflegen soelle. Und als <lb n="13"/>ir
-                furer in dem selben üwerm schriben beruert hand, dz er nit anders beger, denn <lb
-                    n="14"/>mit uns an gliche billiche end zuo recht zuo komen, recht umb recht
+                furer in dem selben üwerm schriben beruert hand, dz er nit anders beger, denn <lb n="14"/>mit uns an gliche billiche end zuo recht zuo komen, recht umb recht
                 zuonemen <lb n="15"/>und zuo geben, doch das wir deß glichen ouch tuegen, und uns
                 daruff gebetten, <lb n="16"/>uns ains soelichen von im benuegen zuo lassen und in
                 wyter nit zuo betedingen, <lb n="17"/>wie dann soelichs der selb üwer brieff, uns
                 von üch gesandt, mit mer worten <lb n="18"/>bewist, soelich fürgeben, so üch dann
                 <persName ref="stadtasg-actors-232">Moeteli</persName> in vorgemelter wiß getan hat, <lb n="19"/>uns zuo
-                mal frömd und unbillich nimpt. Denn hett uns der selb <persName ref="stadtasg-actors-232">Hanns <lb n="20"
-                    />Motteli</persName> rechtenclich ie ervordert, als noch biß har nit beschechen
+                mal frömd und unbillich nimpt. Denn hett uns der selb <persName ref="stadtasg-actors-232">Hanns <lb n="20"/>Motteli</persName> rechtenclich ie ervordert, als noch biß har nit beschechen
                 ist, so woelten <lb n="21"/>wir im soelichermaß dartzuo geantwurt haben, das wir
                 gehofft hetten gegen <lb n="22"/>menglichem, für wen es komen were, glimpff und er
                 zuo haben. Sidenmal und <lb n="23"/>es aber sinhalb nit beschechen ist, und er sich
                 darüber mit sin selbs gewalt <lb n="24"/>unbesorgt und unbewert siner eren, ouch
                 über das, das er unser gesworner <lb n="25"/>man ist, understanden hat, unser
-                <placeName ref="stadtasg-places-30">schloß Arben</placeName> by nacht und by nebel in zuo <lb n="26"
-                />nemen, so gepürt und getzimpt uns unser heren und fründ raut zuo haben, <lb n="27"
-                />was uns hierinn zuo tuon sige. Darumb so begeren wir aber als ouch vor <lb n="28"
-                />von üch zuo wissen, ob wir ettwas gegen dem selben üwerm burger fürnemen <lb
-                    n="29"/>wurden, wes wir uns dann zuo üch versehen soelten. Üwern verschriben <lb
-                    n="30"/>antwurt by disem botten oder in den neachsten achttagen har in unser
+                <placeName ref="stadtasg-places-30">schloß Arben</placeName> by nacht und by nebel in zuo <lb n="26"/>nemen, so gepürt und getzimpt uns unser heren und fründ raut zuo haben, <lb n="27"/>was uns hierinn zuo tuon sige. Darumb so begeren wir aber als ouch vor <lb n="28"/>von üch zuo wissen, ob wir ettwas gegen dem selben üwerm burger fürnemen <lb n="29"/>wurden, wes wir uns dann zuo üch versehen soelten. Üwern verschriben <lb n="30"/>antwurt by disem botten oder in den neachsten achttagen har in unser
                 pfallentz. <lb n="31"/>Geben zuo <origPlace ref="stadtasg-places-7">Costentz</origPlace> an
                     <origDate when="1452-05-10">mittwoch nach dem sonntag cantate anno domini etc. LIIdo</origDate>.
                     <pb facs="StadtASG_Missive_259_520.JPG" n="2"/>

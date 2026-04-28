@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00139">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -72,9 +71,7 @@
         <body>
             <pb facs="StadtASG_Missive_139_277.JPG" n="1"/>
             <p>
-                <lb n="1"/>Unser früntlich willig dienst all zitt voran ersammen wysen besunder <lb
-                    n="2"/>lieb und guoten fründ. Uns ist fürkomen von dem vesten <persName
-                    ref="stadtasg-actors-279">Eglin von <lb n="3"/>Roschach</persName> dem elltern, iwer
+                <lb n="1"/>Unser früntlich willig dienst all zitt voran ersammen wysen besunder <lb n="2"/>lieb und guoten fründ. Uns ist fürkomen von dem vesten <persName ref="stadtasg-actors-279">Eglin von <lb n="3"/>Roschach</persName> dem elltern, iwer
                 mitburger, wie er uns umb unwissend sachen <lb n="4"/>für nemen woelle, dar an uns
                 von im gar ungiettlich beschaeche, wan wir <lb n="5"/>mit im nit wissen denn guotz
                 ze schaffend haben. Hier umbe lieben und <lb n="6"/>guoten fründ bitten wir iwer
@@ -88,12 +85,9 @@
                 wyshait mit willen gern ver <lb break="no" n="14"/>dienen und beschulden woellen.
                 Iwer verschriben antwurt land uns <lb n="15"/>dar umb by dem botten wider wyssen.
                 Geben uf <origDate when="1441-12-08">concepcionis Marie <lb n="16"/>virginis anno domini etc.
-                    XLImo</origDate>. <lb n="17"/><orgName ref="stadtasg-actors-518" role="issuer">Werkmaister und rat <lb
-                        n="18"/>der statt ze Cur</orgName>. <pb facs="StadtASG_Missive_139_278.JPG"
-                    n="2"/>
+                    XLImo</origDate>. <lb n="17"/><orgName ref="stadtasg-actors-518" role="issuer">Werkmaister und rat <lb n="18"/>der statt ze Cur</orgName>. <pb facs="StadtASG_Missive_139_278.JPG" n="2"/>
                 <lb n="19"/>Den ersammen wysen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat
-                    der <lb n="20"/>statt zuo sant Gallenn</orgName> unsern besundern lieben und <lb
-                    n="21"/>guoten fruinden. </p>
+                    der <lb n="20"/>statt zuo sant Gallenn</orgName> unsern besundern lieben und <lb n="21"/>guoten fruinden. </p>
         </body>
     </text>
 </TEI>

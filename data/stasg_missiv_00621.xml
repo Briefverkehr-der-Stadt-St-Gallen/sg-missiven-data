@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00621">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Der Stockmeister Anton Zili quittiert den Erhalt von 120 Gulden durch Junker Jakob Kunz. Die 120 Gulden wurden von Elsbeth Bruder für die armen Leute des Stockamtes in St. Gallen gespendet.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
    <term ref="stadtasg-keywords-537">Stockmeister</term>
@@ -60,21 +59,21 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_621_1369.JPG" n="1" />
+            <pb facs="StadtASG_Missive_621_1369.JPG" n="1"/>
 <p>
-<lb n="1" />Ich <persName ref="stadtasg-actors-1238" role="recipient">Anthoni Zily</persName>, uf die zit stockmaister,
-<lb n="2" />bekenen mit diser miner aigen hand geschrift,
-<lb n="3" />dz ich von dem ersamen iuncker <persName ref="stadtasg-actors-1239">Jacob Cuontzen</persName>
-<lb n="4" />enpfangen und ingnomen hab 120 <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> in namen
-<lb n="5" />und von wegen der ersamen frowen <persName ref="stadtasg-actors-1237">Elsbet
-<lb n="6" />Bruoderin</persName>, welche 120 <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> sy die gedach <persName ref="stadtasg-actors-1237">Elsbeth
-<lb n="7" />Bruoderin</persName>, armen luiten umb gottes wilen
-<lb n="8" />in den stock veroredent und geben hat uf
-<lb n="9" />den <origDate when="1542-12-30">30 tag decembers im 1542 iar</origDate>.
-<pb facs="StadtASG_Missive_621_1370.JPG" n="2" />
-<lb n="10" />Von mir <persName ref="stadtasg-actors-1237" role="issuer">Elsbet
-<lb n="11" />Bruoderin</persName> din
-<lb n="12" />dienerin al zit.
+<lb n="1"/>Ich <persName ref="stadtasg-actors-1238" role="recipient">Anthoni Zily</persName>, uf die zit stockmaister,
+<lb n="2"/>bekenen mit diser miner aigen hand geschrift,
+<lb n="3"/>dz ich von dem ersamen iuncker <persName ref="stadtasg-actors-1239">Jacob Cuontzen</persName>
+<lb n="4"/>enpfangen und ingnomen hab 120 <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> in namen
+<lb n="5"/>und von wegen der ersamen frowen <persName ref="stadtasg-actors-1237">Elsbet
+<lb n="6"/>Bruoderin</persName>, welche 120 <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> sy die gedach <persName ref="stadtasg-actors-1237">Elsbeth
+<lb n="7"/>Bruoderin</persName>, armen luiten umb gottes wilen
+<lb n="8"/>in den stock veroredent und geben hat uf
+<lb n="9"/>den <origDate when="1542-12-30">30 tag decembers im 1542 iar</origDate>.
+<pb facs="StadtASG_Missive_621_1370.JPG" n="2"/>
+<lb n="10"/>Von mir <persName ref="stadtasg-actors-1237" role="issuer">Elsbet
+<lb n="11"/>Bruoderin</persName> din
+<lb n="12"/>dienerin al zit.
 </p>
         </body>
     </text>

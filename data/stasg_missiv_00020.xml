@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00020">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -76,10 +75,7 @@
             <p>
                 <lb n="1"/>Min undertenig willig dienst alle zit voran gnaedigen herren. Von miner
                 sach wegen, <lb n="2"/>so mir widerfaren ist gegen den lanttlüten zuo <placeName ref="stadtasg-places-8">Appentzelle</placeName>, als daz üwer wisshait <lb n="3"/>wol zuo
-                wissen ist, und besunder von des übels wegen, daz sy an mir begangen <lb n="4"
-                />hand, als sy mich über iren gelaitz brief gefangen hand und mich zwugent <lb n="5"
-                />wider got, er und reht ainen herten und ungerehten brief über mich ze geben, <lb
-                    n="6"/>als ob ich ain rehtloser, übeltaettiger man gewesen waer, und rehtes von
+                wissen ist, und besunder von des übels wegen, daz sy an mir begangen <lb n="4"/>hand, als sy mich über iren gelaitz brief gefangen hand und mich zwugent <lb n="5"/>wider got, er und reht ainen herten und ungerehten brief über mich ze geben, <lb n="6"/>als ob ich ain rehtloser, übeltaettiger man gewesen waer, und rehtes von
                 mir <lb n="7"/>nit nemen wolten vor üch noch nienen und ich in dem selben brief
                 schweren <lb n="8"/>muost zuo got und den hailgen, was sy wolten, oder ich waer
                 nahtes ertrenket <lb n="9"/>worden. Umb min leben ze fristen tett ich, wes sy an
@@ -100,14 +96,10 @@
                 inne hand, <lb n="22"/>wol wenne sy den her uss gaeben, so woelt ich nienen lieber
                 sin danne by <lb n="23"/>minem ehalten und minen kinden. Und lond mich dar umb üwer
                 gnaedig <lb n="24"/>verschriben anttwrt wissen, so ir erst mügen. Geben ze
-                    <origPlace ref="stadtasg-places-4">Überlingen</origPlace> an <origDate when="1423-01-25"
-                    >sant <lb n="25"/>Paulus tag der bekerde anno etc. CCCCmo XXIIIo</origDate>. <lb
-                    n="26"/>Von mir <persName ref="stadtasg-actors-19" role="issuer">Cuonrat
+                    <origPlace ref="stadtasg-places-4">Überlingen</origPlace> an <origDate when="1423-01-25">sant <lb n="25"/>Paulus tag der bekerde anno etc. CCCCmo XXIIIo</origDate>. <lb n="26"/>Von mir <persName ref="stadtasg-actors-19" role="issuer">Cuonrat
                     Uotzen</persName>
-                <lb n="27"/>von <placeName ref="stadtasg-places-38">sant Gallen</placeName>. <pb
-                    facs="StadtASG_Missive_20_40.JPG" n="2"/>
-                <lb n="28"/>Den ersamen fürsichtigen und wisen dem <lb n="29"/><orgName
-                    ref="stadtasg-actors-148" role="recipient">burgermaister und dem rat zuo sant
+                <lb n="27"/>von <placeName ref="stadtasg-places-38">sant Gallen</placeName>. <pb facs="StadtASG_Missive_20_40.JPG" n="2"/>
+                <lb n="28"/>Den ersamen fürsichtigen und wisen dem <lb n="29"/><orgName ref="stadtasg-actors-148" role="recipient">burgermaister und dem rat zuo sant
                     Gallen</orgName>
                 <lb n="30"/>minen gnaedigen herren. </p>
         </body>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_04064-suppl-01">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Es ist eine Notiz des St. Galler Kanzlisten, der auf die beiden Schreiben aus dem Jahr 1649 von Bartholomäus Anhorn, dem Pfarrer zu Mosbach verweist, die bereits in der Kanzlei archiviert sind.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
 <term ref="stadtasg-keywords-93">Mündlich</term>
@@ -64,17 +63,17 @@
     <text>
         <body>
         
-<pb facs="StadtASG_Missive_4064_16417.jpg" n="1" />
+<pb facs="StadtASG_Missive_4064_16417.jpg" n="1"/>
 <p>
-<lb n="1" />Zu wüßen, das von herren <persName ref="stadtasg-actors-834">Barthlome Anhornn</persName>
-<lb n="2" />noch zwey sandtschreiben an meine heren
-<lb n="3" />in der canzley ligen, sider er in der <placeName ref="stadtasg-places-143">Pfaltz</placeName>
-<lb n="4" />ist, vom <date when="1649">1649</date> jar, die sind zu finden under 
-<lb n="5" />den burgerlichen actis im kasten B truck
-<lb break="no" n="6" />hen no. 3 unnd pagget no. 3.
-<pb facs="StadtASG_Missive_4064_16418.jpg" n="2" />
-<pb facs="StadtASG_Missive_4064_16419.jpg" n="3" />
-<pb facs="StadtASG_Missive_4064_16420.jpg" n="4" />
+<lb n="1"/>Zu wüßen, das von herren <persName ref="stadtasg-actors-834">Barthlome Anhornn</persName>
+<lb n="2"/>noch zwey sandtschreiben an meine heren
+<lb n="3"/>in der canzley ligen, sider er in der <placeName ref="stadtasg-places-143">Pfaltz</placeName>
+<lb n="4"/>ist, vom <date when="1649">1649</date> jar, die sind zu finden under 
+<lb n="5"/>den burgerlichen actis im kasten B truck
+<lb break="no" n="6"/>hen no. 3 unnd pagget no. 3.
+<pb facs="StadtASG_Missive_4064_16418.jpg" n="2"/>
+<pb facs="StadtASG_Missive_4064_16419.jpg" n="3"/>
+<pb facs="StadtASG_Missive_4064_16420.jpg" n="4"/>
 </p>
         </body>
     </text>

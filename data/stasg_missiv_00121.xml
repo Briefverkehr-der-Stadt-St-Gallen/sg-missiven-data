@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00121">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -75,25 +74,16 @@
         <body>
             <pb facs="StadtASG_Missive_121_241.JPG" n="1"/>
             <p>
-                <lb n="1"/>Unser früntlich willig dienst zu vor ersammen wysen son<supplied>der</supplied> <gap /> <lb
-                    n="2"/>und guoten fründe. Alz wir üch denn nun nechst geschriben <gap /> <lb n="3"
-                />ain potschafft gen <placeName ref="stadtasg-places-78">Buochorn</placeName> in die statt
+                <lb n="1"/>Unser früntlich willig dienst zu vor ersammen wysen son<supplied>der</supplied> <gap/> <lb n="2"/>und guoten fründe. Alz wir üch denn nun nechst geschriben <gap/> <lb n="3"/>ain potschafft gen <placeName ref="stadtasg-places-78">Buochorn</placeName> in die statt
                 uff <date when="1439-04-27">mentag nach Jeory</date> ze <lb n="4"/>senden gebetten
                 haben, die ir aber verhalten und nit gesendt hant, denn <lb n="5"/>wir maynen, dz
                 uns die unser herre grauf <persName ref="stadtasg-actors-114">Wilhelm</persName> gewendt habe,
-                dz <lb n="6"/>uns etwz unbillich nimpt, nach soelichem und er uns den tag so <lb
-                    n="7"/>stuntz widerbotten het, dz wir üch noch den andern stetten das nit <lb
-                    n="8"/>wol widerbieten kunden. Wir mainten och nach dem und uns der <lb n="9"
-                />selb tag mit recht gesprochen und gesetzt worden wz, und dz ain <lb n="10"/>end
+                dz <lb n="6"/>uns etwz unbillich nimpt, nach soelichem und er uns den tag so <lb n="7"/>stuntz widerbotten het, dz wir üch noch den andern stetten das nit <lb n="8"/>wol widerbieten kunden. Wir mainten och nach dem und uns der <lb n="9"/>selb tag mit recht gesprochen und gesetzt worden wz, und dz ain <lb n="10"/>end
                 tag sin solt, dz denn er noch wir den selben tag nit gewalt <lb n="11"/>haben
-                soelten ze widerbieten. Und wan nun unser herr grauf <persName ref="stadtasg-actors-114"
-                    >Wilhelm</persName>
+                soelten ze widerbieten. Und wan nun unser herr grauf <persName ref="stadtasg-actors-114">Wilhelm</persName>
                 <lb n="12"/>den selben tag nit verstuond, sonder dem gmainen schraib und in batt, dz
                     <lb n="13"/>er ander tag uff dz kürtzost satzte, so woelt er sich darzuo fuegen
-                und <lb n="14"/>den sachen end und usstrag geben. Also lieben fründe hat uns der <lb
-                    n="15"/>gemain ainen andern tag aber gen <placeName ref="stadtasg-places-78"
-                    >Buochorn</placeName> in die statt uff die <date when="1439-05-06">nechsten <lb
-                        n="16"/>mittwochen nach dem maygtag</date>, ze frueger tag zit da ze sint,
+                und <lb n="14"/>den sachen end und usstrag geben. Also lieben fründe hat uns der <lb n="15"/>gemain ainen andern tag aber gen <placeName ref="stadtasg-places-78">Buochorn</placeName> in die statt uff die <date when="1439-05-06">nechsten <lb n="16"/>mittwochen nach dem maygtag</date>, ze frueger tag zit da ze sint,
                 gesetzt <lb n="17"/>und verkünt. Und wan uns nun die sachen schwar und hert
                 anliggende <lb n="18"/>sint und darinne wyßhait, hilff und raute und üwer rauts
                 pottschafft daby <lb n="19"/>erst notturfftig sigen und gern haben woelten, so
@@ -111,11 +101,8 @@
                 daruff verlassen. Dz begern wir in glichen und meren <lb n="30"/>sachen, wa sich dz
                 gepüret, mit gantzem willen umb üwer ersame ze beschulden <lb n="31"/>und zu
                 verdienen. Datum <origDate when="1439-04-29">quarta ante Philippi et Jacobi anno
-                    domini etc. XXXIXno</origDate>. <lb n="32"/><orgName ref="stadtasg-actors-511"
-                    role="issuer">Burgermaister und <lb n="33"/>raute zu Lindow</orgName>. <pb
-                    facs="StadtASG_Missive_121_242.JPG" n="2"/>
-                <lb n="34"/>Den ersammen und wysen <orgName ref="stadtasg-actors-148" role="recipient"
-                    >burgermaister und raute zu <lb n="35"/>Santgallen</orgName> unsern sondern
+                    domini etc. XXXIXno</origDate>. <lb n="32"/><orgName ref="stadtasg-actors-511" role="issuer">Burgermaister und <lb n="33"/>raute zu Lindow</orgName>. <pb facs="StadtASG_Missive_121_242.JPG" n="2"/>
+                <lb n="34"/>Den ersammen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raute zu <lb n="35"/>Santgallen</orgName> unsern sondern
                 lieben und guoten fründen. </p>
         </body>
     </text>

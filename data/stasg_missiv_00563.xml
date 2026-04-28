@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00563">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 563</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnte <ref target="stasg_missiv_00563-suppl-01.xml">Beilage</ref> ist vorhanden. Kontext: Nachdem der Söldnerführer Gian Giacomo Medici aus seinem Stützpunkt, der Festung Musso am Comersee, mehrere Ausfälle in die Drei Pleven (Dongo, Gravedona, Sorico) und ins Veltlin unternommen hatte, versuchten Truppen der Drei Bünde erfolglos, Morbegno zurückzuerobern. Daraufhin riefen die Bündner die Eidgenossen zu Hilfe. Die mehrheitlich protestantischen Orte von Zürich, Bern, Glarus, Toggenburg, Thurgau, Solothurn, Freiburg im Üechtland, Basel, Schaffhausen und Appenzell entsandten schliesslich gegen 5000 Mann nach Chur. Die Truppen der Bündner, rund 2000 Mann, und der Eidgenossen, rund 4900 Mann, vereinigten sich Anfang April bei Chiavenna, nachdem die Bündner beim zweiten Versuch erfolgreich Morbegno gestürmt hatten. Gian Giacomo Medici konnte zu diesem Zeitpunkt wohl gegen 3000 Söldner zusammenbringen, die er über seine befestigten Plätze Lecco, Monguzzo und Musso verteilt hatte. Er verfügte auch über zahlreiche gut ausgerüstete Kriegsschiffe auf dem Comersee und dem Lago di Mezzola. An dessen oberen Ende erwarteten seine Truppen die Ankunft der Bündner und Eidgenossen in einer behelfsmässig errichteten Schanze bei La Riva. Am 14. April griffen die Eidgenossen in einem Umfassungsmanöver entlang der Felsen von Montagnola an und überrannten die überraschte Besatzung der Bastion. Kundschafter berichteten daraufhin, dass sie Schiffe aus Musso auf dem See gesehen hätten. Nachdem der Fluss Mera mit einer Kette gesperrt und die Schiffe dadurch keine Möglichkeit mehr hatten, sich ins offene Gewässer des Comersees zurückzuziehen, wurden sie durch die Eidgenossen aufgebracht. Göldi zählt die diversen erbeuteten Geschütze und die Fahne auf, welche er diesem Brief als Beweis seines Erfolgs beilegt. Danach vereinigten sich die eidgenössischen Kontingente der Glarner, Thurgauer und Bünder mit den Zürchern bei Damaso und bereiteten den Angriff auf die Festung Musso vor. Gleichzeitig wurden Abgesandte des Herzogs von Mailand, Francesco II. Sforza, im eidgenössischen Feldlager empfangen. Sie wollten über einen Waffenstillstand verhandeln, da der Herzog befürchtete, dass die Eidgenossen nach einem erfolgreichen Sturm auf Musso noch weitere Gebiete am Comersee erobern könnten. Sie machten deshalb den Vorschlag, die Festung mit Mailändischen Truppen zu erobern. Dies wurde einige Tage später durch die Eidgenossen akzeptiert. Der Müsserkrieg hatte noch ein innenpolitisches Nachspiel in der Eidgenossenschaft. Die Weigerung von fünf katholischen Orten, darunter Luzern und Schwyz, den Bündnern zu Hilfe zu kommen, ist einer der Gründe, warum es im Oktober 1531 zur zweiten Schlacht bei Kappel kam. Auch dort führte Oberst Georg Göldi erneut das Zürcher Kontingent an. Georg Göldi (um 1480-1536): katholischer Zürcher Rat und Obrist (oberster Hauptmann), Kommandant der Zürcher Truppen im Müsserkrieg und bei der zweiten Schlacht bei Kappel. Nach der Niederlage wurde ihm Landesverrat vorgeworfen und der Prozess gemacht. Diesem entzog er sich durch Flucht nach Konstanz.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_563_1151/1154</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                 <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_563_1151/1154</idno><altIdentifier type="filename"><idno>stasg_missiv_00563-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Oberst Georg Göldli, Kommandant des Zürcher Kontingents, rapportiert Bürgermeister und Rat zu Zürich in der Hauptmissive und der Beilage über die aktuelle Lage im Zweiten Müsserkrieg.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+  <term ref="stadtasg-keywords-595">Seeschlacht</term>
+<term ref="stadtasg-keywords-593">Eroberung</term>
+<term ref="stadtasg-keywords-592">Artillerie</term>
+<term ref="stadtasg-keywords-483">Kriegsbeute</term>
+<term ref="stadtasg-keywords-604">Beilage</term> 
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-129">Zoll</term>
+<term ref="stadtasg-keywords-327">Waffe</term>
+<term ref="stadtasg-keywords-277">Herzog</term>
+<term ref="stadtasg-keywords-188">Bischof</term>
+<term ref="stadtasg-keywords-474">Hauptmann</term>
+<term ref="stadtasg-keywords-23">Mord</term>               </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1159">Georg Göldli</persName><placeName ref="stadtasg-places-390">Domaso</placeName>                    <date>1531-04-20</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Noëmi Schöb</persName>
+                <date>2021-04-12</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Noëmi Schöb</persName>
+                <date>2025-11-11</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_563_1151.JPG" n="1"/>
+<p>
+<lb n="1"/>Frommen vesten fürsichtigen und wisen insonders gnadigen lieben herren unser
+<lb n="2"/>schuldig dienst sien uch alle zit beraitt zuovor. Gnaedige lieben herren, nach dem
+<lb n="3"/>und wir uch nechst von dem riffen, wie es uns glügklich ergangen, zuogeschriben,
+<lb n="4"/>also mornendes umb den mittentag sind wir uffgebrochen und im namen gottz
+<lb n="5"/>uber die basty<note>Wohl Schanze bei La Riva (CO).</note> gestigen und namlich ein semlichen hohen berg<note>Wohl Montagnola.</note>, der so sorgklich,
+<lb n="6"/>das an vil orten an eim gellenden vellsen der weg bloss zweier fingen bret
+<lb n="7"/>gewesen, und so wir nu gegen <placeName ref="stadtasg-places-391">Tasch</placeName> komen, sind wir bericht, wie nach zwei
+<lb n="8"/>schiff der fienden mitt einem falkenetli<note>Fallkonett oder Halbschlange = leichtes Belagerungsgeschütz mit einem Kaliber von ca. 5 cm.</note>, doppel und halben haggen<note>Hakenbüchse oder Arkebuse = Vorderladergewehr.</note> sampt einem
+<lb n="9"/>vennli uff dem see<note>Wohl Lago di Mezzola.</note> schweben. Also haben wir inen den pass by des von <placeName ref="stadtasg-places-392" cert="medium">Missrob</placeName>
+<lb n="10"/>oder zolhus mitt einer kettinen durch zogen, damitt inen kein müssisch schiff
+<lb n="11"/>zuohilff hatt moegen komen. Wie nu unser knecht beduckt, das schiff zuo beschiessen,
+<lb n="12"/>sind sy in die hoeche gestigen und sy der massen genoetiget, das sy sich an uns
+<lb n="13"/>ergeben. Haben wir sy mitt iren rappieren<note>Rapier = schweres, schlankes Schwert mit Korbhandschutz.</note> uber das gebierg geschickt, das
+<lb n="14"/>wir wissen, haben sy unns deheinen schaden mer zuofuegen moegen, aber in den
+<lb n="15"/>schiffen haben wir gewunen ein venndli, das wir üch hiemit zuoschicken, item
+<lb n="16"/>sechs toppelhagen, ein falkenötli, drissig und dryhalb haggen, ouch anders. Und
+<lb n="17"/>so wir die teilung gemacht, sind uns XI halb haggen worden, aber die toppel
+<lb break="no" n="18"/>haggen sind in unserm eroberten grossen schiff ungeteilt bis zuo end des kriegs
+<lb n="19"/>beliben. Dem nach so wir geacht, wir moechtint unser geschütz vom ryffen nahin
+<lb n="20"/>bringen, haben wir ylentz darnach ouch nach der pünten karthonen<note>Kartaune = schweres Belagerungsgeschütz, Kugelgewicht zwischen 15-25 kg.</note> ge
+<lb break="no" n="21"/>schickt, welch nu uns bis zuo dem thurn oder zolhus ann <placeName ref="stadtasg-places-394">Undersee</placeName> komen,
+<lb n="22"/>und mit der hilff gotes sind wir in willens, uff huet den selben thurn<note>Festung in <placeName ref="stadtasg-places-459">Musso</placeName>.</note> zu
+<lb break="no" n="23"/>beschiessen und das wurmnest uss zuonemen. So dann lieben herren sind
+<lb n="24"/>wir mitt unserm venndli sampt den glarnern und frowenveldern von
+<lb n="25"/><placeName ref="stadtasg-places-395">Iera</placeName>, dennen von <placeName ref="stadtasg-places-199">Toggenburg</placeName> und dem <placeName ref="stadtasg-actors-775">obern Punt</placeName> gen <placeName ref="stadtasg-places-390">Tamast</placeName> by <placeName ref="stadtasg-places-393">Müss</placeName> bis
+<lb n="26"/>an die viend eins buchssenschutz nach gezogen, mitt woelichem wir wie bald
+<lb n="27"/>das geschutz bim turn gereicht tapfferlich mitt gottes hilff handlen wellen
+<lb n="28"/>und in hoffnung, wir wellint sovil fürnemen, das wir den Undersee, uff
+<lb n="29"/>wellichem dann vil halber galleen und allerley schiffen mitt karthonen
+<lb n="30"/>und sunst gschutz schwaeben, gewinnen wellen. Sy haben och zuo unns
+<lb n="31"/>mit grosser zal karthonen, halben schlangen und haggen geschossen, woelher
+<lb n="32"/>wir ein zimlich zal steinen behalten. Sy haben aber uns kein mensch nie
+<lb n="33"/>verletzt, sunders hat uns gott behuett. Witter lieben herren, uff gestrigen
+<lb n="34"/>aubent sind unns vom hertzog von <placeName ref="stadtasg-places-311">Melland</placeName><note>Gemeint ist Francesco II. Sforza (1495-1535).</note> och dem bischoff<note> Wohl Galeazzo Pietra (1462-1552).</note> Vernlan zuo
+<lb n="35"/><placeName ref="stadtasg-places-397" cert="medium">Vigenen</placeName> brieff zuo komen, welh uns uff das hoechst vermanen, von
+<pb facs="StadtASG_Missive_563_1152.JPG" n="2"/>
+<lb n="36"/>unserm fürnemen nit abzeston, damit der tirann<note>Wohl Gian Giacomo Medici (1495-1555), der Müsser oder il Medeghino genannt, Condottiere im Dienste Mailands.</note> gstrafft werde. Sind
+<lb n="37"/>ouch gen uns eins guoten erbietens, und sonderlich bericht uns der herzog,
+<lb n="38"/>wie er ilentz uns sinen secretarien zuoschick in unser lager, der werde
+<lb n="39"/>mitt uns witter ratschlagen. Dis haben wir üch nitt wellen verhalten.
+<lb n="40"/>Geben zuo <origPlace ref="stadtasg-places-390">Damasch</origPlace> uff den <origDate when="1531-04-20">XX tag aberellen anno etc. XXXIto</origDate>.
+<lb n="41"/>Witer lieben herren in der stund sind wir den betrug des müssischen
+<lb n="42"/>witer innen worden und den hoptman Graß<note>Es ist unklar, welche Person gemeint ist.</note>, so veriechen, er habe
+<lb n="43"/>vier mord mit dem von <placeName ref="stadtasg-places-459">Muss</placeName> geton, ineinem schiff gefangen und ge
+<lb break="no" n="44"/>henngkt.
+<lb n="45"/><abbr>VWV</abbr>.  <!-- Auflösung unklar -->
+<lb n="46"/><persName ref="stadtasg-actors-1159" role="issuer">Jörg Göldli</persName>, oberster hoptman,
+<lb n="47"/>venndrich und ratt.
+<lb n="48"/>Den fromen vesten fursichtigen und wysen <orgName ref="stadtasg-actors-503" role="recipient">burgermeister und
+<lb n="49"/>ratt der statt Zürich</orgName> unsern gnadigen lieben herren.
+<pb facs="StadtASG_Missive_563_1153.JPG" n="3"/>
+<pb facs="StadtASG_Missive_563_1154.JPG" n="4"/>
+</p>
+        </body>
+    </text>
+</TEI>

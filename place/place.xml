@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2026-04-20 19:32:07 aus </p>
+        <p>Datenbankexport vom 2026-04-28 12:04:09 aus </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
@@ -66,7 +66,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2026-04-20T19:32:07+02:00">teiHeader was automatically produced from the database 2026-04-20T19:32:07+02:00</change>
+      <change when="2026-04-28T12:04:09+02:00">teiHeader was automatically produced from the database 2026-04-28T12:04:09+02:00</change>
     </revisionDesc>
   </teiHeader>
   <standOff>
@@ -2715,10 +2715,10 @@
           <p>Burg</p>
         </note>
       </place>
-      <place type="A" xml:id="stadtasg-places-101">
-        <placeName type="main" xml:lang="de">Zurzach Markt</placeName>
-        <placeName type="full" xml:lang="de">Zurzach Markt (AG)</placeName>
-        <placeName type="sort" xml:lang="de">zurzach markt</placeName>
+      <place type="P" xml:id="stadtasg-places-101">
+        <placeName type="main" xml:lang="de">Zurzach</placeName>
+        <placeName type="full" xml:lang="de">Zurzach (AG)</placeName>
+        <placeName type="sort" xml:lang="de">zurzach</placeName>
         <location>
           <geo>47.58764 8.29365</geo>
           <country xml:lang="de">Schweiz</country>
@@ -2737,6 +2737,9 @@
           </bibl>
           <bibl>
             <ptr type="geonames" target="https://www.geonames.org/2657891"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q65246908"/>
           </bibl>
         </listBibl>
         <note type="description" xml:lang="de">
@@ -10512,7 +10515,7 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Muri_AG"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Muri, Aargau"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Muri,%20Aargau"/>
           </bibl>
           <bibl>
             <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802004236"/>
@@ -10664,7 +10667,7 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Gera_Lario"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Gera Lario"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Gera%20Lario"/>
           </bibl>
         </listBibl>
       </place>
@@ -11139,7 +11142,7 @@
             <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/01110a.htm"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Acqui Terme"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Acqui%20Terme"/>
           </bibl>
         </listBibl>
       </place>
@@ -11414,7 +11417,7 @@
             <ptr type="viaf" target="https://viaf.org/viaf/1317145424650786830808"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Schloss Wolfenbüttel"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Schloss%20Wolfenbüttel"/>
           </bibl>
         </listBibl>
       </place>
@@ -11842,7 +11845,7 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Casale_Monferrato"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Casale Monferrato"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Casale%20Monferrato"/>
           </bibl>
         </listBibl>
       </place>
@@ -11952,7 +11955,7 @@
             <ptr type="viaf" target="https://viaf.org/viaf/245448120"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Brignano Gera d'Adda"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Brignano%20Gera%20d'Adda"/>
           </bibl>
           <bibl>
             <ptr type="gnd" target="https://d-nb.info/gnd/7607227-7"/>
@@ -12933,7 +12936,7 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Musso_(Lombardei)"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Musso, Lombardy"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Musso,%20Lombardy"/>
           </bibl>
           <bibl>
             <ptr type="gnd" target="https://d-nb.info/gnd/4687962-6"/>
@@ -12959,7 +12962,7 @@
             <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/008298"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Freie Ämter"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Freie%20Ämter"/>
           </bibl>
           <bibl>
             <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/803100020"/>
@@ -13008,7 +13011,7 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Baar_ZG"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Baar, Switzerland"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Baar,%20Switzerland"/>
           </bibl>
           <bibl>
             <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802001701"/>
@@ -13095,50 +13098,10 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Bremgarten_AG"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Bremgarten, Aargau"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Bremgarten,%20Aargau"/>
           </bibl>
           <bibl>
             <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802004063"/>
-          </bibl>
-        </listBibl>
-      </place>
-      <place type="P" xml:id="stadtasg-places-464">
-        <placeName type="main" xml:lang="de">Bremgarten BE</placeName>
-        <placeName type="full" xml:lang="de">Bremgarten BE (BE)</placeName>
-        <placeName type="sort" xml:lang="de">bremgarten be</placeName>
-        <location>
-          <geo>46.97803 7.43852</geo>
-          <country xml:lang="de">Schweiz</country>
-          <country xml:lang="en">Switzerland</country>
-        </location>
-        <idno type="stadtasg-places-id">464</idno>
-        <listBibl>
-          <bibl>
-            <ptr type="geonames" target="https://www.geonames.org/7285325"/>
-          </bibl>
-          <bibl>
-            <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q68185"/>
-          </bibl>
-          <bibl>
-            <ptr type="gnd" target="https://d-nb.info/gnd/4276565-1"/>
-          </bibl>
-          <bibl>
-            <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802000353"/>
-          </bibl>
-          <bibl>
-            <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/000211"/>
-          </bibl>
-          <bibl>
-            <ptr type="lcnaf" target="https://id.loc.gov/authorities/no2003063991"/>
-          </bibl>
-          <bibl>
-            <ptr type="viaf" target="https://viaf.org/viaf/137550601"/>
-          </bibl>
-          <bibl>
-            <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Bremgarten_bei_Bern"/>
-          </bibl>
-          <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Bremgarten bei Bern"/>
           </bibl>
         </listBibl>
       </place>
@@ -13228,7 +13191,7 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Hemberg_SG"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Hemberg, St. Gallen"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Hemberg,%20St.%20Gallen"/>
           </bibl>
           <bibl>
             <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/4003937"/>
@@ -13438,6 +13401,144 @@
           </bibl>
           <bibl>
             <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Ingolstadt"/>
+          </bibl>
+        </listBibl>
+      </place>
+      <place type="P" xml:id="stadtasg-places-473">
+        <placeName type="main" xml:lang="de">Petershausen</placeName>
+        <placeName type="full" xml:lang="de">Petershausen / Konstanz (BW)</placeName>
+        <placeName type="sort" xml:lang="de">petershausen</placeName>
+        <location>
+          <geo>47.6721 9.191</geo>
+          <settlement xml:lang="de">Konstanz</settlement>
+          <country xml:lang="de">Deutschland</country>
+          <country xml:lang="en">Germany</country>
+        </location>
+        <idno type="stadtasg-places-id">473</idno>
+        <listBibl>
+          <bibl>
+            <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q592306"/>
+          </bibl>
+          <bibl>
+            <ptr type="gnd" target="https://d-nb.info/gnd/4755913-5"/>
+          </bibl>
+          <bibl>
+            <ptr type="viaf" target="https://viaf.org/viaf/238142845"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Petershausen_(Konstanz)"/>
+          </bibl>
+          <bibl>
+            <ptr type="geonames" target="https://www.geonames.org/2854645"/>
+          </bibl>
+        </listBibl>
+      </place>
+      <place type="P" xml:id="stadtasg-places-474">
+        <placeName type="main" xml:lang="de">Stammheim</placeName>
+        <placeName type="full" xml:lang="de">Stammheim (ZH)</placeName>
+        <placeName type="sort" xml:lang="de">stammheim</placeName>
+        <location>
+          <geo>47.64002 8.77932</geo>
+          <country xml:lang="de">Schweiz</country>
+          <country xml:lang="en">Switzerland</country>
+        </location>
+        <idno type="stadtasg-places-id">474</idno>
+        <listBibl>
+          <bibl>
+            <ptr type="geonames" target="https://www.geonames.org/12021849"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q60322693"/>
+          </bibl>
+          <bibl>
+            <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/058270"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Stammheim_ZH"/>
+          </bibl>
+          <bibl>
+            <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/802000292"/>
+          </bibl>
+        </listBibl>
+        <note type="description" xml:lang="de">
+          <p>Gemeinde</p>
+        </note>
+      </place>
+      <place type="P" xml:id="stadtasg-places-475">
+        <placeName type="main" xml:lang="de">Waltalingen</placeName>
+        <placeName type="full" xml:lang="de">Waltalingen / Stammheim (ZH)</placeName>
+        <placeName type="sort" xml:lang="de">waltalingen</placeName>
+        <location>
+          <geo>47.62203 8.77821</geo>
+          <settlement xml:lang="de">Stammheim</settlement>
+          <country xml:lang="de">Schweiz</country>
+          <country xml:lang="en">Switzerland</country>
+        </location>
+        <idno type="stadtasg-places-id">475</idno>
+        <listBibl>
+          <bibl>
+            <ptr type="geonames" target="https://www.geonames.org/7287533"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q67302"/>
+          </bibl>
+          <bibl>
+            <ptr type="gnd" target="https://d-nb.info/gnd/4632595-5"/>
+          </bibl>
+          <bibl>
+            <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/000038"/>
+          </bibl>
+          <bibl>
+            <ptr type="viaf" target="https://viaf.org/viaf/245841815"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Waltalingen"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Waltalingen"/>
+          </bibl>
+          <bibl>
+            <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/7061712"/>
+          </bibl>
+        </listBibl>
+      </place>
+      <place type="P" xml:id="stadtasg-places-476">
+        <placeName type="main" xml:lang="de">Ilanz</placeName>
+        <placeName type="full" xml:lang="de">Ilanz (GR)</placeName>
+        <placeName type="sort" xml:lang="de">ilanz</placeName>
+        <location>
+          <geo>46.77413 9.20461</geo>
+          <country xml:lang="de">Schweiz</country>
+          <country xml:lang="en">Switzerland</country>
+        </location>
+        <idno type="stadtasg-places-id">476</idno>
+        <listBibl>
+          <bibl>
+            <ptr type="geonames" target="https://www.geonames.org/2660275"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q64213"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Ilanz"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Ilanz"/>
+          </bibl>
+          <bibl>
+            <ptr type="gnd" target="https://d-nb.info/gnd/4197229-6"/>
+          </bibl>
+          <bibl>
+            <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/001437"/>
+          </bibl>
+          <bibl>
+            <ptr type="bnf" target="https://catalogue.bnf.fr/ark:/12148/cb133244206"/>
+          </bibl>
+          <bibl>
+            <ptr type="viaf" target="https://viaf.org/viaf/239507188"/>
+          </bibl>
+          <bibl>
+            <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/3006258"/>
           </bibl>
         </listBibl>
       </place>

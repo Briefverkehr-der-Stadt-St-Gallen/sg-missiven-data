@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00058">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -73,13 +72,11 @@
                 fürbracht <lb n="2"/><persName ref="stadtasg-actors-181">Hans Maiger</persName>, den man nempt Schaerrer,
                 unser lantman, wie das ir im das <lb n="3"/>sin verlaitt habint in üwer statt, das
                 uns gar unbillich bedunkt sin. Lieben <lb n="4"/>guoten fründ also bittent wir üch
-                mit ernst gar flissig, das ir dem selben <persName ref="stadtasg-actors-181">Hansen <lb n="5"
-                    />Schaerrer</persName> unserm lantman das sin entschlaihint, habent ir dann mit
+                mit ernst gar flissig, das ir dem selben <persName ref="stadtasg-actors-181">Hansen <lb n="5"/>Schaerrer</persName> unserm lantman das sin entschlaihint, habent ir dann mit
                 im üt <lb n="6"/>ze schaffin oder zuo im üt zuo sprechin, da wil er üch gerecht
                 werden vor <lb n="7"/>unserm amman. Lieben guoten fründ tuent hier inne, als wir
                 des an sunder <lb n="8"/>guot getrüwen zuo üch habent. Üwer verschriben antwurt
-                land uns wissen <lb n="9"/>bi disem botten. Geben am <origDate when="1433-01-13"
-                    >sunnentag nach sant Hilarien tag anno domini Mo CCCCo XXXIIIo</origDate> etc.
+                land uns wissen <lb n="9"/>bi disem botten. Geben am <origDate when="1433-01-13">sunnentag nach sant Hilarien tag anno domini Mo CCCCo XXXIIIo</origDate> etc.
                 <lb n="10"/><orgName ref="stadtasg-actors-506" role="issuer">Amman und raut <lb n="11"/>zuo
                     Appenzelle</orgName>. <pb facs="StadtASG_Missive_58_116.JPG" n="2"/>
                 <lb n="12"/>Den fürsichtigen und wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister

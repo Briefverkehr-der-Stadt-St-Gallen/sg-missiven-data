@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_04049">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Statthalter und Rat zu St. Gallen bedanken sich bei Hauptmannschaft, Bürgermeister und Rat zu Konstanz über die Nachricht der Gefangennahme und des Verhörs von Matthäus Mattler, der Leinwand auf den St. Galler Bleichen entwendet hatte. Im Namen der St. Galler Bleichermeister bitten Statthalter und Rat zu St. Gallen um die Rückgabe allfällig auftauchender St. Galler Leinwand sowie um eine angemessene Bestrafung des Delinquenten. Weiterhin bitten Statthalter und Rat zu St. Gallen, im Namen der betroffenen St. Galler, den Bleichermeister Michael Schorno, Ratsherr zu Schwyz und Landvogt im Thurgau, um Hilfe bei der Rückführung der durch Matthäus Mattler gestohlenen Leinwand. Dieser habe im Konstanzer Verhör zugegeben, dass er die entwendete St. Galler Leinwandtuche nicht nur in der Stadt Konstanz, sondern auch an mehreren Orten im Thurgau, insbesondere in einem Wirtshaus in Egelshofen, verkauft habe.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
 <term ref="stadtasg-keywords-168">Abschrift</term>
@@ -68,11 +67,11 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_4049_16345.jpg" n="1" />
+            <pb facs="StadtASG_Missive_4049_16345.jpg" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_4049_16346.jpg" n="2" />
-<pb facs="StadtASG_Missive_4049_16347.jpg" n="3" />
-<pb facs="StadtASG_Missive_4049_16348.jpg" n="4" />
+<pb facs="StadtASG_Missive_4049_16346.jpg" n="2"/>
+<pb facs="StadtASG_Missive_4049_16347.jpg" n="3"/>
+<pb facs="StadtASG_Missive_4049_16348.jpg" n="4"/>
 </p>
         </body>
     </text>

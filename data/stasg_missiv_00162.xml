@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00162">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -78,12 +77,8 @@
                     <lb n="6"/>wann er sin fründ nu ze mal dabi nit gehaben mag von traffenlicher
                     <lb n="7"/>sachen wegen. Und wellen herinne nicht für übel haben, daz ich üch
                     <lb n="8"/>den tag so spat abkündet hab, denn die sachen, so gachlingen
-                zuogefallen <lb n="9"/>sint, daz ich dz nit e getuon kond. Datum <origDate
-                    when="1443-05-12">Pancracy anno XLIII etc</origDate>. <lb n="10"/><persName
-                    ref="stadtasg-actors-57" role="issuer">Hanns von der <lb n="11"
-                    />Breitenlandenberg</persName>. <pb facs="StadtASG_Missive_162_324.JPG" n="2"/>
-                <lb n="12"/>Den fürsichtigen wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
-                    >burgermeister und dem <lb n="13"/>raut der statt zuo Santgallen</orgName> minen
+                zuogefallen <lb n="9"/>sint, daz ich dz nit e getuon kond. Datum <origDate when="1443-05-12">Pancracy anno XLIII etc</origDate>. <lb n="10"/><persName ref="stadtasg-actors-57" role="issuer">Hanns von der <lb n="11"/>Breitenlandenberg</persName>. <pb facs="StadtASG_Missive_162_324.JPG" n="2"/>
+                <lb n="12"/>Den fürsichtigen wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und dem <lb n="13"/>raut der statt zuo Santgallen</orgName> minen
                 lieben herren <lb n="14"/>und guoten fründen. </p>
         </body>
     </text>

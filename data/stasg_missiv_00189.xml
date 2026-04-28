@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00189">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -84,19 +83,15 @@
                 deßhalb mit im und er mit uns geredt haben. <lb n="9"/>Daz wir aber dißmalz sin
                 laßen, alz es ist. Denn als ir darinn füro melden <lb n="10"/>und begeren, wa die
                 iüwern ritten oder gangen, dz wir die ir lib und guot guotlich <lb n="11"/>fruntlich
-                halten, sy sicher wandern und werben laßen, und soellichz mit den von <lb n="12"
-                /><placeName ref="stadtasg-places-127">Hard</placeName> und andern den unsern zuotuond ouch schaffen etc., wißen wir dißmalz nichtzit
+                halten, sy sicher wandern und werben laßen, und soellichz mit den von <lb n="12"/><placeName ref="stadtasg-places-127">Hard</placeName> und andern den unsern zuotuond ouch schaffen etc., wißen wir dißmalz nichtzit
                     <lb n="13"/>unfrüntlichz mit üch noch den iuwern zuotuond haben, und mügen ir
                 und die <lb n="14"/>iüwern unser und der unsernhalb wol sicher wandern und werben,
                 doch so verr, <lb n="15"/>dz ir noch die iüwern unsern vinden füro nichtzit
                 zuefueren. Denn in welhen <lb n="16"/>sachen wir iuwer ersamkait zuo willen werden
-                moechten, taetten wir mit willen <lb n="17"/>gern. Datum <origDate when="1445-02-12"
-                    >sexta ante invocavit anno etc. XLquinto</origDate>. <lb n="18"/><orgName
-                    ref="stadtasg-actors-521" role="issuer">Vogt, amman und <lb n="19"/>ratt zue
+                moechten, taetten wir mit willen <lb n="17"/>gern. Datum <origDate when="1445-02-12">sexta ante invocavit anno etc. XLquinto</origDate>. <lb n="18"/><orgName ref="stadtasg-actors-521" role="issuer">Vogt, amman und <lb n="19"/>ratt zue
                     Pregentz</orgName>.
                 <pb facs="StadtASG_Missive_189_380.JPG" n="2"/>
-                <lb n="20"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient"
-                    >burgermaister und raetten <lb n="21"/>zuo Santgallen</orgName> unsern sondern
+                <lb n="20"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raetten <lb n="21"/>zuo Santgallen</orgName> unsern sondern
                 guoten fründen. </p>
         </body>
     </text>

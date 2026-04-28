@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00068">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -71,8 +70,7 @@
             <p>
                 <lb n="1"/><persName ref="stadtasg-actors-23" role="issuer">Eglolff</persName> von gottes
                 gnaden abbt <lb n="2"/>des gotzhus zuo sant Gallen. <lb n="3"/>Unsern gruoz vor
-                ersamen wisen lieben getruwen. Als wir die von <placeName ref="stadtasg-places-66"
-                    >Gossow</placeName>, von <placeName ref="stadtasg-places-67">Bernhartzell</placeName>
+                ersamen wisen lieben getruwen. Als wir die von <placeName ref="stadtasg-places-66">Gossow</placeName>, von <placeName ref="stadtasg-places-67">Bernhartzell</placeName>
                 <lb n="4"/>und ettlich anderer, der ain tail uwer burgerer sind, von stür wegen, so
                 sy uns und unserm gotzhus <lb n="5"/>pflichtig sind, für genomen hatten für den
                 allerdurchlüchtigesten unsern gnaedigesten herren <lb n="6"/>den kaiser<note>Wohl
@@ -81,8 +79,7 @@
                 den unsern kund getan, wie ir uch <lb n="7"/>so verr darin gelait, darunder geredt
                 und getruwlich gearbait hänt, waerint wir im <lb n="8"/>land gewesen, das villicht
                 die sachen gütlich übertragen worden waerint. Und also <lb n="9"/>haben wir die
-                sachen gütlich angestellt und sind daruff ze lande komen und wellen <lb n="10"
-                />gerne darzuo lassen reden und söliche stüren oder zinse, so man unserem gotzhus
+                sachen gütlich angestellt und sind daruff ze lande komen und wellen <lb n="10"/>gerne darzuo lassen reden und söliche stüren oder zinse, so man unserem gotzhus
                 schuldig <lb n="11"/>ist, lieber in gütlicheit nemen denn das wir die mit gericht
                 und rechten von den <lb n="12"/>lüten bringen müssent. Hierummb bitten wir üch
                 füro zuo den sachen ze redenn <lb n="13"/>und das beste darinne ze tünde, als wir

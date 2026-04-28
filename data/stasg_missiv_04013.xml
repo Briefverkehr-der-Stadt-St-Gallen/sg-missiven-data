@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_04013">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Bürgermeister und Rat zu St. Gallen antworten der Gräfin Johannette zu Erbach auf ihre Bitte um ein Darlehen von 1000 Gulden. St. Gallen könne ihr aufgrund seiner eigenen schlechten finanziellen Lage das Geld nicht geben.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
                     <term ref="stadtasg-keywords-281">Entwurf</term>
@@ -59,9 +58,9 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_4013_16209.jpg" n="1" />
+            <pb facs="StadtASG_Missive_4013_16209.jpg" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_4013_16210.jpg" n="2" />
+<pb facs="StadtASG_Missive_4013_16210.jpg" n="2"/>
 </p>
         </body>
     </text>

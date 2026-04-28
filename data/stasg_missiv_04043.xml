@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_04043">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Bürgermeister und Rat zu St. Gallen bitten im Namen ihres Bürgers Tobias Studer senior Bürgermeister und Rat zu Zürich um die Aufnahme seines gleichnamigen Sohns Tobias Studer ins Zucht- und Waisenhaus am Oetenbach in Zürich. Die Einrichtung nimmt auf Bitte der Eltern ungehorsame Kinder auf und hält sie dort zur Arbeit an. Tobias Studer junior leide an Tobsucht und Wahnwitzigkeit und hatte in Mellingen einen Streit wegen eines Kruzifixes begonnen. Deshalb befürchtet man in St. Gallen, er könnte einen Konflikt im Stiftsbezirk auslösen, weshalb der Vater seinen Sohn gerne in Zürich versorgen würde.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
   <term ref="stadtasg-keywords-281">Entwurf</term>
@@ -62,11 +61,11 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_4043_16321.jpg" n="1" />
+            <pb facs="StadtASG_Missive_4043_16321.jpg" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_4043_16322.jpg" n="2" />
-<pb facs="StadtASG_Missive_4043_16323.jpg" n="3" />
-<pb facs="StadtASG_Missive_4043_16324.jpg" n="4" />
+<pb facs="StadtASG_Missive_4043_16322.jpg" n="2"/>
+<pb facs="StadtASG_Missive_4043_16323.jpg" n="3"/>
+<pb facs="StadtASG_Missive_4043_16324.jpg" n="4"/>
 </p>
         </body>
     </text>

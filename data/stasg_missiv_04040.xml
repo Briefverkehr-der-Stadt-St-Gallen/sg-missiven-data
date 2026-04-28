@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_04040">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Ein namentlich nicht erwähnter Absender bedankt sich persönlich und im Namen des Rats zu St. Gallen für die zwei dem Rat als Geschenk überreichten Wildkälber, welche von den Wildschützen von Graf Hugo von Montfort samt Brief nach St. Gallen gebracht worden waren. Mit dem Dankesschreiben wird ein Stück St. Galler Leinwand, in Ermangelung von Besserem, als Geschenk für die Ehefrau des Grafen mitgeschickt.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
                     <term ref="stadtasg-keywords-281">Entwurf</term>
@@ -59,9 +58,9 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_4040_16311.jpg" n="1" />
+            <pb facs="StadtASG_Missive_4040_16311.jpg" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_4040_16312.jpg" n="2" />
+<pb facs="StadtASG_Missive_4040_16312.jpg" n="2"/>
 </p>
         </body>
     </text>

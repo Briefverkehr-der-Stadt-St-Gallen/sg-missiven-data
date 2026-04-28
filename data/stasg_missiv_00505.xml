@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00505">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Hugo von Hohenlandenberg, Bischof zu Konstanz, bittet Bürgermeister und Rat zu St. Gallen, Ritter Ludwig von Helmsdorf, Vogt zu Bischofszell, Walter von Hallwyl, Hofmeister, und Burkhard Schenk, Vogt zu Arbon, anzuhören und ihnen an seiner statt Glauben zu schenken.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
                     <term ref="stadtasg-keywords-240">Ritter</term>
@@ -58,21 +57,21 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_505_1031.JPG" n="1" />
+            <pb facs="StadtASG_Missive_505_1031.JPG" n="1"/>
 <p>
-<lb n="1" /><persName ref="stadtasg-actors-1039" role="issuer">Hugo</persName> von gottes gnaden
-<lb n="2" />bischoffe zuo <placeName ref="stadtasg-places-7">Costanntz</placeName>.
-<lb n="3" />Unnsern fründtlichen gruoss voran ersamen wysen sonnder lieben fründe. Wir haben den edeln,
-<lb n="4" />strenngen, vesten unnsern lieben getrüwen hern <persName ref="stadtasg-actors-768">Ludwigen von Helmßdorff</persName>, ritter, unnserm vogt
-<lb n="5" />zuo <placeName ref="stadtasg-places-19">Bischoffzell</placeName>, <persName ref="stadtasg-actors-1040">Walthern von Hallwyl</persName>, unnserm hofmaister, und <persName ref="stadtasg-actors-420">Burckharten Schenncken</persName>, unnserm
-<lb n="6" />vogt zuo <placeName ref="stadtasg-places-5">Arbon</placeName>, gemainlich und sonnderlich ettwas unnser mainung, wie ir von inen gründtlich
-<lb n="7" />vernemmen mügt, an üch zuowerben befolhen, bittende, ir woellen sy also von unnsern wegen
-<lb n="8" />guetlich hoern, vernemmen und inen ditzmals glich unnsselbs globen, üch ouch irem anbringen
-<lb n="9" />nach bewysen, als wir üch genntzlich wol getruwen. Stat unns widerumm in gnaden zuoerkennen
-<lb n="10" />und zuobeschulden. Datum <origPlace ref="stadtasg-places-7">Costantz</origPlace> uff <origDate when="1497-05-15">maentag inn pfingstfyrn anno etc. LXXXXVIIo</origDate>.
-<pb facs="StadtASG_Missive_505_1032.JPG" n="2" />
-<lb n="11" />Denn ersamen wysen unnsern sonndern liebenn
-<lb n="12" />frünnden <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat zuo Santgallen</orgName>.
+<lb n="1"/><persName ref="stadtasg-actors-1039" role="issuer">Hugo</persName> von gottes gnaden
+<lb n="2"/>bischoffe zuo <placeName ref="stadtasg-places-7">Costanntz</placeName>.
+<lb n="3"/>Unnsern fründtlichen gruoss voran ersamen wysen sonnder lieben fründe. Wir haben den edeln,
+<lb n="4"/>strenngen, vesten unnsern lieben getrüwen hern <persName ref="stadtasg-actors-768">Ludwigen von Helmßdorff</persName>, ritter, unnserm vogt
+<lb n="5"/>zuo <placeName ref="stadtasg-places-19">Bischoffzell</placeName>, <persName ref="stadtasg-actors-1040">Walthern von Hallwyl</persName>, unnserm hofmaister, und <persName ref="stadtasg-actors-420">Burckharten Schenncken</persName>, unnserm
+<lb n="6"/>vogt zuo <placeName ref="stadtasg-places-5">Arbon</placeName>, gemainlich und sonnderlich ettwas unnser mainung, wie ir von inen gründtlich
+<lb n="7"/>vernemmen mügt, an üch zuowerben befolhen, bittende, ir woellen sy also von unnsern wegen
+<lb n="8"/>guetlich hoern, vernemmen und inen ditzmals glich unnsselbs globen, üch ouch irem anbringen
+<lb n="9"/>nach bewysen, als wir üch genntzlich wol getruwen. Stat unns widerumm in gnaden zuoerkennen
+<lb n="10"/>und zuobeschulden. Datum <origPlace ref="stadtasg-places-7">Costantz</origPlace> uff <origDate when="1497-05-15">maentag inn pfingstfyrn anno etc. LXXXXVIIo</origDate>.
+<pb facs="StadtASG_Missive_505_1032.JPG" n="2"/>
+<lb n="11"/>Denn ersamen wysen unnsern sonndern liebenn
+<lb n="12"/>frünnden <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat zuo Santgallen</orgName>.
 </p>
         </body>
     </text>

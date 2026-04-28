@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_04056-suppl-02">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Schreiben von Henri II. de Rohan mit dem Pfarrer Ambroise Faget an Jacques Dupuy betreffend die Religionsauseinandersetzungen in La Rochelle.</p>            </abstract>
             <langUsage>
-                <language ident='fra'>Französisch</language>            </langUsage>
+                <language ident="fra">Französisch</language>            </langUsage>
             <textClass>
                 <keywords>
  <term ref="stadtasg-keywords-604">Beilage</term>
@@ -58,11 +57,11 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_4056_16381.jpg" n="1" />
+            <pb facs="StadtASG_Missive_4056_16381.jpg" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_4056_16382.jpg" n="2" />
-<pb facs="StadtASG_Missive_4056_16383.jpg" n="3" />
-<pb facs="StadtASG_Missive_4056_16384.jpg" n="4" />
+<pb facs="StadtASG_Missive_4056_16382.jpg" n="2"/>
+<pb facs="StadtASG_Missive_4056_16383.jpg" n="3"/>
+<pb facs="StadtASG_Missive_4056_16384.jpg" n="4"/>
 </p>
         </body>
     </text>

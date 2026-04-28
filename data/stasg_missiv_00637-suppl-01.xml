@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00637-suppl-01">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Der Herr von Blancfosse informiert Bürgermeister und Rat zu Zürich über einen Frieden, der zwischen dem Kaiser und dem französischen König in Paris beschlossen und publiziert worden sein soll. Er teilt zudem mit, dass ihm der französische König versichert habe, dass er die Eidgenossen und deren Hilfe nicht vergessen wolle.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
                     <term ref="stadtasg-keywords-604">Beilage</term>
@@ -63,11 +62,11 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_637_1467.JPG" n="1" />
+            <pb facs="StadtASG_Missive_637_1467.JPG" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_637_1468.JPG" n="2" />
-<pb facs="StadtASG_Missive_637_1469.JPG" n="3" />
-<pb facs="StadtASG_Missive_637_1470.JPG" n="4" />
+<pb facs="StadtASG_Missive_637_1468.JPG" n="2"/>
+<pb facs="StadtASG_Missive_637_1469.JPG" n="3"/>
+<pb facs="StadtASG_Missive_637_1470.JPG" n="4"/>
 </p>
         </body>
     </text>

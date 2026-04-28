@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00206">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -71,8 +70,7 @@
             <pb facs="StadtASG_Missive_206_413.JPG" n="1"/>
             <p>
                 <lb n="1"/>Min früntlich dinst zuo vor lieben <orgName ref="stadtasg-actors-148" role="recipient">die von sant
-                    Gallen</orgName>. Ich hab ainen guetlichen <lb n="2"/>tag mit <orgName
-                    ref="stadtasg-actors-514">den von Bern</orgName> uf an <date when="1447-06-01">donstag in
+                    Gallen</orgName>. Ich hab ainen guetlichen <lb n="2"/>tag mit <orgName ref="stadtasg-actors-514">den von Bern</orgName> uf an <date when="1447-06-01">donstag in
                     der pfinstwochen</date> ze <placeName ref="stadtasg-places-53">Baden</placeName> zuo
                 suochen <lb n="3"/>und ze laisten, dar zuo ich ainer bottschaft von üwerm raut vast
                 wol bedoerft <lb n="4"/>und geren haben woelt, nach dem mir aeben vil daran gelegen
@@ -82,12 +80,8 @@
                 herberg und enmorndes des besten bistendig und <lb n="8"/>raetlich sye. Und woellen
                 mir das nit versagen, denn ich mich gantz daran <lb n="9"/>verlaussen wil. Das beger
                 ich mit willen, umb üch in allen zimlichen sachen <lb n="10"/>zuo beschulden. Geben
-                an <origDate when="1447-05-15">mentag vor dem hailigen uffart tag anno <lb n="11"
-                    />etc. XLVIImo</origDate>. <lb n="12"/><persName ref="stadtasg-actors-48" role="issuer"
-                    >Wolffhart von <lb n="13"/>Brandis, der elter</persName>, fryer. <pb
-                    facs="StadtASG_Missive_206_414.JPG" n="2"/>
-                <lb n="14"/>Den ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient"
-                    >burgermaister und raut <lb n="15"/>zuo sant Gallen</orgName> minen guoten
+                an <origDate when="1447-05-15">mentag vor dem hailigen uffart tag anno <lb n="11"/>etc. XLVIImo</origDate>. <lb n="12"/><persName ref="stadtasg-actors-48" role="issuer">Wolffhart von <lb n="13"/>Brandis, der elter</persName>, fryer. <pb facs="StadtASG_Missive_206_414.JPG" n="2"/>
+                <lb n="14"/>Den ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raut <lb n="15"/>zuo sant Gallen</orgName> minen guoten
                 fründen. </p>
         </body>
     </text>

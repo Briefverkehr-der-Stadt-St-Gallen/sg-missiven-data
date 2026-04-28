@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_04031">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Der bevogtete St. Galler Bürger Joachim Spengler, Glasergeselle in Konstanz, möchte sein Bürgerrecht in St. Gallen aufgeben. Bürgermeister und Rat zu St. Gallen bitten Bürgermeister und Rat zu Konstanz, Spengler zwecks Befragung und Aufgabe des Bürgerrechts nach St. Gallen zu schicken.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
                     <term ref="stadtasg-keywords-112">Bürgerrecht</term>
@@ -60,9 +59,9 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_4031_16273.jpg" n="1" />
+            <pb facs="StadtASG_Missive_4031_16273.jpg" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_4031_16274.jpg" n="2" />
+<pb facs="StadtASG_Missive_4031_16274.jpg" n="2"/>
 </p>
         </body>
     </text>

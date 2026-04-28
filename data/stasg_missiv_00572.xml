@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00572">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 572</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_572_1177/1178</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Statthalter und Rat zu Appenzell bitten Bürgermeister und Rat zu St. Gallen um Rechtshilfe. Es geht um die Bestrafung von Gallus Brissig, der in Verdacht steht, seine Ehefrau getötet zu haben. Sie bitten um Gefangennahme von Gallus Brissig, sobald sich dieser aus dem Freiheitsbereich begebe.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-23">Mord</term>
+<term ref="stadtasg-keywords-107">Strafe</term>
+<term ref="stadtasg-keywords-21">Rechtshilfe</term>
+<term ref="stadtasg-keywords-46">Gefangennahme</term> 
+<term ref="stadtasg-keywords-445">Asyl</term>
+<term ref="stadtasg-keywords-297">Ehefrau</term> 
+<term ref="stadtasg-keywords-276">Freiheit</term>    
+<term ref="stadtasg-keywords-359">Meister</term>             </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-506">Statthalter und Rat zu Appenzell</orgName>                    <date>1534-07-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Noëmi Schöb</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Noëmi Schöb</persName>
+                <date>2026-04-20</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_572_1177.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnsser früntlich willig diennst unnd was wir eren liebs unnd
+<lb n="2"/>guotz vermugend allzitt zuo voran beraitt fromen fürsichtigen erssamen und
+<lb n="3"/>wisen insonnders guotten fründ unnd getrüwen lieben nachpern. Wie müsend
+<lb n="4"/>uwer ehrsamen weisheit ainen schwären handel in gehaen anzögen. Wir verstönnd, es ligg
+<lb n="5"/><persName ref="stadtasg-actors-1330">Gallus Brissig</persName> in der fryhaitt, der selb hett ain eliche frowen gehept, die haind
+<lb n="6"/>ietz kurtz verganngner tagen ir nachpuren todt am bett fonnden ligend mit etlichen
+<lb n="7"/>wor zaichen, als obs sy erwürgt und ermurtt sye unnd aber ir gemelter man,
+<lb n="8"/><persName ref="stadtasg-actors-1330">Gallus Brissig</persName>, vor dem ain zitt har nit by ir gesin, sonnder am <placeName ref="stadtasg-places-467">Hemberg</placeName> und
+<lb n="9"/>zum <placeName ref="stadtasg-places-242">Ainsidlen</placeName> dienett, och ain anders umb her zogen, unnd so nun sölichs ist ge
+<lb break="no" n="10"/>schechen, haind wir ain guotten gesellen hin in geschickt und luogen, ob er zuor selben zitt
+<lb n="11"/>daselbs bim maister gesin sye oder nit. Do sind wir gewüss bericht, das er zuo der selben
+<lb n="12"/>zitt nit da innen gesin ist, dann er selbs usher gelan hett, er sy hie zuo <placeName ref="stadtasg-places-8">Appenzell</placeName> gesin
+<lb n="13"/>unnd hab sin frowen zetod geschlagen. Unnd darumb trüwen lieben nachpern, die wil
+<lb n="14"/>wir üch kennend als die, dennen söllich händel gär nit gefallend unnd helfend straffen,
+<lb n="15"/>darumb so pyttend wir üch gar früntlich, ob sach wäri, das sich gemelter <persName ref="stadtasg-actors-1330">Gallus Brisig</persName>
+<lb n="16"/>für die fryhaitt her us wurd thuon, ir wellend in fäncklich an nemen, und so das
+<lb n="17"/>beschicht, wennd wir darin handlen nach gestalt der sach und thuon, was biderben lütten
+<lb n="18"/>zuostat. Unnd wellend üch harinn bewisen, als unnsser vertruwen zuo üch statt, wend och
+<lb n="19"/>das haben zuo verdienen. Datum am <origDate when="1534-07-12">12 tag yuli anno domini 34</origDate>.
+<lb n="20"/><orgName ref="stadtasg-actors-506" role="issuer">Statthalter unnd rautt
+<lb n="21"/>zuo Appennzell</orgName>.
+<pb facs="StadtASG_Missive_572_1178.JPG" n="2"/>
+<lb n="22"/>Denn fromen fürsichtigen erssamen
+<lb n="23"/>unnd wisen <orgName ref="stadtasg-actors-148" role="recipient">burger maister unnd
+<lb n="24"/>rautt der statt sannt Gallen</orgName> unnssern
+<lb n="25"/>sonnders guotten fründen unnd getrüwen
+<lb n="26"/>lieben nachpernn etc.
+</p>
+        </body>
+    </text>
+</TEI>

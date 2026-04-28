@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00611-suppl-01">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Bürgermeister und fünf geheime Räte zu Ulm bitten Bürgermeister und Rat zu St. Gallen, ihnen bezüglich des Salpeterkaufs mitzuteilen, wieviel ein Zentner im Hoheitsgebiet der Stadt St. Gallen im Vergleich mit Ulm wiegt.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
                     <term ref="stadtasg-keywords-596">Salpeter</term>
@@ -61,14 +60,14 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_612_1337.JPG" n="1" />
+            <pb facs="StadtASG_Missive_612_1337.JPG" n="1"/>
 <p>
-<lb n="1" />Euer weisheit wollen unns auch den unnderschid dess
-<lb n="2" />gewichts zwischen inen unnd unns unnd was namblich
-<lb n="3" />der centner euer weisheit gerichts allhie nach unnserm gewicht
-<lb n="4" />zallt und anlauff auch freuntlich zuerkennen geben.
-<lb n="5" />Datum ut in litteris.
-<pb facs="StadtASG_Missive_612_1338.JPG" n="2" />
+<lb n="1"/>Euer weisheit wollen unns auch den unnderschid dess
+<lb n="2"/>gewichts zwischen inen unnd unns unnd was namblich
+<lb n="3"/>der centner euer weisheit gerichts allhie nach unnserm gewicht
+<lb n="4"/>zallt und anlauff auch freuntlich zuerkennen geben.
+<lb n="5"/>Datum ut in litteris.
+<pb facs="StadtASG_Missive_612_1338.JPG" n="2"/>
 </p>
         </body>
     </text>

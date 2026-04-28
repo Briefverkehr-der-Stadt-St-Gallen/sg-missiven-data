@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00049">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -76,8 +75,7 @@
                 <lb n="1"/>Unser früntlich willig dienst voran lieben und gueten fründ. Uns hat
                 fürbracht <lb n="2"/><persName ref="stadtasg-actors-168">Egly Oschwald</persName> von
                     <placeName ref="stadtasg-places-61">Apptwille</placeName>, unser lantman, wie das in
-                    <persName ref="stadtasg-actors-169">Hans Ghüssit</persName>, üwer mitburger, <lb n="3"
-                />mainni, uff den strassen und ettwas muetwillen mit im trib, das uns gar unbillich
+                    <persName ref="stadtasg-actors-169">Hans Ghüssit</persName>, üwer mitburger, <lb n="3"/>mainni, uff den strassen und ettwas muetwillen mit im trib, das uns gar unbillich
                     <lb n="4"/>bedunkt, wan üch doch wol ze wissin ist, das sy vormals an andren
                 frid geben hand. <lb n="5"/>Also wellent wir üch bitten mit gantzem ernst flissyg,
                 das ir den üwern dar zue <lb n="6"/>wisint, das er den frid fürbas hailt, indes
@@ -86,11 +84,9 @@
                 sond ir uns willig vinden. Üwer verschriben antwurt land uns wissen <lb n="9"/>by
                 disem botten. Geben am <origDate when="1431-07-16">mentag nach sant Margreten tag
                     anno domini Mo CCCCo XXXo <lb n="10"/>primo</origDate>. Versiglot mit unsers
-                waibels insigel gebrestenhalb unsers landes insigel. <lb n="11"/><orgName
-                    ref="stadtasg-actors-507" role="issuer">Hoptman, amman und <lb n="12"/>raut zue
+                waibels insigel gebrestenhalb unsers landes insigel. <lb n="11"/><orgName ref="stadtasg-actors-507" role="issuer">Hoptman, amman und <lb n="12"/>raut zue
                     Appenzelle</orgName>. <pb facs="StadtASG_Missive_49_98.JPG" n="2"/>
-                <lb n="13"/>Den ersammen wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
-                    >burgermaister und <lb n="14"/>raut ze sant Gallen</orgName> unsren gueten
+                <lb n="13"/>Den ersammen wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und <lb n="14"/>raut ze sant Gallen</orgName> unsren gueten
                 fründen. </p>
         </body>
     </text>

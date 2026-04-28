@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00662-suppl-02">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 662 Beilage 2</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+             <notesStmt><note><p>Beilage 2 zur Missive Nr. <ref target="stasg_missiv_00662.xml">662</ref>.</p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="supplement">                    <msIdentifier>
+                        <idno>StadtASG Missive_661_1553/1554</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Jakob Zollikofer, Gesellschafter, antwortet Bürgermeister und Rat zu Isny in der Erbangelegenheit der Witwe von Wolf Zollikofer. Wolf Zollikofer habe mehr aus der Gesellschaft herausgenommen und verbraucht, als er eingelegt habe. Wozu er das Geld verwendet habe, sei ungewiss. Man sei sich aber gegenseitig nichts schuldig, was bereits früher den Beiständen der Witwe mitgeteilt wurde.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+  <term ref="stadtasg-keywords-478">Register</term>
+<term ref="stadtasg-keywords-174">Rechnung</term>
+<term ref="stadtasg-keywords-5">Erbteilung</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-177">Witwe</term>
+<term ref="stadtasg-keywords-269">Kind</term>
+<term ref="stadtasg-keywords-270">Vormundschaft</term>
+<term ref="stadtasg-keywords-263">Vogt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1307">Jakob Zollikofer (II)</persName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                    <date>1547-08-04</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-509">Bürgermeister und Rat zu Isny</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Arman Weidenmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-04-13</date>
+                <note>Ehemals Nr. 661, neu Beilage 2 zu Nr. 662.</note>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_661_1553.JPG" n="1"/>
+<p>
+<lb n="1"/>Vest fürsichtig ersam und wyß günstigen herrn.
+<lb n="2"/>Uff euwer schreiben, das unser baß die Zolligkoferin<note>Gemeint ist die verwitwete Ehefrau von <persName ref="stadtasg-actors-1308">Wolf Zollikofer</persName>.</note>
+<lb n="3"/>betrifft, füegen wir üwer fürsicht wyßhait dienstlicher meinung
+<lb n="4"/>zuvernemmen, nemlich wie die vögt hie seind ge
+<lb break="no" n="5"/>wesen wir inen mit laid lutter angezeigt haben,
+<lb n="6"/>wie unsers abgestorbnen vetters <persName ref="stadtasg-actors-1308">Wolfen Zolligkofers</persName>
+<lb n="7"/>sachen gestaltet seind, des uns in treuwen leid ist,
+<lb n="8"/>es nit anders gestaltet ist, das ist nemlich er mer
+<lb n="9"/>verbrucht oder uß der gesellschafft genomen hatt,
+<lb n="10"/>weder er bey uns ligen hatt gehapt. In waß ge
+<lb break="no" n="11"/>stalt er semlichs verwennth hatt, ist uns unwissend.
+<lb n="12"/>Derhalben konden wir ewer wyßhait kein andern bericht geben,
+<lb n="13"/>dan wie den vögten vormals auch angzeigt worden ist,
+<lb n="14"/>das die frouw uns, und wir ir nichts schuldig seind.
+<lb n="15"/>Derhalben wellen wir ewer wyßhait gebetten han, wellend
+<lb n="16"/>daß unser schreiben bester meinung aufnemmen,
+<lb n="17"/>dan euwer wyßhait lieb und dienst zubeweisen, seind wir
+<lb n="18"/>willig und geneigt. Datum zu <origPlace ref="stadtasg-places-38">sanct Gallen</origPlace>
+<lb n="19"/>uff den <origDate when="1547-08-04">4. augusti anno etc. 47</origDate>.
+<lb n="20"/>Uwer fürsicht wyßhait williger
+<lb n="21"/><persName ref="stadtasg-actors-1307" role="issuer">Jacob Zolligkoffer</persName> gesellschafter.
+<lb n="22"/>Den vesten fürsichtigen ersamen und wysen
+<lb n="23"/><orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rath der statt Yßne</orgName>
+<lb n="24"/>unsern günstigen herrn.
+<pb facs="StadtASG_Missive_661_1554.JPG" n="2"/>
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00127">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -75,12 +74,9 @@
             <p>
                 <lb n="1"/>Wir <persName ref="stadtasg-actors-49" role="issuer">Fridreich von gotes gnaden
                     romischer kunig</persName> zue allen czeiten merer des <orgName ref="stadtasg-actors-559">Reichs</orgName>, herczoge zue
-                    <placeName ref="stadtasg-places-91">Oesterrich</placeName>, <lb n="2"/>zue <placeName
-                    ref="stadtasg-places-94">Steir</placeName>, zue <placeName ref="stadtasg-places-97"
-                    >Kernden</placeName> und zue <placeName ref="stadtasg-places-98">Krain</placeName>,
+                    <placeName ref="stadtasg-places-91">Oesterrich</placeName>, <lb n="2"/>zue <placeName ref="stadtasg-places-94">Steir</placeName>, zue <placeName ref="stadtasg-places-97">Kernden</placeName> und zue <placeName ref="stadtasg-places-98">Krain</placeName>,
                 grauve zue <placeName ref="stadtasg-places-99">Tirol</placeName> etc. embieten unsern und des
-                <orgName ref="stadtasg-actors-559">Reichs</orgName> lieben getruen <orgName ref="stadtasg-actors-148" role="recipient">burger <lb
-                        break="no" n="3"/>meister und rate der stat zue Sandgallen</orgName> unser
+                <orgName ref="stadtasg-actors-559">Reichs</orgName> lieben getruen <orgName ref="stadtasg-actors-148" role="recipient">burger <lb break="no" n="3"/>meister und rate der stat zue Sandgallen</orgName> unser
                 gnad und alles gut. Lieben getruen, wir sennden euch hiemit <lb n="4"/>ein offen
                 brieff an die lantlüte zue <placeName ref="stadtasg-places-8">Appenczel</placeName> lutende,
                 als ir wol hoeren werdet. Begern wir von euch mit ernstem <lb n="5"/>flisse, das ir
@@ -90,9 +86,7 @@
                 und tag das gescheen <lb n="7"/>sey, mitsampt unserm versigeltem brieue bey disem
                 boten unverczogenleich sendet uns zue sunderm wolgefallen. <lb n="8"/>Geben zuo
                 <origPlace ref="stadtasg-places-15">Wienn</origPlace>
-                <origDate when="1440-06-23">nach Cristi gepuert vierczehenhundert iar und darnach in dem vierczigistem iare, am <lb n="9"/>donerstag vor sand Johans tag, unsers Reichs im ersten iare</origDate>. <lb n="10"/>Ad mandatum domini regis <lb n="11"
-                    /><persName ref="stadtasg-actors-1160">Conradus</persName> prepositus <placeName ref="stadtasg-places-15">Wyennensis</placeName> cancellarius. <pb
-                    facs="StadtASG_Missive_127_254.JPG" n="2"/>
+                <origDate when="1440-06-23">nach Cristi gepuert vierczehenhundert iar und darnach in dem vierczigistem iare, am <lb n="9"/>donerstag vor sand Johans tag, unsers Reichs im ersten iare</origDate>. <lb n="10"/>Ad mandatum domini regis <lb n="11"/><persName ref="stadtasg-actors-1160">Conradus</persName> prepositus <placeName ref="stadtasg-places-15">Wyennensis</placeName> cancellarius. <pb facs="StadtASG_Missive_127_254.JPG" n="2"/>
                 <lb n="12"/></p>
         </body>
     </text>

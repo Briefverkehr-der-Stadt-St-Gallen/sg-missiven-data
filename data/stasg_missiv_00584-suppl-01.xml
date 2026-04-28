@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00584-suppl-01">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -26,7 +25,7 @@
             <abstract>
                 <p>Philipp Melanchthon teilt im Namen von Johann Friedrich, Kurfürst zu Sachsen, den Bürgermeistern, Schultheissen und Räten zu Zürich, Bern, Basel, Schaffhausen, St. Gallen, Mühlhausen und Biel mit, dass Martin Luther nicht auf ihr Schreiben geantwortet habe, weil er krank sei. Er werde ihnen ausführlich antworten, sobald er gesund sei.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
  <term ref="stadtasg-keywords-407">Reformator</term>
@@ -55,48 +54,48 @@
             <change type="tagging" status="done">
                 <persName>Alina Mächler</persName>
                 <date>2026-02-16</date>
-                <note>Umbenannt in Beilage 584, davor Nr. 583.</note>
+                <note>Ehemals Nr. 583, neu Beilage zu Nr. 584. </note>
             </change>
         </revisionDesc>
 
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_583_1209.JPG" n="1" />
+            <pb facs="StadtASG_Missive_583_1209.JPG" n="1"/>
 <p>
-<lb n="1" />Gottes gnad durch unsern hern iesum christum. Edle eren
-<lb break="no" n="2" />veste erbare wise gunstig hern. Nachdem uwer eren
-<lb break="no" n="3" />vest und erbarkeit ein gmeine schrifft anher zuo dem
-<lb n="4" />wurdigenn hern doctor <persName ref="stadtasg-actors-1206">Martin Luthero</persName> gsannt, darinn ir
-<lb n="5" />die leer von den heilgen sacramenten, so inn uwern kilchen
-<lb n="6" />geprediget würt, erzelet unnd verkleret, were gedachter
-<lb n="7" />doctor <persName ref="stadtasg-actors-1206">Luther</persName> zeantwurtenn willig gewesen. Es hat sich aber
-<lb n="8" />also zuogetragen, das er durch schwachheit verhinderet und
-<lb n="9" />vom sein so schwach worden, das er dise großwichtige hendel
-<lb n="10" />nicht hat können fur nemen und nach noturfft uch antwurt
-<lb n="11" />zuschriben. Und wiewol der durchluchtigst hochgeborn furst
-<lb n="12" />und her her <persName ref="stadtasg-actors-1162">Johans Fridrich</persName>, churfurst zuo <placeName ref="stadtasg-places-399">Sachsen</placeName> etc. min gnedi
-<lb break="no" n="13" />gister her, nachdem sich etwas zuo besserung mit des hern
-<lb n="14" />doctor <persName ref="stadtasg-actors-1206">Luthers</persName> schwachheit gschickt, den wurdigen hern <persName ref="stadtasg-actors-1204">Martin
-<lb n="15" />Buotzeren</persName> zuo im gesant, so ist doch doctor <persName ref="stadtasg-actors-1206">Luther</persName> so starck nicht
-<lb n="16" />gewesen, das er zeschriben vermüglich were. Dises hat
-<lb n="17" />min gnedigisten her der churfurst zuo <placeName ref="stadtasg-places-399">Sachsen</placeName> mir bevolchen, uwer
-<lb n="18" />erenvest und erberkeit anzezeigen, und hoff so bald wir
-<lb n="19" />widerumb heim komen und doctor <persName ref="stadtasg-actors-1206">Luther</persName> starck und
-<lb n="20" />gsund würt, er werde uwer erenvest und erbarkeit nach der
-<lb n="21" />lenge antwurten, als denen er alles guotes gönnet und zum
-<lb n="22" />hochsten von gott begeret, das wir alle inn rechter christenlicher
-<lb n="23" />einigkeit gott und unsern hern iesum christum anrüffen,
-<lb n="24" />eeren und seligklich leben, welichs got unns gnedigklich
-<lb n="25" />verliche. Datum zuo <origPlace ref="stadtasg-places-406">Schmalckalden</origPlace> den <origDate when="1537-03-15">15 martii anno etc.
-<lb n="26" />XXXVII</origDate>.
-<lb n="27" />Uwer williger
-<lb n="28" /><persName ref="stadtasg-actors-1208" role="issuer">Philippus Melanchton</persName>.
-<lb n="29" />Den edlen ernvesten erbarn wisen burgermeistern schul
-<lb break="no" n="30" />theissen und rhäten der <orgName ref="stadtasg-actors-503" role="recipient">stett Zürich</orgName>, <orgName ref="stadtasg-actors-514" role="recipient">Bern</orgName>, <orgName ref="stadtasg-actors-530" role="recipient">Basel</orgName>, <orgName ref="stadtasg-actors-28" role="recipient">Schaff
-<lb break="no" n="31" />husen</orgName>, <orgName ref="stadtasg-actors-148" role="recipient">sannt Gallen</orgName>, <orgName ref="stadtasg-actors-1210" role="recipient">Mulhusen</orgName> und <orgName ref="stadtasg-actors-1209" role="recipient">Biel</orgName> minen
-<lb n="32" />gunstigen hern.
-<pb facs="StadtASG_Missive_583_1210.JPG" n="2" />
+<lb n="1"/>Gottes gnad durch unsern hern iesum christum. Edle eren
+<lb break="no" n="2"/>veste erbare wise gunstig hern. Nachdem uwer eren
+<lb break="no" n="3"/>vest und erbarkeit ein gmeine schrifft anher zuo dem
+<lb n="4"/>wurdigenn hern doctor <persName ref="stadtasg-actors-1206">Martin Luthero</persName> gsannt, darinn ir
+<lb n="5"/>die leer von den heilgen sacramenten, so inn uwern kilchen
+<lb n="6"/>geprediget würt, erzelet unnd verkleret, were gedachter
+<lb n="7"/>doctor <persName ref="stadtasg-actors-1206">Luther</persName> zeantwurtenn willig gewesen. Es hat sich aber
+<lb n="8"/>also zuogetragen, das er durch schwachheit verhinderet und
+<lb n="9"/>vom sein so schwach worden, das er dise großwichtige hendel
+<lb n="10"/>nicht hat können fur nemen und nach noturfft uch antwurt
+<lb n="11"/>zuschriben. Und wiewol der durchluchtigst hochgeborn furst
+<lb n="12"/>und her her <persName ref="stadtasg-actors-1162">Johans Fridrich</persName>, churfurst zuo <placeName ref="stadtasg-places-399">Sachsen</placeName> etc. min gnedi
+<lb break="no" n="13"/>gister her, nachdem sich etwas zuo besserung mit des hern
+<lb n="14"/>doctor <persName ref="stadtasg-actors-1206">Luthers</persName> schwachheit gschickt, den wurdigen hern <persName ref="stadtasg-actors-1204">Martin
+<lb n="15"/>Buotzeren</persName> zuo im gesant, so ist doch doctor <persName ref="stadtasg-actors-1206">Luther</persName> so starck nicht
+<lb n="16"/>gewesen, das er zeschriben vermüglich were. Dises hat
+<lb n="17"/>min gnedigisten her der churfurst zuo <placeName ref="stadtasg-places-399">Sachsen</placeName> mir bevolchen, uwer
+<lb n="18"/>erenvest und erberkeit anzezeigen, und hoff so bald wir
+<lb n="19"/>widerumb heim komen und doctor <persName ref="stadtasg-actors-1206">Luther</persName> starck und
+<lb n="20"/>gsund würt, er werde uwer erenvest und erbarkeit nach der
+<lb n="21"/>lenge antwurten, als denen er alles guotes gönnet und zum
+<lb n="22"/>hochsten von gott begeret, das wir alle inn rechter christenlicher
+<lb n="23"/>einigkeit gott und unsern hern iesum christum anrüffen,
+<lb n="24"/>eeren und seligklich leben, welichs got unns gnedigklich
+<lb n="25"/>verliche. Datum zuo <origPlace ref="stadtasg-places-406">Schmalckalden</origPlace> den <origDate when="1537-03-15">15 martii anno etc.
+<lb n="26"/>XXXVII</origDate>.
+<lb n="27"/>Uwer williger
+<lb n="28"/><persName ref="stadtasg-actors-1208" role="issuer">Philippus Melanchton</persName>.
+<lb n="29"/>Den edlen ernvesten erbarn wisen burgermeistern schul
+<lb break="no" n="30"/>theissen und rhäten der <orgName ref="stadtasg-actors-503" role="recipient">stett Zürich</orgName>, <orgName ref="stadtasg-actors-514" role="recipient">Bern</orgName>, <orgName ref="stadtasg-actors-530" role="recipient">Basel</orgName>, <orgName ref="stadtasg-actors-28" role="recipient">Schaff
+<lb break="no" n="31"/>husen</orgName>, <orgName ref="stadtasg-actors-148" role="recipient">sannt Gallen</orgName>, <orgName ref="stadtasg-actors-1210" role="recipient">Mulhusen</orgName> und <orgName ref="stadtasg-actors-1209" role="recipient">Biel</orgName> minen
+<lb n="32"/>gunstigen hern.
+<pb facs="StadtASG_Missive_583_1210.JPG" n="2"/>
 </p>
         </body>
     </text>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00012">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -75,31 +74,24 @@
                 sunder ainen, heisset <orgName ref="stadtasg-actors-537">Spiser</orgName><note>Es ist unklar, welche
                         <persName ref="stadtasg-actors-125" cert="medium">Person</persName> gemeint ist.</note>, <lb n="3"/>der laider tod ist. Nu belibt mir sin
                     efrow<note>Seine <persName ref="stadtasg-actors-126" cert="medium">nicht namentlich bekannte
-                        Ehefrau</persName>.</note> noch schuldig ettwevil geltz, das si mir nu <lb
-                    n="4"/>gern liesse volgen. Nu sind ettlich in iwer statt der iwren, die mir das
+                        Ehefrau</persName>.</note> noch schuldig ettwevil geltz, das si mir nu <lb n="4"/>gern liesse volgen. Nu sind ettlich in iwer statt der iwren, die mir das
                 gelt an der <lb n="5"/>selben frowen verhefft hand, die ich och geartznot han, und
                 mainent, ich hab si noch nit <lb n="6"/>gevert etc., das mich ettwas unbillich an sy
                 dunkt, won ich ynan das aller best getan <lb n="7"/>han, als dieser bott, zoeger dis
                 briefs, aigenlich das gesagen kann. Gnädigen herren, bitt <lb n="8"/>ich iwer
-                früntlichait yemer durch minen dienst willen und haissent und gebietend <lb n="9"
-                />allen denen, die mir das da gehefft hand, das sy mir das laussind volgen und
+                früntlichait yemer durch minen dienst willen und haissent und gebietend <lb n="9"/>allen denen, die mir das da gehefft hand, das sy mir das laussind volgen und
                 werden, <lb n="10"/>habind sy denn üt mit mir oder an mich ze erforderend und ze
                 sprechen, wil ich <lb n="11"/>ynen ains rechten gehorsam sin, won woeltend si mich
                 daran sumen und irren, <lb n="12"/>so moecht ich nit laussen, ich muest mit
                 gerichten darzuo griffen. Und tuond darinn, als <lb n="13"/>ich ain sunder guot
                 trüwen zuo üch hab, kan ich das hernach umb üch ald umb die <lb n="14"/>iweren
-                beschulden und verdienen, wil ich willig sin. Geben an <origDate when="1422-09-10"
-                    >donstag nach unser <lb n="15"/>frowen tag nativitatis ze herpst anno
-                    XXIIo</origDate>. <lb n="16"/>Maister <persName ref="stadtasg-actors-15" role="issuer"
-                    >Dietrich Walke</persName> maister der <lb n="17"/>siben künst und in der
+                beschulden und verdienen, wil ich willig sin. Geben an <origDate when="1422-09-10">donstag nach unser <lb n="15"/>frowen tag nativitatis ze herpst anno
+                    XXIIo</origDate>. <lb n="16"/>Maister <persName ref="stadtasg-actors-15" role="issuer">Dietrich Walke</persName> maister der <lb n="17"/>siben künst und in der
                 artzny, <lb n="18"/>artzat mins gnaedigen herren <lb n="19"/>von
-                    <placeName ref="stadtasg-places-91">Oesterrich</placeName><note>Es könnte gemeint sein: <persName ref="stadtasg-actors-127"
-                        >Albrecht V.</persName>, <persName ref="stadtasg-actors-64">Albrecht VI.</persName>,
-                        <persName ref="stadtasg-actors-128">Ernst</persName>, <persName ref="stadtasg-actors-49"
-                        >Friedrich III.</persName>, oder <persName ref="stadtasg-actors-129">Friedrich
+                    <placeName ref="stadtasg-places-91">Oesterrich</placeName><note>Es könnte gemeint sein: <persName ref="stadtasg-actors-127">Albrecht V.</persName>, <persName ref="stadtasg-actors-64">Albrecht VI.</persName>,
+                        <persName ref="stadtasg-actors-128">Ernst</persName>, <persName ref="stadtasg-actors-49">Friedrich III.</persName>, oder <persName ref="stadtasg-actors-129">Friedrich
                         IV.</persName>.</note>. <pb facs="StadtASG_Missive_12_24.JPG" n="2"/>
-                <lb n="20"/>Den ersamen wysen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und <lb
-                        n="21"/>dem rate ze sant Gallen</orgName> minen lieben herren. </p>
+                <lb n="20"/>Den ersamen wysen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und <lb n="21"/>dem rate ze sant Gallen</orgName> minen lieben herren. </p>
         </body>
     </text>
 </TEI>

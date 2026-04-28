@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00003">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -75,10 +74,7 @@
             <p>
                 <lb n="1"/>Mainen fruntlichen willigen dienst zu allen ziten voran erwirdigen
                 besundern <lb n="2"/>lieben herren. Ich thun euch wissen, das ich nahst zu
-                    <placeName ref="stadtasg-places-7">Constantz</placeName> in der stat mit <lb n="3"
-                />euwern mitburger und ratsgeseln redet, und och iunkherr <persName ref="stadtasg-actors-111"
-                    >Prunberger</persName> und <lb n="4"/>maister <persName ref="stadtasg-actors-112"
-                    >Hans</persName> der alt schulmaister zu <placeName ref="stadtasg-places-7">Constantz</placeName> von meinen wegen von euwer
+                    <placeName ref="stadtasg-places-7">Constantz</placeName> in der stat mit <lb n="3"/>euwern mitburger und ratsgeseln redet, und och iunkherr <persName ref="stadtasg-actors-111">Prunberger</persName> und <lb n="4"/>maister <persName ref="stadtasg-actors-112">Hans</persName> der alt schulmaister zu <placeName ref="stadtasg-places-7">Constantz</placeName> von meinen wegen von euwer
                     <lb n="5"/>schule wegen zu <placeName ref="stadtasg-places-38">sand Gallen</placeName>,
                 der ich truwet und hofte, wol vor zu sein, <lb n="6"/>als villeichte die obgenanten
                 euwer mitburger euwer erwirdikait wol von <lb n="7"/>mir das ertzelt haben. Bitt ich
@@ -87,15 +83,12 @@
                 richten, wann ich die schule nach <lb n="10"/>euwerm willen redlichen halten und
                 ußrichten wolte und och euwer getruwer <lb n="11"/>diner zu sein begerte, dar umb so
                 thund hir inne, als ich euwer erbern <lb n="12"/>wishait wol getrauwe. Das begere
-                ich allezit umb euch zu verdinen. <lb n="13"/>Geben zu <origPlace ref="stadtasg-places-7"
-                    >Constantz</origPlace> am <origDate when="1418-10-15">nahsten samstage vor Galli
-                    anno XVIIIo</origDate>. <lb n="14"/><persName ref="stadtasg-actors-5" role="issuer"
-                    >Johannes Thiliger</persName>
+                ich allezit umb euch zu verdinen. <lb n="13"/>Geben zu <origPlace ref="stadtasg-places-7">Constantz</origPlace> am <origDate when="1418-10-15">nahsten samstage vor Galli
+                    anno XVIIIo</origDate>. <lb n="14"/><persName ref="stadtasg-actors-5" role="issuer">Johannes Thiliger</persName>
                 <lb n="15"/>in artibus baccalareus. </p>
             <pb facs="StadtASG_Missive_3_6.JPG" n="2"/>
             <p>
-                <lb n="16"/>Den erbern und wisen <orgName ref="stadtasg-actors-148" role="recipient"
-                    >burgermaister und <lb n="17"/>rath der stat zu sand Gallen</orgName> mainen
+                <lb n="16"/>Den erbern und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und <lb n="17"/>rath der stat zu sand Gallen</orgName> mainen
                 lieben herren. </p>
         </body>
     </text>

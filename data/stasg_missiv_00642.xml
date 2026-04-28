@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00642">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 642</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00613.xml">613</ref>. </p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_642_1485/1486</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Ambrosius Falk bittet den St. Galler Rat erneut um ein Winterkleid, bestehend aus einer Jacke und wollenen Hosen, damit er seinen städtischen Dienst auch im Winter umso besser erfüllen könne, sofern ihn Gott in Gesundheit erhalte.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+              
+<term ref="stadtasg-keywords-243">Dienst</term>
+  <term ref="stadtasg-keywords-67">Bekleidung</term>
+<term ref="stadtasg-keywords-244">Amt</term>
+<term ref="stadtasg-keywords-398">Diener</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1199">Ambrosius Falk</persName>                    <date>1545</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Arman Weidenmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-03-10</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_642_1485.JPG" n="1"/>
+<p>
+<lb n="1"/>Fromm fürsichtig ersamme wysen gnedigenn lieben herrenn<note>Gemeint sind <orgName ref="stadtasg-actors-148" role="recipient">Bürgermeister und Rat zu St. Gallen</orgName>.</note>.
+<lb n="2"/>Es ist abermals min früntlich unnd flyßig pitt unnd
+<lb n="3"/>beger an üwer ersamm wyßhait umb ain wintter klaid,
+<lb n="4"/>namlich umb ain schoppen und ain wullis par hosenn,
+<lb n="5"/>da mit ich moeg üweren miner gnedigen herren ampt
+<lb n="6"/>und dienst dester baß versehen und dem winter moege
+<lb n="7"/>ainen widerstand thuon, so feer mich gott xund lat.
+<lb n="8"/>Hie mit ich üwer gnad und ersamm wysshait dem all
+<lb break="no" n="9"/>maechtigen ewigen gott befolhen hab, die gott in
+<lb n="10"/>glückseligem stand unnd wesen erhalte unnd regieren
+<lb n="11"/>lasse. Amen.
+<lb n="12"/><persName ref="stadtasg-actors-1199" role="issuer">Ambrosy Falck</persName> etc.
+<lb n="13"/>üwer gnaden armer diener etc.
+<lb n="14"/><origDate when="1545">1545</origDate>.
+<pb facs="StadtASG_Missive_642_1486.JPG" n="2"/>
+</p>
+        </body>
+    </text>
+</TEI>

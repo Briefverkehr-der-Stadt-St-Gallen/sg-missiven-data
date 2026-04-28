@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00180">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -92,8 +91,7 @@
                 so im gott verlihen hab, uncz er sy darczuo bringe. <lb n="10"/>Das und soelich
                 ander swaer, hertt loeff der stett botten zuo <placeName ref="stadtasg-places-21">Nuerenberg</placeName>
                 besinnet und dem, ob ieman dhain <lb n="11"/>statt vom <orgName ref="stadtasg-actors-559">Reich</orgName> belegern und davon
-                trengen woelte, in ettlicher maß zum aim tail zuo understan, fur <lb break="no"
-                    n="12"/>genommen, bedacht und ainen begriff als uff ain gevallen und hinder sich
+                trengen woelte, in ettlicher maß zum aim tail zuo understan, fur <lb break="no" n="12"/>genommen, bedacht und ainen begriff als uff ain gevallen und hinder sich
                 bringen ir frund begriffen haben, <lb n="13"/>als ir das an diser ingeschlossen
                 abgeschrifft, die wir üch hiemit senden, wol vernemmen werden. Und <lb n="14"/>won
                 ir nu in dem begriff kürczi der zitt, darumb zuo antwurten, wol verstand, wollten
@@ -102,25 +100,20 @@
                 wisclich zuo betrachtenn und üch der ding in üwern raetten bedaechtenclichen zuo
                 underreden <lb n="17"/>und zuo besprechen, denn ir wol verstand, nach gestalt den
                 loeffen uns das allen ein notturfft zuo wesen, <lb n="18"/>und denne darumb üwer
-                erber visen rattesbotten der sachen üwer mainung aigenlich und wol under <lb
-                    break="no" n="19"/>richten zuo uns und ander stett botten, die wir dann der ding
+                erber visen rattesbotten der sachen üwer mainung aigenlich und wol under <lb break="no" n="19"/>richten zuo uns und ander stett botten, die wir dann der ding
                 halb och zuo uns beruefft haben, her in <lb n="20"/>unser statt
                 <placeName ref="stadtasg-places-7">Costencz</placeName> uff <date when="1444-10-02">fritag naechst kuenfftig</date> zuo
                 nacht hie zuo sinde, senden und der bevelhen wellen, <lb n="21"/>mornendes am
                     <date when="1444-10-03">sambstag</date> fruo zuo den sachen zuo siczen, die zuo betrachten, fur
                 zenemen und zuo be <lb break="no" n="22"/>sließen nach gemainß lands nucz, frommen
                 und eren, och indem füro zuo antwurten, als sich denn <lb n="23"/>gebüret und üch
-                und uns allen nit zuo verwißen komen müge. Und ir wellent diß im besten <lb n="24"
-                />von uns vermercken und dar inne tuon, als wir üch des und alles guoten insunder wol
+                und uns allen nit zuo verwißen komen müge. Und ir wellent diß im besten <lb n="24"/>von uns vermercken und dar inne tuon, als wir üch des und alles guoten insunder wol
                 ge <lb break="no" n="25"/>trüwen. Dann in welchen sachen wir wissunt, üwern und
                 gemains lands nucz und fromen <lb n="26"/>furczenemen, dar inn woelten wir allczit
                 willig und unverdrossen funden werden. Geben an <origDate when="1444-09-27">sonnen
                         <lb break="no" n="27"/>tag vor sant Michels tag anno etc.
-                    XLIIIIto</origDate>. <lb n="28"/><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister und <lb
-                        n="29"/>raute zuo Costencz</orgName>. <pb
-                    facs="StadtASG_Missive_180_362.JPG" n="2"/>
-                <lb n="30"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">bur <gap /> <lb n="31"
-                    />zuo sant Gallen</orgName> unsern lieben und g <gap /></p>
+                    XLIIIIto</origDate>. <lb n="28"/><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister und <lb n="29"/>raute zuo Costencz</orgName>. <pb facs="StadtASG_Missive_180_362.JPG" n="2"/>
+                <lb n="30"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">bur <gap/> <lb n="31"/>zuo sant Gallen</orgName> unsern lieben und g <gap/></p>
         </body>
     </text>
 </TEI>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00636-suppl-01">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Der Herr von Blancfosse informiert über Mitteilungen des französischen Königs an die Eidgenossen betreffend die aktuelle Situation verschiedenster Kriegsschauplätze, Heere und Schlachten sowie Friedensverhandlungen mit dem Kaiser.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
  <term ref="stadtasg-keywords-487">Bericht</term>
@@ -64,11 +63,11 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_636_1459.JPG" n="1" />
+            <pb facs="StadtASG_Missive_636_1459.JPG" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_636_1460.JPG" n="2" />
-<pb facs="StadtASG_Missive_636_1461.JPG" n="3" />
-<pb facs="StadtASG_Missive_636_1462.JPG" n="4" />
+<pb facs="StadtASG_Missive_636_1460.JPG" n="2"/>
+<pb facs="StadtASG_Missive_636_1461.JPG" n="3"/>
+<pb facs="StadtASG_Missive_636_1462.JPG" n="4"/>
 </p>
         </body>
     </text>

@@ -18,12 +18,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2026-04-20 19:32:06 aus </p>
+        <p>Datenbankexport vom 2026-04-28 12:04:08 aus </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2026-04-20T19:32:06+02:00">teiHeader was automatically produced from the database 2026-04-20T19:32:06+02:00</change>
+      <change when="2026-04-28T12:04:08+02:00">teiHeader was automatically produced from the database 2026-04-28T12:04:08+02:00</change>
     </revisionDesc>
   </teiHeader>
   <standOff>
@@ -1871,6 +1871,9 @@
         <persName type="alternative" xml:lang="de">Adelberg Meyger (1540-03-20)</persName>
         <persName type="alternative" xml:lang="de">Adelberg Meyer</persName>
         <birth when="1540-03-20"/>
+        <note type="description" xml:lang="de">
+          <p>Bürgermeister in Basel (1536)</p>
+        </note>
         <listBibl>
           <bibl>
             <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per011030"/>
@@ -8316,6 +8319,9 @@
         <persName type="alternative" xml:lang="de">Studer (1540-03-25)</persName>
         <persName type="alternative" xml:lang="de">Franciscus Studer</persName>
         <birth when="1540-03-25"/>
+        <note type="description" xml:lang="de">
+          <p>Lebensdaten: 1486-1562, Hauptmann in Frankreich, st. gallischer Rat und fürstäbtischer Hofmeister, Vater von <ref target="/actors/1342">Joseph Studer</ref></p>
+        </note>
         <listBibl>
           <bibl>
             <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per010916"/>
@@ -15855,7 +15861,7 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Paul_III."/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Pope Paul III"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Pope%20Paul%20III"/>
           </bibl>
           <bibl>
             <ptr type="metagrid" target="https://api.metagrid.ch/concordance/fyRJqo0Bt3XJfvQ24cih.json"/>
@@ -16114,7 +16120,7 @@
             <ptr type="viaf" target="https://viaf.org/viaf/51698517"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Ferdinand I, Holy Roman Emperor"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Ferdinand%20I,%20Holy%20Roman%20Emperor"/>
           </bibl>
           <bibl>
             <ptr type="metagrid" target="https://api.metagrid.ch/concordance/iqIVYoEBmpMPAPpUuvQY.json"/>
@@ -16352,7 +16358,7 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Heinrich_Bullinger"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Heinrich Bullinger"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Heinrich%20Bullinger"/>
           </bibl>
         </listBibl>
       </person>
@@ -16406,7 +16412,7 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Joachim_Vadian"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Joachim Vadian"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Joachim%20Vadian"/>
           </bibl>
         </listBibl>
       </person>
@@ -16472,7 +16478,7 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Martin_Bucer"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Martin Bucer"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Martin%20Bucer"/>
           </bibl>
         </listBibl>
       </person>
@@ -16529,7 +16535,7 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Wolfgang_Capito"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Wolfgang Capito"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Wolfgang%20Capito"/>
           </bibl>
         </listBibl>
       </person>
@@ -16594,7 +16600,7 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Martin_Luther"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Martin Luther"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Martin%20Luther"/>
           </bibl>
         </listBibl>
       </person>
@@ -16680,7 +16686,7 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Philipp_Melanchthon"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Philip Melanchthon"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Philip%20Melanchthon"/>
           </bibl>
         </listBibl>
       </person>
@@ -16819,7 +16825,7 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Huldrych_Zwingli"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Huldrych Zwingli"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Huldrych%20Zwingli"/>
           </bibl>
         </listBibl>
       </person>
@@ -17030,7 +17036,7 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Karl_V._(HRR)"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Charles V, Holy Roman Emperor"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Charles%20V,%20Holy%20Roman%20Emperor"/>
           </bibl>
           <bibl>
             <ptr type="metagrid" target="https://api.metagrid.ch/concordance/ON75GnYBUPOEfqBYgVUy.json"/>
@@ -17057,7 +17063,7 @@
             <ptr type="kbga" target="https://kbga.karl-barth.ch/actors/2056"/>
           </bibl>
           <bibl>
-            <ptr type="ethz" target="https://eth.swisscovery.ch/discovery/search?vid=41SLSP_ETH:ETH&amp;tab=discovery_network&amp;query=any,contains,[wd/person]118560093"/>
+            <ptr type="ethz" target="https://eth.swisscovery.ch/discovery/search?vid=41SLSP_ETH:ETH&amp;tab=discovery_network&amp;query=any,contains,%5Bwd/person%5D118560093"/>
           </bibl>
           <bibl>
             <ptr type="gotthelf" target="https://gotthelf-digital.ch/edition/id=n_d2e13837"/>
@@ -17123,7 +17129,7 @@
         <persName type="sort" xml:lang="de">wernz, konrad</persName>
         <birth when="1542-07-24"/>
         <note type="description" xml:lang="de">
-          <p>Bürger in Lindau, Wohn/Herkunftsort: Oberreitnau</p>
+          <p>Bürger von Lindau, Wohn/Herkunftsort: Oberreitnau</p>
         </note>
       </person>
       <person xml:id="stadtasg-actors-1232">
@@ -17419,7 +17425,7 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Wilhelm_(Jülich-Kleve-Berg)"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/William, Duke of Jülich-Cleves-Berg"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/William,%20Duke%20of%20Jülich-Cleves-Berg"/>
           </bibl>
         </listBibl>
       </person>
@@ -17429,7 +17435,7 @@
         <persName type="sort" xml:lang="de">ziegler, matthias</persName>
         <birth when="1544-04-22"/>
         <note type="description" xml:lang="de">
-          <p>Bürger in St. Gallen, Fuhrmann</p>
+          <p>Bürger von St. Gallen, Fuhrmann</p>
         </note>
       </person>
       <person xml:id="stadtasg-actors-1258">
@@ -17438,7 +17444,7 @@
         <persName type="sort" xml:lang="de">gall, paul</persName>
         <birth when="1544-11-28"/>
         <note type="description" xml:lang="de">
-          <p>Bürger in Nördlingen (1544), Beruf: Fassbinder</p>
+          <p>Bürger von Nördlingen (1544), Beruf: Fassbinder</p>
         </note>
       </person>
       <person xml:id="stadtasg-actors-1259">
@@ -17448,7 +17454,7 @@
         <persName type="alternative" xml:lang="de">Huchss</persName>
         <birth when="1544-11-28"/>
         <note type="description" xml:lang="de">
-          <p>Bürger in St. Gallen (1544)</p>
+          <p>Bürger von St. Gallen (1544)</p>
         </note>
       </person>
       <person xml:id="stadtasg-actors-1260">
@@ -17746,7 +17752,7 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Diethelm_Blarer_von_Wartensee"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Diethelm Blarer von Wartensee"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Diethelm%20Blarer%20von%20Wartensee"/>
           </bibl>
           <bibl>
             <ptr type="metagrid" target="https://api.metagrid.ch/concordance/TSkKG3YBlFrJZhV3Q03Z.json"/>
@@ -18040,7 +18046,7 @@
         <persName type="sort" xml:lang="de">gruebel, jakob</persName>
         <birth when="1547-03-16"/>
         <note type="description" xml:lang="de">
-          <p>Bürger in St. Gallen (1547), Anwalt von <ref target="/actors/1295">Erasmus Schuhmacher</ref></p>
+          <p>Bürger von St. Gallen (1547), Anwalt von <ref target="/actors/1295">Erasmus Schuhmacher</ref></p>
         </note>
       </person>
       <person xml:id="stadtasg-actors-1295">
@@ -18069,7 +18075,7 @@
         <persName type="alternative" xml:lang="de">Oberreüten</persName>
         <birth when="1547-03-16"/>
         <note type="description" xml:lang="de">
-          <p>Bürger in Lindau (1547), Meister</p>
+          <p>Bürger von Lindau (1547), Meister</p>
         </note>
       </person>
       <person xml:id="stadtasg-actors-1298">
@@ -18202,7 +18208,7 @@
         <persName type="alternative" xml:lang="de">Zollenkoffer</persName>
         <birth when="1547-08-02"/>
         <note type="description" xml:lang="de">
-          <p>verstorben (1547), verheiratet und Kinder, Bürger in Isny</p>
+          <p>verstorben (1547), verheiratet und Kinder, Bürger von Isny</p>
         </note>
       </person>
       <person xml:id="stadtasg-actors-1309">
@@ -18220,7 +18226,7 @@
         <persName type="sort" xml:lang="de">bufler, kaspar</persName>
         <birth when="1547-08-02"/>
         <note type="description" xml:lang="de">
-          <p>Bürger in Isny (1547)</p>
+          <p>Bürger von Isny (1547)</p>
         </note>
       </person>
       <person xml:id="stadtasg-actors-1311">
@@ -18239,7 +18245,7 @@
         <persName type="alternative" xml:lang="de">Caspar</persName>
         <birth when="1547-08-14"/>
         <note type="description" xml:lang="de">
-          <p>Bürger in Isny (1547)</p>
+          <p>Bürger von Isny (1547)</p>
         </note>
       </person>
       <person xml:id="stadtasg-actors-1313">
@@ -18375,7 +18381,7 @@
             <ptr type="rag" target="https://resource.database.rag-online.org/ngYO1X173Xw9inuosZRn2WkT"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Christoph von Stadion"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Christoph%20von%20Stadion"/>
           </bibl>
           <bibl>
             <ptr type="metagrid" target="https://api.metagrid.ch/concordance/TOD6GnYBUPOEfqBYfuIO.json"/>
@@ -18580,7 +18586,7 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Wilhelm_IV._(Bayern)"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/William IV, Duke of Bavaria"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/William%20IV,%20Duke%20of%20Bavaria"/>
           </bibl>
           <bibl>
             <ptr type="metagrid" target="https://api.metagrid.ch/concordance/H1r5GnYBBhcBnYQeeaAP.json"/>
@@ -18631,7 +18637,7 @@
             <ptr type="rag" target="https://resource.database.rag-online.org/ngYO3P779Y852nuQsXRn9Wkr"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Louis X, Duke of Bavaria"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Louis%20X,%20Duke%20of%20Bavaria"/>
           </bibl>
           <bibl>
             <ptr type="metagrid" target="https://api.metagrid.ch/concordance/BVr5GnYBBhcBnYQepeBS.json"/>
@@ -18773,7 +18779,7 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Weigand_von_Redwitz"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Weigand of Redwitz"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Weigand%20of%20Redwitz"/>
           </bibl>
           <bibl>
             <ptr type="metagrid" target="https://api.metagrid.ch/concordance/Xio3mpcBVyzkP0aaSCjO.json"/>
@@ -18824,7 +18830,7 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Georg_(Brandenburg-Ansbach-Kulmbach)"/>
           </bibl>
           <bibl>
-            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/George, Margrave of Brandenburg-Ansbach"/>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/George,%20Margrave%20of%20Brandenburg-Ansbach"/>
           </bibl>
           <bibl>
             <ptr type="metagrid" target="https://api.metagrid.ch/concordance/-yo2mpcBVyzkP0aa9Ca7.json"/>
@@ -18862,6 +18868,226 @@
             <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Georg_III._(Leuchtenberg)"/>
           </bibl>
         </listBibl>
+      </person>
+      <person xml:id="stadtasg-actors-1341">
+        <persName type="full" xml:lang="de">Herster, Wolfgang (1548–)</persName>
+        <persName type="main" xml:lang="de">Herster, Wolfgang</persName>
+        <persName type="sort" xml:lang="de">herster, wolfgang</persName>
+        <persName type="alternative" xml:lang="de">Härster</persName>
+        <birth when="1548-08-18"/>
+        <note type="description" xml:lang="de">
+          <p>Wohn/Herkunftsort: Zug, Landvogt in Baden (1548)</p>
+        </note>
+        <listBibl>
+          <bibl>
+            <ptr type="gnd" target="https://d-nb.info/gnd/1089407106"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q96321605"/>
+          </bibl>
+          <bibl>
+            <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/026642"/>
+          </bibl>
+          <bibl>
+            <ptr type="metagrid" target="https://api.metagrid.ch/concordance/uH0qG3YBlFrJZhV3IzHD.json"/>
+          </bibl>
+          <bibl>
+            <ptr type="bullinger" target="https://www.bullinger-digital.ch/persons/P7541"/>
+          </bibl>
+        </listBibl>
+      </person>
+      <person xml:id="stadtasg-actors-1342">
+        <persName type="full" xml:lang="de">Studer, Joseph (1548–)</persName>
+        <persName type="main" xml:lang="de">Studer, Joseph</persName>
+        <persName type="sort" xml:lang="de">studer, joseph</persName>
+        <birth when="1548-08-18"/>
+        <note type="description" xml:lang="de">
+          <p>Lebensdaten: 1524-1572, Sohn von <ref target="/actors/488">Franziskus Studer</ref>; Siehe Schweizer Archiv für Heraldik. Jahrbuch. Band 94 (1980), S. 49-58</p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1343">
+        <persName type="full" xml:lang="de">Schenk, Jörg (1548–)</persName>
+        <persName type="main" xml:lang="de">Schenk, Jörg</persName>
+        <persName type="sort" xml:lang="de">schenk, joerg</persName>
+        <persName type="alternative" xml:lang="de">Schännk, Jergen</persName>
+        <birth when="1548-08-18"/>
+        <note type="description" xml:lang="de">
+          <p>Bürger von St. Gallen (1548)</p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1344">
+        <persName type="full" xml:lang="de">Payer, Diethelm von (1548–)</persName>
+        <persName type="main" xml:lang="de">Payer, Diethelm von</persName>
+        <persName type="sort" xml:lang="de">payer, diethelm von</persName>
+        <birth when="1548-09-01"/>
+        <note type="description" xml:lang="de">
+          <p>verwitwet (1548)</p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1345">
+        <persName type="full" xml:lang="de">Ringler, Balthasar (1549–)</persName>
+        <persName type="main" xml:lang="de">Ringler, Balthasar</persName>
+        <persName type="sort" xml:lang="de">ringler, balthasar</persName>
+        <birth when="1549-02-02"/>
+        <note type="description" xml:lang="de">
+          <p>Ehemann von <ref target="/actors/1346">Margaretha Fryg</ref> (1548) und ehemaliger Ehemann von <ref target="/actors/1347">Anna Högger</ref>, Wohn/Herkunftsort: St. Gallen, Schneider</p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1346">
+        <persName type="full" xml:lang="de">Fryg, Margaretha (1549–)</persName>
+        <persName type="main" xml:lang="de">Fryg, Margaretha</persName>
+        <persName type="sort" xml:lang="de">fryg, margaretha</persName>
+        <birth when="1549-02-02"/>
+        <note type="description" xml:lang="de">
+          <p>Wohn/Herkunftsort: Stammheim, Ehefrau von <ref target="/actors/1345">Balthasar Ringler</ref></p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1347">
+        <persName type="full" xml:lang="de">Högger, Anna (1549–)</persName>
+        <persName type="main" xml:lang="de">Högger, Anna</persName>
+        <persName type="sort" xml:lang="de">hoegger, anna</persName>
+        <birth when="1549-02-02"/>
+        <note type="description" xml:lang="de">
+          <p>Wohn/Herkunftsort: Ilanz, ehemalige Ehefrau von <ref target="/actors/1345">Balthasar Ringler</ref></p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1348">
+        <persName type="full" xml:lang="de">Bodmer, Kaspar (1549–)</persName>
+        <persName type="main" xml:lang="de">Bodmer, Kaspar</persName>
+        <persName type="sort" xml:lang="de">bodmer, kaspar</persName>
+        <birth when="1549-02-26"/>
+        <note type="description" xml:lang="de">
+          <p>Landschreiber in Baden (1549)</p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1349">
+        <persName type="full" xml:lang="de">Nichts, Ulrich (1549–)</persName>
+        <persName type="main" xml:lang="de">Nichts, Ulrich</persName>
+        <persName type="sort" xml:lang="de">nichts, ulrich</persName>
+        <birth when="1549-02-26"/>
+        <note type="description" xml:lang="de">
+          <p>Ratsherr in Fribourg</p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1350">
+        <persName type="full" xml:lang="de">Graf, Konrad (1549–)</persName>
+        <persName type="main" xml:lang="de">Graf, Konrad</persName>
+        <persName type="sort" xml:lang="de">graf, konrad</persName>
+        <birth when="1549-02-26"/>
+        <note type="description" xml:lang="de">
+          <p>Ratsherr in Solothurn</p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1351">
+        <persName type="full" xml:lang="de">Bircher, Hans (1549–)</persName>
+        <persName type="main" xml:lang="de">Bircher, Hans</persName>
+        <persName type="sort" xml:lang="de">bircher, hans</persName>
+        <birth when="1549-02-26"/>
+        <note type="description" xml:lang="de">
+          <p>Schultheiss in Luzern (1549)</p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1352">
+        <persName type="full" xml:lang="de">Apro, Jakob (1549–)</persName>
+        <persName type="main" xml:lang="de">Apro, Jakob</persName>
+        <persName type="sort" xml:lang="de">apro, jakob</persName>
+        <persName type="alternative" xml:lang="de">Aapro</persName>
+        <birth when="1549-02-26"/>
+        <note type="description" xml:lang="de">
+          <p>Ratsherr in Uri (1549)</p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1353">
+        <persName type="full" xml:lang="de">Muntprat, Johann (1549–)</persName>
+        <persName type="main" xml:lang="de">Muntprat, Johann</persName>
+        <persName type="sort" xml:lang="de">muntprat, johann</persName>
+        <persName type="alternative" xml:lang="de">Hans</persName>
+        <birth when="1549-03-06"/>
+        <note type="description" xml:lang="de">
+          <p>Wohn/Herkunftsort: Konstanz, königlicher Verwalter der Konstanzer Hauptmannschaft (1549)</p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1354">
+        <persName type="full" xml:lang="de">Syber, Hans (1549–)</persName>
+        <persName type="main" xml:lang="de">Syber, Hans</persName>
+        <persName type="sort" xml:lang="de">syber, hans</persName>
+        <birth when="1549-03-06"/>
+        <note type="description" xml:lang="de">
+          <p>Wohn/Herkunftsort: Schaffhausen, Anwalt von <ref target="/actors/1355">Alexander Payer</ref></p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1355">
+        <persName type="full" xml:lang="de">Payer, Alexander (1549–)</persName>
+        <persName type="main" xml:lang="de">Payer, Alexander</persName>
+        <persName type="sort" xml:lang="de">payer, alexander</persName>
+        <birth when="1549-03-06"/>
+        <note type="description" xml:lang="de">
+          <p>Ehemann von <ref target="/actors/1356">Frau Schlappritzi</ref></p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1356">
+        <persName type="full" xml:lang="de">Schlappritzi, NN (1549–)</persName>
+        <persName type="main" xml:lang="de">Schlappritzi, NN</persName>
+        <persName type="sort" xml:lang="de">schlappritzi, nn</persName>
+        <birth when="1549-03-06"/>
+        <note type="description" xml:lang="de">
+          <p>weiblich, Ehefrau von <ref target="/actors/1355">Payer, Alexander</ref></p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1357">
+        <persName type="full" xml:lang="de">Moser, Elsbeth (1549–)</persName>
+        <persName type="main" xml:lang="de">Moser, Elsbeth</persName>
+        <persName type="sort" xml:lang="de">moser, elsbeth</persName>
+        <birth when="1549-03-06"/>
+        <note type="description" xml:lang="de">
+          <p>Witwe von <ref target="/actors/1358">Hermann Schirmer</ref></p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1358">
+        <persName type="full" xml:lang="de">Schirmer, Hermann (1549–)</persName>
+        <persName type="main" xml:lang="de">Schirmer, Hermann</persName>
+        <persName type="sort" xml:lang="de">schirmer, hermann</persName>
+        <birth when="1549-03-06"/>
+        <note type="description" xml:lang="de">
+          <p>Ehemann von <ref target="/actors/1357">Elsbeth Moser</ref>, verstorben (1549)</p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1359">
+        <persName type="full" xml:lang="de">Schirmer, Hans (1549–)</persName>
+        <persName type="main" xml:lang="de">Schirmer, Hans</persName>
+        <persName type="sort" xml:lang="de">schirmer, hans</persName>
+        <birth when="1549-03-06"/>
+        <note type="description" xml:lang="de">
+          <p>Bürger in St.Gallen (1549), Verwandter von <ref target="/actors/1358">Hermann Schirmer</ref> und <ref target="/actors/1360">Martin Schirmer</ref></p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1360">
+        <persName type="full" xml:lang="de">Schirmer, Martin (1549–)</persName>
+        <persName type="main" xml:lang="de">Schirmer, Martin</persName>
+        <persName type="sort" xml:lang="de">schirmer, martin</persName>
+        <birth when="1549-03-06"/>
+        <note type="description" xml:lang="de">
+          <p>Bürger in St.Gallen (1549), Verwandter von <ref target="/actors/1358">Hermann Schirmer</ref> und <ref target="/actors/1359">Hans Schirmer</ref></p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1361">
+        <persName type="full" xml:lang="de">Brendlin, Joachim (1549–)</persName>
+        <persName type="main" xml:lang="de">Brendlin, Joachim</persName>
+        <persName type="sort" xml:lang="de">brendlin, joachim</persName>
+        <persName type="alternative" xml:lang="de">Brendling</persName>
+        <birth when="1549-03-06"/>
+        <note type="description" xml:lang="de">
+          <p>Ratsfreund in Konstanz (1549)</p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1362">
+        <persName type="full" xml:lang="de">Ferber, Othmar (1549–)</persName>
+        <persName type="main" xml:lang="de">Ferber, Othmar</persName>
+        <persName type="sort" xml:lang="de">ferber, othmar</persName>
+        <birth when="1549-03-06"/>
+        <note type="description" xml:lang="de">
+          <p>verstorben (1549)</p>
+        </note>
       </person>
     </listPerson>
     <listOrg>
@@ -20550,11 +20776,11 @@
         </event>
       </org>
       <org xml:id="stadtasg-actors-1187">
-        <orgName type="full" xml:lang="de">Räte zu Augsburg (1539–)</orgName>
-        <orgName type="main" xml:lang="de">Räte zu Augsburg</orgName>
-        <orgName type="sort" xml:lang="de">raete zu augsburg</orgName>
+        <orgName type="full" xml:lang="de">Bürgermeister und Rat zu Augsburg (1534–)</orgName>
+        <orgName type="main" xml:lang="de">Bürgermeister und Rat zu Augsburg</orgName>
+        <orgName type="sort" xml:lang="de">buergermeister und rat zu augsburg</orgName>
         <orgName type="alternative" xml:lang="de">Ratgeben der statt Augspurg</orgName>
-        <event type="start" when="1539-09-04">
+        <event type="start" when="1534-02-04">
           <p/>
         </event>
       </org>

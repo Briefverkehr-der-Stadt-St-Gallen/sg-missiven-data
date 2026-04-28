@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_04038">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Bürgermeister und Rat zu St. Gallen bitten den gräflich-fuggerischen Rat und Pfleger zu Oberkirchberg und Bürgermeister und Rat zu Ulm in zwei unterschiedlichen Schreiben um Unterstützung bei der Rückschaffung des Besitzes des tödlich verunglückten St. Galler Bürgers Johannes Locher. Locher war Nürnberger Bote und in der Donau ertrunken. Sein Pferd und seine Habseligkeiten waren in Oberkirchberg an Land gezogen worden. Sein Bruder Jeremias Locher, Bürger zu St. Gallen und Lindauer Bote, bat im Namen von Johannes Lochers Witwe und Kinder bei Bürgermeister und Rat zu St. Gallen um die Rückführung von Pferd, Kleidern und Besitz des Verstorbenen, weshalb Bürgermeister und Rat zu St. Gallen zwei Schreiben aufsetzen liessen.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
                     <term ref="stadtasg-keywords-281">Entwurf</term>
@@ -63,11 +62,11 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_4038_16303.jpg" n="1" />
+            <pb facs="StadtASG_Missive_4038_16303.jpg" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_4038_16304.jpg" n="2" />
-<pb facs="StadtASG_Missive_4038_16305.jpg" n="3" />
-<pb facs="StadtASG_Missive_4038_16306.jpg" n="4" />
+<pb facs="StadtASG_Missive_4038_16304.jpg" n="2"/>
+<pb facs="StadtASG_Missive_4038_16305.jpg" n="3"/>
+<pb facs="StadtASG_Missive_4038_16306.jpg" n="4"/>
 </p>
         </body>
     </text>

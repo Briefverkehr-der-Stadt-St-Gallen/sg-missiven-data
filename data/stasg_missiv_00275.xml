@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00275">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Bruder Wilhelm Rosslauf, Kaplan, empfiehlt Heinrich Sigg, einen jungen, ungefähr 30 jährigen Mönch im Predigerkloster zu Konstanz bei Bürgermeister und Rat zu St. Gallen für ein Leibgeding von 12 Gulden für 120 Gulden. Rosslauf bittet die St. Galler, Sigg wie ihm selber und seiner Schwester ein Schreiben auszustellen, dieses einem Boten nach Konstanz mitzugeben, dem dann die 120 Rheinische Gulden übergeben würden.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
                     <term ref="stadtasg-keywords-9">Bote</term>
@@ -64,29 +63,29 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_275_555.JPG" n="1" />
+            <pb facs="StadtASG_Missive_275_555.JPG" n="1"/>
 <p>
-<lb n="1" />Ersamen gnedichen lieben hern. Ich waiß ainen bruder predigersordens, der ist von dem
-    <lb n="2" />closter zuo den predigern<note><orgName ref="stadtasg-actors-574">Dominikanerorden</orgName>.</note> zu <placeName ref="stadtasg-places-7">Costantz</placeName>, der haist bruder <persName ref="stadtasg-actors-437">Hainrich Sigg</persName>, und ist ain
-<lb n="3" />iung priester by XXX iaren. Woellend ir im libgeding geben sin lebtag XII gulden
-<lb n="4" />umb XX und hundert uff den achtten tag unsers hern geburt, den man nennt
-<lb n="5" />unsers hern besnydung circumcisio, so machend im ainen brieff, als mir und miner swester ist
-    <lb n="6" />von euerr stat geben, doch daz gelt on sinen schaden gen <placeName ref="stadtasg-places-7">Costantz</placeName> im geben oder sinen
-    <lb n="7" />erben werd, und er woelt ez gen <placeName ref="stadtasg-places-68">Stain</placeName> oder gen <placeName ref="stadtasg-places-185">Schoffhusen</placeName> geben, so han ich in gebetten,
-<lb n="8" />daz er byt noch acht tag und nit lengger, und daz gelt euerr stat losse werdden,
-<lb n="9" />dorumb lieben hern ist er euer statt nutz, und eben so machend ainen brieff, der
-    <lb n="10" />inwenndich acht tag nah datum diß brieffs kum gen <placeName ref="stadtasg-places-7">Costantz</placeName>, und senddent ainem
-    <lb n="11" />mit dem lipgeding brieff her ab gen <placeName ref="stadtasg-places-7">Costantz</placeName>. Der, der den brieff brengt, dem
-<lb n="12" />gibt man XX und hundert rinischer gulden umb tzwoelff gulden, do mit geb eüch
-<lb n="13" />ersamen lieben hern der lebendich got ain gut seligk iar mit miner sünd und
-<lb n="14" />mit merer gnad zu liben hie in tzit zu dem ewichen leben. Amen. Datum
-    <lb n="15" />zu <placeName ref="stadtasg-places-7">Costantz</placeName> an der <origDate when="1453-12-28">kindle tag anno etc. LIII</origDate>.
-    <lb n="16" />Von mir bruder <persName ref="stadtasg-actors-93" role="issuer">Wilhelmdn Roßluff</persName>,
-<lb n="17" />euer diner und capplan in got.
-<pb facs="StadtASG_Missive_275_556.JPG" n="2" />
-<lb n="18" />Den ersamen fuersichtigen wysen
-    <lb n="19" />dem <orgName ref="stadtasg-actors-148" role="recipient">buergermaister und ratt
-    <lb n="20" />der statt zuo sant Gallen</orgName>.
+<lb n="1"/>Ersamen gnedichen lieben hern. Ich waiß ainen bruder predigersordens, der ist von dem
+    <lb n="2"/>closter zuo den predigern<note><orgName ref="stadtasg-actors-574">Dominikanerorden</orgName>.</note> zu <placeName ref="stadtasg-places-7">Costantz</placeName>, der haist bruder <persName ref="stadtasg-actors-437">Hainrich Sigg</persName>, und ist ain
+<lb n="3"/>iung priester by XXX iaren. Woellend ir im libgeding geben sin lebtag XII gulden
+<lb n="4"/>umb XX und hundert uff den achtten tag unsers hern geburt, den man nennt
+<lb n="5"/>unsers hern besnydung circumcisio, so machend im ainen brieff, als mir und miner swester ist
+    <lb n="6"/>von euerr stat geben, doch daz gelt on sinen schaden gen <placeName ref="stadtasg-places-7">Costantz</placeName> im geben oder sinen
+    <lb n="7"/>erben werd, und er woelt ez gen <placeName ref="stadtasg-places-68">Stain</placeName> oder gen <placeName ref="stadtasg-places-185">Schoffhusen</placeName> geben, so han ich in gebetten,
+<lb n="8"/>daz er byt noch acht tag und nit lengger, und daz gelt euerr stat losse werdden,
+<lb n="9"/>dorumb lieben hern ist er euer statt nutz, und eben so machend ainen brieff, der
+    <lb n="10"/>inwenndich acht tag nah datum diß brieffs kum gen <placeName ref="stadtasg-places-7">Costantz</placeName>, und senddent ainem
+    <lb n="11"/>mit dem lipgeding brieff her ab gen <placeName ref="stadtasg-places-7">Costantz</placeName>. Der, der den brieff brengt, dem
+<lb n="12"/>gibt man XX und hundert rinischer gulden umb tzwoelff gulden, do mit geb eüch
+<lb n="13"/>ersamen lieben hern der lebendich got ain gut seligk iar mit miner sünd und
+<lb n="14"/>mit merer gnad zu liben hie in tzit zu dem ewichen leben. Amen. Datum
+    <lb n="15"/>zu <placeName ref="stadtasg-places-7">Costantz</placeName> an der <origDate when="1453-12-28">kindle tag anno etc. LIII</origDate>.
+    <lb n="16"/>Von mir bruder <persName ref="stadtasg-actors-93" role="issuer">Wilhelmdn Roßluff</persName>,
+<lb n="17"/>euer diner und capplan in got.
+<pb facs="StadtASG_Missive_275_556.JPG" n="2"/>
+<lb n="18"/>Den ersamen fuersichtigen wysen
+    <lb n="19"/>dem <orgName ref="stadtasg-actors-148" role="recipient">buergermaister und ratt
+    <lb n="20"/>der statt zuo sant Gallen</orgName>.
 </p>
         </body>
     </text>

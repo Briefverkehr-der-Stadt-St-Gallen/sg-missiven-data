@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_04015">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -26,7 +25,7 @@
             <abstract>
                 <p>Bürgermeister und Rat zu St. Gallen übersenden Schultheiss und Rat zu Frauenfeld mit ihrem Empfehlungsschreiben eine Supplikation jener St. Galler Bürger, die als Direktoren die von der Gesellschaft Hans Fitler Gebrüder und Mitverwandten übernommenen Vermögenswerte verwalten. Diese Direktoren haben eine Schuldforderung an Franziskus Hurter, Bürger zu Frauenfeld. Bürgermeister und Rat zu St. Gallen bitten mit ihrem Begleitschreiben, den Anwalt der Direktoren vor Frauenfelder Gerichten zuzulassen.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
 <term ref="stadtasg-keywords-281">Entwurf</term>
@@ -68,8 +67,8 @@
         <body>
             
 <p>
-<pb facs="StadtASG_Missive_4015_16217.jpg" n="1" />
-<pb facs="StadtASG_Missive_4015_16218.jpg" n="2" />
+<pb facs="StadtASG_Missive_4015_16217.jpg" n="1"/>
+<pb facs="StadtASG_Missive_4015_16218.jpg" n="2"/>
 </p>
         </body>
     </text>

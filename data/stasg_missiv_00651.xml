@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00651">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 651</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnte Beilage ist nicht vorhanden.</p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_651_1507/1510</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich informieren Bürgermeister und Rat zu St. Gallen, dass die Herren der Grafschaft Burgund ihnen über ihren Säckelmeister der Eidgenossenschaft das Erbeinigungsgeld haben zukommen lassen. Die Zürcher fragen die St. Galler, ob man ihnen ihren Teil gegen Quittung zustellen solle oder ob man ihnen das Geld an der Jahresrechnung in Baden übergeben solle. Zudem senden sie ihnen einen Brief, der ihnen auf Wunsch der kaiserlichen Majestät zugestellt werden soll.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                  
+<term ref="stadtasg-keywords-384">Grafschaft</term>
+<term ref="stadtasg-keywords-497">Säckelmeister</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-265">Quittung</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1546-05-10</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Arman Weidenmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-04-08</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_651_1507.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich willig diennst sampt was wir eeren
+<lb n="2"/>liebs unnd guots vermogennd zuo vor from fürsichtig
+<lb n="3"/>wyß innsonnders guot fründt unnd gethrüw lieb eidt
+<lb break="no" n="4"/>gnossen. Die herren der grafschafft
+<lb n="5"/><placeName ref="stadtasg-places-281">Burgund</placeName> habennd unns durch iren seckelmeyster
+<lb n="6"/>iren gebürennden theyl des erbeynung gelts von den
+<lb n="7"/>zwey letsten iaren, namlich im <date when="1545-05-03">fünff unnd viertzigisten</date>
+<lb n="8"/>unnd dis louffennden <date when="1546-05-03">sechs unnd viertzigisten iars,
+<lb n="9"/>allweg uff den dritten tag meyens</date>, gemeiner <orgName ref="stadtasg-actors-750">Eidt
+<lb break="no" n="10"/>gnosschafft</orgName> verfallen innhalt der erbeynung inn
+<lb n="11"/>unnser statt <placeName ref="stadtasg-places-32">Zürich</placeName> überanntwurt unnd gewert, wellichen
+<lb n="12"/>üweren gebürennden theyl, namlich von beyden
+<lb n="13"/>iaren fünffzig guldin, wir üch, wenn ir des begeren,
+<lb n="14"/>uff gewonnliche quittung zuoschicken oder söllich gelt
+<lb n="15"/>uff nechstkünfftige iarrechnung gen <placeName ref="stadtasg-places-53">Baden</placeName> inn <placeName ref="stadtasg-places-266">Ergöw</placeName>
+<lb n="16"/>anntwurten unnd stellen wellen, wie üch gefellig unnd
+<lb n="17"/>gelegen sin will. Darby ist unns von
+<lb n="18"/><persName ref="stadtasg-actors-1229">keyserlicher maiestät</persName> ein schryben an üch ußganngen, durch ver
+<lb break="no" n="19"/>melten herren botten uß <placeName ref="stadtasg-places-281">Burgund</placeName>, uff <date when="1546-05-10">hütt</date> behenndiget,
+<lb n="20"/>mit früntlichem annsuochen, üch söllich schryben glych
+<lb n="21"/>wie anndern orten zuo kommen zuo lassen. Deßhalb
+<lb n="22"/>über schickennd wir üch dasselb schryben hie sampt
+<lb n="23"/>einem byligennden brief uss <placeName ref="stadtasg-places-281">Burgund</placeName> by eigner bott
+<lb break="no" n="24"/>schafft, dann worinn wir üch ieder zyt gefallen unnd
+<lb n="25"/>diennst bewysenn könnten, sind wir bereyts gemüts
+<lb n="26"/>unnd willens. Datum <origDate when="1546-05-10">mentags
+<lb n="27"/>den X mey anno etc. XLVI</origDate>.
+<lb n="28"/><orgName ref="stadtasg-actors-503" role="issuer">Burgermeyster unnd rath
+<lb n="29"/>der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_651_1508.JPG" n="2"/>
+<pb facs="StadtASG_Missive_651_1509.JPG" n="3"/>
+<pb facs="StadtASG_Missive_651_1510.JPG" n="4"/>
+<lb n="30"/>Den frommen fürsichtigen wysen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="31"/>meyster unnd rath der statt sannct Gallen</orgName>
+<lb n="32"/>unnsern innsonnders guoten fründen und
+<lb n="33"/>gethrüwen lieben eidtgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

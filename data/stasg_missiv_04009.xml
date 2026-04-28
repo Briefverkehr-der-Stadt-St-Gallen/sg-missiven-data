@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_04009">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Bürgermeister und Rat zu St. Gallen antworten Bürgermeister und Rat zu Ulm auf ihre Bitte um ein weiteres Darlehen zur Bezahlung der schwedischen Satisfaktionsgelder. St. Gallen schlägt die Bitte aus mit dem Hinweis, dass die Stadt aufgrund vieler Konkurse und des Stillstands des Handels auch keine Reserven mehr habe. Zudem sei kürzlich ein Feuer in der Vorstadt ausgebrochen, durch das etliche Häuser abgebrannt seien. 13 Haushaltungen seien deshalb in grösster Not, und die Stadt habe die Pflicht zur Unterstützung.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
 <term ref="stadtasg-keywords-222">Darlehen</term>
@@ -63,9 +62,9 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_4009_16193.jpg" n="1" />
+            <pb facs="StadtASG_Missive_4009_16193.jpg" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_4009_16194.jpg" n="2" />
+<pb facs="StadtASG_Missive_4009_16194.jpg" n="2"/>
 </p>
         </body>
     </text>

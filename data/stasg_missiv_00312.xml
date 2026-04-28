@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00312">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -77,17 +76,14 @@
                 guten frunde. <lb n="2"/>Uns kompt fur, wie das ir etlich buben by üch gefangen und
                 zu den richten lassen haben, <lb n="3"/>der auch etlich durch warnung in geschenhen
                 darvon komm und ertrunnen syen etc. Nun <lb n="4"/>haben wir zwen an <date when="1454-11-23">sampstag
-                    vor sanct Katherinen tag</date> in unser stat gefangen, in main <lb break="no"
-                    n="5"/>ung, das die by den anschlegen daselbs by üch durch die obgemelten buben
+                    vor sanct Katherinen tag</date> in unser stat gefangen, in main <lb break="no" n="5"/>ung, das die by den anschlegen daselbs by üch durch die obgemelten buben
                 gehandelt auch <lb n="6"/>gewesen und der rechtschuldigen sin söllen, und des doch
                 dehain warhait bekommen wöllen <lb n="7"/>anders danne sovil, das sich der ain
                 <persName ref="stadtasg-actors-478">Hans Krawel</persName> von <placeName ref="stadtasg-places-28">Ulm</placeName> genempt und
                 daruff geseit <lb n="8"/>hat, wie das er by den selben buoben by üch in des wirtshus
                 und irer zech gewesen sy, aber <lb n="9"/>er habe umb ir anschleg und sachen nit
-                gewyßte, so hat sich der ander genempt <persName ref="stadtasg-actors-479">Ulrich <lb n="10"
-                />Waibel</persName> von <placeName ref="stadtasg-places-89">Feldkirchen</placeName>, den dann die fryhart 
-                <persName ref="stadtasg-actors-479">Rumensattel</persName> nennen, und auch ettlich zu <placeName ref="stadtasg-places-89">Feld <lb
-                        break="no" n="11"/>kirchen</placeName> genent, die dann sin angebornen frund
+                gewyßte, so hat sich der ander genempt <persName ref="stadtasg-actors-479">Ulrich <lb n="10"/>Waibel</persName> von <placeName ref="stadtasg-places-89">Feldkirchen</placeName>, den dann die fryhart 
+                <persName ref="stadtasg-actors-479">Rumensattel</persName> nennen, und auch ettlich zu <placeName ref="stadtasg-places-89">Feld <lb break="no" n="11"/>kirchen</placeName> genent, die dann sin angebornen frund
                 sin sollen, mit namen <persName ref="stadtasg-actors-481">Schenck Clain Uolin</persName>
                 <lb n="12"/>und <persName ref="stadtasg-actors-482">Howinsdorff</persName>. Hierumb bitten wir uwer ersamen
                 wyßhait mit sunderm flyß dienstlich <lb n="13"/>uwer ernstigen erfarung, erfarung
@@ -96,8 +92,7 @@
                     <lb n="15"/>solicher sachen halb wären, und erfurent ir dan yemant, dem die
                 buben kundig oder arg <lb break="no" n="16"/>wanig sin, uns den dann von stund an
                 herr zu uns zuo schicken und die buoben zu beschowen, <lb n="17"/>ob sie solicher
-                schuldigung schuldig syen, und üch hierinn nach uwerm besten beduncken <lb n="18"
-                />so gutwillig bewysen, als wir uch dann des und alles guten sunderlich woll
+                schuldigung schuldig syen, und üch hierinn nach uwerm besten beduncken <lb n="18"/>so gutwillig bewysen, als wir uch dann des und alles guten sunderlich woll
                 getruwen <lb n="19"/>und umb uch mit unßern schuldigen diensten noch schuldiger
                 haben wöllen zu gedienen. <lb n="20"/>Datum <origDate when="1454-11-29">feria 6ta ante Andree apostoli
                     anno LIIIIo</origDate>. <lb n="21"/><orgName ref="stadtasg-actors-536" role="issuer">Burgermaister und <lb n="22"/>raut

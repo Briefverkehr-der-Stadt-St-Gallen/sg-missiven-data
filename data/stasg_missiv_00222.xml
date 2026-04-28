@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00222">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -89,16 +88,8 @@
         <body>
             <pb facs="StadtASG_Missive_222_445.JPG" n="1"/>
             <p>
-                <lb n="1"/>In gottes gnaden. Wir <persName ref="stadtasg-actors-73" role="issuer"
-                    >Fridrich</persName> ertzbischof zu <placeName ref="stadtasg-places-74"
-                    >Saltzburg</placeName> legat des stuols zu <placeName ref="stadtasg-places-55"
-                    >Rom</placeName>, wir <persName ref="stadtasg-actors-74" role="issuer"
-                    >Silvester</persName> bischof zu <lb n="2"/><placeName ref="stadtasg-places-142"
-                    >Kyemssee</placeName>, wir <persName ref="stadtasg-actors-75" role="issuer"
-                    >Albrecht</persName> phaltzgraf bey <placeName ref="stadtasg-places-143">Rein</placeName>
-                hertzog in <placeName ref="stadtasg-places-132">Beyrn</placeName> und graf zu <placeName
-                    ref="stadtasg-places-145">Voburg</placeName> und wir die her <lb break="no" n="3"
-                />nachgeschriben <persName ref="stadtasg-actors-76" role="issuer">Hanns von
+                <lb n="1"/>In gottes gnaden. Wir <persName ref="stadtasg-actors-73" role="issuer">Fridrich</persName> ertzbischof zu <placeName ref="stadtasg-places-74">Saltzburg</placeName> legat des stuols zu <placeName ref="stadtasg-places-55">Rom</placeName>, wir <persName ref="stadtasg-actors-74" role="issuer">Silvester</persName> bischof zu <lb n="2"/><placeName ref="stadtasg-places-142">Kyemssee</placeName>, wir <persName ref="stadtasg-actors-75" role="issuer">Albrecht</persName> phaltzgraf bey <placeName ref="stadtasg-places-143">Rein</placeName>
+                hertzog in <placeName ref="stadtasg-places-132">Beyrn</placeName> und graf zu <placeName ref="stadtasg-places-145">Voburg</placeName> und wir die her <lb break="no" n="3"/>nachgeschriben <persName ref="stadtasg-actors-76" role="issuer">Hanns von
                     Neitperg</persName> und meister <persName ref="stadtasg-actors-77" role="issuer">Ulrich
                     Rieder</persName> beider rechten licenciat embieten den <lb n="4"/>ersamen
                 weisen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rate der stat zu sand
@@ -110,30 +101,20 @@
                 gegeben und geordnet sein, wie das seiner kuniglichen gnaden comission und
                 gewaltbrife dar <lb break="no" n="9"/>umb ausgegangen volliclicher innhalten, des
                 wir uns als gehorsam angenomen und in krafft der <lb break="no" n="10"/>selben
-                comission allen parthien für sy und ir helffer auf den <date when="1450-04-12"
-                    >suntag, so man in der heiligen kirchen <lb n="11"/>singet quasimodogeniti
+                comission allen parthien für sy und ir helffer auf den <date when="1450-04-12">suntag, so man in der heiligen kirchen <lb n="11"/>singet quasimodogeniti
                     schirstkünfftigen</date>, gen <placeName ref="stadtasg-places-27">Münichen</placeName>
                 zukömen teg gesatzt und dartzuo ettlich ander <lb n="12"/>unparteyg fürsten, stete
-                und des <orgName ref="stadtasg-actors-559">Richs</orgName> getrew in merklicher anzal auf unsser vorgemelten allergnedigisten <lb
-                    n="13"/>herren des kunigs ausschreiben darumb an sy getan von seiner
+                und des <orgName ref="stadtasg-actors-559">Richs</orgName> getrew in merklicher anzal auf unsser vorgemelten allergnedigisten <lb n="13"/>herren des kunigs ausschreiben darumb an sy getan von seiner
                 kuniglichen gnaden und des <orgName ref="stadtasg-actors-559">Reichs</orgName> wegen <lb n="14"/>berüfft und gevordert haben.
-                Also bitten wir ew auch mit sunderm fleiss, daz ir auf sölchs seiner kuniglichen <lb
-                    n="15"/>gnaden vorberürts schreiben ewr trefflich ratsfreunde gen <placeName
-                    ref="stadtasg-places-27">Münichen</placeName> zu solhen vorgemelten gesatzten tegen
+                Also bitten wir ew auch mit sunderm fleiss, daz ir auf sölchs seiner kuniglichen <lb n="15"/>gnaden vorberürts schreiben ewr trefflich ratsfreunde gen <placeName ref="stadtasg-places-27">Münichen</placeName> zu solhen vorgemelten gesatzten tegen
                 senndet, <lb n="16"/>rat hilff und beistannd da in den sachen zetun und zubeweisen,
                 dadurch gemainer nutz frid und ainikeit <lb n="17"/>in dem <orgName ref="stadtasg-actors-559">Heiligen Riche</orgName> betrachtt
-                und gemacht und meerer unrat, der aus solchen kriegen wachsen möcht, fürkömen <lb
-                    n="18"/>werd, als des unser egenanter gnedigister herr
-                    der <persName ref="stadtasg-actors-49">romisch kunig</persName> ain gantzs vertrawn zu ew hat, das wellen <lb n="19"
-                />wir seiner kuniglichen gnaden von ew in guot und zu dank, als wol billich ist,
+                und gemacht und meerer unrat, der aus solchen kriegen wachsen möcht, fürkömen <lb n="18"/>werd, als des unser egenanter gnedigister herr
+                    der <persName ref="stadtasg-actors-49">romisch kunig</persName> ain gantzs vertrawn zu ew hat, das wellen <lb n="19"/>wir seiner kuniglichen gnaden von ew in guot und zu dank, als wol billich ist,
                 gern verkunden. Wir schiken <lb n="20"/>ew auch hirinne verslossen abschrifft des
-                kuniglichen gelaits in den sachen gegeben, daz ir ew seiner kuniglichen <lb n="21"
-                />gnaden zuwillen darnach desterbass wisset zurichten. Geben zu <origPlace
-                    ref="stadtasg-places-27">Münichen</origPlace> an <origDate when="1450-02-08">suntag nach
-                    sand Dorotheen <lb n="22"/>tag anno domini etc. Lmo</origDate>. <pb
-                    facs="StadtASG_Missive_222_446.JPG" n="2"/>
-                <lb n="23"/>Den ersamen weisen <orgName ref="stadtasg-actors-148" role="recipient"
-                    >burgermeister und rat der stat <lb n="24"/>zu sand Gallen</orgName> unser
+                kuniglichen gelaits in den sachen gegeben, daz ir ew seiner kuniglichen <lb n="21"/>gnaden zuwillen darnach desterbass wisset zurichten. Geben zu <origPlace ref="stadtasg-places-27">Münichen</origPlace> an <origDate when="1450-02-08">suntag nach
+                    sand Dorotheen <lb n="22"/>tag anno domini etc. Lmo</origDate>. <pb facs="StadtASG_Missive_222_446.JPG" n="2"/>
+                <lb n="23"/>Den ersamen weisen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und rat der stat <lb n="24"/>zu sand Gallen</orgName> unser
                 besunderlieben und guoten freunden. </p>
         </body>
     </text>

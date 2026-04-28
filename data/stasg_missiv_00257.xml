@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00257">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -76,11 +75,9 @@
         <body>
             <pb facs="StadtASG_Missive_257_515.JPG" n="1"/>
             <p>
-                <lb n="1"/>Unser früntlich willig dienst bevor lieben herren und guoten <lb n="2"
-                />fründe. Uns haut fürbracht <persName ref="stadtasg-actors-418">Margrett Buochmüllerin</persName>, unser
+                <lb n="1"/>Unser früntlich willig dienst bevor lieben herren und guoten <lb n="2"/>fründe. Uns haut fürbracht <persName ref="stadtasg-actors-418">Margrett Buochmüllerin</persName>, unser
                 burgerin, <lb n="3"/>wie das sy <persName ref="stadtasg-actors-419">Adelhait Uolerin</persName> von
-                <placeName ref="stadtasg-places-159">Uttwylen</placeName>, üwer burgerin, für iunkhern <lb n="4"
-                /><persName ref="stadtasg-actors-420" cert="medium">Burkartz Schenken</persName> gericht gen
+                <placeName ref="stadtasg-places-159">Uttwylen</placeName>, üwer burgerin, für iunkhern <lb n="4"/><persName ref="stadtasg-actors-420" cert="medium">Burkartz Schenken</persName> gericht gen
                 <placeName ref="stadtasg-places-138">Roggwylen</placeName> für genomen habint, <lb n="5"/>über das sy ir
                 gantz nichtz schuldig sye, und bitten üch mit <lb n="6"/>ernste, ir wellen so wol
                 tuon und mit der obgenanten <persName ref="stadtasg-actors-419">Adelhaiten</persName>
@@ -91,9 +88,7 @@
                 unserm stabe, als wir <lb n="11"/>das bys haer in guoter früntschafft gegen ain
                 andren gehalten <lb n="12"/>haben. Und tuond hierinn, als wir üch wol getrüwen. Das
                 wellen <lb n="13"/>wir mit willen umb üch beschulden und verdienen. Datum ypsa
-                <origDate when="1452-02-25">die <lb n="14"/>Mathie etc. anno etc. LII</origDate>. <lb n="15"
-                /><orgName ref="stadtasg-actors-102" role="issuer">Amman und raut <lb n="16"/>zuo Arbon</orgName>. <pb
-                    facs="StadtASG_Missive_257_516.JPG" n="2"/>
+                <origDate when="1452-02-25">die <lb n="14"/>Mathie etc. anno etc. LII</origDate>. <lb n="15"/><orgName ref="stadtasg-actors-102" role="issuer">Amman und raut <lb n="16"/>zuo Arbon</orgName>. <pb facs="StadtASG_Missive_257_516.JPG" n="2"/>
                 <lb n="17"/>Den fürsichtigen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und <lb n="18"/>raut zuo
                     sant Gallen</orgName> unsren lieben herren und <lb n="19"/>guoten fründen. </p>
         </body>

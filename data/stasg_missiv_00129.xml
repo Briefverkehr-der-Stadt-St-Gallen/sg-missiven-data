@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00129">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -79,9 +78,7 @@
                 <lb n="1"/>Unser früntlich willig dienst vor ersamen wisen sundern guoten lieben
                 guoten <lb n="2"/>fründ. Wir tuond üch ze wissent, das ettlich unser burger und
                 ander sich gen <lb n="3"/>enannder vor unserm rat in recht gestelt hand als von des
-                erbs und ver <lb break="no" n="4"/>lassen guots wegen, so maister <persName
-                    ref="stadtasg-actors-260">Hanns</persName> der wundartzt selig nach tod ver <lb break="no"
-                    n="5"/>lassen hat. Darzuo iro iettweder tail recht maint ze haben, und schikent
+                erbs und ver <lb break="no" n="4"/>lassen guots wegen, so maister <persName ref="stadtasg-actors-260">Hanns</persName> der wundartzt selig nach tod ver <lb break="no" n="5"/>lassen hat. Darzuo iro iettweder tail recht maint ze haben, und schikent
                 üch <lb n="6"/>hie mit iro anclag, red und widerred in geschrifft, so si denn vor
                 uns <lb n="7"/>getan und die sach daruff zem rechten gesetzt hand, darzuo och
                 ettliche <lb n="8"/>versigelt brieff, die denn von baiden tailn für gericht geleit
@@ -95,9 +92,7 @@
                 uns <lb n="16"/>unverwissenlich si. Wa wir das umb üwer wisshait verdienen mügent,
                     <lb n="17"/>soellent ir uns allweg willig haben, denn uns soelich sachen noch
                 bis <lb n="18"/>nit me begegnot sind. Geben uff <origDate when="1440-08-04">dornstag
-                    vor Laurentii anno domini <lb n="19"/>Mo CCCCo XLo</origDate>. <lb n="20"
-                    /><orgName ref="stadtasg-actors-63" role="issuer">Ammann und raet ze Veltkirch</orgName>. <pb
-                    facs="StadtASG_Missive_129_258.JPG" n="2"/>
+                    vor Laurentii anno domini <lb n="19"/>Mo CCCCo XLo</origDate>. <lb n="20"/><orgName ref="stadtasg-actors-63" role="issuer">Ammann und raet ze Veltkirch</orgName>. <pb facs="StadtASG_Missive_129_258.JPG" n="2"/>
                 <lb n="21"/>Den fürsichtigen ersammen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
                     und <lb n="22"/>der statt ze Santgallen</orgName> unsern guoten lieben fründen.
             </p>

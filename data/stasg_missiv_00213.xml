@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00213">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -89,13 +88,9 @@
                 wir umb üch und <lb n="11"/>umb all die üwern in allem guoten zeverdienen, wa sich
                 das ze tuond gebürot. <lb n="12"/>Geben am <origDate when="1448-12-08">sonnentag
                     nach sant Nicolaus tag anno etc. XLVIIIo</origDate>. <lb n="13"/>Üwer geschriben
-                antwurt lassent uns harumb wissen by disem <lb n="14"/>botten. <lb n="15"/><orgName
-                    ref="stadtasg-actors-506" role="issuer">Amman und raute <lb n="16"/>ze
+                antwurt lassent uns harumb wissen by disem <lb n="14"/>botten. <lb n="15"/><orgName ref="stadtasg-actors-506" role="issuer">Amman und raute <lb n="16"/>ze
                 Appenzell</orgName>. <pb facs="StadtASG_Missive_213_428.JPG" n="2"/>
-                <lb n="17"/>Den ersamen wisen wolbeschaidnen dem <lb n="18"/><orgName
-                    ref="stadtasg-actors-148" role="recipient">burgermaister und clain und grossen raeten <lb
-                        n="19"/>zuo sant Gallen</orgName> unsern lieben guoten fründen <lb n="20"
-                />und getrüwen aidgenossen. </p>
+                <lb n="17"/>Den ersamen wisen wolbeschaidnen dem <lb n="18"/><orgName ref="stadtasg-actors-148" role="recipient">burgermaister und clain und grossen raeten <lb n="19"/>zuo sant Gallen</orgName> unsern lieben guoten fründen <lb n="20"/>und getrüwen aidgenossen. </p>
         </body>
     </text>
 </TEI>

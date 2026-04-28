@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00571">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 571</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_571_1175/1176</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich schreiben an Bürgermeister und Rat zu St. Gallen, da ihrem Bürger Melchior Iselin vom St. Galler Gabriel Billwiler auf dem Markt zu Zurzach ein unbesiegelter Zwilch verkauft wurde. Der St. Galler Verkäufer behauptet, die Besiegelung sei vergessen worden. Da die St. Galler die Sache abklären möchten, bitten sie die Zürcher um die Zustellung dieses Zwilchs oder eines Stücks davon.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-91">Handel</term>
+<term ref="stastasg-keywords-164">Tuch</term>
+<term ref="stadtasg-keywords-258">Leinwand</term>
+<term ref="stadtasg-keywords-507">Textilwirtschaft</term>
+<term ref="stadtasg-keywords-92">Preis</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-143">Markt</term>
+<term ref="stadtasg-keywords-552">Qualitätskontrolle</term>                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName><placeName ref="stadtasg-places-32">Zürich</placeName>                    <date>1534-05-25</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Noëmi Schöb</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Noëmi Schöb</persName>
+                <date>2026-04-20</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_571_1175.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich willig dienst sammpt was wir eeren liebs unnd guots vermögent
+<lb n="2"/>zuovor frommen fürsichtigen wysen insunders guoten fründ unnd gethrüwen lieben
+<lb n="3"/>eydgnossenn. Wir haben uwer schryben den unbesigleten zwilch, so der üwer
+<lb n="4"/><persName ref="stadtasg-actors-1327">Gabriel Billwyler</persName> unserm burger <persName ref="stadtasg-actors-1328">Melchior Iselin</persName> zuokouffen geben hatt,
+<lb n="5"/>belanngend mitt angehenckter beger, üch des hanndels zuoberichten und
+<lb n="6"/>üch söllichen zwilch, ob er noch vorhannden were, ald doch eyn stuck darvon zuo
+<lb break="no" n="7"/>zeschicken sampt wytterm innhalt verstannden und daruff gemelten unsern
+<lb n="8"/>burger nach gepürennder nothurfft erkennet. Der seytt, wye er vergangens
+<lb n="9"/>herpst merckts zuo <placeName ref="stadtasg-places-101">Zurzach</placeName> mit gedachtem uwerm burger under annderm
+<lb n="10"/>gemercktet, habe im derselb eyn unbesiglet stuck zwilch umb eyn ort
+<lb n="11"/>unnd vier guldin (nit annders wisse er) zuokouffen geben, wellichs er erst,
+<lb n="12"/>als er heym kommen, gwaar unnd sichtig worden und deshalb gemelten zwilch
+<lb n="13"/>unnzertheylt byeinannder ligen lassenn, untz er villicht wider zuo im käme.
+<lb n="14"/>Als er aber demnnach inn nechstverganngenem wynnther zuo im inn üwer
+<lb n="15"/>statt kommen und im söllichs anzoygt, hette er im geanntwurt, es schyede
+<lb n="16"/>nüt unnd were der zwilch nit abschetzig, sunder on gfherd beschechen und
+<lb n="17"/>zuosiglen vergessenn worden. Darby es damaals pliben, untz er im vergang
+<lb break="no" n="18"/>ener thagen eynen seckler us üwer statt sechsthalben, so er im umb garn
+<lb n="19"/>schuldig zefordern geschickt, gegen dem er sich desselben unbesigileten zwilchs
+<lb n="20"/>ouch erclagt, wellicher im eynandern so feer er die sechsthalben guldin
+<lb n="21"/>unserm rathsfründ <persName ref="stadtasg-actors-1329">Anndresen Gessnern</persName> gebe zuo zeschicken zuogseytt, uff den
+<lb n="22"/>er nun bishar gewarttet, diewyl nun gedachter zwilch allemlich noch vor
+<lb break="no" n="23"/>hannden gwesen, so haben wir üch den by üwerm botten uff uwer begeren
+<lb n="24"/>hin mit widerlegung des so er gedachten unsern burger gstaat lut üwers
+<lb n="25"/>erpyettens hiemit zuoschicken wellenn. Wytter damit das üch angelegen ze
+<lb break="no" n="26"/>hanndlen, dann üch inn als uns müglichen dingen ze willfaaren sind wir
+<lb n="27"/>ganntz früntlichs wille und geneygt. Us <origPlace ref="stadtasg-places-32">Zürich</origPlace> <origDate when="1534-05-25">menthags nach pfyngsten
+<lb n="28"/>anno etc. XVc XXXIIIIo</origDate>.
+<lb n="29"/><orgName ref="stadtasg-actors-503" role="issuer">Burgermeyster unnd
+<lb n="30"/>rath der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_571_1176.JPG" n="2"/>
+<lb n="31"/>Den frommen fürsichtigen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermeyster
+<lb n="32"/>unnd rath der statt sannct Gallen</orgName> unsern
+<lb n="33"/>insunders guoten fründen unnd gethrüwen
+<lb n="34"/>lieben eydgnossenn.
+</p>
+        </body>
+    </text>
+</TEI>

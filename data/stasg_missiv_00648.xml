@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00648">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 648</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_648_1499/1500</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Schultheiss und Rat zu Winterthur informieren Bürgermeister und Rat zu St. Gallen über eine Räuberbande, welche 21 Personen getötet hat. Bei der Räuberbande handelt es sich um Jakob von Rapperswil, Klaus von Strassburg, den Scherer Joop von Strassburg, der einen Buben dabei hat, Bernhard und Niklaus von Strassburg, Brüder des Trabanten, Valentin Wyss, Niklaus Scherer und Jakob Dietrich, alle von Strassburg. Ausserdem seien noch zwei weitere Personen aus Porrentruy, über die nichts Weiteres bekannt ist, dabei gewesen. Neben diesen Mördern und Dieben wird auch noch ein Hans Schwyzer aus Solothurn erwähnt, der auch ein Mörder und Dieb sei, jedoch nicht dabei gewesen sei.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-197">Geständnis</term>
+<term ref="stadtasg-keywords-49">Totschlag</term>
+<term ref="stadtasg-keywords-189">Vieh</term>
+<term ref="stadtasg-keywords-500">Bauer</term>
+<term ref="stadtasg-keywords-518">Leder</term>
+<term ref="stadtasg-keywords-368">Schultheiss</term>
+<term ref="stadtasg-keywords-623">Dorf</term>
+<term ref="stadtasg-keywords-630">Bruder</term>
+<term ref="stadtasg-keywords-473">Eile</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-718">Schultheiss und Rat zu Winterthur</orgName>                    <date>1546-01-17</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Arman Weidenmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-04-08</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_648_1499.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich gruotz willigenn dienst sampt
+<lb n="2"/>was wir erenn liebs und guotz vermöchten zevor
+<lb n="3"/>günstigen lieben und guoten fründt. Wir habenn
+<lb n="4"/>üwer schrybenn sins inhalts verstanden unnd nit
+<lb n="5"/>weniger vergangner tagenn einen lut siner vergicht<note>vergicht = Geständnis</note>
+<lb n="6"/>als ein mörder sampt anderen misythaten lassen
+<lb n="7"/>richten, der under anderem in siner gselschafft
+<lb n="8"/>sin angegeben, weliche im by Schalun uff der Dschalt
+<lb break="no" n="9"/>peny<note>Gemeint ist wohl <placeName ref="stadtasg-places-450">Châlons-en-Champagne</placeName>.</note> und daselbst umbhin XXI personen als in
+<lb n="10"/>drigen dörfferen gholffen zuo todschlachenn, und
+<lb n="11"/>sind mit namen <persName ref="stadtasg-actors-1280">Jacob von Rapperschwyll</persName>, dem ist
+<lb n="12"/>am rechten arm ein wirten uß der eln boggen gehowen,
+<lb n="13"/>der soll ein vater zuo <placeName ref="stadtasg-places-225">Rapperschwyl</placeName> haben, welicher vil
+<lb n="14"/>vychs vor der stat hat, und des letsten zugs uß dem
+<lb n="15"/><placeName ref="stadtasg-places-451">Picardys</placeName> hinuff, als sy die puren zuo tod geschlagen,
+<lb n="16"/>ein wyß roß geritenn und vornacher wol sybenn
+<lb n="17"/>iar under den spanigieren gelegen, <persName ref="stadtasg-actors-1278">Claus von
+<lb n="18"/>Straßburg</persName>, <persName ref="stadtasg-actors-1279">Jopp von Straßburg</persName>, ist ein scherer und hat
+<lb n="19"/>ein buoben by im ghept, <persName ref="stadtasg-actors-1282">Bernhart</persName> und <persName ref="stadtasg-actors-1281">Niklaus
+<lb n="20"/>von Straßburg</persName>, bed des trabanten bruoder gwessen,
+<lb n="21"/><persName ref="stadtasg-actors-1283">Valenthin Wyß</persName> von <placeName ref="stadtasg-places-112">Straßburg</placeName>, <persName ref="stadtasg-actors-1284">Niklaus Scherer</persName>
+<lb n="22"/>und <persName ref="stadtasg-actors-1285">Jacob Dieterich</persName>, ouch bed von <placeName ref="stadtasg-places-112">Straßburg</placeName>, zwen
+<lb n="23"/>von <placeName ref="stadtasg-places-452">Bruntrut</placeName>, die er mit namen nit konen anzeigen.
+<lb n="24"/>So ward einen, welicher nit in yetz gemelter gselschafft
+<lb n="25"/>angeben, aber durch den gerichten armen menschen
+<lb n="26"/>sonst für ein mörder und dieben anzeigt sin mit
+<lb n="27"/>namen <persName ref="stadtasg-actors-1286">Schwytzer Hans</persName> von <placeName ref="stadtasg-places-49">Solothurn</placeName>, hat an ein
+<lb n="28"/>brunen liderinen schoppen und ein karen messer,
+<lb n="29"/>das ist unden bim kloben mit einem wyssen ungerischen
+<lb n="30"/>riemen bewunden, welicher ouch siner scham halb
+<lb n="31"/>gros gebrochen sig, die und nit witer er angeben.
+<lb n="32"/>Und uff uwer früntlich schrybenn wir solichs üch
+<lb n="33"/>guoter früntlicher meinung nit berggen wollen,
+<lb n="34"/>üch fürer nach gstaldt der sachen zehandlen bericht
+<lb n="35"/>haben, dann üch zedienen und nachpurliche
+<lb n="36"/>früntschafft zuo bewysen weren wir yeder zit
+<lb n="37"/>zethuon gneigt. Datum in il <origDate when="1546-01-17">sontags
+<lb n="38"/>vor Sebastione anno etc. 1546</origDate>.
+<lb n="39"/><orgName ref="stadtasg-actors-718" role="issuer">Schultheis und rat
+<lb n="40"/>zuo Winterthur</orgName>.
+<pb facs="StadtASG_Missive_648_1500.JPG" n="2"/>
+<lb n="41"/>Den frommen fürsichtigen wysen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="42"/>meyster und rat der stat Santgallen</orgName>
+<lb n="43"/>unseren guoten fründen und gethrüwen
+<lb n="44"/>lieben nachparenn.
+</p>
+        </body>
+    </text>
+</TEI>

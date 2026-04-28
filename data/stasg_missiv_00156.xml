@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00156">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -82,8 +81,7 @@
                 bekennt, das sie baide ain bottschaft <lb n="5"/>uff gemainenn pfennig ußsenden und
                 ain erkennen han soelten, uff wellich zit dez benanten
                 <persName ref="stadtasg-actors-286">Nückums</persName> sun saeligen <lb n="6"/>abgangen were, geschriben
-                und gebetten haben, den uwern solichem unserm spruch nach zu kommen oder <lb n="7"
-                />aber den unsern füro unbekümbert laußen, zu underwißen. Dem aber der uwer nach her
+                und gebetten haben, den uwern solichem unserm spruch nach zu kommen oder <lb n="7"/>aber den unsern füro unbekümbert laußen, zu underwißen. Dem aber der uwer nach her
                 nit nachkommen <lb n="8"/>noch uns och dehain antwort darumb worden ist. Das uns
                 ettwas unbillich nimpt, doch wie dem <lb n="9"/>so bitten wir aber uwer gutenn
                 früntschaft mit gantzem ernst früntlichist und wir vermogen, wie ir <lb n="10"/>noch
@@ -99,8 +97,7 @@
                 umb uwer lieb verdienen und beschulden, wa sich daz gepurt, <lb n="17"/>sunder
                 zwiffels. Datumm <origDate when="1443-03-16">sabato ante dominica reminiscere anno
                     domini etc. XLIIIo</origDate>. <lb n="18"/><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister
-                    und <lb n="19"/>raute zue Costentz</orgName>. <pb
-                    facs="StadtASG_Missive_156_312.JPG" n="2"/>
+                    und <lb n="19"/>raute zue Costentz</orgName>. <pb facs="StadtASG_Missive_156_312.JPG" n="2"/>
                 <lb n="20"/>Den ersammen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raute
                         <lb n="21"/>zu Santgallen</orgName> unsern besundern guten und lieben
                 fründen. </p>

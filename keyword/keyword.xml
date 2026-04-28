@@ -18,12 +18,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2026-04-20 19:32:08 aus </p>
+        <p>Datenbankexport vom 2026-04-28 12:04:10 aus </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2026-04-20T19:32:08+02:00">teiHeader was automatically produced from the database 2026-04-20T19:32:08+02:00</change>
+      <change when="2026-04-28T12:04:10+02:00">teiHeader was automatically produced from the database 2026-04-28T12:04:10+02:00</change>
     </revisionDesc>
   </teiHeader>
   <standOff>
@@ -5709,26 +5709,6 @@
         <label xml:lang="de" type="sort">eroberung</label>
         <label xml:lang="en" type="main">Eroberung</label>
         <label xml:lang="en" type="sort">eroberung</label>
-      </item>
-      <item xml:id="stadtasg-keywords-594">
-        <label xml:lang="de" type="main">Müsserkrieg</label>
-        <label xml:lang="de" type="sort">muesserkrieg</label>
-        <label xml:lang="en" type="main">Müsserkrieg</label>
-        <label xml:lang="en" type="sort">muesserkrieg</label>
-        <listBibl>
-          <bibl>
-            <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Müsserkrieg"/>
-          </bibl>
-          <bibl>
-            <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q680015"/>
-          </bibl>
-          <bibl>
-            <ptr type="lcnaf" target="https://id.loc.gov/authorities/sh85089099"/>
-          </bibl>
-          <bibl>
-            <ptr type="hls" target="https://hls-dhs-dss.ch/de/articles/008904"/>
-          </bibl>
-        </listBibl>
       </item>
       <item xml:id="stadtasg-keywords-595">
         <label xml:lang="de" type="main">Seeschlacht</label>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00592">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -26,7 +25,7 @@
             <abstract>
                 <p>Bürgermeister und Rat zu Zürich senden an Bürgermeister und Rat zu St. Gallen eine Kopie der Antworten der Fürsten von Sachsen und Hessen sowie Martin Luthers auf den von den Zürchern und St. Gallern an diese gesandten Brief.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
 <term ref="stadtasg-keywords-407">Reformator</term>
@@ -59,34 +58,34 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_592_1255.JPG" n="1" />
+            <pb facs="StadtASG_Missive_592_1255.JPG" n="1"/>
 <p>
-<lb n="1" />Unnser früntlich willig diennst sampt was wir eeren
-<lb n="2" />liebs unnd guots vermögent zuovor frommen fürsichtigen
-<lb n="3" />wyßen besonnders guoten fründ unnd gethrüwen lieben
-<lb n="4" />eydgnosßen. <date when="1538-07-23">Gesterigs abennts</date> ist unnser diener mit der
-<lb n="5" />fürsten von <placeName ref="stadtasg-places-399">Sachsßen</placeName><note>Gemeint ist <persName ref="stadtasg-actors-1162">Johann Friedrich</persName>.</note> unnd <placeName ref="stadtasg-places-398">Hesßen</placeName><note>Gemeint ist <persName ref="stadtasg-actors-1163">Philipp</persName>.</note>, desglychen doctor
-<lb n="6" /><persName ref="stadtasg-actors-1206">Marthin Luthers</persName> anntwurten uff üwer unnd unnser
-<lb n="7" />iüngst an sy gethan schriben, wie ir die uß hieby gelegten
-<lb n="8" />copyen wyter habennt zuoerlernnen widerumb hieby
-<lb n="9" />unns ankommen, die haben wir üch alß unnser
-<lb n="10" />aller gemeyne sach nit lennger wellen unanzeygt
-<lb n="11" />lasßen, damit ir alß die frylich hierumb ouch
-<lb n="12" />verlanngen thragend dero unverzogenlich bericht
-<lb n="13" />werden, unnd alß vyl als wir wisßenns darumb
-<lb n="14" />haben möchten unns darneben aller früntligkeyt
-<lb n="15" />gegen üch erpyettennd. Uß <origPlace ref="stadtasg-places-32">Zürich</origPlace> uff <origDate when="1538-07-24">sannct
-<lb n="16" />Jacobs abennt anno etc. 1538</origDate>.
-<lb n="17" /><orgName ref="stadtasg-actors-503" role="issuer">Burgermeyster unnd
-<lb n="18" />rath der statt Zürich</orgName>.
-<pb facs="StadtASG_Missive_592_1256.JPG" n="2" />
-<pb facs="StadtASG_Missive_592_1257.JPG" n="3" />
-<pb facs="StadtASG_Missive_592_1258.JPG" n="4" />
-<lb n="19" />Den frommen fürsichtigen wysen
-<lb n="20" /><orgName ref="stadtasg-actors-148" role="recipient">burgermeyster unnd rath der statt
-<lb n="21" />sannct Gallen</orgName> unnsern be
-<lb break="no" n="22" />sonders guoten fründen unnd ge
-<lb break="no" n="23" />thrüwen lieben eydgnosßen.
+<lb n="1"/>Unnser früntlich willig diennst sampt was wir eeren
+<lb n="2"/>liebs unnd guots vermögent zuovor frommen fürsichtigen
+<lb n="3"/>wyßen besonnders guoten fründ unnd gethrüwen lieben
+<lb n="4"/>eydgnosßen. <date when="1538-07-23">Gesterigs abennts</date> ist unnser diener mit der
+<lb n="5"/>fürsten von <placeName ref="stadtasg-places-399">Sachsßen</placeName><note>Gemeint ist <persName ref="stadtasg-actors-1162">Johann Friedrich</persName>.</note> unnd <placeName ref="stadtasg-places-398">Hesßen</placeName><note>Gemeint ist <persName ref="stadtasg-actors-1163">Philipp</persName>.</note>, desglychen doctor
+<lb n="6"/><persName ref="stadtasg-actors-1206">Marthin Luthers</persName> anntwurten uff üwer unnd unnser
+<lb n="7"/>iüngst an sy gethan schriben, wie ir die uß hieby gelegten
+<lb n="8"/>copyen wyter habennt zuoerlernnen widerumb hieby
+<lb n="9"/>unns ankommen, die haben wir üch alß unnser
+<lb n="10"/>aller gemeyne sach nit lennger wellen unanzeygt
+<lb n="11"/>lasßen, damit ir alß die frylich hierumb ouch
+<lb n="12"/>verlanngen thragend dero unverzogenlich bericht
+<lb n="13"/>werden, unnd alß vyl als wir wisßenns darumb
+<lb n="14"/>haben möchten unns darneben aller früntligkeyt
+<lb n="15"/>gegen üch erpyettennd. Uß <origPlace ref="stadtasg-places-32">Zürich</origPlace> uff <origDate when="1538-07-24">sannct
+<lb n="16"/>Jacobs abennt anno etc. 1538</origDate>.
+<lb n="17"/><orgName ref="stadtasg-actors-503" role="issuer">Burgermeyster unnd
+<lb n="18"/>rath der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_592_1256.JPG" n="2"/>
+<pb facs="StadtASG_Missive_592_1257.JPG" n="3"/>
+<pb facs="StadtASG_Missive_592_1258.JPG" n="4"/>
+<lb n="19"/>Den frommen fürsichtigen wysen
+<lb n="20"/><orgName ref="stadtasg-actors-148" role="recipient">burgermeyster unnd rath der statt
+<lb n="21"/>sannct Gallen</orgName> unnsern be
+<lb break="no" n="22"/>sonders guoten fründen unnd ge
+<lb break="no" n="23"/>thrüwen lieben eydgnosßen.
 </p>
         </body>
     </text>

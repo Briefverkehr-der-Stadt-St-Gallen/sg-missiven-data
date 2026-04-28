@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00616">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Statthalter und Rat zu Baden bestätigen Bürgermeister und Rat zu St. Gallen den Erhalt ihres Schreibens bezüglich das Erbe von Gallus Ruch, auf das die St. Galler Bürgerin Wybrat Scherrer, seine Mutter, Anspruch erhebt. Gallus Ruch verstarb im Spital zu Baden und hinterliess nur Kleider, die er den Kindern seines Bruders, Ulrich Ruch, vermachte. Weiter wird berichtet, dass die Schuldforderungen von St. Galler Bürgern an Ulrich Ruch berücksichtigt werden, falls nach dem Verkauf von dessen Haus und Hausrat noch Geld übrig bleibt.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
    <term ref="stadtasg-keywords-170">Bestätigung</term>
@@ -68,45 +67,45 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_616_1349.JPG" n="1" />
+            <pb facs="StadtASG_Missive_616_1349.JPG" n="1"/>
 <p>
-<lb n="1" />Errenvesten fromen fürsichtigen ersamen unnd wysenn
-<lb n="2" />besonnder günstig herren unnd fründ üch syent unser
-<lb n="3" />früntlich willig diennst mit erpietung aller eeren bevor.
-<lb n="4" />Wir habennd üwer schribenn von wegen des erbfall
-<lb n="5" /><persName ref="stadtasg-actors-1223">Galli Ruchenn</persName>, den üwer burgerin <persName ref="stadtasg-actors-1224">Wybradt Scherrerin</persName>,
-<lb n="6" />sin muter, zuo beziechen vermeint, deßglichen
-<lb n="7" />der schulden halb, so <persName ref="stadtasg-actors-1221">Uoly Ruch</persName> etlichen üwern burgernn
-<lb n="8" />unnd <persName ref="stadtasg-actors-1222">Hannsen</persName> sinem bruoder zethuon schuldig ist, alles
-<lb n="9" />sines innhalts verstannden. Unnd fügen üch
-<lb n="10" />daruff bester meinung zuovernemen, das bemelter
-<lb n="11" /><persName ref="stadtasg-actors-1223">Galli Ruch</persName> inn unnserm spital mit todt abgangen
-<lb n="12" />unnd nützit annders hinder ime gelassen dann etliche
-<lb n="13" />kleidli, die nit über zwen ald dry guldin werdt, welche er
-<lb n="14" /><persName ref="stadtasg-actors-1221">Uoly Ruchen</persName> sines bruoders kind vermachet, das wir (damit
-<lb n="15" />das kind dester baß ertzogenn) guetlich verwillgt unnd
-<lb n="16" />nachglassen, dann sunst die kleidli bemeltem unserm
-<lb n="17" />spital heimgefallen weren. <persName ref="stadtasg-actors-1221">Uoly Ruchen</persName>
-<lb n="18" />halb, welcher unnsern burgern eben erberlich zethuon
-<lb n="19" />schuldig, so dann sin huß (welches ietz des verkouffs
-<lb n="20" />halb inn spann statt) ververtiget unnd bezallt, ouch
-<lb n="21" />annder sin hußblunder und werchzüg verkoufft,
-<lb n="22" />unnd dann etwas vor were, weltenn wir dann üwerer
-<lb n="23" />burgernn ouch ingedennck sin. Das habennt
-<lb n="24" />wir üch bester meinung nit wellen verhaltenn, dann
-<lb n="25" />üch diennstlichen und früntlichen willen zuo erzeigen,
-<lb n="26" />werenn wir sonnders gneigt und willig. Datum
-<lb n="27" /><origDate when="1542-02-22">mitwuch vor Mathie apostoli anno etc. XLII</origDate>.
-<lb n="28" /><orgName ref="stadtasg-actors-1225" role="issuer">Statthallter unnd rhatt
-<lb n="29" />zuo Baden inn Ergoew</orgName>.
-<pb facs="StadtASG_Missive_616_1350.JPG" n="2" />
-<pb facs="StadtASG_Missive_616_1351.JPG" n="3" />
-<pb facs="StadtASG_Missive_616_1352.JPG" n="4" />
-<lb n="30" />Den errenvesten fromen fürsichtigenn
-<lb n="31" />ersamen unnd wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister
-<lb n="32" />unnd rhatt der statt santt Gallenn</orgName>
-<lb n="33" />unnsern besonndren günstigen herren
-<lb n="34" />unnd fründenn.
+<lb n="1"/>Errenvesten fromen fürsichtigen ersamen unnd wysenn
+<lb n="2"/>besonnder günstig herren unnd fründ üch syent unser
+<lb n="3"/>früntlich willig diennst mit erpietung aller eeren bevor.
+<lb n="4"/>Wir habennd üwer schribenn von wegen des erbfall
+<lb n="5"/><persName ref="stadtasg-actors-1223">Galli Ruchenn</persName>, den üwer burgerin <persName ref="stadtasg-actors-1224">Wybradt Scherrerin</persName>,
+<lb n="6"/>sin muter, zuo beziechen vermeint, deßglichen
+<lb n="7"/>der schulden halb, so <persName ref="stadtasg-actors-1221">Uoly Ruch</persName> etlichen üwern burgernn
+<lb n="8"/>unnd <persName ref="stadtasg-actors-1222">Hannsen</persName> sinem bruoder zethuon schuldig ist, alles
+<lb n="9"/>sines innhalts verstannden. Unnd fügen üch
+<lb n="10"/>daruff bester meinung zuovernemen, das bemelter
+<lb n="11"/><persName ref="stadtasg-actors-1223">Galli Ruch</persName> inn unnserm spital mit todt abgangen
+<lb n="12"/>unnd nützit annders hinder ime gelassen dann etliche
+<lb n="13"/>kleidli, die nit über zwen ald dry guldin werdt, welche er
+<lb n="14"/><persName ref="stadtasg-actors-1221">Uoly Ruchen</persName> sines bruoders kind vermachet, das wir (damit
+<lb n="15"/>das kind dester baß ertzogenn) guetlich verwillgt unnd
+<lb n="16"/>nachglassen, dann sunst die kleidli bemeltem unserm
+<lb n="17"/>spital heimgefallen weren. <persName ref="stadtasg-actors-1221">Uoly Ruchen</persName>
+<lb n="18"/>halb, welcher unnsern burgern eben erberlich zethuon
+<lb n="19"/>schuldig, so dann sin huß (welches ietz des verkouffs
+<lb n="20"/>halb inn spann statt) ververtiget unnd bezallt, ouch
+<lb n="21"/>annder sin hußblunder und werchzüg verkoufft,
+<lb n="22"/>unnd dann etwas vor were, weltenn wir dann üwerer
+<lb n="23"/>burgernn ouch ingedennck sin. Das habennt
+<lb n="24"/>wir üch bester meinung nit wellen verhaltenn, dann
+<lb n="25"/>üch diennstlichen und früntlichen willen zuo erzeigen,
+<lb n="26"/>werenn wir sonnders gneigt und willig. Datum
+<lb n="27"/><origDate when="1542-02-22">mitwuch vor Mathie apostoli anno etc. XLII</origDate>.
+<lb n="28"/><orgName ref="stadtasg-actors-1225" role="issuer">Statthallter unnd rhatt
+<lb n="29"/>zuo Baden inn Ergoew</orgName>.
+<pb facs="StadtASG_Missive_616_1350.JPG" n="2"/>
+<pb facs="StadtASG_Missive_616_1351.JPG" n="3"/>
+<pb facs="StadtASG_Missive_616_1352.JPG" n="4"/>
+<lb n="30"/>Den errenvesten fromen fürsichtigenn
+<lb n="31"/>ersamen unnd wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister
+<lb n="32"/>unnd rhatt der statt santt Gallenn</orgName>
+<lb n="33"/>unnsern besonndren günstigen herren
+<lb n="34"/>unnd fründenn.
 </p>
         </body>
     </text>

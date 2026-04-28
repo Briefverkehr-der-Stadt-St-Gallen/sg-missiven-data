@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00640-suppl-01">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Paul Gall, Binder und Bürger von Nördlingen, bittet Bürgermeister und Rat zu Nördlingen im Namen seiner Mutter um Unterstützung. Seine Mutter benötigt einen schriftlichen Beleg, dass sie unberechtigt des vergangenen Diebstahls eines Stücks Leinwands von einem St. Galler Bürger namens Martin Hux bezichtigt wird. Martin Hux selbst hatte die Mutter von Paul Gall bereits verhört und ist von ihrer Unschuld überzeugt. Paul Gall bittet Bürgermeister und Rat zu Nördlingen deshalb um einen Begleit- oder Kompassbrief, damit er selbst nach St. Gallen gehen könne, um dort eine von der St. Galler Obrigkeit besiegelte Aussage von Hux zu erhalten.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
    <term ref="stadtasg-keywords-604">Beilage</term>
@@ -63,11 +62,11 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_639_1477.JPG" n="1" />
+            <pb facs="StadtASG_Missive_639_1477.JPG" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_639_1478.JPG" n="2" />
-<pb facs="StadtASG_Missive_639_1479.JPG" n="3" />
-<pb facs="StadtASG_Missive_639_1480.JPG" n="4" />
+<pb facs="StadtASG_Missive_639_1478.JPG" n="2"/>
+<pb facs="StadtASG_Missive_639_1479.JPG" n="3"/>
+<pb facs="StadtASG_Missive_639_1480.JPG" n="4"/>
 </p>
         </body>
     </text>

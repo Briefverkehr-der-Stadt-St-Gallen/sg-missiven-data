@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_04034">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Bürgermeister und Rat zu St. Gallen schicken zwei Gesandte, den Oberbaumeister und Ratsangehörigen Cyrill Finsterling und das Ratsmitglied Georg Zwicker, nach Appenzell Ausser- und Innerrhoden, die das Anliegen der Stadt mündlich vortragen werden. Es geht um eine an die Tagsatzung versandte Schmähschrift eines nicht weiter identifizierbaren Zieglers.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
                     <term ref="stadtasg-keywords-281">Entwurf</term>
@@ -59,11 +58,11 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_4034_16283.jpg" n="1" />
+            <pb facs="StadtASG_Missive_4034_16283.jpg" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_4034_16284.jpg" n="2" />
-<pb facs="StadtASG_Missive_4034_16285.jpg" n="3" />
-<pb facs="StadtASG_Missive_4034_16286.jpg" n="4" />
+<pb facs="StadtASG_Missive_4034_16284.jpg" n="2"/>
+<pb facs="StadtASG_Missive_4034_16285.jpg" n="3"/>
+<pb facs="StadtASG_Missive_4034_16286.jpg" n="4"/>
 </p>
         </body>
     </text>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00044">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -84,9 +83,7 @@
                 im claignen wolt, do muest er das gericht vertroesten. <lb n="5"/>Also vertroest im
                     <persName ref="stadtasg-actors-165">Walter Coppenhan</persName> von bett wegen
                     <persName ref="stadtasg-actors-588">Hansen Staihels</persName>
-                <!--Familie Stäheli / Stähelin? Zweig der Blarer, erfasst als Hans Stahel--> das gericht, was gericht <lb
-                    n="6"/>und urtal gaeb, das der <persName ref="stadtasg-actors-588">Staihel</persName> und die <orgName
-                    ref="stadtasg-actors-543">Kessler</orgName> das hailten soeltint und da by beliben, ietz
+                <!--Familie Stäheli / Stähelin? Zweig der Blarer, erfasst als Hans Stahel--> das gericht, was gericht <lb n="6"/>und urtal gaeb, das der <persName ref="stadtasg-actors-588">Staihel</persName> und die <orgName ref="stadtasg-actors-543">Kessler</orgName> das hailten soeltint und da by beliben, ietz
                     <lb n="7"/>und hie nach. Des hat nun <persName ref="stadtasg-actors-167">Egli
                     Kessler</persName>
                 <persName ref="stadtasg-actors-166">Hansen am Egglin</persName> in üwer statt über löffen und
@@ -101,10 +98,8 @@
                 gedienen. Üwer verschriben antwurt land uns wissen by dissem <lb n="14"/>botten.
                 Geben am <origDate when="1431-01-07">suntag nach dem zwoelften tag anno domini Mo
                     CCCCo XXXI</origDate>. <lb n="15"/><orgName ref="stadtasg-actors-506" role="issuer">Amman
-                    und raut <lb n="16"/>zue Appenzelle</orgName>. <pb
-                    facs="StadtASG_Missive_44_88.JPG" n="2"/>
-                <lb n="17"/>Den ersammen wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
-                    >burgermaister und rat <lb n="18"/>zue sant Gallen</orgName> unsern lieben und
+                    und raut <lb n="16"/>zue Appenzelle</orgName>. <pb facs="StadtASG_Missive_44_88.JPG" n="2"/>
+                <lb n="17"/>Den ersammen wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat <lb n="18"/>zue sant Gallen</orgName> unsern lieben und
                 gueten fründen. </p>
         </body>
     </text>

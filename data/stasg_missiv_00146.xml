@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00146">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -73,8 +72,7 @@
             <p>
                 <lb n="1"/><persName ref="stadtasg-actors-49" role="issuer">Fridreich</persName> von gots
                 gnaden romischer künig zu allentzeiten <lb n="2"/>merer der <orgName ref="stadtasg-actors-559">Reichs</orgName>, hertzog ze
-                    <placeName ref="stadtasg-places-91">Osterreich</placeName> und ze <placeName
-                    ref="stadtasg-places-94">Steyr</placeName> etc. <lb n="3"/>Lieben getrewn. Wir schikchen
+                    <placeName ref="stadtasg-places-91">Osterreich</placeName> und ze <placeName ref="stadtasg-places-94">Steyr</placeName> etc. <lb n="3"/>Lieben getrewn. Wir schikchen
                 zu ew den edlen <persName ref="stadtasg-actors-61">Jacoben</persName>, druchksess von
                     <placeName ref="stadtasg-places-107">Walpurg</placeName>, unsern <lb n="4"/>und des <orgName ref="stadtasg-actors-559">Reichs</orgName>
                 lanntvogte in <placeName ref="stadtasg-places-108">Swaben</placeName>, rate und lieben
@@ -84,11 +82,8 @@
                 bringen <lb n="7"/>und werben werde, daz ir im das gentzlich glaubet als uns selber.
                 Geben zu <placeName ref="stadtasg-places-16">Frankchfort <lb n="8"/>am Meyn</placeName> am
                     <origDate when="1442-07-28">sunnabende nach sand Jacobs tag anno etc.
-                    quadragesimosecundo unsers <lb n="9"/>Reichs im dritten iare</origDate>. <lb
-                    n="10"/>c<ex cert="medium">ommissio</ex> propria domini regis. <pb facs="StadtASG_Missive_146_292.JPG"
-                    n="2"/>
-                <lb n="11"/>Unsern und des <orgName ref="stadtasg-actors-559">Richs</orgName> lieben getruen <orgName ref="stadtasg-actors-148"
-                    role="recipient">burgermeister <lb n="12"/>und rate zu sannt Gallen</orgName>.
+                    quadragesimosecundo unsers <lb n="9"/>Reichs im dritten iare</origDate>. <lb n="10"/>c<ex cert="medium">ommissio</ex> propria domini regis. <pb facs="StadtASG_Missive_146_292.JPG" n="2"/>
+                <lb n="11"/>Unsern und des <orgName ref="stadtasg-actors-559">Richs</orgName> lieben getruen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister <lb n="12"/>und rate zu sannt Gallen</orgName>.
             </p>
         </body>
     </text>

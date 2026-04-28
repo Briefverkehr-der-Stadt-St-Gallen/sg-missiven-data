@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00629-suppl-01">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Die auf dem Reichstag zu Speyer versammelten Kurfürsten, Fürsten und Stände des Reichs bestätigen den in Baden versammelten 13 Orte der Eidgenossenschaft den Erhalt ihrer Antwort betreffend die Söldnerfrage. Die Antwort der Tagsatzung, weder eidgenössische Hauptleute noch Söldner im Dienst des französischen Königs hätten von dessen Bündnis mit den Osmanen gegen den Kaiser gewusst, wird stark angezweifelt.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
      <term ref="stadtasg-keywords-604">Beilage</term>
@@ -68,15 +67,15 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_629_1413.JPG" n="1" />
+            <pb facs="StadtASG_Missive_629_1413.JPG" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_629_1414.JPG" n="2" />
-<pb facs="StadtASG_Missive_629_1411.JPG" n="3" />
-<pb facs="StadtASG_Missive_629_1412.JPG" n="4" />
-<pb facs="StadtASG_Missive_630_1417.JPG" n="5" />
-<pb facs="StadtASG_Missive_630_1418.JPG" n="6" />
-<pb facs="StadtASG_Missive_629_1415.JPG" n="7" />
-<pb facs="StadtASG_Missive_629_1416.JPG" n="8" />
+<pb facs="StadtASG_Missive_629_1414.JPG" n="2"/>
+<pb facs="StadtASG_Missive_629_1411.JPG" n="3"/>
+<pb facs="StadtASG_Missive_629_1412.JPG" n="4"/>
+<pb facs="StadtASG_Missive_630_1417.JPG" n="5"/>
+<pb facs="StadtASG_Missive_630_1418.JPG" n="6"/>
+<pb facs="StadtASG_Missive_629_1415.JPG" n="7"/>
+<pb facs="StadtASG_Missive_629_1416.JPG" n="8"/>
 </p>
         </body>
     </text>

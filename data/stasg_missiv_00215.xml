@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00215">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -77,20 +76,16 @@
                 getrüwen fründe. Also sendent wir <lb n="2"/>üch C guldin verfallner zinsen, und umb
                 die XX guldin, so ietz uff <date when="1449-06-04">mitwuchen fronfasten zu
                 pfingsten</date> <lb n="3"/>vallen werdent, meinend wir üch zu senden by uwerm
-                burgermeyster uff dem tag zu <placeName ref="stadtasg-places-141">Utznang</placeName>, <lb
-                    n="4"/>den er gesetzt hat uff <date when="1449-06-22">sunnentag vor Johannis
+                burgermeyster uff dem tag zu <placeName ref="stadtasg-places-141">Utznang</placeName>, <lb n="4"/>den er gesetzt hat uff <date when="1449-06-22">sunnentag vor Johannis
                     Baptiste</date>, und bitten üch früntlich, soelich gelt <lb n="5"/>von uns zu
-                nemen und uns um unser angülten der manung und leistung, als sy gemant sind, <lb
-                    n="6"/>ze erlassen und uns uwern quittbrieff umb die C guldin by dem botten zu
+                nemen und uns um unser angülten der manung und leistung, als sy gemant sind, <lb n="6"/>ze erlassen und uns uwern quittbrieff umb die C guldin by dem botten zu
                 senden, und uwern <lb n="7"/>guotten willen gen uns harinne zu erzoeigend, als wir
                 uns des zu üwer früntschafft gantz versehen <lb n="8"/>und mit guottem willen umb
                 üch begern ze verdienen. Datum <origDate when="1449-06-01">ipsa die festivitatis
-                    penthecostes <lb n="9"/>anno domini etc. XLVIIIIno</origDate>. <lb n="10"
-                    /><orgName ref="stadtasg-actors-522" role="issuer">Lanndtammann und <lb n="11"/>der rate
+                    penthecostes <lb n="9"/>anno domini etc. XLVIIIIno</origDate>. <lb n="10"/><orgName ref="stadtasg-actors-522" role="issuer">Lanndtammann und <lb n="11"/>der rate
                     zu Swytz</orgName>
                 <pb facs="StadtASG_Missive_215_432.JPG" n="2"/>
-                <lb n="12"/>Den ersamen fürnaemen und wysen <orgName ref="stadtasg-actors-148"
-                    role="recipient">burgermeyster <lb n="13"/>und rat zu sant Gallen</orgName>
+                <lb n="12"/>Den ersamen fürnaemen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermeyster <lb n="13"/>und rat zu sant Gallen</orgName>
                 unsern sundern lieben guotten <lb n="14"/>und getrüwen fründen. </p>
         </body>
     </text>

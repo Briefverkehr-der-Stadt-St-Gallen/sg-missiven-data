@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_03847">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Bürgermeister und Rat zu St. Gallen setzen sich bei Joachim Volkmar, Obrist und Generalmajor der schwedischen Armee und Kommandant zu Überlingen, für zwei ihrer Bürger ein. Diese hätten Salzfässchen gekauft, die ihnen auf einem lindauischen Schiff zugeschickt werden sollten. Dieses Schiff sei von Volkmar unterstellten Soldaten aufgegriffen und die Ladung sei nach Überlingen verbracht worden. Bürgermeister und Rat zu St. Gallen ersuchen den Kommandanten, dass die Salzfässchen frei gegeben und den Käufern unentgeltlich und ohne Verzug zurückgegeben werden.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
                 <term ref="stadtasg-keywords-224">Schiff</term>
@@ -60,9 +59,9 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_3847_15511.jpg" n="1" />
+            <pb facs="StadtASG_Missive_3847_15511.jpg" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_3847_15512.jpg" n="2" />
+<pb facs="StadtASG_Missive_3847_15512.jpg" n="2"/>
 </p>
         </body>
     </text>

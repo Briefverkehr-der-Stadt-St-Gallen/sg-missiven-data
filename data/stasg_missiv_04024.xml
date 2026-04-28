@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_04024">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Bürgermeister und Rat zu St. Gallen bestätigen Hauptmannschaft, Bürgermeister und Rat zu Konstanz den Erhalt ihres Antwortschreibens betreffend eines im Jahr 1633 gewährten Darlehens von 3000 Gulden. Obwohl der St. Galler Säckelmeister Georg Zwicker den Kredit aufgekündigt und sowohl das Hauptgut als auch die ausstehenden Zinsen eingefordert hatte und die Stadt St. Gallen, verursacht durch ausserordentliche Ausgaben, sich in einer finanziell angespannten Lage befindet, verlängern Bürgermeister und Rat zu St. Gallen die Rückzahlungsfrist des Darlehens um ein bis zwei Jahre. Man bittet aber die Konstanzer, die ausstehenden Zinsen sofort zu begleichen.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
   <term ref="stadtasg-keywords-281">Entwurf</term>
@@ -61,9 +60,9 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_4024_16249.jpg" n="1" />
+            <pb facs="StadtASG_Missive_4024_16249.jpg" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_4024_16250.jpg" n="2" />
+<pb facs="StadtASG_Missive_4024_16250.jpg" n="2"/>
 </p>
         </body>
     </text>

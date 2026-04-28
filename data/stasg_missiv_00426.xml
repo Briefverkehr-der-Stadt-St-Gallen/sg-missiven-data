@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00426">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Ammann und Rat zu Schwyz bitten Bürgermeister und Rat zu St. Gallen, in der Auseinandersetzung zwischen Ritter Johann von Toggenburg, Landmann zu Schwyz, und seiner Ehefrau Maria von Ratzenhausen einerseits und denen von Kempten und Neukirch andererseits einen Gerichtstag zu setzen, nachdem die St. Galler von den Eidgenossen dazu bestimmt wurden, diesen Streit zu schlichten, und die von Kempten und Neukirch ebenfalls um einen Gerichtstag gebeten haben. Die Schwyzer bitten um eine schriftliche Antwort mit dem gleichen Boten.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
   <term ref="stadtasg-keywords-22">Konflikt</term>
@@ -63,26 +62,26 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_426_869.JPG" n="1" />
+            <pb facs="StadtASG_Missive_426_869.JPG" n="1"/>
 <p>
-<lb n="1" />Unnser früntlich willig diennste und was wir in allen sachen guottes vermoegen zuo vor ersammen wisen
-<lb n="2" />besonndern guotten fründe und getrüwen lieben eydgnossen. Der spenn und irrunng halb anhanngent zwüschent
-<lb n="3" />unnserm lanntmann her <persName ref="stadtasg-actors-916">Hansen von Toggenburg</persName>, ritter, und frow <persName ref="stadtasg-actors-917">Maryen von Rattzenhusen</persName>, siner egemachlenn,
-<lb n="4" />an einem und dennen von <placeName ref="stadtasg-places-40" cert="medium">Kempten</placeName> und <placeName ref="stadtasg-places-323" cert="medium">Nükirch</placeName> am andern teyle, dero sy zuo beyder sytte uff üwer liebe durch
-<lb n="5" />gemein eydgnossen zuo rechtlichem ußtrag betaedinget synd, und nach dem aber die sache bitz har verzogenn
-<lb n="6" />und noch unußgericht anhangent, und aber dem unnsern taeglich costen und schaden uff die sach gand, und wir daby
-<lb n="7" />verstand, das ir vonn der widerparthye rechtlich tag zesetzenn und den dingen ustrag ze gebenn gebetten syent, und
-<lb n="8" />darumm lieben eydgnossen so bittent wir üch mitt ernst vlysslich von des unnsern wegenn, das ir der dinghalb
-<lb n="9" />beyden parthyen angends und kurtz rechttag setzen und den verkünden und inen zuo beyder sitte ab den dingen
-<lb n="10" />helffen und entlichenn ußtrag geben, damitt merer unruow, cost, mueg und arbeitt, so dar uß erwachsen
-<lb n="11" />moecht, vermitten plibe. Das begern wir umb üwer liebe gar früntlich ze verdienenn und begerend des üwer antwurt ze vernemenn
-<lb n="12" />schrifftlich by disem botten. Datum uff <origDate when="1482-09-07">samstag nach sant Verenen tag anno domini etc. LXXXII</origDate>.
-<lb n="13" /><orgName ref="stadtasg-actors-522" role="issuer">Landammann unnd
-<lb n="14" />ratte zuo Swyttz</orgName>.
-<pb facs="StadtASG_Missive_426_870.JPG" n="2" />
-<lb n="15" />Den ersammen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister unnd ratte zuo
-<lb n="16" />sannt Gallen</orgName> unnsern besonndern guotten fründen
-<lb n="17" />und getrüwen lieben eydgnossen.
+<lb n="1"/>Unnser früntlich willig diennste und was wir in allen sachen guottes vermoegen zuo vor ersammen wisen
+<lb n="2"/>besonndern guotten fründe und getrüwen lieben eydgnossen. Der spenn und irrunng halb anhanngent zwüschent
+<lb n="3"/>unnserm lanntmann her <persName ref="stadtasg-actors-916">Hansen von Toggenburg</persName>, ritter, und frow <persName ref="stadtasg-actors-917">Maryen von Rattzenhusen</persName>, siner egemachlenn,
+<lb n="4"/>an einem und dennen von <placeName ref="stadtasg-places-40" cert="medium">Kempten</placeName> und <placeName ref="stadtasg-places-323" cert="medium">Nükirch</placeName> am andern teyle, dero sy zuo beyder sytte uff üwer liebe durch
+<lb n="5"/>gemein eydgnossen zuo rechtlichem ußtrag betaedinget synd, und nach dem aber die sache bitz har verzogenn
+<lb n="6"/>und noch unußgericht anhangent, und aber dem unnsern taeglich costen und schaden uff die sach gand, und wir daby
+<lb n="7"/>verstand, das ir vonn der widerparthye rechtlich tag zesetzenn und den dingen ustrag ze gebenn gebetten syent, und
+<lb n="8"/>darumm lieben eydgnossen so bittent wir üch mitt ernst vlysslich von des unnsern wegenn, das ir der dinghalb
+<lb n="9"/>beyden parthyen angends und kurtz rechttag setzen und den verkünden und inen zuo beyder sitte ab den dingen
+<lb n="10"/>helffen und entlichenn ußtrag geben, damitt merer unruow, cost, mueg und arbeitt, so dar uß erwachsen
+<lb n="11"/>moecht, vermitten plibe. Das begern wir umb üwer liebe gar früntlich ze verdienenn und begerend des üwer antwurt ze vernemenn
+<lb n="12"/>schrifftlich by disem botten. Datum uff <origDate when="1482-09-07">samstag nach sant Verenen tag anno domini etc. LXXXII</origDate>.
+<lb n="13"/><orgName ref="stadtasg-actors-522" role="issuer">Landammann unnd
+<lb n="14"/>ratte zuo Swyttz</orgName>.
+<pb facs="StadtASG_Missive_426_870.JPG" n="2"/>
+<lb n="15"/>Den ersammen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister unnd ratte zuo
+<lb n="16"/>sannt Gallen</orgName> unnsern besonndern guotten fründen
+<lb n="17"/>und getrüwen lieben eydgnossen.
 </p>
         </body>
     </text>

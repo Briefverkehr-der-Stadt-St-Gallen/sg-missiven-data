@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00078">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -78,25 +77,19 @@
                 am andern, darumb er denne mer denn ainmal und nemlich zu letst, als mit unser erber
                 ratz <lb break="no" n="4"/>bottschaft vor üch gewesen ist, und darumb er den üwern
                 vor üch gern gerechtvertiget hette, denne daz <lb n="5"/>er sich im bisher noch
-                allweg entseit und das recht geflohen sie, als er spricht, das uns nu ett <lb
-                    break="no" n="6"/>was, ob daz also an im selbs ist, zu mal unbillich hat. Bitten
+                allweg entseit und das recht geflohen sie, als er spricht, das uns nu ett <lb break="no" n="6"/>was, ob daz also an im selbs ist, zu mal unbillich hat. Bitten
                 wir üwer guotten früntschaft <lb n="7"/>mit besunderm ernste flyßig, wie ir mit
                 dem üwerm schaffen, in darzu halten und underwisen <lb n="8"/>woellen, dem unsern
-                umb sin zuospruch ains unverzogen rechten vor üch zu sin, als daz billich <lb n="9"
-                />ist, und im darinne füro dhain verziehen mer ze tun, sunder den unsern in dem
+                umb sin zuospruch ains unverzogen rechten vor üch zu sin, als daz billich <lb n="9"/>ist, und im darinne füro dhain verziehen mer ze tun, sunder den unsern in dem
                 güttlich zu <lb n="10"/>fürdren und üch darinne zu bewisen, als wir dez ain
                 besunder guot getrüwen zu üch haben, denn <lb n="11"/>solich verziehen der unser
                 laider nit zu erswingen hant, das stat uns mit sunderm willen <lb n="12"/>umb üch
                 zu verdienent, denne soelte er im füro dhain verziehen mer darinn tuon, soelte er
                 in denn <lb n="13"/>mit froemden gerichten fürnemen, verstand ir wol, das wir im
-                daz mit glimpf kains wegs <lb n="14"/>vor gesin moechtten. Datum <origDate
-                    when="1436-05-30">feria quarta infra octavas penthecostes anno etc.
-                    XXXVIto</origDate>. <lb n="15"/><orgName ref="stadtasg-actors-512" role="issuer">Burgermaister und <lb
-                        n="16"/>rate zu Rotwil</orgName>. <pb facs="StadtASG_Missive_78_156.JPG"
-                    n="2"/>
+                daz mit glimpf kains wegs <lb n="14"/>vor gesin moechtten. Datum <origDate when="1436-05-30">feria quarta infra octavas penthecostes anno etc.
+                    XXXVIto</origDate>. <lb n="15"/><orgName ref="stadtasg-actors-512" role="issuer">Burgermaister und <lb n="16"/>rate zu Rotwil</orgName>. <pb facs="StadtASG_Missive_78_156.JPG" n="2"/>
                 <lb n="17"/>Den ersamen wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rate der
-                        <lb n="18"/>stat sant Gallen</orgName> unsern besundern lieben und <lb
-                    n="19"/>guoten fründen. </p>
+                        <lb n="18"/>stat sant Gallen</orgName> unsern besundern lieben und <lb n="19"/>guoten fründen. </p>
         </body>
     </text>
 </TEI>

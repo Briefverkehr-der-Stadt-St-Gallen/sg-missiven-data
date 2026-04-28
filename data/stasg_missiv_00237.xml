@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00237">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -85,8 +84,7 @@
                 und guten frunde. Uns kompt fur, wie <persName ref="stadtasg-actors-374"><lb n="2"/>Ulrich
                     Schmitter</persName>, unser burger, uns vor uch und den uwern merglich
                 verungelimphet und verclagt habe, über <lb n="3"/>dz im des nit not getan, er uns
-                ouch sin burgrecht nit uffgeben hat, darumbe er uns eyds und eren halp anders <lb
-                    n="4"/>denn uns zeverclagen schuldig gewesen und noch ist, dazu er solichs so
+                ouch sin burgrecht nit uffgeben hat, darumbe er uns eyds und eren halp anders <lb n="4"/>denn uns zeverclagen schuldig gewesen und noch ist, dazu er solichs so
                 vil dester unbillicher getan, so er die un <lb break="no" n="5"/>warheit als wir
                 besorgent uns ze verungelimphen gebrucht hat, denn wir hoffen, dz weder er noch
                 nyemand mit <lb n="6"/>der warheit uns verungelimphen moge. Umb dz nu uwer liebe der
@@ -95,8 +93,7 @@
                 eyn frowe <lb n="8"/>by uns, genant <persName ref="stadtasg-actors-375">Margret von Kilchen</persName>, wilent
                 <persName ref="stadtasg-actors-376">Werlins von Kilchen</persName> seligen witwe, des benanten
                 <persName ref="stadtasg-actors-374">Ulrich Schmitters </persName><lb n="9"/>husfrowen mit dem geistlichen
-                gericht by uns fürgenomen und gemeynt hat, sy ze beclagen umb etlich scheltwort <lb
-                    n="10"/>oder hinderrede, die sy ir zugeleit haben solle, ir an ir ere rürende.
+                gericht by uns fürgenomen und gemeynt hat, sy ze beclagen umb etlich scheltwort <lb n="10"/>oder hinderrede, die sy ir zugeleit haben solle, ir an ir ere rürende.
                 Also hat ir <persName ref="stadtasg-actors-374">Ulrich Schmitters</persName> frowe da nit <lb n="11"/>wollen
                 antwurten, sunders er het an uns begert, wir sollent die <orgName ref="stadtasg-actors-572">von
                     Kilchen</orgName> dazu wisen, habe sy sin husfrowen <lb n="12"/>anzesprechen,
@@ -122,24 +119,19 @@
                 husfrowen an iren kosten uß dem <lb n="23"/>bann zu laßen und recht vor unserm
                 gericht von ir ze nemen. Wir hand solichs aber an die <persName ref="stadtasg-actors-375">von
                     Kilchen</persName> gesucht, <lb n="24"/>sy het uns geantwurtet, sy sye des nit
-                schuldig ze tunde, doch umb dz man aber sehe, dz sy der sache gern ende <lb n="25"
-                />hette, so wolle sy die <persName ref="stadtasg-actors-377">Schmitterin</persName> uß bann laßen, also dz sy
+                schuldig ze tunde, doch umb dz man aber sehe, dz sy der sache gern ende <lb n="25"/>hette, so wolle sy die <persName ref="stadtasg-actors-377">Schmitterin</persName> uß bann laßen, also dz sy
                 sich in irem kosten daruß lose und ir furer in dem <lb n="26"/>rechten antwurte, so
                 wolle sy ir clage offenlich von munde laßen tun. Die
                 <persName ref="stadtasg-actors-377">Schmitterin</persName> hat sich uß dem <lb n="27"/>bann nit wollen
                 losen, wie wol es nit me denn umb XIIII stebler ze tunde were gewesen. Wir hand
                 furbaß <lb n="28"/>laßen suchen, dz man sy uß bann laßen und der koste biß zu ußtrag
                 der sache angestan bliben solt. In dem <lb n="29"/>ist der <persName ref="stadtasg-actors-377">Schmitterin</persName> halp der
-                sache nit nachgangen worden und da mit ye sither in dem bann bliben, und <lb n="30"
-                />understat <persName ref="stadtasg-actors-374">Schmitter</persName>, uns darumb mit sinen geschrifften ze
-                betedingen, und meynt, sit dem mole wir die von <lb n="31"
-                /><persName ref="stadtasg-actors-375">Kilchen</persName> nit wisen wollent, vor uns recht ze nemmen, dz sy
+                sache nit nachgangen worden und da mit ye sither in dem bann bliben, und <lb n="30"/>understat <persName ref="stadtasg-actors-374">Schmitter</persName>, uns darumb mit sinen geschrifften ze
+                betedingen, und meynt, sit dem mole wir die von <lb n="31"/><persName ref="stadtasg-actors-375">Kilchen</persName> nit wisen wollent, vor uns recht ze nemmen, dz sy
                 denn sin husfrowen uß bann laße, so solle sy ir gerecht <lb n="32"/>werden vor uwerm
                 rate oder vor dem rate zu <placeName ref="stadtasg-places-69">Lucern</placeName> oder zu
-                <placeName ref="stadtasg-places-57">Waltshut</placeName>, also dz sy ir hinwider umbe ouch ge <lb
-                    break="no" n="33"/>recht werde und ein recht mit dem andern zugange. Wir hand
-                die <persName ref="stadtasg-actors-375">von Kilchen</persName> aber sin geschrifft laßen hören, <lb n="34"
-                />die het uns geantwurtet, die sachen ir spennen haben sich under der gewaltsami der
+                <placeName ref="stadtasg-places-57">Waltshut</placeName>, also dz sy ir hinwider umbe ouch ge <lb break="no" n="33"/>recht werde und ein recht mit dem andern zugange. Wir hand
+                die <persName ref="stadtasg-actors-375">von Kilchen</persName> aber sin geschrifft laßen hören, <lb n="34"/>die het uns geantwurtet, die sachen ir spennen haben sich under der gewaltsami der
                 gerichten ze <placeName ref="stadtasg-places-133">Basel</placeName> gemacht <lb n="35"/>zu den ziten, da
                 <persName ref="stadtasg-actors-374">Schmitter</persName> und sin husfrowe wonhafft by uns gewesen syent.
                 Dazu syent sy noch hüt bi tage <lb n="36"/>burger ze <placeName ref="stadtasg-places-133">Basel</placeName>,
@@ -150,11 +142,9 @@
                 <persName ref="stadtasg-actors-375">von Kilchen</persName>
                 <lb n="39"/>nit wisen, vor uns recht ze nemen, dz solichs an unserm wollen nit
                 erwunden ist, denn dz wir sy von dem <lb n="40"/>angefangenn rechten nit ze
-                trengende haben. Nach dem die bede gericht in unser stat menglichem inn frye und <lb
-                    n="41"/>der frowen als eyner witwen unverbannen sint, wolle er da den sachen in
+                trengende haben. Nach dem die bede gericht in unser stat menglichem inn frye und <lb n="41"/>der frowen als eyner witwen unverbannen sint, wolle er da den sachen in
                 obgeschribener maße nachgan, <lb n="42"/>so mogent sy bede sich zu uns fügen, so
-                sollent sy ouch getröstet sin, die sache mit recht zu volenden. By dem <lb n="43"
-                />allem wir hoffent, uwer liebe wol verstande, ob uns <persName ref="stadtasg-actors-374">Ulrich
+                sollent sy ouch getröstet sin, die sache mit recht zu volenden. By dem <lb n="43"/>allem wir hoffent, uwer liebe wol verstande, ob uns <persName ref="stadtasg-actors-374">Ulrich
                     Schmitter</persName> der sache halp yenen verclagt habe, <lb n="44"/>dz er das
                 unbillich getan hat, bitten ouch uwer lieben und guoten fruntschafft mit flißigem
                 ernst, ir wollent <lb n="45"/>im noch andern von sinen wegen anders nit, denn als
@@ -163,13 +153,10 @@
                 das <lb n="47"/>umb uch und alle die uwern verdienen konnen, wollent wir alczyt
                 willig sin, und sye uch der sache <lb n="48"/>halp uczit begegenet und für begegenen
                 wurde, begerent wir uns verschriben wißen ze laßen. Geben <lb n="49"/>uff
-                <origDate when="1451-02-19">fritag post Valentini anno domini etc. Lprimo</origDate>. <lb n="50"
-                    /><persName ref="stadtasg-actors-378" role="issuer">Hanns Rote</persName>, ritter,
-                <orgName ref="stadtasg-actors-530">burgermeister <lb n="51"/>und der rate zu Basel</orgName>. <pb
-                    facs="StadtASG_Missive_237_476.JPG" n="2"/>
+                <origDate when="1451-02-19">fritag post Valentini anno domini etc. Lprimo</origDate>. <lb n="50"/><persName ref="stadtasg-actors-378" role="issuer">Hanns Rote</persName>, ritter,
+                <orgName ref="stadtasg-actors-530">burgermeister <lb n="51"/>und der rate zu Basel</orgName>. <pb facs="StadtASG_Missive_237_476.JPG" n="2"/>
                 <lb n="52"/>Den ersamen wisen unsern besunder lieben und guoten <lb n="53"/>frunden
-                dem <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und dem rate zu sant <lb n="54"
-                    />Gallen</orgName>. </p>
+                dem <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und dem rate zu sant <lb n="54"/>Gallen</orgName>. </p>
         </body>
     </text>
 </TEI>

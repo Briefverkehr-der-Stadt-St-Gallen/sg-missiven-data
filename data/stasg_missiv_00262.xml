@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00262">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -9,7 +8,7 @@
                 <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
             </publicationStmt>
             <notesStmt>
-                <note><p>Kopie. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00258.xml">258</ref>, <ref target="stasg_missiv_00259.xml">259</ref>, <ref target="stasg_missiv_00268.xml">268</ref>, <ref target="stasg_missiv_00269.xml"></ref> und <ref target="stasg_missiv_00358.xml">358</ref>.</p></note>
+                <note><p>Kopie. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00258.xml">258</ref>, <ref target="stasg_missiv_00259.xml">259</ref>, <ref target="stasg_missiv_00268.xml">268</ref>, <ref target="stasg_missiv_00269.xml"/> und <ref target="stasg_missiv_00358.xml">358</ref>.</p></note>
             </notesStmt>
             <sourceDesc>
                 <msDesc type="missiv">
@@ -87,8 +86,7 @@
             <p>
                 <lb n="1"/>Hochwirdiger gnädiger fürst und herre unser undertänig willig dienst syen
                 üwern gnaden von uns zuo vor berait. <lb n="2"/>Gnädiger herre, als wir denn in
-                üwerm abwesen unser rautzbottschaft gen <placeName ref="stadtasg-places-7"
-                    >Costentz</placeName> zuo üwern rätten geschickt und <lb n="3"/>in von üwer gnad
+                üwerm abwesen unser rautzbottschaft gen <placeName ref="stadtasg-places-7">Costentz</placeName> zuo üwern rätten geschickt und <lb n="3"/>in von üwer gnad
                 wegen ettlich rechtgebott, namlich uff ainen <orgName ref="stadtasg-actors-503">burgermaister und clainen
                     raute Zürich</orgName> oder <lb n="4"/>uff ainen <orgName ref="stadtasg-actors-68">burgermaister und
                         clainen raut zuo Überlingen</orgName> oder zuo <orgName ref="stadtasg-actors-511">Lindow</orgName>, dez
@@ -102,14 +100,11 @@
                 sölicher gelicher bilicher rechten benügen und unsern bürger daruff uß forchten
                 lassen <lb n="10"/>wellint, aber wie dem allem genädiger herre won wir die sint, den
                 nit lieb sonder laid wer, wa wir mit üwern <lb n="11"/>gnaden oder dehainen den
-                üwern irrig wesen sölten, darumbe so bitten wir üwer gnade mit gantzem ernste <lb
-                    n="12"/>undertenclich, üch sölichs von unserm burger benügen und in uff solichs
+                üwern irrig wesen sölten, darumbe so bitten wir üwer gnade mit gantzem ernste <lb n="12"/>undertenclich, üch sölichs von unserm burger benügen und in uff solichs
                 uß forchten ze laußen, daz staut uns <lb n="13"/>undertenclich umb üwer gnad ze
-                verdienen. Ob aber üwer gnad sölichs ze tuon ye nitt vermainte, des wir doch <lb
-                    n="14"/>üwern gnaden nit getrüwen, darumbe daz denn üwer gnad und menglich
+                verdienen. Ob aber üwer gnad sölichs ze tuon ye nitt vermainte, des wir doch <lb n="14"/>üwern gnaden nit getrüwen, darumbe daz denn üwer gnad und menglich
                 verstan muge, daz der unser nichtz anders <lb n="15"/>begere, denn daz im von üwern
-                gnaden bescheche nach siner brief sag, so erbüt er sich aber mit üwern gnaden <lb
-                    n="16"/>zuo recht für ze komen für den aller durchlüchtigisten unsern aller
+                gnaden bescheche nach siner brief sag, so erbüt er sich aber mit üwern gnaden <lb n="16"/>zuo recht für ze komen für den aller durchlüchtigisten unsern aller
                 genädigosten herren hern <persName ref="stadtasg-actors-49">Fridrichen römscher kayser</persName>, <lb n="17"/>oder ob üwer gnaden
                 daz an dem ende ouch nit eben sin welten, für den edeln und strengen hern <persName ref="stadtasg-actors-61">Jacoben
                     Trugsässen <lb n="18"/>zuo Walpurg</persName> dez <orgName ref="stadtasg-actors-559">Richs</orgName> lantvogte in <placeName ref="stadtasg-places-108">Swaben</placeName> ander end, ainem
@@ -129,9 +124,7 @@
                     <origDate when="1452-05-24">mitwochen nach der hailgen uffart anno domini etc. L
                         secundo</origDate>. <lb n="28"/><orgName ref="stadtasg-actors-148" role="issuer">Burgermaister und <lb n="29"/>raut zuo sant
                             Gallen</orgName>. <lb n="30"/>Dem hochwirdigen gaistlichen fürsten und herren hern <persName ref="stadtasg-actors-55" role="recipient">Hainrichen</persName>
-                <lb n="31"/>bischoffe zuo <placeName ref="stadtasg-places-7">Costentz</placeName> verweser dez stifftz zuo <placeName ref="stadtasg-places-114">Chure</placeName> und <lb n="32"
-                />kantzler etc. unserm gnedigen herren. <pb facs="StadtASG_Missive_262_526.JPG"
-                    n="2"/>
+                <lb n="31"/>bischoffe zuo <placeName ref="stadtasg-places-7">Costentz</placeName> verweser dez stifftz zuo <placeName ref="stadtasg-places-114">Chure</placeName> und <lb n="32"/>kantzler etc. unserm gnedigen herren. <pb facs="StadtASG_Missive_262_526.JPG" n="2"/>
                 <lb n="33"/>Copia mins herren <lb n="34"/>von <placeName ref="stadtasg-places-7">Costentz</placeName>. </p>
         </body>
     </text>

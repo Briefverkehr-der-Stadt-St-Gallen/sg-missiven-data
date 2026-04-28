@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_04050">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Bürgermeister und Rat zu St. Gallen bitten im Namen ihres Bürgers Heinrich Giller dem Jüngeren die Beisitzer des Stadtgerichts zu Zürich um Unterstützung bei der Eintreibung der ausstehenden Schulden, die Felix Burckhart, Rotgerber und Zürcher Bürger, bei Giller hat. Die Schuldstreitigkeiten waren bereits zweimal vor dem Zürcher Stadtgericht verhandelt worden, wobei Burckhart rechtlich verpflichtet wurde, die Schulden zu begleichen. Die vom Gericht festgelegten Zahlungstermine sind verstrichen, ohne dass eine Bezahlung bei Giller eingegangen ist.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
  <term ref="stadtasg-keywords-281">Entwurf</term>
@@ -61,11 +60,11 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_4050_16349.jpg" n="1" />
+            <pb facs="StadtASG_Missive_4050_16349.jpg" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_4050_16350.jpg" n="2" />
-<pb facs="StadtASG_Missive_4050_16351.jpg" n="3" />
-<pb facs="StadtASG_Missive_4050_16352.jpg" n="4" />
+<pb facs="StadtASG_Missive_4050_16350.jpg" n="2"/>
+<pb facs="StadtASG_Missive_4050_16351.jpg" n="3"/>
+<pb facs="StadtASG_Missive_4050_16352.jpg" n="4"/>
 </p>
         </body>
     </text>

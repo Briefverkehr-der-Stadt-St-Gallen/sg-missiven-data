@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_04046">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Bürgermeister und Rat zu St. Gallen bitten im Namen aller St. Galler Bleichermeister um die gebührende Verhörung und Bestrafung eines Leinwanddiebes, der Leinwandtuche auf der Bleiche des St. Galler Bleichemeisters Kaspar Scheibener gestohlen hatte und sich nun in Konstanz aufhalte. Die St. Galler bitten um eine exemplarische Bestrafung des Täters, da solche Delikte nicht nur St. Gallen, sondern auch die ganze Nachbarschaft schwer schädigen würden. Zudem bitten sie nicht nur um die Verhörung des Täters, sondern auch um eine Einvernahme des St. Galler Bürgers Marx Müller, der den Leinwanddieb im Wöschbach beherbergt hatte, und um jene des Bleichermeisters Abraham von Konstanz. Beide können Auskunft über den Täter geben. St. Gallen bittet um die Zusendung der verschriftlichten Verhöre aller drei. Falls Konstanz den Täter lieber der Stadt St. Gallen überstellen würde, würden Bürgermeister und Rat zu St. Gallen die Transportkosten dafür übernehmen.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
 <term ref="stadtasg-keywords-281">Entwurf</term>
@@ -67,11 +66,11 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_4046_16333.jpg" n="1" />
+            <pb facs="StadtASG_Missive_4046_16333.jpg" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_4046_16334.jpg" n="2" />
-<pb facs="StadtASG_Missive_4046_16335.jpg" n="3" />
-<pb facs="StadtASG_Missive_4046_16336.jpg" n="4" />
+<pb facs="StadtASG_Missive_4046_16334.jpg" n="2"/>
+<pb facs="StadtASG_Missive_4046_16335.jpg" n="3"/>
+<pb facs="StadtASG_Missive_4046_16336.jpg" n="4"/>
 </p>
         </body>
     </text>

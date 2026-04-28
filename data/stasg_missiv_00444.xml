@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00444">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Vogt, Ammann und Rat zu Arbon teilen Bürgermeister und Rat zu St. Gallen mit, dass Fischer von Arbon des Marktes verwiesen wurden, als sie ihre Fische anbieten wollten. Sie bitten die St. Galler, das nicht mehr zuzulassen, oder aber, falls es dafür gute Gründe gebe, ihnen dies mitzuteilen. Sie bitten um eine schriftliche Antwort mit dem Boten.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
   <term ref="stadtasg-keywords-143">Markt</term>
@@ -60,29 +59,29 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_444_905.JPG" n="1" />
+            <pb facs="StadtASG_Missive_444_905.JPG" n="1"/>
 <p>
-<lb n="1" />Unnser fruntlich willig dienst alltzit zuovor fürsichtigen ersammen und
-<lb n="2" />wysen insunder liebenn und guoten fründe. Uns haben ettlich unser vischer
-<lb n="3" />tuon berichten, wie das sy von üwerm marckt mit vischen gewist und
-<lb n="4" />darab triben syen und sy die nit habe wellen lassen verkoffen oder ver
-<lb break="no" n="5" />triben, das uns ettwas, die wil und sy doch nit anders dann frisch
-<lb n="6" />ding gehept haben, befrömdt, und bitten üwer wißhait mit
-<lb n="7" />sunderm fliß ernstlich, ir wellen die unnsern das ir, sid und es
-<lb n="8" />doch ain offner marckt ist, lassen vertriben und hingeben als ander.
-<lb n="9" />Das wellen wir uns zu üwer ersamkait versechen und hienach
-<lb n="10" />gar mit guetem willen verdienenn und beschulden. Sover und
-<lb n="11" />aber das nit sin möchte, in dem vertrüwenn wir doch nit syen,
-<lb n="12" />das ir uns dann zuoverstend geben wellen, was die ursach oder ver
-<lb break="no" n="13" />handlung sye, damit ir solichs nit wellint lassen beschechen.
-<lb n="14" />Üwer verschriben antwurt mit dem bottenn. Datumm an <origDate when="1487-09-06">dornstag
-<lb n="15" />vor unser lieben frowenn tag zu herpst anno etc. LXXXVII</origDate>.
-<lb n="16" /><orgName ref="stadtasg-actors-524" role="issuer">Vogt, amman und rate
-<lb n="17" />zu Arbon</orgName>.
-<pb facs="StadtASG_Missive_444_906.JPG" n="2" />
-<lb n="18" />Den fürsichtigen ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burger
-<lb break="no" n="19" />maister und rate zu Santgallen</orgName> unnsern insundern
-<lb n="20" />lieben und guten fründen.
+<lb n="1"/>Unnser fruntlich willig dienst alltzit zuovor fürsichtigen ersammen und
+<lb n="2"/>wysen insunder liebenn und guoten fründe. Uns haben ettlich unser vischer
+<lb n="3"/>tuon berichten, wie das sy von üwerm marckt mit vischen gewist und
+<lb n="4"/>darab triben syen und sy die nit habe wellen lassen verkoffen oder ver
+<lb break="no" n="5"/>triben, das uns ettwas, die wil und sy doch nit anders dann frisch
+<lb n="6"/>ding gehept haben, befrömdt, und bitten üwer wißhait mit
+<lb n="7"/>sunderm fliß ernstlich, ir wellen die unnsern das ir, sid und es
+<lb n="8"/>doch ain offner marckt ist, lassen vertriben und hingeben als ander.
+<lb n="9"/>Das wellen wir uns zu üwer ersamkait versechen und hienach
+<lb n="10"/>gar mit guetem willen verdienenn und beschulden. Sover und
+<lb n="11"/>aber das nit sin möchte, in dem vertrüwenn wir doch nit syen,
+<lb n="12"/>das ir uns dann zuoverstend geben wellen, was die ursach oder ver
+<lb break="no" n="13"/>handlung sye, damit ir solichs nit wellint lassen beschechen.
+<lb n="14"/>Üwer verschriben antwurt mit dem bottenn. Datumm an <origDate when="1487-09-06">dornstag
+<lb n="15"/>vor unser lieben frowenn tag zu herpst anno etc. LXXXVII</origDate>.
+<lb n="16"/><orgName ref="stadtasg-actors-524" role="issuer">Vogt, amman und rate
+<lb n="17"/>zu Arbon</orgName>.
+<pb facs="StadtASG_Missive_444_906.JPG" n="2"/>
+<lb n="18"/>Den fürsichtigen ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="19"/>maister und rate zu Santgallen</orgName> unnsern insundern
+<lb n="20"/>lieben und guten fründen.
 </p>
         </body>
     </text>

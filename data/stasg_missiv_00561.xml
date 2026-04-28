@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00561">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 561</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_561_1147/1148</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Zehn zu Baden versammelte Ratsboten eidgenössischer Städte- und Länderorte bitten Bürgermeister und Rat zu St. Gallen, Ulrich Schweizer, der mit dem verstorbenen St. Galler Spitalmeister zu Lustenau in einem Rechtsttreit gestanden hatte und dem der Landvogt zu Rheineck verboten hatte, ans Gericht in Lustenau zu gelangen, Hilfe aus dem Spital zukommen zu lassen.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-354">Spital</term>
+                    <term ref="stadtasg-keywords-371">Spitalmeister</term>
+                    <term ref="stadtasg-keywords-340">Rechtsstreit</term>
+                    <term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-319">Landvogt</term>
+<term ref="stadtasg-keywords-539">Bettel</term>
+<term ref="stadtasg-keywords-15">Unterstützung</term>
+<term ref="stadtasg-keywords-526">Ratsbote</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-539">Bettel</term>
+<term ref="stadtasg-keywords-461">Armut</term>
+<term ref="stadtasg-keywords-103">Urteil</term> 
+<term ref="stadtasg-keywords-269">Kind</term> 
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-1156">Zehn Orte der Eidgenossenschaft</orgName>                    <date>1527-07-08</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Noëmi Schöb</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Noëmi Schöb</persName>
+                <date>2025-10-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_561_1147.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser frünntlich willig diennst und was wir eren liebs und guots ver
+<lb break="no" n="2"/>mogen alle zit beriet zuovor frommen fürsichtigen wysen sunders guotten
+<lb n="3"/>fründ unnd getrüwen lieben eydnossen. <persName ref="stadtasg-actors-1157">Uolrich Schwytzer</persName> usß dem
+<lb n="4"/><placeName ref="stadtasg-places-64">Rintal</placeName> hat unns abermals anpracht und erscheint, wie das er vor etwas
+<lb n="5"/>iaren von üwerm spitalmeister selig zuo <placeName ref="stadtasg-places-86">Luschtnow</placeName> in rechtvertigung
+<lb n="6"/>gestannden, daselbs üwer spitalmeister im hinderrucks ein urteil
+<lb n="7"/>über sin guot erlanngt, dann im durch unnsern lanndtvogt zuo <placeName ref="stadtasg-places-88">Rin
+<lb break="no" n="8"/>egg</placeName> verbotten were, das er nit hinüber an das gericht gen <placeName ref="stadtasg-places-86">Luschtnow</placeName>
+<lb n="9"/>soelte. Dardurch er also verkürtzt unnd umb das sin komenn sye unnd
+<lb n="10"/>batt unns umb gots und unnser lieben frowen unnd durch der gerechti
+<lb break="no" n="11"/>keit willen, im zuo verhelffen, damit unnd er widerumb zum rechtenn
+<lb n="12"/>komen unnd nit also das sin verlierenn mueste. Unnd so wir nu bericht
+<lb n="13"/>werden, das der arm man am selben ennd verkürtzt sye, deswegenn das
+<lb n="14"/>im unnser lanndtvogt verbotten habe, das er nit an das gericht gen <placeName ref="stadtasg-places-86">Luschtnow</placeName>
+<lb n="15"/>soelte vernement, ouch darby, das üwer spital des selben guots wol ge
+<lb break="no" n="16"/>wessen habe unnd aber der arm man und sine kind des am bettel stab gewist
+<lb n="17"/>unnd komen ist, haruff so bitten wir üch, ir wellent die sach ermessenn
+<lb n="18"/>unnd den armen man bedennckenn unnd im von üwerm spitall
+<lb n="19"/>etliche hilff bewisenn, damit er nit alss in der armuot muesse umbgan
+<lb n="20"/>unnd unns nit für und für nach louffen muesse. Das wellent wir umb üch
+<lb n="21"/>zuo sampt, das ir die sechs werck der heiligen barmhertzikeit erfüllent, umb
+<lb n="22"/>üch verdienenn, dann wo im nit soelte geholffen werden, moechte er villicht
+<lb n="23"/>die stund eine mals finden, das im zumm rechtenn gehulffen wurde. Datum und
+<lb n="24"/>mit unnsers lanndtvogts zuo <placeName ref="stadtasg-places-53">Baden</placeName> in <placeName ref="stadtasg-places-266">Ergow</placeName> des fromenn wisen <persName ref="stadtasg-actors-1158" role="testis">Jacob
+<lb n="25"/>an der Rüty</persName> des rats zuo <placeName ref="stadtasg-places-71">Schwytz</placeName> insigel in unnser aller namenn besiglet
+<lb n="26"/><origDate when="1527-07-08">mentag nach Uolrici anno etc. XXVIIo</origDate>.
+<lb n="27"/><orgName ref="stadtasg-actors-1156" role="issuer">Von stett und lanndenn der X ordten
+<lb n="28"/>unnser Eydgnoschafft rats bottenn</orgName> ietz
+<lb n="29"/>zuo <origPlace ref="stadtasg-places-53">Baden</origPlace> in <placeName ref="stadtasg-places-266">Ergoew</placeName> by ein anndern
+<lb n="30"/>versamlet.
+<pb facs="StadtASG_Missive_561_1148.JPG" n="2"/>
+<lb n="31"/>Den fromen fürsichtigenn wysen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="32"/>meister und rat zuo santt Gallen</orgName> unnseren
+<lb n="33"/>guotten frünnden und getrüwen liebenn
+<lb n="34"/>eydgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00075">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -82,17 +81,12 @@
                 das sich hat <lb n="2"/>gefuegt, das <persName ref="stadtasg-actors-115">Frik
                     Stüdli</persName> und <persName ref="stadtasg-actors-197">Mathias</persName> sin sun sind
                 komen gen <placeName ref="stadtasg-places-75">Sumbri</placeName> in min hus <lb n="3"/>und
-                hand mich baid ernstlich gebetten, mit inen ze ritten gen <placeName ref="stadtasg-places-7"
-                    >Costentz</placeName>, als sy woltent <lb n="4"/>keren mitt des <orgName
-                    ref="stadtasg-actors-549">Fuegen</orgName> thochter, da weltint sy mir wol lonen und
+                hand mich baid ernstlich gebetten, mit inen ze ritten gen <placeName ref="stadtasg-places-7">Costentz</placeName>, als sy woltent <lb n="4"/>keren mitt des <orgName ref="stadtasg-actors-549">Fuegen</orgName> thochter, da weltint sy mir wol lonen und
                 weltint mich <lb n="5"/>och verzeren. Ich tett es nüt gern, wan ich forcht, das die
                 sach nut gieng, als <lb n="6"/>sy sy den für hattent muot ze nemen, doch sach ich
-                an ir ernstlich gebett, und rait <lb n="7"/>mit inen gen <placeName ref="stadtasg-places-7"
-                    >Costentz</placeName> und gieng des ersten mit inen für maister <persName
-                    ref="stadtasg-actors-198">Nithart</persName>, der üwer <lb n="8"/>attvocat ist, und batt
+                an ir ernstlich gebett, und rait <lb n="7"/>mit inen gen <placeName ref="stadtasg-places-7">Costentz</placeName> und gieng des ersten mit inen für maister <persName ref="stadtasg-actors-198">Nithart</persName>, der üwer <lb n="8"/>attvocat ist, und batt
                 inn früntlich, inen und mir ze raten in die sach. Er antwurt <lb n="9"/>und sprach,
-                er welt nüt mit der sach ze schaffin han, es waer nit sin fuog. Also nam <lb n="10"
-                />ich die sach für und gieng zuo aim hie und dert, darumb das inen wurd gehulfen,
+                er welt nüt mit der sach ze schaffin han, es waer nit sin fuog. Also nam <lb n="10"/>ich die sach für und gieng zuo aim hie und dert, darumb das inen wurd gehulfen,
                     <lb n="11"/>und dett das bestz, das ich kund oder moch. Also sind sy dik zuo mir
                 komen, ich rait <lb n="12"/>all zit mit inen. Also nun die sach hat end genomen, so
                 hat er iederman ussgericht, <lb n="13"/>untz an mich, und wil mir weder die zerung
@@ -101,10 +95,7 @@
                 wisshait und früntschaft, den selben <persName ref="stadtasg-actors-115">Friken</persName>
                 und sinen <lb n="16"/>sun ze wisen, das sy mir ussrichtung tuegend, es syg von
                 zerung und och von miner <lb n="17"/>arbait wegen. Kan ich das umb üch verdienan,
-                wil ich all zit berait sin. Item ich wil sy <lb n="18"/>wisen mit <persName
-                    ref="stadtasg-actors-199">Caspar Lingen</persName>, der ira procarator was, das <persName
-                    ref="stadtasg-actors-115">Frik</persName> selber in batt, wass ich da selbs <lb n="19"
-                />werzarti, das er uns schriby, er welt es ussrichten, und befal och dem selben
+                wil ich all zit berait sin. Item ich wil sy <lb n="18"/>wisen mit <persName ref="stadtasg-actors-199">Caspar Lingen</persName>, der ira procarator was, das <persName ref="stadtasg-actors-115">Frik</persName> selber in batt, wass ich da selbs <lb n="19"/>werzarti, das er uns schriby, er welt es ussrichten, und befal och dem selben
                     <persName ref="stadtasg-actors-199">Caspar</persName>, das <lb n="20"/>er mir enbütty,
                 das ich solt komen gen <placeName ref="stadtasg-places-7">Costentz</placeName> etwi dik, und
                 beger nüt me, den was <persName ref="stadtasg-actors-199">Kaspar</persName>
@@ -114,11 +105,9 @@
                 aldabei, <lb n="23"/>mir gunnint in für ze nemen für das gaistlich gericht, wan es
                 doch von dem selben gericht <lb n="24"/>also her ist gewachsen. Da tuond, als ich
                 üwer wisshait wol getrüw, und land mich wissen <lb n="25"/>by disem botten. Datum
-                    <origDate when="1435-12-21">in die Thome anno XXXVo</origDate>. <lb n="26"
-                    /><persName ref="stadtasg-actors-40" role="issuer">Johannes Häch</persName>
+                    <origDate when="1435-12-21">in die Thome anno XXXVo</origDate>. <lb n="26"/><persName ref="stadtasg-actors-40" role="issuer">Johannes Häch</persName>
                 <lb n="27"/>priester. <pb facs="StadtASG_Missive_75_150.JPG" n="2"/>
-                <lb n="28"/>Den fürsichtungen und wisen dem <lb n="29"/><orgName ref="stadtasg-actors-148"
-                    role="recipient">burgermaister und rat zuo sant <lb n="30"/>Gallen</orgName>
+                <lb n="28"/>Den fürsichtungen und wisen dem <lb n="29"/><orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat zuo sant <lb n="30"/>Gallen</orgName>
                 minen genaedigen herren und <lb n="31"/>guoten fründen. </p>
         </body>
     </text>

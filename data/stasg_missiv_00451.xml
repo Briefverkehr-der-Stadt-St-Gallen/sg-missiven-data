@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00451">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -26,7 +25,7 @@
             <abstract>
                 <p>Die Ratsboten an der Tagsatzung zu Baden bitten Bürgermeister und Rat zu St. Gallen, eine Ratsbotschaft auf den 8. Juli nach Luzern zu senden, wo am folgenden Tag besprochen werden soll, wie man die Reisläuferei verhindern kann, da dadurch grosse Schäden entstehen.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
  <term ref="stadtasg-keywords-526">Ratsbote</term>
@@ -65,27 +64,27 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_451_919.JPG" n="1" />
+            <pb facs="StadtASG_Missive_451_919.JPG" n="1"/>
 <p>
-<lb n="1" />Unnser frünntlich willig diennst und was wir liebs und guots vermoegen allzit zuovor bereit fürsichtigenn
-<lb n="2" />wisen sunder guoten fründe und getrüwen lieben eydtgnossen. Unns begegnet soelicher gebrechen und wider
-<lb break="no" n="3" />wertickeit der louffenden knechthalb, so sich allenthalb in unnser <orgName ref="stadtasg-actors-750">Eydtgnoschafft</orgName> erheben und wider eyd
-<lb n="4" />und er, ouch unnser hoche verbott an froembd reisen ziechen, das ye not ist, wo wir unnsern stat und wesen
-<lb n="5" />ennthallten wellen, soellichs mit gemeinem und treffenlichem rat zuo verkommen, also haben wir yetz
-<lb n="6" />der und anndrer sachenhalb ein tag in die statt <placeName ref="stadtasg-places-69">Lutzerrnn</placeName> bestimpt und gesetzt, uff <date when="1488-07-08">zinstag nach
-<lb n="7" />sanntt Uolrichs tag</date> nechstkünfftig nachts an der herberg zuo sin. Daruff begeren wir an üch, mit
-<lb n="8" />ganntzem errnnst, üwer ersam bottschafft zuo dem selben tag ze vertigen und daselbs unnserrnn
-<lb n="9" />ratslag und ansechen zuo vernemen, wie wir soelich geloeiff und mercklich beswaerd abstellen mogen,
-<lb n="10" />damit ir und annder, so wir ouch beschriben haben, sich darnach wüssen zuo richten. Datum unnder
-<lb n="11" />des frommen, vesten <persName ref="stadtasg-actors-958">Ludwigen von Dyespach</persName>, diser zit unnser <orgName ref="stadtasg-actors-750">Eydgnoschafft</orgName> vogts zuo <placeName ref="stadtasg-places-53">Baden</placeName> sigel
-<lb n="12" />innamen unnser aller <origDate when="1488-06-25">mitwuchen nach Johannis baptiste anno etc. LXXXVIIIo</origDate>.
-<lb n="13" />Von stetten und laennderrnn
-<lb n="14" /><orgName ref="stadtasg-actors-534" role="issuer">gemeiner Eydtgnoschafft raet</orgName>
-<lb n="15" />yetz zuo <origPlace ref="stadtasg-places-53">Baden</origPlace> versamellt.
-<pb facs="StadtASG_Missive_451_920.JPG" n="2" />
-<lb n="16" />Den fürsichtigen wisen unnsern besunder guoten fründen
-<lb n="17" />und getrüwen lieben eydtgnossen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und
-<lb n="18" />rat der statt Sannttgallen</orgName>.
+<lb n="1"/>Unnser frünntlich willig diennst und was wir liebs und guots vermoegen allzit zuovor bereit fürsichtigenn
+<lb n="2"/>wisen sunder guoten fründe und getrüwen lieben eydtgnossen. Unns begegnet soelicher gebrechen und wider
+<lb break="no" n="3"/>wertickeit der louffenden knechthalb, so sich allenthalb in unnser <orgName ref="stadtasg-actors-750">Eydtgnoschafft</orgName> erheben und wider eyd
+<lb n="4"/>und er, ouch unnser hoche verbott an froembd reisen ziechen, das ye not ist, wo wir unnsern stat und wesen
+<lb n="5"/>ennthallten wellen, soellichs mit gemeinem und treffenlichem rat zuo verkommen, also haben wir yetz
+<lb n="6"/>der und anndrer sachenhalb ein tag in die statt <placeName ref="stadtasg-places-69">Lutzerrnn</placeName> bestimpt und gesetzt, uff <date when="1488-07-08">zinstag nach
+<lb n="7"/>sanntt Uolrichs tag</date> nechstkünfftig nachts an der herberg zuo sin. Daruff begeren wir an üch, mit
+<lb n="8"/>ganntzem errnnst, üwer ersam bottschafft zuo dem selben tag ze vertigen und daselbs unnserrnn
+<lb n="9"/>ratslag und ansechen zuo vernemen, wie wir soelich geloeiff und mercklich beswaerd abstellen mogen,
+<lb n="10"/>damit ir und annder, so wir ouch beschriben haben, sich darnach wüssen zuo richten. Datum unnder
+<lb n="11"/>des frommen, vesten <persName ref="stadtasg-actors-958">Ludwigen von Dyespach</persName>, diser zit unnser <orgName ref="stadtasg-actors-750">Eydgnoschafft</orgName> vogts zuo <placeName ref="stadtasg-places-53">Baden</placeName> sigel
+<lb n="12"/>innamen unnser aller <origDate when="1488-06-25">mitwuchen nach Johannis baptiste anno etc. LXXXVIIIo</origDate>.
+<lb n="13"/>Von stetten und laennderrnn
+<lb n="14"/><orgName ref="stadtasg-actors-534" role="issuer">gemeiner Eydtgnoschafft raet</orgName>
+<lb n="15"/>yetz zuo <origPlace ref="stadtasg-places-53">Baden</origPlace> versamellt.
+<pb facs="StadtASG_Missive_451_920.JPG" n="2"/>
+<lb n="16"/>Den fürsichtigen wisen unnsern besunder guoten fründen
+<lb n="17"/>und getrüwen lieben eydtgnossen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und
+<lb n="18"/>rat der statt Sannttgallen</orgName>.
 </p>
         </body>
     </text>

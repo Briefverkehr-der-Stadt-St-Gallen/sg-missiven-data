@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00304">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -79,20 +78,13 @@
             <pb facs="StadtASG_Missive_304_613.JPG" n="1"/>
             <p>
                 <lb n="1"/>Unser fruntlich willig dinst voran ersamen wisen sonder lieben und guten
-                    <lb n="2"/>fründ. Es ist uff hüt ainer zu uns komen, genant <persName
-                    ref="stadtasg-actors-464">Peter Swiczer</persName> von <placeName ref="stadtasg-places-187"
-                    >Wattwyl</placeName>, <lb n="3"/>und hat uns geseit, wie ainer, genant <persName
-                    ref="stadtasg-actors-465">Uolrich Ritz</persName> von <placeName ref="stadtasg-places-38">sant
-                    Gallen</placeName>, im geseit <lb n="4"/>hab, er sig ze <placeName
-                    ref="stadtasg-places-188">Venedig</placeName> gewesen, und als er herus gen <placeName
-                    ref="stadtasg-places-189">Trient</placeName> in ains <lb n="5"/>wierts hus komen syg,
+                    <lb n="2"/>fründ. Es ist uff hüt ainer zu uns komen, genant <persName ref="stadtasg-actors-464">Peter Swiczer</persName> von <placeName ref="stadtasg-places-187">Wattwyl</placeName>, <lb n="3"/>und hat uns geseit, wie ainer, genant <persName ref="stadtasg-actors-465">Uolrich Ritz</persName> von <placeName ref="stadtasg-places-38">sant
+                    Gallen</placeName>, im geseit <lb n="4"/>hab, er sig ze <placeName ref="stadtasg-places-188">Venedig</placeName> gewesen, und als er herus gen <placeName ref="stadtasg-places-189">Trient</placeName> in ains <lb n="5"/>wierts hus komen syg,
                 darinn sigen unser gnädiger herr <persName ref="stadtasg-actors-416">herczog
                     Sigmund</persName>, <lb n="6"/><persName ref="stadtasg-actors-438">graf Hug von
                     Montfort</persName>, her <persName ref="stadtasg-actors-466" cert="medium">Marquart von
-                    Schellemberg</persName>, ain <persName ref="stadtasg-actors-467"
-                >Slandensperger</persName>, <lb n="7"/><persName ref="stadtasg-actors-314">Märk von
-                    Emptz</persName> und ander gewesen, und als er da getruncken und sin <lb n="8"
-                />nieman vil acht gehept hab, so habe er under anderm vermerckt, das <lb n="9"/>sy
+                    Schellemberg</persName>, ain <persName ref="stadtasg-actors-467">Slandensperger</persName>, <lb n="7"/><persName ref="stadtasg-actors-314">Märk von
+                    Emptz</persName> und ander gewesen, und als er da getruncken und sin <lb n="8"/>nieman vil acht gehept hab, so habe er under anderm vermerckt, das <lb n="9"/>sy
                 vil volck in das nüw scheff ze <placeName ref="stadtasg-places-60">Bregentz</placeName> tuon
                 und damit ain <lb n="10"/>ort innemen und vil gutes schaffen wöllen. Uff habe der
                     <persName ref="stadtasg-actors-467">Slanen <lb break="no" n="11"/>sperger</persName>
@@ -106,12 +98,9 @@
                 wollent uns im besten und in <lb n="19"/>fruntlicher warnung vermercken, denn wir
                 altzit gern täten, das iuwer <lb n="20"/>wyßhait dinst und lieb wäre. Geben an
                     <origDate when="1454-07-16">zinstag nach divisionis apostolorum <lb n="21"/>anno
-                    etc. LIIIIto</origDate>. <lb n="22"/><orgName ref="stadtasg-actors-533" role="issuer"
-                    >Burgermaister und <lb n="23"/>rat zu Kempten</orgName>. <lb n="24"/>Den ersamen
-                und wisen <orgName ref="stadtasg-actors-511" role="recipient">burger <lb break="no" n="25"
-                    />maister und rat der statt Lindow</orgName>
-                <lb n="26"/>unsern lieben und besondern guoten <lb n="27"/>fründ. <pb
-                    facs="StadtASG_Missive_304_614.JPG" n="2"/>
+                    etc. LIIIIto</origDate>. <lb n="22"/><orgName ref="stadtasg-actors-533" role="issuer">Burgermaister und <lb n="23"/>rat zu Kempten</orgName>. <lb n="24"/>Den ersamen
+                und wisen <orgName ref="stadtasg-actors-511" role="recipient">burger <lb break="no" n="25"/>maister und rat der statt Lindow</orgName>
+                <lb n="26"/>unsern lieben und besondern guoten <lb n="27"/>fründ. <pb facs="StadtASG_Missive_304_614.JPG" n="2"/>
             </p>
         </body>
     </text>

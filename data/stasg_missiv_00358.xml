@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00358">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -26,7 +25,7 @@
             <abstract>
                 <p>Ammann und Rat zu Arbon bestätigen Bürgermeister und Rat zu St. Gallen, ihren Brief wegen ihres Bürgers Hans Mötteli bekommen und verstanden zu haben. Sie seien allerdings der Meinung, dass die St. Galler den Grund des Streits zwischen Arbon und Mötteli und das vom Bischof von Konstanz gesprochene Urteil nicht verstanden hätten, weshalb die Arboner eine klärende Zusammenkunft mit dem Bischof vorschlagen.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
 <term ref="stadtasg-keywords-22">Konflikt</term>
@@ -60,29 +59,29 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_358_721.JPG" n="1" />
+            <pb facs="StadtASG_Missive_358_721.JPG" n="1"/>
 <p>
-<lb n="1" />Unnser früntlich willig dienst zuo vor beraidt lieben herren und guotten
-<lb n="2" />fründe. Üwer schriben, ir unns deß vesten <persName ref="stadtasg-actors-232">Hannsen Moetilis</persName> halb, den
-<lb n="3" />ir yetz meldent üwern burger, gethon, haben wir gelesen und aigent
-<lb break="no" n="4" />lich vernomen. Zwiffelt unnß nit, hetten üwer wißhaidt den anlaß
-<lb n="5" />zwüschend ime und unns der spennen halb gestelt, deß wir unns
-<lb n="6" />halten woellent, vernomen und betracht, ir hetten unns soelichs schribens
-<lb n="7" />vermitten. Und als ir dann in soelichem schriben meldent den bruch
-<lb n="8" />aller maist an dem ligen das <persName ref="stadtasg-actors-232">Moetilin</persName> und wir den spruch zwüschen
-<lb n="9" />ime und unns durch unnsern gnaedigen herren von <placeName ref="stadtasg-places-7">Costentz</placeName> beschehen
-<lb n="10" />nit glich verstanden, habent wir unns allweg des erbotten an dz
-<lb n="11" />ende, dannen soelicher spruch geflossen ist, mit ime zuo ainer erlütrung
-<lb n="12" />komen woellent, ouch uff soelichs den genampten unnsern gnaedigen
-<lb n="13" />herren fürderlich ankeren und bitten. Deß glichen mag der üwer och
-<lb n="14" />thuon und mainen, üwer wißhaidt soelle an soelicher antwürt ain guot
-<lb n="15" />benuegen haben. Datum <origDate when="1464-07-04">uff mittwoch sandt Uoldrichs tage anno
-<lb n="16" />domini etc. LX quarto</origDate>.
-<lb n="17" /><orgName ref="stadtasg-actors-102" role="issuer">Amann und rate
-<lb n="18" />zuo Arbon</orgName>.
-<pb facs="StadtASG_Missive_358_722.JPG" n="2" />
-<lb n="19" />Den fürsichtigen wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raut zuo sandt
-<lb n="20" />Gallen</orgName> unnsern sondern lieben herren und guotten fründen.
+<lb n="1"/>Unnser früntlich willig dienst zuo vor beraidt lieben herren und guotten
+<lb n="2"/>fründe. Üwer schriben, ir unns deß vesten <persName ref="stadtasg-actors-232">Hannsen Moetilis</persName> halb, den
+<lb n="3"/>ir yetz meldent üwern burger, gethon, haben wir gelesen und aigent
+<lb break="no" n="4"/>lich vernomen. Zwiffelt unnß nit, hetten üwer wißhaidt den anlaß
+<lb n="5"/>zwüschend ime und unns der spennen halb gestelt, deß wir unns
+<lb n="6"/>halten woellent, vernomen und betracht, ir hetten unns soelichs schribens
+<lb n="7"/>vermitten. Und als ir dann in soelichem schriben meldent den bruch
+<lb n="8"/>aller maist an dem ligen das <persName ref="stadtasg-actors-232">Moetilin</persName> und wir den spruch zwüschen
+<lb n="9"/>ime und unns durch unnsern gnaedigen herren von <placeName ref="stadtasg-places-7">Costentz</placeName> beschehen
+<lb n="10"/>nit glich verstanden, habent wir unns allweg des erbotten an dz
+<lb n="11"/>ende, dannen soelicher spruch geflossen ist, mit ime zuo ainer erlütrung
+<lb n="12"/>komen woellent, ouch uff soelichs den genampten unnsern gnaedigen
+<lb n="13"/>herren fürderlich ankeren und bitten. Deß glichen mag der üwer och
+<lb n="14"/>thuon und mainen, üwer wißhaidt soelle an soelicher antwürt ain guot
+<lb n="15"/>benuegen haben. Datum <origDate when="1464-07-04">uff mittwoch sandt Uoldrichs tage anno
+<lb n="16"/>domini etc. LX quarto</origDate>.
+<lb n="17"/><orgName ref="stadtasg-actors-102" role="issuer">Amann und rate
+<lb n="18"/>zuo Arbon</orgName>.
+<pb facs="StadtASG_Missive_358_722.JPG" n="2"/>
+<lb n="19"/>Den fürsichtigen wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raut zuo sandt
+<lb n="20"/>Gallen</orgName> unnsern sondern lieben herren und guotten fründen.
 </p>
         </body>
     </text>

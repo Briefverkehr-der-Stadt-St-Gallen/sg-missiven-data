@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00657">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 657</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Die erwähnten <ref target="stasg_missiv_00657-suppl-01.xml">Zeugenberichte</ref> sind vorhanden.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_657_1527/1534</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_657_1527/1534</idno><altIdentifier type="filename"><idno>stasg_missiv_00657-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc>            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Lindau berichten Bürgermeister und Rat zu St. Gallen über eine Zeugeneinvernahme im Rahmen eines vor dem St. Galler Rat hängigen Rechtsstreits zwischen den Gebrüdern Joachim und Galle Mayer aus Herisau einerseits und dem St. Galler Bürger Erasmus Schuhmacher, genannt Gügge, andererseits. Auf Grundlage eines von St. Gallen ausgestellten Urteilsbriefs wurden fünf Zeugen, Endres Pfefferlin, Jakob Oberreuter, Anna Schlappritzi, Elsa Scheibinger und Margaretha Rainher, einzeln und eidlich befragt. Ihre Aussagen sind beigelegt. Lindau teilt zudem mit, dass Erasmus Schuhmacher sein beim Lindauer Rat geleistetes Gelübde, die Stadt nicht ohne Erlaubnis zu verlassen, gebrochen hat.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-336">Zeuge</term>
+<term ref="stadtasg-keywords-487">Bericht</term>
+<term ref="stadtasg-keywords-187">Kundschaft</term>
+<term ref="stadtasg-keywords-263">Vogt</term>
+<term ref="stadtasg-keywords-387">Zunftmeister</term>
+<term ref="stadtasg-keywords-103">Urteil</term>
+<term ref="stadtasg-keywords-557">Sekretsiegel</term>
+<term ref="stadtasg-keywords-177">Witwe</term>
+<term ref="stadtasg-keywords-314">Anwalt</term>
+<term ref="stadtasg-keywords-27">Eid</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-511">Bürgermeister und Rat zu Lindau</orgName>                    <date>1547-03-16</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Arman Weidenmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-04-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_657_1527.JPG" n="1"/>
+<p>
+<lb n="1"/>Den ersamen unnd weisen <orgName ref="stadtasg-actors-148">burgermaister unnd rathe der statt zu
+<lb n="2"/>sannt Gallen</orgName> unnsern besonndern lieben unnd gutten freunden em
+<lb break="no" n="3"/>pieten wir <orgName ref="stadtasg-actors-511" role="issuer">burgermaister unnd rathe der statt Lindaw</orgName> unnser freundt
+<lb break="no" n="4"/>lich willig diennst zuvor. Unnd demnach zuovernemen, das uff <date when="1547-03-16">heut</date>
+<lb n="5"/>datum vor unns, alls wir in versameltem rathe beiainannder gewesen,
+<lb n="6"/>komen unnd erschinen seind die ersamen <persName ref="stadtasg-actors-1292">Joachim</persName> unnd <persName ref="stadtasg-actors-1293">Galle</persName> die May
+<lb break="no" n="7"/>er, gebrüder, us <placeName ref="stadtasg-places-65">Herisower</placeName> rod, an ainem, unnd euer weishait burger <persName ref="stadtasg-actors-1294">Jacob
+<lb n="8"/>Grübel</persName>, alls anwaldt und gewaldthaber <persName ref="stadtasg-actors-1295">Erasmus Schuchmachers</persName>,
+<lb n="9"/>genannt Gügge, und zunfftmaister <persName ref="stadtasg-actors-1249">Melchior Girtanners</persName>, seines
+<lb n="10"/>rechtgeordneten vogthes, am anndernthayln. Unnd haben inen
+<lb n="11"/>die obgenannten <persName ref="stadtasg-actors-1292">Joachim</persName> unnd <persName ref="stadtasg-actors-1293">Galle</persName> die Mayer, gebrüeder, fürpringen
+<lb n="12"/>lassen, es stunden innamen ir selbs unnd irer mitverwandten
+<lb n="13"/>freundtschafft vor euer weishait gegen bedachtem <persName ref="stadtasg-actors-1295">Erasmus Schuchmach</persName>
+<lb break="no" n="14"/>ern in unerörtertem rechten unnd were in ain beweisung ertailt
+<lb n="15"/>unnd zugelassen vermög aines urthlbrieffs von euer weishait unnd under
+<lb n="16"/>irerr statt secret innsigl ausganngen, der von inen auch darge
+<lb break="no" n="17"/>legt unnd uff ir beger verlesen ward. Dweil sy dann sollich
+<lb n="18"/>ir zugelassne beweysung mit den ersamen <persName ref="stadtasg-actors-1296">Ennderis Pfefferlin</persName>,
+<lb n="19"/>unnserm lieben mitrathsfreunde, auch den erbern maister <persName ref="stadtasg-actors-1297">Jacoben
+<lb n="20"/>Oberreüten</persName>, unnserm burger, <persName ref="stadtasg-actors-1298">Anna Schlapparitzin</persName>, <persName ref="stadtasg-actors-1299">Connratenn
+<lb n="21"/>Schlapparitzis</persName> eeliche hausfrawen, dessgleichen <persName ref="stadtasg-actors-1300">Ellsa Scheibing
+<lb break="no" n="22"/>erin</persName>, weylund <persName ref="stadtasg-actors-1301">Petter Gernings</persName> seeligen gelassen wittiben, auch
+<lb n="23"/>unnser burgerin, und <persName ref="stadtasg-actors-1302">Margreten Rainherinen</persName>, obgenannts
+<lb n="24"/>unnsers mitrathsfreundts <persName ref="stadtasg-actors-1296">Ennderis Pfefferlins</persName> magte, die sy all
+<lb n="25"/>für unns gestellt, zuerstatten verhofften, unnd auch irem gegen
+<lb break="no" n="26"/>thail <persName ref="stadtasg-actors-1295">Erasmus Schuchmachern</persName>, uff <date when="1547-03-16">heütigen tag</date> alher, umb für
+<lb break="no" n="27"/>stellung sollicher gezeugen unnd einziehung irer sagen unnd
+<lb n="28"/>khundtschafften ordennlichen unnd wie sich gebeurt verkhündet
+<lb n="29"/>hetten, so were ir gerichtlich unnd vleissig anrüeffen unnd pit
+<lb break="no" n="30"/>ten wir, alls ernannter zeugen, ordennlich oberkait wöllten zu
+<lb n="31"/>fürderung der warhait unnd des rechtenns, dieselben ire fürge
+<lb break="no" n="32"/>stellten zeugen nach ordnung rechtenns unnd gewonndlichem
+<lb n="33"/>unnserm stattgepruch uff den obanngeregten irn urthlbrieve
+<lb n="34"/>ordennlichen unnd wie sich gepeurte verhörn, daneben auch
+<lb n="35"/>unns selbs erinnern, wie es mit dem anloben, so unns ir gegenthail
+<pb facs="StadtASG_Missive_657_1528.JPG" n="2"/>
+<lb n="36"/><persName ref="stadtasg-actors-1295">Erasmus Schuchmacher</persName> gethon, gehanndelt unnd erganngenn
+<lb n="37"/>were unnd iren allsdann der verhör unnd unnsers selbs wissens
+<lb n="38"/>khundtschafft der warhait mittailn. Alls nun daruff der genannt
+<lb n="39"/><persName>Jacob Grübel</persName> anzaigen lies, das er zu sollicher verhör von offtge
+<lb break="no" n="40"/>nanntem <persName ref="stadtasg-actors-1295">Erasmus Schuchmachern</persName> unnd seinem vogthe zu an
+<lb break="no" n="41"/>waldt verordnet were unnd nit sonnders einret in die fürgestellten
+<lb n="42"/>gezeugen haben könndte, sonnder gestehen lassen müeste, das dieselb
+<lb break="no" n="43"/>en nach ordnung rechtenns gehört wurden, so haben wir dem
+<lb break="no" n="44"/>nach die obernannten gezeugen die mannspersonen bei den aydenn
+<lb n="45"/>hierumben leiblich zuo gott dem allmechtigen geschworn unnd die
+<lb n="46"/>frawen personen bei irn glübten an ayds statt gethon, doch ieden
+<lb n="47"/>gezeugen allain unnd besonnder in abwesen der anndern unnd
+<lb n="48"/>auch der partheyen uff obenbestimpten urthlbrieve ordennlichen
+<lb n="49"/>verhört, wie euer weishait ob irn aussagen, so wir derselben euer weishait
+<lb n="50"/>hierinnen verwart zuoschicken, aigenntlichen vernemen werden.
+<lb n="51"/>Wir haben unns auch <persName ref="stadtasg-actors-1295">Erasmus Schuchmachers</persName> gethonen glüpt
+<lb n="52"/>halben erinnert unnd tragen guts wissenns, das wir gemellten
+<lb n="53"/><persName ref="stadtasg-actors-1295">Erasmus Schuchmachern</persName> diser sach halben in gelüpt genomenn,
+<lb n="54"/>dergestallt das er sich one unnser vorwüssen unnd erlauben nit
+<lb n="55"/>aus unnser statt thun wöllte. Sollich sein gelüpt hat er aber über
+<lb break="no" n="56"/>ganngen unnd ist one unnser vorwüssen, bewilligen unnd erlauben
+<lb n="57"/>aus unnser statt gezogen. Das alles haben wir euer weishait uff
+<lb n="58"/>obgemellten irn ausganngen urthlbrieff unnd der clagenndenn
+<lb n="59"/>parthey ernnstlich anrüeffen zu fürderung der warhait unnd
+<lb n="60"/>des rechten nit sollen bergen unnd seind euer weishait zu freundtlichen
+<lb n="61"/>diennsten genaigt. Datum <origDate when="1547-03-16">mitwochs den XVI. den martii
+<lb n="62"/>anno etc. XLVIIten</origDate>.
+<pb facs="StadtASG_Missive_657_1533.JPG" n="3"/>
+<lb n="63"/>Den ersamen unnd weisen <orgName ref="stadtasg-actors-148" role="recipient">bürgermaister und
+<lb n="64"/>rathe der statt zu sannt Gallen</orgName> unnsern
+<lb n="65"/>besonndern lieben unnd gutten freunden.
+<pb facs="StadtASG_Missive_657_1534.JPG" n="4"/>
+</p>
+        </body>
+    </text>
+</TEI>

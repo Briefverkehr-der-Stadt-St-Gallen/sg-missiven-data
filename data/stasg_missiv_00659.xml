@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00659">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 659</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_659_1537/1540</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Johannes Haab, alt Bürgermeister zu Zürich, und Italhans Domeisen informieren Bürgermeister und Rat zu St. Gallen aus Baden, dass weder der Abt von St. Gallen noch der Appenzeller Bote etwas thematisiert habe, das die St. Galler betreffe. Weiter bedanken sie sich für die schriftlichen Informationen, die sie ihrer Obrigkeit zukommen lassen werden. Schliesslich informieren sie über die Ereignisse in Frankreich und in Deutschland, insbesondere über den Schmalkaldischen Krieg, und darüber, dass der französische König davon ausgehe, dass man ihm die nötigen Söldner nicht verweigere. Dazu haben die 11 Orte nach Ostern in Solothurn eine Verhandlung angesetzt, um dem König danach zu antworten.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+    <term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-489">Zeitung</term>
+<term ref="stadtasg-keywords-502">Landsknecht</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term> 
+<term ref="stadtasg-keywords-183">König</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-275">Fürst</term>
+<term ref="stadtasg-keywords-89">Information</term>
+<term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-321">Schriftlich</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1305">Johannes Haab</persName> <persName ref="stadtasg-actors-1306">Italhans Domeisen</persName> <placeName ref="stadtasg-places-53">Baden</placeName>                    <date>1547-04-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName>     <placeName ref="stadtasg-places-38">St. Gallen</placeName>           </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Arman Weidenmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-03-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_659_1537.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich gruoß sampt willigem dienst sige euch
+<lb n="2"/>zuovor hochgelerten fürsichtigen eersamen wysen lieben
+<lb n="3"/>herren und guote fründ. Wir haben üwer schryben betref
+<lb break="no" n="4"/>fend den herren von <placeName ref="stadtasg-places-38">s. Gallen</placeName> und unsre eidtgnossenn
+<lb n="5"/>von <placeName ref="stadtasg-places-8">Appentzell</placeName> sines innhalts verstanden, thuon euch
+<lb n="6"/>daruff guoter meynung zuo wüssen, das weder der herr
+<lb n="7"/>von <placeName ref="stadtasg-places-38">s. Gallen</placeName> noch der bott von <placeName ref="stadtasg-places-8">Appenzell</placeName> nüntzit,
+<lb n="8"/>so euch berüren möchte, angezogen noch fürgebracht
+<lb n="9"/>hatt, dann so das beschechen sin sölte, weltint wir
+<lb n="10"/>üwerm begeren nach mitt flyß daran gleesen sin,
+<lb n="11"/>das one üwer vorwüssenn nüntzit beschlossenn noch
+<lb n="12"/>erkhant werden sin sölte, sömlichs verstond von unns
+<lb n="13"/>bester meynung, dann euch früntlichen willen zuobe
+<lb break="no" n="14"/>wysen, sind wir gantz geneigt unnd willig. Dankent
+<lb n="15"/>ouch euch früntlichen der nüwen zytungen, so ir unns
+<lb n="16"/>schrifftlichen mittgeteylt, wellent sy unsern herren
+<lb n="17"/>und obern angendts und fürderlichen zuoschickhenn
+<lb n="18"/>guoter zuoversicht, gemelte unsre herren und obern söm
+<lb break="no" n="19"/>liches zuo hochem gefallen annemmen und empfahen
+<lb n="20"/>werdent. Sonst habent wir besondrer zytungen nitt,
+<lb n="21"/>dann das der könig<note>Gemeint ist wohl König <persName ref="stadtasg-actors-490">Franz I.</persName>, obwohl dieser am <date when="1547-03-31">31. März 1547</date>, ein Tag vor Ausstellungsdatum verstarb.</note> von <placeName ref="stadtasg-places-131">Franckrych</placeName> von den einliff
+<lb n="22"/>ortten<note>Gemeint sind die <orgName ref="stadtasg-actors-1123">11 Orte der Eidgenossenschaft</orgName>.</note> begert, ime die knecht, so er dero nottdurfftig noch
+<lb n="23"/>vermög der vereynigung, nitt zuo versagenn noch abzuo
+<lb break="no" n="24"/>schlachenn. Uff welliches sin ernstlich anhalten ge
+<lb break="no" n="25"/>melte <orgName ref="stadtasg-actors-1123">11 ortt</orgName> einen tag gen <placeName ref="stadtasg-places-49">Solothurn</placeName> noch <date ref="1547-04-10">ostern</date>
+<lb n="26"/>angesetzt, ime wyter daruff zeantworten etc. Desglych
+<lb n="27"/>ouch die keyserisch pottschafft uß <placeName ref="stadtasg-places-281">Burgund</placeName> von ir maiestät<note>Gemeint ist Kaiser <persName ref="stadtasg-actors-1229">Karl V.</persName>.</note> sich
+<lb n="28"/>gantz viler gnaden ouch guots gegen gmeyner <orgName ref="stadtasg-actors-750">Eydgnoschafft</orgName>
+<lb n="29"/>erpütt, sy die <persName ref="stadtasg-actors-1229">keyserliche maiestät</persName> habe ouch disen gegenwürtigen
+<lb n="30"/>krieg<note>Gemeint ist hier der Schmalkaldischer Krieg und sächsischer Feldzug.</note> nie dermassen angefangen gantze <orgName ref="stadtasg-actors-559">Tütsche Nation</orgName>
+<lb n="31"/>under sinen gwalt zuo bringen <note>Ständische "teutsche" Libertät = ein zeitgenössischer Ausdruck für den Anspruch der Reichsstände auf eigene Herrschaftsausübung in ihren Territorien.</note>, wie aber ime unrechtlich
+<lb n="32"/>zuogemessen werde, sonder allain die zwen ungehorsamen
+<lb n="33"/>fürsten<note>Gemeint sind hier Kurfürst <persName ref="stadtasg-actors-1162">Johann Friedrich I. von Sachsen</persName> und Landgraf <persName ref="stadtasg-actors-1163">Philipp I. von Hessen</persName>.</note> zuo straffen, begere ouch nüntzit höchers dann
+<lb n="34"/>ein waare eynikhayt der gantzen cristenhayt zepflantzen.
+<lb n="35"/>Hiemitt euch unsre günstige herren gott befolhende etc.
+<lb n="36"/>Uß <origPlace ref="stadtasg-places-53">Baden</origPlace> den <origDate when="1547-04-01">1. tag aprellens anno 47</origDate>.
+<pb facs="StadtASG_Missive_659_1538.JPG" n="2"/>
+<lb n="37"/>Uwer wyshait allezeyt guottwillige
+<lb n="38"/>fründ und günner.
+<lb n="39"/><persName ref="stadtasg-actors-1305" role="issuer">Johann Hab</persName> alt burger
+<lb break="no" n="40"/>meister zuo <placeName ref="stadtasg-places-32">Zürich</placeName> unnd
+<lb n="41"/><persName ref="stadtasg-actors-1306" role="issuer">Ytelhanns Thumysen</persName>.
+<pb facs="StadtASG_Missive_659_1539.JPG" n="3"/>
+<pb facs="StadtASG_Missive_659_1540.JPG" n="4"/>
+<lb n="42"/>Denn hochgelerten frommen
+<lb n="43"/>fürsichtigen eersamen
+<lb n="44"/>wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="45"/>unnd rhatt der statt sant
+<lb n="46"/>Gallen</orgName> unnsern
+<lb n="47"/>lieben herren unnd
+<lb n="48"/>guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00653">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 653</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_653_1513/1516</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Zürich bitten Bürgermeister und Rat zu St. Gallen um Beobachtung und Information mit dem Boten zu Kriegsvorbereitungen in Bregenz.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+    <term ref="stadtasg-keywords-214">Krieg</term>
+<term ref="stadtasg-keywords-601">Aufrüstung</term>
+<term ref="stadtasg-keywords-187">Kundschaft</term>
+<term ref="stadtasg-keywords-668">Überfall</term>
+ 
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-503">Bürgermeister und Rat zu Zürich</orgName>                    <date>1546-10-14</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Arman Weidenmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-04-08</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_653_1513.JPG" n="1"/>
+<p>
+<lb n="1"/>Unser früntlich willig dientst sambt was wir eeren liebs und
+<lb n="2"/>guots vermögend zuovor fromm fürsichtig wyß insonders guot
+<lb n="3"/>fründt und getrüw lieb eydtgnossen. Uß der
+<lb n="4"/>kriegs rüstung, so sich zuo <placeName ref="stadtasg-places-60">Bregenz</placeName> unnd der eanden erhebt,
+<lb n="5"/>were lichtlich einer <orgName ref="stadtasg-actors-750">Eydtgnoschafft</orgName> etwas unversechenen über
+<lb break="no" n="6"/>fals unnd untrüw begegnet. Diewil man nu inn sollichen
+<lb n="7"/>untrüwen leufen nit zuo vil fürsorg wagen kan, so ist an
+<lb n="8"/>uch unser gar früntlichs ansinnen und begeren, ir wellind
+<lb n="9"/>uff angezeigtt rüstungen und kriegs handlung uwer spech
+<lb n="10"/>unnd kuntschafft machen, damit ir uns der so vorhanden
+<lb n="11"/>by disem botten ald uff nechst angeseztem tag inn unser
+<lb n="12"/>statt durch uwern gesandten berichten komind unnd
+<lb n="13"/>uch harinn inn allweg unserem ungezwifleten vertruwen
+<lb n="14"/>nach bewysen. Das kombt ieder zit umb uch früntlich
+<lb n="15"/>unnd willig zuo beschulden und zuo verdienen. Datum
+<lb n="16"/><origDate when="1546-10-14">14 octobris anno etc. XLVI</origDate>.
+<lb n="17"/><orgName ref="stadtasg-actors-503" role="issuer">Burgermeister und rath
+<lb n="18"/>der statt Zürich</orgName>.
+<pb facs="StadtASG_Missive_653_1514.JPG" n="2"/>
+<pb facs="StadtASG_Missive_653_1515.JPG" n="3"/>
+<pb facs="StadtASG_Missive_653_1516.JPG" n="4"/>
+<lb n="19"/>Den frommen fürsichtigen wyßen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="20"/>meister unnd rath der statt zuo sant Gallen</orgName>
+<lb n="21"/>unnsern insonders guoten fründen und getrüwen
+<lb n="22"/>liebenn eydtgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

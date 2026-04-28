@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00194">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -74,29 +73,23 @@
             <p>
                 <lb n="1"/>Unser undertenig willig dienst zuo vor gnedigen lieben herren. Üwer
                 wyshait <lb n="2"/>ist wol wissenlich, wie wir von den <placeName ref="stadtasg-places-8">Appentzeller</placeName> laider baerlich angriffen, verbrent <lb n="3"/>und
-                beschaediget worden sint unverschult, und von dem unsern wychen und wuest <lb n="4"
-                />liggen muessen. Und wan wir nun üwer burger sigen und nieman anzuorueffen <lb
-                    n="5"/>haben denn üwer wyshait, so bittent wir üwer gnad ernstlichest und wir
+                beschaediget worden sint unverschult, und von dem unsern wychen und wuest <lb n="4"/>liggen muessen. Und wan wir nun üwer burger sigen und nieman anzuorueffen <lb n="5"/>haben denn üwer wyshait, so bittent wir üwer gnad ernstlichest und wir
                 yemmer <lb n="6"/>konnen und mugen, ir woellen umb gottes und unsers verdienents
                 willen soelich <lb n="7"/>unser verderben und grossen not ansehen und uns etlichen
                 wege darinne zuo <lb n="8"/>hilff und ze statten komen und üwern getrüwen rate
                 darinne mit tailen, wie <lb n="9"/>wir uns darinne halten soellen, damitte wir wider
                 zuo dem unsern sicher <lb n="10"/>gewandlen und dz gebuwen mugen. Denn ob die von
                     <placeName ref="stadtasg-places-8">Appentzell</placeName> uns indehainen <lb n="11"/>zigen
-                hetten, so woelten wir darumb mit in gern für üwer wyshait zem rechten <lb n="12"
-                />komen woelten, und üwer wyßhait woelle sich darinne so günstlich und guetlich <lb
-                    n="13"/>bewysen sonder tuon, alz wir denn dez und alles guoten ain unzwivenlich
+                hetten, so woelten wir darumb mit in gern für üwer wyshait zem rechten <lb n="12"/>komen woelten, und üwer wyßhait woelle sich darinne so günstlich und guetlich <lb n="13"/>bewysen sonder tuon, alz wir denn dez und alles guoten ain unzwivenlich
                     <lb n="14"/>guot getrüwen zuo üch haben. Dz stat uns in allen sachen, wa sich dz
                 yemmert <lb n="15"/>gepüret, mit willen umb üch und alle die üwern ze beschulden und
                 ze verdienen. <lb n="16"/>Und wir begern hierumb üwer guetlich verschriben antwürt
                 mit dem botten. <lb n="17"/>Geben zuo <origPlace ref="stadtasg-places-24">Lindow</origPlace>
                 und mit dez ersammen <persName ref="stadtasg-actors-327">Mathyassen Schnebergs</persName> dez
                 stattammans <lb n="18"/>zuo <placeName ref="stadtasg-places-24">Lindow</placeName>
-                uffgetrukten insigel ze ruken diss briefs von unser pette wegen <lb n="19"
-                />versigelt am <origDate when="1445-05-08">nechsten samstag nach dem maytag anno
+                uffgetrukten insigel ze ruken diss briefs von unser pette wegen <lb n="19"/>versigelt am <origDate when="1445-05-08">nechsten samstag nach dem maytag anno
                     domini etc. XLVto</origDate>. <lb n="20"/><orgName ref="stadtasg-actors-525" role="issuer">Amman und die
-                    hof <lb n="21"/>lüt zuo Lustnow</orgName>. <pb
-                    facs="StadtASG_Missive_194_390.JPG" n="2"/>
+                    hof <lb n="21"/>lüt zuo Lustnow</orgName>. <pb facs="StadtASG_Missive_194_390.JPG" n="2"/>
                 <lb n="22"/>Den fürsichtigen ersammen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raetten <lb n="23"/>der statt zuo
                     Santgallen</orgName> unsern gnedigen lieben herren etc. </p>
         </body>

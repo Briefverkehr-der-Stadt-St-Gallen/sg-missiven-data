@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00238">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -71,8 +70,7 @@
         <body>
             <pb facs="StadtASG_Missive_238_477.JPG" n="1"/>
             <p>
-                <lb n="1"/><persName ref="stadtasg-actors-83" role="issuer">Caspar</persName> abbt des <lb n="2"/><orgName
-                    ref="stadtasg-actors-541">gotzhus zuo sant Gallen</orgName>. <lb n="3"/>Unser günstlich
+                <lb n="1"/><persName ref="stadtasg-actors-83" role="issuer">Caspar</persName> abbt des <lb n="2"/><orgName ref="stadtasg-actors-541">gotzhus zuo sant Gallen</orgName>. <lb n="3"/>Unser günstlich
                 gruos ersamen wisen lieben und <lb n="4"/>guoten fründ. Als ir uns von
                 <persName ref="stadtasg-actors-379">Hainrichs Schmids</persName>
                 <lb n="5"/>wegen von <placeName ref="stadtasg-places-160">Waltkilch</placeName> geschriben
@@ -82,13 +80,10 @@
                     Gallen</placeName>, denne er die, deren er not <lb break="no" n="9"/>durftig
                 were, by imm ze <placeName ref="stadtasg-places-102">Wil</placeName> nit gehaben mug, <lb n="10"/>haben uns
                 die <orgName ref="stadtasg-actors-573">Lopachere</orgName> ainen brieff under üwerem <lb n="11"/>insigel
-                fürbracht, dar inn ir den <persName ref="stadtasg-actors-379">Schmid</persName> und die <lb n="12"
-                /><orgName ref="stadtasg-actors-573">Lopacher</orgName> mit üwerem rechtspruch gewiset hand für uns, <lb
-                    n="13"/>alda wir zuo uns setzen mugen, wen wir wellen, <lb n="14"/>uff sölichs
+                fürbracht, dar inn ir den <persName ref="stadtasg-actors-379">Schmid</persName> und die <lb n="12"/><orgName ref="stadtasg-actors-573">Lopacher</orgName> mit üwerem rechtspruch gewiset hand für uns, <lb n="13"/>alda wir zuo uns setzen mugen, wen wir wellen, <lb n="14"/>uff sölichs
                 wir baiden tailen ainen rechttag als <lb n="15"/>uff <date when="1451-02-22">nechst mentag</date> gesetzt und dar
                 zuo uß allen hie <lb n="16"/>unsers gotzhus hoeffen erber lüten verbott haben, dar
-                    <lb break="no" n="17"/>umb wir dem lengeren uffschlag mit gelimpffe <lb n="18"
-                />nitt geben koennen, und bitten üch, dz zuo dem besten <lb n="19"/>von uns ze
+                    <lb break="no" n="17"/>umb wir dem lengeren uffschlag mit gelimpffe <lb n="18"/>nitt geben koennen, und bitten üch, dz zuo dem besten <lb n="19"/>von uns ze
                 vermercken, wonn uns die <orgName ref="stadtasg-actors-573">Lopachere</orgName> so <lb n="20"/>dik darumb
                 angeruefft hand, dz wir dz mit gelimpff <lb n="21"/>nit lenger verziechen mochten.
                 Geben under <persName ref="stadtasg-actors-380">Otmars <lb n="22"/>Zwicken</persName> insigel

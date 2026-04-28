@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00266">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Anton Schenk von Landegg, Vogt zu Bischofszell, informiert seinen Onkel, den St. Galler Bürgermeister Ulrich Särri, dass der von ihm festgesetzte Termin der Gerichtsverhandlung in Bischofszell gegen Ruedi Mayer nicht an dem festgesetzten Tag stattfinden kann. Die angesetzte Verhandlung zwischen Strub und Müller hingegen würde wie geplant stattfinden. Schenk von Landegg bittet, die involvierten Personen in St. Gallen darüber zu informieren.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
                     <term ref="stadtasg-keywords-263">Vogt</term>
@@ -61,23 +60,23 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_266_533.JPG" n="1" />
+            <pb facs="StadtASG_Missive_266_533.JPG" n="1"/>
 <p>
-    <lb n="1" />Min früntlich willig dienst voran lieber oeheim. Als ich dann den von <placeName ref="stadtasg-places-38">sant Gallen</placeName> ainen rechttag
-    <lb n="2" />gegen <persName ref="stadtasg-actors-422">Ruedin Mayern</persName> gesetzt hett uff <date when="1452-07-12">mitwochen zuo naechst</date>, füg ich dir zuo wissen, das ettlichen
-    <lb n="3" />raeten und richtern hie zuo <placeName ref="stadtasg-places-19">Bischofftzell</placeName> zuegestanden ist, dardurch si by soelichem tag nit gesin
-    <lb n="4" />mugen und deßhalb der uff die <date when="1452-07-12">selben mittwochen</date> nit fürgang gehaben mag, bitt ich dich
-    <lb n="5" />mit ernste, das denselben von <placeName ref="stadtasg-places-38">sant Gallen</placeName> och ze verkünden, sich darnach zuo richten wissen
-    <lb n="6" />mugen. Aber der tag zwischen dem <persName ref="stadtasg-actors-423">Struben</persName> und dem <persName ref="stadtasg-actors-424">Müller</persName> gaut für sich vor er minen
-<lb n="7" />lehenmanen in maß der gesetzt ist, darnach waist du dich nun wol zuo richten und soelichs
-<lb n="8" />och zuo sagen. Wann wamit ich gethuon künd, das dir früntlich und lieb wäre, täte ich
-    <lb n="9" />gern. Geben an <origDate when="1452-07-09">sontag nach sant Uolrichs tag episcopi anno domini etc. L secundo</origDate>.
-    <lb n="10" /><persName ref="stadtasg-actors-87" role="issuer">Anthony Schenk von Landegg</persName>,
-    <lb n="11" />vogt ze <placeName ref="stadtasg-places-19">Bischofftzell</placeName>
-<pb facs="StadtASG_Missive_266_534.JPG" n="2" />
-    <lb n="12" />Dem ersamen wisen <persName ref="stadtasg-actors-91" role="recipient">Uolrichen Saerin</persName> burger
-    <lb break="no" n="13" />maister zuo <placeName ref="stadtasg-places-38">sant Gallen</placeName> minem lieben
-<lb n="14" />oeheim.
+    <lb n="1"/>Min früntlich willig dienst voran lieber oeheim. Als ich dann den von <placeName ref="stadtasg-places-38">sant Gallen</placeName> ainen rechttag
+    <lb n="2"/>gegen <persName ref="stadtasg-actors-422">Ruedin Mayern</persName> gesetzt hett uff <date when="1452-07-12">mitwochen zuo naechst</date>, füg ich dir zuo wissen, das ettlichen
+    <lb n="3"/>raeten und richtern hie zuo <placeName ref="stadtasg-places-19">Bischofftzell</placeName> zuegestanden ist, dardurch si by soelichem tag nit gesin
+    <lb n="4"/>mugen und deßhalb der uff die <date when="1452-07-12">selben mittwochen</date> nit fürgang gehaben mag, bitt ich dich
+    <lb n="5"/>mit ernste, das denselben von <placeName ref="stadtasg-places-38">sant Gallen</placeName> och ze verkünden, sich darnach zuo richten wissen
+    <lb n="6"/>mugen. Aber der tag zwischen dem <persName ref="stadtasg-actors-423">Struben</persName> und dem <persName ref="stadtasg-actors-424">Müller</persName> gaut für sich vor er minen
+<lb n="7"/>lehenmanen in maß der gesetzt ist, darnach waist du dich nun wol zuo richten und soelichs
+<lb n="8"/>och zuo sagen. Wann wamit ich gethuon künd, das dir früntlich und lieb wäre, täte ich
+    <lb n="9"/>gern. Geben an <origDate when="1452-07-09">sontag nach sant Uolrichs tag episcopi anno domini etc. L secundo</origDate>.
+    <lb n="10"/><persName ref="stadtasg-actors-87" role="issuer">Anthony Schenk von Landegg</persName>,
+    <lb n="11"/>vogt ze <placeName ref="stadtasg-places-19">Bischofftzell</placeName>
+<pb facs="StadtASG_Missive_266_534.JPG" n="2"/>
+    <lb n="12"/>Dem ersamen wisen <persName ref="stadtasg-actors-91" role="recipient">Uolrichen Saerin</persName> burger
+    <lb break="no" n="13"/>maister zuo <placeName ref="stadtasg-places-38">sant Gallen</placeName> minem lieben
+<lb n="14"/>oeheim.
 </p>
         </body>
     </text>

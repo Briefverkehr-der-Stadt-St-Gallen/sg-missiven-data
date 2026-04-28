@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00197">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -74,15 +73,10 @@
                 das schreiben, so wir unsern haubtlewten vormaln <lb n="5"/>getan haben von der
                 costen und andrer notdurft wegen, ew zutzefüren auf vier ewer <lb n="6"/>mitburger
                 ew gesworen, die ir darzw ordnen woltet, schaffen zuvertigen und <lb n="7"/>zegeben,
-                also haben wir uns des auf soelich ewr bete verwilliget. Aber uns be <lb break="no"
-                    n="8"/>dunket notdurftig ze sein, daz dieselben vier in den briefen benennet und
+                also haben wir uns des auf soelich ewr bete verwilliget. Aber uns be <lb break="no" n="8"/>dunket notdurftig ze sein, daz dieselben vier in den briefen benennet und
                 geschriben <lb n="9"/>werden. Die müget ir uns also in geschrift zusennden, so
                 wellen wir ew solich <lb n="10"/>brif darauf vertigen lassen und schaffen ze geben.
-                Geben zw <origPlace ref="stadtasg-places-22">Vilingen</origPlace> an <lb n="11"/><origDate when="1446-03-05"
-                    >sambstag vor dem suntag invocavit in der vasten anno etc. XLVIo</origDate>. <lb
-                        n="12"/>Dominus dux per <persName ref="stadtasg-actors-329">Andr<ex cert="medium">eam</ex> de <lb n="13"
-                    />Holn<ex cert="medium">ecker</ex></persName>, magistrum camere. <pb
-                    facs="StadtASG_Missive_197_396.JPG" n="2"/>
+                Geben zw <origPlace ref="stadtasg-places-22">Vilingen</origPlace> an <lb n="11"/><origDate when="1446-03-05">sambstag vor dem suntag invocavit in der vasten anno etc. XLVIo</origDate>. <lb n="12"/>Dominus dux per <persName ref="stadtasg-actors-329">Andr<ex cert="medium">eam</ex> de <lb n="13"/>Holn<ex cert="medium">ecker</ex></persName>, magistrum camere. <pb facs="StadtASG_Missive_197_396.JPG" n="2"/>
                 <lb n="14"/>Den ersamen weisen unsern besunder <lb n="15"/>lieben dem
                 <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rate zu <lb n="16"/>sand Gallen</orgName>. </p>
         </body>

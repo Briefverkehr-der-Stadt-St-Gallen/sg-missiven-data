@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00084">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -71,10 +70,8 @@
         <body>
             <pb facs="StadtASG_Missive_84_167.JPG" n="1"/>
             <p>
-                <lb n="1"/>Min willig dienst zuo vor lieben herren und fründe. Üch hat villicht <lb
-                    n="2"/>üwer burgermaister und <persName ref="stadtasg-actors-206">Cuonrat Hoer</persName>
-                wol erzellet, wie ich von mins wibs <lb n="3"/>wegen an <persName ref="stadtasg-actors-207"
-                    >Micheln von Emptz</persName> und <persName ref="stadtasg-actors-208">Diettegen von
+                <lb n="1"/>Min willig dienst zuo vor lieben herren und fründe. Üch hat villicht <lb n="2"/>üwer burgermaister und <persName ref="stadtasg-actors-206">Cuonrat Hoer</persName>
+                wol erzellet, wie ich von mins wibs <lb n="3"/>wegen an <persName ref="stadtasg-actors-207">Micheln von Emptz</persName> und <persName ref="stadtasg-actors-208">Diettegen von
                     Gruenenstain</persName> ain losung <lb n="4"/>begert und gemuotet han und wie sy
                 sich dawider setzent, also han ich <lb n="5"/>nun nün hundert pfund haller hinder
                 ainen <orgName ref="stadtasg-actors-551">rate ze Lindow</orgName> geleit. Bitt ich üch, ir
@@ -84,13 +81,9 @@
                 habe. <lb n="8"/>Und tuond hierinne, alz ich üch dez und allez guoten insonder wol
                 getrüwen. <lb n="9"/>Dz beger ich mit willen, umb üch ze beschulden und ze
                 verdienen. Datum <lb n="10"/><origDate when="1436-09-01">sabbato post Pelaygi anno
-                    etc. XXXVIto</origDate>. <lb n="11"/><persName cert="medium" ref="stadtasg-actors-42" role="issuer">Hanns Thumm <lb
-                        n="12"/>von Nüwburg</persName><note>Es ist unklar, welcher der
-                            Brüder gemeint ist. Es könnte ebensogut <persName cert="medium"
-                                ref="stadtasg-actors-43" role="issuer">Hans Tumb (II)</persName> der Aussteller sein.</note>. <pb
-                    facs="StadtASG_Missive_84_168.JPG" n="2"/>
-                <lb n="13"/>Den ersamen und wysen dem <orgName ref="stadtasg-actors-148" role="recipient"
-                    >burgermaister und <lb n="14"/>raute der statt zuo sant Gallen</orgName> minen
+                    etc. XXXVIto</origDate>. <lb n="11"/><persName cert="medium" ref="stadtasg-actors-42" role="issuer">Hanns Thumm <lb n="12"/>von Nüwburg</persName><note>Es ist unklar, welcher der
+                            Brüder gemeint ist. Es könnte ebensogut <persName cert="medium" ref="stadtasg-actors-43" role="issuer">Hans Tumb (II)</persName> der Aussteller sein.</note>. <pb facs="StadtASG_Missive_84_168.JPG" n="2"/>
+                <lb n="13"/>Den ersamen und wysen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und <lb n="14"/>raute der statt zuo sant Gallen</orgName> minen
                 lieben herren <lb n="15"/>und fründen. </p>
         </body>
     </text>

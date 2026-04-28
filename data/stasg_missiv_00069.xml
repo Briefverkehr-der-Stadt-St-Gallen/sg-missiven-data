@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00069">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -82,8 +81,7 @@
                 habend <lb n="13"/>mir wol alle früntschaft und alles guot erzoeget und getan vil
                     <lb n="14"/>früro und vil me, denn ich erzellen kan. Ich han aber sachen ze
                 schaffen <lb n="15"/>von etlicher lantlüten und von ander sachen wegen, die ich
-                nüt <lb n="16"/>erobren möchti an das lantrecht ze <placeName ref="stadtasg-places-8"
-                    >Appenzell</placeName>. Also wil ich üch aber <lb n="17"/>bitten mit gantzem
+                nüt <lb n="16"/>erobren möchti an das lantrecht ze <placeName ref="stadtasg-places-8">Appenzell</placeName>. Also wil ich üch aber <lb n="17"/>bitten mit gantzem
                 fliss und mit ernst, wo min sachen an üch langend <lb n="18"/>werdend, das ir mich
                 üch enpfolhen lassend sin und mir bistendig <lb n="19"/>beratten und beholfen sin
                 wellend zuo gelichen billichen sachen. Koende <lb n="20"/>ich das iemer umb üch und
@@ -95,16 +93,11 @@
                 üch und umb all die üwern zuo verdienend, <lb n="26"/>wo si das getuon koendind.
                 Hierumb, lieben herren und guotten fründ, <lb n="27"/>tuond hierinn, als ich üwer
                 wysshait und guotten früntschaft sunder <lb n="28"/>wol getrüwend. Versigelt mit
-                des ersamen <persName ref="stadtasg-actors-191">Cuonrats am Brand</persName>, ouch <lb n="29"
-                />lantman ze <placeName ref="stadtasg-places-8">Appenzell</placeName>, ufgetrukten insigel
+                des ersamen <persName ref="stadtasg-actors-191">Cuonrats am Brand</persName>, ouch <lb n="29"/>lantman ze <placeName ref="stadtasg-places-8">Appenzell</placeName>, ufgetrukten insigel
                 von miner bett wegen, <lb n="30"/>doch an schaden im und sinen erben. Geben am
                     <origDate when="1435-01-18">zinstag naechst nach sant <lb n="31"/>Anthonien tag
-                    anno domini Mo CCCCo XXXVo</origDate>. <lb n="32"/><persName ref="stadtasg-actors-36"
-                    role="issuer">Walther Koppenhan <lb n="33"/>der iünger</persName> lantman <lb
-                    n="34"/>ze <placeName ref="stadtasg-places-8">Appenzell</placeName>. <pb
-                    facs="StadtASG_Missive_69_138.JPG" n="2"/>
-                <lb n="35"/>Den ersamen wysen und wolbeschaidnen <lb n="36"/>dem <orgName
-                    ref="stadtasg-actors-148" role="recipient">burgermaister und rat ze sant Gallen</orgName>
+                    anno domini Mo CCCCo XXXVo</origDate>. <lb n="32"/><persName ref="stadtasg-actors-36" role="issuer">Walther Koppenhan <lb n="33"/>der iünger</persName> lantman <lb n="34"/>ze <placeName ref="stadtasg-places-8">Appenzell</placeName>. <pb facs="StadtASG_Missive_69_138.JPG" n="2"/>
+                <lb n="35"/>Den ersamen wysen und wolbeschaidnen <lb n="36"/>dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat ze sant Gallen</orgName>
                 <lb n="37"/>minen lieben und guotten fründen. </p>
         </body>
     </text>

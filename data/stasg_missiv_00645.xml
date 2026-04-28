@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00645">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 645</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+            <notesStmt><note><p>Kontext: Clemens Hör war zwischen 1546 und 1555 Lehrer an der deutschen Schule in St. Gallen. Er hat ein Mathematikbuch für die Jugend geschrieben, welches sich unter der Signatur VadSlg Ms 418 in der Vadianischen Sammlung befindet. Zur Sache siehe auch die Missiven Nrn. <ref target="stasg_missiv_00646.xml">646</ref> und <ref target="stasg_missiv_00647.xml">647</ref>, sowie eine Missive StadtASG/1/5/Tr.Q.7c im Urkundenbestand.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_645_1493/1494</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Clemens Hör, Lehrer an der städtischen deutschen Schule in St. Gallen, beklagt sich bei Bürgermeister und Rat zu St. Gallen über die Konkurrenz eines gewissen Jörg Walch, der den Jugendlichen gegen Bezahlung ebenfalls elementare Kenntnisse im Rechnen und Schreiben beibringt. Dies stellt für Clemens Hör ein Problem dar, da ihm dadurch Verdienstmöglichkeiten entgehen.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-24">Klage</term>
+<term ref="stadtasg-keywords-6">Schule</term>
+<term ref="stadtasg-keywords-398">Diener</term>
+<term ref="stadtasg-keywords-22">Konflikt</term>
+<term ref="stadtasg-keywords-352">Lohn</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1276">Clemens Hör</persName>                    <date>1546</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Arman Weidenmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-04-01</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_645_1493.JPG" n="1"/>
+<p>
+<lb n="1"/>Herr burgermaister ersam weyß fürsichtig günstige
+<lb n="2"/>lieb herren<note>Gemeint sind <orgName ref="stadtasg-actors-148" role="recipient">Bürgermeister und Rat zu St. Gallen</orgName>.</note>. Ewer ersam weißhait diener <persName ref="stadtasg-actors-1276" role="issuer">Clemens Hör</persName>
+<lb n="3"/>fuegt inen als seinen liebenn und sonders gnedigen herren
+<lb n="4"/>undertheniglich zuo vernemen, wie das <persName ref="stadtasg-actors-1277">Joerg Walch</persName> sich
+<lb n="5"/>undernimpt, uß seim aignen fürnemen deutsch zuo leren
+<lb n="6"/>schreibenn und lesenn, welches nun mir, wo es gestattet
+<lb n="7"/>werden sölt, ain grosser abbruch und hindernusz sin wurd an
+<lb n="8"/>miner leer, so mir von ewer weißhait befolhen ist. Bitt derhalb
+<lb n="9"/>ewer ersam weißhait uffs gehorsamest, sy welle mich by mi
+<lb break="no" n="10"/>ner ler und ordnung handhaben unnd mich niem
+<lb break="no" n="11"/>and daran hinderen lassenn, so wil ich fürhin als biß
+<lb break="no" n="12"/>her mein bestenn fleiß mit der iugennd anwenden,
+<lb n="13"/>so vil mir und inen müglich sein wirt, das da kain
+<lb n="14"/>mangel sin soll. Befilch mich hiemit ewer weißhait uffs un
+<lb break="no" n="15"/>derthenigest in yren schutz und schirm, mit demuetigem
+<lb n="16"/>pitt, mich gnediglich zuo erhören und solche beyler<note>Beyler = Nebenbuhler</note> abzuo
+<lb n="17"/>schaffen. <origDate when="1546">Anno domini 1546</origDate>.
+<pb facs="StadtASG_Missive_645_1494.JPG" n="2"/>
+</p>
+        </body>
+    </text>
+</TEI>

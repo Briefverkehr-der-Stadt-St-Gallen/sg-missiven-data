@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00190">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -93,11 +92,8 @@
                 früntlich geschriben antwirt, <lb n="18"/>so ir uemer erst mügit. Geben an der
                     <origDate when="1445-03-10">mitwochun nach dem sununtag letare <lb n="19"/>anno
                     etc. XLVo</origDate>. <lb n="20"/><persName ref="stadtasg-actors-45" role="issuer">Albrech Tum von
-                    Nüburg</persName>, <lb n="21"/>riter. <pb facs="StadtASG_Missive_190_382.JPG"
-                    n="2"/>
-                <lb n="22"/>Den ersamen und wissen dem <orgName ref="stadtasg-actors-148" role="recipient">burgunmaister <lb
-                        n="23"/>und rat der stat zuo san Gallen</orgName> minen besundern <lb n="24"
-                />guotten frunden. </p>
+                    Nüburg</persName>, <lb n="21"/>riter. <pb facs="StadtASG_Missive_190_382.JPG" n="2"/>
+                <lb n="22"/>Den ersamen und wissen dem <orgName ref="stadtasg-actors-148" role="recipient">burgunmaister <lb n="23"/>und rat der stat zuo san Gallen</orgName> minen besundern <lb n="24"/>guotten frunden. </p>
         </body>
     </text>
 </TEI>

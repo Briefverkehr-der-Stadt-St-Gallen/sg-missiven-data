@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00230">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -82,14 +81,10 @@
                 mir darinn üwer gnaden mitzetailen. Das <lb n="9"/>sol und wil ich in undertenikait
                 und mit beraitem willen umd üwer er <lb break="no" n="10"/>same wißheit verdienen,
                 warinn dann mins diensts begert wurde. Üwer <lb n="11"/>gnedig und gutlich
-                verschriben antwurt. Datum <origDate when="1450-10-07">feria quarta post <lb n="12"
-                    />Francisci anno etc. Lo</origDate>.
+                verschriben antwurt. Datum <origDate when="1450-10-07">feria quarta post <lb n="12"/>Francisci anno etc. Lo</origDate>.
                 <persName ref="stadtasg-actors-81" role="issuer"><lb n="13"/>Ruodolff Locher</persName> von
-                    Aigen <lb break="no" n="14"/>buoch<note>Es ist unklar, welches Hagenbuch gemeint ist.</note>, soldner zu <placeName
-                    ref="stadtasg-places-158">Rotwil</placeName>. <pb facs="StadtASG_Missive_230_462.JPG"
-                    n="2"/>
-                <lb n="15"/>Den fursichtigen ersamen und wisen <lb n="16"/><orgName ref="stadtasg-actors-148"
-                    role="recipient">burgermaister und raut der statt zuo <lb n="17"/>sant
+                    Aigen <lb break="no" n="14"/>buoch<note>Es ist unklar, welches Hagenbuch gemeint ist.</note>, soldner zu <placeName ref="stadtasg-places-158">Rotwil</placeName>. <pb facs="StadtASG_Missive_230_462.JPG" n="2"/>
+                <lb n="15"/>Den fursichtigen ersamen und wisen <lb n="16"/><orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raut der statt zuo <lb n="17"/>sant
                     Gallen</orgName> minen gneadigen lieben <lb n="18"/>herren. </p>
         </body>
     </text>

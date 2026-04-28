@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00311">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -92,25 +91,14 @@
                 von <placeName ref="stadtasg-places-32">Zurich</placeName><note><persName ref="stadtasg-actors-477">Niklaus Brennwald</persName>.</note> zuo recht als <lb n="6"/>ingemainem zuo sprechen komen syen, darumb sy
                 dann baidtail in clag und wider <lb break="no" n="7"/>red verhort und spruch zuo
                 geben ain bedencken genommen haben, wan nu der <lb n="8"/>unser der sach gern ustrag
-                hette, hat er den benanten unsern gnadigen herren von <lb n="9"
-                        /><placeName ref="stadtasg-places-7">Costentz</placeName><note><persName ref="stadtasg-actors-55">Heinrich IV. von
+                hette, hat er den benanten unsern gnadigen herren von <lb n="9"/><placeName ref="stadtasg-places-7">Costentz</placeName><note><persName ref="stadtasg-actors-55">Heinrich IV. von
                     Hewen, Bischof von Konstanz</persName>.</note> gebetten, im an der sach tag zuo setzen, uff das sin
-                gnad im ainen <lb n="10"/>tag beschaiden und benempt hat, als uff den <date
-                    when="1454-12-09">nächsten mentag nach sant <lb n="11"/>Nicolas tag</date>. Ob
+                gnad im ainen <lb n="10"/>tag beschaiden und benempt hat, als uff den <date when="1454-12-09">nächsten mentag nach sant <lb n="11"/>Nicolas tag</date>. Ob
                 sölicher tag anders uwerm burgermaister och eben sin wölt, <lb n="12"/>bitten wir
                 uwer ersamen wißhait mit besunderm ernst fruntlich, mitt <lb n="13"/>uwerm
-                burgermaister gütlich zuo schaffen, sölichen tag, ob er anders das an <lb n="14"
-                />sinen muosen gehaben mag, och zuo ze sagen, damit solicher tag sint <lb break="no"
-                    n="15"/>halb och fürgang gewinn. Und wollen üch hier inn bewisen, als wir <lb
-                    n="16"/>des und alles guoten ain sunder guot getruwen zuo uch haben, das <lb
-                    n="17"/>wollen wir mit sunderm willen umb uch beschulden und verdienen. <lb
-                    n="18"/>Uwer verschriben antwurt by dem botten. Geben ilons uff <lb n="19"
-                    /><origDate when="1454-11-28">donrstag nach sant Conrats tag anno domini etc.
-                    LIIIIto</origDate>. <lb n="20"/><orgName ref="stadtasg-actors-56" role="issuer"
-                    >Burgermaister und <lb n="21"/>rate zuo Costentz</orgName>. <pb
-                    facs="StadtASG_Missive_311_628.JPG" n="2"/>
-                <lb n="22"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient"
-                    >burgermaister und <lb n="23"/>rate zuo sant Gallen</orgName> unsern insundern
+                burgermaister gütlich zuo schaffen, sölichen tag, ob er anders das an <lb n="14"/>sinen muosen gehaben mag, och zuo ze sagen, damit solicher tag sint <lb break="no" n="15"/>halb och fürgang gewinn. Und wollen üch hier inn bewisen, als wir <lb n="16"/>des und alles guoten ain sunder guot getruwen zuo uch haben, das <lb n="17"/>wollen wir mit sunderm willen umb uch beschulden und verdienen. <lb n="18"/>Uwer verschriben antwurt by dem botten. Geben ilons uff <lb n="19"/><origDate when="1454-11-28">donrstag nach sant Conrats tag anno domini etc.
+                    LIIIIto</origDate>. <lb n="20"/><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister und <lb n="21"/>rate zuo Costentz</orgName>. <pb facs="StadtASG_Missive_311_628.JPG" n="2"/>
+                <lb n="22"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und <lb n="23"/>rate zuo sant Gallen</orgName> unsern insundern
                 guoten <lb n="24"/>fründen.</p>
         </body>
     </text>

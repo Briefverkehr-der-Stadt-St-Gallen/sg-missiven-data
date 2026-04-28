@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00662">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 662</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+             <notesStmt><note><p>Die erwähnten Beilagen <ref target="stasg_missiv_00662-suppl-01.xml">1</ref> und <ref target="stasg_missiv_00662-suppl-02.xml">2</ref> sind vorhanden. Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00663.xml">663</ref>.</p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_662_1555/1558</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                <msDesc n="1" type="supplement"><msIdentifier><idno>StadtASG Missive_662_1555/1558</idno><altIdentifier type="filename"><idno>stasg_missiv_00662-suppl-01.xml</idno></altIdentifier></msIdentifier></msDesc>
+                <msDesc n="2" type="supplement"><msIdentifier><idno>StadtASG Missive_632_1555/1558</idno><altIdentifier type="filename"><idno>stasg_missiv_00662-suppl-02.xml</idno></altIdentifier></msIdentifier></msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Isny bitten Bürgermeister und Rat zu St. Gallen dafür zu sorgen, dass in der Erbangelegenheit von Wolf Zollikofers Witwe die Gesellschaft, an der Zollikofer beteiligt war, endlich eine Prüfung der Register und Rechnungen der Gesellschaft vorgenommen werden könne. Da sich die Gesellschaft bisher weigere, sei es nicht möglich zu ermitteln, wem wie viel zustehe, und der Streit könne nicht beigelegt werden. Beigelegt ist die Korrespondenz zwischen Isny und Jakob Zollikofer.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+     <term ref="stadtasg-keywords-174">Rechnung</term>
+<term ref="stadtasg-keywords-270">Vormundschaft</term>
+<term ref="stadtasg-keywords-21">Rechtshilfe</term>
+<term ref="stadtasg-keywords-478">Register</term>
+<term ref="stadtasg-keywords-177">Witwe</term>
+<term ref="stadtasg-keywords-269">Kind</term>
+<term ref="stadtasg-keywords-127">Geld</term>
+<term ref="stadtasg-keywords-316">Obrigkeit</term>
+<term ref="stadtasg-keywords-5">Erbteilung</term>
+<term ref="stadtasg-keywords-454">Kopie</term>
+<term ref="stadtasg-keywords-244">Amt</term>
+<term ref="stadtasg-keywords-450">Waise</term>
+<term ref="stadtasg-keywords-263">Vogt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-509">Bürgermeister und Rat zu Isny</orgName>                    <date>1547-08-07</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Arman Weidenmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-04-13</date>
+                <note>Die Seite mit der Adresse (Bild-Laufnummer 1552) aus der Stücknummer 662-suppl-01 (ehemals Nr. 660) hierhin verschoben.</note>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_662_1555.JPG" n="1"/>
+<p>
+<lb n="1"/>Unser freuntlich willig dienst zuvor fürsichtig
+<lb n="2"/>ersam unnd weiß sonders lieb und guot freundt.
+<lb n="3"/>Welcher gestalt unser lieber stattamman unnd
+<lb n="4"/>mitburgere <persName ref="stadtasg-actors-1309">Jorg Ballauf</persName> unnd <persName ref="stadtasg-actors-1310">Caspar Bufler</persName>
+<lb n="5"/>als verordnete vogt unnd fürminder wilundt
+<lb n="6"/><persName ref="stadtasg-actors-1308">Wolffen Zollenkoffers</persName>, unsers abgestorbnen
+<lb n="7"/>burgers selligen hinderlaßen wittwen und
+<lb n="8"/>kinder von derselben yngelegtem handel
+<lb n="9"/>geltz wegen in <persName ref="stadtasg-actors-1307">Jacoben Zollenkoffers</persName> gesel
+<lb break="no" n="10"/>schafften bey euer weißheit zu <placeName ref="stadtasg-places-38">sant Gallen</placeName>
+<lb n="11"/>umb glaubwürdigen bericht aller sachen
+<lb n="12"/>nottwendiglich angesuocht, wir auch
+<lb n="13"/>daruf als gepürende oberkhaitt inen den
+<lb n="14"/>ermelten hern geselschafften freuntlich
+<lb n="15"/>zugeschriben unnd umb verstendige grundt
+<lb n="16"/>raittung allen thailn zuguottem gepetten,
+<lb n="17"/>was unns aber hingegen auch für ab
+<lb break="no" n="18"/>schlegige antwurt hierüber begegnet,
+<lb n="19"/>das alles hatt euwer ersam weißheit ab hierinn
+<lb n="20"/>verwartter copei baider schreiben under
+<lb break="no" n="21"/>schidlich zuvernemen. Diewil nun
+<lb n="22"/>die sachen ietzmals uf unns als ordenliche
+<pb facs="StadtASG_Missive_662_1556.JPG" n="2"/>
+<lb n="23"/>obervögt (welche von gott pillichait und rechtz
+<lb n="24"/>wegen in crafft irs ampts schuldig unnd
+<lb n="25"/>pflichtig, ire bevolhene wittwen und waißen
+<lb n="26"/>sovil müglich bey dem irn zuhandhaben,
+<lb n="27"/>zuschüzen unnd vor nachtailligem verderben
+<lb n="28"/>zuverbietten) wachsen will unnd wir dan
+<lb n="29"/>darauf unsers verhoffens ein pillich und
+<lb n="30"/>erber beger an die hern geselschafften gethon,
+<lb n="31"/>bey inen aber einiche wurglichaitt
+<lb n="32"/>finden oder demselben volg zuthun erlangen
+<lb n="33"/>mugen, des wir nun nit unbillich befrem
+<lb break="no" n="34"/>bdens empfangen unnd uns dennocht
+<lb n="35"/>derselben ploßen verantwurttung unnd
+<lb n="36"/>hinweißens an statt unnd von wegen ange
+<lb break="no" n="37"/>regter wittwen und kinder noch zur zeitt
+<lb n="38"/>one einichs weitter grüntlichs darlegen
+<lb n="39"/>nit beniegen lassen kinden, insonderhait
+<lb n="40"/>das wir dennocht in allerlay zügkhnussen
+<lb n="41"/>auch rodel, register und handschrifften sovil
+<lb n="42"/>befunden, das es irem anzaigen ein withe
+<lb break="no" n="43"/>fell bringen mag, der ursachen wir bey
+<lb n="44"/>uns selbs unentschloßen die sachen, die
+<lb n="45"/>sachen also one verrern grunth ersizen
+<pb facs="StadtASG_Missive_662_1557.JPG" n="3"/>
+<lb n="46"/>und abweißen zuelaßen, wurde uns auch
+<lb n="47"/>selbs gegen gott unnd der welt zuverantwur
+<lb break="no" n="48"/>ten beschwerlich gnuog sein. Derwegen
+<lb n="49"/>unnd dieweil darneben unser mainung
+<lb n="50"/>gar nit ist, das einicher thail verkürzt
+<lb n="51"/>oder uber vorthailt, sonder was iedem
+<lb n="52"/>von pillichait wegen zugehorig, das ime
+<lb n="53"/>dasselbig zugeaignet werden solle und
+<lb n="54"/>dan unsers geringen verstands diße spenig
+<lb n="55"/>sach ordenlicher nit dan durch ein lutere
+<lb n="56"/>verstendige grundt raittung und baider
+<lb n="57"/>thail furbringenden bericht und gegen
+<lb break="no" n="58"/>horung hingelegt kan werden, die hern
+<lb n="59"/>geselschafften sich aber desselben, wie
+<lb n="60"/>gehort, gewidert, so sind wir deßhalpen
+<lb n="61"/>dahin getrengt, euwer ersam weißheit als gepürende
+<lb n="62"/>oberkaitt, umb verhelffung des pillichen
+<lb n="63"/>pittlichen antzusuochen, wie dan
+<lb n="64"/>an dieselb unser freuntlich pitt, sie
+<lb n="65"/>welle von amptz wegen ermelte hern
+<lb n="66"/>geselschafften guetlich oder sonst dahin ver
+<lb break="no" n="67"/>mugen, das sie unserm, an sie gelangten
+<pb facs="StadtASG_Missive_662_1558.JPG" n="4"/>
+<lb n="68"/>rechtmeßigem beger freuntliche stat und volg
+<lb n="69"/>geben, sich mit einander verstendigen grunt
+<lb n="70"/>raittung one aufzihens verfast machen,
+<lb n="71"/>darinnen von anfang bis zue end dar
+<lb break="no" n="72"/>gethon werde, was iederzitt <persName ref="stadtasg-actors-1308">Wolffen Zollen
+<lb break="no" n="73"/>koffers</persName> selligen unnd der offt gedachten witwen
+<lb n="74"/>inlegens und widerumb heraus nemens
+<lb n="75"/>der geselschafften gewest seihe, solle sollichs
+<lb n="76"/>freuntlichs und guetlich angehort und so von
+<lb n="77"/>notten iemand durch uns neben den vögten
+<lb n="78"/>darzu verordnet, ire zeugkhnus kuntschafft
+<lb n="79"/>und register dargegen auch fürgelegt und alles
+<lb n="80"/>das gehandelt werden, so zue freuntlicher
+<lb n="81"/>hinlegung sollichs spans fruchtpar sein
+<lb n="82"/>mag. Wie wir dan nit zwiffeln, euwer ersam weißheit
+<lb n="83"/>das für sie selbs auch zuthun nit weniger
+<lb n="84"/>genaigt seie, so wellen wir dasselbig umb sie
+<lb n="85"/>iederzitt im merem ganz freuntlich unnd
+<lb n="86"/>willig verdinen, dan inen allen genaigten
+<lb n="87"/>dienstlichen willen zuerzaigen sind wir
+<lb n="88"/>erpiettig. Datum <origDate when="1547-08-07">7 augusti anno etc. 47</origDate>.
+<lb n="89"/><orgName ref="stadtasg-actors-509" role="issuer">Burgermaister und
+<lb n="90"/>rath zue Yßni</orgName>.
+<pb facs="StadtASG_Missive_660_1552.JPG" n="5"/>
+<lb n="91"/>Den fürsichtigen ersamen unnd weisenn
+<lb n="92"/><orgName ref="stadtasg-actors-148" role="recipient">burgermaister unnd rath der statt zuo
+<lb n="93"/>santt Gallen</orgName> unsern besondern lieben
+<lb n="94"/>unnd guotten freunden.
+</p>
+        </body>
+    </text>
+</TEI>

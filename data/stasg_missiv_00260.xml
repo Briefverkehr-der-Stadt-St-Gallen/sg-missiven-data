@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00260">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -73,8 +72,7 @@
         <body>
             <pb facs="StadtASG_Missive_260_521.JPG" n="1"/>
             <p>
-                <lb n="1"/>Unser früntlich und willig dinst all czit berait zuo vor <lb n="2"
-                />ersamen und wisen sonder lieben und guoten fründ. Uns <lb n="3"/>ist redlich war
+                <lb n="1"/>Unser früntlich und willig dinst all czit berait zuo vor <lb n="2"/>ersamen und wisen sonder lieben und guoten fründ. Uns <lb n="3"/>ist redlich war
                 kuntschafft fürkomen, wie ob drissige <lb n="4"/>raisigerpferit und so vil
                 fuessknecht und mer uff <placeName ref="stadtasg-places-168">Rugkburg</placeName>
                 <lb n="5"/>ligen und sien, die uff der stet kofflüt, so iecz von
@@ -86,14 +84,9 @@
                 schaffen, das die kofflüt von den <lb n="11"/>richstetten ritend und gend uff land
                 und uff dem wasser <lb n="12"/>sich versorgen, wann man an allen enden uff sy huet
                 und wart <lb n="13"/>uff sy bestelt hat. Und woellend üch herinne früntlich bewisen,
-                    <lb n="14"/>als wir des gancz trüen und nit zwiffels zuo üwer ersamin <lb n="15"
-                />haben und mit willen gern verdienen sond und wöllen. Geben <lb n="16"/>am
-                <origDate when="1452-05-12">fritag vor der hailgen crütz wochen vor pfingsten anno <lb n="17"
-                    />domini etc. L secundo</origDate>. <lb n="18"/><orgName ref="stadtasg-actors-89" role="issuer"
-                    >Burgermaister und <lb n="19"/>rate zuo Wangen</orgName>. <pb
-                    facs="StadtASG_Missive_260_522.JPG" n="2"/>
-                <lb n="20"/>Den ersamen und wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister <lb
-                        n="21"/>und rate zuo sant Gallen</orgName> unsern lieben <lb n="22"/>und
+                    <lb n="14"/>als wir des gancz trüen und nit zwiffels zuo üwer ersamin <lb n="15"/>haben und mit willen gern verdienen sond und wöllen. Geben <lb n="16"/>am
+                <origDate when="1452-05-12">fritag vor der hailgen crütz wochen vor pfingsten anno <lb n="17"/>domini etc. L secundo</origDate>. <lb n="18"/><orgName ref="stadtasg-actors-89" role="issuer">Burgermaister und <lb n="19"/>rate zuo Wangen</orgName>. <pb facs="StadtASG_Missive_260_522.JPG" n="2"/>
+                <lb n="20"/>Den ersamen und wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister <lb n="21"/>und rate zuo sant Gallen</orgName> unsern lieben <lb n="22"/>und
                 sondern guoten fründen. </p>
         </body>
     </text>

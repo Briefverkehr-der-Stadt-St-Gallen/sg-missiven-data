@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00627-suppl-01">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Bericht von Wilhelm Fröhlich an Bürgermeister und Rat zu Zürich aus dem Lager von Carignano über den Sieg der Franzosen und Eidgenossen über den Kaiser.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
          <term ref="stadtasg-keywords-214">Krieg</term>
@@ -59,12 +58,12 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_627_1391.JPG" n="1" />
+            <pb facs="StadtASG_Missive_627_1391.JPG" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_627_1392.JPG" n="2" />
-<pb facs="StadtASG_Missive_627_1393.JPG" n="3" />
-<pb facs="StadtASG_Missive_627_1394.JPG" n="4" />
-<pb facs="StadtASG_Missive_627_1395.JPG" n="5" />
+<pb facs="StadtASG_Missive_627_1392.JPG" n="2"/>
+<pb facs="StadtASG_Missive_627_1393.JPG" n="3"/>
+<pb facs="StadtASG_Missive_627_1394.JPG" n="4"/>
+<pb facs="StadtASG_Missive_627_1395.JPG" n="5"/>
 </p>
         </body>
     </text>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00578">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 578</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_578_1197/1198</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister Adelberg Meyer und Rat zu Basel fordern Bürgermeister und Rat zu St. Gallen dazu auf, auf den Sonntag, 26. März eine Ratsdelegation nach Basel zu entsenden. Am Montag 27. März soll zusammen mit anderen Mitgläubigen der Eidgenossenschaft in der konfessionellen Frage weiter beratschlagt und endlich ein Entschluss gefasst werden.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+                    <term ref="stadtasg-keywords-366">Religion</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-70">Termin</term>
+<term ref="stadtasg-keywords-620">Herberge</term>
+<term ref="stadtasg-keywords-130">Ratsdelegation</term>
+               </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-107">Adelberg Meyer</persName>
+                    <orgName ref="stadtasg-actors-530">Bürgermeister und Rat zu Basel</orgName>                  <date>1536-03-09</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Noëmi Schöb</persName>
+                <date>2020-08-24</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Noëmi Schöb</persName>
+                <date>2026-04-20</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_578_1197.JPG" n="1"/>
+<p>
+<lb n="1"/>Unser frünthlich willig diennst sampt was wir eeren liebs und guotz vermögen zuovor fromm
+<lb n="2"/>fürsichtig ersam wyss insonders guoten fründ und getruwen lieben eydtgnossen. Ir sind
+<lb n="3"/>unnthalame one zwivel der christlichen handlungen kurtz hievor durch gemeine christliche
+<lb n="4"/>unser <orgName ref="stadtasg-actors-750">Eydtgnoschafft</orgName> stette gelerte inn unser statt <placeName ref="stadtasg-places-133">Basel</placeName> unserer aller heiligenn religion
+<lb n="5"/>halben fürgenomen, wie dieselbig confessionswise gestelt, ouch was hier über verabscheidet
+<lb n="6"/>worden, durch uwere gesanten berichtet. Und wiewol getrüwen lieben eydtgnossen
+<lb n="7"/>im abscheid kein vernere tagsatzungen, in welicher wir uns zuo allen teilen, ob wir by gestel
+<lb break="no" n="8"/>ter confession hienach uff yemantz ervorderen einmündigklich bliben oder was wir uns
+<lb n="9"/>hier innen halten, ouch sich ye ein teil inn christlicher religion gegen dem andern vertrösten
+<lb n="10"/>und verstechen besprachen oder beschliessenn möchten ernemt, so wir doch umb unser
+<lb n="11"/>allerheilwillenn die noturfft ervorderen, das wir verer zuosamen komen und durch
+<lb n="12"/>hilff gottes angefengte handlungen enthlich beschliessenn thügen, derenhalb uß christlichem
+<lb n="13"/>yffer wir einen anderen tag inn unser statt <placeName ref="stadtasg-places-133">Basel</placeName>, nemblich uff <date when="1526-03-26">sontag den XXVIisten
+<lb n="14"/>tag dis monats schieristkünfftig</date> nachts by unns an der herberg zuorschinen und morndes
+<lb n="15"/><date when="1526-03-27">mentags</date> zur handelung zegriffen verrumpt und angesetzt haben, uch gar frünthlich
+<lb n="16"/>bittennde angeruorte tagsatzung allein durch uwer ersam ratzbotschafften ze besuochen
+<lb n="17"/>und denen mit uns, ouch andern uwern und unsern mitgloubigen eydtgnossenn, die
+<lb n="18"/>wir glichergstalt ersuochen lassenn, inn gestelter christlichen confession enthlich zebeschliessen
+<lb n="19"/>zuobevelchen, wie wir unns dann gegen uch unsern vertruwten und lieben eydtgnossen
+<lb n="20"/>dessen und alles guoten vertröstenn und halten werden. Hiemit üch denen wir liebe dienst
+<lb n="21"/>und frünthlichen willen zebewisen gneigt gott dem hern bevelchende. Datum <origDate when="1536-03-09">donstag den
+<lb n="22"/>IXten martii anno etc. XXXVIto</origDate>.
+<lb n="23"/><persName ref="stadtasg-actors-107" role="issuer">Adilberg Meyger</persName> <orgName ref="stadtasg-actors-530" role="issuer">burgermeister
+<lb n="24"/>und der rhat der statt Basell</orgName>.
+<pb facs="StadtASG_Missive_578_1198.JPG" n="2"/>
+<lb n="25"/>Den fromen fürsichtigenn wysenn <orgName ref="stadtasg-actors-148" role="recpient">bur
+<lb break="no" n="26"/>germeister unnd rhat der statt zuo sant
+<lb n="27"/>Gallenn</orgName> unsern besondern guotenn fründen
+<lb n="28"/>unnd getrüwenn lieben eydtgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

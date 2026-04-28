@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_01000">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -139,8 +138,8 @@
 <lb n="65"/>dem herren gott ein wolgfelligs werck und uns sonder
 <lb n="66"/>angnems gfallen, wollen ouch dasselbig zuoverdienen
 <lb n="67"/>yederzytt unvergessen und hiemit in schirm gottlicher
-<lb n="68"/>gnaden bevolhen haben. Datum den <oirgDate when="1573-07-17">17ten iulius anno etc.
-<lb n="69"/>1573</oirgDate>.
+<lb n="68"/>gnaden bevolhen haben. Datum den <origDate when="1573-07-17">17ten iulius anno etc.
+<lb n="69"/>1573</origDate>.
 <lb n="70"/><orgName ref="stadtasg-actors-718" role="issuer">Schuldheiß unnd ratt der
 <lb n="71"/>statt Winterthur</orgName>.
 <pb facs="StadtASG_Missive_1000_3057.jpg" n="3"/>

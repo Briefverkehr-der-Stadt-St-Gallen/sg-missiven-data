@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00072">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -79,22 +78,16 @@
                     <persName ref="stadtasg-actors-193">Hansen Voegelis</persName> lib oder guot in üwren
                 gebieten iendert eraischint oder <lb n="5"/>wüssint, das ir das uff habint zum
                 rechten bis an uns. Kunnent unser herren und fründ <lb n="6"/>und och wir soelichs
-                umb üwer guoten früntschafft in des gelichen mindern und meren sachen <lb n="7"
-                />beschulden und gedienen, sond ir uns allzit willig vinden. Lieben guoten fründ,
+                umb üwer guoten früntschafft in des gelichen mindern und meren sachen <lb n="7"/>beschulden und gedienen, sond ir uns allzit willig vinden. Lieben guoten fründ,
                 tuont fürderlich <lb n="8"/>in diser sach, als wir üwer guoten früntschafft mit
                 sunderhait wol getrüwen, und lassent uns <lb n="9"/>harumb üwer früntlich
-                verschriben antwurt wissen by disem botten. Versigelt mit des ersammen <lb n="10"
-                />wisen, <persName ref="stadtasg-actors-194" role="testis">Yntal Redigs</persName>, amman ze <placeName
-                    ref="stadtasg-places-71">Schwitz</placeName>, insigel von unser aller bette wegen. Geben ze
+                verschriben antwurt wissen by disem botten. Versigelt mit des ersammen <lb n="10"/>wisen, <persName ref="stadtasg-actors-194" role="testis">Yntal Redigs</persName>, amman ze <placeName ref="stadtasg-places-71">Schwitz</placeName>, insigel von unser aller bette wegen. Geben ze
                     <origPlace ref="stadtasg-places-8">Appenzell</origPlace>
                 <lb n="11"/>am <origDate when="1435-07-07">donstag nach sant Uolrichs tag anno
-                    domini Mo CCCCo XXXVo</origDate>. <lb n="12"/><orgName ref="stadtasg-actors-1124" role="issuer">Gemainer aidgnossen botten</orgName> von <lb
-                    n="13"/><placeName ref="stadtasg-places-32">Zürich</placeName>, <placeName ref="stadtasg-places-69">Lutzern</placeName>, <placeName ref="stadtasg-places-70">Ure</placeName>,
-                    <placeName ref="stadtasg-places-71">Schwitz</placeName>, <placeName ref="stadtasg-places-72">Under <lb break="no" n="14"/>walden</placeName>, <placeName ref="stadtasg-places-10">Zug</placeName> und <placeName ref="stadtasg-places-73">Glairas</placeName>, als wir <lb
-                    n="15"/>ietz ze <origPlace ref="stadtasg-places-8">Appenzell</origPlace> by enandern
+                    domini Mo CCCCo XXXVo</origDate>. <lb n="12"/><orgName ref="stadtasg-actors-1124" role="issuer">Gemainer aidgnossen botten</orgName> von <lb n="13"/><placeName ref="stadtasg-places-32">Zürich</placeName>, <placeName ref="stadtasg-places-69">Lutzern</placeName>, <placeName ref="stadtasg-places-70">Ure</placeName>,
+                    <placeName ref="stadtasg-places-71">Schwitz</placeName>, <placeName ref="stadtasg-places-72">Under <lb break="no" n="14"/>walden</placeName>, <placeName ref="stadtasg-places-10">Zug</placeName> und <placeName ref="stadtasg-places-73">Glairas</placeName>, als wir <lb n="15"/>ietz ze <origPlace ref="stadtasg-places-8">Appenzell</origPlace> by enandern
                 gewesen sint. <pb facs="StadtASG_Missive_72_144.JPG" n="2"/>
-                <lb n="16"/>Den wisen fürsichtigen dem <orgName ref="stadtasg-actors-148" role="recipient"
-                    >burgermaister <supplied>und rat</supplied> <lb n="17"/>der statt zuo sant Gallen</orgName> unsern
+                <lb n="16"/>Den wisen fürsichtigen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister <supplied>und rat</supplied> <lb n="17"/>der statt zuo sant Gallen</orgName> unsern
                 sund<supplied>er</supplied>n lieben <supplied>guoten</supplied> <lb n="18"/>fründen. </p>
         </body>
     </text>

@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00151">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -81,27 +80,19 @@
                 ettwaz vergangner zite <persName ref="stadtasg-actors-284">Haini Herr</persName>, uwer
                 mitbürger, von sin selbz, och sins bruders <lb n="3"/>und siner swester wegen
                     <persName ref="stadtasg-actors-285">Conraten Zollikoffer</persName>, unserm burger, als von
-                ettwas gutz, so <persName ref="stadtasg-actors-286">Hainis Nückum</persName>, der in <lb n="4"
-                />fremden landen abgangen und erstorben ist, verlaußen vor uns zugesprochen hat. Da
-                nu der uwer maint, daz <lb n="5"/>solich dez benanten <persName ref="stadtasg-actors-286"
-                    >Hansen Nückums</persName> sailigen verlaußen gute im und sinen geswistergiten
-                zugehörte. Da wider aber <lb n="6"/>der unser redt, wie daz derselb <persName
-                    ref="stadtasg-actors-286">Hanß Nückum</persName> vor <persName ref="stadtasg-actors-287">Ulrichen
-                    Nückum</persName> sailigen, dez benanten <persName ref="stadtasg-actors-286"
-                    >Hansen</persName> bruder, von tode <lb n="7"/>abgangen und erstorben were,
+                ettwas gutz, so <persName ref="stadtasg-actors-286">Hainis Nückum</persName>, der in <lb n="4"/>fremden landen abgangen und erstorben ist, verlaußen vor uns zugesprochen hat. Da
+                nu der uwer maint, daz <lb n="5"/>solich dez benanten <persName ref="stadtasg-actors-286">Hansen Nückums</persName> sailigen verlaußen gute im und sinen geswistergiten
+                zugehörte. Da wider aber <lb n="6"/>der unser redt, wie daz derselb <persName ref="stadtasg-actors-286">Hanß Nückum</persName> vor <persName ref="stadtasg-actors-287">Ulrichen
+                    Nückum</persName> sailigen, dez benanten <persName ref="stadtasg-actors-286">Hansen</persName> bruder, von tode <lb n="7"/>abgangen und erstorben were,
                 darumbe derselbe <persName ref="stadtasg-actors-287">Ulriche</persName> nach dem und er vor im
                 von tode abgienge in ge <lb break="no" n="8"/>erbt hette, als dann ain bruder den
-                andern billich erbe, wann er nit nacher erben hett. Nu were im derselb <lb n="9"
-                    /><persName ref="stadtasg-actors-287">Ulrich Nückum</persName> sälig ain treffenlich summe
-                geltz schuldig, von der wegen er in guten truwen hinder in gangen sy. Darumm <lb
-                    n="10"/>mainte er, so sin bruder sälig vor im vom tode abgangen wer und sin
+                andern billich erbe, wann er nit nacher erben hett. Nu were im derselb <lb n="9"/><persName ref="stadtasg-actors-287">Ulrich Nückum</persName> sälig ain treffenlich summe
+                geltz schuldig, von der wegen er in guten truwen hinder in gangen sy. Darumm <lb n="10"/>mainte er, so sin bruder sälig vor im vom tode abgangen wer und sin
                 verlaußen gute geerbt hette, das im danne <lb n="11"/>daz von billich zugehoren,
                 beliben und an siner schulde werden sölte, und würde dennocht siner schulde damit
                 nicht <lb n="12"/>gar bezalt etc., in dem wir nu ieglichen taile nach siner notdurft
                 vernommen und uns daruff erkennt haben, das <lb n="13"/>baid obgenante taile uff
-                gemainen und glichen kosten kuntschaft und erfarungen haben söllen, ob <persName
-                    ref="stadtasg-actors-286">Hans Nückum</persName> sälig <lb n="14"/>vor <persName
-                    ref="stadtasg-actors-287">Ulrichen Nückum</persName> sinem bruder abgangen und erstorben
+                gemainen und glichen kosten kuntschaft und erfarungen haben söllen, ob <persName ref="stadtasg-actors-286">Hans Nückum</persName> sälig <lb n="14"/>vor <persName ref="stadtasg-actors-287">Ulrichen Nückum</persName> sinem bruder abgangen und erstorben
                 syge oder nach im etc. Da nu der uwer an den unsern <lb n="15"/>begert, im vierzehen
                 tage ain uffzug zugebent, daz an sin bruder zu bringent, ob er soliche kuntschaft
                 tun wölte <lb n="16"/>oder nit, und den unsern dann laußen zu wißen, waz ir mainung
@@ -123,11 +114,8 @@
                 glichen und meren sachen umb uch <lb n="27"/>verdienen und beschulden, wa sich daz
                 imer gepürt. Und wir begern darumm uwer früntlich verschriben antwort <lb n="28"/>by
                 dem botten. Datum <origDate when="1442-12-15">sabato post Lucie virginis anno domini
-                    etc. XLIIdo</origDate>. <lb n="29"/><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister und <lb
-                        n="30"/>raute zu Costentz</orgName>. <pb facs="StadtASG_Missive_151_302.JPG"
-                    n="2"/>
-                <lb n="31"/>Den ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaist<supplied>er und raute der</supplied><lb
-                        n="32"/>statt zu Santgallen</orgName> unsern besond<supplied>ern guten fründen.</supplied>. </p>
+                    etc. XLIIdo</origDate>. <lb n="29"/><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister und <lb n="30"/>raute zu Costentz</orgName>. <pb facs="StadtASG_Missive_151_302.JPG" n="2"/>
+                <lb n="31"/>Den ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaist<supplied>er und raute der</supplied><lb n="32"/>statt zu Santgallen</orgName> unsern besond<supplied>ern guten fründen.</supplied>. </p>
         </body>
     </text>
 </TEI>

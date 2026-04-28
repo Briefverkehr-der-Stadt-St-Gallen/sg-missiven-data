@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00034">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -83,23 +82,18 @@
                 herran von <placeName ref="stadtasg-places-133">Basel</placeName><note><persName ref="stadtasg-actors-153">Johann von
                         Fleckenstein</persName>.</note>, des <lb n="6"/>wir nu zuo mal nüt wendig
                 kunnend werden, und bittend üch, dz ir das nüt für übel von uns <lb n="7"/>habend,
-                denn als bald uns gott gehilft, dz wir wider har umb kumend, so wellend wir uns <lb
-                    n="8"/>früntlich zuo üch fuegen, den sachen nach ze gand, dz ir finden soellend,
+                denn als bald uns gott gehilft, dz wir wider har umb kumend, so wellend wir uns <lb n="8"/>früntlich zuo üch fuegen, den sachen nach ze gand, dz ir finden soellend,
                 dz wir kain unglichs dar <lb n="9"/>inne begerend nach suochen wellend, und bittend
                 och üch früntlich und ernschlich, dz ir die sach <lb n="10"/>allso wellend lassen an
-                ston ain kurtzi zit, bis dz wir uns zuo üch gefuegen koennend. Wo wir dz <lb n="11"
-                />umb üch verdienan koennend, des wellend wir willig sin etc., denn hettend wir uns
+                ston ain kurtzi zit, bis dz wir uns zuo üch gefuegen koennend. Wo wir dz <lb n="11"/>umb üch verdienan koennend, des wellend wir willig sin etc., denn hettend wir uns
                 nüt als haeffklich <lb n="12"/>versprachen unsern gnaedigen <persName ref="stadtasg-actors-153">herran von
                 Basel</persName> ze dienan, wir waerend angesiht üwers brifes
                     <lb n="13"/>zuo üch komen on zwifel, denn uns ist vast lieb, wie die sach
                 früntlich moeht über tragen werden. <lb n="14"/>Üwer früntlich verschriben antwurt
                 bi disem botten, besigelt mit des festen iunkherr <persName ref="stadtasg-actors-154">Aernnis
                         <lb n="15"/>von Berenfels</persName> ingesigel von unser bet wegen. Geben
-                uff <origDate when="1427-04-27">sunnentag naehst nach sant Margs tag <lb n="16"
-                    />anno domini Mo CCCCo XXVII iar</origDate>. <lb n="17"/><persName ref="stadtasg-actors-24" role="issuer">Otmar Artwin</persName>, <lb n="18"/><persName ref="stadtasg-actors-26" role="issuer">Hans Mayger</persName>. <pb facs="StadtASG_Missive_34_68.JPG"
-                    n="2"/>
-                <lb n="19"/>Den fürsihtigen und wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
-                    >burgermaister und dem <lb n="20"/>rate zuo sant Gallen</orgName> unsern
+                uff <origDate when="1427-04-27">sunnentag naehst nach sant Margs tag <lb n="16"/>anno domini Mo CCCCo XXVII iar</origDate>. <lb n="17"/><persName ref="stadtasg-actors-24" role="issuer">Otmar Artwin</persName>, <lb n="18"/><persName ref="stadtasg-actors-26" role="issuer">Hans Mayger</persName>. <pb facs="StadtASG_Missive_34_68.JPG" n="2"/>
+                <lb n="19"/>Den fürsihtigen und wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und dem <lb n="20"/>rate zuo sant Gallen</orgName> unsern
                 gnaedigen lieban herran etc. </p>
         </body>
     </text>

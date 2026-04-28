@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00090">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -84,8 +83,7 @@
                 burgerrecht an sich genomen <lb n="7"/>hand, denen inen ettlich die üwern, als üch
                 wissenlich ist, <lb n="8"/>schuldig sind und gelten sond, es syen versessen
                 ussstendig <lb n="9"/>zins oder ander schulden, mit den üwern zuo schaffen und sy
-                    <lb n="10"/>früntlich zuo underwisen, den kinden umb ir schulden ussrich <lb
-                    break="no" n="11"/>tung zuo tuon und in ouch daby iro guot und daz, so sy by
+                    <lb n="10"/>früntlich zuo underwisen, den kinden umb ir schulden ussrich <lb break="no" n="11"/>tung zuo tuon und in ouch daby iro guot und daz, so sy by
                 üch hand, <lb n="12"/>tugentlich zuo volgen laussen, waz sy üch denne davon nach
                     <lb n="13"/>üwer statt gewonhait und herkomen tuon soelten, woelten sy gern
                 tuon, <lb n="14"/>als billich ist. Dar umb uns von üch nit voellig anttwurt worden
@@ -107,13 +105,10 @@
                 gelich oder <lb n="30"/>andern sachen ouch tuon soelten. Daz begeren wir umb üch
                 willenclich <lb n="31"/>zuo gedienen und zuo beschulden. Und lond uns herumb üwer
                 früntlich <lb n="32"/>anttwurt wissen, geschriben mit dem botten. Geben uff
-                    <origDate when="1437-04-06">samstag nach dem ostertag anno etc. <lb n="33"
-                    />XXXseptimo</origDate>. <lb n="34"/><orgName ref="stadtasg-actors-28" role="issuer">Burgermaister und
-                    raut <lb n="35"/>zuo Schauffhusen</orgName>. <pb
-                    facs="StadtASG_Missive_90_180.JPG" n="2"/>
+                    <origDate when="1437-04-06">samstag nach dem ostertag anno etc. <lb n="33"/>XXXseptimo</origDate>. <lb n="34"/><orgName ref="stadtasg-actors-28" role="issuer">Burgermaister und
+                    raut <lb n="35"/>zuo Schauffhusen</orgName>. <pb facs="StadtASG_Missive_90_180.JPG" n="2"/>
                 <lb n="36"/>Den ersamen wysen unsern sundern lieben und guoten <lb n="37"/>fründen
-                dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raut zuo sant <lb n="38"
-                    />Gallen</orgName>. </p>
+                dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raut zuo sant <lb n="38"/>Gallen</orgName>. </p>
         </body>
     </text>
 </TEI>

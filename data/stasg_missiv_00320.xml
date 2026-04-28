@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00320">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Brun von Tettikofen, genannt Bindrich von Konstanz, Vogt zu Altnau, informiert Bürgermeister und Rat zu St. Gallen, dass etliche Leute von Altnau versuchen würden, das St. Galler Bürgerrecht zu bekommen, dieses aber nicht bekommen dürfen, da sie zuvor Appenzeller Landsleute gewesen seien und ihnen nun von den Eidgenossen ihr Landrecht aberkannt worden sei. Er ersucht St. Gallen, einen allfälligen Antrag um Bürgerrechtsaufnahme abzulehnen, und erinnert daran, dass dies unter Strafe des Reichs stünde.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
                     <term ref="stadtasg-keywords-112">Bürgerrecht</term>
@@ -63,23 +62,23 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_320_645.JPG" n="1" />
+            <pb facs="StadtASG_Missive_320_645.JPG" n="1"/>
 <p>
-<lb n="1" />Min willig dienst alltzit bevor ersamen wysen lieben herren und gueten frund.
-    <lb n="2" />Ich vernim, wie etlich von <placeName ref="stadtasg-places-195">Altnow</placeName> umb uwer burgrecht mainen zue stellen,
-<lb n="3" />der vogt ich nu bin und in miner vogtye sytzend. Nu ist uch wol wissenlich,
-    <lb n="4" />das ir ettlich vor mals landslut zue <placeName ref="stadtasg-places-8">Appentzel</placeName> gewesen syen, und inen dar von ge
-<lb break="no" n="5" />mainen aidgenossen abkennt ist. Umb das bit ich uwer wißhait, ob dhainer
-<lb break="no" n="6" />lay antrag darumb an uch beschehe, sy nit antzuniemend, dann uch doch
-    <lb n="7" />sollichs nit geburt by pena des <orgName ref="stadtasg-actors-559">Römischen Rychs</orgName> und och, das ich mich des von
-<lb n="8" />üch nit erclagnen mueß, dann es mir doch laid wär und nit gern tät. Geben
-    <lb n="9" />an <origDate when="1455-12-01">mentag nach sand Andreas tag anno etc. Lquinto</origDate>.
-    <lb n="10" /><persName ref="stadtasg-actors-106" role="issuer">Brün von Tetikoven</persName>, genant
-    <lb n="11" />Bindrich von <placeName ref="stadtasg-places-7">Costentz</placeName>.
-<pb facs="StadtASG_Missive_320_646.JPG" n="2" />
-    <lb n="12" />Den ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaistern und
-        <lb n="13" />raut zue sand Gallen</orgName> minen lieben herren
-<lb n="14" />und sundern gueten frunden.
+<lb n="1"/>Min willig dienst alltzit bevor ersamen wysen lieben herren und gueten frund.
+    <lb n="2"/>Ich vernim, wie etlich von <placeName ref="stadtasg-places-195">Altnow</placeName> umb uwer burgrecht mainen zue stellen,
+<lb n="3"/>der vogt ich nu bin und in miner vogtye sytzend. Nu ist uch wol wissenlich,
+    <lb n="4"/>das ir ettlich vor mals landslut zue <placeName ref="stadtasg-places-8">Appentzel</placeName> gewesen syen, und inen dar von ge
+<lb break="no" n="5"/>mainen aidgenossen abkennt ist. Umb das bit ich uwer wißhait, ob dhainer
+<lb break="no" n="6"/>lay antrag darumb an uch beschehe, sy nit antzuniemend, dann uch doch
+    <lb n="7"/>sollichs nit geburt by pena des <orgName ref="stadtasg-actors-559">Römischen Rychs</orgName> und och, das ich mich des von
+<lb n="8"/>üch nit erclagnen mueß, dann es mir doch laid wär und nit gern tät. Geben
+    <lb n="9"/>an <origDate when="1455-12-01">mentag nach sand Andreas tag anno etc. Lquinto</origDate>.
+    <lb n="10"/><persName ref="stadtasg-actors-106" role="issuer">Brün von Tetikoven</persName>, genant
+    <lb n="11"/>Bindrich von <placeName ref="stadtasg-places-7">Costentz</placeName>.
+<pb facs="StadtASG_Missive_320_646.JPG" n="2"/>
+    <lb n="12"/>Den ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaistern und
+        <lb n="13"/>raut zue sand Gallen</orgName> minen lieben herren
+<lb n="14"/>und sundern gueten frunden.
 </p>
         </body>
     </text>

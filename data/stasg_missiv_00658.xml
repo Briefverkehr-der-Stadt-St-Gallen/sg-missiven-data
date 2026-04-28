@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00658">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 658</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_658_1535/1536</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Jakob Hafner, Kellermeister im Kloster zu Pfäfers, bittet Dr. Joachim von Watt, Bürgermeister zu St. Gallen, sich dafür einzusetzen, dass er sein Bürgerrecht nicht verliere. Die ausländischen Dienste habe er allein aus der Not, seinen Lebensunterhalt zu bestreiten, angenommen. Zudem würden seine Geschwister, die das Haus in St. Gallen besitzen, wie andere Bürger in St. Gallen Steuern und Wachtgeld zahlen. Dazu sei er auch bereit, sofern er wieder heimziehe, was Hauptmann Jörg Schenk, Zeiger dieses Briefes, erläutern könne.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+ <term ref="stadtasg-keywords-112">Bürgerrecht</term>
+<term ref="stadtasg-keywords-98">Steuer</term>
+<term ref="stadtasg-keywords-461">Armut</term>
+<term ref="stadtasg-keywords-567">Geschwister</term>
+<term ref="stadtasg-keywords-345">Zeiger</term>
+<term ref="stadtasg-keywords-115">Kloster</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1303">Jacob Haffner</persName><placeName ref="stadtasg-places-356">Pfäfers</placeName>                    <date>1547-03-21</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-1203">Joachim von Watt</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Arman Weidenmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-03-13</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_658_1535.JPG" n="1"/>
+<p>
+<lb n="1"/>Hochgelerter erenvester wißser üwere hochgelert wiß
+<lb break="no" n="2"/>heit sigennd iederzit min underthenig schuldig wilige dienst
+<lb n="3"/>mit sunderem flis bereyt zuvor. Gnädiger herr, ich bin
+<lb n="4"/>ungezwiffelter meinung, üch sig wol fürkomen, wie
+<lb n="5"/>ich ietz ein zit har eins <placeName ref="stadtasg-places-457">gotzhuß Pfeffers</placeName> diener geweßen,
+<lb n="6"/>unnd möcht etwan mir min burgkrecht, so ich von minen
+<lb n="7"/>elteren zuo <placeName ref="stadtasg-places-38">sant Gallen</placeName> hab, entroupt, auch sölich min
+<lb n="8"/>ußlendisch dienen zuo argem gmeßen werden. Darumb
+<lb n="9"/>ist min unnderthenig pitt (diewil ich doch uß keiner
+<lb n="10"/>anderen ursach dan alein uß großer armuot minß libs
+<lb n="11"/>narig nach zogen, es sol mir nit zuo argem und verlürung
+<lb n="12"/>minß burgrechts gewegen werden), üwer hochgelert
+<lb n="13"/>wißheit wel ansechen die armuot, ouch das ich on dienst
+<lb n="14"/>nach nit hußen mag, unnd mine herren und burger
+<lb n="15"/>zuo <placeName ref="stadtasg-places-38">sant Gallen</placeName> pitten, mich nit von dem burgrecht stoßen,
+<lb n="16"/>dan ich gedenck wol, mine geschwüsterig und welche
+<lb n="17"/>das huß besitzen, richten stür, wacht gelt und was dan
+<lb n="18"/>ander burger ouch schuldig, nach der stat bruch. Das wil
+<lb n="19"/>ich, so mir got gehülfft, das ich heim züch und die stat
+<lb n="20"/>bruchen, ouch thuon, als dan houptman <persName ref="stadtasg-actors-1304">Jörg Schenck</persName>,
+<lb n="21"/>zeiger diß brieffs, üch des handels bas dan hierinen
+<lb n="22"/>geschriben berichten kan. Derhalb welend thuon,
+<lb n="23"/>als ein vatter und ich üch vertruwen. Solichs
+<lb n="24"/>wil ich umb üwere hochgelert wyßhait, wo es iemer zuo beschulden
+<lb n="25"/>kompt, mit minem armen lib und guot zuo verdienen haben.
+<lb n="26"/>Datum den <origDate when="1547-03-21">21 tag mertz anno etc. 47</origDate>.
+<lb n="27"/>üwer williger diener
+<lb n="28"/><persName ref="stadtasg-actors-1303" role="issuer">Jacob Haffner</persName>, iez keller
+<lb n="29"/>zuo <origPlace ref="stadtasg-places-356">Pfeffers</origPlace>.
+<pb facs="StadtASG_Missive_658_1536.JPG" n="2"/>
+<lb n="30"/>Dem hochgelerten erenvesten fromen
+<lb n="31"/>unnd wißen <persName ref="stadtasg-actors-1203" role="recipient">Joachim von Wadt</persName>
+<lb n="32"/>doctor burgermeister zuo <placeName ref="stadtasg-places-38">sant Gallen</placeName>
+<lb n="33"/>minem gnädigen lieben herrn.
+</p>
+        </body>
+    </text>
+</TEI>

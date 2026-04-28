@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00200">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -72,16 +71,9 @@
             <pb facs="StadtASG_Missive_200_401.JPG" n="1"/>
             <p>
                 <lb n="1"/>Min früntlich villig dienst lieber her burgermaister und lieben guotten
-                    <lb n="2"/>fründ. Als mir üwer guot früntschafft schriben hat, under andrem <lb
-                    n="3"/>meldent die fieht und nachyllens, so die von <placeName ref="stadtasg-places-137"
-                    >Kesswil</placeName> tuon hand <lb n="4"/>und mir reht piettent uff den
-                durlüchttigen virschtsten und herren <lb n="5"/>min herren hertzog <persName
-                    ref="stadtasg-actors-64">Albrecht zuo Oestrich</persName> min gnedigen lieben herren, <lb
-                    n="6"/>und insunder meldent, wie ich den üwren troew, ist üch in sunder <lb
-                    n="7"/>ze wissen, das ich ungern kaim üwerm in gesessnen burger ütz <lb n="8"
-                />zuo ziehen welt anders, denn pillich wer etc. Hier umb in sunder <lb n="9"/>guot
-                fründ lass ich üwer guot früntschafft wissen, das <persName ref="stadtasg-actors-332"
-                    >Mantz</persName>
+                    <lb n="2"/>fründ. Als mir üwer guot früntschafft schriben hat, under andrem <lb n="3"/>meldent die fieht und nachyllens, so die von <placeName ref="stadtasg-places-137">Kesswil</placeName> tuon hand <lb n="4"/>und mir reht piettent uff den
+                durlüchttigen virschtsten und herren <lb n="5"/>min herren hertzog <persName ref="stadtasg-actors-64">Albrecht zuo Oestrich</persName> min gnedigen lieben herren, <lb n="6"/>und insunder meldent, wie ich den üwren troew, ist üch in sunder <lb n="7"/>ze wissen, das ich ungern kaim üwerm in gesessnen burger ütz <lb n="8"/>zuo ziehen welt anders, denn pillich wer etc. Hier umb in sunder <lb n="9"/>guot
+                fründ lass ich üwer guot früntschafft wissen, das <persName ref="stadtasg-actors-332">Mantz</persName>
                 <lb n="10"/>von <placeName ref="stadtasg-places-138">Rogwil</placeName> der sach ain hopptman
                 ist, dem hab ich gediennt, <lb n="11"/>den lass ich die sach veranttwrten, als ich
                 trüw, er soell sy zue <lb n="12"/>erren und zuo reht veranttwrten, wo das pillich
@@ -91,10 +83,8 @@
                 wass reht <lb n="16"/>ir denn piettent, lasch ich üch nit ab. Üwer anttwrt lassent
                     <lb n="17"/>mich wissen. Geben uff <origDate when="1446-05-02">menttag nach dem
                     maygtag anno domini <lb n="18"/>XLVI</origDate>.
-                <lb n="19"/><persName ref="stadtasg-actors-66" role="issuer">Albrecht von der <lb n="20"
-                    />Braittenlandenberg</persName>. <pb facs="StadtASG_Missive_200_402.JPG" n="2"/>
-                <lb n="21"/>Den ersamen vissen versichtigen <lb n="22"/><orgName ref="stadtasg-actors-148" role="recipient"
-                    >burgermaister und raett der <lb n="23"/>raet zuo sant Gallen</orgName> min
+                <lb n="19"/><persName ref="stadtasg-actors-66" role="issuer">Albrecht von der <lb n="20"/>Braittenlandenberg</persName>. <pb facs="StadtASG_Missive_200_402.JPG" n="2"/>
+                <lb n="21"/>Den ersamen vissen versichtigen <lb n="22"/><orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raett der <lb n="23"/>raet zuo sant Gallen</orgName> min
                 guoten fründ. </p>
         </body>
     </text>

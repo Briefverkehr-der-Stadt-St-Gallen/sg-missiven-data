@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00029">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -72,8 +71,7 @@
                 <lb n="1"/>Unser früntlich willig dienst vor an lieben guoten fründ. Als ir uns von
                 der sach wegen entzwischent <lb n="2"/><persName ref="stadtasg-actors-149">Hansen
                     Weninger</persName>, üwerm burger, und <persName ref="stadtasg-actors-150">Petern
-                    Ruopreht</persName>, unserm burger, geschriben hand, als von ains <lb n="3"
-                />früntlichen tags wegen, laussen wir üwer früntschafft wissen, das wir das an den
+                    Ruopreht</persName>, unserm burger, geschriben hand, als von ains <lb n="3"/>früntlichen tags wegen, laussen wir üwer früntschafft wissen, das wir das an den
                 selben unsern <lb n="4"/>burger braht hand, der antwurt und maynnt, das er zuo disen
                 ziiten umb die sach nit tag gelaisten künne, <lb n="5"/>won er ettwas bottschafft
                 gen <placeName ref="stadtasg-places-55">Rom</placeName> getan habe, er welle aber die sach
@@ -84,11 +82,8 @@
                 och ietzo in ainer unmmuoß von des herbsts wegen. Also bitten wir üwer früntschafft,
                 das also <lb n="9"/>im besten ze vernemende, won was wir in den und andern sachen
                 getuon künden, das üch lieb und dienst <lb n="10"/>were, woelten wir gern tuon.
-                Geben an <origDate when="1426-09-23">mentag nach Mathei apostoli anno etc. CCCCo XXVIo</origDate>. <lb
-                    n="11"/><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister und <lb n="12"
-                    />raet ze Costentz</orgName>. <pb facs="StadtASG_Missive_29_58.JPG" n="2"/>
-                <lb n="13"/>Den ersamen wisen den <orgName ref="stadtasg-actors-148" role="recipient"
-                    >burgermaister und raeten <lb n="14"/>ze sant Gallen</orgName> unsren lieben
+                Geben an <origDate when="1426-09-23">mentag nach Mathei apostoli anno etc. CCCCo XXVIo</origDate>. <lb n="11"/><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister und <lb n="12"/>raet ze Costentz</orgName>. <pb facs="StadtASG_Missive_29_58.JPG" n="2"/>
+                <lb n="13"/>Den ersamen wisen den <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und raeten <lb n="14"/>ze sant Gallen</orgName> unsren lieben
                 guoten fründen.</p>
         </body>
     </text>

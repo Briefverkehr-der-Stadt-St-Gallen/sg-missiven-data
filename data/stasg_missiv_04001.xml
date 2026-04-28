@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_04001">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -26,7 +25,7 @@
             <abstract>
                 <p>Bürgermeister und Rat zu St. Gallen bitten für Hans Christoph Buff, Metzgerknecht aus Gammertingen, um einen Rechtstag in Konstanz. Buff war von Leonhard Rittel aus dem Markgräflerland gegenüber einem Ratsmitglied aus Konstanz, Heinrich Hüetli, der Untreue an seinem früheren Meister, Sebastian Tobler, Metzger und Bürger zu St. Gallen, bezichtigt worden. Um seine Ehre wiederherzustellen, möchte Buff vor dem Rat in Konstanz Stellung nehmen und bittet Bürgermeister und Rat zu St. Gallen um beglaubigte Aussagen zu seinem Wohlverhalten bei seinem ehemaligen Meister Sebastian Tobler und seinem aktuellen Meister Ulrich Alther, Zunftmeister und Bürger zu St. Gallen.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
 <term ref="stadtasg-keywords-168">Abschrift</term>
@@ -63,10 +62,10 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_4001_16165.jpg" n="1" />
+            <pb facs="StadtASG_Missive_4001_16165.jpg" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_4001_16166.jpg" n="2" />
-<pb facs="StadtASG_Missive_4001_16170.jpg" n="3" />
+<pb facs="StadtASG_Missive_4001_16166.jpg" n="2"/>
+<pb facs="StadtASG_Missive_4001_16170.jpg" n="3"/>
 </p>
         </body>
     </text>

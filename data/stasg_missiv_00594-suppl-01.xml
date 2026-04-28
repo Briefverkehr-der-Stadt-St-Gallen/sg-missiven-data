@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00594-suppl-01">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -26,7 +25,7 @@
             <abstract>
                 <p>Der Dreizehner Rat (Kriegsverordneten) zu Strassburg informiert Bürgermeister und Rat zu Basel über den Bericht der Gesandten, die von der Beratschlagung in Eisenach zurückgekehrt sind. Die Schreiben an den Kurfürsten von Sachsen und den Landgrafen von Hessen sowie deren und Martin Luthers Antworten dazu seien verlesen und als vorbildliche christliche Schriften gerühmt und zur Weiterverbreitung empfohlen worden. Die Basler werden gebeten, zur Förderung der Eintracht in der christlichen Lehre dies Angehörigen der gleichen Religion weiterzuleiten. Zudem berichten sie darüber, dass dieses Treffen in Eisenach vornehmlich der Friedenswahrung gewidmet war, damit dem König Hilfe im Kampf gegen die Türken geboten werden könne.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
       <term ref="stadtasg-keywords-454">Kopie</term>
@@ -67,67 +66,67 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_593_1259.JPG" n="1" />
+            <pb facs="StadtASG_Missive_593_1259.JPG" n="1"/>
 <p>
-<lb n="1" />Unnser fründtliche willige dienst zuovor eersammen wysen
-<lb n="2" />besonndern guotten fründ unnd vertrüwte liebe nachpuren.
-<lb n="3" />Nachdem ir unns vergangener tagen copyen üwer unnd
-<lb n="4" />annderer der <orgName ref="stadtasg-actors-750">Eydtgnosschaft</orgName> dem heyligen evangelio an
-<lb break="no" n="5" />hengig schryben an den churfürsten zuo <placeName ref="stadtasg-places-399">Sachsen</placeName><note>Gemeint ist <persName ref="stadtasg-actors-1162">Johann Friedrich</persName>.</note>, lanndt
-<lb break="no" n="6" />grafen zuo <placeName ref="stadtasg-places-398">Hessen</placeName><note>Gemeint ist <persName ref="stadtasg-actors-1163">Philipp</persName>.</note> unnd ouch doctor <persName ref="stadtasg-actors-1206">Martin Luthern</persName> unnd was
-<lb n="7" />dieselben wider geanntwurtet zuogeschigkt, da geben
-<lb n="8" />wir üch fründtlichen zuovernemmen, das die gesanndten,
-<lb n="9" />die unnsere herren unnd fründ, meyster unnd rath yetzo
-<lb n="10" />uff dem tag zuo <placeName ref="stadtasg-places-405">Eysenach</placeName> gehept, wider ankommen unnd
-<lb n="11" />inn irer relation bericht geben, das söllich üwer unnd
-<lb n="12" />gemelter üwerer mittverwandten schriben an den <persName ref="stadtasg-actors-1162">churfürsten</persName>
-<lb n="13" />zuo <placeName ref="stadtasg-places-399">Sachsen</placeName> unnd <persName ref="stadtasg-actors-1163">lanndtgraafen</persName> zuo <placeName ref="stadtasg-places-398">Hessen</placeName>, ouch irer
-<lb n="14" />churfürsten unnd eersammen gehorsam desglychen doctor <persName ref="stadtasg-actors-1206">Luthers</persName> widerantwortet
-<lb n="15" />vor gemeyner stännd bottschafft gelesen worden sygen
-<lb n="16" />unnd das sy eins eersammen raths gesandten daneben von
-<lb n="17" />des churfürsten räth inn der anzoyg vermergkt, das oban
-<lb break="no" n="18" />geregt üwer unnd üwerer mittverwandten schryben an die
-<lb n="19" />beyde den <persName ref="stadtasg-actors-1162">churfürsten</persName> zuo <placeName ref="stadtasg-places-399">Sachsen</placeName> etc. unnd <persName ref="stadtasg-actors-1163">lanndtgrafen</persName>
-<lb n="20" />zuo <placeName ref="stadtasg-places-398">Hessen</placeName> etc. unnd ouch an doctor <persName ref="stadtasg-actors-1206">Luthern</persName> beschechen von irer
-<lb n="21" />eersammen gehorsam ouch doctor <persName ref="stadtasg-actors-1206">Martin Luthern</persName> gantz gnedigclich unnd fründt
-<lb break="no" n="22" />lich ouch für ein gantz cristennlich schrifft geruembet unnd
-<lb n="23" />uffgenommen worden syge, also das die gesanndten es
-<lb n="24" />genntzlich darfür halten, das dis üwer unnd üwerer
-<lb n="25" />des orts mittbewandten schryben vyl nutz unnd guots wil
-<lb break="no" n="26" />lens by meer gemeldten fürsten unnd annderen ständen,
-<lb n="27" />ouch deren glerten bringen werde. Diewyl
-<lb n="28" />wir nun söllichs von den gesanndten vermergkt, haben
-<lb n="29" />wir us sonnderer fründtlichen nachpurschafft nit unnder
-<lb break="no" n="30" />lassen wöllen, üch dessen zeberichten, der hoffnung, ir
-<lb n="31" />werden darab guot gfallen tragen unnd haben, söllichs
-<lb n="32" />ouch annderen üweren mittverwandten inn der religion
-<lb n="33" />anzoygen unnd die sachen dahin fürderen, wie wir üch
-<lb n="34" />dann geneygt zuosin wüssen, damit diser guotter will
-<lb n="35" />unnd fründtschafft, ouch die angefangen concordi inn der
-<lb n="36" />leer gefürdert unnd gemeeret werde. Daneben
-<lb n="37" />so wöllen wir üch ouch nit bergen, das diser tag zuo <placeName ref="stadtasg-places-405">Eysenach</placeName>
-<lb n="38" />fürnemmlich darumb gehalten worden, das der churfürst zuo
-<lb n="39" /><placeName ref="stadtasg-places-147">Branndenburg</placeName><note>Gemeint ist <persName ref="stadtasg-actors-1211">Joachim II.</persName>.</note> sich unndernommen guettlich under handlung
-<pb facs="StadtASG_Missive_593_1260.JPG" n="2" />
-<lb n="40" />zwüschen keyserlicher unnd römischer koniglicher maiestät, ouch den ständen
-<lb n="41" />der cristennlichen verstentnus eins fridens halben, damit
-<lb n="42" />die ständ des teyls der königlichen maiestät ein particular hilff wider
-<lb n="43" />den türgken willigeten unnd leysteten. Es ist aber us
-<lb n="44" />mangel der keyserlichen maiestät gwalt, so noch nit by der hand gwesen,
-<lb n="45" />nützit enndtlich abgehanndlet worden, sonnder ist man
-<lb n="46" />deshalben wyter tagsatzung unnd hanndlung zuoversicht
-<lb break="no" n="47" />lich. Das haben wir üch unsern lieben unnd
-<lb n="48" />guotten fründen us sonnderlichem unnd nachpurlichem wil
-<lb break="no" n="49" />len ouch nit wellen bergen unnd sind üch früntlich zuo
-<lb break="no" n="50" />dienen sonnders geneygt. Datum <origDate when="1538-08-26">mentags
-<lb n="51" />den XXVI augusti anno etc. XXXVIII</origDate>.
-<lb n="52" />Die verordneten des kriegs die <orgName ref="stadtasg-actors-1201" role="issuer">dryzechen
-<lb n="53" />genammpt der statt Strasburg</orgName>.
-<lb n="54" />Den eersammen wysen unnsern besonndern guoten fründen
-<lb n="55" />unnd vertruwten lieben nachpuren dem <orgName ref="stadtasg-actors-530" role="recipient">burgermeyster
-<lb n="56" />unnd den geheymen räthen der statt Basel</orgName>.
-<pb facs="StadtASG_Missive_593_1261.JPG" n="3" />
-<pb facs="StadtASG_Missive_593_1262.JPG" n="4" />
+<lb n="1"/>Unnser fründtliche willige dienst zuovor eersammen wysen
+<lb n="2"/>besonndern guotten fründ unnd vertrüwte liebe nachpuren.
+<lb n="3"/>Nachdem ir unns vergangener tagen copyen üwer unnd
+<lb n="4"/>annderer der <orgName ref="stadtasg-actors-750">Eydtgnosschaft</orgName> dem heyligen evangelio an
+<lb break="no" n="5"/>hengig schryben an den churfürsten zuo <placeName ref="stadtasg-places-399">Sachsen</placeName><note>Gemeint ist <persName ref="stadtasg-actors-1162">Johann Friedrich</persName>.</note>, lanndt
+<lb break="no" n="6"/>grafen zuo <placeName ref="stadtasg-places-398">Hessen</placeName><note>Gemeint ist <persName ref="stadtasg-actors-1163">Philipp</persName>.</note> unnd ouch doctor <persName ref="stadtasg-actors-1206">Martin Luthern</persName> unnd was
+<lb n="7"/>dieselben wider geanntwurtet zuogeschigkt, da geben
+<lb n="8"/>wir üch fründtlichen zuovernemmen, das die gesanndten,
+<lb n="9"/>die unnsere herren unnd fründ, meyster unnd rath yetzo
+<lb n="10"/>uff dem tag zuo <placeName ref="stadtasg-places-405">Eysenach</placeName> gehept, wider ankommen unnd
+<lb n="11"/>inn irer relation bericht geben, das söllich üwer unnd
+<lb n="12"/>gemelter üwerer mittverwandten schriben an den <persName ref="stadtasg-actors-1162">churfürsten</persName>
+<lb n="13"/>zuo <placeName ref="stadtasg-places-399">Sachsen</placeName> unnd <persName ref="stadtasg-actors-1163">lanndtgraafen</persName> zuo <placeName ref="stadtasg-places-398">Hessen</placeName>, ouch irer
+<lb n="14"/>churfürsten unnd eersammen gehorsam desglychen doctor <persName ref="stadtasg-actors-1206">Luthers</persName> widerantwortet
+<lb n="15"/>vor gemeyner stännd bottschafft gelesen worden sygen
+<lb n="16"/>unnd das sy eins eersammen raths gesandten daneben von
+<lb n="17"/>des churfürsten räth inn der anzoyg vermergkt, das oban
+<lb break="no" n="18"/>geregt üwer unnd üwerer mittverwandten schryben an die
+<lb n="19"/>beyde den <persName ref="stadtasg-actors-1162">churfürsten</persName> zuo <placeName ref="stadtasg-places-399">Sachsen</placeName> etc. unnd <persName ref="stadtasg-actors-1163">lanndtgrafen</persName>
+<lb n="20"/>zuo <placeName ref="stadtasg-places-398">Hessen</placeName> etc. unnd ouch an doctor <persName ref="stadtasg-actors-1206">Luthern</persName> beschechen von irer
+<lb n="21"/>eersammen gehorsam ouch doctor <persName ref="stadtasg-actors-1206">Martin Luthern</persName> gantz gnedigclich unnd fründt
+<lb break="no" n="22"/>lich ouch für ein gantz cristennlich schrifft geruembet unnd
+<lb n="23"/>uffgenommen worden syge, also das die gesanndten es
+<lb n="24"/>genntzlich darfür halten, das dis üwer unnd üwerer
+<lb n="25"/>des orts mittbewandten schryben vyl nutz unnd guots wil
+<lb break="no" n="26"/>lens by meer gemeldten fürsten unnd annderen ständen,
+<lb n="27"/>ouch deren glerten bringen werde. Diewyl
+<lb n="28"/>wir nun söllichs von den gesanndten vermergkt, haben
+<lb n="29"/>wir us sonnderer fründtlichen nachpurschafft nit unnder
+<lb break="no" n="30"/>lassen wöllen, üch dessen zeberichten, der hoffnung, ir
+<lb n="31"/>werden darab guot gfallen tragen unnd haben, söllichs
+<lb n="32"/>ouch annderen üweren mittverwandten inn der religion
+<lb n="33"/>anzoygen unnd die sachen dahin fürderen, wie wir üch
+<lb n="34"/>dann geneygt zuosin wüssen, damit diser guotter will
+<lb n="35"/>unnd fründtschafft, ouch die angefangen concordi inn der
+<lb n="36"/>leer gefürdert unnd gemeeret werde. Daneben
+<lb n="37"/>so wöllen wir üch ouch nit bergen, das diser tag zuo <placeName ref="stadtasg-places-405">Eysenach</placeName>
+<lb n="38"/>fürnemmlich darumb gehalten worden, das der churfürst zuo
+<lb n="39"/><placeName ref="stadtasg-places-147">Branndenburg</placeName><note>Gemeint ist <persName ref="stadtasg-actors-1211">Joachim II.</persName>.</note> sich unndernommen guettlich under handlung
+<pb facs="StadtASG_Missive_593_1260.JPG" n="2"/>
+<lb n="40"/>zwüschen keyserlicher unnd römischer koniglicher maiestät, ouch den ständen
+<lb n="41"/>der cristennlichen verstentnus eins fridens halben, damit
+<lb n="42"/>die ständ des teyls der königlichen maiestät ein particular hilff wider
+<lb n="43"/>den türgken willigeten unnd leysteten. Es ist aber us
+<lb n="44"/>mangel der keyserlichen maiestät gwalt, so noch nit by der hand gwesen,
+<lb n="45"/>nützit enndtlich abgehanndlet worden, sonnder ist man
+<lb n="46"/>deshalben wyter tagsatzung unnd hanndlung zuoversicht
+<lb break="no" n="47"/>lich. Das haben wir üch unsern lieben unnd
+<lb n="48"/>guotten fründen us sonnderlichem unnd nachpurlichem wil
+<lb break="no" n="49"/>len ouch nit wellen bergen unnd sind üch früntlich zuo
+<lb break="no" n="50"/>dienen sonnders geneygt. Datum <origDate when="1538-08-26">mentags
+<lb n="51"/>den XXVI augusti anno etc. XXXVIII</origDate>.
+<lb n="52"/>Die verordneten des kriegs die <orgName ref="stadtasg-actors-1201" role="issuer">dryzechen
+<lb n="53"/>genammpt der statt Strasburg</orgName>.
+<lb n="54"/>Den eersammen wysen unnsern besonndern guoten fründen
+<lb n="55"/>unnd vertruwten lieben nachpuren dem <orgName ref="stadtasg-actors-530" role="recipient">burgermeyster
+<lb n="56"/>unnd den geheymen räthen der statt Basel</orgName>.
+<pb facs="StadtASG_Missive_593_1261.JPG" n="3"/>
+<pb facs="StadtASG_Missive_593_1262.JPG" n="4"/>
 </p>
         </body>
     </text>

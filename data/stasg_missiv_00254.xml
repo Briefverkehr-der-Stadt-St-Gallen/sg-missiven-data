@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00254">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -90,19 +89,13 @@
                 ungelimpff <lb n="9"/>zuo hoerende. Darumb wir üwer guotten früntschafft mit ernst
                 früntlichen bitten, das ir <lb n="10"/>uns zuo eren und ze lieb üwer wisen
                 treffenlichen bottschafft uff den egenantten tag gen <placeName ref="stadtasg-places-7">Costentz</placeName>
-                <lb n="11"/>zuo uns senden wellint, die uff den benempten unser <date
-                    when="1452-02-02">frowen tag</date> zuo nacht daselbs zuo <lb n="12"
-                    /><placeName ref="stadtasg-places-7">Costentz</placeName> an der herberg syent, und den zuo bevolhen, by
+                <lb n="11"/>zuo uns senden wellint, die uff den benempten unser <date when="1452-02-02">frowen tag</date> zuo nacht daselbs zuo <lb n="12"/><placeName ref="stadtasg-places-7">Costentz</placeName> an der herberg syent, und den zuo bevolhen, by
                 unsern botten zuo sinde und inen <lb n="13"/>iren getrüwen ratt in den dingen mit
                 zuo teilen, als wir üwer liebe des und alles guoten <lb n="14"/>sunder wolgetrüwend.
                 Das wellen wir zuo allen zitten in der gelich meren und mindern <lb n="15"/>sachen
-                umb üwer wisheitt gedienen, wenn sich das fuogen wirtt. Geben uff <lb n="16"
-                    /><origDate when="1452-01-15">samstag nach sant Hilaryen tag anno etc.
-                        LIImo</origDate>. <lb n="17"/><orgName ref="stadtasg-actors-503" role="issuer">Burgermeister und ratt <lb
-                        n="18"/>der statt Zürich</orgName>. <pb facs="StadtASG_Missive_254_510.JPG"
-                    n="2"/>
-                <lb n="19"/>Den fürsichttigen ersamen und wisen dem <orgName ref="stadtasg-actors-148" role="recipient"
-                    >burgermeister und <lb n="20"/>ratt zuo sant Gallen</orgName> unsern sundern
+                umb üwer wisheitt gedienen, wenn sich das fuogen wirtt. Geben uff <lb n="16"/><origDate when="1452-01-15">samstag nach sant Hilaryen tag anno etc.
+                        LIImo</origDate>. <lb n="17"/><orgName ref="stadtasg-actors-503" role="issuer">Burgermeister und ratt <lb n="18"/>der statt Zürich</orgName>. <pb facs="StadtASG_Missive_254_510.JPG" n="2"/>
+                <lb n="19"/>Den fürsichttigen ersamen und wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und <lb n="20"/>ratt zuo sant Gallen</orgName> unsern sundern
                 lieben und guoten fründen. </p>
         </body>
     </text>

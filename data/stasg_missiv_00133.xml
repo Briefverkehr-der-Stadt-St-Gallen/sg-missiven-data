@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00133">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -76,16 +75,13 @@
                 <lb n="1"/>Item <persName ref="stadtasg-actors-53" role="issuer">Hans von Watt</persName>. <lb n="2"/>Min
                 willigan dinst vor an. Wissant lieben <orgName ref="stadtasg-actors-600" role="recipient" cert="medium">voegt</orgName>,
                 üwer ferschriban hab ich <lb n="3"/>wol fernman alz umb die funfzig guldinn, die ir
-                mir woltant schikan von <lb n="4"/><placeName ref="stadtasg-places-101">zurzacher
-                markt</placeName>, dz noch nut geschehan ist. Also bedunkt mich, der sach <lb n="5"/>sy nyena
+                mir woltant schikan von <lb n="4"/><placeName ref="stadtasg-places-101">zurzacher</placeName>
+                markt, dz noch nut geschehan ist. Also bedunkt mich, der sach <lb n="5"/>sy nyena
                 recht, und bitt üch mit gantzan ernst, dz ir so wol tuon woellint, <lb n="6"/>und
                 wie ich mit üwerm diener über komen bin von dez kofs wegan, <lb n="7"/>als üwer
                 diener des och in geschriban. <pb facs="StadtASG_Missive_133_266.JPG" n="2"/>
-                <lb n="8"/><persName ref="stadtasg-actors-267">Staehili</persName> gab mir II <choice><abbr>fl.</abbr><expan>Gulden</expan></choice><lb n="9"
-                />Gab <persName ref="stadtasg-actors-268">S. Hoer</persName> IIII <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> <lb n="10"/>Gab dem
-                    <persName ref="stadtasg-actors-269">Gaelter</persName> I <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> <lb n="11"/><persName
-                    ref="stadtasg-actors-270" cert="medium">Kaysper Wirt</persName> gab mir I <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> am unngelt. <lb n="12"
-                    /><persName ref="stadtasg-actors-271">Heini Suter</persName> gab mir I <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> uss dem stokk. </p>
+                <lb n="8"/><persName ref="stadtasg-actors-267">Staehili</persName> gab mir II <choice><abbr>fl.</abbr><expan>Gulden</expan></choice><lb n="9"/>Gab <persName ref="stadtasg-actors-268">S. Hoer</persName> IIII <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> <lb n="10"/>Gab dem
+                    <persName ref="stadtasg-actors-269">Gaelter</persName> I <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> <lb n="11"/><persName ref="stadtasg-actors-270" cert="medium">Kaysper Wirt</persName> gab mir I <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> am unngelt. <lb n="12"/><persName ref="stadtasg-actors-271">Heini Suter</persName> gab mir I <choice><abbr>fl.</abbr><expan>Gulden</expan></choice> uss dem stokk. </p>
         </body>
     </text>
 </TEI>

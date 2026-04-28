@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_04007">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Bürgermeister und Rat zu St. Gallen schreiben an Bürgermeister und Rat zu Chur betreffend die Anfrage aus Chur wegen den Vermögensanteilen des von der Frau in die Ehe eingebrachten Guts von Georg Spindler. Auf Wunsch der Churer haben Bürgermeister und Rat zu St. Gallen Georg Spindler über dessen finanzielle Verhältnisse befragt. Er sagte aus, dass er momentan das Frauengut nicht herausgeben könne, weil er mit seiner Handelsfirma in einer schwierigen Lage sei. Er hoffe in Zukunft auf bessere Geschäfte. Der Frau werden zwei Beistände aus dem St. Galler Rat zur Seite gestellt, die in Zukunft ihre Interessen vertreten werden.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
 <term ref="stadtasg-keywords-281">Entwurf</term>
@@ -63,9 +62,9 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_4007_16187.jpg" n="1" />
+            <pb facs="StadtASG_Missive_4007_16187.jpg" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_4007_16188.jpg" n="2" />
+<pb facs="StadtASG_Missive_4007_16188.jpg" n="2"/>
 </p>
         </body>
     </text>

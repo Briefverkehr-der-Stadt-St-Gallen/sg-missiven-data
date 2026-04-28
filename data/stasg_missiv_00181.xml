@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00181">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -89,14 +88,11 @@
             <pb facs="StadtASG_Missive_181_363.JPG" n="1"/>
             <p>
                 <lb n="1"/>Wir <persName ref="stadtasg-actors-49" role="issuer">Friderich</persName> von gots
-                gnaden romschen konig zu allentzyten merer des <lb n="2"/><orgName ref="stadtasg-actors-559"
-                    >Richs</orgName>, hertzog zu <placeName ref="stadtasg-places-91">Osterich</placeName>,
-                zu <placeName ref="stadtasg-places-94">Steir</placeName>, zu <placeName ref="stadtasg-places-97"
-                    >Kernden</placeName> und zu <placeName ref="stadtasg-places-98">Krain</placeName>, grave
+                gnaden romschen konig zu allentzyten merer des <lb n="2"/><orgName ref="stadtasg-actors-559">Richs</orgName>, hertzog zu <placeName ref="stadtasg-places-91">Osterich</placeName>,
+                zu <placeName ref="stadtasg-places-94">Steir</placeName>, zu <placeName ref="stadtasg-places-97">Kernden</placeName> und zu <placeName ref="stadtasg-places-98">Krain</placeName>, grave
                     <lb n="3"/>zu <placeName ref="stadtasg-places-99">Tyrol</placeName> etc. bekennen und
                 tuen kont offenbar mit diesem brieff allen <lb n="4"/>den, die ine sehent oder
-                horent lesen, als itzund ein fremde volcke uß <lb n="5"/><placeName ref="stadtasg-places-131"
-                    >Franckrich</placeName> sich in das <orgName ref="stadtasg-actors-559">Heilige Riche und
+                horent lesen, als itzund ein fremde volcke uß <lb n="5"/><placeName ref="stadtasg-places-131">Franckrich</placeName> sich in das <orgName ref="stadtasg-actors-559">Heilige Riche und
                     dutsche land</orgName> geleget hat und <lb n="6"/>darinne an landen und luten
                 mit mancherley verterbunge ubermessig <lb n="7"/>schaden tud, als das dann
                 landkundig ist, wie großen und unmentsch <lb break="no" n="8"/>lichen unrat mit
@@ -111,9 +107,7 @@
                 fusse, als sich dann heischen wirdet, und der <lb n="17"/>worten das solichen sachen
                 nach notturfften und desters fuglicher nach <lb n="18"/>gangen werde, so haben wir
                 mit rate derselben unser kurfursten <lb n="19"/>und fursten den hochgebornen
-                    <persName ref="stadtasg-actors-320">Ludwigen</persName> pfaltzgraven by <placeName ref="stadtasg-places-143">Rine</placeName>, des <lb
-                    n="20"/><orgName ref="stadtasg-actors-559">Heiligen Romschen Richs</orgName> ertztruchsessen und hertzogen in <placeName
-                    ref="stadtasg-places-132">Beyern</placeName>, unsern <lb n="21"/>lieben oheim und
+                    <persName ref="stadtasg-actors-320">Ludwigen</persName> pfaltzgraven by <placeName ref="stadtasg-places-143">Rine</placeName>, des <lb n="20"/><orgName ref="stadtasg-actors-559">Heiligen Romschen Richs</orgName> ertztruchsessen und hertzogen in <placeName ref="stadtasg-places-132">Beyern</placeName>, unsern <lb n="21"/>lieben oheim und
                 kurfursten, angesehen, das er solich sache nach <lb n="22"/>gelegenheit der sache
                 und siner lande auch nach siner redlicheit <lb n="23"/>und macht fuglich und wol
                 gehandeln mag, zu unserm und des <lb n="24"/><orgName ref="stadtasg-actors-559">Heiligen Richs</orgName> obersten haubtman
@@ -126,25 +120,14 @@
                 solichem <lb n="31"/>volcke, das zu dem anslage bescheiden ist, furtzusin und daz
                 zufuren, <lb n="32"/>und ob es nott sin wurde und den unsern obgenanten oheim
                 gutduncken <lb n="33"/>wirdet, unser und des <orgName ref="stadtasg-actors-559">Richs</orgName> kurfursten, fursten, herren und
-                stette <lb n="34"/>ußzufordern und ine zugebieten, zu yme zu ziehen und ime und <lb
-                    n="35"/>dem <orgName ref="stadtasg-actors-559">Heiligen Riche</orgName> bygestendig und beholffen zusin mit aller ir <lb
-                    n="36"/>machte, und die ungehorsamen under sweren penen zuermanen <lb n="37"
-                />und alles daz zuschaffen und zuthun, das ein oberster heubtmann <lb n="38"/>des
+                stette <lb n="34"/>ußzufordern und ine zugebieten, zu yme zu ziehen und ime und <lb n="35"/>dem <orgName ref="stadtasg-actors-559">Heiligen Riche</orgName> bygestendig und beholffen zusin mit aller ir <lb n="36"/>machte, und die ungehorsamen under sweren penen zuermanen <lb n="37"/>und alles daz zuschaffen und zuthun, das ein oberster heubtmann <lb n="38"/>des
                 <orgName ref="stadtasg-actors-559">Heiligen Richs</orgName> tun sol und mag. Und daruff so gebieten wir <lb n="39"/>uch allen und
                 iglichem kurfursten, fursten, graven, fryen herren, rittern, <lb n="40"/>knechten,
                 richstetten und allen mergkten, dorffern und gemeinden, <lb n="41"/>das ir dem
                 obgenanten unserm oheim dem pfaltzgraven als unserm <lb n="42"/>und des <orgName ref="stadtasg-actors-559">Heiligen
                 Richs</orgName> obersten heubtmann, wann ir des von ime <lb n="43"/>ermanet und erfordert
                 werdent, gefolgig und gehorsam sind <pb facs="StadtASG_Missive_181_364.JPG" n="2"/>
-                <lb n="44"/>zu schutzunge und schirmunge des <orgName ref="stadtasg-actors-559">Heiligen Richs</orgName>, als wir uch des <lb
-                    n="45"/>sunderlich wol getruwen und ir des auch schuldig sind. Das wollen <lb
-                    n="46"/>wir gem uch allen und uwer eglichem alletzyt gnediglich erkennen. <lb
-                    n="47"/>Wann welcher ungehorsam wurde, der sol in unser und des <orgName ref="stadtasg-actors-559">Richs</orgName> <lb n="48"
-                />swere ungnade und straffe verfallen sin, dartzu wir auch mit hilff <lb n="49"
-                />unser und des <orgName ref="stadtasg-actors-559">Richs</orgName> fursten und rete zutun meynen, als sich geburen <lb n="50"
-                />wirdet. Mit urkunde diß brieffs versigelt mit unser koniglichen ma <lb
-                    break="no" n="51"/>iestat ingesigel. Geben zu <origPlace ref="stadtasg-places-21"
-                    >Nuremberg</origPlace> <origDate when="1444-10-08">nach Christi geburte Mo CCCCo
+                <lb n="44"/>zu schutzunge und schirmunge des <orgName ref="stadtasg-actors-559">Heiligen Richs</orgName>, als wir uch des <lb n="45"/>sunderlich wol getruwen und ir des auch schuldig sind. Das wollen <lb n="46"/>wir gem uch allen und uwer eglichem alletzyt gnediglich erkennen. <lb n="47"/>Wann welcher ungehorsam wurde, der sol in unser und des <orgName ref="stadtasg-actors-559">Richs</orgName> <lb n="48"/>swere ungnade und straffe verfallen sin, dartzu wir auch mit hilff <lb n="49"/>unser und des <orgName ref="stadtasg-actors-559">Richs</orgName> fursten und rete zutun meynen, als sich geburen <lb n="50"/>wirdet. Mit urkunde diß brieffs versigelt mit unser koniglichen ma <lb break="no" n="51"/>iestat ingesigel. Geben zu <origPlace ref="stadtasg-places-21">Nuremberg</origPlace> <origDate when="1444-10-08">nach Christi geburte Mo CCCCo
                         <lb n="52"/>und in dem vierundviertzigsten iare an frytag nach sant Michels
                         <lb n="53"/>tag</origDate> unsers <orgName ref="stadtasg-actors-559">Richs</orgName> in dem funfften iare. </p>
         </body>

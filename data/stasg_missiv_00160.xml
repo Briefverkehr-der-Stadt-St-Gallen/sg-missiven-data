@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00160">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -79,13 +78,11 @@
                 zuo sinde semlichs zuo <placeName ref="stadtasg-places-38">Santgallen</placeName> fürzenemen und usszetragen.
                 Also <lb n="6"/>hab ich daz an minen gnedigen <persName ref="stadtasg-actors-83">herren von
                 Santgallen</persName> bracht. Dem wil nu <lb n="7"/>soelichß ouch gevellig sin.
-                Besunder so setztt er einen tag von nu <date when="1443-05-13">sunntag nechst <lb
-                        break="no" n="8"/>koment</date> über acht tag zuo nacht an der herberg ze
+                Besunder so setztt er einen tag von nu <date when="1443-05-13">sunntag nechst <lb break="no" n="8"/>koment</date> über acht tag zuo nacht an der herberg ze
                 sindt und mornendes am <lb n="9"/>mendag zuo den sachen zuo griffen und für hand ze
                 nemen. Geben uff <origDate when="1443-04-29">mentag <lb n="10"/>nach ussgendter
                     osterwochen anno XLIII</origDate> etc. <lb n="11"/><persName ref="stadtasg-actors-57" role="issuer">Hanns
-                    von der <lb n="12"/>Breitenlandenberg</persName>. <pb
-                    facs="StadtASG_Missive_160_320.JPG" n="2"/>
+                    von der <lb n="12"/>Breitenlandenberg</persName>. <pb facs="StadtASG_Missive_160_320.JPG" n="2"/>
                 <lb n="13"/>Den fürsichtigen wisen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermeister und
                     dem rat <lb n="14"/>der statt zuo Santgallen</orgName> minen lieben herren und
                 guoten <lb n="15"/>fründen. </p>

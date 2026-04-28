@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00649">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 649</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_649_1501/1504</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Kaiser Karl V. informiert Bürgermeister und Rat zu St. Gallen, dass er einen Reichstag in Regensburg einberufen hat, an dem er persönlich teilnehmen wird. Gleichzeitig betont Karl nochmals seinen guten Willen gegenüber der Eidgenossenschaft. Allen gegenteiligen Gerüchten sollen die St. Galler keinen Glauben schenken. Weitere Informationen erhielten sie durch den Überbringer dieses Briefes.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+     <term ref="stadtasg-keywords-274">Reichstag</term>
+<term ref="stadtasg-keywords-147">Kaiser</term>
+<term ref="stadtasg-keywords-347">Majestät</term>
+<term ref="stadtasg-keywords-9">Bote</term>
+<term ref="stadtasg-keywords-405">Reich</term>
+<term ref="stadtasg-keywords-522">Reichsstand</term>
+<term ref="stadtasg-keywords-63">Gerücht</term>
+<term ref="stadtasg-keywords-126">Reichsstadt</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1229">Karl V.</persName> <placeName ref="stadtasg-places-453">Luxemburg</placeName>                    <date>1546-03-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName/>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-04-08</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_649_1501.JPG" n="1"/>
+<p>
+<lb n="1"/><persName ref="stadtasg-actors-1229" role="issuer">Karl</persName> von gots gnaden romischer kaiser
+<lb n="2"/>zu allennzeitten merer des reichs etc.
+<lb n="3"/>Ersamen lieben getrewen, als wir unnsere raise zu schier
+<lb break="no" n="4"/>ist angeendem reichs tag in unnser und des reichs stat
+<lb n="5"/><placeName ref="stadtasg-places-454">Regenspurg</placeName> yetzo an die hanndt genumen, in mainung
+<lb n="6"/>solchem unserm angesezten reichstag personlich beyzu
+<lb break="no" n="7"/>wonen unnd die sachen darumb derselb fürgenomen
+<lb n="8"/>unnd was sonst dem <orgName ref="stadtasg-actors-559">Heiligen Reiche Teutscher Nation</orgName>
+<lb n="9"/>zubefrydunng unnd guetem gelanngen mag, mit
+<lb n="10"/>rath unnd zuthuen gemainer reichsstende zuhandlen
+<lb n="11"/>unnd die sachen, verhoffenlich durch gotliche verleyhung,
+<lb n="12"/>zu gueter enndtschafft zubefürdern unnd zuverrichten,
+<lb n="13"/>so haben wir darbey nit underlassen wellen, euch (als
+<lb n="14"/>denen wir mit sondern gnaden genaigt) solch unnser vor
+<lb break="no" n="15"/>haben unnd gnedigen genaigten willen, den wir euch
+<lb n="16"/>bisher getragen unnd noch tragen, gnediger mainung
+<lb n="17"/>anzuzaigen, damit ir dessen alles wissens haben unnd
+<lb n="18"/>euch dabey in ewern obligenden sachen unnd was
+<lb n="19"/>euch sonst zu guetem gelanngen mag, bey unns umb
+<lb n="20"/>sovil destomer getrösten mochte. Unnd wellen unns
+<lb n="21"/>auch herwiderumb bey euch genzlich versehen, ob ye
+<lb break="no" n="22"/>mandts were, der euch oder gemainer <orgName ref="stadtasg-actors-750">Aidgnosschafft</orgName>
+<lb n="23"/>daz widerspil (als ob wir aines andern gegen derselben
+<lb n="24"/><orgName ref="stadtasg-actors-750">Aidgnosschafft</orgName> oder euch gesynndt sein solten) von unns
+<lb n="25"/>einzubilden understannden hette oder nachmals unns
+<lb n="26"/>zurucks understeen würde, das ir dem oder denselben
+<lb n="27"/>kain gehör noch glauben geben, sonnder euch mit al
+<lb break="no" n="28"/>lem getrewen gueten willen gegen unns erzaigen und
+<pb facs="StadtASG_Missive_649_1502.JPG" n="2"/>
+<lb n="29"/>hier inn dermassen beweisen werdet, wie wir des unnser
+<lb n="30"/>gnedig zuversicht zu euch tragen, dargegen ir unns
+<lb n="31"/>auch nit annderst dann ain gnedigsten <persName ref="stadtasg-actors-1229">kaiser</persName> (alzeit
+<lb n="32"/>das ihenig, so euch zu ere, nutz unnd guetem gelanngen
+<lb n="33"/>mag, mit gnaden zubefürdern genaigt) willig finden
+<lb n="34"/>sollet, wie euch dann solches alles uberantworter ditz
+<lb n="35"/>briefs mit weitter auffuerung anzaigen wirdet, dem
+<lb n="36"/>wellet solches seines anbringens an unser stat dizmals
+<lb n="37"/>volkomen glauben zu stellen, daran thuet ir unnsern
+<lb n="38"/>sondern gefelligen willen unnd mainung in gnaden
+<lb n="39"/>zuerkhennen. Geben in unnser stat <origPlace ref="stadtasg-places-453">Luzenburg</origPlace> am <origDate when="1546-03-12">XIIten
+<lb n="40"/>tag des monats martii anno etc. im XLVIten, unnsers kaiser
+<lb break="no" n="41"/>thumbs im XXVIten</origDate>.
+<lb n="42"/><persName ref="stadtasg-actors-1229" role="issuer">Carolus</persName>
+<lb n="43"/>Ad mandatum caesarae etc. ca
+<lb break="no" n="44"/>tholicae <ex cert="medium">maiestatis</ex> proprium.
+<lb n="45"/><persName ref="stadtasg-actors-1287">Obernburger Johannes</persName>
+<pb facs="StadtASG_Missive_649_1503.JPG" n="3"/>
+<pb facs="StadtASG_Missive_649_1504.JPG" n="4"/>
+<lb n="46"/>Den ersamen unsern und des reichs lieben ge
+<lb break="no" n="47"/>trewenn <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rath sanct
+<lb n="48"/>Gallen</orgName>.
+</p>
+        </body>
+    </text>
+</TEI>

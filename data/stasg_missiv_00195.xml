@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00195">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -79,8 +78,7 @@
                 swerend zu denen von <orgName ref="stadtasg-actors-565">Appenzell</orgName>, als och wir das, was uns och
                 gehayssen <lb n="6"/>von dennen von <orgName ref="stadtasg-actors-565">Appenzell</orgName>. Und ist uns och
                 fuero aber botten und gehayssen von ainem <lb n="7"/>hoptman und <orgName ref="stadtasg-actors-565">ratt ze
-                    Appenzell</orgName>, daz wir sy noch niemant andern soellen zu uns <lb n="8"
-                />lassen wandlen noch ueber unser letzy, es sy denn sach, daz sy ze denen von
+                    Appenzell</orgName>, daz wir sy noch niemant andern soellen zu uns <lb n="8"/>lassen wandlen noch ueber unser letzy, es sy denn sach, daz sy ze denen von
                 <orgName ref="stadtasg-actors-565">Appenzell</orgName>
                 <lb n="9"/>swerend, als och wir. Was ir aber an denen von
                 <orgName ref="stadtasg-actors-565">Appenzell</orgName> muegent han umb <lb n="10"/>soelichs, das ist uns

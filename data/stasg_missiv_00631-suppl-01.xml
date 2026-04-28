@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00631-suppl-01">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -25,7 +24,7 @@
             <abstract>
                 <p>Berichte verschiedener Urheber aus dem Lager von Ceresole während des vierten Italienkriegs zwischen Frankreich und dem Reich, die Informationen zu eidgenössischen Söldnern und eine Briefabschrift an den Grafen von Oria, die Türkenkriege betreffend, enthalten.</p>            </abstract>
             <langUsage>
-                <language ident='deu'>Deutsch</language>            </langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
             <textClass>
                 <keywords>
         <term ref="stadtasg-keywords-604">Beilage</term>
@@ -60,15 +59,15 @@
     </teiHeader>
     <text>
         <body>
-            <pb facs="StadtASG_Missive_631_1423.JPG" n="1" />
+            <pb facs="StadtASG_Missive_631_1423.JPG" n="1"/>
 <p>
-<pb facs="StadtASG_Missive_631_1424.JPG" n="2" />
-<pb facs="StadtASG_Missive_631_1425.JPG" n="3" />
-<pb facs="StadtASG_Missive_631_1426.JPG" n="4" />
-<pb facs="StadtASG_Missive_631_1427.JPG" n="5" />
-<pb facs="StadtASG_Missive_631_1428.JPG" n="6" />
-<pb facs="StadtASG_Missive_631_1429.JPG" n="7" />
-<pb facs="StadtASG_Missive_631_1430.JPG" n="8" />
+<pb facs="StadtASG_Missive_631_1424.JPG" n="2"/>
+<pb facs="StadtASG_Missive_631_1425.JPG" n="3"/>
+<pb facs="StadtASG_Missive_631_1426.JPG" n="4"/>
+<pb facs="StadtASG_Missive_631_1427.JPG" n="5"/>
+<pb facs="StadtASG_Missive_631_1428.JPG" n="6"/>
+<pb facs="StadtASG_Missive_631_1429.JPG" n="7"/>
+<pb facs="StadtASG_Missive_631_1430.JPG" n="8"/>
 </p>
         </body>
     </text>

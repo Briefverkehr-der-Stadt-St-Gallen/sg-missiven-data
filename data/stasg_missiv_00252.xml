@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00252">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -80,12 +79,9 @@
                     <lb n="7"/>vogt und amptmann ich bin. Darumb so moegend ir <lb n="8"/>sinen
                 gnaden darumb schriben, so main ich, das <lb n="9"/>er üch antwurten werd, daran ir
                 villicht wol <lb n="10"/>benuegig sind. Geben an <origDate when="1452-01-09">sonntag
-                    nach der <lb n="11"/>hailigen dry künig tag anno etc. L secundo</origDate>. <lb
-                        n="12"/><persName ref="stadtasg-actors-87" role="issuer">Anthoni Schengk von Landegk</persName>, <lb
-                            n="13"/>vogt zuo <placeName ref="stadtasg-places-19">Bischoffzelle</placeName>
+                    nach der <lb n="11"/>hailigen dry künig tag anno etc. L secundo</origDate>. <lb n="12"/><persName ref="stadtasg-actors-87" role="issuer">Anthoni Schengk von Landegk</persName>, <lb n="13"/>vogt zuo <placeName ref="stadtasg-places-19">Bischoffzelle</placeName>
                 <pb facs="StadtASG_Missive_252_506.JPG" n="2"/>
-                <lb n="14"/>Den ersamen wysen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister <lb n="15"
-                    />und raute zuo sandt Gallen</orgName> minen <lb n="16"/>besundern guoten
+                <lb n="14"/>Den ersamen wysen dem <orgName ref="stadtasg-actors-148" role="recipient">burgermaister <lb n="15"/>und raute zuo sandt Gallen</orgName> minen <lb n="16"/>besundern guoten
                 fründen. </p>
         </body>
     </text>

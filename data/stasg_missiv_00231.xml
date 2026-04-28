@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00231">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -73,17 +72,10 @@
                 geschriben und <lb n="4"/>gebetten, haben wir uwer schrift und ir antwrt wol
                 vernomen, <lb n="5"/>und umb uwern willen, den wir grossers ungearn verzihen wolten,
                     <lb n="6"/>lassen wir die selben baiden knecht vergangner sachen halb ussorgen
-                    <lb n="7"/>für uns und die unsern, doch das uwer wishait mit in verschaff <lb
-                    n="8"/>und bestelle, ob hinfür der glich sachen und antreg an sü wachssen <lb
-                    n="9"/>und bracht wurden, sich des bas zue erfarn, denn solten sü <lb n="10"
-                />yeman uf unsern schaden fürdern, hetten wir nit gern. Zue uwern <lb n="11"
-                />diensten uns willig erbieten. Datum <origDate when="1450-12-01">zinstag nach sant
-                    Conrats <lb n="12"/>tag anno etc. Lzo</origDate>. <lb n="13"/><orgName ref="stadtasg-actors-508"
-                    role="issuer">Burgermaister und <lb n="14"/>rat zuo
-                        Ratolffzeall</orgName>. <pb
-                    facs="StadtASG_Missive_231_464.JPG" n="2"/>
-                <lb n="15"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und <lb
-                        n="16"/>rat zuo sant Gallen</orgName> unsern sondern guoten <lb n="17"/>und
+                    <lb n="7"/>für uns und die unsern, doch das uwer wishait mit in verschaff <lb n="8"/>und bestelle, ob hinfür der glich sachen und antreg an sü wachssen <lb n="9"/>und bracht wurden, sich des bas zue erfarn, denn solten sü <lb n="10"/>yeman uf unsern schaden fürdern, hetten wir nit gern. Zue uwern <lb n="11"/>diensten uns willig erbieten. Datum <origDate when="1450-12-01">zinstag nach sant
+                    Conrats <lb n="12"/>tag anno etc. Lzo</origDate>. <lb n="13"/><orgName ref="stadtasg-actors-508" role="issuer">Burgermaister und <lb n="14"/>rat zuo
+                        Ratolffzeall</orgName>. <pb facs="StadtASG_Missive_231_464.JPG" n="2"/>
+                <lb n="15"/>Den ersamen und wisen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und <lb n="16"/>rat zuo sant Gallen</orgName> unsern sondern guoten <lb n="17"/>und
                 lieben fründen. </p>
         </body>
     </text>

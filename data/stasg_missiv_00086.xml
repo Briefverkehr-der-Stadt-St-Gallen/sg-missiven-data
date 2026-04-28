@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00086">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -73,21 +72,16 @@
             <pb facs="StadtASG_Missive_86_171.JPG" n="1"/>
             <p>
                 <lb n="1"/>Unser undertenig früntlich willig dienst allzit zuvor ersamen wysen
-                sonder lieben <lb n="2"/>und guoten fründe. Uns hät fürbraucht <persName
-                    ref="stadtasg-actors-209">Hans Riederner</persName>, unser burger, wie im üwers <lb n="3"
-                />spyttauls pfleger<note>Entweder <persName ref="stadtasg-actors-210" cert="medium">Hans
+                sonder lieben <lb n="2"/>und guoten fründe. Uns hät fürbraucht <persName ref="stadtasg-actors-209">Hans Riederner</persName>, unser burger, wie im üwers <lb n="3"/>spyttauls pfleger<note>Entweder <persName ref="stadtasg-actors-210" cert="medium">Hans
                         Varnbüler</persName>, <persName ref="stadtasg-actors-211" cert="medium">Konrad Kurer</persName> oder
                         <persName ref="stadtasg-actors-212" cert="medium">Ulrich Senn</persName>.</note> etwas lennger dann
                 vor ainem iar gelyhen haben den hoff ze <placeName ref="stadtasg-places-79" cert="medium">Riederen</placeName><note>Wohl
                         <placeName ref="stadtasg-places-79">Riederen</placeName>.</note>
                 <lb n="4"/>sechsz iar, inn davor nit davon ze tryben noch ze stosßen, daby byderb
                 lüt, namlich <lb n="5"/><persName ref="stadtasg-actors-213">Joerg Mayger</persName> von
-                    <placeName ref="stadtasg-places-80">Spaltenstain</placeName> und <persName
-                    ref="stadtasg-actors-214">Hans Clainman</persName> von <placeName ref="stadtasg-places-81"
-                    >Hoff</placeName>, gewesen sind. Nun <lb n="6"/>mainent die vorgenanten üwers
+                    <placeName ref="stadtasg-places-80">Spaltenstain</placeName> und <persName ref="stadtasg-actors-214">Hans Clainman</persName> von <placeName ref="stadtasg-places-81">Hoff</placeName>, gewesen sind. Nun <lb n="6"/>mainent die vorgenanten üwers
                 spytauls pfleger<note>Entweder <persName ref="stadtasg-actors-210" cert="medium">Hans Varnbüler</persName>,
-                        <persName ref="stadtasg-actors-211" cert="medium">Konrad Kurer</persName> oder <persName
-                        ref="stadtasg-actors-212" cert="medium">Ulrich Senn</persName>.</note>, inn davon ze tryben und im
+                        <persName ref="stadtasg-actors-211" cert="medium">Konrad Kurer</persName> oder <persName ref="stadtasg-actors-212" cert="medium">Ulrich Senn</persName>.</note>, inn davon ze tryben und im
                 des abred <lb n="7"/>sin. Als üwer wyßhait der unser aimutlich woll erzelen
                 würdet, von was sach <lb n="8"/>wegen daz villicht geschicht, bitten wir üwer guot
                 früntschafften mit ernst <lb n="9"/>flyßig, wie ir ummb unsern willen mit den
@@ -100,11 +94,8 @@
                 getrüwen, daz woellen wir mit willen <lb n="15"/>ummb üch und die üweren gern
                 verdienen. Datum <origDate when="1436-12-02">prima dominica adventus domini anno
                     XXXVIo</origDate>. <lb n="16"/>Üwer verschriben oder muntlich antwürt by dem
-                botten. <lb n="17"/><orgName ref="stadtasg-actors-505" role="issuer">Burgermaister und <lb
-                        n="18"/>rat zuo Buochorn</orgName>. <pb facs="StadtASG_Missive_86_172.JPG"
-                    n="2"/>
-                <lb n="19"/>Den ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient"
-                    >burgermaister und rat zuo sant Gallen</orgName>
+                botten. <lb n="17"/><orgName ref="stadtasg-actors-505" role="issuer">Burgermaister und <lb n="18"/>rat zuo Buochorn</orgName>. <pb facs="StadtASG_Missive_86_172.JPG" n="2"/>
+                <lb n="19"/>Den ersamen wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rat zuo sant Gallen</orgName>
                 <lb n="20"/>unsern sonder lieben und guoten fründen. </p>
         </body>
     </text>
