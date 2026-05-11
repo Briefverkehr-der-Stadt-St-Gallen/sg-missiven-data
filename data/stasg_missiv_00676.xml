@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00676">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 676</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+<date>2026</date>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_676_1607/1610</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Überlingen bitten Bürgermeister und Rat zu St. Gallen darum, die Hinterlassenschaft der in Konstanz verstorbenen Gattin des Diethelm Payer zurückzubehalten, bis sich die Lage in Konstanz verbessere und die Erbfolge an die Erben, wovon eine die Enkelin ist, die unter rechtmässiger Vormundschaft in Überlingen steht, ordnungsgemäss erfolgen kann. Sie bitten zudem, die Hinterlassenschaft zu inventarisieren und eine Abschrift des Inventars den Vormunden der Kinder zukommen zu lassen.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+<keywords>
+    <term ref="stadtasg-keywords-82">Tod</term>
+    <term ref="stadtasg-keywords-177">Witwe</term>
+    <term ref="stadtasg-keywords-5">Erbe</term>
+    <term ref="stadtasg-keywords-397">Enkel</term>
+    <term ref="stadtasg-keywords-298">Tochter</term>
+    <term ref="stadtasg-keywords-495">Hab und Gut</term>
+    <term ref="stadtasg-keywords-171">Silber</term>
+    <term ref="stadtasg-keywords-257">Arrest</term>
+    <term ref="stadtasg-keywords-168">Abschrift</term>
+    <term ref="stadtasg-keywords-270">Vormundschaft</term>
+    <term ref="stadtasg-keywords-269">Kind</term>
+    <term ref="stadtasg-keywords-250">Anfrage</term>
+</keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-68">Bürgermeister und Rat zu Überlingen</orgName>                    <date>1548-09-01</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Arman Weidenmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-04-22</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_676_1607.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser freundtlich willig diennst zuvor ersamen
+<lb n="2"/>unnd weysen besonnder lieben unnd gutten freund.
+<lb n="3"/>Unns gelanngt an, wie weylend <persName ref="stadtasg-actors-1344">Diethalm von Payers</persName>
+<lb n="4"/>saligen gelassen wittib sich in disem wesen von <placeName ref="stadtasg-places-7">Costantz</placeName>
+<lb n="5"/>in euer weyshait statt gethan unnd daselbs newlicher tagen
+<lb n="6"/>von gott dem herrn erfordert auch todes verganngen
+<lb n="7"/>sye. Diewyl unns dann von irn enckhlin, so sy
+<lb n="8"/>by ir gehabt unnd in berurter eur statt noch wonen,
+<lb n="9"/>fürkomen, das sy die bemelt ir anfraw von claniet, silber
+<lb n="10"/>gschier unnd annderm etwas namhaffts mit ir in solch
+<lb n="11"/>eur statt gebracht, wälchs unnd alles annders, das sy
+<lb n="12"/>verlassen, ermelte enchlin neben noch ainer anndern
+<lb n="13"/>tochter, die aine von <placeName ref="stadtasg-places-138">Roggweyl</placeName> sein soll, die rechten erben,
+<lb n="14"/>unnd dieweyl dann dise enchlin, unnsere burgere,
+<lb n="15"/>auch wie sich gepürt, von unns vervormundt sein,
+<lb n="16"/>haben unns dieselben ire geordneten vormunder aner
+<lb break="no" n="17"/>sucht unnd gepetten, euch nachburlichen zuersuchen
+<lb n="18"/>unnd anzelanngen, damit ir dise ir pflegkhinder
+<lb n="19"/>noch ain zeitlanng, bis man sehen mag, wie sich die
+<lb n="20"/>sachen mit <placeName ref="stadtasg-places-7">Costanntz</placeName> verrer anlassen, by euch erhalten
+<lb n="21"/>unnd der abgestorbnen irer anfrawen verlassenschafft,
+<lb n="22"/>es sege clain oder gross, arrestiern unnd bewaren,
+<lb n="23"/>inen auch volgends vom inventarii auff irn costen
+<lb n="24"/>abschrifft mittailen unnd zusennden, dardurch
+<lb n="25"/>sy sich resolvieren unnd zu khünfftiger tagen destpaß
+<lb n="26"/>fürnemen und hanndlen mögen, das sich gepüre,
+<lb n="27"/>unnd irer pflegkhinder halb die notturfft erfordern,
+<lb n="28"/>nachdem wir dann verhoffen, das sich der von <placeName ref="stadtasg-places-7">Costantz</placeName>
+<lb n="29"/>hanndlung bald wider zu guttem schickhen werde,
+<lb n="30"/>nicht liebers wir hören unnd sehen. So piten
+<lb n="31"/>wir euch ganntz freundtlich, ir welt mitlerweyl
+<lb n="32"/>mit solcher khinder vererm ennhaltung auch er
+<lb break="no" n="33"/>nennter irer grossmutter verlassen hab zubewarn
+<pb facs="StadtASG_Missive_676_1608.JPG" n="2"/>
+<lb n="34"/>unnd zu inventiern unbeschwert sein unnd inen, den
+<lb n="35"/>vormundern, dermassen, wie ir begern stet vom inven
+<lb break="no" n="36"/>tarii auf irn costen zum fürderlichisten abschrifft zu
+<lb break="no" n="37"/>komen lassen. Das erpieten wir unns umb euer weyshait
+<lb n="38"/>unnser besonnder lieb unnd gutt freund allzeit
+<lb n="39"/>freuntlich zuverdienen unnd in gleichen vällen,
+<lb n="40"/>wo es sich begebe, zuerwidern. Datum den <origDate when="1548-09-01">ersten
+<lb n="41"/>tag des monnats semptembris anno 1548</origDate>.
+<lb n="42"/><orgName ref="stadtasg-actors-68" role="issuer">Burgermaister unnd rathe der
+<lb n="43"/>statt Überlingen</orgName>.
+<pb facs="StadtASG_Missive_676_1609.JPG" n="3"/>
+<pb facs="StadtASG_Missive_676_1610.JPG" n="4"/>
+<lb n="44"/>Den ersamen unnd weysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister unnd
+<lb n="45"/>rate der statt sannt Gallen</orgName> unnsern besondern
+<lb n="46"/>lieben unnd gutten freunden.
+</p>
+        </body>
+    </text>
+</TEI>

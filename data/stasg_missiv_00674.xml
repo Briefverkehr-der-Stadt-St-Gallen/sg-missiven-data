@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00674">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 674</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+<date>2026</date>
+            </publicationStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00675.xml">675</ref>. Kontext: Nach der Niederlage der Protestanten im Schmalkaldischen Krieg gegen Kaiser Karl V. versuchte Konstanz seine Reichsfreiheit und die Religionsfreiheit in Verhandlungen zu bewahren. Am 6. August 1548 verhängte der Kaiser aber per Dekret die Reichsacht über Konstanz. Am gleichen Tag wehrten die Konstanzer einen Angriff spanischer Truppen am Rheintor ab. Dabei kam auch ein Fähnlein aus Toggenburger Söldnern, die durch den St. Galler Bürger und Hauptmann in französischen Diensten, Joseph Studer von Winckelbach, geführt wurden, zum Einsatz. Nach mehrwöchiger Belagerung durch kaiserliche Truppen kapitulierte Konstanz schliesslich am 13. September 1548 und verlor dadurch den Status als Reichsstadt.</p></note></notesStmt>            <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_674_1599/1602</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die sechs eidgenössischen Orte Zürich, Bern, Luzern, Schwyz, Zug und Glarus antworten Bürgermeister und Rat zu St. Gallen auf ein Schreiben, in welchem die St. Galler bemängeln, sie seien nicht wie die anderen eidgenössischen Stände und der Abt des Klosters St. Gallen informiert worden, dass man aufgrund der unsicheren Lage aufrüsten solle. Trotzdem hätten die St. Galler ein Fähnlein zur Unterstützung ausgesandt. Die Absender entschuldigen sich für die Unterlassung, indem sie beteuern, dass dies nicht aus Absicht, sondern aufgrund eines Missverständnisses in der Kommunikation geschehen sei. Ausserdem sichern sie der Stadt St. Gallen ihre Unterstützung in dieser schwierigen Zeit zu.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+    <term ref="stadtasg-keywords-487">Bericht</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-601">Aufrüstung</term>
+<term ref="stadtasg-keywords-201">Abt</term>
+<term ref="stadtasg-keywords-115">Kloster</term>
+<term ref="stadtasg-keywords-474">Hauptmann</term>
+<term ref="stadtasg-keywords-231">Gesandtschaft</term>
+<term ref="stadtasg-keywords-449">Landschreiber</term>
+<term ref="stadtasg-keywords-319">Landvogt</term>
+   <term ref="stadtasg-keywords-254">Söldner</term>
+   <term ref="stadtasg-keywords-126">Reichsstadt</term>
+   <term ref="stadtasg-keywords-527">Vater</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-1130">Sechs Orte der Eidgenossenschaft</orgName><placeName ref="stadtasg-places-53">Baden</placeName>                    <date>1548-08-18</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Arman Weidenmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-04-22</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_674_1599.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser früntlich willig dienst und was wir eeren
+<lb n="2"/>liebs unnd guts vermogennt zuvor fromm fürsichtig ersam
+<lb n="3"/>wyß insonnders gut fründ unnd getrüw lieb eydtgnossen.
+<lb n="4"/>Wir sind von dem üwern <persName ref="stadtasg-actors-1343">Jergen Schänncken</persName> bericht worden,
+<lb n="5"/>nachdem wir uff nechstverschiner tagleystung allen
+<lb n="6"/>unnsern miteydtgnossen unnd verwanndten gschribenn,
+<lb n="7"/>das sy gegenwürtiger louffen halb sich rüsten und ein ußzug
+<lb n="8"/>tun sollennt, damit was unns unnd den unnsern zu handen
+<lb n="9"/>stosse, das sy geordnot unnd gerüst syennt unnd wie solliche
+<lb n="10"/>ordnung herren apt<note>Gemeint ist Abt <persName ref="stadtasg-actors-1271">Diethelm Blarer von Wartensee</persName>.</note> von <placeName ref="stadtasg-places-38">sannt Gallen</placeName> unnd anndern unnser
+<lb n="11"/><orgName ref="stadtasg-actors-750">Eydtgnoschafft</orgName> verwanndten zugschriben, so sige doch üch,
+<lb n="12"/>unnsern lieben eydtnossen, deßhalb gar nützit zu kommen,
+<lb n="13"/>das üch nit wenig, sonnder hoch bedure, dann ir nit wüssen
+<lb n="14"/>mögennt, inn was gestallten söllichs unnderlassen sig
+<lb n="15"/>unnd ob unnser herren unnd obern ettwas ungunst unnd
+<lb n="16"/>unwillen zu üch haben möchten etc. Aber nichtdesterminder
+<lb n="17"/>so habennt ir zu einem fänndli einen ußzuge gethon,
+<lb n="18"/>üch unnd die üwern gevasset unnd gerüst gemacht, er
+<lb n="19"/>hat ouch angezaigt, als der <persName ref="stadtasg-actors-1342">Studer</persName>, ein hauptman inn der
+<lb n="20"/>statt <placeName ref="stadtasg-places-7">Costanntz</placeName> sin sölle, das derselbig nit üwer burger,
+<lb n="21"/>sonnder ettwas zyts inn gasts wyse zu sinem vatter<note>Gemeint ist <persName ref="stadtasg-actors-488">Franziskus Studer</persName>.</note> uß und
+<lb n="22"/>inn ganngen unnd sölle ietz ettlich toggenburger unnd
+<lb n="23"/>der üwer niemand unnder im haben, dann als ettlich
+<lb n="24"/>der üwern gen <placeName ref="stadtasg-places-7">Costanntz</placeName> lauffen wellen, habennt ir die
+<lb n="25"/>selben widerumb heim gmandt. Als nun wir
+<lb n="26"/>söllichs alles verstannden, fügenn wir üch daruff
+<lb n="27"/>zu vernemmen, als üwers gsanndten uff nechsten tag
+<lb n="28"/>hie zu <placeName ref="stadtasg-places-53">Baden</placeName> gewesen unnd der landtschriber nit
+<lb n="29"/>eigennlich bedacht, wann die verritten, und vermeint, unnserer
+<lb n="30"/><orgName ref="stadtasg-actors-503">eydtgnossen von Zürich</orgName> ratsbotten hetten sy unnserer
+<lb n="31"/>ordnung unnd ansächenns bericht, darumb er üch nützit,
+<lb n="32"/>zugschriben söllicher und keiner anndern gstallt, es ist
+<lb n="33"/>underwegen beliben. Deßhalb so ist an üch unnser früntlich
+<lb n="34"/>bitt und begerenn, ir wellint söllichs keiner argen nach
+<pb facs="StadtASG_Missive_674_1600.JPG" n="2"/>
+<lb n="35"/>anndern meinung nit uffnemmen, dann was wir hinfüro
+<lb n="36"/>wyter ansächent unnd ordnent, das wellennt wir üch
+<lb n="37"/>als unnsern lieben eydtgnossen alle zyt berichten unnd
+<lb n="38"/>zuschryben, dann üch früntlich unnd guten nachbürlichen
+<lb n="39"/>willen zuerzeigen, söllennt ir unns ieder zyt ganntz willig
+<lb n="40"/>erfinden. Datum unnd mit deß frommen wysen unnser
+<lb n="41"/>getrüwen lieben lanndtvogts zu <placeName ref="stadtasg-places-53">Baden</placeName> inn <placeName ref="stadtasg-places-266">Ergöw</placeName> <persName ref="stadtasg-actors-1341" role="testis">Wolff
+<lb break="no" n="42"/>ganng Hersters</persName> von <placeName ref="stadtasg-places-10">Zug</placeName> insigell, in nammen unnser aller
+<lb n="43"/>verschlossen, uff den <origDate when="1548-08-18">XVIII augusti anno etc. XLVIII</origDate>.
+<lb n="44"/>Von stett unnd lannden der <orgName ref="stadtasg-actors-1130" role="issuer">sechs
+<lb n="45"/>ordten</orgName>, namlich <placeName ref="stadtasg-places-32">Zürich</placeName>, <placeName ref="stadtasg-places-13">Bern</placeName>,
+<lb n="46"/><placeName ref="stadtasg-places-69">Lutzern</placeName>, <placeName ref="stadtasg-places-71">Schwytz</placeName>, <placeName ref="stadtasg-places-10">Zug</placeName> unnd
+<lb n="47"/><placeName ref="stadtasg-places-73">Glaruß</placeName>, unnser <orgName ref="stadtasg-actors-750">Eidtgnoschaft</orgName>
+<lb n="48"/>rät und sanndtbotten diser
+<lb n="49"/>zit zu <origPlace ref="stadtasg-places-53">Baden</origPlace> inn <placeName ref="stadtasg-places-266">Ergow</placeName> ver
+<lb break="no" n="50"/>sampt.
+<pb facs="StadtASG_Missive_674_1601.JPG" n="3"/>
+<pb facs="StadtASG_Missive_674_1602.JPG" n="4"/>
+<lb n="51"/>Den frommen fürsichtigen wysenn
+<lb n="52"/><orgName ref="stadtasg-actors-148" role="recipient">bürgermeister unnd rat der statt sant
+<lb n="53"/>Gallen</orgName> unnsern insonnders guten fründen
+<lb n="54"/>unnd getrüwen lieben eydtgnossen.
+</p>
+        </body>
+    </text>
+</TEI>

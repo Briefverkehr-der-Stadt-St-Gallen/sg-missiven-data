@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+  <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00680">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 680</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+<date>2026</date>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_680_1621/1624</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Der Bürgermeister und Verwalter der Hauptmannschaft von Konstanz Hans Muntprat antwortet auf ein Rechtshilfegesuch von Bürgermeister und Rat zu St. Gallen. Der Unternehmer Alexander Payer macht geltend, dass ihm durch die Ehe mit einer Tochter Schlappritzis eine Mitgift in der Höhe von 600 bis 1000 Gulden versprochen wurde. Auf die Bitte von Payers Anwalt Hans Syber von Schaffhausen wird dies nun nach einem Verhör eines Zeugen bei der Heirat bestätigt.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+    <term ref="stadtasg-keywords-21">Rechtshilfe</term>
+    <term ref="stadtasg-keywords-349">Heirat</term>
+    <term ref="stadtasg-keywords-71">Ehe</term>
+    <term ref="stadtasg-keywords-127">Geld</term>
+    <term ref="stadtasg-keywords-525">Gulden</term>
+    <term ref="stadtasg-keywords-336">Zeuge</term>
+    <term ref="stadtasg-keywords-337">Zeugenaussage</term>
+    <term ref="stadtasg-keywords-187">Kundschaft</term>
+    <term ref="stadtasg-keywords-141">Befragung</term>
+    <term ref="stadtasg-keywords-27">Eid</term>
+    <term ref="stadtasg-keywords-252">Prozess</term>
+    <term ref="stadtasg-keywords-314">Anwalt</term>
+    <term ref="stadtasg-keywords-474">Hauptmann</term>
+    <term ref="stadtasg-keywords-432">Verwaltung</term>
+    <term ref="stadtasg-keywords-183">König</term>
+    <term ref="stadtasg-keywords-347">Majestät</term>
+    <term ref="stadtasg-keywords-177">Witwe</term>
+    <term ref="stadtasg-keywords-557">Sekretsiegel</term>
+    <term ref="stadtasg-keywords-82">Tod</term>
+</keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1353">Hans Muntprat</persName> <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName> <placeName ref="stadtasg-places-7">Konstanz</placeName>                    <date>1549-03-06</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Arman Weidenmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-04-27</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_680_1621.JPG" n="1"/>
+<p>
+<lb n="1"/>Den ersamen weysen <orgName ref="stadtasg-actors-148">burgermaister und rath zu sanct
+<lb n="2"/>Gallen</orgName> ennpieten wir <persName ref="stadtasg-actors-1353">Hanns Mundtprat</persName>, romisch kuniglicher magister,
+<lb n="3"/>unnsers aller gnedigisten herren verwalter der hauptmanschafft,
+<lb n="4"/>auch <orgName ref="stadtasg-actors-56">burgermaister und rath der statt Costanz</orgName> unnser
+<lb n="5"/>frünndtlich diennst voran. Unnd daby zuvernemen, das
+<lb n="6"/>an <date when="1549-03-06">heutt</date> dato <persName ref="stadtasg-actors-1354">Hanns Syber</persName> von <placeName ref="stadtasg-places-185">Schafhausen</placeName> als anwaldt
+<lb n="7"/><persName ref="stadtasg-actors-1355">Alexannder Payers</persName> unns fürgepracht hatt, als in der
+<lb n="8"/>rechtverttigung zwüschen ermeltem <persName ref="stadtasg-actors-1355">Payer</persName>, seinem principal<note>fnhd. principal = Veranlasser, Urheber, Auftraggeber.</note>, 
+<lb n="9"/>ains unnd <persName ref="stadtasg-actors-1357">Elßbethen Moserin</persName>, weylandt <persName ref="stadtasg-actors-1358">Herman Schirmers</persName>
+<lb n="10"/>eelich gelassener wittwen, auch <persName ref="stadtasg-actors-1359">Hannsen</persName> und <persName ref="stadtasg-actors-1360">Martin den
+<lb n="11"/>Schirmern</persName>, euwern burgern, anndersthayls vor euch schwebende,
+<lb n="12"/>ime <persName ref="stadtasg-actors-1355">Payer</persName> seinen fürtrag zubeweysen auffgelegt seyge,
+<lb n="13"/>vermag desselben außgangen compaßbrieff<note>Compasbrief = Rechtshilfeersuchen eines Gerichts an das zuständige Gericht um Zeugenvernehmung oder Urteilsvollstreckung, aber auch die Bitte, eine Zeugenvernehmung durch das an sich unzuständige ersuchende Gericht vornehmen oder die Zeugen zum ersuchenden Gericht reisen zu lassen.</note>, in welche
+<lb n="14"/>weysung aber er der verhör unsers lieben rathsfründts
+<lb n="15"/><persName ref="stadtasg-actors-1361">Jochim Brendling</persName> notdürfftig were. Desshalben pitte
+<lb n="16"/>unnd begere er <persName ref="stadtasg-actors-1354">Syber</persName> an statt egerüerten seines principals,
+<lb n="17"/>den selben unnsern rathsfründt solchshalb zuverhoren
+<lb n="18"/>und ime seiner sag unnder glaubhafften scheyn mittzetailen,
+<lb n="19"/>welchem nach und in ansechung, das khundtschafft der war
+<lb break="no" n="20"/>hait nymandts begerenden zuversagen ist. Wir egenanten
+<lb n="21"/>unsern rathsfründt <persName ref="stadtasg-actors-1361" role="testis">Joachim Brendlin</persName> durch unsere ver
+<lb break="no" n="22"/>ordnete by aydts phlichten in diser sachen nyemandts zu
+<lb n="23"/>lieb noch zu layd, frünndtschafft, vinndtschafft, myedt
+<lb n="24"/>unnd gaben hindan gesezt, verhoren lassen, der auch
+<lb n="25"/>auff furgelesenen compaßbrief gesagt hatt, wie hernach
+<lb n="26"/>vermerckht württ.
+<lb n="27"/>Er habe sich nachmal zuerinneren, das er als ain berueffter
+<lb n="28"/>freundt by der abredung oder heurath <persName ref="stadtasg-actors-1355">Alexander Payer</persName>
+<lb n="29"/>unnd die <persName ref="stadtasg-actors-1356">Schlapperizinen</persName> betreffende gewesen, in welcher
+<pb facs="StadtASG_Missive_680_1622.JPG" n="2"/>
+<lb n="30"/>abredung vom heurath gutt, das die <persName ref="stadtasg-actors-1356">Schlapperizin</persName>
+<lb n="31"/>dem <persName ref="stadtasg-actors-1355">Payer</persName> zupringen solt, von tausent guldin, auch
+<lb n="32"/>von sechs hundert guldin geredet ward, das auch
+<lb n="33"/>der partheyen von solchen wegen ausstünden und
+<lb n="34"/>underred hielten, item das von der bezalung solches
+<lb n="35"/>heurathguts meldung gethan ward, ob die bar oder
+<lb n="36"/>nach <persName ref="stadtasg-actors-1362">Othmar Ferbers</persName> tod beschehen solte. Aber
+<lb n="37"/>wie letstlich das heurath gutt beschlossen und was
+<lb n="38"/>fur guetter bestimpt worden, seyge ime zeugen gar
+<lb n="39"/>auß gedachtnus komen, seys auch eben lang, das diß
+<lb n="40"/>sach sich verloffen hab, weyther sege im zeugen diser
+<lb n="41"/>sach halb nitt wüssig.
+<lb n="42"/>Diser sagen welten wir euch uff beger des <persName ref="stadtasg-actors-1354">Sybers</persName>
+<lb n="43"/>zu furderung des rechten under gedachter statt <origPlace ref="stadtasg-places-7">Costanz</origPlace>
+<lb n="44"/>secret berichten. Geben am <origDate when="1549-03-06">VIten tag deß
+<lb n="45"/>monats marty anno etc. XLIX</origDate>.
+<lb n="46"/><persName ref="stadtasg-actors-1353" role="issuer">Johann Mundtprat</persName>, verwalter der
+<lb n="47"/>hauptmanschafft, auch <orgName ref="stadtasg-actors-56" role="issuer">burgermaister
+<lb n="48"/>unnd rath der statt Costannz</orgName>.
+<pb facs="StadtASG_Missive_680_1623.JPG" n="3"/>
+<pb facs="StadtASG_Missive_680_1624.JPG" n="4"/>
+<lb n="49"/>Den ersamen weysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister und rath
+<lb n="50"/>zu sanct Gallen</orgName> unsern lieben und guten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00677">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 677</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+<date>2026</date>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_677_1611/1612</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Konstanz teilen Bürgermeister und Rat zu St. Gallen mit, dass ihnen bekannt sei, dass etliche ihrer Bürger aus ihrer Vorstadt Petershausen, die geschädigt worden seien, sowie andere Leute, die unter falschem Schein vorgeben, geschädigte Konstanzer zu sein, um Hilfe und Almosen nachsuchten. Zur Zeit sei aber die Versorgung in Konstanz sichergestellt, weshalb sie die St. Galler vor solchen betrügerischen Leuten warnen.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+<keywords>
+    <term ref="stadtasg-keywords-624">Vorstadt</term>
+    <term ref="stadtasg-keywords-41">Feuer</term>
+    <term ref="stadtasg-keywords-300">Schaden</term>
+    <term ref="stadtasg-keywords-534">Almosen</term>
+    <term ref="stadtasg-keywords-15">Unterstützung</term>
+    <term ref="stadtasg-keywords-461">Armut</term>
+    <term ref="stadtasg-keywords-539">Bettel</term>
+    <term ref="stadtasg-keywords-496">Betrug</term>
+    <term ref="stadtasg-keywords-301">Lüge</term>
+    <term ref="stadtasg-keywords-95">Warnung</term>
+    <term ref="stadtasg-keywords-346">Versorgung</term>
+</keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-56">Bürgermeister und Rat zu Konstanz</orgName>                    <date>1548-09-11</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Arman Weidenmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-04-22</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_677_1611.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser fründtlich dienst voran ersamen und wysen besonder lieben unnd guoten fründ. Wir werdent bericht,
+<lb n="2"/>das ettliche unnsere burgere uß unnser vorstatt <placeName ref="stadtasg-places-473">Petershusen</placeName>, die in begegnetem unnserm schaden unnd unfal
+<lb n="3"/>verbrent unnd gschediget worden sind, sich (oder doch merthails andere under falschem schyn, als ob sy unserer
+<lb n="4"/>beschedigten und verbrenten lüten sygen) zuo oder umb euch tügen unnd umb handtraichung unnd allmuos
+<lb break="no" n="5"/>en bittint, ir ouch uß christenlichem mitliden unnd erbärmbd inen zehelffen genaigt sygen. Die
+<lb break="no" n="6"/>wyl dann wir die unnsern noch zur zit mit zimlicher unnd nottürftiger narung wol unnd mit trüwen
+<lb n="7"/>fürsehent, so habent wir nit unnderlassen wollen, üch solichs zeberichten, darmit ir unnd die üwern üch
+<lb n="8"/>(ob ir solcher massen wyther angelangt würdent) gebürlich zuohalten wüssen. Dann so ettwarn der uns
+<lb break="no" n="9"/>ern von uns unnderhaltung nit mer beschechen möchte oder wytherer hilff nottürfftig sin werdent, sy
+<lb n="10"/>von uns by euch unnd andern zuo sölchem under gloubhafften schyn gefürderet werden, dann uns
+<lb n="11"/>nit zuo geringer beschwärd gelangt, so ir unnd die üwern von den unnsern oder glich wol von andern
+<lb n="12"/>unnder dem schyn irer also angesuocht unnd uß getrüwem mitliden über gebürende maß beschwärt werden
+<lb n="13"/>sölten. Das wellent guoter wollmainung von unns vermercken. Dann euch unnd
+<lb n="14"/>den üwern in fründtschafft unnd guoter nachpurschafft zedienen, sind wir willig. Datum <origDate when="1548-09-11">XI.
+<lb n="15"/>septembris anno etc. XLVIII</origDate>.
+<lb n="16"/><orgName ref="stadtasg-actors-56" role="issuer">Burgermaister und rat
+<lb n="17"/>der statt Costantz</orgName>.
+<pb facs="StadtASG_Missive_677_1612.JPG" n="2"/>
+<lb n="18"/>Den ersamen unnd wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermaister
+<lb n="19"/>unnd rat zuo sant Gallen</orgName> unnsern
+<lb n="20"/>lieben und guoten fründen.
+</p>
+        </body>
+    </text>
+</TEI>

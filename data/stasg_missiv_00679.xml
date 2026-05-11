@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00679">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 679</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+<date>2026</date>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_679_1617/1620</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Die in Baden versammelten zehn Orte der Eidgenossenschaft bitten Bürgermeister und Rat zu St. Gallen, dass ihr alt Bürgermeister Joachim von Watt als Obmann in der Streitsache um die Strafe der Reisläufer der Landgrafschaft Thurgau zwischen den sieben Orten Zürich, Luzern, Uri, Schwyz, Unterwalden, Zug und Glarus einerseits und den drei Orten Bern, Freiburg und Solothurn andererseits vermittelt. Bei einer Zusage würden sie alle Prozessunterlagen zustellen. Sie bitten um eine schriftliche Antwort mit diesem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+<keywords>
+    <term ref="stadtasg-keywords-22">Konflikt</term>
+    <term ref="stadtasg-keywords-340">Rechtsstreit</term>
+    <term ref="stadtasg-keywords-254">Söldner</term>
+    <term ref="stadtasg-keywords-107">Strafe</term>
+    <term ref="stadtasg-keywords-60">Schiedsgericht</term>
+    <term ref="stadtasg-keywords-25">Gericht</term>
+    <term ref="stadtasg-keywords-204">Richter</term>
+    <term ref="stadtasg-keywords-120">Vermittlung</term>
+    <term ref="stadtasg-keywords-103">Urteil</term>
+    <term ref="stadtasg-keywords-252">Prozess</term>
+    <term ref="stadtasg-keywords-481">Prozessakte</term>
+    <term ref="stadtasg-keywords-24">Klage</term>
+    <term ref="stadtasg-keywords-444">Kläger</term>
+    <term ref="stadtasg-keywords-187">Kundschaft</term>
+    <term ref="stadtasg-keywords-328">Eidgenössischer Abschied</term>
+    <term ref="stadtasg-keywords-39">Vertrag</term>
+    <term ref="stadtasg-keywords-364">Tagsatzung</term>
+    <term ref="stadtasg-keywords-165">Altbürgermeister</term>
+    <term ref="stadtasg-keywords-368">Schultheiss</term>
+    <term ref="stadtasg-keywords-319">Landvogt</term>
+    <term ref="stadtasg-keywords-449">Landschreiber</term>
+    <term ref="stadtasg-keywords-557">Sekretsiegel</term>
+    <term ref="stadtasg-keywords-21">Rechtshilfe</term>
+    <term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+    <term ref="stadtasg-keywords-9">Bote</term>
+    <term ref="stadtasg-keywords-27">Eid</term>
+</keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-1156">Zehn Orte der Eidgenossenschaft</orgName><placeName ref="stadtasg-places-53">Baden</placeName>                    <date>1549-02-26</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Arman Weidenmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-04-22</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_679_1617.JPG" n="1"/>
+<p>
+<lb n="1"/>Unnser frünntlich willig diennst unnd was
+<lb n="2"/>wir eeren liebs und guots vermögen alle zyt be
+<lb break="no" n="3"/>reit zuovor fromm fürsichtig ersam wyß innsonnders
+<lb n="4"/>guott frünnd unnd getrüw lieb eidtgnossen. Es
+<lb n="5"/>hatt sich ettwas spans zwüschent den gestrenngen
+<lb n="6"/>frommen vesten fürsichtigen ersamen wysen unnsern
+<lb n="7"/>gnedigen günnstigen lieben herren unnd gethrüwen
+<lb n="8"/>lieben eidtgnossen der <orgName ref="stadtasg-actors-1124">siben ordten</orgName>, namlich <placeName ref="stadtasg-places-32">Zürich</placeName>,
+<lb n="9"/><placeName ref="stadtasg-places-69">Lutzern</placeName>, <placeName ref="stadtasg-places-70">Ury</placeName>, <placeName ref="stadtasg-places-71">Schwytz</placeName>, <placeName ref="stadtasg-places-72">Unnderwallden</placeName>, <placeName ref="stadtasg-places-10">Zug</placeName>
+<lb n="10"/>unnd <placeName ref="stadtasg-places-73">Glarus</placeName> deß einen, unnd <placeName ref="stadtasg-places-13">Bern</placeName>, <placeName ref="stadtasg-places-197">Fryburg</placeName>
+<lb n="11"/>unnd <placeName ref="stadtasg-places-49">Solothurn</placeName> annders theils zuogethragenn,
+<lb n="12"/>anträffende die reiß straffen inn der lanndt
+<lb break="no" n="13"/>graffschafft <placeName ref="stadtasg-places-103">Thurgöw</placeName> gevallennt etc.
+<lb n="14"/>Darumb dann sy nach lut unnd sorg iren der <orgName ref="stadtasg-actors-1156">zechen
+<lb n="15"/>ordten</orgName> geschwornen punndts zuo rechte kommen unnd
+<lb n="16"/>die obgemellten unnser herren unnd lieb eidtgnossen
+<lb n="17"/>von den dryen stetten <placeName ref="stadtasg-places-13">Bern</placeName>, <placeName ref="stadtasg-places-197">Fryburg</placeName> unnd
+<lb n="18"/><placeName ref="stadtasg-places-49">Solothurn</placeName> alls klegere die frommen fürsichtigen
+<lb n="19"/>wysen <persName ref="stadtasg-actors-1349">Ulrichen Nichts</persName>, des rats zuo <placeName ref="stadtasg-places-197">Fryburg</placeName>,
+<lb n="20"/>unnd <persName ref="stadtasg-actors-1350">Cuonratten Graffen</persName>, deß rats zuo <placeName ref="stadtasg-places-49">Solothurn</placeName>,
+<lb n="21"/>unnd die obgemellten unnser herren unnd lieb
+<lb n="22"/>eydtgnossen von den <orgName ref="stadtasg-actors-1124">siben ordten</orgName> die frommen
+<lb n="23"/>vesten fürsichtigen wysen <persName ref="stadtasg-actors-1351">Hannsen Bircher</persName>,
+<lb n="24"/>schulltheiß der statt <placeName ref="stadtasg-places-69">Lutzern</placeName>, unnd <persName ref="stadtasg-actors-1352">Jacoben
+<lb n="25"/>Aapro</persName>, deß rats zuo <placeName ref="stadtasg-places-70">Ury</placeName>, für richtere unnd
+<lb n="26"/>zuo sätz inn das recht gesetzt. Unnd alls
+<pb facs="StadtASG_Missive_679_1618.JPG" n="2"/>
+<lb n="27"/>die selben beid parthyen inn irer klag, ant
+<lb break="no" n="28"/>wurt, red, widerred ingelegter kunndtschafften,
+<lb n="29"/>brieffen, abschieden nach der lennge gegen unnd
+<lb n="30"/>wider einanndern verhört unnd nachgethanem
+<lb n="31"/>rechtsatz sinnd die vier obgemellten richter unnd zuo
+<lb n="32"/>sätz inn irer urtheil zerfallen unnd sich glych getheilt,
+<lb n="33"/>deshalb die obgemellten vier richter unnd zuo sätz nach
+<lb n="34"/>lut unnd sag unnserer herren der <orgName ref="stadtasg-actors-1156">zechen ordten</orgName>
+<lb n="35"/>geschwornen pünndt, der inn einem artickell
+<lb n="36"/>also wysen ist. Unnd ob sich die vier glych
+<lb n="37"/>teyltent, so söllennd sy by denn selben irenn eiden
+<lb n="38"/>innwenndig unnser <orgName ref="stadtasg-actors-750">Eidtgnoschafft</orgName> einen gemeinen
+<lb n="39"/>man, der sy inn der sach gemein unnd fromm be
+<lb break="no" n="40"/>duncke, angenndts zuo inen kiesen unnd nemmen,
+<lb n="41"/>der selb soll alls dann durch sine herren unnd obern
+<lb n="42"/>gewisen werden, sich mit den vieren der sach
+<lb n="43"/>anzuonemmen unnd mitt sinem eide zuo verbinden,
+<lb n="44"/>söllig sachenn mitt den vieren fürderlichen wie
+<lb n="45"/>obstat ußzuorichten. Deßhalb sy die obgemellten
+<lb n="46"/>vier richtere unnd zuo sätz den hochgeleerten frommen
+<lb n="47"/>fürsichtigen wysen herren <persName ref="stadtasg-actors-1203">Joachimen von Watt</persName>,
+<lb n="48"/>doctor, üwern allten burgermeister, zuo einem
+<lb n="49"/>obman unnd fünffman zuo inen erkießen,
+<lb n="50"/>erwellt unnd genommen. Harumb so ist an üch
+<lb n="51"/>unnser frünntlich unnd geflissen pitt, ir
+<pb facs="StadtASG_Missive_679_1619.JPG" n="3"/>
+<lb n="52"/>wellend gedachten herren doctorn <persName ref="stadtasg-actors-1203">von Watt</persName>
+<lb n="53"/>darzuo hallten unnd dahin wysen, das er sich diser
+<lb n="54"/>sach mitt den obgenannten vier zuo sätzen annemme,
+<lb n="55"/>belad unnd unnderwinnde nach lut unnd saz
+<lb n="56"/>obgemellts punndts, so wirt in unnser lanndt
+<lb break="no" n="57"/>schryber zuo <placeName ref="stadtasg-places-53">Baden</placeName>, <persName ref="stadtasg-actors-1348">Caspar Bodmer</persName> (so inn diser
+<lb n="58"/>sach der gemein schryber gewesen), aller rechtlichen
+<lb n="59"/>process sampt der vier richtern gegebnen ur
+<lb break="no" n="60"/>theylen, inn geschrifft zuo stellen unnd überant
+<lb break="no" n="61"/>wurtten. Deshalb wellennd üch harinne
+<lb n="62"/>nach unnserm sonndern vertruwen bewysenn
+<lb n="63"/>unnd unns harüber üwer schrifftlich anntwurt
+<lb n="64"/>by disem unnserm darumb gesanndten botten
+<lb n="65"/>zuo schicken, damit wir unns dester fürer darnach
+<lb n="66"/>wüssen zuo halltten. Das begerennd wir umb
+<lb n="67"/>üch inn derglychen meeren unnd minndern sachen
+<lb n="68"/>alle zyt ganntz willig zuo verdienen. Datum
+<lb n="69"/>unnd mit deß fromen wysen unnsers gethrüwen
+<lb n="70"/>lieben lanndtvogts zuo <placeName ref="stadtasg-places-53">Badenn</placeName> inn <placeName ref="stadtasg-places-266">Ergöw</placeName>, <persName ref="stadtasg-actors-1341" role="testis">Wolff
+<lb break="no" n="71"/>ganng Härsters</persName> von <placeName ref="stadtasg-places-10">Zug</placeName> insigell innamen
+<lb n="72"/>unnser aller verschlossen uff den <origDate when="1549-02-26">XXVI. tag
+<lb n="73"/>februarii anno etc. XLVIIIIo</origDate>.
+<lb n="74"/>Von <orgName ref="stadtasg-actors-1156" role="issuer">sttett unnd landen der
+<lb n="75"/>obgemellten zechen ordten unnser
+<lb n="76"/>Eidtgnoschafft rätt unnd sänndt
+<lb break="no" n="77"/>botten</orgName> diser zyt zuo <origPlace ref="stadtasg-places-53">Baden</origPlace> inn
+<lb n="78"/><placeName ref="stadtasg-places-266">Ergöw</placeName> versampt.
+<pb facs="StadtASG_Missive_679_1620.JPG" n="4"/>
+<lb n="79"/>Dem frommen fürsichtigen ersammen
+<lb n="80"/>wysen <orgName ref="stadtasg-actors-148" role="recipient">burgermeister unnd
+<lb n="81"/>rath der statt sannt Gallen</orgName>
+<lb n="82"/>unnsern innsonnders guotten fründen
+<lb n="83"/>unnd gethrüwen lieben eidt
+<lb break="no" n="84"/>gnossen.
+</p>
+        </body>
+    </text>
+</TEI>

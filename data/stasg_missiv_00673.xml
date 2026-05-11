@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00673">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 673</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+<date>2026</date>
+            </publicationStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_673_1595/1596</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Bürgermeister und Rat zu Radolfzell antworten Bürgermeister und Rat zu St. Gallen auf einen Brief bezüglich der St. Galler Getreidehändler, die ihren Wochenmarkt besuchen. Die Radolfzeller teilen mit, dass sie sich nicht erinnern könnten, dass die vom Kaiser mit Konstanz in Verbindung stehende Sache etwas mit ihnen oder den St. Gallern zu tun habe. Die Radolfzeller werden jeweils am Dienstag beginnend mit dem 14. August und wie vor der Zeit des Aufruhrs den Wochenmarkt abhalten. Zum Besuch des Marktes sind die St. Galler ohne Beschränkung der Anzahl und wie vor dem Aufruhr eingeladen. Es sei auch kein Kriegsvolk mehr vorhanden.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+    <term ref="stadtasg-keywords-631">Wochenmarkt</term>
+    <term ref="stadtasg-keywords-143">Markt</term>
+    <term ref="stadtasg-keywords-145">Kornmarkt</term>
+    <term ref="stadtasg-keywords-144">Getreide</term>
+    <term ref="stadtasg-keywords-440">Korn</term>
+    <term ref="stadtasg-keywords-441">Kornkauf</term>
+    <term ref="stadtasg-keywords-613">Fürkauf</term>
+    <term ref="stadtasg-keywords-180">Kaufmann</term>
+    <term ref="stadtasg-keywords-91">Handel</term>
+    <term ref="stadtasg-keywords-346">Versorgung</term>
+    <term ref="stadtasg-keywords-147">Kaiser</term>
+    <term ref="stadtasg-keywords-347">Majestät</term>
+    <term ref="stadtasg-keywords-600">Aufruhr</term>
+    <term ref="stadtasg-keywords-214">Krieg</term>
+    <term ref="stadtasg-keywords-254">Söldner</term>
+</keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <orgName ref="stadtasg-actors-508">Bürgermeister und Rat zu Radolfzell</orgName>                    <date>1548-08-12</date>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName ref="stadtasg-actors-148">Bürgermeister und Rat zu St. Gallen</orgName><placeName ref="stadtasg-places-38">St. Gallen</placeName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Arman Weidenmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-04-22</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_673_1595.JPG" n="1"/>
+<p>
+<lb n="1"/>Vesst fürsichtig ersam und wys besonnder lieb herrn und guten fründt unnser fründtlich willig diennst auch was
+<lb n="2"/>wir liebs und guts vermögen syen ewer ersam wyshait alzit berait zuvor. Wir haben derselben schreiben, unns by
+<lb n="3"/>disem irem botten überschickt, belanngent haltung unnsers wochenmarckts und besuchung desselben durch ewer
+<lb n="4"/>wyshait burger korngrempler gewerb, irer alles merern innhalts vernomen, und geben ewer ersamen wyshait wir
+<lb n="5"/>hiemit bericht, das wir unns nit erinnern künden, das das ihenig, so die römisch kayserliche maiestet<note>Gemeint ist <persName ref="stadtasg-actors-1229">Karl V.</persName>.</note> irer, unnser allergnedig
+<lb break="no" n="6"/>ister herr mit der stat <placeName ref="stadtasg-places-7">Costanntz</placeName> zuthun, weder euch noch unns belanng. Wir sind auch von unnser oberkait ver
+<lb break="no" n="7"/>bunden und für unns selbs sunder begirt, ewer ersam lieb den irn und allen, so usser ainer <orgName ref="stadtasg-actors-750">Aidtgnosschafft</orgName> zu und
+<lb n="8"/>von unns wanndlen, er, liebs und guts zubeweisen und der erbainigung zwüschen ainer <orgName ref="stadtasg-actors-750">Aidtgnosschafft</orgName> und dem
+<lb n="9"/><orgName ref="stadtasg-actors-557">hus Österrich</orgName>, wölhem wir on mitl zugethon, gemes zuhalten. Darumb so werden wir ietz <date when="1548-08-14">zinstags</date> und füro bis zu
+<lb n="10"/>swerlicher begegnung, darvor unns got verhut, unnsere wochenmärckt halten wie von alter her. Es mögen auch
+<lb n="11"/>ewer ersam wyshait zugethon korngrempler den mit der anzal, wie inen geliept und vor verlofner uffrur von
+<lb n="12"/>in auch beschehen, besuchen, denen wir auch wie bisher alle fürderung, er, diennst, lieb und guts beweisen wöllen,
+<lb n="13"/>dess söllen sy sich zu unns und den unnsern versehen. Es ist auch in diser art umb und by unns dhain welsch kriegsvolgkh
+<lb n="14"/>mer, doch wolten ewer ersam wyshait wir derselben uff ir zuschriben zur antwurt nit verhallten, unns hiemit
+<lb n="15"/>zu derselben diennsten und nachpurschafft iederzit sonder wolgenaigt und willig erpiettendt. Datum den <origDate when="1548-08-12">zwölften
+<lb n="16"/>augusti anno etc. XLVIII</origDate>.
+<lb n="17"/><orgName ref="stadtasg-actors-508" role="issuer">Burgermaister und rate
+<lb n="18"/>zu Ratolffzell</orgName>.
+<pb facs="StadtASG_Missive_673_1596.JPG" n="2"/>
+<lb n="19"/>Den vessten fürsichtigen ersamen und wysen <orgName ref="stadtasg-actors-148" role="recipient">burger
+<lb break="no" n="20"/>maister und rate der statt zu sanndt Gallen</orgName>
+<lb n="21"/>unnsern besonndern lieben herren und guten
+<lb n="22"/>fründen.
+</p>
+        </body>
+    </text>
+</TEI>

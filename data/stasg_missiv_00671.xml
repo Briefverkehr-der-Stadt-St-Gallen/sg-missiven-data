@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="stasg_missiv_00671">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>StadtASG Missive, Nr. 671</title>            </titleStmt>
+            <publicationStmt>
+                <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
+<date>2026</date>
+            </publicationStmt>
+            <notesStmt><note><p>Die genauen Adressaten sind nicht identifizierbar, es handelt sich um einen offenen Brief.</p></note></notesStmt>
+                        <sourceDesc>
+                <msDesc type="missiv">                    <msIdentifier>
+                        <idno>StadtASG Missive_671_1589/1592</idno>
+                    </msIdentifier>
+                    <physDesc>
+                        <objectDesc>
+                            <supportDesc>
+                                <support>Papier</support>
+                            </supportDesc>
+                        </objectDesc>
+                    </physDesc>
+                </msDesc>
+                            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <abstract>
+                <p>Michael von Landenberg, Vogt in Güttingen, berichtet an Vettern, Schwäger und Freunde über Kriegsknechte, die in der Landgrafschaft Thurgau sesshaft sind, welche versucht haben, sich dem Schmalkaldischen Bund anzuschliessen. Damit haben sie sich einem eidgenössischen Verbot widersetzt und sollen eine Busse bezahlen. Landenberg verlangt die Zusendung des Bussgeldes und bittet um eine schriftliche Mitteilung, wer wieviel zusenden wird. Er bittet zudem um eine schriftliche Mitteilung mit diesem Boten.</p>            </abstract>
+            <langUsage>
+                <language ident="deu">Deutsch</language>            </langUsage>
+            <textClass>
+                <keywords>
+<term ref="stadtasg-keywords-254">Söldner</term>
+<term ref="stadtasg-keywords-344">Solddienst</term>
+<term ref="stadtasg-keywords-364">Tagsatzung</term>
+<term ref="stadtasg-keywords-25">Gericht</term>
+<term ref="stadtasg-keywords-263">Vogt</term>
+<term ref="stadtasg-keywords-327">Waffe</term>
+<term ref="stadtasg-keywords-100">Busse</term>
+<term ref="stadtasg-keywords-418">Landgrafschaft</term>
+<term ref="stadtasg-keywords-319">Landvogt</term>
+<term ref="stadtasg-keywords-123">Untertan</term>
+<term ref="stadtasg-keywords-557">Sekretsiegel</term>
+<term ref="stadtasg-keywords-17">Schriftliche Antwort</term>
+<term ref="stadtasg-keywords-214">Krieg</term>
+                </keywords>
+            </textClass>
+            <correspDesc>
+                <correspAction type="sent">
+                    <!-- absender kann natuerlich auch mit orgName getaggt sein -->
+                    <persName ref="stadtasg-actors-1326">Michael von Landenberg</persName>                    <date>1548-05-30</date>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="stadtasg-actors-603">NN</persName>                </correspAction>
+            </correspDesc>
+        </profileDesc>
+        <revisionDesc>
+            <!-- eg. open, done, approved -->
+            <change type="transcription" status="approved">
+                <persName>Arman Weidenmann</persName>
+                <date>2023-07-27</date>
+            </change>
+            <change type="tagging" status="done">
+                <persName>Alina Mächler</persName>
+                <date>2026-04-15</date>
+            </change>
+        </revisionDesc>
+
+    </teiHeader>
+    <text>
+        <body>
+            <pb facs="StadtASG_Missive_671_1589.JPG" n="1"/>
+<p>
+<lb n="1"/>Erwirdig wirdig edel from vest fürsichtig wyß
+<lb n="2"/>günstig lieb herrn vetternn schwäger und guot
+<lb n="3"/>fründ dennen die diße offne messiff zuo kumpt und
+<lb n="4"/>erschaint wirdet empüt ich <persName ref="stadtasg-actors-1326" role="issuer">Michel von Landen
+<lb break="no" n="5"/>berg</persName> vogt zuo <placeName ref="stadtasg-places-377">Güttingen</placeName> minen früntlichen unnd
+<lb n="6"/>gantz willigen dienst zuovoran. Demnach wie üch al
+<lb break="no" n="7"/>len und am ieden insonders in guotem wissen ist, wellicher
+<lb n="8"/>maßen etlich knecht, so in der landtgraffschaft <placeName ref="stadtasg-places-103">Thur
+<lb break="no" n="9"/>göw</placeName> und in üweren nideren grichten säss und wonn
+<lb break="no" n="10"/>haft sind, über alle verbott miner gnädigen herren der
+<lb n="11"/>aidtgnossen vor eticher zitt über see hinus zuo dem
+<lb n="12"/>schmackhaldischen punt gezogen sind, dardurch innen
+<lb n="13"/>dan von minen gnädigen herren und obern den aidtgnos
+<lb break="no" n="14"/>sen ir eer und gwer genomen worden ist, dardurch sy, die
+<lb n="15"/>kriegßlüt, verursacht worden sind, min hern landtvogt
+<lb n="16"/>ouch die grichts herren und ander personen der landtgraf
+<lb break="no" n="17"/>schafft <placeName ref="stadtasg-places-103">Thurgöw</placeName> gantz flissig anrüffen und bitten hab
+<lb break="no" n="18"/>en lassen, innen gegen minen gnedigen herren den aidt
+<lb break="no" n="19"/>gnossen bittlicher mainung uff irnn costen beraten und
+<lb n="20"/>beholffen zuo sin, damit innen den gmainen knechten
+<lb n="21"/>ir eer unnd gwere wider gegeben und zuo gstelt werde.
+<lb n="22"/>Daß nun uff ir, der kriegß lütten, anrüffen und begeren durch
+<lb n="23"/>min herr landtvogt unnd andere eerenlüt vermug
+<lb n="24"/>unnd innhalt aines abschaidß darumb uff ain tag zuo
+<lb n="25"/><placeName ref="stadtasg-places-53">Baden</placeName> erlangt, beschehen unnd vollstreckt worden ist,
+<lb n="26"/>diewil dann minem hern landtvogt und andren eeren
+<lb break="no" n="27"/>lütten, die mit ime, dem landtvogt, zuo tagen vor mi
+<lb break="no" n="28"/>nen gnedigen herren den aidtgnossen erschinen sind, ain
+<lb n="29"/>kost uff gelouffen ist, so hat min herr landtvogtt
+<pb facs="StadtASG_Missive_671_1590.JPG" n="2"/>
+<lb n="30"/>sich mit den verordnetten der gricht heren der landtgraf
+<lb break="no" n="31"/>schafft <placeName ref="stadtasg-places-103">Thurgow</placeName> veranbaret, das ain knecht in andern und
+<lb n="32"/>ain ieder in sunderhait so über die verbott sich ungehor
+<lb break="no" n="33"/>sam erschaint haben söllen, an dem obernemptten costen
+<lb n="34"/>geben und erlegen ain batzen <placeName ref="stadtasg-places-7">costantzer</placeName> werung, unnd
+<lb n="35"/>sölle ouch ain ieder grichts herr das selbig von sinen
+<lb n="36"/>underthonnen und grichtsgehörigen fürderlich und onne
+<lb n="37"/>verzug durch sine amptlüt güttlich, wo aber dasselbig
+<lb n="38"/>nit versahen, mit sinen botten inziechen lassen. Eß sölle
+<lb n="39"/>ouch der dienst knechten, die glichsfals über die pott
+<lb n="40"/>sich ungehorsam erschaint haben, nit verschont werden.
+<lb n="41"/>Und so söllich gelt in gepracht unnd erlait wirt, so soll
+<lb n="42"/>mir das selbig von üch zugeschickt und überantwurt
+<lb n="43"/>werden. Darnebend bit ich, ir wellen wie vil mir ain
+<lb n="44"/>ieder zuo schicken thuot, deß selbigen in schrifft ain wüs
+<lb break="no" n="45"/>sen machen. Derhalb ist an üch sampt unnd sonders
+<lb n="46"/>der verordnetten von grichts herren früntlich begeren
+<lb n="47"/>und min gantz dienstlich bitt, ir wellen in diser sach
+<lb n="48"/>onne beschwert sin, sonders üch früntlich und guot
+<lb break="no" n="49"/>willig erzaigen, daß werden die verordnetten von grichts
+<lb n="50"/>herren und ich mit inen umb üch sampt und sonders
+<lb n="51"/>ieder zit gantz früntlich beschulden und verdienen. Und
+<lb n="52"/>wie wol ich mich kains abschlags zuo üch allen vesich,
+<lb n="53"/>so ist dannocht min gantz dientstlich bitt, eß welle
+<lb n="54"/>mir ain ieder insunderhait sin geschriftlich antwurt
+<lb n="55"/>by disem botten zuoschicken. Datum und mit minem
+<lb n="56"/>secrett fürgetruckt uff den <origDate when="1548-05-30">XXX tag may
+<lb n="57"/>im XLVIII</origDate>.
+<pb facs="StadtASG_Missive_671_1591.JPG" n="3"/>
+<pb facs="StadtASG_Missive_671_1592.JPG" n="4"/>
+<lb n="58"/><persName ref="stadtasg-actors-1326">Michel von Landenbergß</persName>
+<lb n="59"/>sandtbrieff
+<lb n="60"/><date when="1548">1548</date>.
+</p>
+        </body>
+    </text>
+</TEI>
