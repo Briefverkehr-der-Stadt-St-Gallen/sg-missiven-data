@@ -18,12 +18,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2026-04-28 12:57:45 aus </p>
+        <p>Datenbankexport vom 2026-05-11 10:47:50 aus </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2026-04-28T12:57:45+02:00">teiHeader was automatically produced from the database 2026-04-28T12:57:45+02:00</change>
+      <change when="2026-05-11T10:47:50+02:00">teiHeader was automatically produced from the database 2026-05-11T10:47:50+02:00</change>
     </revisionDesc>
   </teiHeader>
   <standOff>
@@ -14978,7 +14978,7 @@
         <persName type="alternative" xml:lang="de">Henrico der achte</persName>
         <birth when="1544-06-18"/>
         <note type="description" xml:lang="de">
-          <p>König von England (1509-1547)</p>
+          <p>König von England (1509-1547), verstorben (1549), Vater von <ref target="/actors/1363">Eduard VI.</ref></p>
         </note>
         <listBibl>
           <bibl>
@@ -18902,7 +18902,7 @@
         <persName type="sort" xml:lang="de">studer, joseph</persName>
         <birth when="1548-08-18"/>
         <note type="description" xml:lang="de">
-          <p>Lebensdaten: 1524-1572, Sohn von <ref target="/actors/488">Franziskus Studer</ref>; Siehe Schweizer Archiv für Heraldik. Jahrbuch. Band 94 (1980), S. 49-58</p>
+          <p>Lebensdaten: 1524-1572, Sohn von <ref target="/actors/488">Franziskus Studer</ref>; Siehe auch: Schweizer Archiv für Heraldik. Jahrbuch. Band 94 (1980), S. 49-58</p>
         </note>
       </person>
       <person xml:id="stadtasg-actors-1343">
@@ -18986,6 +18986,14 @@
         <note type="description" xml:lang="de">
           <p>Schultheiss in Luzern (1549)</p>
         </note>
+        <listBibl>
+          <bibl>
+            <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q106999835"/>
+          </bibl>
+          <bibl>
+            <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/014095"/>
+          </bibl>
+        </listBibl>
       </person>
       <person xml:id="stadtasg-actors-1352">
         <persName type="full" xml:lang="de">Apro, Jakob (1549–)</persName>
@@ -19087,6 +19095,223 @@
         <birth when="1549-03-06"/>
         <note type="description" xml:lang="de">
           <p>verstorben (1549)</p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1363">
+        <persName type="full" xml:lang="de">Eduard VI. (England) (1549–)</persName>
+        <persName type="main" xml:lang="de">Eduard VI. (England)</persName>
+        <persName type="sort" xml:lang="de">eduard vi. (england)</persName>
+        <persName type="alternative" xml:lang="de">Edwardus sextus</persName>
+        <persName type="variant" xml:lang="de">Edward</persName>
+        <birth when="1549-10-20"/>
+        <note type="description" xml:lang="de">
+          <p>König von England und Irland (1547–1553), Sohn von <ref target="/actors/1121">Heinrich VIII.</ref></p>
+        </note>
+        <listBibl>
+          <bibl>
+            <ptr type="gnd" target="https://d-nb.info/gnd/118687891"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q83229"/>
+          </bibl>
+          <bibl>
+            <ptr type="bnf" target="https://catalogue.bnf.fr/ark:/12148/cb13539843q"/>
+          </bibl>
+          <bibl>
+            <ptr type="idref" target="https://www.idref.fr/050705121"/>
+          </bibl>
+          <bibl>
+            <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/biography/Edward-VI"/>
+          </bibl>
+          <bibl>
+            <ptr type="oxford-dnb" target="https://www.oxforddnb.com/view/article/8522"/>
+          </bibl>
+          <bibl>
+            <ptr type="ddb" target="https://www.deutsche-digitale-bibliothek.de/person/gnd/118687891"/>
+          </bibl>
+          <bibl>
+            <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/118687891.html"/>
+          </bibl>
+          <bibl>
+            <ptr type="mcclintock-and-strong-biblical-cyclopedia" target="https://www.biblicalcyclopedia.com/E/edward-vi.html"/>
+          </bibl>
+          <bibl>
+            <ptr type="kalliope-verbund" target="https://kalliope-verbund.info/gnd/118687891"/>
+          </bibl>
+          <bibl>
+            <ptr type="lcnaf" target="https://id.loc.gov/authorities/n50024444"/>
+          </bibl>
+          <bibl>
+            <ptr type="viaf" target="https://viaf.org/viaf/67259838"/>
+          </bibl>
+          <bibl>
+            <ptr type="rag" target="https://resource.database.rag-online.org/ngOE2V779OW59dkAiOXd2"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Eduard_VI."/>
+          </bibl>
+          <bibl>
+            <ptr type="metagrid" target="https://api.metagrid.ch/concordance/xt75GnYBUPOEfqBYvuQ0.json"/>
+          </bibl>
+          <bibl>
+            <ptr type="bullinger" target="https://www.bullinger-digital.ch/persons/P3207"/>
+          </bibl>
+        </listBibl>
+      </person>
+      <person xml:id="stadtasg-actors-1364">
+        <persName type="full" xml:lang="de">Vannes, Peter (1549–)</persName>
+        <persName type="main" xml:lang="de">Vannes, Peter</persName>
+        <persName type="sort" xml:lang="de">vannes, peter</persName>
+        <persName type="alternative" xml:lang="de">Petrus</persName>
+        <birth when="1549-10-20"/>
+        <note type="description" xml:lang="de">
+          <p>Lateinischer Sekretär der englischen Krone unter <ref target="/actors/1121">Heinrich VIII.</ref> und <ref target="/actors/1363">Eduard VI.</ref></p>
+        </note>
+        <listBibl>
+          <bibl>
+            <ptr type="gnd" target="https://d-nb.info/gnd/1348052570"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q19045721"/>
+          </bibl>
+          <bibl>
+            <ptr type="metagrid" target="https://api.metagrid.ch/concordance/RD3E2ZYBLhD-HNmsJqAQ.json"/>
+          </bibl>
+          <bibl>
+            <ptr type="clergy-of-the-church-of-england-database-(cced)" target="https://theclergydatabase.org.uk/jsp/persons/CreatePersonFrames.jsp?PersonID=8848"/>
+          </bibl>
+        </listBibl>
+      </person>
+      <person xml:id="stadtasg-actors-1365">
+        <persName type="full" xml:lang="de">Mont, Christopher (1549–)</persName>
+        <persName type="main" xml:lang="de">Mont, Christopher</persName>
+        <persName type="sort" xml:lang="de">mont, christopher</persName>
+        <persName type="alternative" xml:lang="de">Christopherus</persName>
+        <birth when="1549-10-20"/>
+        <note type="description" xml:lang="de">
+          <p>Gesandter der englischen Krone</p>
+        </note>
+        <listBibl>
+          <bibl>
+            <ptr type="gnd" target="https://d-nb.info/gnd/1068771844"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q5112895"/>
+          </bibl>
+          <bibl>
+            <ptr type="oxford-dnb" target="https://www.oxforddnb.com/view/article/18994"/>
+          </bibl>
+          <bibl>
+            <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/1068771844.html"/>
+          </bibl>
+          <bibl>
+            <ptr type="kalliope-verbund" target="https://kalliope-verbund.info/gnd/1068771844"/>
+          </bibl>
+          <bibl>
+            <ptr type="viaf" target="https://viaf.org/viaf/315523758"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Christopher%20Mont"/>
+          </bibl>
+          <bibl>
+            <ptr type="metagrid" target="https://api.metagrid.ch/concordance/R50nG3YBBhcBnYQeJWFU.json"/>
+          </bibl>
+          <bibl>
+            <ptr type="bullinger" target="https://www.bullinger-digital.ch/persons/P8121"/>
+          </bibl>
+        </listBibl>
+      </person>
+      <person xml:id="stadtasg-actors-1366">
+        <persName type="full" xml:lang="de">Wunderlich, Hans (1549–)</persName>
+        <persName type="main" xml:lang="de">Wunderlich, Hans</persName>
+        <persName type="sort" xml:lang="de">wunderlich, hans</persName>
+        <persName type="alternative" xml:lang="de">Merveilleux, Jean</persName>
+        <birth when="1549-06-30"/>
+        <note type="description" xml:lang="de">
+          <p>Bereits sein Grossvater französierte seinen Namen und nannte sich fortan Merveilleux.</p>
+        </note>
+        <listBibl>
+          <bibl>
+            <ptr type="metagrid" target="https://api.metagrid.ch/concordance/zFooG3YBUPOEfqBYNsoB.json"/>
+          </bibl>
+          <bibl>
+            <ptr type="histhub" target="https://data.histhub.ch/person/11448386"/>
+          </bibl>
+          <bibl>
+            <ptr type="gnd" target="https://d-nb.info/gnd/1074371518"/>
+          </bibl>
+          <bibl>
+            <ptr type="hfls" target="http://www.hfls.ch/humo-gen/family/1/F21081?main_person=I62679"/>
+          </bibl>
+          <bibl>
+            <ptr type="viaf" target="http://viaf.org/viaf/316775182"/>
+          </bibl>
+          <bibl>
+            <ptr type="bullinger" target="https://www.bullinger-digital.ch/persons/P8519"/>
+          </bibl>
+          <bibl>
+            <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/015644/"/>
+          </bibl>
+        </listBibl>
+      </person>
+      <person xml:id="stadtasg-actors-1367">
+        <persName type="full" xml:lang="de">Hug, Hans (1549–)</persName>
+        <persName type="main" xml:lang="de">Hug, Hans</persName>
+        <persName type="sort" xml:lang="de">hug, hans</persName>
+        <persName type="alternative" xml:lang="de">Hugen von Luzern</persName>
+        <birth when="1549-06-30"/>
+        <note type="description" xml:lang="de">
+          <p>Wohn/Herkunftsort: Luzern, Schultheiss (1548) und Altschultheiss (1549) in Luzern</p>
+        </note>
+        <listBibl>
+          <bibl>
+            <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q114709452"/>
+          </bibl>
+          <bibl>
+            <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/014157"/>
+          </bibl>
+        </listBibl>
+      </person>
+      <person xml:id="stadtasg-actors-1368">
+        <persName type="full" xml:lang="de">Keller, Lienhard (1549–)</persName>
+        <persName type="main" xml:lang="de">Keller, Lienhard</persName>
+        <persName type="sort" xml:lang="de">keller, lienhard</persName>
+        <birth when="1549-06-30"/>
+      </person>
+      <person xml:id="stadtasg-actors-1369">
+        <persName type="full" xml:lang="de">Zimmermann, Ludwig (1549–)</persName>
+        <persName type="main" xml:lang="de">Zimmermann, Ludwig</persName>
+        <persName type="sort" xml:lang="de">zimmermann, ludwig</persName>
+        <persName type="alternative" xml:lang="de">Zimberman</persName>
+        <birth when="1549-06-30"/>
+      </person>
+      <person xml:id="stadtasg-actors-1370">
+        <persName type="full" xml:lang="de">Gretler, Jodokus (1549–)</persName>
+        <persName type="main" xml:lang="de">Gretler, Jodokus</persName>
+        <persName type="sort" xml:lang="de">gretler, jodokus</persName>
+        <persName type="alternative" xml:lang="de">Joß</persName>
+        <birth when="1549-09-25"/>
+        <note type="description" xml:lang="de">
+          <p>Bürger in Kempten (1549), Vetter von <ref target="/actors/1371">Georg Kobler</ref></p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1371">
+        <persName type="full" xml:lang="de">Kobler, Georg (1549–)</persName>
+        <persName type="main" xml:lang="de">Kobler, Georg</persName>
+        <persName type="sort" xml:lang="de">kobler, georg</persName>
+        <birth when="1549-09-25"/>
+        <note type="description" xml:lang="de">
+          <p>Bürger in St.Gallen, verstorben (1549), Vetter von <ref target="/actors/1370">Jodokus Gretler</ref></p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1372">
+        <persName type="full" xml:lang="de">Guldin, Melchior (1549–)</persName>
+        <persName type="main" xml:lang="de">Guldin, Melchior</persName>
+        <persName type="sort" xml:lang="de">guldin, melchior</persName>
+        <persName type="alternative" xml:lang="de">Mölcher Guldi</persName>
+        <birth when="1549-10-17"/>
+        <note type="description" xml:lang="de">
+          <p>Zuname: Glaser aus St.Gallen, Glasmaler</p>
         </note>
       </person>
     </listPerson>

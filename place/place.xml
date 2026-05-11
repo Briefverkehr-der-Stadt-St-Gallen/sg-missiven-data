@@ -18,7 +18,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2026-04-28 12:57:47 aus </p>
+        <p>Datenbankexport vom 2026-05-11 10:47:52 aus </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
@@ -66,7 +66,7 @@
       </classDecl>
     </encodingDesc>
     <revisionDesc>
-      <change when="2026-04-28T12:57:47+02:00">teiHeader was automatically produced from the database 2026-04-28T12:57:47+02:00</change>
+      <change when="2026-05-11T10:47:52+02:00">teiHeader was automatically produced from the database 2026-05-11T10:47:52+02:00</change>
     </revisionDesc>
   </teiHeader>
   <standOff>
@@ -13539,6 +13539,92 @@
           </bibl>
           <bibl>
             <ptr type="ortsnamen" target="https://search.ortsnamen.ch/de/record/3006258"/>
+          </bibl>
+        </listBibl>
+      </place>
+      <place type="P" xml:id="stadtasg-places-477">
+        <placeName type="main" xml:lang="de">Westminster</placeName>
+        <placeName type="full" xml:lang="de">Westminster / London</placeName>
+        <placeName type="sort" xml:lang="de">westminster</placeName>
+        <placeName type="alternative" xml:lang="de">Westmonasterium</placeName>
+        <location>
+          <geo>51.4975 -0.1357</geo>
+          <settlement xml:lang="de">London</settlement>
+          <country xml:lang="de">Vereinigtes Königreich Grossbritannien und Nordirland</country>
+          <country xml:lang="en">United Kingdom</country>
+        </location>
+        <idno type="stadtasg-places-id">477</idno>
+        <listBibl>
+          <bibl>
+            <ptr type="geonames" target="https://www.geonames.org/2634341"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Westminster_(London)"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q189960"/>
+          </bibl>
+          <bibl>
+            <ptr type="gnd" target="https://d-nb.info/gnd/1086778898"/>
+          </bibl>
+          <bibl>
+            <ptr type="lcnaf" target="https://id.loc.gov/authorities/n80153126"/>
+          </bibl>
+          <bibl>
+            <ptr type="viaf" target="https://viaf.org/viaf/139492016"/>
+          </bibl>
+        </listBibl>
+        <note type="description" xml:lang="de">
+          <p>königlicher Palast und Regierungssitz der englischen Krone</p>
+        </note>
+      </place>
+      <place type="A" xml:id="stadtasg-places-478">
+        <placeName type="main" xml:lang="de">Irland</placeName>
+        <placeName type="full" xml:lang="de">Irland</placeName>
+        <placeName type="sort" xml:lang="de">irland</placeName>
+        <placeName type="alternative" xml:lang="de">Hibernia</placeName>
+        <location>
+          <geo>53 -8</geo>
+          <country xml:lang="de">Irland</country>
+          <country xml:lang="en">Ireland</country>
+        </location>
+        <idno type="stadtasg-places-id">478</idno>
+        <listBibl>
+          <bibl>
+            <ptr type="geonames" target="https://www.geonames.org/2963597"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q27"/>
+          </bibl>
+          <bibl>
+            <ptr type="gnd" target="https://d-nb.info/gnd/4027667-3"/>
+          </bibl>
+          <bibl>
+            <ptr type="idref" target="https://www.idref.fr/026389452"/>
+          </bibl>
+          <bibl>
+            <ptr type="catholic-encyclopedia" target="https://www.newadvent.org/cathen/08098b.htm"/>
+          </bibl>
+          <bibl>
+            <ptr type="mcclintock-and-strong-biblical-cyclopedia" target="https://www.biblicalcyclopedia.com/I/ireland.html"/>
+          </bibl>
+          <bibl>
+            <ptr type="lcnaf" target="https://id.loc.gov/authorities/n79063445"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Irland"/>
+          </bibl>
+          <bibl>
+            <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/003357"/>
+          </bibl>
+          <bibl>
+            <ptr type="bnf" target="https://catalogue.bnf.fr/ark:/12148/cb11864622v"/>
+          </bibl>
+          <bibl>
+            <ptr type="encyclopaedia-britannica-online" target="https://www.britannica.com/place/Ireland"/>
+          </bibl>
+          <bibl>
+            <ptr type="viaf" target="https://viaf.org/viaf/158208597"/>
           </bibl>
         </listBibl>
       </place>
