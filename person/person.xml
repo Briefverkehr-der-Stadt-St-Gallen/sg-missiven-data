@@ -18,12 +18,12 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <p>Datenbankexport vom 2026-05-11 11:53:29 aus </p>
+        <p>Datenbankexport vom 2026-05-18 14:00:53 aus </p>
       </sourceDesc>
     </fileDesc>
     <profileDesc/>
     <revisionDesc>
-      <change when="2026-05-11T11:53:29+02:00">teiHeader was automatically produced from the database 2026-05-11T11:53:29+02:00</change>
+      <change when="2026-05-18T14:00:53+02:00">teiHeader was automatically produced from the database 2026-05-18T14:00:53+02:00</change>
     </revisionDesc>
   </teiHeader>
   <standOff>
@@ -8354,9 +8354,10 @@
         <persName type="main" xml:lang="de">Valois, Franz I.</persName>
         <persName type="sort" xml:lang="de">valois, franz i.</persName>
         <persName type="alternative" xml:lang="de">Franz Valois</persName>
+        <persName type="alternative" xml:lang="de">François I</persName>
         <birth when="1540-04-20"/>
         <note type="description" xml:lang="de">
-          <p>König von Frankreich ab 1515</p>
+          <p>König von Frankreich ab 1515 bis 1547</p>
         </note>
         <listBibl>
           <bibl>
@@ -9182,9 +9183,10 @@
         </note>
       </person>
       <person xml:id="stadtasg-actors-625">
-        <persName type="full" xml:lang="de">Muntprat (von Spiegelberg), Hans (1456–)</persName>
-        <persName type="main" xml:lang="de">Muntprat (von Spiegelberg), Hans</persName>
-        <persName type="sort" xml:lang="de">muntprat (von spiegelberg), hans</persName>
+        <persName type="full" xml:lang="de">Muntprat, Hans (1456–)</persName>
+        <persName type="main" xml:lang="de">Muntprat, Hans</persName>
+        <persName type="sort" xml:lang="de">muntprat, hans</persName>
+        <persName type="alternative" xml:lang="de">Muntbrat</persName>
         <birth when="1456-10-27"/>
         <note type="description" xml:lang="de">
           <p>Zuname: der Jüngere</p>
@@ -10558,9 +10560,10 @@
         <persName type="full" xml:lang="de">Valois, Heinrich II. (1551–)</persName>
         <persName type="main" xml:lang="de">Valois, Heinrich II.</persName>
         <persName type="sort" xml:lang="de">valois, heinrich ii.</persName>
+        <persName type="alternative" xml:lang="de">Henri II.</persName>
         <birth when="1551-09-26"/>
         <note type="description" xml:lang="de">
-          <p>König von Frankreich (1547–1559)</p>
+          <p>König von Frankreich (1547–1559), Lebensdaten: 1519-1559</p>
         </note>
         <listBibl>
           <bibl>
@@ -10845,9 +10848,10 @@
         <persName type="full" xml:lang="de">Valois, Heinrich III. (1574–)</persName>
         <persName type="main" xml:lang="de">Valois, Heinrich III.</persName>
         <persName type="sort" xml:lang="de">valois, heinrich iii.</persName>
+        <persName type="alternative" xml:lang="de">Henri III.</persName>
         <birth when="1574-09-27"/>
         <note type="description" xml:lang="de">
-          <p>König von Frankreich (1574-1589)</p>
+          <p>König von Frankreich (1574-1589), Lebensdaten: 1551-1589</p>
         </note>
         <listBibl>
           <bibl>
@@ -18184,6 +18188,9 @@
         <persName type="sort" xml:lang="de">domeisen, italhans</persName>
         <persName type="alternative" xml:lang="de">Ytelhanns Thumysen</persName>
         <birth when="1547-04-01"/>
+        <note type="description" xml:lang="de">
+          <p>Vogt in Kyburg (1550)</p>
+        </note>
         <listBibl>
           <bibl>
             <ptr type="stammler-genealogie" target="https://stammler-genealogie.ch/getperson.php?personID=I60746&amp;tree=StammlerBaum"/>
@@ -19006,14 +19013,19 @@
         </note>
       </person>
       <person xml:id="stadtasg-actors-1353">
-        <persName type="full" xml:lang="de">Muntprat, Johann (1549–)</persName>
-        <persName type="main" xml:lang="de">Muntprat, Johann</persName>
-        <persName type="sort" xml:lang="de">muntprat, johann</persName>
+        <persName type="full" xml:lang="de">Muntprat von Spiegelberg, Johann (1549–)</persName>
+        <persName type="main" xml:lang="de">Muntprat von Spiegelberg, Johann</persName>
+        <persName type="sort" xml:lang="de">muntprat von spiegelberg, johann</persName>
         <persName type="alternative" xml:lang="de">Hans</persName>
         <birth when="1549-03-06"/>
         <note type="description" xml:lang="de">
-          <p>Wohn/Herkunftsort: Konstanz, königlicher Verwalter der Konstanzer Hauptmannschaft (1549)</p>
+          <p>Wohn/Herkunftsort: Konstanz, königlicher Verwalter der Konstanzer Hauptmannschaft (1549-1551)</p>
         </note>
+        <listBibl>
+          <bibl>
+            <ptr type="metagrid" target="https://api.metagrid.ch/concordance/LjxdInYBlFrJZhV3_zHP.json"/>
+          </bibl>
+        </listBibl>
       </person>
       <person xml:id="stadtasg-actors-1354">
         <persName type="full" xml:lang="de">Syber, Hans (1549–)</persName>
@@ -19313,6 +19325,152 @@
         <note type="description" xml:lang="de">
           <p>Zuname: Glaser aus St.Gallen, Glasmaler</p>
         </note>
+      </person>
+      <person xml:id="stadtasg-actors-1373">
+        <persName type="full" xml:lang="de">Metzler, Christoph (1549–)</persName>
+        <persName type="main" xml:lang="de">Metzler, Christoph</persName>
+        <persName type="sort" xml:lang="de">metzler, christoph</persName>
+        <persName type="alternative" xml:lang="de">von Andelberg</persName>
+        <birth when="1549-12-15"/>
+        <note type="description" xml:lang="de">
+          <p>Bischof von Konstanz und Herr der Reichenau (1549-1551)</p>
+        </note>
+        <listBibl>
+          <bibl>
+            <ptr type="gnd" target="https://d-nb.info/gnd/116958820"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikidata" target="https://www.wikidata.org/wiki/Q1085529"/>
+          </bibl>
+          <bibl>
+            <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/026335/"/>
+          </bibl>
+          <bibl>
+            <ptr type="ddb" target="https://www.deutsche-digitale-bibliothek.de/person/gnd/116958820"/>
+          </bibl>
+          <bibl>
+            <ptr type="deutsche-biographie" target="https://www.deutsche-biographie.de/116958820.html"/>
+          </bibl>
+          <bibl>
+            <ptr type="kalliope-verbund" target="https://kalliope-verbund.info/gnd/116958820"/>
+          </bibl>
+          <bibl>
+            <ptr type="viaf" target="http://viaf.org/viaf/13072174"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikipedia-de" target="https://de.wikipedia.org/wiki/Christoph_Metzler_(Bischof)"/>
+          </bibl>
+          <bibl>
+            <ptr type="wikipedia-en" target="https://en.wikipedia.org/wiki/Christoph%20Metzler%20(bishop)"/>
+          </bibl>
+          <bibl>
+            <ptr type="metagrid" target="https://api.metagrid.ch/concordance/6dr4GnYBUPOEfqBYE6vI.json"/>
+          </bibl>
+          <bibl>
+            <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per010545"/>
+          </bibl>
+          <bibl>
+            <ptr type="helveticat" target="https://www.helveticat.ch/discovery/search?query=lds50,contains,116958820&amp;vid=41SNL_51_INST:helveticat"/>
+          </bibl>
+          <bibl>
+            <ptr type="rag" target="https://resource.database.rag-online.org/ngLB7S678L74vahbfKka9JxC"/>
+          </bibl>
+          <bibl>
+            <ptr type="histhub" target="https://data.histhub.ch/person/11509109"/>
+          </bibl>
+        </listBibl>
+      </person>
+      <person xml:id="stadtasg-actors-1374">
+        <persName type="full" xml:lang="de">Blarer von Wartensee, Kaspar (1549–)</persName>
+        <persName type="main" xml:lang="de">Blarer von Wartensee, Kaspar</persName>
+        <persName type="sort" xml:lang="de">blarer von wartensee, kaspar</persName>
+        <birth when="1549-12-15"/>
+        <note type="description" xml:lang="de">
+          <p>Vogt in Arbon (1549)</p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1375">
+        <persName type="full" xml:lang="de">Krum, Jakob Christoph (1549–)</persName>
+        <persName type="main" xml:lang="de">Krum, Jakob Christoph</persName>
+        <persName type="sort" xml:lang="de">krum, jakob christoph</persName>
+        <persName type="alternative" xml:lang="de">Christof</persName>
+        <birth when="1549-12-15"/>
+        <note type="description" xml:lang="de">
+          <p>Spitalmeister in St.Gallen (1549), Vogt in Arbon (1535-40), Bürger von St.Gallen</p>
+        </note>
+        <listBibl>
+          <bibl>
+            <ptr type="metagrid" target="https://api.metagrid.ch/concordance/3HcoG3YBlFrJZhV3KsBw.json"/>
+          </bibl>
+          <bibl>
+            <ptr type="gnd" target="https://d-nb.info/gnd/1074354370"/>
+          </bibl>
+          <bibl>
+            <ptr type="hls-dhs-dss" target="https://hls-dhs-dss.ch/de/articles/021754/"/>
+          </bibl>
+          <bibl>
+            <ptr type="ssrq" target="https://www.ssrq-sds-fds.ch/persons-db-edit/?query=per030615"/>
+          </bibl>
+          <bibl>
+            <ptr type="viaf" target="http://viaf.org/viaf/316774477"/>
+          </bibl>
+          <bibl>
+            <ptr type="hfls" target="http://www.hfls.ch/humo-gen/family/1/F115493?main_person=I335948"/>
+          </bibl>
+          <bibl>
+            <ptr type="histhub" target="https://data.histhub.ch/person/11485763"/>
+          </bibl>
+        </listBibl>
+      </person>
+      <person xml:id="stadtasg-actors-1376">
+        <persName type="full" xml:lang="de">Wick, Hans (1550–)</persName>
+        <persName type="main" xml:lang="de">Wick, Hans</persName>
+        <persName type="sort" xml:lang="de">wick, hans</persName>
+        <birth when="1550-07-17"/>
+        <note type="description" xml:lang="de">
+          <p>Bürger von St. Gallen, verstorben (1550)</p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1377">
+        <persName type="full" xml:lang="de">Berle, Jakob (1551–)</persName>
+        <persName type="main" xml:lang="de">Berle, Jakob</persName>
+        <persName type="sort" xml:lang="de">berle, jakob</persName>
+        <persName type="alternative" xml:lang="de">Berli, Borle</persName>
+        <birth when="1551-01-23"/>
+        <note type="description" xml:lang="de">
+          <p>Weber, Bürger von St.Gallen (1551)</p>
+        </note>
+      </person>
+      <person xml:id="stadtasg-actors-1379">
+        <persName type="full" xml:lang="de">Bollweiler, Nikolaus von (1550–)</persName>
+        <persName type="main" xml:lang="de">Bollweiler, Nikolaus von</persName>
+        <persName type="sort" xml:lang="de">bollweiler, nikolaus von</persName>
+        <persName type="alternative" xml:lang="de">Niclaus freyherr zue Ballwylr</persName>
+        <persName type="alternative" xml:lang="de">Polweiler, Pollweil</persName>
+        <birth when="1550-08-07"/>
+        <note type="description" xml:lang="de">
+          <p>Freiherr, österreichischer Stadthauptmann in Konstanz seit 1548</p>
+        </note>
+        <listBibl>
+          <bibl>
+            <ptr type="metagrid" target="https://api.metagrid.ch/concordance/1xhUI3YBBhcBnYQerI12.json"/>
+          </bibl>
+          <bibl>
+            <ptr type="rag" target="https://resource.database.rag-online.org/ngUK8L577TM37jqCoT7jfSgL5UX"/>
+          </bibl>
+        </listBibl>
+      </person>
+      <person xml:id="stadtasg-actors-1380">
+        <persName type="full" xml:lang="de">Zollikofer, Ottilia (1550–)</persName>
+        <persName type="main" xml:lang="de">Zollikofer, Ottilia</persName>
+        <persName type="sort" xml:lang="de">zollikofer, ottilia</persName>
+        <birth when="1550-08-07"/>
+      </person>
+      <person xml:id="stadtasg-actors-1381">
+        <persName type="full" xml:lang="de">Blarer, Johann Jakob (1550–)</persName>
+        <persName type="main" xml:lang="de">Blarer, Johann Jakob</persName>
+        <persName type="sort" xml:lang="de">blarer, johann jakob</persName>
+        <birth when="1550-08-07"/>
       </person>
     </listPerson>
     <listOrg>
@@ -21065,6 +21223,7 @@
         <orgName type="main" xml:lang="de">13 Orte der Eidgenossenschaft (UR, SZ, UW, LU, ZH, GL, ZG, BE, SO, FR, BS, SH, AI/AR)</orgName>
         <orgName type="sort" xml:lang="de">13 orte der eidgenossenschaft (ur, sz, uw, lu, zh, gl, zg, be, so, fr, bs, sh, ai/ar)</orgName>
         <orgName type="alternative" xml:lang="de">Dreizehn Alte Orte</orgName>
+        <orgName type="alternative" xml:lang="de">Dreizehn Orte der Eidgenossenschaft</orgName>
         <event type="start" when="1539-08-29">
           <p/>
         </event>
@@ -21082,6 +21241,15 @@
             <ptr type="kalliope-verbund" target="https://kalliope-verbund.info/gnd/1085175626"/>
           </bibl>
         </listBibl>
+      </org>
+      <org xml:id="stadtasg-actors-1378">
+        <orgName type="full" xml:lang="de">Bürgermeister und Rat zu Freiburg im Breisgau (1551–)</orgName>
+        <orgName type="main" xml:lang="de">Bürgermeister und Rat zu Freiburg im Breisgau</orgName>
+        <orgName type="sort" xml:lang="de">buergermeister und rat zu freiburg im breisgau</orgName>
+        <orgName type="alternative" xml:lang="de">Freyburg im Preißgow</orgName>
+        <event type="start" when="1551-01-23">
+          <p/>
+        </event>
       </org>
     </listOrg>
   </standOff>

@@ -29,19 +29,19 @@ Januar: Fasten und Beten gegen das Unheil, Erbeben als Strafe Gottes
 
 Dezember: Gebrüder Rueger, ein Firmenkonkurs im 16. Jahrhundert
 [[PDF](resources/pdfs/Weidenmann_Gebrueder_Rueger_05-12-2025.pdf)]
-[[Missive Nr. 730:](https://missiven.stadtarchiv.ch//missiven/stasg_missiv_00730)]
+[[Missive Nr. 730](https://missiven.stadtarchiv.ch/missiven/stasg_missiv_00730)]
 
 November: Kornhandel mit Hindernissen
 [[PDF](resources/pdfs/Hagmann_Kornhandel_07-11-2025.pdf)]
-[[Missive Nr. 4061:](https://missiven.stadtarchiv.ch//missiven/stasg_missiv_04061)]
+[[Missive Nr. 4061](https://missiven.stadtarchiv.ch/missiven/stasg_missiv_04061)]
 
 Oktober: Von Stadt zu Stadt mit Empfehlungsschreiben: Schulmeister auf Jobsuche
 [[PDF](resources/pdfs/Maechler_Schulmeister_03-10-2025.pdf)]
-[[Schlagwort Schulmeister:](https://missiven.stadtarchiv.ch/schlagworte/stadtasg-keywords-8)]
+[[Schlagwort Schulmeister](https://missiven.stadtarchiv.ch/schlagworte/stadtasg-keywords-8)]
 
 September: Hieronymus Sailer, ein kosmopolitischer Grosskaufmann
 [[PDF](resources/pdfs/Weidenmann_Hieronymus_Sailer_05-09-2025.pdf)]
-[[Missiven von Sailer:](https://missiven.stadtarchiv.ch/namen/stadtasg-actors-751)]
+[[Missiven von Sailer](https://missiven.stadtarchiv.ch/namen/stadtasg-actors-751)]
 
 August: Wie die Feuerpolizei gegen Brandstiftung vorging
 [[PDF](resources/pdfs/Schoeb_Feuerpolizei_Brandstiftung_01-08-2025.pdf)]
