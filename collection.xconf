@@ -36,6 +36,7 @@
                 <field name="type" expression="'Person'"/>
                 <field name="subtype" expression="'person'"/>
                 <facet dimension="type" expression="'Person'"/>
+                <facet dimension="subtype" expression="'person'"/>
             </text>    
             <text qname="tei:personGrp" index="no">
                 <field name="name" expression="tei:persName"/>
@@ -44,6 +45,7 @@
                 <field name="type" expression="'Person'"/>
                 <field name="subtype" expression="'family'"/>
                 <facet dimension="type" expression="'Person'"/>
+                <facet dimension="subtype" expression="'family'"/>
             </text>    
             <text qname="tei:org" index="no">
                 <field name="name" expression="tei:orgName"/>
@@ -52,6 +54,7 @@
                 <field name="type" expression="'Person'"/>
                 <field name="subtype" expression="'organisation'"/>
                 <facet dimension="type" expression="'Person'"/>
+                <facet dimension="subtype" expression="'organisation'"/>
             </text>   
             <text qname="tei:place" index="no">
                 <field name="name" expression="tei:placeName"/>
