@@ -7,7 +7,7 @@
                 <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
 <date>2025</date>
             </publicationStmt>
-            <notesStmt><note><p>Beilage zur Missive Nr. <ref target="stasg_missiv_04056.xml">4056</ref>. Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+            <notesStmt><note><p>Beilage zur Missive Nr. <ref target="stasg_missiv_04056">4056</ref>. Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
                 <msDesc type="supplement">                    <msIdentifier>
                         <idno>StadtASG Missive_4056_16379/16386</idno>
                     </msIdentifier>

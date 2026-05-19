@@ -7,7 +7,7 @@
                 <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
 <date>2025</date>
             </publicationStmt>
-            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00459.xml">459</ref> und das Appenzeller Urkundenbuch I,1253.</p></note></notesStmt>
+            <notesStmt><note><p>Zur Sache siehe auch die Missive Nr. <ref target="stasg_missiv_00459">459</ref> und das Appenzeller Urkundenbuch I,1253.</p></note></notesStmt>
                         <sourceDesc>
                 <msDesc type="missiv">                    <msIdentifier>
                         <idno>StadtASG Missive_471_961/962</idno>

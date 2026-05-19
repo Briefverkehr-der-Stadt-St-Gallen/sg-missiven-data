@@ -7,7 +7,7 @@
                 <publisher>Stadtarchiv und Vadianische Sammlung der Ortsbürgergemeinde St. Gallen</publisher>
 <date>2026</date>
             </publicationStmt>
-            <notesStmt><note><p>Beilage zur Missive Nr. <ref target="stasg_missiv_00628.xml">628</ref>. Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
+            <notesStmt><note><p>Beilage zur Missive Nr. <ref target="stasg_missiv_00628">628</ref>. Die Transkription wurde zurückgestellt.</p></note></notesStmt>            <sourceDesc>
                 <msDesc type="supplement">                    <msIdentifier>
                         <idno>StadtASG Missive_628_1399/1408</idno>
                     </msIdentifier>
