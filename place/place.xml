@@ -23,6 +23,10 @@
     </fileDesc>
     <profileDesc/>
     <encodingDesc>
+      <editorialDecl>
+        <p>Note on references: <ref> elements within this register use <code>@target</code> attributes pointing to URL paths (e.g. <code>/actors/891</code>, <code>/places/8</code>, <code>/keywords/23</code>) rather than the actual <code>xml:id</code> values, which follow the convention <code>stadtasg-[type]-[ID]</code> (e.g. <code>stadtasg-actors-891</code>, <code>stadtasg-places-8</code>). To resolve a pointer outside the project context, combine the numeric part of the <code>@target</code> with the matching prefix.</p>
+        <p>Example: <code>&lt;ref target="/places/289"&gt;Schloss Zeil&lt;/ref&gt;</code> refers to the entry with <code>xml:id="stadtasg-places-289"</code>.</p>
+      </editorialDecl>
       <classDecl>
         <taxonomy xml:id="placeTypes">
           <desc>Geonames Feature Class</desc>
